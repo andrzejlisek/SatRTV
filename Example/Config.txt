@@ -1,0 +1,57 @@
+Sat0Name=Eutelsat 7A/7B
+Sat0KingOfSat=https://en.kingofsat.net/pos-7E.php
+Sat0LyngSat=https://www.lyngsat.com/Eutelsat-7A-7B.html
+Sat0FlySat=https://www.flysat.com/e7.php
+Sat0Selected=1
+
+Sat0FlySatRowSpan0Row=192
+Sat0FlySatRowSpan0Val=-5
+
+Sat1Name=Eutelsat 9B
+Sat1KingOfSat=https://en.kingofsat.net/pos-9E.php
+Sat1LyngSat=https://www.lyngsat.com/Eutelsat-9B-and-Ka-Sat-9A.html
+Sat1FlySat=https://www.flysat.com/e9b.php
+Sat1FlySatXX=https://www.flysat.com/ekasat9a.php
+Sat1Selected=1
+
+Sat2Name=Eutelsat 10A
+Sat2KingOfSat=https://en.kingofsat.net/pos-10E.php
+Sat2LyngSat=https://www.lyngsat.com/Eutelsat-10A.html
+Sat2FlySat=https://www.flysat.com/e10a.php
+Sat2Selected=1
+
+Sat3Name=Hot Bird 13B/13C/13E
+Sat3KingOfSat=https://en.kingofsat.net/pos-13E.php
+Sat3LyngSat=https://www.lyngsat.com/Hotbird-13B-13C-13E.html
+Sat3FlySat=https://www.flysat.com/hotbird.php
+Sat3Selected=1
+
+Sat4Name=Eutelsat 16A
+Sat4KingOfSat=https://en.kingofsat.net/pos-16E.php
+Sat4LyngSat=https://www.lyngsat.com/Eutelsat-16A.html
+Sat4FlySat=https://www.flysat.com/e16a.php
+Sat4Selected=1
+
+Sat5Name=Astra 1KR/1L/1M/1N
+Sat5KingOfSat=https://en.kingofsat.net/pos-19.2E.php
+Sat5LyngSat=https://www.lyngsat.com/Astra-1KR-1L-1M-1N.html
+Sat5FlySat=https://www.flysat.com/astra19.php
+Sat5Selected=1
+
+Sat6Name=Astra 3B
+Sat6KingOfSat=https://en.kingofsat.net/pos-23.5E.php
+Sat6LyngSat=https://www.lyngsat.com/Astra-3B.html
+Sat6FlySat=https://www.flysat.com/astra3b.php
+Sat6Selected=1
+
+Sat6FlySatRowSpan0Row=210
+Sat6FlySatRowSpan0Val=1
+
+Sat7Name=Astra 2E/2F/2G
+Sat7KingOfSat=https://en.kingofsat.net/pos-28.2E.php
+Sat7LyngSat=https://www.lyngsat.com/Astra-2E-2F-2G.html
+Sat7FlySat=https://www.flysat.com/astra28.php
+Sat7Selected=1
+
+Sat7FlySatRowSpan0Row=452
+Sat7FlySatRowSpan0Val=-1

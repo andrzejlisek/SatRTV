@@ -1,0 +1,8 @@
+F:\__ToBackup\Telewizja\SatRTV\SatRTV\bin\Release\SatRTV.exe.config
+F:\__ToBackup\Telewizja\SatRTV\SatRTV\bin\Release\SatRTV.exe
+F:\__ToBackup\Telewizja\SatRTV\SatRTV\bin\Release\SatRTV.pdb
+F:\__ToBackup\Telewizja\SatRTV\SatRTV\bin\Release\HtmlAgilityPack.dll
+F:\__ToBackup\Telewizja\SatRTV\SatRTV\bin\Release\HtmlAgilityPack.pdb
+F:\__ToBackup\Telewizja\SatRTV\SatRTV\bin\Release\HtmlAgilityPack.xml
+F:\__ToBackup\Telewizja\SatRTV\SatRTV\obj\Release\SatRTV.exe
+F:\__ToBackup\Telewizja\SatRTV\SatRTV\obj\Release\SatRTV.pdb
