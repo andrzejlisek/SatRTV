@@ -24,7 +24,9 @@ namespace SatRTV
 
             FileStream FS2 = new FileStream(ChanFileName(I), FileMode.CreateNew, FileAccess.Write);
             StreamWriter FS2W = new StreamWriter(FS2);
-            FS2W.WriteLine("Freq\tPol\tSR\tType\tName\tFTA\tEncryption\tSID\tVPID\tAPID Lang\tRow");
+            FS2W.WriteLine("Freq\tPol\tSR\tBeam\tType\tName\tFTA\tEncryption\tSID\tVPID\tAPID Lang\tRow");
+
+            BeamList.Clear();
 
             HtmlAgilityPack.HtmlDocument HTMLDoc = new HtmlAgilityPack.HtmlDocument();
             FileStream HFS = new FileStream(DataFileName(I), FileMode.Open, FileAccess.Read);
@@ -101,6 +103,7 @@ namespace SatRTV
             FS1.Close();
             FS2W.Close();
             FS2.Close();
+            BeamListWriteFile(I);
         }
 
         bool ChannelFromFirstRow = true;
@@ -222,6 +225,8 @@ namespace SatRTV
                                     }
                                 }
                             }
+
+                            BeamListAdd(SatTrans[3]);
 
                             SatTransI++;
                             TDi++;
@@ -566,13 +571,13 @@ namespace SatRTV
 
                         if (SatChan != null)
                         {
-
                             FS2W.Write(SatTrans[0]);
                             FS2W.Write("\t");
                             FS2W.Write(SatTrans[1]);
                             FS2W.Write("\t");
                             FS2W.Write(SatTrans[7]);
-
+                            FS2W.Write("\t");
+                            FS2W.Write(SatTrans[3]);
                             for (int ii = 0; ii < 8; ii++)
                             {
                                 FS2W.Write("\t");

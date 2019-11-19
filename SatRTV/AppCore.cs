@@ -37,6 +37,16 @@ namespace SatRTV
         public bool Band2 = true;
         public bool Band3 = true;
 
+        public bool FTA = false;
+        public bool TransCh = false;
+        public bool ChanFilter1 = true;
+        public bool ChanFilter2 = true;
+        public bool ChanFilter3 = true;
+        public bool ChanFilter4 = true;
+
+        public string[] ListTransFields = null;
+        public string[] ListChanFields = null;
+
         public AppCore()
         {
             CoreKingOfSat = new AppCoreSat_1KingOfSat();
@@ -48,6 +58,20 @@ namespace SatRTV
             CoreLyngSat.TempDir = ApplicationDirectory() + "Data2" + System.IO.Path.DirectorySeparatorChar;
             CoreFlySat.TempDir = ApplicationDirectory() + "Data3" + System.IO.Path.DirectorySeparatorChar;
 
+            CF.ParamGet("SetBand1", ref Band1);
+            CF.ParamGet("SetBand2", ref Band2);
+            CF.ParamGet("SetBand3", ref Band3);
+
+            CF.ParamGet("SetTypeR", ref ChanFilter1);
+            CF.ParamGet("SetTypeTV", ref ChanFilter2);
+            CF.ParamGet("SetTypeIMG", ref ChanFilter3);
+            CF.ParamGet("SetTypeDATA", ref ChanFilter4);
+
+            CF.ParamGet("SetFTA", ref FTA);
+            CF.ParamGet("SetTransWithChan", ref TransCh);
+
+            ListTransFields = CF.ParamGetS("SetTransFields").Split('|');
+            ListChanFields = CF.ParamGetS("SetChanFields").Split('|');
 
             SatCount = 0;
             while (CF.ParamGetS("Sat" + SatCount.ToString() + "Name") != "")

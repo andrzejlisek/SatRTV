@@ -1,3 +1,16 @@
+SetBand1=1
+SetBand2=1
+SetBand3=1
+SetTypeR=1
+SetTypeTV=1
+SetTypeIMG=1
+SetTypeDATA=1
+SetFTA=0
+SetTransWithChan=0
+
+SetTransFields=Freq|Pol|SR|FEC|Txp|Beam|R|TV|IMG|DATA|TOTAL
+SetChanFields=Freq|Pol|Beam|SID|Type|Name|Lang|FTA
+
 Sat0Name=Eutelsat 7A/7B
 Sat0KingOfSat=https://en.kingofsat.net/pos-7E.php
 Sat0LyngSat=https://www.lyngsat.com/Eutelsat-7A-7B.html

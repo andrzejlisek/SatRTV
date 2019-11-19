@@ -11,10 +11,7 @@ namespace SatRTV
 {
     class AppCoreSat
     {
-        private bool FreqRound = true;
-
         private string PolOrder = "HVRL";
-
 
         public static int ToInt(string S)
         {
@@ -47,6 +44,11 @@ namespace SatRTV
         public string ChanFileName(int N)
         {
             return TempDir + "ChanData" + N.ToString() + ".txt";
+        }
+
+        public string BeamFileName(int N)
+        {
+            return TempDir + "Beam" + N.ToString() + ".txt";
         }
 
         public string TransListFileName(int N)
@@ -130,6 +132,17 @@ namespace SatRTV
             return X.Replace("\t", " ").Replace("\r\n", " ").Replace("\r", " ").Replace("\n", " ").Replace("&nbsp;", " ").Trim();
         }
 
+
+        public void SetListFields(string[] FieldsT, string[] FieldsC)
+        {
+            ListTransFields = FieldsT;
+            ListChanFields = FieldsC;
+        }
+
+        public string[] ListTransFields = null;
+        public string[] ListChanFields = null;
+
+
         /// <summary>
         /// Create ordered list of transponders and channels based on parsed data
         /// </summary>
@@ -141,6 +154,20 @@ namespace SatRTV
         /// <param name="Band3"></param>
         public void CreateList(int I, bool FTA, bool TransCh, string TypeFilter, bool Band1, bool Band2, bool Band3)
         {
+            // Load beam list
+            BeamList.Clear();
+            FileStream BLS = new FileStream(BeamFileName(I), FileMode.Open, FileAccess.Read);
+            StreamReader BLR = new StreamReader(BLS);
+            string BLX = BLR.ReadLine();
+            while (BLX != null)
+            {
+                BeamListAdd(BLX);
+                BLX = BLR.ReadLine();
+            }
+            BLR.Close();
+            BLS.Close();
+            BeamList.Sort();
+
             // Open parsed channel file
             List<object[]> ChanList = new List<object[]>();
             FileStream FS1 = new FileStream(ChanFileName(I), FileMode.Open, FileAccess.Read);
@@ -155,67 +182,73 @@ namespace SatRTV
             int IdxLang = 0;
             if (this is AppCoreSat_1KingOfSat)
             {
-                IdxSID = 9;
-                IdxFTA = 16;
-                IdxLang = 11;
+                IdxSID = 10;
+                IdxFTA = 17;
+                IdxLang = 12;
             }
             if (this is AppCoreSat_2LyngSat)
             {
-                IdxSID = 7;
-                IdxFTA = 5;
-                IdxLang = 9;
+                IdxSID = 8;
+                IdxFTA = 6;
+                IdxLang = 10;
             }
             if (this is AppCoreSat_3FlySat)
             {
-                IdxSID = 8;
-                IdxFTA = 5;
-                IdxLang = 7;
+                IdxSID = 9;
+                IdxFTA = 6;
+                IdxLang = 8;
             }
 
             // Load file into list
             string Buf = SR1.ReadLine();
             while (Buf != null)
             {
-                object[] Tab = new object[8];
+                object[] Tab = new object[11];
                 string[] Raw = Buf.Split('\t');
 
                 // Frequency
-                if (FreqRound)
-                {
-                    Tab[0] = (int)Math.Round((AppCore.String2Double(Raw[0])));
-                }
-                else
-                {
-                    Tab[0] = (int)Math.Round((AppCore.String2Double(Raw[0]) * 100));
-                }
+                Tab[0] = (int)Math.Round((AppCore.String2Double(Raw[0])));
 
                 // Polarization
                 Tab[1] = Raw[1].ToUpperInvariant();
+
+                // Beam
+                Tab[2] = Raw[3];
 
                 // SID
                 if ((Raw[IdxSID] == "") || (Raw[IdxSID] == "-") || (Raw[IdxSID] == "NO-SID"))
                 {
                     Raw[IdxSID] = "0";
                 }
-                Tab[2] = int.Parse(Raw[IdxSID]);
+                Tab[3] = int.Parse(Raw[IdxSID]);
 
                 // Type
-                Tab[3] = Raw[3];
-
-                // Name
                 Tab[4] = Raw[4];
 
+                // Name
+                Tab[5] = Raw[5];
+
                 // Lang
-                Tab[5] = Raw[IdxLang];
+                Tab[6] = Raw[IdxLang];
 
                 // FTA
-                Tab[6] = Raw[IdxFTA];
+                Tab[7] = Raw[IdxFTA];
 
                 // SortKey
-                Tab[7] = GetSortKey((int)Tab[0], (string)Tab[1], (int)Tab[2]);
+                Tab[10] = GetSortKey((int)Tab[0], (string)Tab[1], (string)Tab[2], (int)Tab[3]);
 
-                bool Good = TypeFilter.Contains("|" + Tab[3] + "|");
+                bool Good = TypeFilter.Contains("|" + Tab[4] + "|");
                 if (FTA && (((string)Tab[6]) != "Yes"))
+                {
+                    Good = false;
+                }
+
+                if (!IsFreqAllowed((int)Tab[0], Band1, Band2, Band3))
+                {
+                    Good = false;
+                }
+
+                if (!BeamList.Contains((string)Tab[2]))
                 {
                     Good = false;
                 }
@@ -232,13 +265,13 @@ namespace SatRTV
             SR1.Close();
             FS1.Close();
 
-            // Sort channel list by frequency, polarization and SID
+            // Sort channel list by frequency, polarization, beam and SID
             int ChanListCount = ChanList.Count;
             for (int i = 0; i < ChanListCount; i++)
             {
                 for (int ii = 0; ii < ChanListCount; ii++)
                 {
-                    if (((long)ChanList[ii][7]) > ((long)ChanList[i][7]))
+                    if (((long)ChanList[ii][10]) > ((long)ChanList[i][10]))
                     {
                         object[] Temp = ChanList[ii];
                         ChanList[ii] = ChanList[i];
@@ -254,92 +287,95 @@ namespace SatRTV
             StreamWriter SR2 = new StreamWriter(FS2);
 
             // Write header
-            SR2.WriteLine("Freq\tPol\tSID\tType\tName\tLang\tFTA");
+            for (int i = 0; i < ListChanFields.Length; i++)
+            {
+                if (i > 0)
+                {
+                    SR2.Write("\t");
+                }
+                SR2.Write(ListChanFields[i]);
+            }
+            SR2.WriteLine();
 
             // Write channel list
             for (int i = 0; i < ChanList.Count; i++)
             {
                 object[] Tab = ChanList[i];
                 double Freq = ((int)Tab[0]);
-                if (!FreqRound)
-                {
-                    Freq = Freq / 100.0;
-                }
 
-                if (IsFreqAllowed(Freq, Band1, Band2, Band3))
+                int FreqI = (int)Math.Round(Freq);
+                Tab[0] = FreqI.ToString();
+
+                Tab[3] = ((int)Tab[3]).ToString();
+
+                string LangX = (string)Tab[6];
+                string LangXX = "";
+                bool InLang = false;
+                for (int ii = 0; ii < LangX.Length; ii++)
                 {
-                    if (FreqRound)
+                    if (LangX[ii] == '[')
                     {
-                        int FreqI = (int)Math.Round(Freq);
-                        SR2.Write(FreqI.ToString());
-                        Tab[0] = FreqI;
+                        InLang = true;
+                        LangXX = LangXX + "[";
                     }
                     else
                     {
-                        SR2.Write(Freq.ToString("F2"));
-                    }
-                    SR2.Write("\t");
-                    SR2.Write((string)Tab[1]);
-                    SR2.Write("\t");
-                    SR2.Write(((int)Tab[2]).ToString());
-                    SR2.Write("\t");
-                    SR2.Write((string)Tab[3]);
-                    SR2.Write("\t");
-                    SR2.Write((string)Tab[4]);
-                    SR2.Write("\t");
-
-                    string LangX = (string)Tab[5];
-                    string LangXX = "";
-                    bool InLang = false;
-                    for (int ii = 0; ii < LangX.Length; ii++)
-                    {
-                        if (LangX[ii] == '[')
+                        if (LangX[ii] == ']')
                         {
-                            InLang = true;
-                            LangXX = LangXX + "[";
+                            InLang = false;
+                            LangXX = LangXX + "]";
                         }
                         else
                         {
-                            if (LangX[ii] == ']')
+                            if (InLang)
                             {
-                                InLang = false;
-                                LangXX = LangXX + "]";
-                            }
-                            else
-                            {
-                                if (InLang)
-                                {
-                                    LangXX = LangXX + LangX[ii].ToString();
-                                }
+                                LangXX = LangXX + LangX[ii].ToString();
                             }
                         }
                     }
-
-                    LangXX = LangXX.ToLowerInvariant().Replace("[---]", "").Replace("][", "[").Replace("]", "[");
-                    string[] LangXX_ = LangXX.Split('[');
-                    List<string> LangXX__ = new List<string>();
-                    for (int ii = 0; ii < LangXX_.Length; ii++)
-                    {
-                        if (!LangXX__.Contains(LangXX_[ii]))
-                        {
-                            if (LangXX_[ii] != "")
-                            {
-                                LangXX__.Add(LangXX_[ii]);
-                            }
-                        }
-                    }
-
-                    LangXX__.Sort();
-                    for (int ii = 0; ii < LangXX__.Count; ii++)
-                    {
-                        SR2.Write("[" + LangXX__[ii] + "]");
-                    }
-
-                    SR2.Write("\t");
-                    SR2.Write((string)Tab[6]);
-
-                    SR2.WriteLine();
                 }
+
+                LangXX = LangXX.ToLowerInvariant().Replace("[---]", "").Replace("][", "[").Replace("]", "[");
+                string[] LangXX_ = LangXX.Split('[');
+                List<string> LangXX__ = new List<string>();
+                for (int ii = 0; ii < LangXX_.Length; ii++)
+                {
+                    if (!LangXX__.Contains(LangXX_[ii]))
+                    {
+                        if (LangXX_[ii] != "")
+                        {
+                            LangXX__.Add(LangXX_[ii]);
+                        }
+                    }
+                }
+
+                LangXX__.Sort();
+                string LangXX___ = "";
+                for (int ii = 0; ii < LangXX__.Count; ii++)
+                {
+                    LangXX___ = LangXX___ + "[" + LangXX__[ii] + "]";
+                }
+                Tab[6] = LangXX___;
+
+                for (int ii = 0; ii < ListChanFields.Length; ii++)
+                {
+                    if (ii > 0)
+                    {
+                        SR2.Write("\t");
+                    }
+                    switch (ListChanFields[ii])
+                    {
+                        case "Freq": SR2.Write((string)Tab[0]); break;
+                        case "Pol": SR2.Write((string)Tab[1]); break;
+                        case "Beam": SR2.Write((string)Tab[2]); break;
+                        case "SID": SR2.Write((string)Tab[3]); break;
+                        case "Type": SR2.Write((string)Tab[4]); break;
+                        case "Name": SR2.Write((string)Tab[5]); break;
+                        case "Lang": SR2.Write((string)Tab[6]); break;
+                        case "FTA": SR2.Write((string)Tab[7]); break;
+                    }
+                }
+                SR2.WriteLine();
             }
 
             // Close channel list file
@@ -360,12 +396,14 @@ namespace SatRTV
             int IdxPol = 0;
             int IdxSR = 0;
             int IdxTxp = 0;
+            int IdxBeam = 0;
             if (this is AppCoreSat_1KingOfSat)
             {
                 IdxFreq = 1;
                 IdxPol = 2;
                 IdxSR = 7;
                 IdxTxp = 3;
+                IdxBeam = 4;
             }
             if (this is AppCoreSat_2LyngSat)
             {
@@ -373,6 +411,7 @@ namespace SatRTV
                 IdxPol = 1;
                 IdxSR = 7;
                 IdxTxp = 2;
+                IdxBeam = 3;
             }
             if (this is AppCoreSat_3FlySat)
             {
@@ -380,24 +419,18 @@ namespace SatRTV
                 IdxPol = 4;
                 IdxSR = 6;
                 IdxTxp = 0;
+                IdxBeam = 10;
             }
 
             // Load file into list
             Buf = SR1.ReadLine();
             while (Buf != null)
             {
-                object[] Tab = new object[6];
+                object[] Tab = new object[20];
                 string[] Raw = Buf.Split('\t');
 
                 // Frequency
-                if (FreqRound)
-                {
-                    Tab[0] = (int)Math.Round((AppCore.String2Double(Raw[IdxFreq])));
-                }
-                else
-                {
-                    Tab[0] = (int)Math.Round((AppCore.String2Double(Raw[IdxFreq]) * 100));
-                }
+                Tab[0] = (int)Math.Round((AppCore.String2Double(Raw[IdxFreq])));
                 if (((int)Tab[0]) < 0)
                 {
                     throw new Exception("Negative frequency [" + Tab[0].ToString() + "]");
@@ -412,14 +445,29 @@ namespace SatRTV
                 // Txp
                 Tab[4] = Raw[IdxTxp];
 
+                // Beam
+                Tab[5] = Raw[IdxBeam];
+
                 // Sort key
-                Tab[5] = GetSortKey((int)Tab[0], (string)Tab[1], 0);
+                Tab[6] = GetSortKey((int)Tab[0], (string)Tab[1], (string)Tab[5], 0);
 
                 bool Good = true;
+
+                if (!IsFreqAllowed((int)Tab[0], Band1, Band2, Band3))
+                {
+                    Good = false;
+                }
+
+                if (!BeamList.Contains((string)Tab[5]))
+                {
+                    Good = false;
+                }
+
                 if (Good)
                 {
                     TransList.Add(Tab);
                 }
+
 
                 Buf = SR1.ReadLine();
             }
@@ -428,13 +476,13 @@ namespace SatRTV
             SR1.Close();
             FS1.Close();
 
-            // Merge repeated transponders - the same frequency and the same polarization means the same transponder
+            // Merge repeated transponders - the same frequency, the same polarization and the same beam means the same transponder
             int TransListCount = TransList.Count;
             for (int i = 0; i < TransListCount; i++)
             {
                 for (int j = (i + 1); j < TransListCount; j++)
                 {
-                    if ((((int)TransList[i][0]) == ((int)TransList[j][0])) && (((string)TransList[i][1]) == ((string)TransList[j][1])))
+                    if ((((int)TransList[i][0]) == ((int)TransList[j][0])) && (((string)TransList[i][1]) == ((string)TransList[j][1])) && (((string)TransList[i][5]) == ((string)TransList[j][5])))
                     {
                         string SR_I = (string)TransList[i][2];
                         string SR_J = (string)TransList[j][2];
@@ -450,17 +498,20 @@ namespace SatRTV
                             }
                         }
 
-                        SR_I = (string)TransList[i][4];
-                        SR_J = (string)TransList[j][4];
-                        if (SR_J != "")
+                        for (int k = 4; k <= 4; k++)
                         {
-                            if ((SR_I != "") && (!("|" + SR_I + "|").Contains("|" + SR_J + "|")))
+                            SR_I = (string)TransList[i][k];
+                            SR_J = (string)TransList[j][k];
+                            if (SR_J != "")
                             {
-                                TransList[i][4] = SR_I + Separator + SR_J;
-                            }
-                            else
-                            {
-                                TransList[i][4] = SR_J;
+                                if ((SR_I != "") && (!("|" + SR_I + "|").Contains("|" + SR_J + "|")))
+                                {
+                                    TransList[i][k] = SR_I + Separator + SR_J;
+                                }
+                                else
+                                {
+                                    TransList[i][k] = SR_J;
+                                }
                             }
                         }
 
@@ -471,12 +522,21 @@ namespace SatRTV
                 }
             }
 
+            for (int i = (TransListCount - 1); i >= 0; i--)
+            {
+                if (((int)TransList[i][0]) < 0)
+                {
+                    TransList.RemoveAt(i);
+                    TransListCount--;
+                }
+            }
+
             // Sort transponder list by frequency and polarization
             for (int i = 0; i < TransListCount; i++)
             {
                 for (int ii = 0; ii < TransListCount; ii++)
                 {
-                    if (((long)TransList[ii][5]) > ((long)TransList[i][5]))
+                    if (((long)TransList[ii][6]) > ((long)TransList[i][6]))
                     {
                         object[] Temp = TransList[ii];
                         TransList[ii] = TransList[i];
@@ -492,7 +552,15 @@ namespace SatRTV
             SR2 = new StreamWriter(FS2);
 
             // Write header
-            SR2.WriteLine("Freq\tPol\tSR\tFEC\tTxp\tR\tTV\tIMG\tDATA");
+            for (int i = 0; i < ListTransFields.Length; i++)
+            {
+                if (i > 0)
+                {
+                    SR2.Write("\t");
+                }
+                SR2.Write(ListTransFields[i]);
+            }
+            SR2.WriteLine();
 
             // Write transponder list
             for (int i = 0; i < TransList.Count; i++)
@@ -501,125 +569,131 @@ namespace SatRTV
                 int Count_TV = 0;
                 int Count_IMG = 0;
                 int Count_DATA = 0;
+                int Count_TOTAL = 0;
                 object[] Tab = TransList[i];
                 double Freq = ((int)Tab[0]);
-                if (!FreqRound)
+
+                int FreqI = (int)Math.Round(Freq);
+                string FreqS = FreqI.ToString();
+
+                // Counting items by type
+                for (int ii = 0; ii < ChanList.Count; ii++)
                 {
-                    Freq = Freq / 100.0;
+                    if ((((string)ChanList[ii][0]) == FreqS) && (((string)ChanList[ii][1]) == ((string)Tab[1])) && (((string)ChanList[ii][2]) == ((string)Tab[5])))
+                    {
+                        string T = (string)ChanList[ii][4];
+                        switch (T)
+                        {
+                            case "R":
+                                Count_R++;
+                                break;
+                            case "TV":
+                                Count_TV++;
+                                break;
+                            case "IMG":
+                                Count_IMG++;
+                                break;
+                            case "DATA":
+                                Count_DATA++;
+                                break;
+                        }
+                        Count_TOTAL++;
+                    }
                 }
 
-                if (IsFreqAllowed(Freq, Band1, Band2, Band3))
+
+                if ((!TransCh) || (Count_TOTAL > 0))
                 {
-                    int FreqI = (int)Math.Round(Freq);
+                    Tab[0] = FreqI.ToString();
 
-                    // Counting items by type
-                    for (int ii = 0; ii < ChanList.Count; ii++)
+                    string[] FEC = ((string)Tab[2]).Split('|');
+                    List<string> FEC_1 = new List<string>();
+                    List<string> FEC_2 = new List<string>();
+                    string FEC_1_;
+                    string FEC_2_;
+                    for (int ii = 0; ii < FEC.Length; ii++)
                     {
-                        if ((((int)ChanList[ii][0]) == FreqI) && (((string)ChanList[ii][1]) == ((string)Tab[1])))
+                        FEC_1_ = "";
+                        FEC_2_ = "";
+                        if (FEC[ii].Contains(" "))
                         {
-                            string T = (string)ChanList[ii][3];
-                            switch (T)
-                            {
-                                case "R":
-                                    Count_R++;
-                                    break;
-                                case "TV":
-                                    Count_TV++;
-                                    break;
-                                case "IMG":
-                                    Count_IMG++;
-                                    break;
-                                case "DATA":
-                                    Count_DATA++;
-                                    break;
-                            }
-                        }
-                    }
-
-
-                    if ((!TransCh) || (Count_R > 0) || (Count_TV > 0) || (Count_IMG > 0) || (Count_DATA > 0))
-                    {
-                        if (FreqRound)
-                        {
-                            SR2.Write(FreqI.ToString());
+                            int TempI = FEC[ii].IndexOf(' ');
+                            FEC_1_ = FEC[ii].Substring(0, TempI);
+                            FEC_2_ = FEC[ii].Substring(TempI + 1);
                         }
                         else
                         {
-                            SR2.Write(Freq.ToString("F2"));
+                            FEC_1_ = FEC[ii];
                         }
-                        SR2.Write("\t");
-                        SR2.Write((string)Tab[1]);
-                        SR2.Write("\t");
-                        string[] FEC = ((string)Tab[2]).Split('|');
-                        List<string> FEC_1 = new List<string>();
-                        List<string> FEC_2 = new List<string>();
-                        string FEC_1_;
-                        string FEC_2_;
-                        for (int ii = 0; ii < FEC.Length; ii++)
+                        if (!FEC_1.Contains(FEC_1_))
                         {
-                            FEC_1_ = "";
-                            FEC_2_ = "";
-                            if (FEC[ii].Contains(" "))
+                            if (FEC_1_.Length > 0)
                             {
-                                int TempI = FEC[ii].IndexOf(' ');
-                                FEC_1_ = FEC[ii].Substring(0, TempI);
-                                FEC_2_ = FEC[ii].Substring(TempI + 1);
-                            }
-                            else
-                            {
-                                FEC_1_ = FEC[ii];
-                            }
-                            if (!FEC_1.Contains(FEC_1_))
-                            {
-                                if (FEC_1_.Length > 0)
-                                {
-                                    FEC_1.Add(FEC_1_);
-                                }
-                            }
-                            if (!FEC_2.Contains(FEC_2_))
-                            {
-                                if (FEC_2_.Length > 0)
-                                {
-                                    FEC_2.Add(FEC_2_);
-                                }
+                                FEC_1.Add(FEC_1_);
                             }
                         }
-
-                        FEC_1.Sort();
-                        for (int ii = 0; ii < FEC_1.Count; ii++)
+                        if (!FEC_2.Contains(FEC_2_))
                         {
-                            if (ii > 0)
+                            if (FEC_2_.Length > 0)
                             {
-                                SR2.Write(Separator);
+                                FEC_2.Add(FEC_2_);
                             }
-                            SR2.Write(FEC_1[ii]);
                         }
-                        SR2.Write("\t");
-
-                        FEC_2.Sort();
-                        for (int ii = 0; ii < FEC_2.Count; ii++)
-                        {
-                            if (ii > 0)
-                            {
-                                SR2.Write(Separator);
-                            }
-                            SR2.Write(FEC_2[ii]);
-                        }
-
-                        SR2.Write("\t");
-                        SR2.Write((string)Tab[4]);
-
-                        SR2.Write("\t");
-                        SR2.Write(Count_R.ToString());
-                        SR2.Write("\t");
-                        SR2.Write(Count_TV.ToString());
-                        SR2.Write("\t");
-                        SR2.Write(Count_IMG.ToString());
-                        SR2.Write("\t");
-                        SR2.Write(Count_DATA.ToString());
-
-                        SR2.WriteLine();
                     }
+
+                    FEC_1.Sort();
+                    FEC_1_ = "";
+                    for (int ii = 0; ii < FEC_1.Count; ii++)
+                    {
+                        if (ii > 0)
+                        {
+                            FEC_1_ = FEC_1_ + Separator;
+                        }
+                        FEC_1_ = FEC_1_ + FEC_1[ii];
+                    }
+                    Tab[2] = FEC_1_;
+
+                    FEC_2.Sort();
+                    FEC_2_ = "";
+                    for (int ii = 0; ii < FEC_2.Count; ii++)
+                    {
+                        if (ii > 0)
+                        {
+                            FEC_2_ = FEC_2_ + Separator;
+                        }
+                        FEC_2_ = FEC_2_ + FEC_2[ii];
+                    }
+                    Tab[3] = FEC_2_;
+
+                    // R|TV|IMG|DATA|TOTAL
+                    Tab[11] = Count_R.ToString();
+                    Tab[12] = Count_TV.ToString();
+                    Tab[13] = Count_IMG.ToString();
+                    Tab[14] = Count_DATA.ToString();
+                    Tab[15] = Count_TOTAL.ToString();
+
+                    for (int ii = 0; ii < ListTransFields.Length; ii++)
+                    {
+                        if (ii > 0)
+                        {
+                            SR2.Write("\t");
+                        }
+                        switch (ListTransFields[ii])
+                        {
+                            case "Freq": SR2.Write((string)Tab[0]); break;
+                            case "Pol": SR2.Write((string)Tab[1]); break;
+                            case "SR": SR2.Write((string)Tab[2]); break;
+                            case "FEC": SR2.Write((string)Tab[3]); break;
+                            case "Txp": SR2.Write((string)Tab[4]); break;
+                            case "Beam": SR2.Write((string)Tab[5]); break;
+                            case "R": SR2.Write((string)Tab[11]); break;
+                            case "TV": SR2.Write((string)Tab[12]); break;
+                            case "IMG": SR2.Write((string)Tab[13]); break;
+                            case "DATA": SR2.Write((string)Tab[14]); break;
+                            case "TOTAL": SR2.Write((string)Tab[15]); break;
+                        }
+                    }
+                    SR2.WriteLine();
                 }
             }
 
@@ -834,17 +908,19 @@ namespace SatRTV
         /// </summary>
         /// <param name="Freq"></param>
         /// <param name="Pol"></param>
+        /// <param name="Beam"></param>
         /// <param name="SID"></param>
         /// <returns></returns>
-        long GetSortKey(int Freq, string Pol, int SID)
+        long GetSortKey(int Freq, string Pol, string Beam, int SID)
         {
             long Freq_ = Freq;
             long SID_ = SID;
-            Freq_ = Freq_ * 10000000;
-            if (SID_ >= 1000000)
+            Freq_ = Freq_ * 1000000000L;
+            if (SID_ >= 1000000L)
             {
                 throw new Exception("Unsupported SID [" + SID.ToString() + "]");
             }
+            long Beam_ = BeamList.Contains(Beam) ? (BeamList.IndexOf(Beam) * 1000000L) : 0;
 
             Pol = Pol.ToUpperInvariant();
             if ((Pol.Length != 1) || (!PolOrder.Contains(Pol)))
@@ -855,7 +931,7 @@ namespace SatRTV
             {
                 if (PolOrder[(int)i] == Pol[0])
                 {
-                    return (Freq_) + (i * 1000000) + SID_;
+                    return (Freq_) + (i * 100000000L) + SID_;
                 }
             }
             throw new Exception("Unsupported polarization [" + Pol + "]");
@@ -1033,6 +1109,32 @@ namespace SatRTV
 
             // Save bitmap file
             Bmp.Save(FileName);
+        }
+
+
+        protected List<string> BeamList = new List<string>();
+
+
+        protected void BeamListAdd(string X)
+        {
+            if (!BeamList.Contains(X))
+            {
+                BeamList.Add(X);
+            }
+        }
+
+        protected void BeamListWriteFile(int I)
+        {
+            BeamList.Sort();
+            File.Delete(BeamFileName(I));
+            FileStream FS = new FileStream(BeamFileName(I), FileMode.CreateNew, FileAccess.Write);
+            StreamWriter FSW = new StreamWriter(FS);
+            for (int i = 0; i < BeamList.Count; i++)
+            {
+                FSW.WriteLine(BeamList[i]);
+            }
+            FSW.Close();
+            FS.Close();
         }
     }
 }

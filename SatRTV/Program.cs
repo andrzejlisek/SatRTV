@@ -23,12 +23,9 @@ namespace SatRTV
             AppCoreSat_[1] = Core.CoreKingOfSat;
             AppCoreSat_[2] = Core.CoreLyngSat;
             AppCoreSat_[3] = Core.CoreFlySat;
-            bool FTA = false;
-            bool TransCh = true;
-            bool ChanFilter1 = true;
-            bool ChanFilter2 = true;
-            bool ChanFilter3 = true;
-            bool ChanFilter4 = true;
+            AppCoreSat_[1].SetListFields(Core.ListTransFields, Core.ListChanFields);
+            AppCoreSat_[2].SetListFields(Core.ListTransFields, Core.ListChanFields);
+            AppCoreSat_[3].SetListFields(Core.ListTransFields, Core.ListChanFields);
 
             bool Work = true;
             while (Work)
@@ -56,7 +53,7 @@ namespace SatRTV
                 Console.WriteLine("Band 2 (10700MHz - 12750MHz) - " + (Core.Band2 ? "yes" : "no"));
                 Console.WriteLine("Band 3 (18200MHz - 22200MHz) - " + (Core.Band3 ? "yes" : "no"));
                 Console.WriteLine();
-                if (FTA)
+                if (Core.FTA)
                 {
                     Console.WriteLine("FTA channels");
                 }
@@ -64,7 +61,7 @@ namespace SatRTV
                 {
                     Console.WriteLine("All channels");
                 }
-                if (TransCh)
+                if (Core.TransCh)
                 {
                     Console.WriteLine("Transponders with channels");
                 }
@@ -74,10 +71,10 @@ namespace SatRTV
                 }
                 Console.Write("Channel type: ");
                 bool XC = false;
-                if (ChanFilter1) { Console.Write("R"); XC = true; }
-                if (ChanFilter2) { if (XC) { Console.Write(", "); XC = false; } Console.Write("TV"); XC = true; }
-                if (ChanFilter3) { if (XC) { Console.Write(", "); XC = false; } Console.Write("IMG"); XC = true; }
-                if (ChanFilter4) { if (XC) { Console.Write(", "); XC = false; } Console.Write("DATA"); }
+                if (Core.ChanFilter1) { Console.Write("R"); XC = true; }
+                if (Core.ChanFilter2) { if (XC) { Console.Write(", "); XC = false; } Console.Write("TV"); XC = true; }
+                if (Core.ChanFilter3) { if (XC) { Console.Write(", "); XC = false; } Console.Write("IMG"); XC = true; }
+                if (Core.ChanFilter4) { if (XC) { Console.Write(", "); XC = false; } Console.Write("DATA"); }
                 Console.WriteLine();
 
                 string Cmd = Console.ReadLine();
@@ -94,11 +91,11 @@ namespace SatRTV
                     switch (CmdX[0].ToUpperInvariant())
                     {
                         case "FTA":
-                            FTA = !FTA;
+                            Core.FTA = !Core.FTA;
                             GoodCmd = true;
                             break;
                         case "TRANSCH":
-                            TransCh = !TransCh;
+                            Core.TransCh = !Core.TransCh;
                             GoodCmd = true;
                             break;
                         case "EXIT":
@@ -140,10 +137,10 @@ namespace SatRTV
                             string ChT = CmdX[1].ToUpperInvariant();
                             switch (ChT)
                             {
-                                case "R": ChanFilter1 = !ChanFilter1; GoodCmd = true; break;
-                                case "TV": ChanFilter2 = !ChanFilter2; GoodCmd = true; break;
-                                case "IMG": ChanFilter3 = !ChanFilter3; GoodCmd = true; break;
-                                case "DATA": ChanFilter4 = !ChanFilter4; GoodCmd = true; break;
+                                case "R": Core.ChanFilter1 = !Core.ChanFilter1; GoodCmd = true; break;
+                                case "TV": Core.ChanFilter2 = !Core.ChanFilter2; GoodCmd = true; break;
+                                case "IMG": Core.ChanFilter3 = !Core.ChanFilter3; GoodCmd = true; break;
+                                case "DATA": Core.ChanFilter4 = !Core.ChanFilter4; GoodCmd = true; break;
                             }
                             break;
                         case "DOWNLOAD":
@@ -187,11 +184,11 @@ namespace SatRTV
                                     {
                                         Console.Write("Creating lists " + i.ToString() + "...");
                                         string ChanFilter = "|";
-                                        if (ChanFilter1) { ChanFilter += "R|"; }
-                                        if (ChanFilter2) { ChanFilter += "TV|"; }
-                                        if (ChanFilter3) { ChanFilter += "IMG|"; }
-                                        if (ChanFilter4) { ChanFilter += "DATA|"; }
-                                        AppCoreSat_[CmdNum].CreateList(i, FTA, TransCh, ChanFilter, Core.Band1, Core.Band2, Core.Band3);
+                                        if (Core.ChanFilter1) { ChanFilter += "R|"; }
+                                        if (Core.ChanFilter2) { ChanFilter += "TV|"; }
+                                        if (Core.ChanFilter3) { ChanFilter += "IMG|"; }
+                                        if (Core.ChanFilter4) { ChanFilter += "DATA|"; }
+                                        AppCoreSat_[CmdNum].CreateList(i, Core.FTA, Core.TransCh, ChanFilter, Core.Band1, Core.Band2, Core.Band3);
                                         Console.WriteLine("OK");
                                     }
                                 }

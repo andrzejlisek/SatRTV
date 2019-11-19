@@ -24,7 +24,9 @@ namespace SatRTV
 
             FileStream FS2 = new FileStream(ChanFileName(I), FileMode.CreateNew, FileAccess.Write);
             StreamWriter FS2W = new StreamWriter(FS2);
-            FS2W.WriteLine("Freq\tPol\tSR\tType\tChannel Name\tFTA\tV.PID\tA.PID\tSID\tRow");
+            FS2W.WriteLine("Freq\tPol\tSR\tBeam\tType\tChannel Name\tFTA\tV.PID\tA.PID\tSID\tRow");
+
+            BeamList.Clear();
 
             HtmlAgilityPack.HtmlDocument HTMLDoc = new HtmlAgilityPack.HtmlDocument();
             FileStream HFS = new FileStream(DataFileName(I), FileMode.Open, FileAccess.Read);
@@ -68,6 +70,7 @@ namespace SatRTV
             FS1.Close();
             FS2W.Close();
             FS2.Close();
+            BeamListWriteFile(I);
         }
 
         private void ChannelTable(int SatN, HtmlAgilityPack.HtmlNode N, ref StreamWriter FS1W, ref StreamWriter FS2W, bool TypeByPID)
@@ -262,6 +265,8 @@ namespace SatRTV
                             }
                             SatTrans[10] += InfoText[InfoText.Count - 1];
                         }
+                        SatTrans[10] = SatTrans[10].Replace(Separator, " ");
+                        BeamListAdd(SatTrans[10]);
 
                         // EIRP(dBW)
                         if (InfoText[InfoText.Count - 1].Contains("dBW"))
@@ -353,15 +358,6 @@ namespace SatRTV
                     {
                         SatChan = new string[20];
 
-                        // Freq
-                        SatChan[0] = SatTrans[3];
-
-                        // Pol
-                        SatChan[1] = SatTrans[4];
-
-                        // SR
-                        SatChan[2] = SatTrans[6];
-
                         // Channel Name
                         int TdI = 0;
                         SatChan[4] = Prepare(TableObj[i][TdI].InnerText);
@@ -425,7 +421,22 @@ namespace SatRTV
                         // Row
                         SatChan[9] = RowN.ToString();
 
-                        for (int ii = 0; ii < 10; ii++)
+                        // Freq
+                        FS2W.Write(SatTrans[3]);
+
+                        // Pol
+                        FS2W.Write("\t");
+                        FS2W.Write(SatTrans[4]);
+
+                        // SR
+                        FS2W.Write("\t");
+                        FS2W.Write(SatTrans[6]);
+
+                        // Beam
+                        FS2W.Write("\t");
+                        FS2W.Write(SatTrans[10]);
+
+                        for (int ii = 3; ii < 10; ii++)
                         {
                             if (ii > 0)
                             {

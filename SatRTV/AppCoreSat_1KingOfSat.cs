@@ -20,11 +20,13 @@ namespace SatRTV
 
             FileStream FS1 = new FileStream(TransFileName(I), FileMode.CreateNew, FileAccess.Write);
             StreamWriter FS1W = new StreamWriter(FS1);
-            FS1W.WriteLine("Satellite\tFrequence\tPol\tTxp\tBeam\tStandard\tModulation\tSR/FEC\tNetwork, bitrate\tNID\tTID");
+            FS1W.WriteLine("Satellite\tFrequence\tPol\tTxp\tBeam\tStandard\tModulation\tSR/FEC\tNetwork, bitrate\tNID\tTID\tRow");
 
             FileStream FS2 = new FileStream(ChanFileName(I), FileMode.CreateNew, FileAccess.Write);
             StreamWriter FS2W = new StreamWriter(FS2);
-            FS2W.WriteLine("Freq\tPol\tSR\tType\tName\tCountry\tCategory\tPackages\tEncryption\tSID\tVPID\tAudio\tPMT\tPCR\tTXT\tLast updated\tFTA");
+            FS2W.WriteLine("Freq\tPol\tSR\tBeam\tType\tName\tCountry\tCategory\tPackages\tEncryption\tSID\tVPID\tAudio\tPMT\tPCR\tTXT\tLast updated\tFTA\tRow");
+
+            BeamList.Clear();
 
             HtmlAgilityPack.HtmlDocument HTMLDoc = new HtmlAgilityPack.HtmlDocument();
             FileStream HFS = new FileStream(DataFileName(I), FileMode.Open, FileAccess.Read);
@@ -68,8 +70,9 @@ namespace SatRTV
                                                             {
                                                                 if (N.ChildNodes[_i].ChildNodes[_ii].Name == "tr")
                                                                 {
+                                                                    int RowNum = (_i * 1000000) + (_ii * 1000);
                                                                     int TdNum = 0;
-                                                                    SatTrans = new string[13];
+                                                                    SatTrans = new string[14];
                                                                     for (int _iii = 0; _iii < N.ChildNodes[_i].ChildNodes[_ii].ChildNodes.Count; _iii++)
                                                                     {
                                                                         HtmlAgilityPack.HtmlNode NN = N.ChildNodes[_i].ChildNodes[_ii].ChildNodes[_iii];
@@ -117,15 +120,17 @@ namespace SatRTV
                                                                                     break;
                                                                                 default:
                                                                                     SatTrans[TdNum] = Prepare(NN.InnerText);
-                                                                                    if (TdNum == 2)
+                                                                                    if ((TdNum == 5) && (SatTrans[0] != "Pos"))
                                                                                     {
-                                                                                        SatTrans[TdNum] = SatTrans[TdNum];
+                                                                                        BeamListAdd(Prepare(SatTrans[TdNum]));
                                                                                     }
                                                                                     break;
                                                                             }
                                                                             TdNum++;
                                                                         }
                                                                     }
+
+                                                                    SatTrans[13] = RowNum.ToString();
 
                                                                     if (SatTrans[0] != "Pos")
                                                                     {
@@ -137,6 +142,8 @@ namespace SatRTV
                                                                             }
                                                                             FS1W.Write(SatTrans[_iii]);
                                                                         }
+                                                                        FS1W.Write("\t");
+                                                                        FS1W.Write(SatTrans[13]);
                                                                         FS1W.Write("\r\n");
                                                                     }
                                                                 }
@@ -159,8 +166,10 @@ namespace SatRTV
                                                                     {
                                                                         if (NN.ChildNodes[_iii].Name == "tr")
                                                                         {
+                                                                            int RowNum = (_i * 1000000) + (_ii * 1000) + _iii;
+
                                                                             int TdNum = 0;
-                                                                            string[] SatChan = new string[20];
+                                                                            string[] SatChan = new string[21];
                                                                             for (int _iiii = 0; _iiii < NN.ChildNodes[_iii].ChildNodes.Count; _iiii++)
                                                                             {
                                                                                 HtmlAgilityPack.HtmlNode NNN = NN.ChildNodes[_iii].ChildNodes[_iiii];
@@ -328,6 +337,8 @@ namespace SatRTV
                                                                                     SatChan[1] = ChannelType;
                                                                                 }
 
+                                                                                SatChan[20] = RowNum.ToString();
+
                                                                                 if (SatChan[12] != "TXT")
                                                                                 {
                                                                                     //FS2W.Write(SatTrans[0]);
@@ -337,6 +348,8 @@ namespace SatRTV
                                                                                     FS2W.Write(SatTrans[3]);
                                                                                     FS2W.Write("\t");
                                                                                     FS2W.Write(SatTrans[8]);
+                                                                                    FS2W.Write("\t");
+                                                                                    FS2W.Write(SatTrans[5]);
 
                                                                                     for (int Xi = 1; Xi < TdNum; Xi++)
                                                                                     {
@@ -354,6 +367,10 @@ namespace SatRTV
                                                                                         FS2W.Write("\t");
                                                                                         FS2W.Write("No");
                                                                                     }
+
+
+                                                                                    FS2W.Write("\t");
+                                                                                    FS2W.Write(SatChan[20]);
 
                                                                                     FS2W.WriteLine();
                                                                                 }
@@ -379,6 +396,7 @@ namespace SatRTV
             FS1.Close();
             FS2W.Close();
             FS2.Close();
+            BeamListWriteFile(I);
         }
     }
 }
