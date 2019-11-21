@@ -933,21 +933,18 @@ namespace SatRTV
             {
                 throw new Exception("Unsupported SID [" + SID.ToString() + "]");
             }
-            long Beam_ = BeamList.Contains(Beam) ? (BeamList.IndexOf(Beam) * 1000000L) : 0;
+            long Beam_ = BeamList.Contains(Beam) ? (BeamList.IndexOf(Beam)) : 0;
+            Beam_ = Beam_ * 1000000L;
 
             Pol = Pol.ToUpperInvariant();
             if ((Pol.Length != 1) || (!PolOrder.Contains(Pol)))
             {
                 throw new Exception("Unsupported polarization [" + Pol + "]");
             }
-            for (long i = 0; i < PolOrder.Length; i++)
-            {
-                if (PolOrder[(int)i] == Pol[0])
-                {
-                    return (Freq_) + (i * 100000000L) + SID_;
-                }
-            }
-            throw new Exception("Unsupported polarization [" + Pol + "]");
+            long Pol_ = PolOrder.IndexOf(Pol[0]);
+
+            Pol_ = Pol_ * 100000000L;
+            return (Freq_) + Pol_ + Beam_ + SID_;
         }
 
         /// <summary>
