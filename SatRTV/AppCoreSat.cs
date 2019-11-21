@@ -26,7 +26,22 @@ namespace SatRTV
             }
         }
 
-
+        public static string ClearInt(string S)
+        {
+            string X = "";
+            if (S.Length == 0)
+            {
+                return "0";
+            }
+            for (int i = 0; i < S.Length; i++)
+            {
+                if ((S[i] >= '0') && (S[i] <= '9'))
+                {
+                    X = X + S[i].ToString();
+                }
+            }
+            return X;
+        }
 
         public string TempDir;
         public List<string> SatAddr = new List<string>();
@@ -220,7 +235,7 @@ namespace SatRTV
                 {
                     Raw[IdxSID] = "0";
                 }
-                Tab[3] = int.Parse(Raw[IdxSID]);
+                Tab[3] = Raw[IdxSID];
 
                 // Type
                 Tab[4] = Raw[4];
@@ -235,7 +250,7 @@ namespace SatRTV
                 Tab[7] = Raw[IdxFTA];
 
                 // SortKey
-                Tab[10] = GetSortKey((int)Tab[0], (string)Tab[1], (string)Tab[2], (int)Tab[3]);
+                Tab[10] = GetSortKey((int)Tab[0], (string)Tab[1], (string)Tab[2], (string)Tab[3]);
 
                 bool Good = TypeFilter.Contains("|" + Tab[4] + "|");
                 if (FTA && (((string)Tab[6]) != "Yes"))
@@ -305,8 +320,6 @@ namespace SatRTV
 
                 int FreqI = (int)Math.Round(Freq);
                 Tab[0] = FreqI.ToString();
-
-                Tab[3] = ((int)Tab[3]).ToString();
 
                 string LangX = (string)Tab[6];
                 string LangXX = "";
@@ -449,7 +462,7 @@ namespace SatRTV
                 Tab[5] = Raw[IdxBeam];
 
                 // Sort key
-                Tab[6] = GetSortKey((int)Tab[0], (string)Tab[1], (string)Tab[5], 0);
+                Tab[6] = GetSortKey((int)Tab[0], (string)Tab[1], (string)Tab[5], "");
 
                 bool Good = true;
 
@@ -911,10 +924,10 @@ namespace SatRTV
         /// <param name="Beam"></param>
         /// <param name="SID"></param>
         /// <returns></returns>
-        long GetSortKey(int Freq, string Pol, string Beam, int SID)
+        long GetSortKey(int Freq, string Pol, string Beam, string SID)
         {
             long Freq_ = Freq;
-            long SID_ = SID;
+            long SID_ = int.Parse(ClearInt(SID));
             Freq_ = Freq_ * 1000000000L;
             if (SID_ >= 1000000L)
             {
