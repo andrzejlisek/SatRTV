@@ -354,7 +354,7 @@ namespace SatRTV
                 }
                 else
                 {
-                    if (TableObj[i].Count > 3)
+                    if (TableObj[i].Count > 4)
                     {
                         SatChan = new string[20];
 

@@ -6,3 +6,4 @@ F:\__ToBackup\Telewizja\SatRTV\SatRTV\bin\Debug\HtmlAgilityPack.pdb
 F:\__ToBackup\Telewizja\SatRTV\SatRTV\bin\Debug\HtmlAgilityPack.xml
 F:\__ToBackup\Telewizja\SatRTV\SatRTV\obj\Debug\SatRTV.exe
 F:\__ToBackup\Telewizja\SatRTV\SatRTV\obj\Debug\SatRTV.pdb
+F:\__ToBackup\Telewizja\SatRTV\SatRTV\obj\Debug\SatRTV.csprojResolveAssemblyReference.cache

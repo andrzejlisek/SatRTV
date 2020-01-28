@@ -253,7 +253,7 @@ namespace SatRTV
                 Tab[10] = GetSortKey((int)Tab[0], (string)Tab[1], (string)Tab[2], (string)Tab[3]);
 
                 bool Good = TypeFilter.Contains("|" + Tab[4] + "|");
-                if (FTA && (((string)Tab[6]) != "Yes"))
+                if (FTA && (((string)Tab[7]) != "Yes"))
                 {
                     Good = false;
                 }
@@ -835,82 +835,92 @@ namespace SatRTV
             string LangList_ = "";
             for (int ii = 0; ii < InfoText.Count; ii++)
             {
-                int XLetter = 0;
-                int XDigit = 0;
-                int XSpace = 0;
-                InfoText[ii] = InfoText[ii].Trim();
-                InfoText[ii] = InfoText[ii].Replace("  ", " ");
-                InfoText[ii] = InfoText[ii].Replace("  ", " ");
-
-                for (int XII = 0; XII < InfoText[ii].Length; XII++)
+                try
                 {
+                    int XLetter = 0;
+                    int XDigit = 0;
+                    int XSpace = 0;
+                    InfoText[ii] = InfoText[ii].Trim();
+                    InfoText[ii] = InfoText[ii].Replace("  ", " ");
+                    InfoText[ii] = InfoText[ii].Replace("  ", " ");
 
-                    if (InfoText[ii][XII] == ' ')
+                    for (int XII = 0; XII < InfoText[ii].Length; XII++)
                     {
-                        XSpace++;
-                    }
 
-                    char C = InfoText[ii][XII];
-                    if (((C >= '0') && (C <= '9')) || (C == '.'))
-                    {
-                        XDigit++;
-                    }
-                    else
-                    {
-                        if (((C >= 'a') && (C <= 'z')) || ((C >= 'A') && (C <= 'Z')) || (C == '-') || (C == '/'))
+                        if (InfoText[ii][XII] == ' ')
                         {
-                            XLetter++;
+                            XSpace++;
+                        }
+
+                        char C = InfoText[ii][XII];
+                        if (((C >= '0') && (C <= '9')) || (C == '.'))
+                        {
+                            XDigit++;
                         }
                         else
                         {
-                            if (C != ' ')
+                            if (((C >= 'a') && (C <= 'z')) || ((C >= 'A') && (C <= 'Z')) || (C == '-') || (C == '/'))
                             {
-                                throw new Exception("XXX");
-                            }
-                        }
-                    }
-                }
-                if (XSpace == 1)
-                {
-                    if (LangList_ != "")
-                    {
-                        LangList_ += Separator;
-                    }
-                    InfoText[ii] = InfoText[ii].Replace(' ', '[') + "]";
-                    InfoText[ii] = InfoText[ii].Replace("/", "][");
-                    LangList_ = LangList_ + InfoText[ii];
-                }
-                else
-                {
-                    if (XSpace > 1)
-                    {
-                        throw new Exception("XXX");
-                    }
-                    else
-                    {
-                        if ((XDigit > 0) | (XLetter > 0))
-                        {
-                            if ((XDigit > 0) & (XLetter == 0))
-                            {
-                                if (LangList_ != "")
-                                {
-                                    LangList_ += Separator;
-                                }
-                                LangList_ = LangList_ + InfoText[ii];
+                                XLetter++;
                             }
                             else
                             {
-                                if ((XDigit == 0) & (XLetter > 0))
-                                {
-                                    LangList_ = LangList_ + "[" + InfoText[ii].Replace("/", "][") + "]";
-                                }
-                                else
+                                if (C != ' ')
                                 {
                                     throw new Exception("XXX");
                                 }
                             }
                         }
                     }
+                    if (XSpace == 1)
+                    {
+                        if (LangList_ != "")
+                        {
+                            LangList_ += Separator;
+                        }
+                        InfoText[ii] = InfoText[ii].Replace(' ', '[') + "]";
+                        InfoText[ii] = InfoText[ii].Replace("/", "][");
+                        LangList_ = LangList_ + InfoText[ii];
+                    }
+                    else
+                    {
+                        if (XSpace > 1)
+                        {
+                            throw new Exception("XXX");
+                        }
+                        else
+                        {
+                            if ((XDigit > 0) | (XLetter > 0))
+                            {
+                                if ((XDigit > 0) & (XLetter == 0))
+                                {
+                                    if (LangList_ != "")
+                                    {
+                                        LangList_ += Separator;
+                                    }
+                                    LangList_ = LangList_ + InfoText[ii];
+                                }
+                                else
+                                {
+                                    if ((XDigit == 0) & (XLetter > 0))
+                                    {
+                                        LangList_ = LangList_ + "[" + InfoText[ii].Replace("/", "][") + "]";
+                                    }
+                                    else
+                                    {
+                                        throw new Exception("XXX");
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                catch
+                {
+                    Console.WriteLine("Language code parse error: \"" + InfoText[ii] + "\"");
+                    Console.Write("Input language code interpretation result: ");
+                    string ParseOut = Console.ReadLine();
+                    LangList_ = LangList_ + ParseOut;
                 }
             }
             return LangList_;

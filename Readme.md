@@ -128,6 +128,16 @@ At this step, each channel will be assigned to one of four types based on checki
 * __IMG__ - Video stream only (usually test and advertisment static images).
 * __DATA__ - Channel without audio and video stream (usually useless in ordinary satellite radio and television receiver).
 
+## APID and language code parse
+
+One channel can contain several audio streams, every stream should have APID identifier and can have specified none or one or several language codes. In the parsed channel data, the every language code is specified between __[__ and __]__ characters. For example:
+* __1[eng]__ - One audio stream available, in __eng__ language.
+* __2|3[ger]__ - Two available audio stream, the __2__ stream has not specified language and the __3__ stream has specified __ger__ language.
+* __4[ara][hun]|5[deu][esp]__ - Two audio streams, the __4__ is in __ara__ or __hun__ language, the __5__ is in __deu__ or __esp__ language.
+* __6|7|8__ - Three audio streams available, the language of this streams are not specified.
+
+In some cases, the audio data from source data can not be automatically parsed, so the conversion is impossible. In such case there will be displayed the text from source data and you will have to manually input the parse equivalent, which meets the convention mentioned above.
+
 ## Creating lists
 
 Creating list are the last operation in creating ultimate transponder list and channel list. This operation can be configured, after executing configuration command, the current configuration will be redisplayed.
