@@ -1,3 +1,12 @@
+f:\__ToBackup\Telewizja\SatRTV0\SatRTV\SatRTV\bin\Debug\SatRTV.exe.config
+f:\__ToBackup\Telewizja\SatRTV0\SatRTV\SatRTV\bin\Debug\SatRTV.exe
+f:\__ToBackup\Telewizja\SatRTV0\SatRTV\SatRTV\bin\Debug\SatRTV.pdb
+f:\__ToBackup\Telewizja\SatRTV0\SatRTV\SatRTV\obj\Debug\SatRTV.exe
+f:\__ToBackup\Telewizja\SatRTV0\SatRTV\SatRTV\obj\Debug\SatRTV.pdb
+f:\__ToBackup\Telewizja\SatRTV0\SatRTV\SatRTV\bin\Debug\HtmlAgilityPack.dll
+f:\__ToBackup\Telewizja\SatRTV0\SatRTV\SatRTV\bin\Debug\HtmlAgilityPack.pdb
+f:\__ToBackup\Telewizja\SatRTV0\SatRTV\SatRTV\bin\Debug\HtmlAgilityPack.xml
+f:\__ToBackup\Telewizja\SatRTV0\SatRTV\SatRTV\obj\Debug\SatRTV.csprojResolveAssemblyReference.cache
 F:\__ToBackup\Telewizja\SatRTV\SatRTV\bin\Debug\SatRTV.exe.config
 F:\__ToBackup\Telewizja\SatRTV\SatRTV\bin\Debug\SatRTV.exe
 F:\__ToBackup\Telewizja\SatRTV\SatRTV\bin\Debug\SatRTV.pdb

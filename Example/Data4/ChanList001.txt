@@ -1,0 +1,212 @@
+Freq	Pol	Beam	SID	Type	Name	Lang	FTA
+10720	H	EuropeB	911	TV	HRTInt.	[hrv]	Yes
+10762	H	EuropeB	1000	TV	RTK-1	[alb]	Yes
+10762	H	EuropeB	1020	TV	Top News	[000][alb]	Yes
+10762	H	EuropeB	1300	TV	BCTV Europe	[alb]	Yes
+10804	H	SEAfrica	7	TV	AB 3	[fre]	Yes
+10804	H	SEAfrica	10	TV	AB Moteurs	[fre]	Yes
+10804	H	SEAfrica	11	TV	AB 1	[fre]	Yes
+10804	H	SEAfrica	13	TV	Toute l Histoire	[fre]	Yes
+10804	H	SEAfrica	15	TV	Animaux	[fre]	Yes
+10804	H	SEAfrica	18	TV	Ciné Polar	[fre]	Yes
+10804	H	SEAfrica	25	TV	Setanta Africa	[eng][fre]	Yes
+10804	H	SEAfrica	26	TV	KTO	[fre]	Yes
+10804	H	SEAfrica	101	TV	Vision 4	[fre]	Yes
+10804	H	SEAfrica	102	TV	2S TV	[fre]	Yes
+10804	H	SEAfrica	103	TV	RDV	[fre]	Yes
+10804	H	SEAfrica	107	TV	Emirem TV (Eglise Missionnaire du Réveil Mondial)	[fre]	Yes
+10804	H	SEAfrica	108	TV	CRTV News	[fre]	Yes
+10804	H	SEAfrica	112	TV	Wisal Hausa TV	[hau]	Yes
+10804	H	SEAfrica	113	TV	Label TV	[fre]	Yes
+10804	H	SEAfrica	114	TV	TV Colombe	[fre]	Yes
+10804	H	SEAfrica	117	TV	Vision 4 RCA	[fre]	Yes
+10804	H	SEAfrica	118	TV	CRTV Sports and Entertainment	[fre]	Yes
+10804	H	SEAfrica	121	TV	LMTV	[fre]	Yes
+10804	H	SEAfrica	201	TV	ORTB TV Benin	[fre]	Yes
+10804	H	SEAfrica	204	TV	Golfe TV International	[fre]	Yes
+10804	H	SEAfrica	206	TV	Asonga Telévision	[spa]	Yes
+10804	H	SEAfrica	341	TV	CRTV	[fre]	Yes
+10804	H	SEAfrica	342	TV	Afrique Média	[fre]	Yes
+10804	H	SEAfrica	343	TV	Equinoxe TV	[fre]	Yes
+10804	H	SEAfrica	345	TV	Canal 2 International	[fre]	Yes
+10804	H	SEAfrica	346	TV	Canal 2 infos	[fre]	Yes
+10804	H	SEAfrica	348	TV	Equinoxe TV	[fre]	Yes
+10804	H	SEAfrica	349	TV	CamNews 24	[fre]	Yes
+10804	H	SEAfrica	352	TV	STV 2	[fre]	Yes
+10804	H	SEAfrica	382	TV	DRTV International	[fre]	Yes
+10804	H	SEAfrica	441	TV	Mboa TV	[fre]	Yes
+10804	H	SEAfrica	442	TV	France 24 Français	[fre]	Yes
+10804	H	SEAfrica	505	TV	UbizNews	[fre]	Yes
+10804	H	SEAfrica	650	TV	Eden TV	[fre]	Yes
+10804	H	SEAfrica	670	TV	TVC Benin	[fre]	Yes
+10845	H	EuropeB	1003	TV	Family Channel HD	[000][alb]	Yes
+10845	H	EuropeB	1028	TV	Ndihma e Klientit	[alb]	Yes
+10928	H	EuropeB	1102	TV	Wness TV	[bul][eng][ukr]	Yes
+10977	H	EuropeB	101	TV	Canal 3 Benin	[fre]	Yes
+10977	H	EuropeB	108	TV	Kombat Sport	[fre]	Yes
+10977	H	EuropeB	114	TV	Canal 3 Niger	[fre]	Yes
+10977	H	EuropeB	120	TV	Télé Sahel	[fre]	Yes
+10977	H	EuropeB	123	TV	Sunna TV Savana	[hau]	Yes
+10977	H	EuropeB	124	TV	EGTA TV	[hau]	Yes
+10977	H	EuropeB	125	TV	Sunna TV Yoruba	[yor]	Yes
+10977	H	EuropeB	127	TV	Al Fayda TV	[fre]	Yes
+10977	H	EuropeB	127	TV	UCAB TV	[fre]	Yes
+10977	H	EuropeB	128	TV	Manara TV	[ara]	Yes
+10977	H	EuropeB	130	TV	Evangelique TV	[fre]	Yes
+10977	H	EuropeB	131	TV	Alléluia World TV	[fre]	Yes
+10977	H	EuropeB	132	TV	Canal 3 Cedeao	[fre]	Yes
+11001	H	EuropeA	1	TV	Afrique Média	[fre]	Yes
+11001	H	EuropeA	2	TV	ABK TV	[fre]	Yes
+11001	H	EuropeA	3	TV	Solution TV	[fre]	Yes
+11001	H	EuropeA	4	TV	KingShip TV	[fre]	Yes
+11001	H	EuropeA	5	TV	LTM TV	[fre]	Yes
+11001	H	EuropeA	6	TV	Liberty TV Cameroon	[eng]	Yes
+11001	H	EuropeA	7	TV	Misericorde TV	[fre]	Yes
+11001	H	EuropeA	8	TV	West Africa TV	[fre]	Yes
+11001	H	EuropeA	9	TV	Flamme TV	[fre]	Yes
+11001	H	EuropeA	10	TV	Revival Channel	[fre]	Yes
+11040	H	SubSaharan	1	TV	Divine TV	[fre]	Yes
+11040	H	SubSaharan	2	TV	Zoe Channel	[fre]	Yes
+11040	H	SubSaharan	3	TV	African Movie Star	[fre]	Yes
+11040	H	SubSaharan	4	TV	7News	[fre]	Yes
+11040	H	SubSaharan	5	TV	Glory Christ Channel	[fre]	Yes
+11056	V	EuropeB	1154	TV	CT 24 HD	[cze]	Yes
+11070	H	EuropeA	21418	R	Radio 538	[dut]	Yes
+11073	H	EuropeA	10	R	Radio Città Futura	[ita]	Yes
+11073	H	EuropeA	11	R	Ecoradio	[ita]	Yes
+11131	V	EuropeB	3	TV	Antena 3	[rum]	Yes
+11131	V	EuropeB	55	R	Radio Zu	[rum]	Yes
+11131	V	EuropeB	56	R	Romantic FM	[rum]	Yes
+11139	H	EuropeB	135	TV	RTK 1	[alb]	Yes
+11139	H	EuropeB	4915	TV	ArtDoku 2	[alb]	Yes
+11139	H	EuropeB	5000	TV	Top Channel	[alb]	Yes
+11139	H	EuropeB	5010	TV	Top News	[alb]	Yes
+11178	V	EuropeB	24	R	Radio Index	[srp]	Yes
+11231	V	EuropeA	753	TV	Sport Klub 3 Slovenia	[slv]	Yes
+11262	H	EuropeB	4	TV	BN TV Satelitski	[srp]	Yes
+11262	H	EuropeB	5	TV	BN Music	[srp]	Yes
+11262	H	EuropeB	7	TV	RTRS	[srp]	Yes
+11262	H	EuropeB	17	TV	RTRS TV	[srp]	Yes
+11283	V	EuropeB	2710	TV	FilmBox HD	[eng]	Yes
+11304	H	EuropeA	1	TV	Al Jazeera Balkans HD	[bos]	Yes
+11304	H	EuropeA	6	TV	Yu Planet Bec	[srp]	Yes
+11304	H	EuropeA	9	TV	Pro TV International	[rum]	Yes
+11345	H	EuropeB	1001	TV	OTV Valentino	[bos]	Yes
+11345	H	EuropeB	1004	TV	K::CN Svet + 3	[srp]	Yes
+11345	H	EuropeB	1017	TV	K::CN Music 2	[srp]	Yes
+11356	H	SubSaharan	3102	TV	Télé Tchad	[ara]	Yes
+11356	H	SubSaharan	3103	TV	Equinoxe TV	[fre]	Yes
+11356	H	SubSaharan	3104	TV	Alwilayah TV Hausa	[hau]	Yes
+11356	H	SubSaharan	3107	TV	TVT	[fre]	Yes
+11356	H	SubSaharan	3110	TV	Liberty TV	[eng]	Yes
+11365	V	EuropeA	11	R	Oldies Rádió	[hun]	Yes
+11365	V	EuropeA	12	R	Vikom Radio	[srp]	Yes
+11365	V	EuropeA	13	R	Radio 1	[slv]	Yes
+11365	V	EuropeA	51	R	Kiss Rom Radio	[srp]	Yes
+11365	V	EuropeA	52	R	Kiss Radio	[srp]	Yes
+11365	V	EuropeA	53	R	Radio Grand	[srp]	Yes
+11365	V	EuropeA	54	R	Doina Radio	[srp]	Yes
+11365	V	EuropeA	55	R	Radio Brod	[hrv]	Yes
+11365	V	EuropeA	56	R	Pink Sat	[srp]	Yes
+11365	V	EuropeA	57	R	VIP Radio	[srp]	Yes
+11365	V	EuropeA	58	R	Tref Radio Plus	[srp]	Yes
+11365	V	EuropeA	59	R	Valentino BH	[bos]	Yes
+11365	V	EuropeA	60	R	Radio Glas Drine	[bos]	Yes
+11365	V	EuropeA	61	R	Radio Fenomen	[srp]	Yes
+11365	V	EuropeA	63	R	Yu Planet Radio	[srp]	Yes
+11365	V	EuropeA	64	R	Radio Svet Plus	[srp]	Yes
+11365	V	EuropeA	65	R	Radio Velkaton	[bos]	Yes
+11365	V	EuropeA	69	R	Radio S	[srp]	Yes
+11365	V	EuropeA	70	R	Radio Koktel	[bos]	Yes
+11365	V	EuropeA	75	R	Top 3 Radio	[srp]	Yes
+11365	V	EuropeA	77	R	Radio Posavina	[hrv]	Yes
+11365	V	EuropeA	80	R	Radio Izvor	[bos]	Yes
+11365	V	EuropeA	82	R	Radio Plehan	[hrv]	Yes
+11365	V	EuropeA	85	R	Vulkanradio	[srp]	Yes
+11365	V	EuropeA	86	R	Radio Bezlja	[bos]	Yes
+11365	V	EuropeA	87	R	Kiss Modus	[srp]	Yes
+11365	V	EuropeA	88	R	Radio Svetigora	[srp]	Yes
+11365	V	EuropeA	1017	TV	Kopernikus Music	[srp]	Yes
+11365	V	EuropeA	4110	TV	Yu Planet Music	[srp]	Yes
+11366	V	EuropeB	108	TV	Discovery Channel	[cze][eng][hun]	Yes
+11426	V	EuropeB	1	TV	Vizion Plus HD	[alb]	Yes
+11426	V	EuropeB	125	TV	Folk +	[alb]	Yes
+11426	V	EuropeB	151	TV	Tring International HD	[alb]	Yes
+11426	V	EuropeB	801	TV	Sofia	[alb]	Yes
+11426	V	EuropeB	999	TV	Kanali 7	[alb]	Yes
+11471	V	EuropeB	649	TV	Nat Geo Wild Europe	[cze][eng]	Yes
+11512	H	SEAfrica	217	TV	Arena Sport 4 HD	[hrv]	Yes
+11512	V	EuropeB	3	TV	TVR 3	[rum]	Yes
+11512	V	EuropeB	6	TV	TVR Int	[rum]	Yes
+11553	H	EuropeB	1752	TV	RTS 2 Serbia	[srp]	Yes
+11553	H	EuropeB	1766	TV	Grand TV	[srp]	Yes
+11595	H	EuropeB	103	TV	Z1	[hrv]	Yes
+11595	H	EuropeB	155	TV	TVCG Sat.	[srp]	Yes
+11595	V	EuropeB	906	TV	Magic UK	[eng]	Yes
+11596	H	SEAfrica	0	TV	Kanal Austral	[fre]	Yes
+11637	H	EuropeB	1923	TV	In LIFE TV	[bul]	Yes
+11637	V	EuropeA	3404	TV	HRT-TV4 HD	[hrv]	Yes
+11637	V	EuropeA	3405	TV	HRTInt.	[hrv]	Yes
+11637	V	EuropeA	3411	R	HRT-HR1	[hrv]	Yes
+11637	V	EuropeA	3412	R	HRT-HR2	[hrv]	Yes
+11637	V	EuropeA	3413	R	HRT-HR3	[hrv]	Yes
+11637	V	EuropeA	3414	R	VOICE OF CRO	[hrv]	Yes
+11637	V	EuropeA	3416	R	HKR	[hrv]	Yes
+11637	V	EuropeA	3434	R	RASLO PRVI	[slv]	Yes
+11637	V	EuropeA	3435	R	RASLO VAL 202	[slv]	Yes
+11637	V	EuropeA	3436	R	RASLO ARS	[slv]	Yes
+11637	V	EuropeA	3437	R	RASLO RADIO SI	[slv]	Yes
+11678	H	EuropeB	132	TV	PosavinaTV.	[bos]	Yes
+12562	H	EuropeA	0	TV	Casarhema TV	[fre]	Yes
+12562	H	EuropeA	201	TV	TFM Senegal	[fre]	Yes
+12562	H	EuropeA	202	TV	Olé TFM	[fre]	Yes
+12562	H	EuropeA	203	TV	TFM Religions	[fre]	Yes
+12562	H	EuropeA	205	TV	New World Sport 1	[fre]	Yes
+12562	H	EuropeA	206	TV	TVT	[fre]	Yes
+12562	H	EuropeA	207	TV	New World Info Fr	[fre]	Yes
+12562	H	EuropeA	208	TV	New World Cinema	[fre]	Yes
+12562	H	EuropeA	211	TV	Info TV Cameroun	[fre]	Yes
+12562	H	EuropeA	212	TV	DBS TV	[fre]	Yes
+12562	H	EuropeA	213	TV	LoveWorld Plus	[eng]	Yes
+12562	H	EuropeA	214	TV	Dieu TV	[fre]	Yes
+12562	H	EuropeA	216	TV	BFI TV	[fre]	Yes
+12562	H	EuropeA	217	TV	Cash Chrono	[fre]	Yes
+12562	H	EuropeA	219	TV	New World Magazine	[fre]	Yes
+12562	H	EuropeA	223	TV	QTV Gambia	[fre]	Yes
+12562	H	EuropeA	228	TV	BB24 (Bénin Business 24)	[fre]	Yes
+12562	H	EuropeA	230	TV	BFM Paris	[fre]	Yes
+12562	H	EuropeA	231	TV	BFM Business	[fre]	Yes
+12562	H	EuropeA	232	TV	Kombat Sport	[fre]	Yes
+12562	H	EuropeA	233	TV	SFR Sport 4	[fre]	Yes
+12562	H	EuropeA	234	TV	BFM TV	[fre]	Yes
+12562	H	EuropeA	236	TV	SMTV	[eng]	Yes
+12562	H	EuropeA	237	TV	New World Info	[eng]	Yes
+12562	H	EuropeA	238	TV	A12 TV	[fre]	Yes
+12562	H	EuropeA	242	TV	Jesus Christ TV	[fre]	Yes
+12562	H	EuropeA	243	TV	EMCI TV	[fre]	Yes
+12562	H	EuropeA	244	TV	Miracle TV	[fre]	Yes
+12562	H	EuropeA	245	TV	Distinction TV	[fre]	Yes
+12562	H	EuropeA	246	TV	Chandelier TV	[fre]	Yes
+12565	V	EuropeB	1	TV	Kanal D Romania	[rum]	Yes
+12569	H	EuropeB	1	TV	SIC Internacional	[por]	Yes
+12572	V	EuropeB	10	TV	Est TV	[rum]	Yes
+12572	V	EuropeB	11	TV	TNT Bravo	[rus]	Yes
+12593	V	EuropeB	2680	TV	DM-SAT	[srp]	Yes
+12639	H	EuropeB	110	TV	RTSH 1 HD	[alb]	Yes
+12639	H	EuropeB	120	TV	RTSH 3 HD	[alb]	Yes
+12639	H	EuropeB	130	TV	RTSH Plus	[alb]	Yes
+12639	H	EuropeB	140	TV	RTSH 24	[alb]	Yes
+12639	H	EuropeB	150	TV	RTSH Shqip	[alb]	Yes
+12639	H	EuropeB	160	TV	RTSH Muzike	[alb]	Yes
+12643	V	EuropeB	11	TV	Digi 24	[rum]	Yes
+12643	V	EuropeB	12	TV	Neptun TV	[rum]	Yes
+12643	V	EuropeB	21	TV	TVR Cluj	[rum]	Yes
+12643	V	EuropeB	22	TV	TVR Craiova	[rum]	Yes
+12643	V	EuropeB	23	TV	TVR Iasi	[rum]	Yes
+12643	V	EuropeB	24	TV	TVR Timisoara	[rum]	Yes
+12643	V	EuropeB	25	TV	TVR Tirgu-Mures	[rum]	Yes
+12717	H	EuropeA	32	TV	Favorit TV	[rum]	Yes
+12717	H	EuropeA	88	TV	Alpha Omega TV	[rum]	Yes
+12737	H	EuropeB	100	TV	Realitatea TV	[rum]	Yes
+12737	H	EuropeB	500	TV	The Money Channel	[rum]	Yes
+12737	H	EuropeB	900	TV	Realitatea Plus	[rum]	Yes

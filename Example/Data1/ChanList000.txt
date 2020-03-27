@@ -1,0 +1,661 @@
+Freq	Pol	Beam	SID	Type	Name	Lang	FTA
+10719	V	HB9 Europe	4409	TV	TVP Info HD	[pol]	Yes
+10727	H	HB8 Europe	4602	TV	NASA 4K	[aac][eng]	Yes
+10758	V	HB9 Europe	17023	TV	Stars.TV	[pol]	Yes
+10758	V	HB9 Europe	17037	TV	4 Fun TV	[pol][qaa]	Yes
+10758	V	HB9 Europe	17038	TV	4FUN Gold Hits	[pol][qaa]	Yes
+10758	V	HB9 Europe	17039	TV	4FUN Dance	[pol][qaa]	Yes
+10758	V	HB9 Europe	17051	TV	ESKA TV Extra	[pol]	Yes
+10775	H	HB9 Europe	1506	TV	IRINN - Iranian News Network	[far]	Yes
+10775	H	HB9 Europe	1508	TV	IRIB Quran	[far]	Yes
+10775	H	HB9 Europe	1514	TV	iFilm		Yes
+10775	H	HB9 Europe	1520	TV	Irib Nasim	[far]	Yes
+10775	H	HB9 Europe	1521	TV	IRIB TV 1	[far]	Yes
+10775	H	HB9 Europe	1522	TV	Jaam-e-Jaam TV 2	[aac][far]	Yes
+10775	H	HB9 Europe	1523	TV	IRIB TV 3	[far]	Yes
+10775	H	HB9 Europe	1526	TV	Sahar TV Francophone	[fra]	Yes
+10775	H	HB9 Europe	1527	TV	Sahar TV Azari	[far]	Yes
+10775	H	HB9 Europe	1528	TV	Sahar Universal Network 2	[urd]	Yes
+10775	H	HB9 Europe	1529	TV	Sahar TV Kurdish	[far]	Yes
+10775	H	HB9 Europe	1530	TV	Al Kawthar	[far]	Yes
+10775	H	HB9 Europe	1531	TV	Press TV HD		Yes
+10775	H	HB9 Europe	1532	TV	Hispan TV	[far]	Yes
+10775	H	HB9 Europe	1533	TV	iFilm English	[eng][far]	Yes
+10775	H	HB9 Europe	1551	R	RADIO IRAN	[far]	Yes
+10775	H	HB9 Europe	1552	R	RADIO PAYAM	[far]	Yes
+10775	H	HB9 Europe	1553	R	RADIO JAVAN	[far]	Yes
+10775	H	HB9 Europe	1554	R	RADIO MAAREF	[far]	Yes
+10775	H	HB9 Europe	1555	R	RADIO QURAN	[far]	Yes
+10775	H	HB9 Europe	1556	R	RADIO FARHANG	[far]	Yes
+10775	H	HB9 Europe	1557	R	RADIO SALAMAT	[far]	Yes
+10775	H	HB9 Europe	1558	R	RADIO VARZESH	[far]	Yes
+10775	H	HB9 Europe	1559	R	RADIO EGHTESAD	[far]	Yes
+10775	H	HB9 Europe	1560	R	RADIO TEHRAN	[far]	Yes
+10775	H	HB9 Europe	1561	R	RADIO AVA	[far]	Yes
+10775	H	HB9 Europe	1561	R	RADIO AVA	[far]	Yes
+10775	H	HB9 Europe	1562	R	RADIO NAMAYESH	[far]	Yes
+10775	H	HB9 Europe	1563	R	RADIO SABA	[far]	Yes
+10775	H	HB9 Europe	1564	R	IRIB 07 WORLD SERVICE	[far]	Yes
+10775	H	HB9 Europe	1566	R	ARABIC RADIO WORLD SERVICE	[ara]	Yes
+10775	H	HB9 Europe	1566	R	ARABIC RADIO WORLD SERVICE	[ara]	Yes
+10775	H	HB9 Europe	1569	R	RADIO TALAVAT	[far]	Yes
+10775	H	HB9 Europe	1570	R	RADIO GOFTOGOO	[far]	Yes
+10775	H	HB9 Europe	1581	R	IRIB 01 WORLD SERVICE		Yes
+10775	H	HB9 Europe	1582	R	IRIB 02 WORLD SERVICE		Yes
+10775	H	HB9 Europe	1584	R	IRIB 04 WORLD SERVICE		Yes
+10775	H	HB9 Europe	1585	R	IRIB 05 WORLD SERVICE	[far]	Yes
+10775	H	HB9 Europe	1585	R	IRIB 05 WORLD SERVICE		Yes
+10775	H	HB9 Europe	1586	R	IRIB 06 WORLD SERVICE		Yes
+10796	V	HB9 Europe	15704	TV	TVS - TV Silesia	[pol]	Yes
+10796	V	HB9 Europe	15790	R		[pol]	Yes
+10815	H	Europe	17308	TV	VOTV	[ukr]	Yes
+10815	H	Europe	17310	R	VRT Radio1	[eng]	Yes
+10815	H	Europe	17311	TV	BVN - Beste van Vlaanderen en Nederland	[ned]	Yes
+10815	H	Europe	17312	TV	CNL Russia	[rus]	Yes
+10815	H	Europe	17315	TV	Fashion One	[eng]	Yes
+10815	H	Europe	17317	TV	TBN Russia	[rus]	Yes
+10815	H	Europe	17320	TV	Thai TV Global Network	[tha]	Yes
+10815	H	Europe	17337	TV	TVK		Yes
+10815	H	Europe	17344	R	The Overcomer	[eng]	Yes
+10815	H	Europe	17373	TV	The Word Network	[eng]	Yes
+10834	V	Europe	3509	TV	Red Carpet TV	[pol]	Yes
+10873	V	Europe	1	TV	Al Maghribia	[ara][fra]	Yes
+10873	V	Europe	2	TV	Al Aoula Laayoune	[ara][fra]	Yes
+10873	V	Europe	3	TV	Al Aoula Inter HD	[ara]	Yes
+10873	V	Europe	4	TV	Athaqafia HD	[ara]	Yes
+10873	V	Europe	5	TV	Al Aoula Inter	[ara][fra]	Yes
+10873	V	Europe	6	TV	Assadissa	[ara]	Yes
+10873	V	Europe	8	TV	Medi 1 TV	[ara][fra]	Yes
+10873	V	Europe	10	TV	Arryadia HD	[ara]	Yes
+10873	V	Europe	11	R	Radio Nationale		Yes
+10873	V	Europe	12	R	Dakhla - Radio sud	[ara]	Yes
+10873	V	Europe	14	R	Radio Inter		Yes
+10873	V	Europe	15	R	Radio Amazigh	[ber]	Yes
+10873	V	Europe	16	R	Radio Med VI		Yes
+10873	V	Europe	50	R	Agadir	[ara]	Yes
+10873	V	Europe	53	R	Oujda	[ara]	Yes
+10873	V	Europe	54	R	Casablanca	[ara]	Yes
+10873	V	Europe	60	R	Houceima	[ara]	Yes
+10873	V	Europe	70	R	Tetouan	[ara]	Yes
+10873	V	Europe	80	R	Meknes	[ara]	Yes
+10873	V	Europe	90	R	Laâyoune	[ara]	Yes
+10873	V	Europe	91	R	Dakhla	[ara]	Yes
+10873	V	Europe	129	R	Medi1 Radio	[ara][fra]	Yes
+10873	V	Europe	177	R	Tanger	[ara]	Yes
+10873	V	Europe	178	R	Fes	[ara]	Yes
+10873	V	Europe	179	R	Marrakech	[ara]	Yes
+10873	V	Europe	241	TV	Tamazight HD	[tac][tam][tar]	Yes
+10930	H	HB9 Europe	41	TV	Kazakh TV HD	[eng][kaz][kir][rus][uzb]	Yes
+10930	H	HB9 Europe	1731	TV	HSE 24 Italia	[ita]	Yes
+10930	H	HB9 Europe	16924	TV	UA TV	[ukr]	Yes
+10949	V	HB8 Europe	7402	R	Bahai Radio		Yes
+10949	V	HB8 Europe	7403	R	WRN Russkij		Yes
+10949	V	HB8 Europe	7404	R	WRN English Europe		Yes
+10949	V	HB8 Europe	7406	R	Radio Jahani		Yes
+10949	V	HB8 Europe	7407	R	EDM Events	[eng]	Yes
+10949	V	HB8 Europe	7408	R	WRN Sawt Al Alam		Yes
+10949	V	HB8 Europe	7456	TV	Al Hiwar TV	[ara]	Yes
+10949	V	HB8 Europe	7462	TV	EWTN Europe	[eng]	Yes
+10949	V	HB8 Europe	7463	TV	CNBC Europe	[eng]	Yes
+10949	V	HB8 Europe	7470	TV	Sat 7 Pars	[far]	Yes
+10992	V	Europe	8511	TV	Rai 1	[ita][vo]	Yes
+10992	V	Europe	8512	TV	Rai 2	[eng][ita][vo]	Yes
+10992	V	Europe	8513	TV	Rai 3	[ita][vo]	Yes
+10992	V	Europe	8515	R	Rai Radio Tutta Italiana	[ita]	Yes
+10992	V	Europe	8516	TV	Rai News 24	[ita]	Yes
+10992	V	Europe	8554	R	Radio OM unica	[ita]	Yes
+10992	V	Europe	8555	R	Rai Radio2 mono	[ita]	Yes
+10992	V	Europe	8556	R	Rai Radio3 mono	[ita]	Yes
+10992	V	Europe	8557	R	Rai Radio1 Sport	[ita]	Yes
+11034	V	Europe	1701	TV	Algérie 5	[ara]	Yes
+11034	V	Europe	1702	TV	Algérie 4	[ber]	Yes
+11034	V	Europe	1703	TV	TNT Comedy	[rus]	Yes
+11034	V	Europe	1704	TV	112 Ukraine HD	[ukr]	Yes
+11034	V	Europe	1705	TV	2M Monde	[fra]	Yes
+11034	V	Europe	1706	TV	CGTN	[eng]	Yes
+11034	V	Europe	1707	TV	TV Rus	[rus]	Yes
+11034	V	Europe	1707	TV	TV Rus	[rus]	Yes
+11034	V	Europe	1708	TV	RTR Planeta	[rus]	Yes
+11034	V	Europe	1709	TV	BestMarket TV	[rus]	Yes
+11034	V	Europe	1710	TV	Rossiya 24	[rus]	Yes
+11034	V	Europe	1711	R	Chaine 2		Yes
+11034	V	Europe	1713	TV	NTV Mir	[rus]	Yes
+11034	V	Europe	1717	TV	Ganj e Hozour TV	[far]	Yes
+11034	V	Europe	1718	TV	TV 8 Russia	[rus]	Yes
+11034	V	Europe	1731	R	Chaine 3	[ara]	Yes
+11034	V	Europe	1751	R	Chaine 1	[ara]	Yes
+11034	V	Europe	1755	R	Radio 2M	[ara]	Yes
+11054	H	Europe	8003	TV	Arti TV	[tur]	Yes
+11054	H	Europe	8004	TV	MC EU	[tur]	Yes
+11054	H	Europe	8011	TV	MB Sat - Test 1	[ger]	Yes
+11054	H	Europe	8011	TV	MB SAT - Test 1	[ger]	Yes
+11054	H	Europe	8025	TV	Jin TV	[kur]	Yes
+11054	H	Europe	8027	TV	Can TV	[tur]	Yes
+11054	H	Europe	8031	TV	Iran Aryaee	[far]	Yes
+11054	H	Europe	8033	TV	MB Sat - Test 2	[ger]	Yes
+11054	H	Europe	8034	TV	MB Sat - Test 3	[ger]	Yes
+11054	H	Europe	8035	TV	MB Sat - Test 4	[ger]	Yes
+11054	H	Europe	8035	TV	MB SAT - Test 4	[ger]	Yes
+11054	H	Europe	8036	TV	MB Sat - Test 5	[ger]	Yes
+11054	H	Europe	8037	TV	MB Sat - Test 6	[ger]	Yes
+11075	V	Europe	3710	TV	Aristo.TV	[ger]	Yes
+11075	V	Europe	3711	TV	Anixe TV	[ger]	Yes
+11075	V	Europe	3712	TV	Anixe HD	[ger]	Yes
+11075	V	Europe	3715	TV	TVP Polonia	[pol]	Yes
+11137	H	Europe	7302	TV	Bloomberg Europe	[eng]	Yes
+11137	H	Europe	7305	TV	Al Jazeera English	[eng]	Yes
+11137	H	Europe	7306	TV	Al Jazeera English HD	[eng]	Yes
+11137	H	Europe	7322	TV	TV5 Monde Europe	[fra]	Yes
+11137	H	Europe	7333	TV	Bartar TV	[far]	Yes
+11137	H	Europe	7355	TV	Manoto 1	[far]	Yes
+11179	H	Europe	4904	TV	Al Karma	[ara]	Yes
+11179	H	Europe	4908	TV	Fashion TV	[eng]	Yes
+11179	H	Europe	4910	TV	Juwelo TV Italia	[ita]	Yes
+11179	H	Europe	4911	TV	Juwelo TV Italia	[ita]	Yes
+11179	H	Europe	4923	TV	Coptic TV	[ara]	Yes
+11179	H	Europe	4937	TV	Marjaeyat		Yes
+11179	H	Europe	4955	TV	Radio Radio TV	[eng][ita]	Yes
+11179	H	Europe	4957	R	Radio Margherita	[ita]	Yes
+11179	H	Europe	4960	TV	Canale Italia 2	[ita]	Yes
+11179	H	Europe	4970	TV	TeleCampione	[ita]	Yes
+11179	H	Europe	4974	TV	Regal TV	[ita]	Yes
+11179	H	Europe	4993	TV	ART Invest	[ita]	Yes
+11179	H	Europe	4994	TV	Telecupole	[ita]	Yes
+11179	H	Europe	4996	TV	All Inn Channel	[ita]	Yes
+11200	V	Europe	4703	TV	Mohabat TV	[far]	Yes
+11200	V	Europe	4705	TV	.BLU	[ita]	Yes
+11200	V	Europe	4706	TV	MTA 3 Al Arabiyah	[ara]	Yes
+11200	V	Europe	4709	TV	KICC TV		Yes
+11200	V	Europe	4727	R	CRFR-NEW LIFE		Yes
+11200	V	Europe	4728	R	Bahai Radio		Yes
+11200	V	Europe	4732	R	Radio Mojdeh	[far]	Yes
+11200	V	Europe	4763	TV	Gunaz TV	[aze]	Yes
+11200	V	Europe	4764	R	VOISFARSI	[far]	Yes
+11200	V	Europe	4774	TV	!mwal3a 3lik	[ara]	Yes
+11200	V	Europe	4775	TV	Nar Elhob	[ara]	Yes
+11200	V	Europe	4776	TV	anta 7iate		Yes
+11200	V	Europe	4777	TV	lo3b whob		Yes
+11200	V	Europe	4778	TV	Arab Fun 2		Yes
+11200	V	Europe	4784	TV	Al Waad Channel	[ara]	Yes
+11200	V	Europe	4785	R	RVS Italy		Yes
+11219	H	HB9 Europe	1220	TV	Ukraine 24	[aac][ukr]	Yes
+11240	V	HB9 Europe	13930	TV	Novy Mir	[rus]	Yes
+11240	V	HB9 Europe	13931	TV	Russia Today		Yes
+11296	H	HB9 Europe	1550	R	Yemen Radio	[ara]	Yes
+11296	H	HB9 Europe	2201	TV	Freedom TV		Yes
+11296	H	HB9 Europe	2202	TV	CBC Azerbaycan	[aze]	Yes
+11296	H	HB9 Europe	2204	TV	Yemen TV		Yes
+11296	H	HB9 Europe	2207	TV	Kurdsat	[kur]	Yes
+11296	H	HB9 Europe	2208	TV	Nour TV		Yes
+11296	H	HB9 Europe	2209	TV	Ictimai TV	[eng]	Yes
+11296	H	HB9 Europe	2210	TV	STV Xezer	[tur]	Yes
+11296	H	HB9 Europe	2211	TV	Lalish TV		Yes
+11296	H	HB9 Europe	2212	TV	Kazakh TV	[eng]	Yes
+11296	H	HB9 Europe	2213	TV	Az TV 1	[aze]	Yes
+11296	H	HB9 Europe	2214	TV	Medya Haber	[eng]	Yes
+11296	H	HB9 Europe	2227	R	WELAT		Yes
+11316	V	HB9 Europe	17632	TV	Rusiya Al-Yaum	[ara]	Yes
+11316	V	HB9 Europe	17633	TV	Kentron TV	[arm]	Yes
+11316	V	HB9 Europe	17634	TV	Kalemeh TV	[eng]	Yes
+11316	V	HB9 Europe	17635	TV	Payam e Afghan		Yes
+11316	V	HB9 Europe	17636	TV	Kalsan TV	[eng]	Yes
+11316	V	HB9 Europe	17637	TV	HCTV - Horn Cable TV	[som]	Yes
+11316	V	HB9 Europe	17638	TV	Somali Cable		Yes
+11316	V	HB9 Europe	17639	TV	AssyriaSat (BET Nahrain)	[ara]	Yes
+11316	V	HB9 Europe	17640	TV	Hadi TV 3		Yes
+11334	H	HB9 Europe	4	TV	Armenia 1 TV	[arm]	Yes
+11334	H	HB9 Europe	5	R	Public Radio of Armenia	[arm]	Yes
+11334	H	HB9 Europe	6	TV	Armenia TV	[arm]	Yes
+11334	H	HB9 Europe	9	TV	SonLife Broadcasting Network	[eng][esp]	Yes
+11334	H	HB9 Europe	10	TV	RTP International	[por]	Yes
+11334	H	HB9 Europe	15	R	RDPI Radio	[por]	Yes
+11334	H	HB9 Europe	16	R	RADIO A1	[por]	Yes
+11334	H	HB9 Europe	17	TV	Hot Bird 4k Test	[aac][eng]	Yes
+11373	H	HB9 Europe	501	TV	Iran International HD	[far]	Yes
+11373	H	HB9 Europe	504	TV	Nasa TV		Yes
+11373	H	HB9 Europe	506	TV	Rudaw HD	[eng]	Yes
+11373	H	HB9 Europe	507	TV	Waar TV HD	[ara]	Yes
+11373	H	HB9 Europe	508	TV	Kurdistan 24 HD	[sor]	Yes
+11373	H	HB9 Europe	510	TV	Parole di Vita	[ita]	Yes
+11373	H	HB9 Europe	530	TV	World Fashion Channel		Yes
+11373	H	HB9 Europe	532	TV	Tesory Channel	[ita]	Yes
+11373	H	HB9 Europe	533	TV	NHK World HD	[eng]	Yes
+11373	H	HB9 Europe	534	TV	Iraqia News HD	[ara]	Yes
+11373	H	HB9 Europe	535	TV	ETV News	[eng]	Yes
+11393	V	HB9 Europe	4316	TV	Mango 24	[pol]	Yes
+11393	V	HB9 Europe	4317	TV	Nuta TV	[pol]	Yes
+11393	V	HB9 Europe	4324	TV	NTL	[pol]	Yes
+11393	V	HB9 Europe	4325	TV	Top Kids	[pol]	Yes
+11393	V	HB9 Europe	4327	TV	Power TV (Poland)	[pol]	Yes
+11393	V	HB9 Europe	4328	TV	TO!TV	[pol]	Yes
+11393	V	HB9 Europe	4348	TV	MANGO 24_	[pol]	Yes
+11411	H	HB9 Europe	14280	R			Yes
+11470	V	HB8 Europe	1	R	R Radio	[eng]	Yes
+11470	V	HB8 Europe	3	TV	Wesal Al Haq	[ara]	Yes
+11470	V	HB8 Europe	7	TV	ES TV		Yes
+11470	V	HB8 Europe	13	TV	Telefeshinka Caalamiga	[som]	Yes
+11470	V	HB8 Europe	13	TV	Universal TV	[som]	Yes
+11470	V	HB8 Europe	14	TV	Azadi Television	[far]	Yes
+11470	V	HB8 Europe	32	TV	SNTV	[som]	Yes
+11488	H	HB9 Europe	5136	R	Radio ZET	[pol]	Yes
+11488	H	HB9 Europe	5137	R	Meloradio	[pol]	Yes
+11488	H	HB9 Europe	5138	R	Chillizet	[pol]	Yes
+11488	H	HB9 Europe	5139	R	Antyradio	[pol]	Yes
+11488	H	HB9 Europe	5144	R	NC+ PR	[pr1][pr2][pr3][r24][zag]	Yes
+11488	H	HB9 Europe	5145	R	JASNA GORA	[pol]	Yes
+11488	H	HB9 Europe	5149	TV		[eng][pol]	Yes
+11488	H	HB9 Europe	5162	R	TOK FM	[pol]	Yes
+11488	H	HB9 Europe	5198	R			Yes
+11526	H	HB9 Europe	14021	R	SRF 1	[ger]	Yes
+11526	H	HB9 Europe	14022	R	SRF 2 Kultur	[ger]	Yes
+11526	H	HB9 Europe	14023	R	SRF 3	[ger]	Yes
+11526	H	HB9 Europe	14024	R	SRF Virus	[ger]	Yes
+11526	H	HB9 Europe	14025	R	SRF Musikwelle	[ger]	Yes
+11526	H	HB9 Europe	14026	R	Radio-Rumantsch	[roh]	Yes
+11526	H	HB9 Europe	14027	R	RTS-1ere	[fra]	Yes
+11526	H	HB9 Europe	14028	R	Espace 2	[fra]	Yes
+11526	H	HB9 Europe	14029	R	Couleur3	[fra]	Yes
+11526	H	HB9 Europe	14030	R	Option Musique	[fra]	Yes
+11526	H	HB9 Europe	14031	R	Rete Uno	[ita]	Yes
+11526	H	HB9 Europe	14032	R	Rete Due	[ita]	Yes
+11526	H	HB9 Europe	14033	R	Rete Tre	[ita]	Yes
+11526	H	HB9 Europe	14034	R	Swiss Classic	[ger]	Yes
+11526	H	HB9 Europe	14035	R	Swiss Pop	[ger]	Yes
+11526	H	HB9 Europe	14036	R	Swiss Jazz	[ger]	Yes
+11526	H	HB9 Europe	14037	R	SRF 4 News	[ger]	Yes
+11526	H	HB9 Europe	14039	R	Swiss Classique	[fra]	Yes
+11526	H	HB9 Europe	14040	R	SRF 1 AG SO	[ger]	Yes
+11526	H	HB9 Europe	14041	R	SRF 1 BS	[ger]	Yes
+11526	H	HB9 Europe	14042	R	SRF 1 BE FR VS	[ger]	Yes
+11526	H	HB9 Europe	14043	R	SRF 1 LU	[ger]	Yes
+11526	H	HB9 Europe	14044	R	SRF 1 SG	[ger]	Yes
+11526	H	HB9 Europe	14045	R	SRF 1 ZH SH	[ger]	Yes
+11526	H	HB9 Europe	14046	R	SRF 1 GR	[ger]	Yes
+11526	H	HB9 Europe	14047	R	Swiss Classica	[ita]	Yes
+11526	H	HB9 Europe	14054	TV	Test14054	[ger]	Yes
+11541	V	HB8 Europe	3623	TV	Simaye Azadi HD	[far]	Yes
+11541	V	HB8 Europe	3628	TV	TG Norba 24	[ita]	Yes
+11541	V	HB8 Europe	3636	R	R-BuonConsiglio	[ita]	Yes
+11565	H	HB8 Europe	798	TV	Qatar TV HD	[ara]	Yes
+11565	H	HB8 Europe	799	TV	TRT Arabi HD	[ara]	Yes
+11565	H	HB8 Europe	800	TV	Belarus 24 HD	[rus]	Yes
+11565	H	HB8 Europe	801	TV	Euronews HD	[eng]	Yes
+11565	H	HB8 Europe	802	TV	Kuwait TV	[ara]	Yes
+11565	H	HB8 Europe	803	TV	TRT World HD	[eng]	Yes
+11565	H	HB8 Europe	804	R	Kuwait Radio1	[ara]	Yes
+11565	H	HB8 Europe	805	R	Kuwait HolyQuran	[ara]	Yes
+11565	H	HB8 Europe	806	TV	Bahrain TV	[ara]	Yes
+11565	H	HB8 Europe	807	TV	France 24 HD (en Francais)	[fra]	Yes
+11565	H	HB8 Europe	808	TV	France 24 HD (in English)	[eng]	Yes
+11565	H	HB8 Europe	810	R	Radio Belarus International	[rus]	Yes
+11585	V	Europe	871	TV	CCTV 4	[chi]	Yes
+11585	V	Europe	872	TV	CGTN	[eng]	Yes
+11585	V	Europe	873	TV	CGTN Documentary	[eng]	Yes
+11585	V	Europe	874	TV	CGTN Espaňol HD	[eng]	Yes
+11585	V	Europe	875	TV	CGTN Français HD	[fra]	Yes
+11623	V	Europe	10501	R	Radio Congo	[fra]	Yes
+11623	V	Europe	10701	TV	TV Congo	[fra]	Yes
+11623	V	Europe	10715	TV	Arirang TV	[eng]	Yes
+11623	V	Europe	10723	TV	Soyuz TV	[rus]	Yes
+11623	V	Europe	10726	TV	ERT World	[gre]	Yes
+11623	V	Europe	10727	R	PROTO	[gre]	Yes
+11623	V	Europe	10728	R	DEUTERO	[gre]	Yes
+11623	V	Europe	10729	R	TRITO	[gre]	Yes
+11623	V	Europe	10730	R	ERA SPORT	[gre]	Yes
+11623	V	Europe	10731	R	VOICE OF GREECE	[gre]	Yes
+11623	V	Europe	10763	R	YAADOUT2000		Yes
+11623	V	Europe	10766	R	FRANCE MAGHREB 2	[fra]	Yes
+11623	V	Europe	10767	R	RADIO ORIENT		Yes
+11642	H	Europe	1307	TV	RTL 102.5 TV HD	[ita]	Yes
+11642	H	Europe	1308	TV	Radio Freccia HD	[ita]	Yes
+11642	H	Europe	1309	TV	i24News HD Français	[fra]	Yes
+11642	H	Europe	1310	TV	i24News HD English	[eng]	Yes
+11642	H	Europe	1311	TV	Radionorba TV	[ita]	Yes
+11642	H	Europe	1313	TV	KBS World HD	[eng]	Yes
+11642	H	Europe	1314	TV	HRT International	[cro]	Yes
+11642	H	Europe	1316	TV	Eutelsat Promo	[eng]	Yes
+11642	H	Europe	1317	TV	Kurdistan TV	[kur]	Yes
+11642	H	Europe	1318	TV	Daystar HD	[eng]	Yes
+11642	H	Europe	1319	R	VOICE OF CRO	[cro]	Yes
+11642	H	Europe	1320	TV	Bethel HD	[eng]	Yes
+11642	H	Europe	1321	TV	Zeta TV HD	[ita]	Yes
+11642	H	Europe	1323	TV	RTL 102.5 Radio Doc	[ita]	Yes
+11642	H	Europe	1328	TV	People TV	[ita]	Yes
+11662	V	Europe	16920	TV	Emilia Romagna 24	[ita]	Yes
+11662	V	Europe	16922	TV	TRM Network	[ita]	Yes
+11662	V	Europe	16925	TV	Canale Italia	[eng]	Yes
+11662	V	Europe	16937	TV	La 8	[ita]	Yes
+11662	V	Europe	16938	TV	AuroraArte	[ita]	Yes
+11662	V	Europe	16939	TV	Life 120 Channel	[ita]	Yes
+11662	V	Europe	16952	TV	Tele Padre Pio	[ita]	Yes
+11662	V	Europe	16955	TV	Tele 5 Polska	[pol]	Yes
+11662	V	Europe	16956	TV	Polonia 1	[pol]	Yes
+11662	V	Europe	16961	TV	TV Romania International	[rom]	Yes
+11662	V	Europe	16962	TV	Radio Italia TV	[ita]	Yes
+11662	V	Europe	16963	TV	Unire Sat HD		Yes
+11662	V	Europe	16964	TV	Arte Atelier	[ita]	Yes
+11662	V	Europe	16965	TV	Antichità Chiossone	[eng]	Yes
+11662	V	Europe	16966	TV	Radio Italia Trend TV  HD	[ita]	Yes
+11662	V	Europe	16967	TV	Suryoyo Sat	[eng]	Yes
+11662	V	Europe	16969	TV	Venus TV Italy	[ita]	Yes
+11662	V	Europe	16970	TV	Music Life	[ita]	Yes
+11662	V	Europe	16971	TV	Lazio Channel	[ita]	Yes
+11662	V	Europe	16973	TV	Fuego	[ita]	Yes
+11662	V	Europe	16976	TV	Radio Kiss Kiss TV	[ita]	Yes
+11662	V	Europe	16977	TV	RDS Social TV	[ita]	Yes
+11662	V	Europe	16979	TV	QVC Italia HD	[ita]	Yes
+11662	V	Europe	16980	TV	BFC	[ita]	Yes
+11662	V	Europe	16981	R	Radio Number One	[ita]	Yes
+11662	V	Europe	16982	R	Test Radio Sportiva	[ita]	Yes
+11662	V	Europe	16983	TV	CIAO	[ita]	Yes
+11662	V	Europe	16986	TV	Napoli Mia	[eng]	Yes
+11662	V	Europe	16988	TV	TVA Vicenza	[ita]	Yes
+11662	V	Europe	16992	TV	Videolina		Yes
+11662	V	Europe	16993	TV	TeleItalia	[eng]	Yes
+11662	V	Europe	16996	TV	Eursat	[ita]	Yes
+11662	V	Europe	16997	TV	La 9	[ita]	Yes
+11662	V	Europe	16998	TV	Digiquest Promo	[eng]	Yes
+11681	H	Europe	307	TV	Arte HD	[fra][ger][qaa][qad]	Yes
+11727	V	HB8 Europe	13101	TV	DW English HD	[eng]	Yes
+11727	V	HB8 Europe	13102	TV	BBC Arabic HD	[ara]	Yes
+11727	V	HB8 Europe	13103	TV	Podeba TV	[rus]	Yes
+11727	V	HB8 Europe	13121	R	DW08	[ger]	Yes
+11727	V	HB8 Europe	13122	R	DW09	[ger]	Yes
+11727	V	HB8 Europe	13123	R	DW-FM01	[ger]	Yes
+11727	V	HB8 Europe	13124	R	DW-FM02	[ger]	Yes
+11727	V	HB8 Europe	13125	R	DW-FEED1	[ger]	Yes
+11727	V	HB8 Europe	13126	R	BBC Horn of Africa		Yes
+11727	V	HB8 Europe	13127	R	BBC Arabic Radio	[ara]	Yes
+11727	V	HB8 Europe	13128	R	BBC English (Europe)	[eng]	Yes
+11727	V	HB8 Europe	13129	R	BBC English Mid_East	[eng]	Yes
+11727	V	HB8 Europe	13198	TV	Test GC 3		Yes
+11727	V	HB8 Europe	13199	TV	Test GC 4		Yes
+11747	H	HB9 Europe	9504	TV	Sharjah HD	[ara]	Yes
+11747	H	HB9 Europe	9507	TV	Dubai Sports 1 HD	[ara][eng]	Yes
+11747	H	HB9 Europe	9509	TV	Zad TV	[ara]	Yes
+11747	H	HB9 Europe	9510	TV	Al Sharqiya HD	[ara]	Yes
+11747	H	HB9 Europe	9513	TV	Al Arabiya HD	[ara]	Yes
+11747	H	HB9 Europe	9516	TV	Sky News Arabia	[ara]	Yes
+11747	H	HB9 Europe	9518	TV	Orient News	[eng]	Yes
+11747	H	HB9 Europe	9521	R	AL SHARJAH RADIO	[ara]	Yes
+11804	V	HB9 Europe	3302	TV	Camera dei Deputati	[ita]	Yes
+11804	V	HB9 Europe	3303	TV	Rai Sport	[ita]	Yes
+11804	V	HB9 Europe	3304	TV	Rai Storia	[ita]	Yes
+11804	V	HB9 Europe	3305	TV	Rai Gulp	[ita]	Yes
+11804	V	HB9 Europe	3307	TV	Rai Scuola	[ita]	Yes
+11804	V	HB9 Europe	3308	TV	Rai Nettuno Sat Uno	[ita]	Yes
+11804	V	HB9 Europe	3311	R	Rai Radio 1	[ita]	Yes
+11804	V	HB9 Europe	3312	R	Rai Radio 2	[ita]	Yes
+11804	V	HB9 Europe	3313	R	Rai Radio 3	[ita]	Yes
+11804	V	HB9 Europe	3314	TV	Senato italiano	[ita][vo]	Yes
+11804	V	HB9 Europe	3315	R	Rai Radio3 Classica	[ita]	Yes
+11804	V	HB9 Europe	3317	R	Rai GR Parlamento	[ita]	Yes
+11804	V	HB9 Europe	3318	R	Rai Isoradio	[ita]	Yes
+11804	V	HB9 Europe	3319	R	Rai Radio Techete'	[ita]	Yes
+11804	V	HB9 Europe	3320	R	Rai Radio Live	[ita]	Yes
+11804	V	HB9 Europe	3321	R	Rai Radio Kids	[ita]	Yes
+11804	V	HB9 Europe	3322	R	Rai Radio2 indie	[ita]	Yes
+11823	H	HB8 Europe	310	R	Greek Church	[gre]	Yes
+11823	H	HB8 Europe	313	R	RR3	[eng]	Yes
+11881	V	HB8 Europe	3696	R	IEPG Data		Yes
+11919	V	HB9 Europe	8	TV	TgCom24	[ita]	Yes
+11919	V	HB9 Europe	101	R	Radio R101	[ita]	Yes
+11919	V	HB9 Europe	102	R	Radio Monte Carlo	[ita]	Yes
+11919	V	HB9 Europe	103	R	RMC2	[ita]	Yes
+11919	V	HB9 Europe	104	R	Virgin radio	[ita]	Yes
+11919	V	HB9 Europe	105	R	Radio 105	[ita]	Yes
+11919	V	HB9 Europe	106	R	Radio Orbital	[por]	Yes
+12034	V	HB8 Europe	11131	R	InBlu		Yes
+12034	V	HB8 Europe	11174	R	INBLU2000		Yes
+12034	V	HB8 Europe	11180	TV	TV 2000	[ita]	Yes
+12034	V	HB8 Europe	11181	R	Radio Vaticana Europa		Yes
+12111	V	HB9 Europe	705	TV	Al Jazeera Documentary	[ara]	Yes
+12111	V	HB9 Europe	706	TV	Al Jazeera Mubasher	[ara]	Yes
+12111	V	HB9 Europe	708	TV	Al Jazeera Satellite Channel	[ara]	Yes
+12111	V	HB9 Europe	723	TV	S Neu Jerusalem	[ger]	Yes
+12111	V	HB9 Europe	724	TV	Neu Jerusalem 2	[ger]	Yes
+12111	V	HB9 Europe	727	TV	El Sharq		Yes
+12111	V	HB9 Europe	732	R	Radio Maria		Yes
+12111	V	HB9 Europe	733	R	RIK 3	[gre]	Yes
+12111	V	HB9 Europe	735	TV	Al Mayadeen	[ara]	Yes
+12111	V	HB9 Europe	736	R	RDS		Yes
+12111	V	HB9 Europe	737	R	DimSuono Roma	[ita]	Yes
+12111	V	HB9 Europe	738	R	ANNI 60		Yes
+12111	V	HB9 Europe	740	R	R. Italia S.m.i.		Yes
+12111	V	HB9 Europe	742	R	Radio Kiss Kiss	[ita]	Yes
+12111	V	HB9 Europe	744	R	Radio PadrePio	[ita]	Yes
+12111	V	HB9 Europe	749	R	R. Eurospin		Yes
+12111	V	HB9 Europe	756	TV	Canale Italia 83		Yes
+12111	V	HB9 Europe	757	TV	Canale Italia 84		Yes
+12111	V	HB9 Europe	761	R	Radio RADICALE	[ita]	Yes
+12111	V	HB9 Europe	766	R	DimSuono Soft  MI		Yes
+12111	V	HB9 Europe	767	R	DimSuono Soft RM	[ita]	Yes
+12111	V	HB9 Europe	768	R	Discoradio	[ita]	Yes
+12111	V	HB9 Europe	769	R	Radio Radio	[ita]	Yes
+12111	V	HB9 Europe	780	TV	QVC Italia		Yes
+12111	V	HB9 Europe	782	TV	RIK Sat	[gre]	Yes
+12111	V	HB9 Europe	785	TV	Mekameleen TV	[ara]	Yes
+12111	V	HB9 Europe	788	TV	MTA International	[ara][eng][fra][ger][hin]	Yes
+12149	V	HB8 Europe	3630	R	RADIO FRECCIA	[ita]	Yes
+12149	V	HB8 Europe	3631	R	Radio Margherita		Yes
+12149	V	HB8 Europe	3632	R	RADIO ITALIA s.m.i.	[ita]	Yes
+12149	V	HB8 Europe	3633	R	Radio Cusano Campus	[ita]	Yes
+12149	V	HB8 Europe	3637	R	Radio Sportiva		Yes
+12149	V	HB8 Europe	3642	R	RTL 102.5	[ita]	Yes
+12149	V	HB8 Europe	3643	R	RADIO ZETA	[ita]	Yes
+12149	V	HB8 Europe	3644	R	Radio 24	[ita]	Yes
+12149	V	HB8 Europe	3645	R	R.ONDA D'URTO	[ita]	Yes
+12149	V	HB8 Europe	3650	R	DISCORADIO	[ita]	Yes
+12149	V	HB8 Europe	3651	R	DEEJAY	[ita]	Yes
+12149	V	HB8 Europe	3652	R	CAPITAL	[ita]	Yes
+12149	V	HB8 Europe	3653	R	M DUE O	[ita]	Yes
+12149	V	HB8 Europe	3654	R	Radio Iglesias		Yes
+12149	V	HB8 Europe	3656	R	popolare	[ita]	Yes
+12149	V	HB8 Europe	7202	TV	Tunisia Nat 1	[ara]	Yes
+12149	V	HB8 Europe	7224	TV	CCTV 4	[chi]	Yes
+12149	V	HB8 Europe	7225	TV	Persian Music Channel	[far]	Yes
+12149	V	HB8 Europe	7226	TV	Al Alam	[ara]	Yes
+12149	V	HB8 Europe	7250	R	R Tunisie Nationale	[ara]	Yes
+12149	V	HB8 Europe	7251	R	R Tunisie Internatio	[fra]	Yes
+12149	V	HB8 Europe	7254	TV	SMTV San Marino HD	[ita]	Yes
+12149	V	HB8 Europe	7255	R	SMTv San Marino Radio	[ita]	Yes
+12149	V	HB8 Europe	7279	TV	Al Bayyinah TV	[ara]	Yes
+12149	V	HB8 Europe	7280	R	RADIO MATER		Yes
+12169	H	HB8 Europe	371	R	Radio1		Yes
+12169	H	HB8 Europe	384	TV	Kanali Voulis	[gre]	Yes
+12169	H	HB8 Europe	392	R	Radio3		Yes
+12169	H	HB8 Europe	393	R	Radio2		Yes
+12188	V	HB8 Europe	7309	TV	TV Okazje	[pol]	Yes
+12188	V	HB8 Europe	7319	TV	TV Okazje		Yes
+12188	V	HB8 Europe	7321	R	Muzo.fm	[pol]	Yes
+12188	V	HB8 Europe	7322	R	RMF Classic	[pol]	Yes
+12188	V	HB8 Europe	7326	R	RMF MAXXX	[pol]	Yes
+12188	V	HB8 Europe	7328	R	Zlote Przeboje	[pol]	Yes
+12188	V	HB8 Europe	7331	R	Muzo.fm		Yes
+12188	V	HB8 Europe	7332	R	RMF Classic		Yes
+12188	V	HB8 Europe	7336	R	RMF MAXXX		Yes
+12188	V	HB8 Europe	7338	R	Zlote Przeboje		Yes
+12225	V	HB8 Europe	1	TV	CurrentTime HD		Yes
+12225	V	HB8 Europe	2	TV	CurrentTime SD		Yes
+12225	V	HB8 Europe	100	TV	VOA EU HD 100		Yes
+12225	V	HB8 Europe	101	R	VOA Radio 101 (HB51-52)		Yes
+12225	V	HB8 Europe	102	R	VOA Radio 102 (HB53-56)		Yes
+12225	V	HB8 Europe	104	R	VOA Music Mix 104 (HB57-60)		Yes
+12225	V	HB8 Europe	106	R	VOA Radio 106 (HB61-64)		Yes
+12225	V	HB8 Europe	108	R	VOA Radio 108 (HB65-68)		Yes
+12225	V	HB8 Europe	110	R	VOA Radio 110 (HB69-72)		Yes
+12225	V	HB8 Europe	113	R	VOA Radio 113 (HB75-76)		Yes
+12225	V	HB8 Europe	114	R	Sawa Levant Radio 114		Yes
+12225	V	HB8 Europe	115	R	Sawa Iraq Radio 115		Yes
+12225	V	HB8 Europe	116	R	Yamal 116		Yes
+12225	V	HB8 Europe	118	R	Sawa N. Africa Radio 118		Yes
+12225	V	HB8 Europe	121	R	VOA Iraq N/S Radio 121		Yes
+12225	V	HB8 Europe	122	R	Sawa Sudan Radio 122		Yes
+12225	V	HB8 Europe	123	R	Sawa Lebanon Radio 123		Yes
+12225	V	HB8 Europe	200	TV	CurrentTime HD 200		Yes
+12225	V	HB8 Europe	201	R	Radio Svoboda RU 201		Yes
+12225	V	HB8 Europe	202	R	Radio Svoboda UA 202		Yes
+12225	V	HB8 Europe	205	R	Radio Svaboda 205		Yes
+12225	V	HB8 Europe	207	R	Azatutyun 207		Yes
+12225	V	HB8 Europe	208	R	Radio Deewa 208		Yes
+12225	V	HB8 Europe	210	R	Mashaal Radio 210		Yes
+12225	V	HB8 Europe	212	R	Ozodlik Radiosi 212		Yes
+12225	V	HB8 Europe	213	R	Azadliq Radiosu 213		Yes
+12225	V	HB8 Europe	215	R	Alhurra TV 215		Yes
+12225	V	HB8 Europe	216	R	Kabul Stream 216		Yes
+12225	V	HB8 Europe	217	R	Azatlyk Radiosy 217		Yes
+12225	V	HB8 Europe	220	R	RL North Caucasus 220		Yes
+12225	V	HB8 Europe	222	R	RSE Balkans 222		Yes
+12225	V	HB8 Europe	223	TV	Radio Farda 223		Yes
+12225	V	HB8 Europe	225	TV	VOA Persian SD 225		Yes
+12225	V	HB8 Europe	226	R	Farda TV Audio 226		Yes
+12225	V	HB8 Europe	227	R	Evropa e Lire 227		Yes
+12225	V	HB8 Europe	235	TV	VOA Persian HD 235		Yes
+12225	V	HB8 Europe	240	TV	VOA EU SD 240		Yes
+12225	V	HB8 Europe	295	R	VOA Radio 295 (HB 89 - 92)		Yes
+12225	V	HB8 Europe	308	R	Darfur/Egypt Mono 308		Yes
+12225	V	HB8 Europe	310	R	VOA Urdu Radio 310		Yes
+12225	V	HB8 Europe	340	TV	Global HD 340		Yes
+12303	V	HB8 Europe	1	TV	TV Record	[por]	Yes
+12303	V	HB8 Europe	783	TV	Telesur	[esp]	Yes
+12303	V	HB8 Europe	801	TV	TBN Europe HD	[eng]	Yes
+12303	V	HB8 Europe	802	TV	Life TV	[rus]	Yes
+12303	V	HB8 Europe	804	TV	Hillsong	[eng]	Yes
+12303	V	HB8 Europe	806	TV	Al Horreya TV	[ara]	Yes
+12303	V	HB8 Europe	807	TV	TBN Poland	[pol]	Yes
+12303	V	HB8 Europe	809	TV	Nejat TV	[eng]	Yes
+12303	V	HB8 Europe	810	TV	Al Hayat / Life Channel	[ara]	Yes
+12303	V	HB8 Europe	3203	TV	TBNE Italy (Trinity Broadcasting Network)	[ita]	Yes
+12303	V	HB8 Europe	3501	TV	TVE Internacional HD	[esp]	Yes
+12303	V	HB8 Europe	3502	TV	24 Horas HD	[esp]	Yes
+12303	V	HB8 Europe	3581	R	Radio 1	[esp]	Yes
+12303	V	HB8 Europe	3582	R	Radio Clasica	[esp]	Yes
+12303	V	HB8 Europe	3583	R	Radio 3	[esp]	Yes
+12303	V	HB8 Europe	3584	R	Radio 5	[esp]	Yes
+12303	V	HB8 Europe	3585	R	Radio Exterior	[esp]	Yes
+12303	V	HB8 Europe	3586	R	Radio 4	[esp]	Yes
+12322	H	HB8 Europe	13920	TV	Shant TV	[arm]	Yes
+12322	H	HB8 Europe	13944	TV	BBC Persian	[far]	Yes
+12322	H	HB8 Europe	14807	TV	Velayat TV		Yes
+12322	H	HB8 Europe	14810	TV	Iran International	[eng]	Yes
+12360	H	HB8 Europe	7245	TV	CNBC Europe HD	[eng]	Yes
+12380	V	HB8 Europe	1514	R	RFI Germany		Yes
+12380	V	HB8 Europe	1515	R	RFI Prague		Yes
+12380	V	HB8 Europe	1516	R	RFI Metropole		Yes
+12380	V	HB8 Europe	1520	R	RFI Bucarest		Yes
+12380	V	HB8 Europe	1523	R	RFI Erevan		Yes
+12380	V	HB8 Europe	1525	R	RFI Chisinau		Yes
+12380	V	HB8 Europe	1526	R	RFI Albania		Yes
+12380	V	HB8 Europe	1529	R	RFI Liban		Yes
+12380	V	HB8 Europe	1534	R	RFI Persian	[far]	Yes
+12380	V	HB8 Europe	1549	R	RFI Test		Yes
+12380	V	HB8 Europe	3002	R	Sout Alrayyan	[ara]	Yes
+12380	V	HB8 Europe	3012	TV	Karbala TV	[eng]	Yes
+12380	V	HB8 Europe	3013	TV	CGN TV	[kor]	Yes
+12380	V	HB8 Europe	3014	TV	Euronews Russian	[rus]	Yes
+12380	V	HB8 Europe	3015	TV	Euronews Hungarian	[hun]	Yes
+12380	V	HB8 Europe	3017	TV	Al Siera Al Nabaweia	[ara]	Yes
+12380	V	HB8 Europe	3087	R	RFI Francais	[fra]	Yes
+12380	V	HB8 Europe	3088	R	RFI Langues Est		Yes
+12380	V	HB8 Europe	3089	R	RFI Langues Div		Yes
+12380	V	HB8 Europe	3090	R	RFI Afrique		Yes
+12380	V	HB8 Europe	3091	R	RFI Divers 7		Yes
+12380	V	HB8 Europe	3092	R	RFI RMC MO		Yes
+12399	H	HB8 Europe	903	TV	Sama Dubai HD	[ara]	Yes
+12399	H	HB8 Europe	904	R	Noor Dubai Radio	[ara]	Yes
+12399	H	HB8 Europe	905	TV	Dubai TV HD	[ara]	Yes
+12399	H	HB8 Europe	906	TV	Dubai Sports 1 HD	[ara]	Yes
+12399	H	HB8 Europe	907	TV	Sudan TV		Yes
+12399	H	HB8 Europe	908	R	SUDAN R1	[ara]	Yes
+12399	H	HB8 Europe	909	R	SUDAN R2	[ara]	Yes
+12399	H	HB8 Europe	910	TV	ESC		Yes
+12399	H	HB8 Europe	911	R	ESC R1	[ara]	Yes
+12399	H	HB8 Europe	912	R	ESC R2		Yes
+12399	H	HB8 Europe	913	R	ESC R3		Yes
+12399	H	HB8 Europe	914	TV	Jordan TV		Yes
+12399	H	HB8 Europe	915	R	JORDAN R1	[ara]	Yes
+12399	H	HB8 Europe	916	TV	Libya Alwatnya	[ara]	Yes
+12399	H	HB8 Europe	920	TV	Oman TV HD		Yes
+12399	H	HB8 Europe	921	R	OMAN R1		Yes
+12399	H	HB8 Europe	922	R	OMAN R2		Yes
+12399	H	HB8 Europe	923	R	OMAN R3		Yes
+12399	H	HB8 Europe	924	R	OMAN HOLY QURAN		Yes
+12475	H	HB8 Europe	2001	TV	RT HD	[eng]	Yes
+12475	H	HB8 Europe	2002	TV	RT Doc HD	[eng]	Yes
+12475	H	HB8 Europe	2003	TV	Supertennis HD	[ita]	Yes
+12475	H	HB8 Europe	2004	TV	Telepace HD	[eng][ita]	Yes
+12475	H	HB8 Europe	2005	TV	2M Monde	[fra]	Yes
+12475	H	HB8 Europe	2017	TV	Euronews Italian	[ita]	Yes
+12475	H	HB8 Europe	2018	TV	Euronews Greek	[gre]	Yes
+12475	H	HB8 Europe	2100	TV	Al Rayyan HD Europe	[ara]	Yes
+12475	H	HB8 Europe	2101	R	SOUT AL-ISLAM FROM DOHA	[ara]	Yes
+12475	H	HB8 Europe	2104	R	Radio 2M	[ara]	Yes
+12520	V	Europe	9003	TV	Ronahi TV	[ara]	Yes
+12520	V	Europe	9004	TV	Med Music	[ara]	Yes
+12520	V	Europe	9005	TV	Fadak TV	[ara]	Yes
+12520	V	Europe	9006	TV	Alaraby 2 HD	[ara]	Yes
+12520	V	Europe	9007	TV	NetViet	[vie]	Yes
+12520	V	Europe	9009	TV	Angel TV	[eng]	Yes
+12520	V	Europe	9011	TV	Sterk TV HD		Yes
+12520	V	Europe	9012	TV	Cira TV	[ara]	Yes
+12520	V	Europe	9014	TV	Syria TV HD	[ara]	Yes
+12520	V	Europe	9016	TV	Somaliland National TV		Yes
+12520	V	Europe	9018	TV	The Kingdom Sat	[ara]	Yes
+12520	V	Europe	9056	R	Radio Hargesia		Yes
+12520	V	Europe	9057	R	Radio Quraan		Yes
+12539	H	Europe	1102	TV	Fashion 4K	[aac][eng]	Yes
+12576	H	Europe	1601	TV	Al Jazeera HD	[ara]	Yes
+12576	H	Europe	1602	TV	Fishing TV	[ita]	Yes
+12576	H	Europe	1603	TV	Wine TV	[aac]	Yes
+12576	H	Europe	1605	TV	Italia Channel		Yes
+12576	H	Europe	1607	TV	Mediatext.it		Yes
+12576	H	Europe	1608	TV	Telepiù Channel		Yes
+12576	H	Europe	1609	TV	Pianeta TV		Yes
+12576	H	Europe	1610	TV	Reality TV		Yes
+12576	H	Europe	1611	TV	Quore TV		Yes
+12576	H	Europe	1612	TV	CNC World	[eng]	Yes
+12576	H	Europe	1613	TV	MS Motor TV		Yes
+12576	H	Europe	1614	TV	MediaSport Channel		Yes
+12576	H	Europe	1615	TV	Canal Algérie	[fra]	Yes
+12576	H	Europe	1616	TV	Algerie 3 HD	[ara][fra]	Yes
+12576	H	Europe	1617	TV	TV Art Live		Yes
+12596	V	Europe	8202	R	BBC Horn of Africa	[eng]	Yes
+12596	V	Europe	8203	TV	BBC Arabic	[aac][ara]	Yes
+12596	V	Europe	8204	TV	BBC World News	[eng]	Yes
+12596	V	Europe	8205	R	BBC Arabic Radio	[ara]	Yes
+12596	V	Europe	8206	R	BBC English (Europe)	[eng]	Yes
+12596	V	Europe	8207	R	BBC English Mid-East	[eng]	Yes
+12596	V	Europe	8208	TV	Perviy Kanal Romania	[rus]	Yes
+12596	V	Europe	8213	TV	JSTV - Japan Satellite TV	[eng][jap][nat][ned]	Yes
+12596	V	Europe	8227	R	Service 8227		Yes
+12596	V	Europe	8293	TV	ORT International (Perviy kanal Vsemirnaja set)	[rus]	Yes
+12596	V	Europe	8295	TV	RT Doc	[eng]	Yes
+12616	H	HB9 Europe	11306	TV	Class TV Moda	[ita]	Yes
+12654	H	HB9 Europe	2	TV	TEST		Yes
+12654	H	HB9 Europe	3	TV	Saudi Channel 1	[ara]	Yes
+12654	H	HB9 Europe	4	TV	TEST	[eng]	Yes
+12654	H	HB9 Europe	5	TV	Iqraa TV	[ara]	Yes
+12654	H	HB9 Europe	6	TV	Sudan TV	[ara]	Yes
+12654	H	HB9 Europe	7	TV	Oman TV HD	[ara]	Yes
+12654	H	HB9 Europe	8	TV	Al Masriyah	[ara]	Yes
+12654	H	HB9 Europe	9	TV	TEST	[eng]	Yes
+12654	H	HB9 Europe	13	R	SAUDI R1	[ara]	Yes
+12654	H	HB9 Europe	16	R	SUDAN R1		Yes
+12654	H	HB9 Europe	17	R	OMAN R1		Yes
+12654	H	HB9 Europe	18	R	ESC R1	[ara]	Yes
+12654	H	HB9 Europe	23	R	SAUDI R2		Yes
+12654	H	HB9 Europe	26	R	SUDAN R2		Yes
+12654	H	HB9 Europe	27	R	OMAN R2		Yes
+12654	H	HB9 Europe	28	R	ESC R2	[ara]	Yes
+12654	H	HB9 Europe	37	R	OMAN R3		Yes
+12654	H	HB9 Europe	38	R	ESC R3	[ara]	Yes
+12654	H	HB9 Europe	40	TV	Jordan Satellite Channel	[ara]	Yes
+12654	H	HB9 Europe	42	TV	Al Haramien	[ara]	Yes
+12654	H	HB9 Europe	43	TV	Libya Alwatnya	[ara]	Yes
+12654	H	HB9 Europe	47	R	OMAN-HOLY QURAN		Yes
+12654	H	HB9 Europe	50	R	JORDAN R1		Yes
+12673	V	HB8 Europe	14547	R	Radio 105	[ita]	Yes
+12673	V	HB8 Europe	14548	R	Virgin Radio	[ita]	Yes
+12673	V	HB8 Europe	14552	R	R 101	[ita]	Yes
+12673	V	HB8 Europe	14556	R	Radio Montecarlo	[ita]	Yes
+12692	H	HB9 Europe	415	TV	BFM TV	[fra]	Yes

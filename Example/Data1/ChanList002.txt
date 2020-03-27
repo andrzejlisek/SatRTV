@@ -1,0 +1,535 @@
+Freq	Pol	Beam	SID	Type	Name	Lang	FTA
+10714	H	Astra 1M	5900	TV	Mainfranken HD	[ger]	Yes
+10714	H	Astra 1M	5901	TV	Franken Fernsehen	[ger]	Yes
+10714	H	Astra 1M	5902	TV	TVA-OTV	[ger]	Yes
+10714	H	Astra 1M	5903	TV	TV Oberfranken	[ger]	Yes
+10714	H	Astra 1M	5904	TV	Niederbayern TV	[ger]	Yes
+10714	H	Astra 1M	5905	TV	Oberpfalz TV HD	[ger]	Yes
+10744	H	Astra 1M	28721	TV	Tagesschau 24	[ger]	Yes
+10744	H	Astra 1M	28722	TV	One	[ger][mis]	Yes
+10744	H	Astra 1M	28724	TV	Arte (Germany)	[fra][ger][mis][mul]	Yes
+10744	H	Astra 1M	28725	TV	Phoenix	[ger][mul]	Yes
+10744	H	Astra 1M	28726	TV	Test-R	[ger]	Yes
+10773	H	Astra 1KR	21100	TV	Anixe HD	[ger]	Yes
+10773	H	Astra 1KR	21103	TV	QVC HD Germany	[ger]	Yes
+10773	H	Astra 1KR	21104	TV	HSE24 HD	[ger]	Yes
+10773	H	Astra 1KR	21112	TV	Sophia TV	[ger]	Yes
+10773	H	Astra 1KR	21113	TV	Genius Plus TV	[ger]	Yes
+10788	V	Astra 1M	30350	TV	Alquiler 1	[eng][esp]	Yes
+10788	V	Astra 1M	30351	TV	Alquiler 2	[eng][esp]	Yes
+10788	V	Astra 1M	30357	TV	Alquiler XY	[esp][vo]	Yes
+10803	H	Astra 1KR	5501	TV	HSE24 Extra HD	[ger]	Yes
+10803	H	Astra 1KR	5502	TV	1-2-3.tv HD	[ger]	Yes
+10803	H	Astra 1KR	5504	TV	QVC 2 HD	[ger]	Yes
+10847	V	Astra 1M	30102	TV	RADIOS	[vo]	Yes
+10847	V	Astra 1M	30104	R	RADIOS ESP	[esp]	Yes
+10847	V	Astra 1M	30105	R			Yes
+10847	V	Astra 1M	30108	TV	PORTADA	[esp]	Yes
+10847	V	Astra 1M	30110	TV	Bajo Demanda	[esp][vo]	Yes
+10847	V	Astra 1M	30118	TV		[esp][vo]	Yes
+10847	V	Astra 1M	30121	TV	GUÍA	[esp]	Yes
+10847	V	Astra 1M	30122	TV		[esp]	Yes
+10847	V	Astra 1M	30123	TV		[esp]	Yes
+10847	V	Astra 1M	30127	TV		[esp]	Yes
+10847	V	Astra 1M	30128	TV	ALQUILER	[esp][vo]	Yes
+10847	V	Astra 1M	30130	TV	ALQUILER	[esp][vo]	Yes
+10847	V	Astra 1M	30150	TV	PORTADA	[esp]	Yes
+10847	V	Astra 1M	30151	TV		[esp]	Yes
+10847	V	Astra 1M	30154	TV		[esp]	Yes
+10847	V	Astra 1M	30159	TV		[esp][vo]	Yes
+10847	V	Astra 1M	30169	TV	CONTRATO	[esp][vo]	Yes
+10847	V	Astra 1M	30175	TV	TEST_CSD2	[esp]	Yes
+10847	V	Astra 1M	30177	TV	TEST_CSD4	[esp]	Yes
+10847	V	Astra 1M	30178	TV	TEST_CSD5	[esp]	Yes
+10847	V	Astra 1M	30179	TV		[esp][vo]	Yes
+10847	V	Astra 1M	30190	TV		[esp]	Yes
+10847	V	Astra 1M	30191	TV		[esp]	Yes
+10847	V	Astra 1M	30193	TV		[esp]	Yes
+10847	V	Astra 1M	30194	TV		[esp]	Yes
+10847	V	Astra 1M	30195	TV		[esp]	Yes
+10847	V	Astra 1M	30196	TV		[esp]	Yes
+10847	V	Astra 1M	30197	TV		[esp]	Yes
+10847	V	Astra 1M	30198	TV	GUÍA FÁCIL	[esp][vo]	Yes
+10891	H	Astra 1M	10350	TV	rbb Brandenburg HD	[ger][mis]	Yes
+10891	H	Astra 1M	10351	TV	rbb Berlin HD	[ger][mis]	Yes
+10891	H	Astra 1M	10352	TV	MDR Sachsen HD	[ger][mis]	Yes
+10891	H	Astra 1M	10353	TV	MDR S-Anhalt HD	[ger][mis]	Yes
+10891	H	Astra 1M	10354	TV	MDR Thüringen HD	[ger][mis]	Yes
+10891	H	Astra 1M	10355	TV	hr-fernsehen HD	[ger][mis]	Yes
+10921	H	Astra 1KR	33	TV	Genius Family	[ger]	Yes
+10921	H	Astra 1KR	35	TV	Zee One	[ger]	Yes
+10921	H	Astra 1KR	37	TV	Sky Sport News Germany	[ger]	Yes
+10921	H	Astra 1KR	38	TV	HGTV	[ger]	Yes
+10921	H	Astra 1KR	39	TV	Mediashop Life	[ger]	Yes
+10964	H	Astra 1L	10101	TV	Zee One HD	[ger]	Yes
+10964	H	Astra 1L	10102	TV	Handystar TV HD	[ger]	Yes
+10964	H	Astra 1L	10104	TV	Channel 21 HD	[ger]	Yes
+10964	H	Astra 1L	10105	TV	QVC Style HD	[ger]	Yes
+10994	H	Astra 1L	1	TV	SES UHD Demo	[ger]	Yes
+10994	H	Astra 1L	2	TV	UHD1 by ASTRA / HD+	[ger]	Yes
+11038	V	Astra 1L	30404	TV		[esp][qaa]	Yes
+11053	H	Astra 1L	10375	TV	Tagesschau 24 HD	[ger]	Yes
+11053	H	Astra 1L	10376	TV	One HD	[ger][mis]	Yes
+11053	H	Astra 1L	10377	TV	ARD-alpha HD	[ger][mis]	Yes
+11053	H	Astra 1L	10378	TV	SR Fernsehen HD	[ger][mis]	Yes
+11053	H	Astra 1L	10379	TV	Radio Bremen HD	[ger][mis]	Yes
+11068	V	Astra 1L	1150	TV	RT Español	[esp]	Yes
+11068	V	Astra 1L	31301	TV	TV Record	[por]	Yes
+11068	V	Astra 1L	31304	TV	Telesur	[esp]	Yes
+11068	V	Astra 1L	31307	TV	I24 News Français	[fra]	Yes
+11097	V	Astra 1L	30050	TV	Multi-X	[mx1][mx2][mx3]	Yes
+11097	V	Astra 1L	30051	TV	Multi-X	[esp][vo]	Yes
+11097	V	Astra 1L	30053	TV	Alquiler 5	[eng][esp]	Yes
+11097	V	Astra 1L	30054	TV	Alquiler 6	[esp]	Yes
+11097	V	Astra 1L	30055	TV	Alquiler 3	[eng][esp]	Yes
+11097	V	Astra 1L	30056	TV	Alquiler X	[esp][vo]	Yes
+11097	V	Astra 1L	30057	TV	Alquiler XX	[esp][vo]	Yes
+11097	V	Astra 1L	30058	TV	Alquiler XXHard	[esp][vo]	Yes
+11097	V	Astra 1L	30063	TV	Alquiler 4	[eng][esp]	Yes
+11097	V	Astra 1L	30065	TV	Multi-X	[esp][vo]	Yes
+11097	V	Astra 1L	30066	TV	Multi-X	[esp][vo]	Yes
+11156	V	Astra 1KR	30505	TV	Canal Sur Andalucia	[esp]	Yes
+11171	H	Astra 1KR	125	TV	CNBC Europe HD	[eng]	Yes
+11171	H	Astra 1KR	143	TV	Sky Sport Austria 1 HD	[ger]	Yes
+11186	V	Astra 1L	4310	TV	TRWAM	[pol]	Yes
+11186	V	Astra 1L	4311	R	Radio Maryja	[pol]	Yes
+11229	V	Astra 1KR	5001	TV	BBC World News Europe HD	[eng]	Yes
+11229	V	Astra 1KR	5021	TV	NHK World HD	[eng]	Yes
+11229	V	Astra 1KR	5031	TV	Al Jazeera English HD	[eng]	Yes
+11229	V	Astra 1KR	5081	TV	Mont Blanc Live	[fra]	Yes
+11244	H	Astra 1KR	13222	TV	Volksmusik TV	[ger]	Yes
+11244	H	Astra 1KR	13224	TV	Bibel TV HD	[ger]	Yes
+11244	H	Astra 1KR	13225	TV	Schau TV HD	[ger]	Yes
+11244	H	Astra 1KR	13226	TV	StarParadies Österreich	[ger]	Yes
+11244	H	Astra 1KR	13227	TV	Hope Channel HD Germany	[ger]	Yes
+11244	H	Astra 1KR	13229	TV	RTL Plus Austria	[ger]	Yes
+11273	H	Astra 1KR	13311	TV	Aristo.TV	[ger]	Yes
+11273	H	Astra 1KR	13312	TV	R9 Österreich HD	[ger]	Yes
+11273	H	Astra 1KR	13314	TV	oe24.TV	[ger]	Yes
+11273	H	Astra 1KR	13315	TV	StarParadies Österreich	[ger]	Yes
+11273	H	Astra 1KR	13316	TV	GoTV	[ger]	Yes
+11273	H	Astra 1KR	13317	TV	Melodie TV	[ger]	Yes
+11288	V	Astra 1L	4216	TV	Rai News 24	[ita]	Yes
+11288	V	Astra 1L	4221	TV	CBNN HD	[eng]	Yes
+11288	V	Astra 1L	4225	TV	Deutschland Vozrozhdenie	[ukr]	Yes
+11288	V	Astra 1L	4230	TV	QVC UHD Germany	[ger]	Yes
+11303	H	Astra 1L	4914	TV	Servus TV HD Deutschland	[eng][ger]	Yes
+11303	H	Astra 1L	4920	R	OE3.	[ger]	Yes
+11347	V	Astra 1KR	11150	TV	3sat HD	[ger][mis][mul]	Yes
+11347	V	Astra 1KR	11160	TV	KiKa HD	[ger][mis]	Yes
+11347	V	Astra 1KR	11170	TV	ZDFinfo HD	[ger][mis][mul]	Yes
+11362	H	Astra 1KR	11110	TV	ZDF HD	[ger][mis][mul]	Yes
+11362	H	Astra 1KR	11130	TV	ZDF_neo HD	[ger][mis][mul]	Yes
+11376	V	Astra 1L	6380	TV	Telesur HD	[esp]	Yes
+11376	V	Astra 1L	6381	TV	RT HD	[eng]	Yes
+11376	V	Astra 1L	6382	TV	RT Español HD	[esp]	Yes
+11376	V	Astra 1L	6383	TV	RT France HD	[fra]	Yes
+11376	V	Astra 1L	6384	TV	Extremadura TV	[esp]	Yes
+11376	V	Astra 1L	6385	TV	Galicia TV HD	[esp]	Yes
+11376	V	Astra 1L	6386	R	RADIO GALEGA	[esp]	Yes
+11376	V	Astra 1L	6387	R	RADIO GALEGA MUSICA	[esp]	Yes
+11376	V	Astra 1L	6392	TV	RT Esp HD	[esp]	Yes
+11391	H	Astra 1KR	12400	TV	RTL 2 Schweiz	[ger]	Yes
+11406	V	Astra 1L	10200	TV	SES Demo	[eng]	Yes
+11421	H	Astra 1KR	4713	TV	Die Neue Zeit TV	[ger]	Yes
+11421	H	Astra 1KR	4720	TV	.3.	[ger]	Yes
+11494	H	Pan Europe	10301	TV	Das Erste HD	[ger][mis]	Yes
+11494	H	Pan Europe	10302	TV	Arte HD	[fra][ger]	Yes
+11494	H	Pan Europe	10303	TV	Südwest Fernsehen Baden-Württemberg HD	[ger][mis]	Yes
+11494	H	Pan Europe	10304	TV	Sudwest Fernsehen Rheinland-Pfalz HD	[ger][mis]	Yes
+11508	V	Astra 1L	7008	TV	Cubavision Internacional	[esp]	Yes
+11508	V	Astra 1L	7009	TV	Al Jazeera Satellite Channel	[ara]	Yes
+11508	V	Astra 1L	7011	TV	Arirang TV	[eng][kor]	Yes
+11538	V	Astra 1L	6904	TV	Russia Today	[eng]	Yes
+11538	V	Astra 1L	6905	TV	France 24 (en Français)	[fra]	Yes
+11538	V	Astra 1L	6906	TV	France 24 (in English)	[eng]	Yes
+11538	V	Astra 1L	6912	TV	CGTN Documentary	[eng]	Yes
+11538	V	Astra 1L	6913	TV	CCTV F	[fra]	Yes
+11538	V	Astra 1L	6914	TV	CGTN	[eng]	Yes
+11538	V	Astra 1L	6915	TV	TV5 Monde Europe	[fra]	Yes
+11538	V	Astra 1L	6918	TV	TRT World HD	[eng]	Yes
+11553	H	Astra 1L	5800	TV	a.tv	[ger]	Yes
+11553	H	Astra 1L	5801	TV	münchen.tv HD	[ger]	Yes
+11553	H	Astra 1L	5802	TV	RFO (Germany)	[ger]	Yes
+11553	H	Astra 1L	5803	TV	Ulm-Allgäu	[ger]	Yes
+11553	H	Astra 1L	5804	TV	intv	[ger]	Yes
+11553	H	Astra 1L	5806	TV	BB-MV-Lokal TV	[ger]	Yes
+11582	H	Pan Europe	10325	TV	Bayerisches Fernsehen Süd HD	[ger][mis]	Yes
+11582	H	Pan Europe	10326	TV	Bayerisches Fernsehen Nord HD	[ger][mis]	Yes
+11582	H	Pan Europe	10327	TV	NDR Niedersachsen HD	[ger][mis]	Yes
+11582	H	Pan Europe	10328	TV	NDR Mecklenburg-Vorpommern HD	[ger][mis]	Yes
+11582	H	Pan Europe	10329	TV	NDR Hamburg HD	[ger][mis]	Yes
+11582	H	Pan Europe	10330	TV	NDR Schleswig Holstein HD	[ger][mis]	Yes
+11582	H	Pan Europe	10331	TV	Phoenix HD	[ger][mul]	Yes
+11597	V	Astra 1L	10030	TV	CNBC Europe	[eng]	Yes
+11597	V	Astra 1L	10067	TV	Bloomberg Europe	[eng]	Yes
+11597	V	Astra 1L	10080	TV	SonLife Broadcasting Network	[eng][esp]	Yes
+11597	V	Astra 1L	10082	TV	Algerie 3	[ara][fra]	Yes
+11597	V	Astra 1L	10083	TV	Canal Algérie	[ara][fra]	Yes
+11612	H	Pan Europe	5116	R	TSR Turkce	[tur]	Yes
+11612	H	Pan Europe	5126	TV	Kaufbei.tv	[rus]	Yes
+11612	H	Pan Europe	5143	TV	TBN Russia		Yes
+11612	H	Pan Europe	5147	TV	TV 8 Russia	[rus]	Yes
+11612	H	Pan Europe	5601	TV	TV Rus	[rus]	Yes
+11626	V	Astra 1M	4410	TV	SpaceConnectsUs	[eng]	Yes
+11626	V	Astra 1M	4422	TV	CNN International Europe	[eng]	Yes
+11626	V	Astra 1M	4430	TV	DW-TV (Deutsche Welle)	[eng]	Yes
+11626	V	Astra 1M	4440	TV	Al Jazeera English	[eng]	Yes
+11671	H	Astra 1L	5304	TV	Puls 24 HD	[ger]	Yes
+11671	H	Astra 1L	5310	TV	SAT.1 Gold Österreich	[ger]	Yes
+11671	H	Astra 1L	5311	TV	ProSieben MAXX Austria	[ger]	Yes
+11671	H	Astra 1L	5312	TV	Kabel 1 Doku Austria	[ger]	Yes
+11686	V	Astra 1KR	30203	TV	.	[esp][vo]	Yes
+11686	V	Astra 1KR	30205	TV	Aragón Sat	[esp]	Yes
+11758	H	Astra 1M	30	TV	Sky Sport Austria 1	[ger]	Yes
+11836	H	Pan Europe	28106	TV	Das Erste	[ger][vo]	Yes
+11836	H	Pan Europe	28107	TV	Bayerisches Fernsehen Süd	[ger]	Yes
+11836	H	Pan Europe	28108	TV	Hessen Fernsehen	[ger][mis]	Yes
+11836	H	Pan Europe	28110	TV	Bayerisches Fernsehen Nord	[ger][mis]	Yes
+11836	H	Pan Europe	28111	TV	WDR Fernsehen Köln	[ger][mis]	Yes
+11836	H	Pan Europe	28113	TV	Südwest Fernsehen Baden-Würtemberg	[ger][mis]	Yes
+11856	V	Astra 1M	8206	TV	M6 Boutique & Co	[fra]	Yes
+11934	V	Astra 1M	8909	TV	Canal+ Promo	[eng][fra]	Yes
+11954	H	Pan Europe	28006	TV	ZDF	[ger][mis][mul]	Yes
+11954	H	Pan Europe	28007	TV	3sat	[ger][mis][mul]	Yes
+11954	H	Pan Europe	28008	TV	KIKA - Der KinderKanal	[ger][mis]	Yes
+11954	H	Pan Europe	28011	TV	ZDF Infokanal	[ger][mis][mul]	Yes
+11954	H	Pan Europe	28012	R	Dlf Kultur	[ger]	Yes
+11954	H	Pan Europe	28013	R	DLF	[ger]	Yes
+11954	H	Pan Europe	28014	TV	ZDF_neo	[ger][mis][mul]	Yes
+11954	H	Pan Europe	28015	R	DRadio DokDeb	[ger]	Yes
+11954	H	Pan Europe	28017	R	Dlf Nova	[ger]	Yes
+11973	V	Astra 1M	28676	TV	Comedy Central Germany	[ger]	Yes
+11973	V	Astra 1M	28678	TV	MTV Germany	[eng][ger]	Yes
+11973	V	Astra 1M	28680	TV	Nickelodeon Germany	[eng][ger]	Yes
+11973	V	Astra 1M	28680	TV	MTV+ Germany	[eng][ger]	Yes
+12012	V	Astra 1M	8801	TV	Canal+ HD	[eng][fra][qad]	Yes
+12012	V	Astra 1M	8802	TV	Canal+ Décalé HD	[eng][fra]	Yes
+12012	V	Astra 1M	8804	TV	Canal+ Sport HD	[eng][fra]	Yes
+12032	H	Pan Europe	18	TV	Sky Select	[ger]	Yes
+12051	V	Pan Europe	20001	TV	ProSieben Schweiz	[ger]	Yes
+12051	V	Pan Europe	20002	TV	ProSieben Österreich	[ger]	Yes
+12051	V	Pan Europe	20003	TV	Kabel 1 Schweiz	[ger]	Yes
+12051	V	Pan Europe	20004	TV	Kabel 1 Österreich	[ger]	Yes
+12051	V	Pan Europe	20005	TV	Sat 1 Österreich	[ger]	Yes
+12051	V	Pan Europe	20006	TV	Sat 1 Schweiz	[ger]	Yes
+12051	V	Pan Europe	20008	TV	Sat 1 Hamburg / Schleswig Holstein	[ger]	Yes
+12051	V	Pan Europe	20009	TV	SAT.1 NS/Bremen	[ger]	Yes
+12051	V	Pan Europe	20010	TV	SAT.1 RhlPf/Hessen	[ger]	Yes
+12110	H	Astra 1M	28205	TV	RBB Brandenburg	[ger][mis]	Yes
+12110	H	Astra 1M	28206	TV	RBB Berlin	[ger][mis]	Yes
+12110	H	Astra 1M	28221	TV	ARD-TEST-1	[fra][ger]	Yes
+12110	H	Astra 1M	28224	TV	NDR Fernsehen	[ger]	Yes
+12110	H	Astra 1M	28225	TV	NDR Hamburg	[ger]	Yes
+12110	H	Astra 1M	28226	TV	NDR Niedersachsen	[ger]	Yes
+12110	H	Astra 1M	28227	TV	NDR Schleswig Holstein	[ger]	Yes
+12110	H	Astra 1M	28228	TV	MDR Sachsen	[ger]	Yes
+12110	H	Astra 1M	28229	TV	MDR Sachsen-Anhalt	[ger]	Yes
+12110	H	Astra 1M	28230	TV	MDR Thüringen	[ger]	Yes
+12110	H	Astra 1M	28231	TV	Südwest Fernsehen Rheinland-Pfalz	[ger][mis]	Yes
+12129	V	Pan Europe	9910	TV	TV5 Monde FBS HD	[fra]	Yes
+12148	H	Pan Europe	53	TV	N24 Doku Austria	[ger]	Yes
+12148	H	Pan Europe	54	TV	Genius Exklusiv TV	[ger]	Yes
+12148	H	Pan Europe	60	TV	Comedy Central Österreich	[ger]	Yes
+12148	H	Pan Europe	61	TV	Nick Österreich	[eng][ger]	Yes
+12148	H	Pan Europe	65	TV	Deluxe Music	[ger]	Yes
+12148	H	Pan Europe	71	TV	TLC Austria	[ger]	Yes
+12148	H	Pan Europe	73	TV	DMAX Austria	[ger]	Yes
+12148	H	Pan Europe	160	R	ROCK ANTENNE	[ger]	Yes
+12148	H	Pan Europe	161	R	ERF Plus	[ger]	Yes
+12148	H	Pan Europe	162	R	ERF Pop	[ger]	Yes
+12148	H	Pan Europe	169	R	sunshine live	[ger]	Yes
+12148	H	Pan Europe	170	R	ANTENNE BAYERN	[ger]	Yes
+12148	H	Pan Europe	514	TV	Immer etwas Neues TV	[ger]	Yes
+12148	H	Pan Europe	765	TV	Pearl.tv	[ger]	Yes
+12148	H	Pan Europe	769	TV	Channel 21	[ger]	Yes
+12148	H	Pan Europe	775	TV	MediaShop - Meine Einkaufswelt	[ger]	Yes
+12168	V	Pan Europe	9311	TV	Barker Collectivités	[fra]	Yes
+12188	H	Astra 1L	12003	TV	RTL Television	[ger]	Yes
+12188	H	Astra 1L	12004	TV	RTL Nordrhein Westfalen	[ger]	Yes
+12188	H	Astra 1L	12005	TV	RTL Bremen & Land Niedersachsen	[ger]	Yes
+12188	H	Astra 1L	12006	TV	RTL Bayern	[ger]	Yes
+12188	H	Astra 1L	12009	TV	RTL HH SH	[ger]	Yes
+12188	H	Astra 1L	12020	TV	RTL 2	[ger]	Yes
+12188	H	Astra 1L	12030	TV	TOGGO plus	[ger]	Yes
+12188	H	Astra 1L	12040	TV	Super RTL	[ger]	Yes
+12188	H	Astra 1L	12060	TV	VOX	[ger]	Yes
+12188	H	Astra 1L	12061	TV	RTL Nitro	[ger]	Yes
+12188	H	Astra 1L	12080	TV	RTL+ Germany	[ger]	Yes
+12188	H	Astra 1L	12090	TV	n-tv	[ger][mul]	Yes
+12207	V	Pan Europe	9009	TV	LCI HD	[fra]	Yes
+12207	V	Pan Europe	9014	TV	CNews HD	[fra]	Yes
+12207	V	Pan Europe	9015	TV	LCP HD	[fra]	Yes
+12226	H	Astra 1L	28800	TV	RTL Österreich	[ger]	Yes
+12226	H	Astra 1L	28805	TV	VOX Österreich	[ger]	Yes
+12226	H	Astra 1L	28810	TV	RTL 2 Österreich	[ger]	Yes
+12226	H	Astra 1L	28815	TV	Super RTL Österreich	[ger]	Yes
+12226	H	Astra 1L	28820	TV	VOXup	[ger]	Yes
+12226	H	Astra 1L	31200	TV	Eurosport Germany	[ger]	Yes
+12226	H	Astra 1L	31210	TV	HSE24 Extra	[ger]	Yes
+12226	H	Astra 1L	31220	TV	Euronews French	[fra]	Yes
+12226	H	Astra 1L	31230	TV	Euronews German	[ger]	Yes
+12246	V	Pan Europe	6610	TV	Seasons HD	[fra]	Yes
+12266	H	Astra 1M	28400	R	Bayern 1	[ger]	Yes
+12266	H	Astra 1M	28401	R	Bayern 2	[ger]	Yes
+12266	H	Astra 1M	28402	R	Bayern 3	[ger]	Yes
+12266	H	Astra 1M	28403	R	BR-KLASSIK	[ger]	Yes
+12266	H	Astra 1M	28404	R	B5 aktuell	[ger]	Yes
+12266	H	Astra 1M	28405	R	BAYERN plus	[ger]	Yes
+12266	H	Astra 1M	28406	R	PULS	[ger]	Yes
+12266	H	Astra 1M	28407	R	BR Heimat	[ger]	Yes
+12266	H	Astra 1M	28408	R	B5 plus	[ger]	Yes
+12266	H	Astra 1M	28419	R	hr1	[ger]	Yes
+12266	H	Astra 1M	28420	R	hr2	[ger]	Yes
+12266	H	Astra 1M	28421	R	hr3	[ger]	Yes
+12266	H	Astra 1M	28422	R	hr4	[ger]	Yes
+12266	H	Astra 1M	28423	R	YOU FM	[ger]	Yes
+12266	H	Astra 1M	28424	R	hr-iNFO	[ger]	Yes
+12266	H	Astra 1M	28428	R	MDR SACHSEN DD	[ger]	Yes
+12266	H	Astra 1M	28429	R	MDR S-ANHALT MD	[ger]	Yes
+12266	H	Astra 1M	28430	R	MDR THÜRINGEN EF	[ger]	Yes
+12266	H	Astra 1M	28431	R	MDR KULTUR	[ger]	Yes
+12266	H	Astra 1M	28432	R	MDR JUMP	[ger]	Yes
+12266	H	Astra 1M	28433	R	MDR SPUTNIK	[ger]	Yes
+12266	H	Astra 1M	28434	R	MDR AKTUELL	[ger]	Yes
+12266	H	Astra 1M	28435	R	MDR KLASSIK	[ger]	Yes
+12266	H	Astra 1M	28437	R	NDR 2 NDS	[ger]	Yes
+12266	H	Astra 1M	28438	R	NDR Kultur	[ger]	Yes
+12266	H	Astra 1M	28439	R	NDR Info NDS	[ger]	Yes
+12266	H	Astra 1M	28440	R	N-JOY	[ger]	Yes
+12266	H	Astra 1M	28441	R	NDR 90,3	[ger]	Yes
+12266	H	Astra 1M	28442	R	NDR1 Welle Nord KI	[ger]	Yes
+12266	H	Astra 1M	28443	R	NDR 1 Radio MV SN	[ger]	Yes
+12266	H	Astra 1M	28444	R	NDR 1 Nieders. HAN	[ger]	Yes
+12266	H	Astra 1M	28445	R	NDR Info Spez.	[ger]	Yes
+12266	H	Astra 1M	28446	R	NDR Blue	[ger]	Yes
+12266	H	Astra 1M	28447	R	NDR Plus	[ger]	Yes
+12266	H	Astra 1M	28448	R	Bremen Eins	[ger]	Yes
+12266	H	Astra 1M	28449	R	Bremen Zwei	[ger]	Yes
+12266	H	Astra 1M	28450	R	Bremen Vier	[ger]	Yes
+12266	H	Astra 1M	28452	R	Inforadio	[ger]	Yes
+12266	H	Astra 1M	28453	R	rbbKultur	[ger]	Yes
+12266	H	Astra 1M	28454	R	Antenne Brandenburg	[ger]	Yes
+12266	H	Astra 1M	28455	R	rbb 88.8	[ger]	Yes
+12266	H	Astra 1M	28456	R	radioeins	[ger]	Yes
+12266	H	Astra 1M	28457	R	Fritz	[ger]	Yes
+12266	H	Astra 1M	28461	R	SR 1 Europawelle	[ger]	Yes
+12266	H	Astra 1M	28462	R	SR 2 KulturRadio	[ger]	Yes
+12266	H	Astra 1M	28463	R	SR 3 Saarlandwelle	[ger]	Yes
+12266	H	Astra 1M	28465	R	SWR1 BW	[ger]	Yes
+12266	H	Astra 1M	28466	R	SWR1 RP	[ger]	Yes
+12266	H	Astra 1M	28467	R	SWR2	[ger]	Yes
+12266	H	Astra 1M	28468	R	SWR3	[ger]	Yes
+12266	H	Astra 1M	28469	R	SWR4 BW	[ger]	Yes
+12266	H	Astra 1M	28470	R	SWR4 RP	[ger]	Yes
+12266	H	Astra 1M	28471	R	DASDING	[ger]	Yes
+12266	H	Astra 1M	28472	R	SWR Aktuell	[ger]	Yes
+12266	H	Astra 1M	28475	R	1LIVE	[ger]	Yes
+12266	H	Astra 1M	28476	R	WDR 2 Rheinland	[ger]	Yes
+12266	H	Astra 1M	28477	R	WDR 3	[ger]	Yes
+12266	H	Astra 1M	28478	R	WDR 4	[ger]	Yes
+12266	H	Astra 1M	28479	R	WDR 5	[ger]	Yes
+12266	H	Astra 1M	28480	R	COSMO	[ger]	Yes
+12266	H	Astra 1M	28481	R	1LIVE diggi	[ger]	Yes
+12266	H	Astra 1M	28482	R	Die Maus	[ger]	Yes
+12266	H	Astra 1M	28483	R	WDR Event	[ger]	Yes
+12266	H	Astra 1M	28486	TV	SR Südwest Fernsehen	[ger][mis]	Yes
+12266	H	Astra 1M	28487	TV	ARD Alpha	[ger][mis]	Yes
+12304	H	Pan Europe	108	TV	Sky Sport News HD Germany	[ger]	Yes
+12324	V	Pan Europe	8603	TV	Canal+ UHD	[fra][qaa][qad]	Yes
+12344	H	Astra 1M	2010	TV	QVC 2 UHD Germany	[ger]	Yes
+12363	V	Pan Europe	9109	R	SUD RADIO	[fra]	Yes
+12363	V	Pan Europe	9110	R			Yes
+12363	V	Pan Europe	9111	R	BFM BUSINESS	[fra]	Yes
+12363	V	Pan Europe	9113	R	RADIOS 2		Yes
+12363	V	Pan Europe	9114	R	RADIOS 1		Yes
+12363	V	Pan Europe	9115	R	RF		Yes
+12363	V	Pan Europe	9116	R	RADIOS 3		Yes
+12363	V	Pan Europe	9117	R	.	[fra]	Yes
+12363	V	Pan Europe	9118	R	MOSAIQUE RADIOS		Yes
+12363	V	Pan Europe	9133	TV	CANAL + SERIES	[fra]	Yes
+12363	V	Pan Europe	9140	R	FUN RADIO	[fra]	Yes
+12363	V	Pan Europe	9141	R			Yes
+12363	V	Pan Europe	9142	R	BBCW SERVICE	[eng]	Yes
+12363	V	Pan Europe	9143	R	BBC ARABIC	[ara]	Yes
+12363	V	Pan Europe	9144	R	Melody		Yes
+12363	V	Pan Europe	9153	R	MOUV'	[fra]	Yes
+12363	V	Pan Europe	9154	R	FRANCE MUSIQUE	[fra]	Yes
+12363	V	Pan Europe	9155	R	FIP	[fra]	Yes
+12363	V	Pan Europe	9156	R	FRANCE INFO	[fra]	Yes
+12363	V	Pan Europe	9157	R	FRANCE INTER	[fra]	Yes
+12363	V	Pan Europe	9158	R	FRANCE CULTURE	[fra]	Yes
+12363	V	Pan Europe	9159	R	FRANCE BLEU	[fra]	Yes
+12363	V	Pan Europe	9163	R	RFI INTERNAT	[fra]	Yes
+12363	V	Pan Europe	9164	R	RADIO CLASSIQUE	[fra]	Yes
+12363	V	Pan Europe	9165	R	RTL	[fra]	Yes
+12363	V	Pan Europe	9166	R	EUROPE 1	[fra]	Yes
+12363	V	Pan Europe	9167	R	RMC	[fra]	Yes
+12363	V	Pan Europe	9168	R	RIRE & CHANSONS	[fra]	Yes
+12363	V	Pan Europe	9175	R	TSF JAZZ	[fra]	Yes
+12363	V	Pan Europe	9176	R	OUI FM	[fra]	Yes
+12363	V	Pan Europe	9177	R	JAZZ RADIO	[fra]	Yes
+12363	V	Pan Europe	9178	R	NOVA	[fra]	Yes
+12363	V	Pan Europe	9179	R	Radio FG	[fra]	Yes
+12363	V	Pan Europe	9180	R	CONTACT FM	[fra]	Yes
+12363	V	Pan Europe	9181	R	NOSTALGIE	[fra]	Yes
+12363	V	Pan Europe	9182	R	NRJ	[fra]	Yes
+12363	V	Pan Europe	9183	R	RFM	[fra]	Yes
+12363	V	Pan Europe	9184	R	VIRGIN RADIO	[fra]	Yes
+12363	V	Pan Europe	9185	R	CHERIE FM	[fra]	Yes
+12363	V	Pan Europe	9186	R	RTL2	[fra]	Yes
+12363	V	Pan Europe	9187	R	SKYROCK	[fra]	Yes
+12363	V	Pan Europe	9194	R	RADIO NOTRE DAME	[fra]	Yes
+12363	V	Pan Europe	9195	R			Yes
+12363	V	Pan Europe	9198	R	BEUR FM	[fra]	Yes
+12402	V	Pan Europe	8704	TV	..	[fra][qaa]	Yes
+12422	H	Astra 1M	28306	TV	WDR Studio Bielefeld	[ger]	Yes
+12422	H	Astra 1M	28307	TV	WDR Studio Dortmund	[ger]	Yes
+12422	H	Astra 1M	28308	TV	WDR Studio Düsseldorf	[ger]	Yes
+12422	H	Astra 1M	28309	TV	WDR Studio Essen	[ger]	Yes
+12422	H	Astra 1M	28310	TV	WDR Studio Münster	[ger]	Yes
+12422	H	Astra 1M	28311	TV	WDR Studio Siegen	[ger]	Yes
+12422	H	Astra 1M	28325	TV	WDR HD Köln	[ger][mis]	Yes
+12422	H	Astra 1M	28326	TV	WDR HD Bielefeld	[ger][mis]	Yes
+12422	H	Astra 1M	28327	TV	WDR HD Dortmund	[ger][mis]	Yes
+12422	H	Astra 1M	28328	TV	WDR HD Düsseldorf	[ger][mis]	Yes
+12422	H	Astra 1M	28329	TV	WDR HD Essen	[ger][mis]	Yes
+12422	H	Astra 1M	28330	TV	WDR HD Münster	[ger][mis]	Yes
+12422	H	Astra 1M	28331	TV	WDR HD Siegen	[ger][mis]	Yes
+12422	H	Astra 1M	28385	TV	Radio Bremen TV	[ger]	Yes
+12422	H	Astra 1M	28395	TV	WDR Test A	[ger]	Yes
+12460	H	Astra 1M	48	TV	N24 Doku	[ger]	Yes
+12460	H	Astra 1M	62	TV	EWTN Europe	[eng][ger]	Yes
+12460	H	Astra 1M	64	TV	QVC Style Germany	[ger]	Yes
+12460	H	Astra 1M	74	TV	Nicer Dicer TV	[ger]	Yes
+12460	H	Astra 1M	172	R	egoFM	[ger]	Yes
+12460	H	Astra 1M	173	R	Klassik Radio	[ger]	Yes
+12460	H	Astra 1M	177	R	JAM FM	[ger]	Yes
+12460	H	Astra 1M	659	TV	Handystar TV	[ger]	Yes
+12460	H	Astra 1M	662	TV	1-2-3.tv	[ger]	Yes
+12460	H	Astra 1M	764	TV	Anixe TV	[ger]	Yes
+12460	H	Astra 1M	772	TV	TLC Germany	[ger]	Yes
+12460	H	Astra 1M	776	TV	Sixx	[ger]	Yes
+12460	H	Astra 1M	1793	TV	Disney Channel Germany	[ger]	Yes
+12460	H	Astra 1M	1794	TV	QVC Germany	[ger]	Yes
+12480	V	Astra 1M	32	TV	Sonnenklar TV	[ger]	Yes
+12480	V	Astra 1M	40	TV	Home Shopping Europe Deutschland	[ger]	Yes
+12480	V	Astra 1M	46	TV	Handystar TV 2	[ger]	Yes
+12480	V	Astra 1M	47	TV	Regio TV	[ger]	Yes
+12480	V	Astra 1M	51	TV	Tele 5	[ger]	Yes
+12480	V	Astra 1M	63	TV	DMAX	[ger]	Yes
+12480	V	Astra 1M	76	TV	Baden TV	[ger]	Yes
+12480	V	Astra 1M	77	TV	HSE24 Trend	[ger]	Yes
+12480	V	Astra 1M	661	TV	Astro TV	[ger]	Yes
+12480	V	Astra 1M	897	TV	Equi8	[ger]	Yes
+12480	V	Astra 1M	898	TV	MediaShop - Meine Einkaufswelt	[ger]	Yes
+12480	V	Astra 1M	899	TV	MeinTVshop	[ger]	Yes
+12480	V	Astra 1M	900	TV	Sport 1 Germany	[ger]	Yes
+12515	H	Astra 1L	4060	R	Radio Lebensquelle	[ger]	Yes
+12515	H	Astra 1L	4062	R	Radio Freundes-Dienst	[ger]	Yes
+12515	H	Astra 1L	4122	R	VRT Radio1	[ned]	Yes
+12515	H	Astra 1L	4123	R	VRT Radio2	[ned]	Yes
+12545	H	Astra 1L	17500	TV	Sat 1	[ger]	Yes
+12545	H	Astra 1L	17501	TV	ProSieben	[ger]	Yes
+12545	H	Astra 1L	17502	TV	Kabel 1	[ger]	Yes
+12545	H	Astra 1L	17503	TV	Welt	[ger]	Yes
+12545	H	Astra 1L	17504	TV	SAT 1 Gold	[ger]	Yes
+12545	H	Astra 1L	17505	TV	ProSieben MAXX	[ger]	Yes
+12545	H	Astra 1L	17507	TV	SAT.1 Bayern	[ger]	Yes
+12545	H	Astra 1L	17508	TV	SAT.1 NRW	[ger]	Yes
+12545	H	Astra 1L	17509	TV	Kabel 1 Doku	[ger]	Yes
+12552	V	Pan Europe	3394	TV	QVC 2	[ger]	Yes
+12552	V	Pan Europe	12100	TV	QVC Germany	[ger]	Yes
+12552	V	Pan Europe	12122	TV	Bibel TV	[ger]	Yes
+12574	H	Astra 1L	5400	TV	Sonnenklar.TV HD	[ger]	Yes
+12574	H	Astra 1L	5403	TV	Juwelo HD	[ger]	Yes
+12574	H	Astra 1L	5404	TV	Pearl.tv HD	[ger]	Yes
+12604	H	Pan Europe	7289	R	Radio Horeb	[ger]	Yes
+12604	H	Pan Europe	7290	TV	Sky News International	[eng]	Yes
+12604	H	Pan Europe	7292	R	Radio neue Hoffnung	[ger]	Yes
+12604	H	Pan Europe	7931	R	RTL RADIO	[ger]	Yes
+12604	H	Pan Europe	28534	TV	WDR Studio Aachen	[ger]	Yes
+12604	H	Pan Europe	28535	TV	WDR Studio Wuppertal	[ger]	Yes
+12604	H	Pan Europe	28536	TV	WDR Studio Bonn	[ger]	Yes
+12604	H	Pan Europe	28537	TV	WDR Studio Duisburg	[ger]	Yes
+12604	H	Pan Europe	28544	TV	WDR HD Aachen	[ger][mis]	Yes
+12604	H	Pan Europe	28545	TV	WDR HD Wuppertal	[ger][mis]	Yes
+12604	H	Pan Europe	28546	TV	WDR HD Bonn	[ger][mis]	Yes
+12604	H	Pan Europe	28547	TV	WDR HD Duisburg	[ger][mis]	Yes
+12633	H	Pan Europe	12600	TV	Health.tv	[ger]	Yes
+12633	H	Pan Europe	12601	TV	K-TV Fernsehen	[ger]	Yes
+12633	H	Pan Europe	12604	TV	Deutsches Musik Fernsehen	[ger]	Yes
+12633	H	Pan Europe	12606	TV	MB SAT - Test 8	[ger]	Yes
+12633	H	Pan Europe	12607	TV	freenet TV connect		Yes
+12633	H	Pan Europe	12612	TV	GayBoys Live	[ger]	Yes
+12633	H	Pan Europe	12614	TV	Rheinmain TV	[ger]	Yes
+12633	H	Pan Europe	12615	TV	Deutsche Girls 2	[ger]	Yes
+12633	H	Pan Europe	12616	TV	Juwelo TV	[ger]	Yes
+12633	H	Pan Europe	12618	TV	Dreamgirls.TV	[ger]	Yes
+12633	H	Pan Europe	12619	TV	Erotik Sat TV	[ger]	Yes
+12633	H	Pan Europe	12620	TV	ACHTUNG Erotik.TV	[ger]	Yes
+12633	H	Pan Europe	12621	TV	MB SAT - Test1	[ger]	Yes
+12633	H	Pan Europe	12622	TV	Männersache	[ger]	Yes
+12633	H	Pan Europe	12623	TV	Date Line TV	[ger]	Yes
+12633	H	Pan Europe	12624	TV	Fotohandy.TV	[ger]	Yes
+12633	H	Pan Europe	12625	TV	Mobile Sex	[ger]	Yes
+12633	H	Pan Europe	12626	TV	Sex Kontakte	[ger]	Yes
+12633	H	Pan Europe	12627	TV	Eros TV (Gernamy)		Yes
+12633	H	Pan Europe	12628	TV	Achtung Sexy TV		Yes
+12633	H	Pan Europe	12629	TV	Traumfrauen TV		Yes
+12633	H	Pan Europe	12630	TV	Heiss und Sexy TV		Yes
+12633	H	Pan Europe	12633	TV	Volksmusik TV	[ger]	Yes
+12633	H	Pan Europe	12634	TV	nice		Yes
+12633	H	Pan Europe	12635	TV	Babestation24 (Germany)	[ger]	Yes
+12633	H	Pan Europe	12636	TV	freenet Shopping	[ger]	Yes
+12633	H	Pan Europe	12639	TV	Erotika TV	[ger]	Yes
+12633	H	Pan Europe	12640	TV	BunnyClub 24	[ger]	Yes
+12633	H	Pan Europe	12641	TV	Clipmobile	[ger]	Yes
+12633	H	Pan Europe	12642	TV	MB SAT - Test7	[ger]	Yes
+12633	H	Pan Europe	12643	TV	ALT Sendersuchlauf starten!!	[ger]	Yes
+12633	H	Pan Europe	12644	TV	MB SAT - Test2	[ger]	Yes
+12633	H	Pan Europe	12645	TV	MB SAT - Test6	[ger]	Yes
+12633	H	Pan Europe	12646	TV	MB SAT - Test4	[ger]	Yes
+12633	H	Pan Europe	12647	TV	MB SAT - Test5	[ger]	Yes
+12633	H	Pan Europe	12651	R	Inselradio		Yes
+12633	H	Pan Europe	12654	R	ffn	[ger]	Yes
+12633	H	Pan Europe	12655	R	Radio Paloma		Yes
+12633	H	Pan Europe	12656	R	Radio HBR	[ger]	Yes
+12633	H	Pan Europe	12657	R	Radio HCJB	[ger]	Yes
+12633	H	Pan Europe	12658	R	SCHLAGER-RADIO	[ger]	Yes
+12633	H	Pan Europe	12659	R	Radio Gloria		Yes
+12633	H	Pan Europe	12660	R	HIT RADIO FFH		Yes
+12633	H	Pan Europe	12661	R	planet radio		Yes
+12633	H	Pan Europe	12662	R	harmony.fm		Yes
+12633	H	Pan Europe	12663	R	Radio Regenbogen	[ger]	Yes
+12633	H	Pan Europe	12664	R	radioB2  SCHLAGER	[ger]	Yes
+12633	H	Pan Europe	12665	R	Regenbogen 2	[aac][ger]	Yes
+12663	H	Pan Europe	13102	TV	RTL Nitro Austria	[ger]	Yes
+12663	H	Pan Europe	13103	TV	Welt der Wunder	[ger]	Yes
+12663	H	Pan Europe	13104	TV	LT1	[ger]	Yes
+12663	H	Pan Europe	13106	TV	Sixx Austria	[ger]	Yes
+12663	H	Pan Europe	13107	TV	Visit-X TV	[ger]	Yes
+12663	H	Pan Europe	13110	TV	Servus TV Deutschland	[ger]	Yes
+12663	H	Pan Europe	13113	TV	L-TV	[ger]	Yes
+12663	H	Pan Europe	13121	R	OE1	[ger]	Yes
+12663	H	Pan Europe	13122	R	OE1 DD	[ger]	Yes
+12663	H	Pan Europe	13123	R	OE2 W	[ger]	Yes
+12663	H	Pan Europe	13124	R	OE2 N	[ger]	Yes
+12663	H	Pan Europe	13125	R	OE2 B	[ger]	Yes
+12663	H	Pan Europe	13126	R	OE2 O	[ger]	Yes
+12663	H	Pan Europe	13127	R	OE2 S	[ger]	Yes
+12663	H	Pan Europe	13128	R	OE2 T	[ger]	Yes
+12663	H	Pan Europe	13129	R	OE2 V	[ger]	Yes
+12663	H	Pan Europe	13130	R	OE2 St	[ger]	Yes
+12663	H	Pan Europe	13131	R	OE2 K	[ger]	Yes
+12663	H	Pan Europe	13133	R	OE3	[ger]	Yes
+12663	H	Pan Europe	13134	R	FM4	[ger]	Yes
+12663	H	Pan Europe	13136	R	U1 Tirol	[ger]	Yes
+12663	H	Pan Europe	13140	R	RADIO MARIA	[ger]	Yes
+12663	H	Pan Europe	13141	TV	TV1 OOE	[ger]	Yes
+12692	H	Pan Europe	13013	TV	Hitradio OE3	[ger]	Yes
+12692	H	Pan Europe	13014	TV	ORF 2 Europe	[ger]	Yes
+12692	H	Pan Europe	13015	TV	Mei Musi TV	[ger]	Yes
+12692	H	Pan Europe	13018	TV	Folx TV	[ger]	Yes
+12692	H	Pan Europe	13019	TV	RIC	[ger]	Yes
+12692	H	Pan Europe	13021	TV	n-tv Austria	[ger]	Yes

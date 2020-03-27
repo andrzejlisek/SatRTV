@@ -1,0 +1,1087 @@
+Freq	Pol	SR	Beam	Type	Channel	T	Encryption	FTA	Package	Res	Compression	V_PID	A_PID	SID	Owner	Date	Row
+10729	V	22000	1KR	TV	beIN LaLiga 2 HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	165	110[spa]|111[eng]	30805	Tanea	13-Jun-19	2	
+10729	V	22000	1KR	TV	AXN Spain	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	160	80[spa]	30806	Frocus	2-May-19	4	
+10729	V	22000	1KR	TV	M.Comedia	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	161	86[spa]	30807	Frocus	2-May-18	6	
+10729	V	22000	1KR	TV	VAMOS HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	162	92[spa]|93[000]	30809	Tanea	2-May-19	8	
+10729	V	22000	1KR	TV	Alquiler 2 HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	167	122[spa]	30814	Frocus	2-May-19	10	
+10729	V	22000	1KR	TV	Movistar Partidazo HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	168	128[spa]	30815	Frocus	2-May-19	12	
+10729	V	22000	1KR	TV	Movistar Liga de Campeones HD 1	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	170	140[spa]|141[eng]	30817	Tanea	2-May-19	14	
+10729	V	22000	1KR	TV	La 1 Spain	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	171	146[spa]	30819	Frocus	2-May-19	16	
+10729	V	22000	1KR	TV	Movistar Liga de Campeones HD 2	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	172	150[spa]|151[eng]	30820	Tanea	2-May-19	18	
+10744	H	22000	1KR	TV	One (ARD)	TV	FTA	Yes		SD	MPEG-2	201	202[ger]|203[000]|206[ger]	28722	Tanea	28-Sep-17	22	
+10744	H	22000	1KR	TV	ARTE Deutsch	TV	FTA	Yes		SD	MPEG-2	401	402[ger]|403[fre]	28724	dm800	20-Mar-14	24	
+10744	H	22000	1KR	TV	Phoenix	TV	FTA	Yes		SD	MPEG-2	501	502[ger]	28725	dm800	20-Mar-14	26	
+10758	V	22000	1MEurope	DATA	test card	TV	FTA	Yes		SD	MPEG-2	0		0	Martina	28-Apr-19	30	
+10758	V	22000	1MEurope	TV	Divinty Spain	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	160	80[spa]	29850	Frocus	19-Jun-17	32	
+10758	V	22000	1MEurope	TV	Fox News Channel	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	161	84[eng]	29851	ade3661	18-Jan-15	34	
+10758	V	22000	1MEurope	TV	Baby TV Europe	TV	Mediaguard 2	No	Movistar+	SD	MPEG-2	162	88[spa]|89[eng]	29852	Tanea	30-Mar-14	36	
+10758	V	22000	1MEurope	TV	Boing Spain	TV	Mediaguard 2	No	Movistar+	SD	MPEG-2	164	96[spa]|97[000]	29854	Tanea	30-Mar-14	38	
+10758	V	22000	1MEurope	TV	Energy	TV	Mediaguard 2	No	Movistar+	SD	MPEG-2	165	100[spa]|101[000]	29855	Tanea	30-Mar-14	40	
+10758	V	22000	1MEurope	TV	Barça TV	TV	Mediaguard 2	No	Movistar+	SD	MPEG-2	167	108[cat]|109[spa]	29856	Tanea	30-Mar-14	42	
+10758	V	22000	1MEurope	TV	Eurosport 1 España	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	168	112[spa]	29857	Frocus	29-Jun-17	44	
+10758	V	22000	1MEurope	TV	MTV España	TV	Mediaguard 2	No	Movistar+	SD	MPEG-2	170	120[spa]|121[eng]	29858	Tanea	30-Mar-14	46	
+10758	V	22000	1MEurope	TV	GOL	TV	Mediaguard 2	No	Movistar+	SD	MPEG-2	169	116[spa]	29859	franswon	20-Aug-16	48	
+10758	V	22000	1MEurope	TV	Movistar F1	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	166	104[spa]|105[000]	29860	Frocus	29-Jun-17	50	
+10773	H	22000	1MEurope	TV	QVC HD	TV	FTA	Yes		HD	MPEG-4	1023	1027[ger]	21103	kathi	9-Dec-13	54	
+10773	H	22000	1MEurope	TV	HSE24 HD	TV	FTA	Yes	HD+	HD	MPEG-4	1279	1283[ger]	21104	kathi	9-Dec-13	56	
+10773	H	22000	1MEurope	TV	Nick Night Deutschland HD	TV	Videoguard|Nagravision 3	No	HD+	HD	MPEG-4	511	515[ger]|516[eng]	21107	ade3661	20-Dec-17	58	
+10773	H	22000	1MEurope	TV	N24 HD	TV	Videoguard|Nagravision 3	No	HD+	HD	MPEG-4	767	771[ger]	21108	kathi	9-Dec-13	60	
+10773	H	22000	1MEurope	IMG	ASTRA Portal	TV	FTA	Yes	HD+	HD	MPEG-4	2815		21111	kathi	9-Dec-13	62	
+10773	H	22000	1MEurope	TV	Sophia TV	TV	Irdeto 2	No	HD+	SD	MPEG-4	3071	3072[ger]	21112	ade3661	20-Dec-17	64	
+10773	H	22000	1MEurope	TV	Genius Plus TV	TV	FTA	Yes	HD+	SD	MPEG-2	3327	3328[ger]	21113	ade3661	11-Dec-17	66	
+10773	H	22000	1MEurope	TV	N24 HD Austria	TV	Videoguard|Nagravision 3	No	HD+	HD	MPEG-4	767	771[ger]	21118	ade3661	20-Dec-17	68	
+10788	V	22000	1KR	TV	Alquiler 1	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	168	112[spa]|113[000]	30350	Frocus	29-Jun-17	72	
+10788	V	22000	1KR	TV	Alquiler 2	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	170	120[spa]|121[000]	30351	Frocus	29-Jun-17	74	
+10788	V	22000	1KR	TV	M. LaLiga 8	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	171	124[spa]|125[000]	30352	Tanea	22-Aug-19	76	
+10788	V	22000	1KR	TV	M. Deportes 7	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	173	132[spa]|144[000]	30355	Tanea	23-Jan-19	78	
+10788	V	22000	1KR	TV	Alquiler XY	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	160	80[spa]	30357	Frocus	21-Jun-17	80	
+10788	V	22000	1KR	TV	Nick Jr. España	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	176	98[spa]|99[000]	30359	Frocus	29-Jun-17	82	
+10788	V	22000	1KR	TV	Mezzo	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	163	92[fre]	30361	Tanea	11-Dec-17	84	
+10788	V	22000	1KR	TV	LaLiga TV Bar 2	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	4055	4056[spa]|4057[dos]	30362	Tanea	23-Aug-19	86	
+10788	V	22000	1KR	TV	M. LaLiga 4	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	164	96[spa]|97[000]	30363	Tanea	22-Aug-19	88	
+10788	V	22000	1KR	TV	M. LaLiga 3	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	169	116[spa]|117[000]	30364	Tanea	22-Aug-19	90	
+10788	V	22000	1KR	TV	Movistar Liga de Campeones 6	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	166	104[spa]|105[000]	30365	Tanea	13-Aug-18	92	
+10788	V	22000	1KR	TV	M. Deportes 6	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	4000	4001[spa]|4002[000]	30366	Tanea	18-Sep-18	94	
+10788	V	22000	1KR	TV	Movistar Liga de Campeonesax 1	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	167	108[spa]|109[eng]	30367	Tanea	13-Aug-18	96	
+10788	V	22000	1KR	TV	Canal Orbe 21	TV	FTA	Yes		SD	MPEG-2	162	88[spa]	30372	Tanea	11-Dec-17	98	
+10788	V	22000	1KR	TV	MultiFútbol 9	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	4005	4006[spa]|4007[000]	30374	Frocus	29-Jun-17	100	
+10788	V	22000	1KR	TV	MultiDeporte 9	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	4010	4011[spa]|4012[000]	30375	Frocus	29-Jun-17	102	
+10803	H	22000	1KR	TV	Disney Channel Deutschland HD	TV	Nagravision 3	No		HD	MPEG-4	255	259[ger]	5500	Tanea	3-Jan-14	106	
+10803	H	22000	1KR	TV	HSE 24 Extra HD	TV	FTA	Yes		HD	MPEG-4	511	515[ger]	5501	Tanea	30-Dec-13	108	
+10803	H	22000	1KR	TV	123tv HD	TV	FTA	Yes		HD	MPEG-4	767	771[ger]	5502	SchleicheR	16-Jul-13	110	
+10803	H	22000	1KR	TV	Deluxe Music HD	TV	Videoguard|Nagravision 3	No	HD+	HD	MPEG-4	1023	1027[ger]	5503	Frocus	16-Jul-13	112	
+10803	H	22000	1KR	TV	QVC 2 Deutschland HD	TV	FTA	Yes		HD	MPEG-4	1279	1283[ger]	5504	Tanea	9-Feb-18	114	
+10803	H	22000	1KR	TV	Sport 1 HD Deutschland	TV	Nagravision 3	No		HD	MPEG-4	1535	1539[ger]	5505	Tanea	3-Jan-14	116	
+10803	H	22000	1KR	TV	Disney Channel Austria HD	TV	Videoguard|Irdeto 2	No		HD	MPEG-4	255	259[ger]	5510	Tanea	2-Jun-15	118	
+10803	H	22000	1KR	TV	Deluxe Music HD Austria	TV	Irdeto 2	No		HD	MPEG-4	1023	1027[ger]	5513	Tanea	13-Mar-14	120	
+10818	V	22000	1MEurope	TV	Fox HD Spain & Portugal	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	160	80[spa]	29950	ttalex	3-Feb-10	124	
+10818	V	22000	1MEurope	TV	beIN LaLiga 1 HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	161	86[spa]|87[qaa]	29951	Tanea	13-Jun-19	126	
+10818	V	22000	1MEurope	TV	M.Acción HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	162	93[000]|92[spa]	29952	ade3661	18-Aug-16	128	
+10818	V	22000	1MEurope	TV	M. Drama HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	164	106[spa]|107[000]	29954	Tanea	31-Aug-18	130	
+10818	V	22000	1MEurope	TV	Hollywood HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	165	110[spa]|111[eng]	29964	Tanea	11-Dec-17	132	
+10818	V	22000	1MEurope	TV	BeIN Max 3 HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	166	116[spa]	29966	Frocus	29-Jun-17	134	
+10832	H	22000	1MEurope	TV	RTL HD	TV	Videoguard|Irdeto 2|Nagravision 3	No	HD+	HD	MPEG-4	255	259[ger]	61200	tobi	29-Jul-12	138	
+10832	H	22000	1MEurope	TV	VOX HD	TV	Videoguard|Irdeto 2|Nagravision 3	No	HD+	HD	MPEG-4	511	515[ger]	61201	kathi	9-Dec-13	140	
+10832	H	22000	1MEurope	TV	N-TV HD	TV	Videoguard|Nagravision 3	No	HD+	HD	MPEG-4	1279	1283[ger]	61204	Tanea	11-Dec-17	142	
+10832	H	22000	1MEurope	TV	RTL 2 HD	TV	Videoguard|Irdeto 2|Nagravision 3	No	HD+	HD	MPEG-4	1535	1539[ger]	61205	kathi	9-Dec-13	144	
+10847	V	22000	1MEurope	TV	LTC	TV	FTA	Yes		SD	MPEG-2	7000	7001[spa]	30107	Tanea	19-Apr-18	148	
+10847	V	22000	1MEurope	TV	Bajo Demanda	TV	FTA	Yes		SD	MPEG-2	163	400[spa]	30110	Tanea	12-Feb-18	150	
+10847	V	22000	1MEurope	DATA	Novedades	R	Mediaguard 2|Nagravision 3	No	Movistar+			0		30100	dreambox	18-Jun-09	152	
+10847	V	22000	1MEurope	DATA	Canciones de siempre	R	Mediaguard 2|Nagravision 3	No	Movistar+			0		30100	dreambox	18-Jun-09	154	
+10847	V	22000	1MEurope	DATA	Copla	R	Mediaguard 2|Nagravision 3	No	Movistar+			0		30100	dreambox	18-Jun-09	156	
+10847	V	22000	1MEurope	DATA	Clasica	R	Mediaguard 2|Nagravision 3	No	Movistar+			0		30100	dreambox	18-Jun-09	158	
+10847	V	22000	1MEurope	DATA	Opera	R	Mediaguard 2|Nagravision 3	No	Movistar+			0		30100	dreambox	18-Jun-09	160	
+10847	V	22000	1MEurope	DATA	Jazz	R	Mediaguard 2|Nagravision 3	No	Movistar+			0		30100	dreambox	18-Jun-09	162	
+10847	V	22000	1MEurope	DATA	Pop Rock Español	R	Mediaguard 2|Nagravision 3	No	Movistar+			0		30100	dreambox	18-Jun-09	164	
+10847	V	22000	1MEurope	DATA	Pop Rock Internacional	R	Mediaguard 2|Nagravision 3	No	Movistar+			0		30100	dreambox	18-Jun-09	166	
+10847	V	22000	1MEurope	DATA	Fiestas	R	Mediaguard 2|Nagravision 3	No	Movistar+			0		30100	dreambox	18-Jun-09	168	
+10847	V	22000	1MEurope	TV	C RADIOS	R	FTA	Yes	Movistar+	SD	MPEG-2	163	257[spa]|258[spa]|259[spa]|260[spa]|261[spa]|262[spa]|263[spa]|264[spa]|265[spa]|267[spa]|268[spa]	30102	SchleicheR	30-Jul-13	170	
+10847	V	22000	1MEurope	R	Cadena SER	R	FTA	Yes	Movistar+			0	262[spa]	30104	dreambox	30-Jul-13	172	
+10847	V	22000	1MEurope	R	M 80 Radio	R	FTA	Yes	Movistar+			0	257[spa]	30104	dreambox	19-Jul-13	174	
+10847	V	22000	1MEurope	R	Los 40 Principales	R	FTA	Yes	Movistar+			0	260[spa]	30104	dreambox	30-Jul-13	176	
+10847	V	22000	1MEurope	R	Cadena Dial	R	FTA	Yes	Movistar+			0	256[spa]	30104	dreambox	30-Jul-13	178	
+10847	V	22000	1MEurope	R	Radiolé	R	FTA	Yes	Movistar+			0	258[spa]	30104	dreambox	30-Jul-13	180	
+10847	V	22000	1MEurope	R	Máxima FM	R	FTA	Yes	Movistar+			0	259[spa]	30104	SchleicheR	30-Jul-13	182	
+10847	V	22000	1MEurope	R	Sinfo Radio	R	FTA	Yes	Movistar+			0	261[spa]	30104	dreambox	30-Jul-13	184	
+10847	V	22000	1MEurope	R	Euskadi Irratia	R	FTA	Yes	Movistar+			0	268[bas]	30104	dreambox	30-Jul-13	186	
+10847	V	22000	1MEurope	R	Radio Euskadi	R	FTA	Yes	Movistar+			0	269[spa]	30104	dreambox	30-Jul-13	188	
+10847	V	22000	1MEurope	R	CanalSur Radio	R	FTA	Yes	Movistar+			0	263[spa]	30104	dreambox	30-Jul-13	190	
+10847	V	22000	1MEurope	R	ICat FM	R	FTA	Yes	Movistar+			0	267[cat]	30104	dreambox	30-Jul-13	192	
+10847	V	22000	1MEurope	R	Catalunya Informació	R	FTA	Yes	Movistar+			0	265[cat]	30104	dreambox	30-Jul-13	194	
+10847	V	22000	1MEurope	R	Catalunya Música	R	FTA	Yes	Movistar+			0	266[cat]	30104	dreambox	30-Jul-13	196	
+10847	V	22000	1MEurope	R	Catalunya Ràdio	R	FTA	Yes	Movistar+			0	264[cat]	30104	dreambox	30-Jul-13	198	
+10847	V	22000	1MEurope	R	RADIOS ESP	R	FTA	Yes	Movistar+		MPEG-2	0	256[spa]|257[spa]|258[spa]|259[spa]|260[spa]|261[spa]|262[spa]|263[spa]|264[cat]|265[cat]|266[cat]|267[cat]|268[bas]|269[spa]	30104	SchleicheR	30-Jul-13	200	
+10847	V	22000	1MEurope	TV	CANAL GUÍA	R	FTA	Yes	Movistar+	SD	MPEG-2	163	254[spa]	30121	SchleicheR	19-May-14	202	
+10847	V	22000	1MEurope	R	Caracol Radio	R	Mediaguard 2|Nagravision 3	No	Movistar+			0	270[spa]	30124	dreambox	18-Jun-09	204	
+10847	V	22000	1MEurope	R	AM 590 Continental	R	Mediaguard 2|Nagravision 3	No	Movistar+			0	271[spa]	30124	dreambox	18-Jun-09	206	
+10847	V	22000	1MEurope	R	RPP Noticias	R	Mediaguard 2|Nagravision 3	No	Movistar+			0	272[spa]	30124	dreambox	18-Jun-09	208	
+10847	V	22000	1MEurope	R	Tropicana	R	Mediaguard 2|Nagravision 3	No	Movistar+			0	273[spa]	30124	dreambox	18-Jun-09	210	
+10847	V	22000	1MEurope	R	Bésame Nacional	R	Mediaguard 2|Nagravision 3	No	Movistar+			0	274[spa]	30124	dreambox	18-Jun-09	212	
+10847	V	22000	1MEurope	R	Radioacktiva	R	Mediaguard 2|Nagravision 3	No	Movistar+			0	275[spa]	30124	dreambox	18-Jun-09	214	
+10847	V	22000	1MEurope	TV	C TAQUILLA	R	FTA	Yes	Movistar+	SD	MPEG-2	163	254[spa]	30128	SchleicheR	19-May-14	216	
+10847	V	22000	1MEurope	TV	CONTRATO	R	FTA	Yes	Movistar+	SD	MPEG-2	163	254[spa]	30169	SchleicheR	19-May-14	218	
+10847	V	22000	1MEurope	DATA	Tiendas Canal Club	@	FTA	Yes	Movistar+			0		0	dreambox	18-Jun-09	220	
+10847	V	22000	1MEurope	DATA	Infobolsa básico	@	FTA	Yes	Movistar+			0		0	dreambox	18-Jun-09	222	
+10847	V	22000	1MEurope	DATA	La Caixa	@	FTA	Yes	Movistar+			0		0	dreambox	18-Jun-09	224	
+10847	V	22000	1MEurope	DATA	ONCEplus	@	FTA	Yes	Movistar+			0		0	dreambox	18-Jun-09	226	
+10847	V	22000	1MEurope	DATA	Iberdrola	@	FTA	Yes	Movistar+			0		0	dreambox	18-Jun-09	228	
+10847	V	22000	1MEurope	DATA	Digital +	@	FTA	Yes	Movistar+			0		0	dreambox	18-Jun-09	230	
+10847	V	22000	1MEurope	DATA	MoviStar	@	FTA	Yes	Movistar+			0		0	dreambox	18-Jun-09	232	
+10847	V	22000	1MEurope	DATA	Recibo Detallado	@	FTA	Yes	Movistar+			0		0	dreambox	18-Jun-09	234	
+10847	V	22000	1MEurope	DATA	Compra SMS	@	FTA	Yes	Movistar+			0		0	dreambox	18-Jun-09	236	
+10847	V	22000	1MEurope	DATA	Playin'TV	@	FTA	Yes	Movistar+			0		0	dreambox	18-Jun-09	238	
+10876	V	22000	1MEurope	TV	Movistar Golf	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	166	104[spa]|105[000]	30601	Frocus	29-Jun-17	242	
+10876	V	22000	1MEurope	TV	Odisea	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	167	108[spa]	30602	Frocus	29-Jun-17	244	
+10876	V	22000	1MEurope	TV	Playboy TV Iberia	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	173	132[spa]	30603	dm800	18-Jun-09	246	
+10876	V	22000	1MEurope	TV	BeIn La Liga	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	169	116[spa]	30604	Frocus	29-Jun-17	248	
+10876	V	22000	1MEurope	TV	National Geographic Channel España	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	170	120[spa]|121[eng]	30605	dm800	18-Jun-09	250	
+10876	V	22000	1MEurope	TV	Movistar Futbol	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	161	84[spa]|85[dos]	30606	ade3661	5-May-17	252	
+10876	V	22000	1MEurope	TV	Movistar Deportes 1	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	172	128[spa]|129[000]	30607	Frocus	29-Jun-17	254	
+10876	V	22000	1MEurope	TV	Calle 13	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	163	92[spa]|93[000]	30608	dm800	18-Jun-09	256	
+10876	V	22000	1MEurope	TV	Decasa TV	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	164	96[spa]|97[000]	30613	Frocus	29-Jun-17	258	
+10876	V	22000	1MEurope	TV	Syfy Universal	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	162	88[spa]|89[000]	30614	Frocus	29-May-10	260	
+10876	V	22000	1MEurope	TV	beIN LaLiga	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	169	117[eng]|116[spa]	30615	Frocus	29-Jun-17	262	
+10876	V	22000	1MEurope	TV	Movistar Halloween	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	168	112[spa]|113[000]	30616	Tanea	19-Oct-18	264	
+10876	V	22000	1MEurope	TV	M. Deportes 1	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	172	128[spa]|129[000]	30621	Tanea	19-Oct-18	266	
+10891	H	22000	1KR	TV	rbb Brandenburg HD	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5311	5312[ger]|5316[ger]|5313[mis]	10350	kathi	5-Dec-13	270	
+10891	H	22000	1KR	TV	rbb Berlin HD	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5311	5312[ger]|5313[mis]|5316[ger]	10351	kathi	6-Dec-13	272	
+10891	H	22000	1KR	TV	MDR Sachsen HD	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5331	5332[ger]|5333[mis]|5336[ger]	10352	kathi	6-Dec-13	274	
+10891	H	22000	1KR	TV	MDR S-Anhalt HD	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5331	5332[ger]|5333[mis]|5336[ger]	10353	kathi	6-Dec-13	276	
+10891	H	22000	1KR	TV	MDR Thüringen HD	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5331	5332[ger]|5333[mis]|5336[ger]	10354	kathi	6-Dec-13	278	
+10891	H	22000	1KR	TV	hr-fernsehen HD	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5351	5352[ger]|5353[mis]|5356[ger]	10355	kathi	6-Dec-13	280	
+10906	V	22000	1KR	TV	Movistar F1 HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	160	80[fre]|81[000]	30001	Frocus	29-Jun-17	284	
+10906	V	22000	1KR	TV	M. Deportes 1 HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	161	86[spa]|87[000]	30002	Tanea	15-Jul-19	286	
+10906	V	22000	1KR	TV	AMC Spain	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	162	92[fre]|93[000]	30003	Frocus	29-Jun-17	288	
+10906	V	22000	1KR	TV	Antena 3 HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	163	98[spa]|99[000]	30004	Frocus	29-Jun-17	290	
+10906	V	22000	1KR	TV	Cuatro HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	164	104[spa]|105[000]	30005	Frocus	29-Jun-17	292	
+10906	V	22000	1KR	TV	Telecinco HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	165	110[spa]|111[000]	30006	Frocus	29-Jun-17	294	
+10906	V	22000	1KR	TV	La Sexta HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	166	116[spa]|117[000]	30007	Frocus	29-Jun-17	296	
+10921	H	22000	1KR	TV	Family TV	TV	FTA	Yes		SD	MPEG-2	255	256[ger]	33	ade3661	8-Oct-16	300	
+10921	H	22000	1KR	TV	Zee One Deutschland	TV	FTA	Yes		SD	MPEG-2	511	512[ger]	35	Tanea	27-Jun-16	302	
+10921	H	22000	1KR	TV	Sky Sport News Deutschland	TV	FTA	Yes	Sky Germany	SD	MPEG-2	767	768[ger]	37	ade3661	26-Nov-16	304	
+10921	H	22000	1KR	TV	eoTV (European Originals)	TV	FTA	Yes		SD	MPEG-2	1279	1280[ger]	39	ade3661	4-Nov-17	306	
+10921	H	22000	1KR	TV	MediaShop-Meine Einkaufswelt	TV	FTA	Yes		SD	MPEG-2	1279	1280[ger]	39	Tanea	1-Aug-19	308	
+10936	V	22000	1MEurope	TV	Mezzo HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	160	80[spa]	30750	Tanea	22-May-11	312	
+10936	V	22000	1MEurope	TV	Calle 13 HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	166	116[spa]|117[000]	30751	Tanea	20-Jan-11	314	
+10936	V	22000	1MEurope	TV	Nickelodeon HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	162	92[spa]	30752	ade3661	21-Jan-15	316	
+10936	V	22000	1MEurope	TV	National Geographic Spain HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	163	98[spa]|99[000]	30753	Tanea	20-Jan-11	318	
+10936	V	22000	1MEurope	TV	Canal+ Deportes HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	161	86[spa]|87[000]	30754	Tanea	22-May-11	320	
+10936	V	22000	1MEurope	TV	Eurosport 1 España HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	167	108[spa]|109[eng]	30758	Frocus	29-Jun-17	322	
+10964	H	22000	1LFSS	DATA	test card	TV	FTA	Yes		SD	MPEG-2	0		0	phenix43	13-Oct-17	326	
+10964	H	22000	1LFSS	TV	TLC HD Deutschland	TV	Videoguard|Nagravision 3	No		HD	MPEG-4	255	259[ger]	10100	ade3661	8-Oct-16	328	
+10964	H	22000	1LFSS	TV	Zee One HD Deutschland	TV	FTA	Yes		HD	MPEG-4	511	515[ger]	10101	Tanea	27-Jun-16	330	
+10964	H	22000	1LFSS	TV	Sparhandy TV 2 HD	TV	FTA	Yes		HD	MPEG-4	767	771[ger]	10102	ade3661	4-Nov-17	332	
+10964	H	22000	1LFSS	TV	MTV HD Deutschland	TV	Videoguard|Nagravision 3	No		HD	MPEG-4	1023	1027[ger]	10103	ade3661	8-Oct-16	334	
+10964	H	22000	1LFSS	TV	Channel 21 HD	TV	FTA	Yes		HD	MPEG-4	1279	1283[ger]	10104	ade3661	13-Mar-16	336	
+10964	H	22000	1LFSS	TV	QVC Style HD	TV	FTA	Yes		HD	MPEG-4	1535	1539[ger]	10105	Tanea	9-Feb-18	338	
+10964	H	22000	1LFSS	TV	TLC HD Austria	TV	Videoguard	No		HD	MPEG-4	255	259[ger]	10110	Tanea	30-Nov-15	340	
+10964	H	22000	1LFSS	TV	MTV HD Austria	TV	Videoguard|Irdeto 2|Viaccess 5.0	No		HD	MPEG-4	1023	1027[ger]	10113	ade3661	8-Oct-16	342	
+10979	V	22000	Europe	TV	Factoria de Ficción	TV	Mediaguard 2	No	Movistar+	SD	MPEG-2	171	124[spa]|125[spa]	30652	Tanea	14-May-14	346	
+10979	V	22000	Europe	TV	Clan TVE	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	160	80[spa]|81[000]	30654	dm800	18-Jun-09	348	
+10979	V	22000	Europe	TV	La Sexta	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	162	88[spa]	30655	dm800	18-Jun-09	350	
+10979	V	22000	Europe	TV	TVE 1	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	170	120[spa]	30656	Frocus	29-May-10	352	
+10979	V	22000	Europe	TV	Canal Hollywood España	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	166	104[spa]|105[000]	30657	dm800	18-Jun-09	354	
+10979	V	22000	Europe	TV	TVE La 2	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	167	108[spa]|109[000]	30658	dm800	18-Jun-09	356	
+10979	V	22000	Europe	TV	Telecinco	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	165	100[spa]	30659	Supercoco	29-May-10	358	
+10979	V	22000	Europe	TV	M.CineDoc&Roll	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	164	96[spa]|97[000]	30662	Tanea	31-Aug-18	360	
+10979	V	22000	Europe	TV	Cuatro	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	173	132[spa]	30663	Tanea	31-Aug-18	362	
+10979	V	22000	Europe	TV	TNT España	TV	Mediaguard 2	No	Movistar+	SD	MPEG-2	163	92[spa]	30665	Tanea	18-Mar-14	364	
+10979	V	22000	Europe	TV	Nat Geo Wild Spain	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	168	112[spa]|113[eng]	30680	dm800	4-Sep-15	366	
+10994	H	22000	1LFSS	TV	SES UHD Demo Channel	TV	FTA	Yes		UHD	HEVC (H.265)	110	120|120[eng]	1	alexfloresaf38	31-Mar-17	370	
+11009	V	23500	1KR	TV	SES Demo HD	TV	FTA	Yes		HD	MPEG-4	255	256[eng]	2200	Tanea	28-Nov-17	374	
+11023	H	23500	1KR	IMG	Test 1 (UHD)	TV	FTA	Yes		UHD	HEVC (H.265)	1101		5200	Tanea	25-Aug-17	378	
+11038	V	22000	Europe	TV	Canal+ Estrenos	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	160	80[spa]|81[000]	30400	Frocus	29-Jun-17	382	
+11038	V	22000	Europe	TV	Disney Channel España	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	163	92[spa]|93[000]	30403	dm800	18-Jun-09	384	
+11038	V	22000	Europe	TV	M. Oscars	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	164	96[spa]|97[000]	30404	Tanea	15-Feb-18	386	
+11038	V	22000	Europe	TV	M. eSports	TV	Nagravision 3	No	Movistar+	SD	MPEG-2	165	100[spa]	30405	Tanea	8-Aug-17	388	
+11038	V	22000	Europe	TV	LaLiga TV Bar 1	TV	Mediaguard 2	No		SD	MPEG-2	165	100[spa]	30405	Tanea	23-Aug-19	390	
+11038	V	22000	Europe	TV	TCM España	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	167	108[spa]|109[000]	30407	dm800	18-Jun-09	392	
+11038	V	22000	Europe	TV	Comedy Central España	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	171	124[spa]|125[000]	30408	Tanea	16-May-14	394	
+11038	V	22000	Europe	TV	Viajar	TV	Mediaguard 2	No	Movistar+	SD	MPEG-2	162	87[spa]|88[000]	30409	Tanea	18-Mar-14	396	
+11038	V	22000	Europe	TV	M. Seriesmania	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	168	112[spa]|113[000]	30410	Tanea	31-Aug-18	398	
+11038	V	22000	Europe	TV	Tele Deporte	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	170	120[spa]	30412	dm800	18-Jun-09	400	
+11038	V	22000	Europe	TV	Canal Cocina	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	169	116[spa]	30414	Frocus	29-Jun-17	402	
+11053	H	22000	1LFSS	DATA	Radio Bremen HD	TV	FTA	Yes		HD	MPEG-4 AVC (H.264)	0		0	bastihb	27-Dec-19	406	
+11053	H	22000	1LFSS	TV	tagesschau24 HD	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5401	5402[ger]|5406[ger]	10375	kathi	5-Dec-13	408	
+11053	H	22000	1LFSS	TV	One HD (ARD)	TV	FTA	Yes		HD	MPEG-4	5411	5412[ger]|5413[mis]|5416[ger]	10376	Tanea	3-Sep-16	410	
+11053	H	22000	1LFSS	TV	SR Fernsehen HD	TV	FTA	Yes		HD	MPEG-4	5431	5432[ger]|5433[mis]|5436[ger]	10378	Tanea	12-Feb-16	412	
+11068	V	22000	1LFSS	TV	Córdoba Internacional TV	TV	FTA	Yes		SD	MPEG-2	37	36[spa]	4	ade3661	4-Nov-17	416	
+11068	V	22000	1LFSS	TV	RT Español	TV	FTA	Yes		SD	MPEG-2	1450	1550[spa]	1150	Tanea	15-Jul-19	418	
+11068	V	22000	1LFSS	TV	TV Record	TV	FTA	Yes		SD	MPEG-2	33	32[por]	31301	ade3661	4-Mar-16	420	
+11068	V	22000	1LFSS	TV	Telesur	TV	FTA	Yes		SD	MPEG-2	2101	2102[spa]	31304	Tanea	30-Dec-13	422	
+11068	V	22000	1LFSS	TV	TBN España	TV	FTA	Yes		SD	MPEG-2	8002	8102[spa]	31305	Tanea	18-Mar-16	424	
+11068	V	22000	1LFSS	TV	Galicia TV Europa	TV	FTA	Yes		SD	MPEG-2	1701	1702[glg]	31306	Tanea	30-Dec-13	426	
+11068	V	22000	1LFSS	TV	I24 News	TV	FTA	Yes		SD	MPEG-2	1081	1082[fre]	31307	ade3661	4-Mar-16	428	
+11068	V	22000	1LFSS	R	Canal Sur Radio	R	FTA	Yes				0	2001[spa]	31301	SchleicheR	10-Oct-13	430	
+11082	H	22000	1LFSS	TV	RTL Austria	TV	Videoguard|Irdeto 2	No		HD	MPEG-4	100	110[ger]	11911	LynKat	2-Jun-19	434	
+11082	H	22000	1LFSS	TV	Vox HD Austria	TV	Videoguard|Irdeto 2	No		HD	MPEG-4	200	210[ger]	11921	kathi	2-Jun-19	436	
+11082	H	22000	1LFSS	TV	Super RTL Deutschland	TV	Videoguard|Irdeto 2	No		HD	MPEG-4	300	310[ger]	11931	LynKat	2-Jun-19	438	
+11082	H	22000	1LFSS	TV	RTL 2 Austria	TV	Videoguard|Irdeto 2	No		HD	MPEG-4	400	410[ger]	11941	LynKat	2-Jun-19	440	
+11082	H	22000	1LFSS	TV	RTL Nitro HD	TV	Videoguard|Nagravision 3	No		HD	MPEG-4	500	510[ger]	11951	Tanea	2-Jun-19	442	
+11082	H	22000	1LFSS	TV	RTL Living Deutschland	TV	Videoguard|Nagravision 3	No		SD	MPEG-4	700	710[ger]	11971	Tanea	2-Jun-19	444	
+11097	V	22000	Europe	IMG	Multi X	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	167		30050	Frocus	20-Jun-17	448	
+11097	V	22000	Europe	TV	Multi X	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	174	136[spa]	30051	Frocus	20-Jun-17	450	
+11097	V	22000	Europe	TV	Aquiler 5	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	160	80[spa]	30053	Frocus	20-Jun-17	452	
+11097	V	22000	Europe	TV	Alquiler 6	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	171	124[spa]|125[000]	30054	Frocus	20-Jun-17	454	
+11097	V	22000	Europe	TV	Alquiler 3	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	168	112[spa]|113[000]	30055	Frocus	20-Jun-17	456	
+11097	V	22000	Europe	TV	Alquiler X	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	163	92[spa]	30056	Frocus	20-Jun-17	458	
+11097	V	22000	Europe	TV	Alquiler XX	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	164	96[spa]	30057	Frocus	20-Jun-17	460	
+11097	V	22000	Europe	TV	Alquiler XX Hard	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	161	84[spa]	30058	Frocus	20-Jun-17	462	
+11097	V	22000	Europe	TV	M. LaLiga 1	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	162	88[spa]	30059	Tanea	22-Aug-19	464	
+11097	V	22000	Europe	TV	M. Deportes 8	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	4060	4061[spa]|4062[000]	30060	Tanea	23-Jan-19	466	
+11097	V	22000	Europe	TV	MultiDeporte 2	TV	Mediaguard 2	No	Movistar+	SD	MPEG-2	166	104[spa]|105[000]	30061	Tanea	28-Apr-14	468	
+11097	V	22000	Europe	TV	BeIN La Liga 7	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	4020	4021[spa]|4022[000]	30062	Frocus	29-Jun-17	470	
+11097	V	22000	Europe	TV	Taquilla 4	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	170	120[spa]|121[000]	30063	ade3661	18-Sep-16	472	
+11097	V	22000	Europe	TV	Canal+ Toros	TV	Mediaguard 2	No	Movistar+	SD	MPEG-2	172	128[spa]	30064	Tanea	31-Aug-14	474	
+11097	V	22000	Europe	TV	Multi X (3)	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	165	100[spa]	30065	Frocus	29-Jun-17	476	
+11097	V	22000	Europe	TV	Multi X (4)	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	176	144[spa]	30066	Frocus	29-Jun-17	478	
+11097	V	22000	Europe	TV	MultiDeporte 3	TV	Mediaguard 2	No	Movistar+	SD	MPEG-2	4000	4001[spa]|4002[000]	30067	Tanea	28-Apr-14	480	
+11097	V	22000	Europe	TV	La Liga 123 TV 2	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	4035	4036[spa]|4037[dos]	30068	Tanea	25-Aug-18	482	
+11097	V	22000	Europe	TV	La Liga 123 TV 2	TV	Mediaguard 2|Nagravision 3	No		SD	MPEG-2	4035	4036[spa]|4037[dos]	30068	Tanea	25-Aug-18	484	
+11097	V	22000	Europe	TV	LaLiga TV Bar 3	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	4035	4036[spa]|4037[dos]	30068	Tanea	22-Aug-19	486	
+11097	V	22000	Europe	TV	Movistar Liga de Campeones 8	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	4030	4031[spa]|4032[000]	30070	Tanea	13-Aug-18	488	
+11097	V	22000	Europe	TV	M. Deportes 5	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	169	116[spa]|117[000]	30071	Tanea	23-Jan-19	490	
+11097	V	22000	Europe	TV	M. LaLiga 10	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	4040	4042|4042[000]|4041[spa]	30072	Tanea	22-Aug-19	492	
+11097	V	22000	Europe	TV	M. LaLiga 5	TV	Mediaguard 2|Nagravision 3	No		SD	MPEG-2	4050	4051[spa]|4052[000]	30073	Tanea	22-Aug-19	494	
+11097	V	22000	Europe	TV	Movistar Liga de Campeones 2	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	4080	4081[spa]|4082[000]	30074	Tanea	13-Aug-18	496	
+11097	V	22000	Europe	TV	Movistar Liga de Campeones	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	4090	4091[spa]|4092[000]	30075	Tanea	13-Aug-18	498	
+11097	V	22000	Europe	TV	Movistar Liga de Campeones 4	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	177	148[spa]|149[000]	30076	Tanea	13-Aug-18	500	
+11097	V	22000	Europe	TV	Movistar Liga de Campeones 5	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	4093	4094[spa]|4095[000]	30077	Tanea	13-Aug-18	502	
+11097	V	22000	Europe	TV	BeiN La Liga 6	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	4096	4097[spa]	30078	Frocus	29-Jun-17	504	
+11097	V	22000	Europe	TV	BeIN Max 3 Spain	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	4015	4016[spa]	30079	Frocus	29-Jun-17	506	
+11097	V	22000	Europe	TV	M. LaLiga 2	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	4025	4026[spa]|4027[000]	30080	Tanea	22-Aug-19	508	
+11097	V	22000	Europe	TV	M. LaLiga 9	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	4045	4046[spa]|4047[000]	30081	Tanea	22-Aug-19	510	
+11097	V	22000	Europe	TV	LaLiga TV Bar 4	TV	Mediaguard 2	No	Movistar+	SD	MPEG-2	4075	4076[spa]|4077[dos]	30082	Tanea	23-Aug-19	512	
+11097	V	22000	Europe	TV	Movistar Liga de Campeones 7	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	4085	4086[spa]|4087[000]	30083	Tanea	18-Sep-18	514	
+11112	H	22000	1LFSS	TV	Sat.1 Gold HD	TV	Videoguard|Nagravision 3	No		HD	MPEG-4	255	259[ger]	12500	Tanea	2-Sep-15	518	
+11112	H	22000	1LFSS	TV	Fashion 4K	TV	FTA	Yes		UHD	MPEG-4	511	515[eng]	12501	kdm	8-Oct-15	520	
+11112	H	22000	1LFSS	TV	Eurosport 1 HD Deutschland	TV	Videoguard|Nagravision 3	No		HD	MPEG-4	767	771[ger]	12502	Tanea	1-Dec-16	522	
+11112	H	22000	1LFSS	TV	Eurosport 2 HD Xtra	TV	Nagravision 3	No		HD	MPEG-4	1023	1027[ger]	12503	ade3661	4-Nov-17	524	
+11112	H	22000	1LFSS	IMG	Fashion 4K	TV	FTA	Yes		UHD	MPEG-4	2815		12510	kdm	8-Oct-15	526	
+11112	H	22000	1LFSS	TV	Sat.1 Gold HD Austria	TV	Videoguard|Viaccess 5.0	No		HD	MPEG-4	255	259[ger]	12520	ade3661	26-Nov-16	528	
+11112	H	22000	1LFSS	TV	Eurosport 1 HD Austria	TV	Viaccess 5.0	No		HD	MPEG-4	767	771[ger]	12522	Tanea	6-Jul-17	530	
+11126	V	22000	1KR	TV	TNT HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	161	86[spa]|87[000]	30851	ade3661	20-Dec-17	534	
+11126	V	22000	1KR	TV	Nat Geo Wild Spain HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	162	92[spa]|93[000]	30852	Frocus	5-Oct-11	536	
+11126	V	22000	1KR	TV	TCM HD test	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	163	98[spa]|99[000]	30853	Tanea	28-Aug-13	538	
+11126	V	22000	1KR	TV	Disney Channel España HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	164	104[spa]|105[eng]	30854	Frocus	8-Dec-11	540	
+11126	V	22000	1KR	TV	0 Spain HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	165	110[spa]|111[000]	30860	Frocus	29-Jun-17	542	
+11156	V	22000	1KR	TV	Disney XD España	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	163	92[spa]	30506	Frocus	23-Apr-10	546	
+11156	V	22000	1KR	TV	Caza y Pesca	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	169	116[spa]|117[000]	30507	dm800	18-Jun-09	548	
+11156	V	22000	1KR	TV	Blaze España	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	162	88[spa]|89[000]	30509	Tanea	19-Apr-18	550	
+11156	V	22000	1KR	TV	Non Stop People Spain	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	167	108[spa]|109[000]	30510	Frocus	29-Jun-17	552	
+11156	V	22000	1KR	TV	BabyFirst	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	167	108[spa]|109[eng]|110[por]|111[fre]|115[tur]	30511	Frocus	29-Jun-17	554	
+11156	V	22000	1KR	TV	Discovery Channel España	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	165	100[spa]|101[000]	30511	Frocus	29-Jun-17	556	
+11156	V	22000	1KR	TV	Cosmopolitan TV Europa	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	170	120[spa]|121[000]	30512	dm800	18-Jun-09	558	
+11156	V	22000	1KR	TV	Canal de Historia	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	171	124[spa]|125[por]	30513	dm800	18-Jun-09	560	
+11156	V	22000	1KR	TV	D Cine Español	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	160	80[spa]	30518	Frocus	20-Nov-09	562	
+11156	V	22000	1KR	TV	Canal 24 Horas	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	173	132[spa]	30520	dm800	18-Jun-09	564	
+11156	V	22000	1KR	TV	M. Deportes 1	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	172	128[spa]|129[000]	30521	Tanea	15-Jul-19	566	
+11171	H	22000	1KR	TV	Eurosport 2 HD Germany	TV	Videoguard	No		HD	MPEG-4	1279	1283[ger]|1284[eng]	109	ade3661	18-Sep-16	570	
+11171	H	22000	1KR	TV	Sky Cinema Johnson vs Statham HD	TV	Videoguard	No	Sky Germany	HD	MPEG-4	767	768[ger]|769[ger]|771[ger]	116	Tanea	1-Aug-19	572	
+11171	H	22000	1KR	TV	TNT Serie HD	TV	Videoguard	No	Sky Germany	HD	MPEG-4	255	259[ger]|260[eng]	123	Tanea	29-Nov-18	574	
+11171	H	22000	1KR	TV	DAZN 1 HD	TV	Videoguard	No	Sky Germany	HD	MPEG-4	511	515[ger]	132	Tanea	29-Nov-18	576	
+11171	H	22000	1KR	DATA	RTL Crime HD	TV	Videoguard	No		HD	MPEG-4	0		140	arumba	27-Oct-14	578	
+11171	H	22000	1KR	TV	Sky Sport Austria HD	TV	Videoguard	No		HD	MPEG-4	1023	1027[ger]	143	ade3661	26-Nov-15	580	
+11171	H	22000	1KR	TV	Sky Sport Austria 1 HD	TV	Videoguard	No	Sky Germany	HD	MPEG-4	1023	1027[ger]	143	Tanea	18-Jul-19	582	
+11171	H	22000	1KR	R	Sky Sport Bundesliga 7 HD	TV	Videoguard	No	Sky Germany	HD	MPEG-4	0	0[eng]|0[ger]	317	Tanea	10-Jan-17	584	
+11171	H	22000	1KR	TV	Sky Sport 8 HD Deutschland (Occasional)	TV	Videoguard	No	Sky Germany	HD	MPEG-4	3071	3074[ger]|3075[ger]|3076[eng]	318	Tanea	10-Jan-17	586	
+11171	H	22000	1KR	TV	Eurosport 360 HD 6 (Occasional)	TV	Videoguard	No	Sky Germany	HD	MPEG-4	3839	3843[ger]	320	Tanea	10-Jan-17	588	
+11171	H	22000	1KR	TV	Sky Sport Bundesliga 9 HD	TV	Videoguard	No	Sky Germany	HD	MPEG-4	2559	2562[ger]|2563[ger]|2564[eng]	337	Tanea	26-Sep-18	590	
+11171	H	22000	1KR	TV	Jukebox	TV	Videoguard|Nagravision 3	No	Sky Germany	SD	MPEG-4	2815	2816[ger]	401	Tanea	15-Sep-16	592	
+11186	V	22000	1KR	TV	QVC France HD	TV	Viaccess	No		HD	MPEG-4	2631	2632[fre]	2613	Tanea	27-Aug-15	596	
+11186	V	22000	1KR	TV	TV TRWAM	TV	FTA	Yes		SD	MPEG-2	33	3606[pol]	4310	Frocus	24-Oct-12	598	
+11186	V	22000	1KR	R	Radio Maryja	R	FTA	Yes				0	3607[pol]	4311	SchleicheR	16-Jul-13	600	
+11229	V	22000	1KR	TV	BBC World News Europe HD	TV	FTA	Yes		HD	MPEG-4	2091	2092[eng]	5001	Tanea	28-Sep-17	604	
+11229	V	22000	1KR	TV	Insight HD	TV	FTA	Yes		HD	MPEG-4	255	256[eng]	5010	Tanea	25-Sep-15	606	
+11229	V	22000	1KR	TV	NHK World TV HD	TV	FTA	Yes		HD	MPEG-4	1760	1720[eng]	5021	Tanea	9-Dec-15	608	
+11229	V	22000	1KR	TV	Al Jazeera English HD	TV	FTA	Yes		HD	MPEG-4	3101	3103[eng]	5031	Tanea	2-Jul-16	610	
+11244	H	22000	1KR	TV	ORF SPORT+	TV	Betacrypt|Cryptoworks|Irdeto 2	No	ORF Digital	SD	MPEG-2	2210	2211[ger]|2122[ger]	13221	Kathi2	9-Dec-13	614	
+11244	H	22000	1KR	TV	Volksmusik	TV	FTA	Yes	ORF Digital	SD	MPEG-2	2220	2221[ger]	13222	SchleicheR	10-Oct-13	616	
+11244	H	22000	1KR	TV	ATV2	TV	Betacrypt|Cryptoworks|Irdeto 2	No	ORF Digital	SD	MPEG-2	2230	2231[ger]	13223	Kathi2	9-Dec-13	618	
+11244	H	22000	1KR	TV	Bibel TV HD	TV	FTA	Yes		HD	MPEG-4	2240	2241[ger]	13224	Kathi2	30-Dec-13	620	
+11244	H	22000	1KR	TV	Schau TV	TV	FTA	Yes		SD	MPEG-2	2250	2251[ger]	13225	Frocus	16-Jul-13	622	
+11244	H	22000	1KR	TV	StarParadies AT	TV	FTA	Yes	ORF Digital	SD	MPEG-2	2260	2261[ger]	13226	Kathi2	9-Dec-13	624	
+11244	H	22000	1KR	TV	Hope Channel Deutsch HD info card	TV	FTA	Yes		HD	MPEG-4	2270	0[ger]	13227	Tanea	2-Jun-15	626	
+11244	H	22000	1KR	TV	ATV HD	TV	Videoguard|Betacrypt|Cryptoworks|Irdeto 2|Nagravision 3	No		HD	MPEG-2	2280	2281[ger]	13228	SchleicheR	30-Dec-13	628	
+11244	H	22000	1KR	IMG	RTL plus Austria info card	TV	FTA	Yes		SD	MPEG-2	2290		13229	Tanea	3-Jan-18	630	
+11244	H	22000	1KR	IMG	ATVsmart info card (VoD-Channel)	TV	FTA	Yes		SD	MPEG-4	2300		13230	ade3661	26-Nov-16	632	
+11244	H	22000	1KR	TV	Freenet Shopping	TV	FTA	Yes		SD	MPEG-2	2310	2311[ger]	13231	Tanea	5-Mar-19	634	
+11259	V	22000	1LFSS	TV	beIN Sports Spain HD	TV	Nagravision 3	No		HD	MPEG-4	160	80[spa]|81[eng]	30900	ade3661	18-Sep-16	638	
+11259	V	22000	1LFSS	TV	Fox Life Spain	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	160	84[spa]|85[000]	30901	ade3661	18-Sep-16	640	
+11259	V	22000	1LFSS	R	M.Seriesmania HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	0	88[spa]|89[000]	30902	Tanea	31-Aug-18	642	
+11259	V	22000	1LFSS	TV	Canal+ Golf HD	TV	Nagravision 3	No		SD	MPEG-2	163	92[spa]	30903	ade3661	18-Sep-16	644	
+11259	V	22000	1LFSS	TV	Cosmopolitan HD	TV	Nagravision 3	No	Movistar+	HD	MPEG-4	164	96[spa]|97[000]	30904	ade3661	18-Sep-16	646	
+11259	V	22000	1LFSS	TV	Fox Life Spain HD	TV	Nagravision 3	No		HD	MPEG-4	161	84[spa]	30906	ade3661	18-Sep-16	648	
+11259	V	22000	1LFSS	TV	Cosmopolitan TV Europa HD	TV	Nagravision 3	No	Movistar+	SD	MPEG-2	164	96[spa]|97[eng]	30909	Tanea	17-Jan-13	650	
+11259	V	22000	1LFSS	TV	Comedy Central HD Spain	TV	Nagravision 3	No		HD	MPEG-4	165	100[spa]	30912	ade3661	18-Sep-16	652	
+11259	V	22000	1LFSS	TV	Comedy Central HD Spain	TV	Nagravision 3	No		HD	MPEG-4	165	100[spa]	30913	ade3661	18-Sep-16	654	
+11273	H	22000	1KR	TV	ORF2St HD	TV	Cryptoworks|Irdeto 2	No	ORF Digital	HD	MPEG-4	3010	3011[ger]	13301	Tanea	1-Aug-14	658	
+11273	H	22000	1KR	TV	ORF2K HD	TV	Cryptoworks|Irdeto 2	No	ORF Digital	HD	MPEG-4	3020	3021[ger]	13302	Tanea	1-Aug-14	660	
+11273	H	22000	1KR	TV	ORF2B HD	TV	Cryptoworks|Irdeto 2	No	ORF Digital	HD	MPEG-4	3030	3031[ger]	13303	Tanea	1-Aug-14	662	
+11273	H	22000	1KR	TV	ORF2O HD	TV	Cryptoworks|Irdeto 2	No	ORF Digital	HD	MPEG-4	3040	3041[ger]	13304	Tanea	1-Aug-14	664	
+11273	H	22000	1KR	TV	ORF2S HD	TV	Cryptoworks|Irdeto 2	No	ORF Digital	HD	MPEG-4	3050	3051[ger]	13305	Tanea	1-Aug-14	666	
+11273	H	22000	1KR	TV	ORF2T HD	TV	Cryptoworks|Irdeto 2	No	ORF Digital	HD	MPEG-4	3060	3061[ger]	13306	Tanea	1-Aug-14	668	
+11273	H	22000	1KR	TV	ORF2V HD	TV	Cryptoworks|Irdeto 2	No	ORF Digital	HD	MPEG-4	3070	3071[ger]	13307	Tanea	1-Aug-14	670	
+11273	H	22000	1KR	TV	ORF III HD	TV	Cryptoworks|Irdeto 2	No	ORF Digital	HD	MPEG-4	3080	3081[ger]	13308	Tanea	1-Aug-14	672	
+11273	H	22000	1KR	TV	ORF Sport + HD	TV	Cryptoworks|Irdeto 2	No	ORF Digital	HD	MPEG-4	3090	3091[ger]	13309	Tanea	1-Aug-14	674	
+11273	H	22000	1KR	IMG	Flimmit (HbbTV)	TV	FTA	Yes		SD	MPEG-4	3100		13310	Tanea	23-Oct-14	676	
+11273	H	22000	1KR	IMG	R9 Österreich info card	TV	FTA	Yes		SD	MPEG-4	3120		13312	Tanea	2-Apr-15	678	
+11273	H	22000	1KR	TV	Schweiz 5	TV	FTA	Yes		SD	MPEG-4	3130	3131[ger]	13313	ade3661	18-Sep-16	680	
+11273	H	22000	1KR	TV	oe24 TV	TV	FTA	Yes		SD	MPEG-4	3140	3141[ger]	13314	ade3661	14-Oct-16	682	
+11288	V	22000	Europe	TV	RAI News 24	TV	FTA	Yes		SD	MPEG-2	520	690[ita]	4216	Tanea	31-May-17	686	
+11288	V	22000	Europe	IMG	Deutschland Vozrozhdenie	TV	FTA	Yes		SD	MPEG-2	7686		4225	Tanea	31-May-17	688	
+11288	V	22000	Europe	TV	QVC Deutschland UHD	TV	FTA	Yes		UHD	HEVC (H.265)	255	256[ger]	4230	ade3661	18-Dec-17	690	
+11303	H	22000	1KR	TV	ORF eins HD	TV	Betacrypt|Cryptoworks|Irdeto 2|Nagravision 3	No	ORF Digital	HD	MPEG-4	1920	1921[ger]|1922[eng]|1923[ger]	0	stif	7-Aug-14	694	
+11303	H	22000	1KR	TV	ORF1 HD	TV	Videoguard|Betacrypt|Cryptoworks|Irdeto 2|Nagravision 3	No		HD	MPEG-4	1920	1923[ger]|1922[eng]|1921[ger]	4911	Rosenheim	9-Dec-13	696	
+11303	H	22000	1KR	TV	ORF2 W HD	TV	Videoguard|Betacrypt|Cryptoworks|Irdeto 2|Nagravision 3	No	ORF Digital	HD	MPEG-4	2920	2921[ger]|2922[000]	4912	Tanea	4-Jan-15	698	
+11303	H	22000	1KR	TV	ServusTV HD Oesterreich	TV	FTA	Yes		HD	MPEG-4	3583	3584[ger]|3587[ger]|3585[eng]	4913	SchleicheR	30-Dec-13	700	
+11303	H	22000	1KR	TV	ServusTV HD Deutschland	TV	FTA	Yes		HD	MPEG-4	4920	4922[eng]|4923[ger]|4921[ger]	4914	Rosenheim	9-Dec-13	702	
+11303	H	22000	1KR	TV	ORF2 N HD	TV	Videoguard|Betacrypt|Cryptoworks|Irdeto 2|Nagravision 3	No	ORF Digital	HD	MPEG-4	2920	2923[ger]	4916	Tanea	2-Aug-14	704	
+11318	V	22000	1KR	TV	Fox Crime Spain	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	160	80[spa]	29800	Frocus	20-Nov-09	708	
+11318	V	22000	1KR	TV	Antena Nova	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	161	84[spa]|85[000]	29801	Frocus	6-Jan-12	710	
+11318	V	22000	1KR	TV	Canal Iberalia	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	164	96[spa]	29802	Frocus	29-Jun-17	712	
+11318	V	22000	1KR	TV	Disney Junior España	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	165	100[spa]|101[000]	29803	Frocus	11-Jun-11	714	
+11318	V	22000	1KR	TV	M.ACCION	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	162	88[spa]|89[000]	29804	Frocus	29-Jun-17	716	
+11318	V	22000	1KR	TV	M.COMEDIA	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	163	92[spa]|93[000]	29805	Frocus	29-Jun-17	718	
+11318	V	22000	1KR	TV	M.DCine	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	170	120[spa]|121[000]	29806	Frocus	29-Jun-17	720	
+11318	V	22000	1KR	TV	Fox España	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	169	116[spa]|117[000]	29807	Frocus	4-Nov-09	722	
+11318	V	22000	1KR	TV	AXN White España	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	167	108[spa]|109[000]	29809	Frocus	7-May-12	724	
+11318	V	22000	1KR	TV	AXN España	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	171	124[spa]|125[000]	29815	Frocus	20-Nov-09	726	
+11318	V	22000	1KR	TV	0 Spain	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	168	112[spa]|113[000]	29816	Frocus	29-Jun-17	728	
+11347	V	22000	1LFSS	TV	3sat HD	TV	FTA	Yes	ZDF Digital	HD	MPEG-4	6510	6520[ger]|6521[mis]|6522[ger]|6523[mul]	11150	arumba	9-Dec-13	732	
+11347	V	22000	1LFSS	TV	KiKA HD	TV	FTA	Yes	ZDF Digital	HD	MPEG-4	6610	6620[ger]|6622[mis]	11160	Rosenheim	9-Dec-13	734	
+11347	V	22000	1LFSS	TV	ZDFinfo HD	TV	FTA	Yes	ZDF Digital	HD	MPEG-4	6710	6720[ger]|6721[mis]|6722[ger]|6723[mul]	11170	Rosenheim	9-Dec-13	736	
+11362	H	22000	1KR	TV	ZDF HD	TV	FTA	Yes	ZDF Digital	HD	MPEG-4	6110	6122[ger]|6120[ger]|6121[mis]|6123[mul]	11110	Rosenheim	9-Dec-13	740	
+11362	H	22000	1KR	TV	zdf_neo HD	TV	FTA	Yes	ZDF Digital	HD	MPEG-4	6310	6320[ger]|6321[mis]|6322[ger]|6323[mul]	11130	Rosenheim	9-Dec-13	742	
+11377	V	22000	1LFSS	TV	Telesur HD	TV	FTA	Yes		HD	MPEG-4	1001	1002[spa]	6380	Tanea	25-Jul-17	746	
+11377	V	22000	1LFSS	TV	RT News HD	TV	FTA	Yes		HD	MPEG-4	1011	1012[eng]|1013[eng]	6381	Tanea	25-Jul-17	748	
+11377	V	22000	1LFSS	TV	RT Español HD	TV	FTA	Yes		HD	MPEG-4	1021	1022[spa]|1023[spa]	6382	Tanea	25-Jul-17	750	
+11391	H	22000	1KR	TV	QVC UK	TV	FTA	Yes		SD	MPEG-2	2309	2310[eng]	2	ade3661	5-Jun-17	754	
+11391	H	22000	1KR	TV	RTL 2 CH	TV	FTA	Yes		SD	MPEG-2	255	256[ger]	12400	kathi5	10-Dec-13	756	
+11391	H	22000	1KR	TV	QVC Extra UK	TV	FTA	Yes		SD	MPEG-2	2307	2308[eng]	22301	Frocus	18-Jun-17	758	
+11391	H	22000	1KR	TV	QVC Style UK	TV	FTA	Yes		SD	MPEG-2	2305	2306[eng]	22302	Frocus	18-Jun-17	760	
+11391	H	22000	1KR	TV	QVC Beauty UK	TV	FTA	Yes		SD	MPEG-2	61	62[eng]	22303	Frocus	18-Jun-17	762	
+11421	H	22000	1LFSS	TV	Sat 1 emotions	TV	Videoguard|Betacrypt|Cryptoworks|Nagravision 3	No	Sky Germany	SD	MPEG-2	511	512[ger]	4701	SchleicheR	8-Oct-13	766	
+11421	H	22000	1LFSS	TV	Handshake 2 Deutschland info card	TV	FTA	Yes		SD	MPEG-2	767	768[ger]	4702	Tanea	15-Feb-16	768	
+11421	H	22000	1LFSS	TV	Sophia TV	TV	FTA	Yes		SD	MPEG-2	3327	3328[ger]	4712	Frocus	11-Jan-12	770	
+11421	H	22000	1LFSS	TV	Die Neue Zeit TV	TV	FTA	Yes		SD	MPEG-2	3583	3584[ger]	4713	Frocus	11-Jan-12	772	
+11421	H	22000	1LFSS	TV	.1.	TV	Videoguard|Mediaguard 3	No		SD	MPEG-2	5119	5120[ger]	4718	ade3661	31-Aug-16	774	
+11421	H	22000	1LFSS	TV	.2.	TV	Videoguard|Mediaguard 3	No		SD	MPEG-2	5375	5376[ger]	4719	ade3661	31-Aug-16	776	
+11421	H	22000	1LFSS	DATA	SES 06	@	FTA	Yes		SD	MPEG-2	0		4720	ade3661	31-Aug-16	778	
+11436	V	22000	1KR	TV	Syfy Universal España HD	TV	Mediaguard 2|Nagravision 3	No	Movistar+	HD	MPEG-4	161	84[spa]|85[000]	29901	Frocus	21-Jun-17	782	
+11436	V	22000	1KR	TV	Viajar HD	TV	Mediaguard 2|Nagravision 3	No	Movistar+	HD	MPEG-4	162	92[spa]|93[000]	29907	Tanea	21-Jun-17	784	
+11436	V	22000	1KR	TV	M. Estrenos HD	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	164	96[spa]|97[000]	29909	Tanea	21-Jun-17	786	
+11436	V	22000	1KR	TV	M. Deportes 2 HD	TV	Mediaguard 2|Nagravision 3	No	Movistar+	HD	MPEG-4	163	100[spa]|101[000]	29910	Frocus	21-Jun-17	788	
+11436	V	22000	1KR	TV	M.CineDoc&Roll HD	TV	Mediaguard 2|Nagravision 3	No	Movistar+	HD	MPEG-4	160	80[spa]|81[000]	29912	Tanea	31-Aug-18	790	
+11436	V	22000	1KR	TV	AXN White España HD	TV	Mediaguard 2|Nagravision 3	No	Movistar+	HD	MPEG-4	165	104[spa]|105[000]	29916	Tanea	16-May-14	792	
+11464	H	22000	1MWide	TV	SAT.1 HD	TV	Nagravision 3	No	HD+	HD	MPEG-4	255	259[ger]	61300	arumba	9-Dec-13	796	
+11464	H	22000	1MWide	TV	ProSieben HD	TV	Nagravision 3	No		HD	MPEG-4	511	515[ger]	61301	arumba	9-Dec-13	798	
+11464	H	22000	1MWide	TV	kabel eins HD	TV	Nagravision 3	No		HD	MPEG-4	767	771[ger]	61302	arumba	9-Dec-13	800	
+11464	H	22000	1MWide	TV	SIXX HD	TV	Nagravision 3	No		HD	MPEG-4	1023	1027[ger]	61303	arumba	9-Dec-13	802	
+11464	H	22000	1MWide	TV	Teleshop HD (21:00 pm to 8:00 am)	TV	Nagravision 3	No		HD	MPEG-4	1023	1027[ger]	61303	arumba	9-Dec-13	804	
+11464	H	22000	1MWide	TV	ProSieben MAXX HD	TV	Nagravision 3	No		HD	MPEG-4	1279	1283[ger]	61304	Tanea	16-Oct-13	806	
+11494	H	22000	1LFSS	TV	Das Erste HD	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5101	5106[ger]|5103[mis]|5102[ger]	10301	arumba	9-Dec-13	810	
+11494	H	22000	1LFSS	TV	arte HD	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5111	5112[ger]|5113[fre]|5116[mul]|5117[mis]	10302	arumba	9-Dec-13	812	
+11494	H	22000	1LFSS	TV	SWR BW HD	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5121	5122[ger]|5123[mis]|5126[ger]	10303	arumba	9-Dec-13	814	
+11494	H	22000	1LFSS	TV	SWR RP HD	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5121	5122[ger]|5123[mis]|5126[ger]	10304	arumba	9-Dec-13	816	
+11509	V	22000	1KR	TV	Cubavisión Internacional	TV	FTA	Yes		SD	MPEG-2	708	728[spa]	7008	dm800	18-Jun-09	820	
+11509	V	22000	1KR	TV	Al Jazeera Channel	TV	FTA	Yes		SD	MPEG-2	709	729[ara]	7009	Frocus	25-Feb-10	822	
+11509	V	22000	1KR	TV	Record Internacional Europa	TV	FTA	Yes		SD	MPEG-2	710	730[por]	7010	dm800	18-Jun-09	824	
+11509	V	22000	1KR	TV	Arirang World	TV	FTA	Yes		SD	MPEG-2	711	731[kor]	7011	dm800	18-Jun-09	826	
+11538	V	22000	1LFSS	TV	Russia Today	TV	FTA	Yes		SD	MPEG-2	604	33[eng]	6904	ttalex	3-Mar-18	830	
+11538	V	22000	1LFSS	TV	France 24 Français	TV	FTA	Yes		SD	MPEG-2	605	625[fre]	6905	dm800	18-Jun-09	832	
+11538	V	22000	1LFSS	TV	France 24 English	TV	FTA	Yes		SD	MPEG-2	606	626[eng]	6906	ttalex	21-Feb-10	834	
+11538	V	22000	1LFSS	TV	CCTV9 Documentary	TV	FTA	Yes		SD	MPEG-2	612	632[fre]	6912	Frocus	19-Oct-11	836	
+11538	V	22000	1LFSS	TV	CCTV F	TV	FTA	Yes		SD	MPEG-2	633	634[fre]	6913	dm800	18-Jun-09	838	
+11538	V	22000	1LFSS	TV	CCTV News	TV	FTA	Yes		SD	MPEG-2	614	33[eng]	6914	Frocus	28-Apr-10	840	
+11538	V	22000	1LFSS	TV	TV 5 Monde Europe	TV	FTA	Yes		SD	MPEG-2	615	635[fre]	6915	Frocus	25-Oct-10	842	
+11538	V	22000	1LFSS	TV	TRT World HD	TV	FTA	Yes		HD	MPEG-4	618	638[eng]	6918	ade3661	10-Jun-17	844	
+11553	H	22000	Europe	TV	Augsburg TV HD	TV	FTA	Yes		HD	MPEG-4	1010	1011[ger]	5800	ade3661	7-Nov-17	848	
+11553	H	22000	Europe	TV	München TV HD	TV	FTA	Yes		HD	MPEG-4	1020	2021[ger]	5801	ade3661	7-Nov-17	850	
+11553	H	22000	Europe	TV	RFO HD (18-24)	TV	FTA	Yes		HD	MPEG-4	1030	1031[ger]	5802	ade3661	7-Nov-17	852	
+11553	H	22000	Europe	TV	TV Allgäu HD	TV	FTA	Yes		HD	MPEG-4	1040	1041[ger]	5803	ade3661	7-Nov-17	854	
+11553	H	22000	Europe	TV	Lokal TV Portal HD	TV	FTA	Yes		HD	MPEG-4	1060	1061[ger]	5805	ade3661	7-Nov-17	856	
+11568	V	23000	1LFSS	DATA	[Empty TP]	@	FTA	Yes				0		0	Frocus	16-Feb-20	860	
+11582	H	22000	1LFSS	TV	BR Süd HD	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5201	5202[ger]|5203[mis]|5206[ger]	10325	Kathi2	10-Dec-13	864	
+11582	H	22000	1LFSS	TV	BR Nord HD	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5201	5202[ger]|5203[mis]|5206[ger]	10326	Kathi2	6-Dec-13	866	
+11582	H	22000	1LFSS	TV	NDR FS NDS HD	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5221	5226[ger]|5223[mis]|5222[ger]	10327	Kathi2	6-Dec-13	868	
+11582	H	22000	1LFSS	TV	NDR FS MV HD	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5221	5222[ger]|5223[mis]|5226[ger]	10328	SchleicheR	10-Dec-13	870	
+11582	H	22000	1LFSS	TV	NDR FS HH HD	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5221	5222[ger]|5223[mis]|5226[ger]	10329	SchleicheR	10-Dec-13	872	
+11582	H	22000	1LFSS	TV	NDR FS SH HD	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5221	5222[ger]|5223[mis]|5226[ger]	10330	Kathi2	6-Dec-13	874	
+11582	H	22000	1LFSS	TV	PHOENIX HD	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5261	5262[ger]|5263[mul]	10331	Kathi2	10-Dec-13	876	
+11597	V	22000	1LFSS	TV	CNBC Europe	TV	FTA	Yes		SD	MPEG-2	307	308[eng]	10030	dm800	18-Jun-09	880	
+11597	V	22000	1LFSS	TV	BBC World News	TV	FTA	Yes		SD	MPEG-2	163	92[eng]	10050	dm800	18-Jun-09	882	
+11597	V	22000	1LFSS	TV	Bloomberg TV Europe	TV	FTA	Yes		SD	MPEG-2	1360	1320[eng]	10067	Frocus	18-Nov-09	884	
+11597	V	22000	1LFSS	TV	RMC Découverte promo	TV	Nagravision 3|Viaccess|Mediaguard 3	No		SD	MPEG-2	2051	2052[fre]|2053[fre]|2054[fre]	10079	Frocus	28-Nov-12	886	
+11597	V	22000	1LFSS	TV	SonLife Broadcasting Network	TV	FTA	Yes		SD	MPEG-2	1051	1052[eng]	10080	Frocus	3-Oct-12	888	
+11597	V	22000	1LFSS	TV	Algeria 3	TV	FTA	Yes		SD	MPEG-2	514	670[ara]	10082	Tanea	4-Dec-13	890	
+11597	V	22000	1LFSS	TV	Canal Algérie	TV	FTA	Yes		SD	MPEG-2	515	680[ara]	10083	Tanea	4-Dec-13	892	
+11612	H	22000	1MEurope	TV	VR Demo (Virtual Reality)	TV	FTA	Yes		HD	HEVC (H.265)	50	51[ger]	5101	ade3661	2-Jan-17	896	
+11612	H	22000	1MEurope	TV	TRT Türk	TV	FTA	Yes		SD	MPEG-2	2011	4004[tur]	5113	ttalex	30-Aug-12	898	
+11612	H	22000	1MEurope	TV	R1 Extra	TV	FTA	Yes		SD	MPEG-2	767	768[rus]	5127	ade3661	10-Jun-17	900	
+11612	H	22000	1MEurope	TV	Yol TV HD	TV	FTA	Yes		HD	MPEG-4	1021	1022[tur]	5130	Tanea	2-Jun-18	902	
+11612	H	22000	1MEurope	TV	TV Rus	TV	FTA	Yes		SD	MPEG-2	255	256[rus]	5601	ade3661	2-Jan-17	904	
+11627	V	22000	1MWide	TV	Al Jazeera English	TV	FTA	Yes		SD	MPEG-2	3505	3625[eng]	0	Tanea	1-Feb-16	908	
+11627	V	22000	1MWide	TV	TVE Internacional Europe	TV	FTA	Yes		SD	MPEG-2	3521	3522[spa]|3527[000]	4401	Tanea	20-Mar-14	910	
+11627	V	22000	1MWide	TV	Canal 24 Horas	TV	FTA	Yes		SD	MPEG-2	3569	3570[spa]|3571[000]	4402	Tanea	20-Mar-14	912	
+11627	V	22000	1MWide	TV	CNN International Europe	TV	FTA	Yes		SD	MPEG-2	165	100[eng]	4422	Tanea	4-Nov-14	914	
+11627	V	22000	1MWide	TV	DW-TV	TV	FTA	Yes		SD	MPEG-2	529	785[ger]	4430	Tanea	19-May-15	916	
+11627	V	22000	1MWide	TV	DW Arabia	TV	FTA	Yes		SD	MPEG-2	3360	3320[ara]	4435	Tanea	16-Dec-15	918	
+11656	V	22000	1MWide	TV	YTN	TV	Nagravision 3	No		SD	MPEG-4	511	512[kor]	4531	Tanea	25-Oct-16	922	
+11656	V	22000	1MWide	TV	MNC International	TV	Nagravision 3	No		SD	MPEG-4	1535	1536[eng]	4535	Tanea	25-Oct-16	924	
+11656	V	22000	1MWide	TV	MNC Drama	TV	Nagravision 3	No		SD	MPEG-4	1791	1792[eng]	4536	Tanea	25-Oct-16	926	
+11656	V	22000	1MWide	TV	MNC Infotainment	TV	Nagravision 3	No		SD	MPEG-4	2047	2048[eng]	4537	Tanea	25-Oct-16	928	
+11656	V	22000	1MWide	TV	MNC World News	TV	Nagravision 3	No		SD	MPEG-4	2303	2304[eng]	4538	Tanea	25-Oct-16	930	
+11656	V	22000	1MWide	IMG	Service 4540	TV	Nagravision 3	No		SD	MPEG-4	2815		4540	Tanea	25-Oct-16	932	
+11656	V	22000	1MWide	TV	Dragon TV	TV	Nagravision 3	No		SD	MPEG-4	5375	5376[eng]	4550	Tanea	25-Oct-16	934	
+11656	V	22000	1MWide	TV	Guangdong TV	TV	Nagravision 3	No		SD	MPEG-4	5631	5632[eng]	4551	Tanea	25-Oct-16	936	
+11656	V	22000	1MWide	TV	Chinese Food	TV	Nagravision 3	No		SD	MPEG-4	671	672[eng]	4553	Tanea	22-Jul-17	938	
+11656	V	22000	1MWide	TV	Times Now	TV	Nagravision 3	No		SD	MPEG-4	703	704[eng]	4572	Tanea	25-Oct-16	940	
+11656	V	22000	1MWide	R	Star Life OK	TV	Nagravision 3	No		SD	MPEG-4	0	864[eng]	4577	Tanea	25-Oct-16	942	
+11671	H	22000	1KR	TV	SAT.1 HD Austria	TV	Videoguard|Cryptoworks|Irdeto 2	No		HD	MPEG-4	255	259[ger]	5300	arumba	9-Dec-13	946	
+11671	H	22000	1KR	TV	ProSieben HD Austria	TV	Videoguard|Cryptoworks|Irdeto 2	No		HD	MPEG-4	511	515[ger]	5301	kathi3	9-Dec-13	948	
+11671	H	22000	1KR	TV	PULS 4 HD Austria	TV	Videoguard|Cryptoworks|Irdeto 2	No		HD	MPEG-4	1023	1027[ger]	5303	kathi3	9-Dec-13	950	
+11671	H	22000	1KR	TV	Puls 24 HD	TV	FTA	Yes		HD	MPEG-4	1279	1283[ger]	5304	Tanea	1-Aug-19	952	
+11671	H	22000	1KR	TV	Sat.1 Gold Austria	TV	FTA	Yes		SD	MPEG-2	2815	2816[ger]	5310	Frocus	18-Jun-14	954	
+11671	H	22000	1KR	TV	ProSieben MAXX Austria	TV	FTA	Yes		SD	MPEG-2	3071	3072[ger]	5311	Frocus	18-Jun-14	956	
+11671	H	22000	1KR	TV	Kabel Eins Classics	TV	Cryptoworks|Irdeto 2|Viaccess	No		SD	MPEG-4	3839	3840[ger]	5314	Tanea	5-Jul-17	958	
+11686	V	22000	1KR	TV	Paramount Channel	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	161	84[spa]	30201	Frocus	21-Jun-17	962	
+11686	V	22000	1KR	TV	Aragón TV	TV	FTA	Yes	Movistar+	SD	MPEG-2	160	80[spa]	30205	Frocus	21-Jun-17	964	
+11686	V	22000	1KR	TV	Neox	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	168	112[spa]	30206	Frocus	21-Jun-17	966	
+11686	V	22000	1KR	TV	Canal Panda	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	171	124[spa]	30207	Frocus	21-Jun-17	968	
+11686	V	22000	1KR	TV	Real Madrid TV Español	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	173	132[spa]	30209	Frocus	21-Jun-17	970	
+11686	V	22000	1KR	TV	Classica	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	169	116[ger]	30210	Frocus	21-Jun-17	972	
+11686	V	22000	1KR	IMG	Antena 3	TV	Nagravision 3	No	Movistar+	SD	MPEG-2	170		30212	Frocus	21-Jun-17	974	
+11686	V	22000	1KR	TV	M. NavidadDisney	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	162	88[spa]	30215	Tanea	18-Dec-18	976	
+11686	V	22000	1KR	TV	M.Deportes 2	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	165	100[spa]	30220	Frocus	21-Jun-17	978	
+11686	V	22000	1KR	TV	EuroSport 2	TV	Mediaguard 2|Nagravision 3	No	Movistar+	SD	MPEG-2	167	108[spa]	30222	Frocus	21-Jun-17	980	
+11720	H	27500	1MWide	TV	Sky Cinema Fun	TV	Videoguard	No	Sky Germany	SD	MPEG-4	1023	1024[ger]|1025[eng]|1027[ger]	8	Tanea	15-Mar-20	984	
+11720	H	27500	1MWide	TV	Sky Cinema Johnson vs Statham	TV	Videoguard	No	Sky Germany	SD	MPEG-4	767	768[ger]|769[ger]|771[ger]	9	Tanea	1-Aug-19	986	
+11720	H	27500	1MWide	TV	Sky Cinema Deutschland +1	TV	Videoguard	No		SD	MPEG-4	255	256[ger]|257[eng]|259[ger]	11	ade3661	20-Sep-16	988	
+11720	H	27500	1MWide	TV	Disney Junior Deutschland	TV	Videoguard	No		SD	MPEG-4	1791	1792[ger]	19	ade3661	20-Sep-16	990	
+11720	H	27500	1MWide	TV	Beate-Uhse.TV	TV	Videoguard	No		SD	MPEG-4	2303	2304[ger]	21	ade3661	20-Sep-16	992	
+11720	H	27500	1MWide	TV	Classica Deutschland	TV	Videoguard	No		SD	MPEG-4	2047	2048[ger]	24	ade3661	20-Sep-16	994	
+11720	H	27500	1MWide	TV	Disney Junior Deutschland	TV	Videoguard	No		SD	MPEG-4	1535	1536[ger]|1537[eng]	26	ade3661	20-Sep-16	996	
+11720	H	27500	1MWide	TV	Disney XD Deutschland	TV	Videoguard	No		SD	MPEG-4	1279	1280[ger]|1281[eng]	28	ade3661	20-Sep-16	998	
+11720	H	27500	1MWide	TV	Sky Cinema +24 Deutschland	TV	Videoguard	No		SD	MPEG-4	511	512[ger]|513[eng]|515[ger]	43	ade3661	20-Sep-16	1000	
+11720	H	27500	1MWide	TV	Sky Select 1 Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-4	6655	6656[ger]|6657[eng]|6659[ger]	251	ade3661	20-Sep-16	1002	
+11720	H	27500	1MWide	TV	Sky Sport 11 Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-4	7167	7168[ger]	253	ade3661	21-Sep-16	1004	
+11720	H	27500	1MWide	TV	Sky Select Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-4	3327	3328[ger]|3331[ger]	254	ade3661	20-Sep-16	1006	
+11720	H	27500	1MWide	TV	Sky Select 2 Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-4	2559	2560[ger]|2561[eng]|2563[ger]	261	ade3661	20-Sep-16	1008	
+11720	H	27500	1MWide	TV	Sky Sport 3 Deutschland	TV	Videoguard	No		SD	MPEG-4	3071	3072[ger]|3073[ger]	263	ade3661	21-Sep-16	1010	
+11720	H	27500	1MWide	TV	Sky Select 4 Deutschland	TV	Videoguard	No		SD	MPEG-4	4351	4352[ger]|4353[eng]|4355[ger]	281	ade3661	20-Sep-16	1012	
+11720	H	27500	1MWide	TV	Sky Select 5 Deutschland	TV	Videoguard	No		SD	MPEG-4	5119	5120[ger]|5121[eng]|5123[ger]	291	ade3661	20-Sep-16	1014	
+11720	H	27500	1MWide	TV	Sky Bundesliga 5	TV	Videoguard	No		SD	MPEG-4	5375	5376[ger]|5377[ger]	292	ade3661	21-Sep-16	1016	
+11720	H	27500	1MWide	TV	Sky Sport 6 Deutschland	TV	Videoguard	No		SD	MPEG-2	3839	3840[ger]|3841[ger]	293	ade3661	20-Sep-16	1018	
+11720	H	27500	1MWide	TV	Sky Select 6 Deutschland	TV	Videoguard	No		SD	MPEG-4	5887	5888[ger]|5889[eng]|5891[ger]	301	ade3661	20-Sep-16	1020	
+11720	H	27500	1MWide	TV	Sky Bundesliga 6	TV	Videoguard	No		SD	MPEG-2	3327	3328[ger]|3329[eng]	302	ade3661	21-Sep-16	1022	
+11720	H	27500	1MWide	TV	Sky Sport 7 Germany	TV	Videoguard|Betacrypt|Nagravision 3	No	Sky Germany	SD	MPEG-2	3583	3584[ger]	303	Frocus	25-Oct-10	1024	
+11720	H	27500	1MWide	TV	Sky Sport 8 Deutschland	TV	Videoguard|Betacrypt	No	Sky Germany	SD	MPEG-4	4095	4096[ger]|4097[eng]	313	Tanea	17-Feb-18	1026	
+11720	H	27500	1MWide	TV	Sky Sport Bundesliga 8	TV	Videoguard	No	Sky Germany	SD	MPEG-4	4607	4608[ger]|4609[qac]	322	Tanea	26-Sep-18	1028	
+11720	H	27500	1MWide	TV	Sky Sport Austria 2	TV	Videoguard	No	Sky Germany	SD	MPEG-4	511	512[ger]|513[000]	325	Tanea	19-Jul-19	1030	
+11720	H	27500	1MWide	TV	ky Sport 12 HD Deutschland	TV	Videoguard	No	Sky Germany	HD	MPEG-4	1535	1538[ger]|1840[000]	381	Tanea	19-Jul-19	1032	
+11720	H	27500	1MWide	TV	Sky Sport 13 HD Deutschland	TV	Videoguard	No	Sky Germany	HD	MPEG-4	2303	2306[ger]|2308[000]	386	Tanea	19-Jul-19	1034	
+11720	H	27500	1MWide	TV	Sky Nostalgie	TV	Videoguard|Betacrypt|Nagravision 3	No	Sky Germany	SD	MPEG-2	1535	1536[ger]	516	Frocus	18-Jun-09	1036	
+11739	V	27500	1MWide	TV	Nickelodeon Turkey	TV	Viaccess 5.0	No		SD	MPEG-2	3021	3022[eng]|3023[tur]	28652	alexfloresaf38	4-Feb-18	1040	
+11739	V	27500	1MWide	TV	MTV Hits	TV	Conax|Cryptoworks|Irdeto 2|Viaccess 5.0	No		SD	MPEG-2	3041	3042[eng]	28654	alexfloresaf38	4-Feb-18	1042	
+11739	V	27500	1MWide	TV	MTV Dance	TV	Conax|Cryptoworks|Irdeto 2|Viaccess 5.0	No		SD	MPEG-2	3051	3052[eng]	28655	alexfloresaf38	5-Feb-18	1044	
+11739	V	27500	1MWide	TV	VH1	TV	Conax|Cryptoworks|Irdeto 2|Mediaguard 2|Nagravision 3|Viaccess 5.0	No		SD	MPEG-2	3061	3062[eng]	28656	alexfloresaf38	5-Feb-18	1046	
+11739	V	27500	1MWide	TV	VH1 Classic	TV	Conax|Cryptoworks|Irdeto 2|Nagravision 3|Mediaguard 3|Viaccess 5.0	No		SD	MPEG-2	3071	3072[eng]	28657	alexfloresaf38	5-Feb-18	1048	
+11739	V	27500	1MWide	TV	MTV Rocks	TV	Conax|Cryptoworks|Irdeto 2|Nagravision 3|Mediaguard 3|Viaccess 5.0	No		SD	MPEG-2	3091	3092[eng]	28659	alexfloresaf38	24-Jun-17	1050	
+11739	V	27500	1MWide	TV	Nickelodeon Iberia	TV	Mediaguard 2|Nagravision 3|Viaccess 5.0	No	Movistar+	SD	MPEG-2	3101	3102[spa]|3103[eng]|3104[por]	28660	alexfloresaf38	24-Jun-17	1052	
+11739	V	27500	1MWide	TV	MTV Europe	TV	Cryptoworks	No	UPC Direct	SD	MPEG-2	3121	3122[eng]	28662	Frocus	25-Oct-10	1054	
+11739	V	27500	1MWide	TV	Game One	TV	Cryptoworks|Mediaguard 2|Viaccess 2.5|Viaccess 3.0	No	CanalSat France|T&eacute;l&eacute;SAT (Telesat)	SD	MPEG-2	3031	3042[fre]	28663	bon1admn	18-Jun-09	1056	
+11739	V	27500	1MWide	TV	Nickelodeon France	TV	Cryptoworks|Mediaguard 2|Viaccess 2.5|Viaccess 3.0	No	CanalSat France|T&eacute;l&eacute;SAT (Telesat)	SD	MPEG-2	3081	3082[fre]	28668	bon1admn	18-Jun-09	1058	
+11759	H	27500	1MWide	TV	Fox Serie Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-4	767	768[ger]|769[eng]	16	ade3661	8-Oct-16	1062	
+11759	H	27500	1MWide	TV	Heimatkanal	TV	Videoguard	No	Sky Germany	SD	MPEG-4	2815	2816[ger]	22	ade3661	8-Oct-16	1064	
+11759	H	27500	1MWide	TV	Disney Cinema magic	TV	Videoguard	No		SD	MPEG-2	3327	3328[ger]	25	ade3661	1-Dec-15	1066	
+11759	H	27500	1MWide	TV	Sky Sport Austria	TV	Videoguard	No	Sky Germany	SD	MPEG-4	2047	2048[ger]	30	ade3661	8-Oct-16	1068	
+11759	H	27500	1MWide	TV	Syfy Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-4	1535	1536[ger]|1537[eng]	36	ade3661	8-Oct-16	1070	
+11759	H	27500	1MWide	TV	Sky Cinema Dark Future	TV	Videoguard	No	Sky Germany	SD	MPEG-4	255	256[ger]|257[eng]|259[ger]	41	Tanea	1-Sep-19	1072	
+11759	H	27500	1MWide	TV	Spiegel TV Wissen	TV	Videoguard	No	Sky Germany	SD	MPEG-4	1279	6912[ger]	49	Tanea	1-Jul-18	1074	
+11759	H	27500	1MWide	TV	TNT Serie	TV	Videoguard	No		SD	MPEG-4	1023	1024[ger]|1025[eng]	50	ade3661	21-Nov-15	1076	
+11759	H	27500	1MWide	TV	Spiegel Geschichte	TV	Videoguard	No		SD	MPEG-4	2559	2560[ger]	52	ade3661	21-Nov-15	1078	
+11759	H	27500	1MWide	TV	Sky 1 HD Deutschland	TV	Videoguard	No	Sky Germany	HD	MPEG-4	511	515[ger]|516[eng]	147	Tanea	29-Nov-18	1080	
+11759	H	27500	1MWide	TV	Sky Sport 2 Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-4	1791	1792[ger]	222	ade3661	8-Oct-16	1082	
+11759	H	27500	1MWide	TV	Sky Sport Bundesliga 3	TV	Videoguard|Betacrypt	No	Sky Germany	SD	MPEG-4	3839	3840[ger]|3841[ger]	272	Tanea	3-Feb-18	1084	
+11759	H	27500	1MWide	TV	Sky Sport 4 Deutschland	TV	Videoguard|Betacrypt	No	Sky Germany	SD	MPEG-4	4095	4096[ger]|4097[ger]	273	Tanea	14-Feb-18	1086	
+11759	H	27500	1MWide	TV	Sky Sport Bundesliga 4	TV	Betacrypt	No	Sky Germany	SD	MPEG-4	4607	4608[ger]|4609[ger]	282	Tanea	3-Feb-18	1088	
+11759	H	27500	1MWide	TV	Sky Sport 5 Deutschland	TV	Videoguard|Betacrypt	No	Sky Germany	SD	MPEG-4	4863	4864[ger]|4865[ger]	283	Tanea	17-Feb-18	1090	
+11759	H	27500	1MWide	TV	Sky Bundesliga 7	TV	Videoguard|Betacrypt|Mediaguard 3	No	Sky Germany	SD	MPEG-2	4351	4352[ger]	312	ade3661	8-Oct-16	1092	
+11759	H	27500	1MWide	TV	Sky Select 8 Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-4	4351	4352[ger]|4353[eng]|4355[ger]	321	ade3661	8-Oct-16	1094	
+11759	H	27500	1MWide	TV	Sky Sport 9 Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-4	2303	2304[ger]|2305[eng]	323	ade3661	8-Oct-16	1096	
+11759	H	27500	1MWide	TV	Sky Select 9 Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-4	5119	5120[ger]|5121[eng]|5123[ger]	331	ade3661	8-Oct-16	1098	
+11759	H	27500	1MWide	TV	Bundesliga 9 Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-2	4863	4864[ger]|4865[eng]	332	ade3661	20-Oct-16	1100	
+11759	H	27500	1MWide	TV	Sky Sport 10 Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-2	2815	2816[ger]|2817[eng]	333	ade3661	2-Jan-17	1102	
+11759	H	27500	1MWide	TV	Select Adrenalin B	TV	Videoguard|Betacrypt|Nagravision 3	No	Sky Germany	SD	MPEG-2	5119	5120[ger]|5121[000]|5123[ger]	334	Tanea	28-Apr-14	1104	
+11759	H	27500	1MWide	TV	Sky Sport Austria 3	TV	Videoguard	No	Sky Germany	SD	MPEG-4	1023	1024[ger]|1025[deu]	336	Tanea	18-Jul-19	1106	
+11759	H	27500	1MWide	TV	Blue Movie 1	TV	Videoguard	No		SD	MPEG-4	6143	6144[ger]	345	ade3661	21-Nov-15	1108	
+11759	H	27500	1MWide	TV	Blue Movie 2	TV	Videoguard	No		SD	MPEG-4	6399	6400[ger]	355	ade3661	21-Nov-15	1110	
+11759	H	27500	1MWide	TV	Blue Movie 3	TV	Videoguard	No		SD	MPEG-4	6655	6656[ger]	365	ade3661	21-Nov-15	1112	
+11759	H	27500	1MWide	TV	Romance TV	TV	Videoguard|Betacrypt	No	Sky Germany	SD	MPEG-4	3071	3072[ger]	518	Tanea	7-Nov-17	1114	
+11798	H	27500	1MWide	TV	Spiegel Geschichte HD	TV	Videoguard	No	Sky Germany	HD	MPEG-4	1279	1283[ger]	137	Tanea	1-Jul-18	1118	
+11798	H	27500	1MWide	TV	Sky Sport Bundesliga 8 HD	TV	Videoguard	No	Sky Germany	HD	MPEG-4	2559	2562[ger]|2563[ger]	327	Tanea	29-May-17	1120	
+11798	H	27500	1MWide	TV	Sky Sport HD 9 Deutschland (Occasional)	TV	Videoguard	No	Sky Germany	HD	MPEG-4	2815	2818[ger]|2819[ger]	328	Tanea	29-May-17	1122	
+11798	H	27500	1MWide	TV	Eurosport 360 HD 7 (Occasional)	TV	Videoguard	No	Sky Germany	HD	MPEG-4	3583	1074[ger]	330	Tanea	29-May-17	1124	
+11798	H	27500	1MWide	TV	Sky Sport Bundesliga UHD	TV	Videoguard	No	Sky Germany	HD	MPEG-4	1791	1795[ger]|1796[eng]	552	ade3661	2-Jan-17	1126	
+11798	H	27500	1MWide	TV	Sky Sport UHD	TV	Videoguard	No	Sky Germany	UHD	Other	2047	2051[ger]|2051|2052[ger]|2052|2052	553	Tanea	29-Sep-16	1128	
+11817	V	29700	1MWide	TV	BET	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	110	121[fre]|122[eng]	8001	alexfloresaf38	7-Nov-19	1132	
+11817	V	29700	1MWide	TV	Olympia TV HD	TV	Nagravision|Viaccess 6.0	No	CanalSat France	HD	MPEG-4	210	221[fre]|222[eng]	8002	Tanea	15-Jan-20	1134	
+11817	V	29700	1MWide	TV	MTV HITS	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	310	321[fre]	8003	alexfloresaf38	7-Nov-19	1136	
+11817	V	29700	1MWide	TV	MTV	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	410	421[fre]	8004	alexfloresaf38	7-Nov-19	1138	
+11817	V	29700	1MWide	TV	FRANCEINFO:	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	510	521[fre]	8005	alexfloresaf38	7-Nov-19	1140	
+11817	V	29700	1MWide	TV	HISTOIRE	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	610	621|621[fre]	8006	alexfloresaf38	7-Nov-19	1142	
+11817	V	29700	1MWide	TV	RMC SPORT 4	TV	Nagravision	No	CanalSat France	HD	MPEG-4	710	721[fre]	8007	Tanea	7-Nov-19	1144	
+11817	V	29700	1MWide	TV	NICKELODEON	TV	Nagravision|Viaccess	No		HD	MPEG-4	810	821[fre]|823[000]	8008	alexfloresaf38	7-Nov-19	1146	
+11817	V	29700	1MWide	TV	PINK X	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	910	921[fre]	8009	alexfloresaf38	7-Nov-19	1148	
+11817	V	29700	1MWide	TV	MEZZO	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	1010	1021[fre]	8010	alexfloresaf38	7-Nov-19	1150	
+11817	V	29700	1MWide	TV	6TER	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	1110	1121[fre]|1122[eng]|1123[000]	8011	alexfloresaf38	7-Nov-19	1152	
+11817	V	29700	1MWide	TV	MULTISPORTS 1	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	1310	1321[fre]	8013	alexfloresaf38	7-Nov-19	1154	
+11817	V	29700	1MWide	TV	OL TV	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	1410	1421[fre]	8014	alexfloresaf38	7-Nov-19	1156	
+11817	V	29700	1MWide	TV	TRACE LATINA	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	1510	1521[fre]	8015	alexfloresaf38	7-Nov-19	1158	
+11836	H	27500	PE	TV	Das Erste	TV	FTA	Yes	ARD Digital	SD	MPEG-2	101	102[ger]|103[mis]|106[ger]	28106	kathi3	9-Dec-13	1162	
+11836	H	27500	PE	TV	Bayerisches FS Süd	TV	FTA	Yes	ARD Digital	SD	MPEG-2	201	202[ger]|203[mis]|206[ger]	28107	kathi3	9-Dec-13	1164	
+11836	H	27500	PE	TV	hr Fernsehen	TV	FTA	Yes	ARD Digital	SD	MPEG-2	301	302[ger]|303[mis]	28108	kathi3	9-Dec-13	1166	
+11836	H	27500	PE	TV	Bayerisches FS Nord	TV	FTA	Yes	ARD Digital	SD	MPEG-2	201	202[ger]|203[mis]|206[ger]	28110	kathi3	9-Dec-13	1168	
+11836	H	27500	PE	TV	WDR Fernsehen Köln	TV	FTA	Yes	ARD Digital	SD	MPEG-2	601	602[ger]|603[mis]	28111	kathi4	9-Dec-13	1170	
+11836	H	27500	PE	TV	SWR Fernsehen BW	TV	FTA	Yes	ARD Digital	SD	MPEG-2	801	802[ger]|803[ger]	28113	kathi4	9-Dec-13	1172	
+11856	V	29700	1MWide	TV	BEIN SPORTS MAX 4	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	110	121[fre]	8201	alexfloresaf38	7-Nov-19	1176	
+11856	V	29700	1MWide	TV	BEIN SPORTS MAX 5	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	210	221[fre]	8202	alexfloresaf38	7-Nov-19	1178	
+11856	V	29700	1MWide	TV	BEIN SPORTS MAX 6	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	310	321[fre]	8203	alexfloresaf38	7-Nov-19	1180	
+11856	V	29700	1MWide	TV	NRJ HITS	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	410	421[fre]	8204	alexfloresaf38	7-Nov-19	1182	
+11856	V	29700	1MWide	TV	SUNDANCE TV	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	510	521[fre]	8205	alexfloresaf38	7-Nov-19	1184	
+11856	V	29700	1MWide	TV	M6 BOUTIQUE	TV	FTA	Yes		HD	MPEG-4	610	621[fre]	8206	alexfloresaf38	7-Nov-19	1186	
+11856	V	29700	1MWide	TV	VICELAND	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	710	721[fre]|722[eng]	8207	alexfloresaf38	7-Nov-19	1188	
+11856	V	29700	1MWide	TV	NICKELODEON +1	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	810	821[fre]|823[000]	8208	alexfloresaf38	7-Nov-19	1190	
+11856	V	29700	1MWide	TV	RMC DECOUVERTE	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	910	921[fre]|922[000]|923[000]	8209	alexfloresaf38	7-Nov-19	1192	
+11856	V	29700	1MWide	TV	BEIN SPORTS 2	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	1010	1021[fre]	8210	alexfloresaf38	7-Nov-19	1194	
+11856	V	29700	1MWide	TV	BEIN SPORTS 3	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	1110	1221[fre]	8211	alexfloresaf38	7-Nov-19	1196	
+11856	V	29700	1MWide	TV	TFX	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	1210	1221[fre]|1222[eng]	8212	alexfloresaf38	7-Nov-19	1198	
+11856	V	29700	1MWide	TV	TMC	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	1310	1321[fre]|1322[eng]|1323[000]	8213	alexfloresaf38	7-Nov-19	1200	
+11856	V	29700	1MWide	TV	MELODY	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	1510	1521[fre]	8215	alexfloresaf38	7-Nov-19	1202	
+11895	V	29700	1MWide	TV	BFM TV	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	110	121[fre]	8301	alexfloresaf38	7-Nov-19	1206	
+11895	V	29700	1MWide	TV	POLAR+	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	210	221[fre]|222[eng]	8302	alexfloresaf38	7-Nov-19	1208	
+11895	V	29700	1MWide	TV	BFM BUSINESS	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	310	321[fre]	8303	alexfloresaf38	7-Nov-19	1210	
+11895	V	29700	1MWide	TV	A LA UNE	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	410	421[fre]	8304	alexfloresaf38	7-Nov-19	1212	
+11895	V	29700	1MWide	TV	BEIN SPORTS MAX 7	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	510	521[fre]	8305	alexfloresaf38	7-Nov-19	1214	
+11895	V	29700	1MWide	TV	BEIN SPORTS MAX 8	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	610	621[fre]	8306	alexfloresaf38	7-Nov-19	1216	
+11895	V	29700	1MWide	TV	BEIN SPORTS MAX 9	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	710	721[fre]	8307	alexfloresaf38	7-Nov-19	1218	
+11895	V	29700	1MWide	TV	BEIN SPORTS MAX 10	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	810	821[fre]	8308	alexfloresaf38	7-Nov-19	1220	
+11895	V	29700	1MWide	TV	RMC STORY	TV	Nagravision|Viaccess	No	CanalSat France	HD	MPEG-4	910	921[fre]|922[eng]	8309	alexfloresaf38	7-Nov-19	1222	
+11895	V	29700	1MWide	TV	La Chaîne Météo HD	TV	Nagravision 3|Viaccess	No	CanalSat France	HD	MPEG-4	1011	1121[fre]	8311	Tanea	28-Nov-18	1224	
+11895	V	29700	1MWide	TV	Arte HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0	No	My Canal	HD	MPEG-4	2110	2121[fre]|2122[eng]	8321	ade3661	21-Apr-18	1226	
+11895	V	29700	1MWide	TV	France Ô	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0	No	My Canal	HD	MPEG-4	2210	2221[fre]	8322	ade3661	21-Apr-18	1228	
+11895	V	29700	1MWide	TV	Gulli	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0	No	My Canal	SD	MPEG-4	2310	2321[fre]	8323	ade3661	21-Apr-18	1230	
+11915	H	27500	PE	TV	Sky Cinema Premieren +24 Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-4	4607	4608[ger]|4609[eng]	43	Tanea	15-Mar-20	1234	
+11915	H	27500	PE	TV	Nat Geo Wild HD	TV	Videoguard|Betacrypt|Nagravision 3	No	Sky Germany	HD	MPEG-4	511	515[ger]|516[eng]	118	SchleicheR	25-Jul-13	1236	
+11915	H	27500	PE	TV	Sky Sport HD1	TV	Videoguard|Nagravision 3	No	Sky Germany	HD	MPEG-4	767	771[ger]|772[eng]|770[ger]	129	SchleicheR	11-Jul-13	1238	
+11915	H	27500	PE	TV	Discovery HD Deutschland	TV	Videoguard|Betacrypt|Nagravision 3	No	Sky Germany	HD	MPEG-4	1023	1027[ger]	130	dm800	18-Jun-09	1240	
+11915	H	27500	PE	TV	Sky Cinema HD	TV	Videoguard|Betacrypt|Nagravision 3	No	Sky Germany	HD	MPEG-4	1279	1283[ger]|1284[eng]	131	SchleicheR	25-Jul-13	1242	
+11915	H	27500	PE	TV	Sky Bundesliga HD 2	TV	Videoguard	No	Sky Germany	HD	MPEG-4	2047	2050[ger]|2051[ger]	267	ade3661	5-Apr-17	1244	
+11915	H	27500	PE	TV	Sky Sport HD 3 Deutschland	TV	Videoguard|Nagravision 3	No	Sky Germany	HD	MPEG-4	2303	2306[ger]|2307[ger]|2308[eng]	268	Tanea	28-Aug-13	1246	
+11915	H	27500	PE	TV	Eurosport 360 HD 1	TV	Videoguard|Nagravision 3	No	Sky Germany	SD	MPEG-4	3839	3843[ger]	270	Tanea	28-Aug-13	1248	
+11915	H	27500	PE	TV	Sky Sport Austria 2 HD	TV	Videoguard	No	Sky Germany	HD	MPEG-4	1535	1538[ger]|1540[ger]	329	Tanea	18-Jul-19	1250	
+11915	H	27500	PE	TV	TNT Film Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-4	4351	4352[ger]|4353[eng]	405	ade3661	5-Apr-17	1252	
+11934	V	29700	1MWide	TV	Clique TV HD	TV	Nagravision 3|Viaccess|Mediaguard 3	No	CanalSat France	HD	MPEG-4	110	121[fre]	8901	Tanea	28-Nov-18	1256	
+11934	V	29700	1MWide	TV	Disney Junior France HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	610	621[fre]|622[eng]|623[qad]	8906	Tanea	11-May-18	1258	
+11934	V	29700	1MWide	TV	Canal+ France HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	SD	MPEG-4	910	921[fre]	8909	Tanea	27-Apr-16	1260	
+11934	V	29700	1MWide	TV	Evénement Sport 4K UHD	TV	Nagravision|Viaccess 6.0	No	CanalSat France	SD	HEVC (H.265)	1010	1021[fre]	8910	Tanea	15-Jan-20	1262	
+11934	V	29700	1MWide	TV	Evénement UHD 4K	TV	Nagravision 3|Viaccess|Mediaguard 3	No	CanalSat France	UHD	HEVC (H.265)	1010	1021[fre]	8910	Tanea	28-Nov-18	1264	
+11934	V	29700	1MWide	TV	Nickelodeon Junior France HD	TV	Irdeto 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	1210	1221[fre]|1223[qad]	8912	Tanea	12-Jul-16	1266	
+11954	H	27500	PE	TV	ZDF	TV	FTA	Yes	ZDF Digital	SD	MPEG-2	110	120[ger]|121[mis]|122[mul]|125[ger]	28006	kathi4	9-Dec-13	1270	
+11954	H	27500	PE	TV	3sat	TV	FTA	Yes	ZDF Digital	SD	MPEG-2	210	220[ger]|221[mis]|222[mul]|225[ger]	28007	kathi4	9-Dec-13	1272	
+11954	H	27500	PE	TV	KiKA	TV	FTA	Yes	ZDF Digital	SD	MPEG-2	310	320[ger]|321[mis]|325[ger]	28008	kathi4	9-Dec-13	1274	
+11954	H	27500	PE	TV	ZDFinfo	TV	FTA	Yes	ZDF Digital	SD	MPEG-2	610	620[ger]|621[mis]|622[mul]|625[ger]	28011	kathi4	9-Dec-13	1276	
+11954	H	27500	PE	TV	zdf_neo	TV	FTA	Yes	ZDF Digital	SD	MPEG-2	660	670[ger]|671[mis]|672[mul]|675[ger]	28014	kathi4	9-Dec-13	1278	
+11954	H	27500	PE	R	DKULTUR	R	FTA	Yes	ZDF Digital			0	710[ger]	28012	kathi4	9-Dec-13	1280	
+11954	H	27500	PE	R	DLF	R	FTA	Yes	ZDF Digital			0	810[ger]	28013	kathi4	9-Dec-13	1282	
+11954	H	27500	PE	R	DRadio Wissen	R	FTA	Yes	ZDF Digital			0	410[ger]	28017	SchleicheR	30-Jul-13	1284	
+11973	V	27500	1MWide	TV	Nickelodeon HD	TV	Cryptoworks|Irdeto|Mediaguard|Nagravision|Viaccess	No		HD	MPEG-4	3011	3012[tur]|3013[eng]|3014[rus]|3015[hrv]	28651	Tanea	25-Oct-19	1288	
+11973	V	27500	1MWide	TV	MTV Hits	TV	Conax|Cryptoworks|Irdeto 2|Mediaguard 2|Nagravision 3|Viaccess	No		SD	MPEG-2	3041	3042[eng]	28654	Tanea	21-Mar-18	1290	
+11973	V	27500	1MWide	TV	MTV Dance	TV	Conax|Cryptoworks|Irdeto 2|Mediaguard 2|Nagravision 3|Viaccess	No		SD	MPEG-2	3051	3052[eng]	28655	Tanea	21-Mar-18	1292	
+11973	V	27500	1MWide	TV	VH1 Europe	TV	Conax|Cryptoworks|Irdeto 2|Mediaguard 2|Nagravision 3|Viaccess	No		SD	MPEG-2	3061	3062|3062[eng]	28656	Tanea	21-Mar-18	1294	
+11973	V	27500	1MWide	TV	VH1 Classic Europe	TV	Cryptoworks|Irdeto 2|Mediaguard 2|Nagravision 3|Viaccess	No		SD	MPEG-2	3071	3072[eng]	28657	Tanea	21-Mar-18	1296	
+11973	V	27500	1MWide	TV	MTV Rocks	TV	Conax|Cryptoworks|Irdeto 2|Mediaguard 2|Nagravision 3|Viaccess	No		SD	MPEG-2	3091	3092|3092[eng]	28659	Tanea	21-Mar-18	1298	
+11973	V	27500	1MWide	TV	Nick Jr Europe	TV	Cryptoworks|Irdeto|Mediaguard|Nagravision|Viaccess	No		SD	MPEG-4	3111	3112[ger]|3113[eng]|3114[fre]|3117[tur]	28661	Tanea	25-Oct-19	1300	
+11973	V	27500	1MWide	TV	Nick Jr Europe	TV	Cryptoworks|Irdeto|Mediaguard|Nagravision|Viaccess	No		SD	MPEG-4	3111	3113[eng]|3114[eng]|3116[rus]|3118[swe]|3119[dan]|3120[nor]|3121[fin]|3122[dut]|3128[por]	28662	Tanea	25-Oct-19	1302	
+11973	V	27500	1MWide	TV	Nick Junior Global	TV	Cryptoworks|Irdeto|Mediaguard|Nagravision|Viaccess	No		SD	MPEG-4	3111	3112[ger]|3113[eng]|3114[fre]|3116[rus]|3117[tur]|3118[swe]|3119[dan]|3120[nor]|3121[fin]|3122[dut]|3123[hun]|3124[ara]|3125[rum]|3126[hrv]|3127[srp]|3128[por]	28665	Tanea	25-Oct-19	1304	
+11973	V	27500	1MWide	TV	MTV Music 24	TV	Videoguard|Betacrypt|Conax|Cryptoworks|Mediaguard 2|Nagravision 3	No	CanalDigitaal|UPC Direct|Sky Germany|TV Vlaanderen Digitaal|T&eacute;l&eacute;SAT (Telesat)	SD	MPEG-2	4011	4012[eng]	28671	Frocus	12-Feb-12	1306	
+11973	V	27500	1MWide	TV	Viva	TV	FTA	Yes		SD	MPEG-2	4061	4062[ger]	28676	dm800	18-Jun-09	1308	
+11973	V	27500	1MWide	TV	Nick Junior France	TV	Cryptoworks|Mediaguard 2|Viaccess 2.5|Viaccess 3.0	No	CanalSat France	SD	MPEG-2	4071	4072[fre]	28677	Frocus	21-Jan-10	1310	
+11973	V	27500	1MWide	TV	Nick Jr Europe	TV	Viaccess	No		SD	MPEG-2	4081	4082[rus]|4083[eng]|4084[hun]|4085[ara]|4086[rum]|4087[hrv]|4088[srp]	28678	Tanea	30-Sep-15	1312	
+11973	V	27500	1MWide	TV	Nick Deutschland	TV	FTA	Yes		SD	MPEG-2	4101	4102[ger]	28680	dm800	18-Jun-09	1314	
+11973	V	27500	1MWide	TV	Nicktoons Turkey	TV	Viaccess	No		SD	MPEG-2	4131	4132[tur]|4133[eng]	28682	Tanea	19-Oct-16	1316	
+11993	H	27500	1MWide	TV	Sky Atlantic HD	TV	Videoguard|Betacrypt|Nagravision 3	No	Sky Germany	HD	MPEG-4	1279	1283[ger]|1284[eng]	110	SchleicheR	5-Jul-13	1320	
+11993	H	27500	1MWide	TV	Disney Cinemagic Deutschland HD	TV	Videoguard|Betacrypt|Nagravision 3	No	Sky Germany	HD	MPEG-4	255	259[ger]|260[000]	111	SchleicheR	25-Jul-13	1322	
+11993	H	27500	1MWide	TV	National Geographic Channel Deutschland HD	TV	Videoguard|Betacrypt|Nagravision 3	No	Sky Germany	HD	MPEG-4	511	515[ger]|516[000]	112	SchleicheR	25-Jul-13	1324	
+11993	H	27500	1MWide	TV	Sky Sport HD 2 Deutschland	TV	Videoguard|Nagravision 3	No	Sky Germany	HD	MPEG-4	1023	1026[ger]|1027[000]	114	SchleicheR	5-Jul-13	1326	
+11993	H	27500	1MWide	TV	13th Street HD	TV	Videoguard|Betacrypt|Nagravision 3	No	Sky Germany	HD	MPEG-4	767	771[ger]|772[000]	127	SchleicheR	25-Jul-13	1328	
+11993	H	27500	1MWide	TV	Sky Sport HD 4 Deutschland	TV	Videoguard|Nagravision 3	No	Sky Germany	HD	MPEG-4	2303	2306[ger]|2307[ger]|2308[000]	278	Tanea	6-Oct-14	1330	
+11993	H	27500	1MWide	TV	Eurosport 360 HD 2	TV	Videoguard|Nagravision 3	No	Sky Germany	HD	MPEG-4	3839	3843[ger]	280	Tanea	6-Oct-14	1332	
+12012	V	29700	1MWide	TV	Canal+ HD	TV	Mediaguard 2|Nagravision 3|Viaccess 3.0|Viaccess 4.0	No	CanalSat France	HD	MPEG-4	160	82[fre]|83[000]	8801	Frocus	26-Oct-10	1336	
+12012	V	29700	1MWide	TV	Canal+ Decale HD	TV	Mediaguard 2|Nagravision 3|Viaccess 3.0|Viaccess 4.0	No	CanalSat France	HD	MPEG-4	161	86[fre]|87[000]	8802	Frocus	26-Oct-10	1338	
+12012	V	29700	1MWide	TV	Canal+ Cinema HD	TV	Mediaguard 2|Nagravision 3|Viaccess 3.0|Viaccess 4.0	No	CanalSat France	HD	MPEG-4	162	90[fre]|91[000]	8803	Frocus	26-Oct-10	1340	
+12012	V	29700	1MWide	TV	Canal+ Sport HD	TV	Mediaguard 2|Nagravision 3|Viaccess 3.0|Viaccess 4.0|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	163	94[fre]|95[000]	8804	Frocus	31-Aug-14	1342	
+12012	V	29700	1MWide	TV	Canal+ Family HD	TV	Mediaguard 2|Nagravision 3|Viaccess 3.0|Viaccess 4.0	No	CanalSat France	HD	MPEG-4	164	98[fre]|99[000]	8805	Frocus	26-Oct-10	1344	
+12012	V	29700	1MWide	TV	Canal+ Séries HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0	No	CanalSat France	HD	MPEG-4	610	621[fre]|622[eng]	8806	ade3661	30-Mar-17	1346	
+12012	V	29700	1MWide	TV	Cine+ Famiz HD	TV	Nagravision 3|Viaccess 3.0	No	CanalSat France	HD	MPEG-4	810	821[fre]|822[eng]	8808	ade3661	30-Mar-17	1348	
+12012	V	29700	1MWide	TV	Cine+ Classic HD	TV	Nagravision 3|Viaccess 3.0	No	CanalSat France	HD	MPEG-4	910	921[fre]|922[eng]	8809	ade3661	30-Mar-17	1350	
+12012	V	29700	1MWide	TV	OCS City HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3	No	CanalSat France	HD	MPEG-4	1310	1321[fre]|1322[eng]	8813	Tanea	16-May-18	1352	
+12012	V	29700	1MWide	TV	OCS Max HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3	No	CanalSat France	HD	MPEG-4	1410	1421[fre]|1422[eng]	8814	Tanea	16-May-18	1354	
+12032	H	27500	PE	TV	Sky Cinema Premieren Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-4	255	256[ger]|257[eng]	10	Tanea	15-Mar-20	1358	
+12032	H	27500	PE	TV	Sky Select	TV	FTA	Yes	Sky Germany	SD	MPEG-2	2815	2816[ger]|2817[000]|2819[ger]	18	SchleicheR	15-Jul-13	1360	
+12032	H	27500	PE	TV	Sky Cinema Emotion	TV	Videoguard	No	Sky Germany	SD	MPEG-4	511	512[ger]|513[eng]|515[ger]	20	ade3661	9-Nov-16	1362	
+12032	H	27500	PE	TV	Sky Krimi	TV	Videoguard	No		SD	MPEG-4	1535	1536[ger]	23	ade3661	9-Nov-16	1364	
+12032	H	27500	PE	TV	RTL Crime	TV	Videoguard|Nagravision 3	No		SD	MPEG-4	3583	3584[ger]|3585[eng]	27	ade3661	27-Nov-15	1366	
+12032	H	27500	PE	TV	RTL Passion	TV	Videoguard|Nagravision 3	No		SD	MPEG-4	3839	3840[ger]|3841[eng]	29	ade3661	27-Nov-15	1368	
+12032	H	27500	PE	TV	Sky Sport 1 Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-4	1791	1792[ger]|1793[ger]	221	ade3661	9-Nov-16	1370	
+12032	H	27500	PE	TV	Sky Bundesliga 1	TV	Videoguard	No	Sky Germany	SD	MPEG-4	2303	2304[ger]|2305[ger]	223	ade3661	9-Nov-16	1372	
+12032	H	27500	PE	TV	Kinowelt TV	TV	Videoguard|Betacrypt	No	Sky Germany	SD	MPEG-4	4351	4352[ger]	406	Tanea	9-Mar-16	1374	
+12032	H	27500	PE	TV	Sky Cinema Tierisch	TV	Videoguard	No	Sky Germany	SD	MPEG-4	4095	4096[ger]	407	Tanea	25-Jun-19	1376	
+12032	H	27500	PE	TV	Blue Movie Info	TV	Videoguard	No		SD	MPEG-4	2815	2816[ger]	513	ade3661	27-Nov-15	1378	
+12032	H	27500	PE	TV	Sky Cinema Nostalgie	TV	Videoguard|Betacrypt	No	Sky Germany	SD	MPEG-4	767	768[ger]	516	Tanea	28-Mar-18	1380	
+12051	V	27500	PE	TV	ProSieben Schweiz	TV	FTA	Yes		SD	MPEG-2	289	290[ger]|292[ger]	20001	kathi4	9-Dec-13	1384	
+12051	V	27500	PE	TV	ProSieben Austria	TV	FTA	Yes		SD	MPEG-2	161	84[ger]|85[ger]	20002	kathi	10-Dec-13	1386	
+12051	V	27500	PE	TV	Kabel 1 Schweiz	TV	FTA	Yes		SD	MPEG-2	162	163[ger]	20003	kathi	10-Dec-13	1388	
+12051	V	27500	PE	TV	Kabel 1 Austria	TV	FTA	Yes		SD	MPEG-2	166	167[ger]	20004	kathi	10-Dec-13	1390	
+12051	V	27500	PE	TV	SAT.1 A	TV	FTA	Yes		SD	MPEG-2	800	801[ger]|803[ger]	20005	kathi	10-Dec-13	1392	
+12051	V	27500	PE	TV	SAT.1 CH	TV	FTA	Yes		SD	MPEG-2	1535	1536[ger]|1539[ger]	20006	kathi	10-Dec-13	1394	
+12051	V	27500	PE	TV	PULS 4 Austria	TV	Videoguard|Betacrypt|Cryptoworks|Irdeto 2|Nagravision 3	No	ORF Digital	SD	MPEG-2	1791	1792[ger]	20007	kathi	10-Dec-13	1396	
+12051	V	27500	PE	TV	SAT.1 HH/SH	TV	FTA	Yes		SD	MPEG-2	2047	2048[ger]|2051[ger]	20008	kathi	10-Dec-13	1398	
+12051	V	27500	PE	TV	Sat. 1 NS/Bremen	TV	FTA	Yes		SD	MPEG-2	2047	2048[ger]|2051[ger]	20009	kathi	10-Dec-13	1400	
+12051	V	27500	PE	TV	SAT.1 RhlPf/Hessen	TV	FTA	Yes		SD	MPEG-2	2047	2048[ger]|2051[ger]	20010	kathi	10-Dec-13	1402	
+12071	H	27500	PE	TV	Sky Cinema Family HD Deutschland	TV	Videoguard|Betacrypt	No	Sky Germany	HD	MPEG-4	767	771[ger]|772[eng]	139	Tanea	9-Apr-18	1406	
+12071	H	27500	PE	TV	Sky 1 HD Deutschland	TV	Videoguard	No	Sky Germany	HD	MPEG-4	1023	1027[ger]	147	ade3661	6-Dec-16	1408	
+12071	H	27500	PE	TV	Sky Sport Bundesliga 6 HD	TV	Videoguard|Betacrypt	No	Sky Germany	HD	MPEG-4	2047	2050[ger]|2051[ger]|2052[eng]	307	Tanea	10-Jan-17	1410	
+12071	H	27500	PE	TV	Sky Sport 7 HD Deutschland	TV	Videoguard|Betacrypt	No	Sky Germany	HD	MPEG-4	2303	2306[ger]|2307[ger]|2308[eng]	308	Tanea	10-Jan-17	1412	
+12090	V	29700	1MWide	TV	DISNEY XD	TV	Nagravision 3|Viaccess 3.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	110	121[fre]|122[eng]	9401	ade3661	13-Apr-18	1416	
+12090	V	29700	1MWide	TV	Disney Cinema France HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	210	221[fre]|222[eng]	9402	Tanea	3-Jul-15	1418	
+12090	V	29700	1MWide	TV	French Lover HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	310	321[fre]	9403	ade3661	9-Nov-16	1420	
+12090	V	29700	1MWide	TV	OCS Choc HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	410	421|421[fre]|422[eng]	9404	Tanea	14-Jan-15	1422	
+12090	V	29700	1MWide	TV	NON STOP PEOPLE HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	510	521[fre]	9405	Frocus	13-Nov-12	1424	
+12090	V	29700	1MWide	TV	EUROSPORT 2 HD	TV	Mediaguard 2|Nagravision 3|Viaccess 4.0|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	610	621[fre]	9406	Frocus	13-Nov-12	1426	
+12090	V	29700	1MWide	TV	MyZen TV HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalDigitaal	HD	MPEG-4	710	721[fre]	9407	Tanea	25-Apr-17	1428	
+12090	V	29700	1MWide	TV	Disney Channel France +1 HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	810	821[fre]|822[eng]	9408	ade3661	6-Dec-16	1430	
+12090	V	29700	1MWide	TV	Planète+ C.I. HD	TV	Nagravision 3|Viaccess 3.0	No	CanalSat France	HD	MPEG-4	910	921[fre]	9409	ade3661	6-Dec-16	1432	
+12090	V	29700	1MWide	TV	Campagnes TV	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	1010	1021[fre]	9410	Tanea	10-Feb-16	1434	
+12090	V	29700	1MWide	TV	TéléToon+ HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	1110	1121[fre]	9411	Tanea	12-Jul-16	1436	
+12090	V	29700	1MWide	TV	Teletoon +1 HD	TV	Nagravision 3|Viaccess 3.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	1210	1221[fre]	9412	ade3661	6-Dec-16	1438	
+12090	V	29700	1MWide	TV	Colmax TV HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	1310	1321[fre]	9413	Tanea	16-May-18	1440	
+12090	V	29700	1MWide	TV	Trace Urban HD	TV	Nagravision 3|Viaccess|Mediaguard 3	No	CanalSat France	HD	MPEG-4	1410	1421[fre]	9414	Tanea	28-Nov-18	1442	
+12090	V	29700	1MWide	TV	Game One HD	TV	Nagravision 3|Viaccess|Mediaguard 3	No	CanalSat France	HD	MPEG-4	1510	1521[fre]	9415	Tanea	28-Nov-18	1444	
+12110	H	27500	1MEurope	TV	rbb Brandenburg	TV	FTA	Yes		SD	MPEG-2	601	602[ger]|603[mis]	28205	Kathi2	10-Dec-13	1448	
+12110	H	27500	1MEurope	TV	rbb Berlin	TV	FTA	Yes		SD	MPEG-2	601	602[ger]|603[mis]	28206	Kathi2	10-Dec-13	1450	
+12110	H	27500	1MEurope	TV	ARD-TEST-1	TV	FTA	Yes		SD	MPEG-2	601	602[ger]|2602[fre]	28221	Kathi2	10-Dec-13	1452	
+12110	H	27500	1MEurope	TV	NDR FS MV	TV	FTA	Yes		SD	MPEG-2	2601	2602[ger]|2603[mis]	28224	Kathi2	10-Dec-13	1454	
+12110	H	27500	1MEurope	TV	NDR FS HH	TV	FTA	Yes		SD	MPEG-2	2601	2602[ger]|2603[mis]	28225	Kathi2	10-Dec-13	1456	
+12110	H	27500	1MEurope	TV	NDR FS NDS	TV	FTA	Yes		SD	MPEG-2	2601	2602[ger]|2603[mis]	28226	Kathi2	10-Dec-13	1458	
+12110	H	27500	1MEurope	TV	NDR FS SH	TV	FTA	Yes		SD	MPEG-2	2601	2602[ger]|2603[mis]	28227	Kathi2	10-Dec-13	1460	
+12110	H	27500	1MEurope	TV	MDR Sachsen	TV	FTA	Yes		SD	MPEG-2	2901	2902[ger]|2903[mis]	28228	Kathi2	10-Dec-13	1462	
+12110	H	27500	1MEurope	TV	MDR S-Anhalt	TV	FTA	Yes		SD	MPEG-2	2901	2902[ger]|2903[mis]	28229	Kathi2	10-Dec-13	1464	
+12110	H	27500	1MEurope	TV	MDR Thüringen	TV	FTA	Yes		SD	MPEG-2	2901	2902[ger]|2903[mis]	28230	Kathi2	10-Dec-13	1466	
+12110	H	27500	1MEurope	TV	SWR Fernsehen RP	TV	FTA	Yes		SD	MPEG-2	3101	3102[ger]|3103[mis]|3106[ger]	28231	Kathi2	10-Dec-13	1468	
+12129	V	29700	PE	TV	Museum HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	110	121[fre]	9901	Tanea	25-Apr-17	1472	
+12129	V	29700	PE	TV	TCM Cinema France HD	TV	Nagravision 3|Viaccess 3.0|Mediaguard 3|Viaccess 5.0|Viaccess 6.0	No	CanalSat France|Orange|T&eacute;l&eacute;SAT (Telesat)	HD	MPEG-4	210	221[fre]|222[eng]	9902	alexfloresaf38	15-Jun-17	1474	
+12129	V	29700	PE	TV	Golf+ France HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	310	321[fre]	9903	Tanea	31-Aug-14	1476	
+12129	V	29700	PE	TV	Téva HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	510	521[fre]|522[eng]|523[000]	9905	Tanea	15-Jul-13	1478	
+12129	V	29700	PE	TV	J-One HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	610	621|621[per]	9906	Tanea	6-Mar-14	1480	
+12129	V	29700	PE	TV	Penthouse HD	TV	Mediaguard 3	No	CanalSat France	HD	MPEG-4	710	721[eng]	9907	Tanea	6-Mar-14	1482	
+12129	V	29700	PE	TV	Cartoon Network France HD	TV	Nagravision 3|Viaccess 3.0|Mediaguard 3|Viaccess 5.0|Viaccess 6.0	No	CanalSat France|T&eacute;l&eacute;SAT (Telesat)	HD	MPEG-4	810	821[fre]|822[eng]|823[qad]	9908	alexfloresaf38	15-Jun-17	1484	
+12129	V	29700	PE	TV	TV 5 Monde FBS HD	TV	FTA	Yes		HD	MPEG-4	1010	1021[fre]	9910	Tanea	27-Jun-15	1486	
+12129	V	29700	PE	TV	Planète+ A&E HD	TV	Nagravision 3|Viaccess 3.0	No	CanalSat France	HD	MPEG-4	1210	1221[fre]	9912	Tanea	17-Jan-17	1488	
+12129	V	29700	PE	TV	Multisports 5 HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0	No	CanalSat France	HD	MPEG-4	2110	2121[fre]	9921	Tanea	17-Jan-17	1490	
+12129	V	29700	PE	TV	Toonami France HD	TV	Nagravision 3|Viaccess 3.0	No	CanalSat France	HD	MPEG-4	1421	1422[fre]|1423[eng]	9922	Tanea	17-Jan-17	1492	
+12148	H	27500	PE	TV	N24 Doku Austria	TV	FTA	Yes		SD	MPEG-2	255	256[ger]	53	Tanea	23-Jan-18	1496	
+12148	H	27500	PE	TV	Beauty TV	TV	FTA	Yes		SD	MPEG-2	3071	3072[ger]	54	Frocus	21-Nov-09	1498	
+12148	H	27500	PE	TV	Viva Österreich	TV	FTA	Yes		SD	MPEG-2	1535	1536[ger]	60	Frocus	13-Jun-12	1500	
+12148	H	27500	PE	TV	Comedy Central Österreich (20.15-06.00)	TV	FTA	Yes		SD	MPEG-2	1791	1536|1536[ger]	60	Tanea	23-Oct-14	1502	
+12148	H	27500	PE	TV	Nick Österreich (06.00-20.15)	TV	FTA	Yes		SD	MPEG-2	1791	1792[ger]	61	Frocus	13-Jun-12	1504	
+12148	H	27500	PE	TV	Nick Night Austria	TV	FTA	Yes		SD	MPEG-2	1791	1792[ger]	61	Tanea	23-Oct-14	1506	
+12148	H	27500	PE	TV	Deluxe Music	TV	FTA	Yes		SD	MPEG-2	3327	3328[ger]|3331[ger]	65	Frocus	17-Jan-12	1508	
+12148	H	27500	PE	TV	BB-MV Lokal-TV info card	TV	FTA	Yes		SD	MPEG-2	2559	2560[ger]	70	Frocus	27-Jul-13	1510	
+12148	H	27500	PE	TV	Hope Channel Deutsch	TV	FTA	Yes		SD	MPEG-2	511	512[ger]	71	dm800	18-Jun-09	1512	
+12148	H	27500	PE	IMG	DMAX Austria info card	TV	FTA	Yes		SD	MPEG-2	3583		73	Tanea	25-Sep-14	1514	
+12148	H	27500	PE	TV	JML Direct Shop	TV	FTA	Yes		SD	MPEG-2	2303	2304[ger]	514	Frocus	3-Jan-12	1516	
+12148	H	27500	PE	TV	Pearl TV	TV	FTA	Yes		SD	MPEG-2	2047	2048[ger]	765	Tanea	18-Jul-14	1518	
+12148	H	27500	PE	TV	Channel 21 Express	TV	FTA	Yes		SD	MPEG-2	1023	1024[ger]	769	Frocus	18-Jun-09	1520	
+12148	H	27500	PE	TV	God TV Europe	TV	FTA	Yes		SD	MPEG-2	767	768[eng]	774	dm800	18-Jun-09	1522	
+12148	H	27500	PE	TV	Der Schmuckkanal	TV	FTA	Yes		SD	MPEG-2	3583	3584[ger]	775	dm800	18-Jun-09	1524	
+12148	H	27500	PE	TV	MediaShop - Meine Einkaufswelt	TV	FTA	Yes		SD	MPEG-2	3583	3584[ger]	775	Frocus	28-Apr-11	1526	
+12148	H	27500	PE	R	Rock Antenne	R	FTA	Yes				0	304[ger]	160	dreambox	18-Jun-09	1528	
+12148	H	27500	PE	R	ERF Radio	R	FTA	Yes				0	320[ger]	161	dreambox	18-Jun-09	1530	
+12148	H	27500	PE	R	Sunshine Live	R	FTA	Yes				0	336[ger]	169	dreambox	18-Jun-09	1532	
+12148	H	27500	PE	R	Antenne Bayern	R	FTA	Yes				0	352[ger]	170	dreambox	18-Jun-09	1534	
+12148	H	27500	PE	R	2255 Live	R	FTA	Yes				0	528[ger]	176	dreambox	18-Jun-09	1536	
+12168	V	29700	1MEurope	TV	Cine + Premier HD	TV	Mediaguard 2|Nagravision 3|Viaccess 3.0|Viaccess 4.0|Viaccess 5.0	No	CanalSat France	SD	MPEG-2	210	221|221[fre]|222|222[000]	9302	Tanea	17-Jan-17	1540	
+12168	V	29700	1MEurope	TV	M6 HD	TV	Mediaguard 2|Nagravision 3|Viaccess 3.0|Viaccess 4.0|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	310	321|321[fre]|322[eng]|323[qad]	9303	Tanea	17-Jan-17	1542	
+12168	V	29700	1MEurope	TV	W9 HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	410	421[fre]|422[eng]|423[qad]	9304	Tanea	17-Jan-17	1544	
+12168	V	29700	1MEurope	TV	Ushuaïa TV HD	TV	Mediaguard 2|Nagravision 3|Viaccess 3.0|Viaccess 4.0|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	510	521|521[fre]|522[eng]|523[qad]	9305	Tanea	17-Jan-17	1546	
+12168	V	29700	1MEurope	TV	France 2 HD	TV	Mediaguard 2|Nagravision 3|Viaccess 3.0|Viaccess 4.0|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	610	621|621[fre]|622[eng]|623[qad]	9306	Tanea	17-Jan-17	1548	
+12168	V	29700	1MEurope	TV	Cine + Émotion HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	710	721[fre]|722[000]	9307	Tanea	17-Jan-17	1550	
+12168	V	29700	1MEurope	TV	France 3 Sat HD	TV	Mediaguard 2|Nagravision 3|Viaccess 3.0|Viaccess 4.0|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	910	923|923[000]|921[fre]	9309	Tanea	17-Jan-17	1552	
+12168	V	29700	1MEurope	TV	TF 1 HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	1210	1221[fre]|1222[000]	9312	Tanea	17-May-18	1554	
+12168	V	29700	1MEurope	TV	Eurosport 1 HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	1310	1321[fre]	9313	Tanea	17-May-18	1556	
+12168	V	29700	1MEurope	TV	beIN Sports HD 1	TV	Nagravision 3	No	CanalSat France	HD	MPEG-4	1410	1421[fre]	9314	Tanea	17-May-18	1558	
+12188	H	27500	1MEurope	TV	RTL Television	TV	FTA	Yes		SD	MPEG-2	163	104[ger]|106[ger]	12003	kathi3	10-Dec-13	1562	
+12188	H	27500	1MEurope	TV	RTL Regional NRW	TV	FTA	Yes		SD	MPEG-2	163	104[ger]	12004	kathi3	10-Dec-13	1564	
+12188	H	27500	1MEurope	TV	RTL HB NDS	TV	FTA	Yes		SD	MPEG-2	163	104[ger]	12005	kathi3	10-Dec-13	1566	
+12188	H	27500	1MEurope	TV	RTL FS (TV Bayern Live)	TV	FTA	Yes		SD	MPEG-2	200	201|201[ger]	12006	Tanea	18-Jun-16	1568	
+12188	H	27500	1MEurope	TV	RTL2	TV	FTA	Yes		SD	MPEG-2	166	128[ger]	12020	kathi3	10-Dec-13	1570	
+12188	H	27500	1MEurope	TV	RTL Living	TV	Videoguard|Betacrypt|Nagravision 3	No		SD	MPEG-2	301	303[ger]	12030	Frocus	16-Jan-11	1572	
+12188	H	27500	1MEurope	TV	SUPER RTL	TV	FTA	Yes		SD	MPEG-2	165	120[ger]	12040	kathi3	10-Dec-13	1574	
+12188	H	27500	1MEurope	TV	Vox Schweiz	TV	FTA	Yes		SD	MPEG-2	172	145[ger]	12041	Tanea	4-Nov-15	1576	
+12188	H	27500	1MEurope	TV	VOX	TV	FTA	Yes		SD	MPEG-2	167	136[ger]	12060	kathi3	10-Dec-13	1578	
+12188	H	27500	1MEurope	TV	RTLNITRO	TV	FTA	Yes		SD	MPEG-2	173	146[ger]	12061	kathi3	10-Dec-13	1580	
+12188	H	27500	1MEurope	TV	Channel 21	TV	FTA	Yes		SD	MPEG-2	168	137[ger]	12080	kathi3	10-Dec-13	1582	
+12188	H	27500	1MEurope	TV	RTLplus Deutschland	TV	FTA	Yes		SD	MPEG-2	168	137[ger]	12080	Tanea	26-May-16	1584	
+12188	H	27500	1MEurope	TV	n-tv	TV	FTA	Yes		SD	MPEG-2	169	73[ger]	12090	kathi3	10-Dec-13	1586	
+12207	V	29700	PE	TV	National Geographic HD	TV	Mediaguard 2|Nagravision 3|Viaccess 3.0|Viaccess 4.0	No	My Canal	HD	MPEG-4	210	221[fre]	9002	ade3661	10-Nov-16	1590	
+12207	V	29700	PE	TV	HD1	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	My Canal	HD	MPEG-4	310	321[fre]|322[eng]|323[000]	9003	ade3661	10-Nov-16	1592	
+12207	V	29700	PE	TV	Paris Première HD	TV	Mediaguard 2|Nagravision 3|Viaccess 3.0|Viaccess 4.0	No	CanalSat France	HD	MPEG-4	410	421|421[fre]|422[eng]	9004	Tanea	12-Jul-16	1594	
+12207	V	29700	PE	TV	Boing France HD	TV	Videoguard|Nagravision 3|Mediaguard 3	No	CanalSat France	HD	MPEG-4	510	521[fre]|522[eng]	9005	Tanea	28-Nov-18	1596	
+12207	V	29700	PE	TV	Planète + HD	TV	Mediaguard 2	No	CanalSat France	HD	MPEG-4	610	621|621[fre]	9006	Tanea	12-Jul-16	1598	
+12207	V	29700	PE	TV	Disney Channel France HD	TV	Mediaguard 2	No	CanalSat France	HD	MPEG-4	710	721[fre]|722[eng]	9007	ade3661	10-Nov-16	1600	
+12207	V	29700	PE	TV	France 5 HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	810	821[fre]|822[eng]	9008	Tanea	20-Jul-15	1602	
+12207	V	29700	PE	TV	Infosport+ HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	1010	1021[fre]	9010	Tanea	12-Jul-16	1604	
+12207	V	29700	PE	TV	Boomerang France HD	TV	Nagravision 3|Viaccess|Mediaguard 3	No	CanalSat France	HD	MPEG-4	1110	1121[fre]|1122[eng]	9011	Tanea	28-Nov-18	1606	
+12207	V	29700	PE	TV	C8 HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0	No	CanalSat France	HD	MPEG-4	1210	1221[fre]|1222[eng]|1223[000]	9012	ade3661	10-Nov-16	1608	
+12207	V	29700	PE	TV	CStar HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	1310	1321[fre]|1322[000]	9013	Tanea	17-May-18	1610	
+12226	H	27500	1MEurope	TV	RTL Österreich	TV	FTA	Yes		SD	MPEG-2	201	202[ger]	28800	dm800	2-Jun-19	1614	
+12226	H	27500	1MEurope	TV	Vox Österreich	TV	FTA	Yes		SD	MPEG-2	301	302[ger]	28805	dm800	2-Jun-19	1616	
+12226	H	27500	1MEurope	TV	RTL 2 Österreich	TV	FTA	Yes		SD	MPEG-2	401	402[ger]	28810	dm800	2-Jun-19	1618	
+12226	H	27500	1MEurope	TV	Super RTL Österreich	TV	FTA	Yes		SD	MPEG-2	501	502[ger]	28815	dm800	2-Jun-19	1620	
+12226	H	27500	1MEurope	TV	VOXup	TV	FTA	Yes		SD	MPEG-2	601	602[ger]	28820	Tanea	28-Nov-19	1622	
+12226	H	27500	1MEurope	TV	Eurosport Deutschland	TV	FTA	Yes		SD	MPEG-2	101	103[ger]	31200	dm800	23-Mar-10	1624	
+12226	H	27500	1MEurope	TV	HSE 24 Extra	TV	FTA	Yes		SD	MPEG-2	512	660[ger]	31210	dm800	2-Jun-19	1626	
+12226	H	27500	1MEurope	TV	EuroNews	TV	FTA	Yes		SD	MPEG-2	2432	2433[ger]|2434[eng]|2435[fre]|2436[ita]|2437[spa]|2438[por]|2439[rus]|2440[ara]|2441[tur]|2442[per]	31220	kathi4	10-Dec-13	1628	
+12246	V	29700	PE	TV	Novelas TV HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Mediaguard 3	No	CanalSat France	HD	MPEG-4	210	221[fre]|422[eng]	6602	Tanea	26-Sep-17	1632	
+12246	V	29700	PE	TV	OCS Géants HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Mediaguard 3	No	CanalSat France	HD	MPEG-4	410	421[fre]|422[eng]	6604	Tanea	26-Jun-13	1634	
+12246	V	29700	PE	TV	Voyage HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Mediaguard 3	No	CanalSat France	HD	MPEG-4	510	521[fre]	6605	Tanea	26-Jun-13	1636	
+12246	V	29700	PE	TV	Paramount Channel France HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Mediaguard 3	No	CanalSat France	HD	MPEG-4	610	621[fre]|622[eng]	6606	Tanea	10-Sep-13	1638	
+12246	V	29700	PE	TV	Libido TV HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Mediaguard 3	No	CanalSat France	HD	MPEG-4	710	721[fre]	6607	ade3661	10-Nov-16	1640	
+12246	V	29700	PE	TV	La chaine du Père Noël HD	TV	Viaccess 3.0|Viaccess 4.0	No	CanalSat France	HD	MPEG-4	910	921[fre]	6609	Tanea	28-Nov-17	1642	
+12246	V	29700	PE	TV	Seasons HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Mediaguard 3	No	CanalSat France	HD	MPEG-4	1010	1021[fre]	6610	Tanea	30-Jun-15	1644	
+12246	V	29700	PE	TV	Foot+ 24/24 HD	TV	Nagravision|Viaccess 6.0	No	CanalSat France	HD	MPEG-4	1110	1121[fre]	6611	Tanea	16-Jul-19	1646	
+12246	V	29700	PE	TV	Equidia Live HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	1210	1221[fre]	6612	Tanea	12-Jul-16	1648	
+12246	V	29700	PE	TV	Stingray Classica HD	TV	Nagravision|Viaccess 6.0	No	CanalSat France	HD	MPEG-4	1310	1321[fre]	6613	Tanea	16-Jul-19	1650	
+12246	V	29700	PE	TV	Multisports 6 HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0	No	CanalSat France	HD	MPEG-4	2110	2121[fre]	6621	Tanea	17-Jan-17	1652	
+12246	V	29700	PE	TV	Baby TV HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	2210	2221[fre]	6622	Tanea	26-Sep-17	1654	
+12266	H	27500	1MEurope	TV	SR Fernsehen	TV	FTA	Yes		SD	MPEG-2	1301	1302[ger]|1303[mis]	28486	kathi4	10-Dec-13	1658	
+12266	H	27500	1MEurope	TV	ARD Alpha	TV	FTA	Yes		SD	MPEG-2	1401	1402[ger]|1403[mwl]|1406[ger]	28487	Tanea	30-Jun-14	1660	
+12266	H	27500	1MEurope	R	Bayern 1	R	FTA	Yes				0	101[ger]	28400	kathi4	10-Dec-13	1662	
+12266	H	27500	1MEurope	R	Bayern 2	R	FTA	Yes				0	111[ger]	28401	Rosenheim	10-Dec-13	1664	
+12266	H	27500	1MEurope	R	BAYERN 3	R	FTA	Yes				0	121[ger]	28402	Rosenheim	10-Dec-13	1666	
+12266	H	27500	1MEurope	R	BR-KLASSIK	R	FTA	Yes				0	131[ger]|132[ger]	28403	Rosenheim	10-Dec-13	1668	
+12266	H	27500	1MEurope	R	B5 aktuell	R	FTA	Yes				0	141[ger]	28404	Rosenheim	10-Dec-13	1670	
+12266	H	27500	1MEurope	R	BAYERN plus	R	FTA	Yes				0	151[ger]	28405	Rosenheim	10-Dec-13	1672	
+12266	H	27500	1MEurope	R	PULS	R	FTA	Yes				0	161[ger]	28406	Rosenheim	10-Dec-13	1674	
+12266	H	27500	1MEurope	R	B5 plus	R	FTA	Yes				0	181[ger]	28408	dreambox	18-Jun-09	1676	
+12266	H	27500	1MEurope	R	hr1	R	FTA	Yes				0	401[ger]	28419	Rosenheim	10-Dec-13	1678	
+12266	H	27500	1MEurope	R	hr2	R	FTA	Yes				0	411[ger]|412[ger]	28420	Rosenheim	10-Dec-13	1680	
+12266	H	27500	1MEurope	R	hr3	R	FTA	Yes				0	421[ger]	28421	arumba	10-Dec-13	1682	
+12266	H	27500	1MEurope	R	hr4	R	FTA	Yes				0	431[ger]	28422	arumba	10-Dec-13	1684	
+12266	H	27500	1MEurope	R	YOU FM	R	FTA	Yes				0	451[ger]	28423	arumba	10-Dec-13	1686	
+12266	H	27500	1MEurope	R	hr-iNFO	R	FTA	Yes				0	461[ger]	28424	arumba	10-Dec-13	1688	
+12266	H	27500	1MEurope	R	MDR1 SACHSEN	R	FTA	Yes				0	501[ger]	28428	arumba	10-Dec-13	1690	
+12266	H	27500	1MEurope	R	MDR S-ANHALT	R	FTA	Yes				0	511[ger]	28429	arumba	10-Dec-13	1692	
+12266	H	27500	1MEurope	R	MDR THÜRINGEN	R	FTA	Yes				0	521[ger]	28430	arumba	10-Dec-13	1694	
+12266	H	27500	1MEurope	R	MDR FIGARO	R	FTA	Yes				0	531[ger]|532[ger]	28431	arumba	10-Dec-13	1696	
+12266	H	27500	1MEurope	R	MDR Jump	R	FTA	Yes				0	541[ger]	28432	arumba	10-Dec-13	1698	
+12266	H	27500	1MEurope	R	MDR SPUTNIK	R	FTA	Yes				0	551[ger]	28433	arumba	10-Dec-13	1700	
+12266	H	27500	1MEurope	R	MDR INFO	R	FTA	Yes				0	561[ger]	28434	kathi5	10-Dec-13	1702	
+12266	H	27500	1MEurope	R	MDR KLASSIK	R	FTA	Yes				0	571[ger]	28435	kathi5	10-Dec-13	1704	
+12266	H	27500	1MEurope	R	NDR 2	R	FTA	Yes				0	601[ger]	28437	kathi5	10-Dec-13	1706	
+12266	H	27500	1MEurope	R	NDR Kultur	R	FTA	Yes				0	611[ger]	28438	dreambox	18-Jun-09	1708	
+12266	H	27500	1MEurope	R	NDR Info	R	FTA	Yes				0	621[ger]	28439	dreambox	18-Jun-09	1710	
+12266	H	27500	1MEurope	R	N-Joy	R	FTA	Yes				0	631[ger]	28440	dreambox	18-Jun-09	1712	
+12266	H	27500	1MEurope	R	NDR 90.3	R	FTA	Yes				0	641[ger]	28441	dreambox	18-Jun-09	1714	
+12266	H	27500	1MEurope	R	NDR1WelleNord	R	FTA	Yes				0	651[ger]	28442	kathi5	10-Dec-13	1716	
+12266	H	27500	1MEurope	R	NDR 1 Radio MV	R	FTA	Yes				0	661[ger]	28443	dreambox	18-Jun-09	1718	
+12266	H	27500	1MEurope	R	NDR 1 Nieders.	R	FTA	Yes				0	671[ger]	28444	kathi5	10-Dec-13	1720	
+12266	H	27500	1MEurope	R	NDR Info Spez.	R	FTA	Yes				0	681[ger]	28445	kathi5	10-Dec-13	1722	
+12266	H	27500	1MEurope	R	NDR Blue	R	FTA	Yes	ARD Digital			0	691[ger]	28446	SchleicheR	11-Apr-13	1724	
+12266	H	27500	1MEurope	R	Bremen Eins	R	FTA	Yes				0	701[ger]	28448	dreambox	18-Jun-09	1726	
+12266	H	27500	1MEurope	R	Nordwestradio	R	FTA	Yes				0	711[ger]	28449	kathi5	10-Dec-13	1728	
+12266	H	27500	1MEurope	R	Bremen Vier	R	FTA	Yes				0	721[ger]	28450	dreambox	18-Jun-09	1730	
+12266	H	27500	1MEurope	R	Inforadio	R	FTA	Yes				0	801[ger]	28452	kathi5	10-Dec-13	1732	
+12266	H	27500	1MEurope	R	Kulturradio	R	FTA	Yes				0	811[ger]	28453	dreambox	18-Jun-09	1734	
+12266	H	27500	1MEurope	R	Antenne Brandenburg	R	FTA	Yes				0	821[ger]	28454	kathi6	10-Dec-13	1736	
+12266	H	27500	1MEurope	R	radioBERLIN 88.8	R	FTA	Yes				0	831[ger]	28455	kathi6	10-Dec-13	1738	
+12266	H	27500	1MEurope	R	radioeins	R	FTA	Yes				0	841[ger]	28456	kathi6	10-Dec-13	1740	
+12266	H	27500	1MEurope	R	Fritz	R	FTA	Yes				0	851[ger]	28457	dreambox	18-Jun-09	1742	
+12266	H	27500	1MEurope	R	SR 1 Europawelle	R	FTA	Yes				0	901[ger]	28461	dreambox	18-Jun-09	1744	
+12266	H	27500	1MEurope	R	SR 2 KulturRadio	R	FTA	Yes				0	911[ger]	28462	dreambox	18-Jun-09	1746	
+12266	H	27500	1MEurope	R	SR 3 Saarlandwelle	R	FTA	Yes				0	921[ger]	28463	dreambox	18-Jun-09	1748	
+12266	H	27500	1MEurope	R	SWR1 BW	R	FTA	Yes				0	1001[ger]	28465	kathi6	10-Dec-13	1750	
+12266	H	27500	1MEurope	R	SWR1 RP	R	FTA	Yes				0	1011[ger]	28466	kathi6	10-Dec-13	1752	
+12266	H	27500	1MEurope	R	SWR2	R	FTA	Yes				0	1021[ger]|1022[ger]	28467	kathi6	10-Dec-13	1754	
+12266	H	27500	1MEurope	R	SWR3	R	FTA	Yes				0	1031[ger]	28468	kathi6	10-Dec-13	1756	
+12266	H	27500	1MEurope	R	SWR4 BW	R	FTA	Yes				0	1041[ger]	28469	kathi6	10-Dec-13	1758	
+12266	H	27500	1MEurope	R	SWR4 RP	R	FTA	Yes				0	1051[ger]	28470	kathi6	10-Dec-13	1760	
+12266	H	27500	1MEurope	R	DASDING	R	FTA	Yes				0	1061[ger]	28471	kathi6	10-Dec-13	1762	
+12266	H	27500	1MEurope	R	SWRinfo	R	FTA	Yes				0	1071[ger]	28472	kathi6	10-Dec-13	1764	
+12266	H	27500	1MEurope	R	1LIVE	R	FTA	Yes				0	1101[ger]	28475	kathi7	10-Dec-13	1766	
+12266	H	27500	1MEurope	R	WDR 2	R	FTA	Yes				0	1111[ger]	28476	kathi7	10-Dec-13	1768	
+12266	H	27500	1MEurope	R	WDR 3	R	FTA	Yes				0	1121[ger]|1122[ger]	28477	dreambox	18-Jun-09	1770	
+12266	H	27500	1MEurope	R	WDR 4	R	FTA	Yes				0	1131[ger]	28478	dreambox	18-Jun-09	1772	
+12266	H	27500	1MEurope	R	WDR 5	R	FTA	Yes				0	1141[ger]	28479	dreambox	18-Jun-09	1774	
+12266	H	27500	1MEurope	R	WDR Funkhaus Europa	R	FTA	Yes				0	1151[ger]	28480	kathi7	10-Dec-13	1776	
+12266	H	27500	1MEurope	R	1Live diggi	R	FTA	Yes				0	1161[ger]	28481	kathi7	10-Dec-13	1778	
+12266	H	27500	1MEurope	R	KIRAKA	R	FTA	Yes				0	1171[ger]	28482	kathi7	10-Dec-13	1780	
+12266	H	27500	1MEurope	R	WDR Event	R	FTA	Yes				0	1181[ger]	28483	kathi7	10-Dec-13	1782	
+12285	V	29700	PE	TV	AB Moteurs HD	TV	Mediaguard 2|Viaccess 2.5|Viaccess 3.0	No	CanalSat France|Orange	HD	MPEG-4	120	220[fre]	17020	ade3661	6-Dec-16	1786	
+12285	V	29700	PE	TV	AB 1 HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Mediaguard 3	No	CanalSat France|Orange	HD	MPEG-4	121	221[fre]	17021	ade3661	6-Dec-16	1788	
+12285	V	29700	PE	TV	Animaux HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France|Orange	HD	MPEG-4	122	322[fre]	17022	ade3661	6-Dec-16	1790	
+12285	V	29700	PE	TV	Science et Vie HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	123	223[fre]	17023	ade3661	6-Dec-16	1792	
+12285	V	29700	PE	TV	XXL	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Mediaguard 3	No	CanalSat France|Orange	SD	MPEG-4	124	224[fre]	17024	ade3661	6-Dec-16	1794	
+12285	V	29700	PE	TV	Trek HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	HD	MPEG-4	125	225[fre]	17025	ade3661	6-Dec-16	1796	
+12285	V	29700	PE	TV	Toute l'Histoire	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Mediaguard 3	No	CanalSat France|Orange	SD	MPEG-2	126	226[fre]	17026	ade3661	6-Dec-16	1798	
+12285	V	29700	PE	TV	Action HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France|Orange	HD	MPEG-4	130	330[fre]	17030	Tanea	15-May-14	1800	
+12285	V	29700	PE	TV	Mangas HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Mediaguard 3	No	CanalSat France|Orange	HD	MPEG-4	131	231[fre]	17031	ade3661	6-Dec-16	1802	
+12285	V	29700	PE	TV	RTL 9 HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France|Orange	HD	MPEG-4	135	335[fre]	17035	Tanea	15-May-14	1804	
+12285	V	29700	PE	TV	Chasse & Pêche HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Mediaguard 3	No	CanalSat France|Orange	HD	MPEG-4	136	336[fre]	17036	ade3661	6-Dec-16	1806	
+12285	V	29700	PE	TV	XXL	TV	Nagravision 3|Viaccess 3.0|Viaccess 4.0|Mediaguard 3	No	CanalSat France	SD	MPEG-4	124	224[fre]	17054	ade3661	6-Dec-16	1808	
+12305	H	27500	PE	TV	Sky Cinema Emotion	TV	Videoguard	No	Sky Germany	HD	MPEG-4	511	512[ger]|513[000]|515[ger]	20	Tanea	18-Mar-19	1812	
+12305	H	27500	PE	TV	Sky Bundesliga HD 1	TV	Videoguard|Nagravision 3	No	Sky Germany	HD	MPEG-4	255	258[ger]|259[ger]|260[ger]	105	kathi7	10-Dec-13	1814	
+12305	H	27500	PE	TV	Sky Cinema Dark Future HD	TV	Videoguard	No	Sky Germany	HD	MPEG-4	767	771[ger]|772[eng]	107	Tanea	1-Sep-19	1816	
+12305	H	27500	PE	TV	Sky Sport News HD	TV	Videoguard|Nagravision 3	No	Sky Germany	HD	MPEG-4	1023	1027[ger]	108	kathi	11-Dec-13	1818	
+12305	H	27500	PE	TV	Syfy HD	TV	Videoguard|Betacrypt|Nagravision 3	No	Sky Germany	HD	MPEG-4	511	515[ger]|516[eng]	126	SchleicheR	25-Jul-13	1820	
+12305	H	27500	PE	TV	Sky Sport Bundesliga 4 HD	TV	Videoguard	No	Sky Germany	HD	MPEG-4	2047	2050[ger]|2051[ger]|2052[ger]	287	ade3661	20-Apr-17	1822	
+12305	H	27500	PE	TV	Sky Sport HD 5 Deutschland	TV	Videoguard	No	Sky Germany	HD	MPEG-4	2303	2306[ger]|2307[ger]|2308[ger]	288	ade3661	20-Apr-17	1824	
+12305	H	27500	PE	TV	Eurosport360 HD 3	TV	Videoguard	No	Sky Germany	HD	MPEG-4	3839	3843[ger]	290	ade3661	20-Apr-17	1826	
+12324	V	29700	PE	TV	Canal+ UHD	TV	Nagravision 3	No	CanalSat France	UHD	HEVC (H.265)	310	321[fre]|322[qaa]|323[qad]	8603	Tanea	28-Nov-18	1830	
+12324	V	29700	PE	TV	Association Matertel HD	TV	FTA	Yes	CanalDigitaal	HD	MPEG-4	510	521[fre]	8605	Tanea	17-May-18	1832	
+12324	V	29700	PE	TV	beIN Sports 4K 1	TV	Nagravision 3	No	CanalSat France	UHD	HEVC (H.265)	410	421[fre]	8606	Tanea	16-Jun-18	1834	
+12324	V	29700	PE	DATA	MOSAIQUE	@	FTA	Yes	My Canal	SD	MPEG-2	0		8622	ade3661	10-Jun-17	1836	
+12324	V	29700	PE	DATA	MOSAIQUE BEIN SPORTS	@	FTA	Yes	My Canal	SD	MPEG-2	0		8623	ade3661	10-Jun-17	1838	
+12344	H	30000	1MEurope	TV	Insight UHD	TV	FTA	Yes		UHD	MPEG-2	255	256|256[eng]	2000	Tanea	25-Sep-15	1842	
+12344	H	30000	1MEurope	IMG	Pearl TV 4K UHD	TV	FTA	Yes		UHD	MPEG-2	2815		2010	Tanea	25-Sep-15	1844	
+12363	V	27500	PE	DATA	Canalsat France	@	FTA	Yes		SD	MPEG-2	0		0	ade3661	8-Nov-15	1848	
+12383	H	27500	1MEurope	TV	Eurosport 2 HD	TV	Videoguard	No	Sky Germany	HD	MPEG-4	2047	2051[ger]|2052[eng]	109	Tanea	29-Nov-18	1852	
+12383	H	27500	1MEurope	TV	History HD Deutschland	TV	Videoguard|Betacrypt|Nagravision 3	No	Sky Germany	HD	MPEG-4	767	771[ger]|772[eng]	113	SchleicheR	11-Jul-13	1854	
+12383	H	27500	1MEurope	TV	Sky Cinema Action HD Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-4	1023	1027[ger]	116	Tanea	6-Nov-18	1856	
+12383	H	27500	1MEurope	TV	DAZN 2 Bar HD	TV	Videoguard	No	Sky Germany	HD	MPEG-4	1279	1283[ger]	122	Tanea	2-Aug-18	1858	
+12383	H	27500	1MEurope	TV	TNT Serie HD	TV	Videoguard|Betacrypt|Nagravision 3	No	Sky Germany	HD	MPEG-4	255	259[ger]|260[eng]	123	SchleicheR	11-Jul-13	1860	
+12383	H	27500	1MEurope	TV	E! Deutschland HD	TV	Videoguard	No	Sky Germany	HD	MPEG-4	2303	2307[ger]|2308[eng]	128	Tanea	29-Nov-18	1862	
+12383	H	27500	1MEurope	TV	DAZN 1 Bar HD	TV	Videoguard	No		HD	MPEG-4	511	515[ger]	132	Tanea	2-Aug-18	1864	
+12383	H	27500	1MEurope	TV	Sky Cinema Premieren +24 HD Deutschland	TV	Videoguard	No	Sky Germany	HD	MPEG-4	255	259[ger]|260[eng]	135	Tanea	15-Mar-20	1866	
+12383	H	27500	1MEurope	TV	TNT Comedy HD	TV	Videoguard	No	Sky Germany	HD	MPEG-4	3839	3843[ger]|3844[eng]	136	Tanea	29-Nov-18	1868	
+12383	H	27500	1MEurope	TV	Motorvision TV	TV	Videoguard	No	Sky Germany	SD	MPEG-4	1023	1024[ger]|1025[eng]	168	Tanea	29-Nov-18	1870	
+12383	H	27500	1MEurope	TV	Sky Sport Austria 4 HD	TV	Videoguard	No	Sky Germany	HD	MPEG-4	6399	6402[ger]|6404[000]	259	Tanea	18-Jul-19	1872	
+12383	H	27500	1MEurope	TV	Sky Sport Bundesliga 5 HD	TV	Videoguard	No	Sky Germany	HD	MPEG-4	2047	2050[ger]|2051[ger]|2052[ger]	297	ade3661	20-Apr-17	1874	
+12383	H	27500	1MEurope	TV	Sky Sport HD 6 Deutschland	TV	Videoguard|Nagravision 3	No	Sky Germany	HD	MPEG-4	2303	2306[ger]|2307[ger]|2308[000]	298	Tanea	28-Aug-13	1876	
+12383	H	27500	1MEurope	TV	Eurosport 360 HD 4	TV	Videoguard|Nagravision 3	No	Sky Germany	HD	MPEG-4	3839	3843[ger]	300	Tanea	28-Aug-13	1878	
+12383	H	27500	1MEurope	TV	Sky Sport 14 HD Deutschland	TV	Videoguard	No	Sky Germany	HD	MPEG-4	1535	1538[ger]|1540[000]	391	Tanea	18-Jul-19	1880	
+12383	H	27500	1MEurope	TV	A&E	TV	Videoguard	No	Sky Germany	SD	MPEG-4	511	512[ger]|513[eng]	402	Tanea	29-Nov-18	1882	
+12383	H	27500	1MEurope	TV	Boomerang Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-4	1270	1280[ger]|1281[eng]	403	Tanea	29-Nov-18	1884	
+12383	H	27500	1MEurope	TV	Cartoon Network Deutschland	TV	Videoguard	No	Sky Germany	SD	MPEG-4	1791	1792[ger]|1793[eng]	404	Tanea	29-Nov-18	1886	
+12402	V	29700	PE	TV	France 4 HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3	No	My Canal	HD	MPEG-4	110	121|121[fre]|122[000]	8701	ade3661	10-Jun-17	1890	
+12402	V	29700	PE	TV	NT1 HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3	No	My Canal	HD	MPEG-4	210	221|221[fre]|222|222[eng]	8702	ade3661	10-Jun-17	1892	
+12402	V	29700	PE	TV	eSPORTS1 HD	TV	FTA	Yes		HD	MPEG-4	310	321[fre]	8703	Tanea	10-Jan-20	1894	
+12402	V	29700	PE	TV	TV Breizh HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3	No	My Canal	HD	MPEG-4	510	521|521[fre]	8705	ade3661	10-Jun-17	1896	
+12402	V	29700	PE	TV	RFM TV HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	My Canal	HD	MPEG-4	610	6621|6621[fre]	8706	ade3661	10-Jun-17	1898	
+12402	V	29700	PE	TV	TiJi HD	TV	Nagravision 3|Viaccess 3.0|Mediaguard 3|Viaccess 5.0	No	My Canal	HD	MPEG-4	710	721[fre]	8707	ade3661	20-Apr-17	1900	
+12402	V	29700	PE	TV	Dorcel XXX HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 5.0	No	My Canal	HD	MPEG-4	810	821[fre]	8708	ade3661	20-Apr-17	1902	
+12402	V	29700	PE	TV	Dorcel TV HD	TV	Nagravision 3|Viaccess 3.0|Viaccess 5.0	No	My Canal	HD	MPEG-4	910	921[fre]	8709	ade3661	20-Apr-17	1904	
+12402	V	29700	PE	TV	Nollywood TV HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	My Canal	HD	MPEG-4	1110	1121[fre]	8711	ade3661	10-Jun-17	1906	
+12402	V	29700	PE	TV	MCM France HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3	No	CanalSat France	HD	MPEG-4	1410	1421[fre]	8714	Tanea	17-May-18	1908	
+12402	V	29700	PE	TV	beIN Sports 4K 1 promo	TV	FTA	Yes		HD	MPEG-4	1610	1621[fre]	8716	Tanea	16-Jun-18	1910	
+12422	H	27500	1MEurope	TV	WDR Bielefeld	TV	FTA	Yes		SD	MPEG-2	501	502[ger]|503[mis]	28306	kathi	11-Dec-13	1914	
+12422	H	27500	1MEurope	TV	WDR Dortmund	TV	FTA	Yes		SD	MPEG-2	501	502[ger]|503[mis]	28307	kathi	11-Dec-13	1916	
+12422	H	27500	1MEurope	TV	WDR Düsseldorf	TV	FTA	Yes		SD	MPEG-2	501	502[ger]|503[mis]	28308	kathi	11-Dec-13	1918	
+12422	H	27500	1MEurope	TV	WDR Essen	TV	FTA	Yes		SD	MPEG-2	501	502[ger]|503[mis]	28309	kathi	11-Dec-13	1920	
+12422	H	27500	1MEurope	TV	WDR Münster	TV	FTA	Yes		SD	MPEG-2	501	502[ger]|503[mis]	28310	kathi	11-Dec-13	1922	
+12422	H	27500	1MEurope	TV	WDR Siegen	TV	FTA	Yes		SD	MPEG-2	501	502[ger]|503[mis]	28311	kathi	11-Dec-13	1924	
+12422	H	27500	1MEurope	TV	WDR HD Köln	TV	FTA	Yes		HD	MPEG-4	5501	5502[ger]|5503[mis]|5506[ger]	28325	kathi	11-Dec-13	1926	
+12422	H	27500	1MEurope	TV	WDR HD Bielefeld	TV	FTA	Yes		HD	MPEG-4	5501	5502[ger]|5503[mis]|5506[ger]	28326	Kathi2	11-Dec-13	1928	
+12422	H	27500	1MEurope	TV	WDR HD Dortmund	TV	FTA	Yes		HD	MPEG-4	5501	5502[ger]|5503[mis]|5506[ger]	28327	Kathi2	11-Dec-13	1930	
+12422	H	27500	1MEurope	TV	WDR HD Düsseldorf	TV	FTA	Yes		HD	MPEG-4	5501	5502[ger]|5503[mis]|5506[ger]	28328	Kathi2	11-Dec-13	1932	
+12422	H	27500	1MEurope	TV	WDR HD Essen	TV	FTA	Yes		HD	MPEG-4	5501	5502[ger]|5503[mis]|5506[ger]	28329	Kathi2	11-Dec-13	1934	
+12422	H	27500	1MEurope	TV	WDR HD Münster	TV	FTA	Yes		HD	MPEG-4	5501	5502[ger]|5503[mis]|5506[ger]	28330	Kathi2	11-Dec-13	1936	
+12422	H	27500	1MEurope	TV	WDR HD Siegen	TV	FTA	Yes		HD	MPEG-4	5501	5502[ger]|5503[mis]|5506[ger]	28331	Kathi2	11-Dec-13	1938	
+12422	H	27500	1MEurope	TV	Radio Bremen TV	TV	FTA	Yes		SD	MPEG-2	1201	1202[ger]	28385	Kathi2	11-Dec-13	1940	
+12422	H	27500	1MEurope	TV	WDR Test A	TV	FTA	Yes		SD	MPEG-2	501	502[ger]|503[mis]	28395	Kathi2	11-Dec-13	1942	
+12441	V	29700	PE	TV	Nat Geo Wild HD France	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	My Canal	HD	MPEG-4	110	121[fre]	6501	ade3661	20-Apr-17	1946	
+12441	V	29700	PE	TV	Mezzo Live HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3	No	My Canal	HD	MPEG-4	161	86[fre]|87[eng]	6502	ade3661	10-Jun-17	1948	
+12441	V	29700	PE	TV	M6 Music Hits HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	My Canal	HD	MPEG-4	162	90[fre]	6503	ade3661	10-Jun-17	1950	
+12441	V	29700	PE	TV	Djazz TV HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	My Canal	HD	MPEG-4	163	92[fre]	6504	ade3661	10-Jun-17	1952	
+12441	V	29700	PE	TV	Série Club HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	My Canal	HD	MPEG-4	164	98[fre]|99[eng]	6505	ade3661	10-Jun-17	1954	
+12441	V	29700	PE	TV	Warner TV HD	TV	Nagravision 3|Viaccess 3.0	No	CanalSat France	HD	MPEG-4	610	621[fre]	6506	Tanea	26-Sep-17	1956	
+12441	V	29700	PE	TV	Man X	TV	Nagravision 3|Viaccess 3.0	No	My Canal	HD	MPEG-4	710	721[fre]	6507	ade3661	20-Apr-17	1958	
+12441	V	29700	PE	TV	Comédie+ HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	My Canal	HD	MPEG-4	810	821[fre]|822[eng]	6508	ade3661	20-Apr-17	1960	
+12441	V	29700	PE	TV	Extreme Sports Channel France HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	My Canal	HD	MPEG-4	910	921[fre]	6509	ade3661	20-Apr-17	1962	
+12441	V	29700	PE	TV	Piwi+ HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	My Canal	HD	MPEG-4	1010	1021[fre]	6510	ade3661	20-Apr-17	1964	
+12441	V	29700	PE	TV	Canal J HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	My Canal	HD	MPEG-4	1110	1121[fre]	6511	ade3661	10-Jun-17	1966	
+12441	V	29700	PE	TV	Nickelodeon 4Teen HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	My Canal	HD	MPEG-4	1210	1221[fre]	6512	ade3661	10-Jun-17	1968	
+12441	V	29700	PE	TV	Multisports HD 3	TV	FTA	Yes	CanalSat France	HD	MPEG-4	1310	1321[fre]	6513	Tanea	17-May-18	1970	
+12441	V	29700	PE	TV	Multisports HD 4	TV	Nagravision|Viaccess 6.0	No	CanalSat France	HD	MPEG-4	1410	1421[fre]	6514	Tanea	16-Jul-19	1972	
+12460	H	27500	1MEurope	TV	N24 Doku	TV	FTA	Yes		SD	MPEG-2	511	512[ger]	48	Tanea	17-Sep-16	1976	
+12460	H	27500	1MEurope	TV	EWTN - Katholisches Fernsehen	TV	FTA	Yes		SD	MPEG-2	1023	1024[ger]|1025[eng]	62	Frocus	13-Jun-12	1978	
+12460	H	27500	1MEurope	TV	QVC Style	TV	FTA	Yes		SD	MPEG-2	1791	1792[ger]	64	Tanea	9-Feb-18	1980	
+12460	H	27500	1MEurope	TV	Livington TV	TV	FTA	Yes		SD	MPEG-2	1279	1280[ger]	74	Frocus	10-Oct-15	1982	
+12460	H	27500	1MEurope	TV	Sparhandy TV	TV	FTA	Yes		SD	MPEG-2	3071	3072[ger]	659	Tanea	4-Feb-15	1984	
+12460	H	27500	1MEurope	TV	1-2-3 TV ( 06am - 02am )	TV	FTA	Yes		SD	MPEG-2	2815	2816[ger]	662	LynKat	17-Dec-12	1986	
+12460	H	27500	1MEurope	TV	Anixe HD	TV	FTA	Yes		HD	MPEG-4	3311	3312[ger]	764	Tanea	3-Jun-19	1988	
+12460	H	27500	1MEurope	TV	TLC info card	TV	FTA	Yes		SD	MPEG-2	1535	1536[ger]	772	Tanea	11-Mar-14	1990	
+12460	H	27500	1MEurope	TV	Sixx	TV	FTA	Yes		SD	MPEG-2	767	768[ger]	776	Frocus	9-May-10	1992	
+12460	H	27500	1MEurope	TV	Disney Channel	TV	FTA	Yes		SD	MPEG-2	2047	2048[ger]	1793	SchleicheR	13-Jun-14	1994	
+12460	H	27500	1MEurope	TV	QVC Deutschland	TV	FTA	Yes		SD	MPEG-2	255	566[ger]	1794	Frocus	14-Dec-12	1996	
+12460	H	27500	1MEurope	R	ERF Radio	R	FTA	Yes				0	513[ger]	48	dreambox	18-Jun-09	1998	
+12460	H	27500	1MEurope	R	Life Channel	R	FTA	Yes				0	514[ger]	48	dreambox	18-Jun-09	2000	
+12460	H	27500	1MEurope	R	DomRadio	R	FTA	Yes				0	368[ger]	171	dreambox	18-Jun-09	2002	
+12460	H	27500	1MEurope	R	Ego FM	R	FTA	Yes				0	384[ger]	172	dreambox	18-Jun-09	2004	
+12460	H	27500	1MEurope	R	Klassik Radio	R	FTA	Yes				0	336[ger]	173	dreambox	18-Jun-09	2006	
+12460	H	27500	1MEurope	R	Oldiestar	R	FTA	Yes				0	352[ger]	174	dreambox	18-Jun-09	2008	
+12460	H	27500	1MEurope	R	Hope Channel Radio	R	FTA	Yes				0	400[ger]	175	dreambox	18-Jun-09	2010	
+12480	V	27500	1MEurope	TV	Sonnenklar TV	TV	FTA	Yes		SD	MPEG-2	2303	2304[ger]	32	dm800	18-Jun-09	2014	
+12480	V	27500	1MEurope	TV	Home Shopping Europe Deutsch	TV	FTA	Yes		SD	MPEG-2	1279	1280[ger]	40	Frocus	2-Oct-11	2016	
+12480	V	27500	1MEurope	TV	mediasparTV	TV	FTA	Yes		SD	MPEG-2	1791	1792[ger]	46	SchleicheR	15-Jul-13	2018	
+12480	V	27500	1MEurope	IMG	Regio TV	TV	FTA	Yes		SD	MPEG-2	2047		47	Frocus	11-Jun-10	2020	
+12480	V	27500	1MEurope	TV	Tele 5	TV	FTA	Yes		SD	MPEG-2	1535	1536[ger]	51	dm800	18-Jun-09	2022	
+12480	V	27500	1MEurope	TV	DMAX	TV	FTA	Yes		SD	MPEG-2	3327	3328[ger]	63	SchleicheR	10-Aug-12	2024	
+12480	V	27500	1MEurope	TV	Qlar	TV	FTA	Yes		SD	MPEG-2	2815	2816[ger]	76	Tanea	17-Apr-15	2026	
+12480	V	27500	1MEurope	TV	HSE 24 Trend	TV	FTA	Yes		SD	MPEG-2	3071	3072[ger]	77	Frocus	2-Oct-11	2028	
+12480	V	27500	1MEurope	TV	Astro TV	TV	FTA	Yes		SD	MPEG-2	2559	2560[ger]	661	dm800	18-Jun-09	2030	
+12480	V	27500	1MEurope	TV	Equi 8 TV	TV	FTA	Yes		SD	MPEG-2	767	768[ger]	897	dm800	18-Jun-09	2032	
+12480	V	27500	1MEurope	TV	Mein TV Shop	TV	FTA	Yes		SD	MPEG-2	511	512[ger]	899	dm800	18-Jun-09	2034	
+12480	V	27500	1MEurope	TV	Sport 1 (fka: DSF)	TV	FTA	Yes		SD	MPEG-2	1023	1024[ger]	900	knut64	17-May-13	2036	
+12515	H	22000	1LFSS	TV	Vivid TV Europe	TV	Cryptoworks|Irdeto 2|Nagravision 3|Mediaguard 3|Viaccess 5.0	No	CanalDigitaal|TV Vlaanderen Digitaal|T&eacute;l&eacute;SAT (Telesat)	SD	MPEG-4	564	90[eng]	4064	Tokemup	5-Feb-19	2040	
+12515	H	22000	1LFSS	TV	Vivid Tv Europe Cz	TV	Cryptoworks|Irdeto 2|Viaccess 5.0	No	M7 Group	SD	MPEG-4	564	90[eng]	4065	Tokemup	5-Feb-19	2042	
+12515	H	22000	1LFSS	TV	RTL Lounge	TV	Nagravision 3|Mediaguard 3|Viaccess 5.0	No	CanalDigitaal	SD	MPEG-2	566	126[dut]	4066	Tokemup	5-Feb-19	2044	
+12515	H	22000	1LFSS	TV	AB 3	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	Bis|T&eacute;l&eacute;SAT (Telesat)	SD	MPEG-4	602	142[fre]	4102	Tokemup	5-Feb-19	2046	
+12515	H	22000	1LFSS	TV	Brazzers TV	TV	Cryptoworks|Irdeto 2|Nagravision 3|Viaccess 3.0|Mediaguard 3|Viaccess 5.0	No	CanalDigitaal|TV Vlaanderen Digitaal|Orange|T&eacute;l&eacute;SAT (Telesat)|Austriasat	SD	MPEG-4	605	145[eng]	4105	Tokemup	5-Feb-19	2048	
+12515	H	22000	1LFSS	TV	EuroSport 2 Deutschland	TV	Cryptoworks|Irdeto 2|Nagravision 3|Mediaguard 3|Viaccess 5.0	No		SD	MPEG-4	606	146[ger]|246[eng]	4106	ade3661	18-Nov-16	2050	
+12515	H	22000	1LFSS	TV	Hustler TV	TV	Cryptoworks|Irdeto 2|Nagravision 3|Viaccess 3.0|Mediaguard 3|Viaccess 5.0	No	CanalDigitaal|TV Vlaanderen Digitaal|Orange|T&eacute;l&eacute;SAT (Telesat)|Austriasat	SD	MPEG-4	607	147[eng]	4107	Tokemup	5-Feb-19	2052	
+12515	H	22000	1LFSS	TV	Hustler TV CZ	TV	Cryptoworks|Irdeto 2|Viaccess 5.0	No		SD	MPEG-4	607	147[dut]	4109	ade3661	18-Nov-16	2054	
+12515	H	22000	1LFSS	TV	Planet Deutschland	TV	Cryptoworks|Irdeto 2|Nagravision 3|Mediaguard 3|Viaccess 5.0	No		SD	MPEG-4	615	155[ger]	4115	ade3661	18-Nov-16	2056	
+12515	H	22000	1LFSS	TV	AXN Deutschland	TV	Cryptoworks|Irdeto 2|Nagravision 3|Mediaguard 3|Viaccess 5.0	No		SD	MPEG-4	625	165[ger]|265[eng]	4125	ade3661	18-Nov-16	2058	
+12515	H	22000	1LFSS	TV	Eleven Sports 1	TV	Nagravision 3|Mediaguard 3|Viaccess 5.0	No	TV Vlaanderen Digitaal|T&eacute;l&eacute;SAT (Telesat)	SD	MPEG-4	626	166[dut]|168[fre]	4126	Tokemup	5-Feb-19	2060	
+12515	H	22000	1LFSS	TV	Eleven Sports 2	TV	Nagravision 3|Mediaguard 3|Viaccess 5.0	No	TV Vlaanderen Digitaal|T&eacute;l&eacute;SAT (Telesat)	SD	MPEG-4	627	167[dut]|169[fre]	4127	Tokemup	5-Feb-19	2062	
+12515	H	22000	1LFSS	TV	Brazzers TV CZ	TV	Cryptoworks|Irdeto 2|Nagravision 3|Mediaguard 3|Viaccess 5.0	No	M7 Group	SD	MPEG-4	605	145[eng]	4145	Tokemup	6-Feb-19	2064	
+12515	H	22000	1LFSS	TV	VElevensports1	TV	Nagravision 3|Mediaguard 3|Viaccess 5.0	No	TV Vlaanderen Digitaal|T&eacute;l&eacute;SAT (Telesat)	SD	MPEG-4	626	166[dut]|168[fre]	4146	Tokemup	6-Feb-19	2066	
+12515	H	22000	1LFSS	TV	VElevensports2	TV	Nagravision 3|Mediaguard 3|Viaccess 5.0	No	TV Vlaanderen Digitaal|T&eacute;l&eacute;SAT (Telesat)	SD	MPEG-4	627	167[dut]|169[fre]	4147	Tokemup	6-Feb-19	2068	
+12515	H	22000	1LFSS	R	Radio Lebensquelle	R	FTA	Yes				0	119[ger]	4060	Tokemup	6-Feb-19	2070	
+12515	H	22000	1LFSS	R	Radio Freundes-Dienst	R	FTA	Yes				0	132[ger]	4062	Tokemup	6-Feb-19	2072	
+12515	H	22000	1LFSS	R	Nostalgie	R	Nagravision 3|Mediaguard 3|Viaccess 5.0	No	CanalDigitaal|TV Vlaanderen Digitaal|T&eacute;l&eacute;SAT (Telesat)			0	154[dut]	4114	Tokemup	5-Feb-19	2074	
+12515	H	22000	1LFSS	R	VRT Radio 1	R	FTA	Yes	CanalDigitaal|TV Vlaanderen Digitaal|T&eacute;l&eacute;SAT (Telesat)			0	162[dut]	4122	Tokemup	5-Feb-19	2076	
+12515	H	22000	1LFSS	R	VRT Radio 2	R	FTA	Yes	CanalDigitaal|TV Vlaanderen Digitaal|T&eacute;l&eacute;SAT (Telesat)			0	163[dut]	4123	Tokemup	5-Feb-19	2078	
+12515	H	22000	1LFSS	R	NRJ	R	Nagravision 3|Mediaguard 3|Viaccess 5.0	No	TV Vlaanderen Digitaal|T&eacute;l&eacute;SAT (Telesat)			0	159[dut]	4159	Tokemup	6-Feb-19	2080	
+12545	H	22000	1LFSS	TV	SAT.1	TV	FTA	Yes		SD	MPEG-2	255	256[ger]|259[ger]	17500	Kathi2	11-Dec-13	2084	
+12545	H	22000	1LFSS	TV	ProSieben	TV	FTA	Yes		SD	MPEG-2	511	512[ger]|515[ger]	17501	Kathi2	11-Dec-13	2086	
+12545	H	22000	1LFSS	TV	kabel eins	TV	FTA	Yes		SD	MPEG-2	767	768[ger]	17502	kathi3	11-Dec-13	2088	
+12545	H	22000	1LFSS	TV	N24	TV	FTA	Yes		SD	MPEG-2	1023	1024[ger]	17503	kathi3	11-Dec-13	2090	
+12545	H	22000	1LFSS	TV	SAT.1 Gold	TV	FTA	Yes		SD	MPEG-2	1279	1280[ger]	17504	kathi3	11-Dec-13	2092	
+12545	H	22000	1LFSS	TV	ProSieben MAXX	TV	FTA	Yes		SD	MPEG-2	1535	1536[ger]	17505	kathi3	11-Dec-13	2094	
+12545	H	22000	1LFSS	TV	SAT. 1 Bayern	TV	FTA	Yes		SD	MPEG-2	255	256[ger]|259[ger]	17507	kathi3	11-Dec-13	2096	
+12545	H	22000	1LFSS	TV	SAT. 1 NRW	TV	FTA	Yes		SD	MPEG-2	255	256[ger]|259[ger]	17508	kathi3	11-Dec-13	2098	
+12552	V	22000	PE	TV	QVC 2 Deutschland	TV	FTA	Yes		SD	MPEG-2	168	144[ger]	3394	Tanea	9-Feb-18	2102	
+12552	V	22000	PE	TV	QVC Deutschland	TV	FTA	Yes		SD	MPEG-2	165	166[ger]	12100	SchleicheR	25-Jul-13	2104	
+12552	V	22000	PE	TV	Bibel TV	TV	FTA	Yes		SD	MPEG-2	33	34[ger]	12122	LynKat	25-Jul-13	2106	
+12552	V	22000	PE	TV	Cherie 25 HD	TV	Nagravision 3|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No		HD	MPEG-4	5301	5302[fre]|5303[eng]	12140	Tanea	10-Feb-16	2108	
+12552	V	22000	PE	TV	NRJ 12 HD	TV	Nagravision|Viaccess 6.0	No		HD	MPEG-4	5501	5502[fre]|5503[eng]|5504[qad]	12145	Tanea	5-Mar-19	2110	
+12574	H	22000	1LFSS	TV	Sonnenklar.TV HD	TV	FTA	Yes		HD	MPEG-4	255	259[ger]	5400	Frocus	15-Jul-13	2114	
+12574	H	22000	1LFSS	TV	TELE 5 HD	TV	Videoguard|Nagravision 3	No	HD+	HD	MPEG-4	511	515[ger]	5401	Frocus	15-Jul-13	2116	
+12574	H	22000	1LFSS	TV	DMAX HD	TV	Videoguard|Nagravision 3	No	HD+	HD	MPEG-4	767	771[ger]	5402	Frocus	4-May-12	2118	
+12574	H	22000	1LFSS	TV	Juwelo TV HD	TV	FTA	Yes		HD	MPEG-4	1023	1024[ger]	5403	Frocus	28-Apr-12	2120	
+12574	H	22000	1LFSS	TV	Pearl.TV HD	TV	FTA	Yes		HD	MPEG-4	1279	1280[ger]	5404	Frocus	15-Jul-13	2122	
+12574	H	22000	1LFSS	TV	DMAX HD Austria	TV	Videoguard|Irdeto 2	No		SD	MPEG-2	767	771[ger]	5422	Tanea	1-Nov-13	2124	
+12604	H	22000	PE	TV	Sky News Intl	TV	FTA	Yes	Sky Germany	SD	MPEG-2	1290	2290[eng]	7290	SatShare	3-Jun-15	2128	
+12604	H	22000	PE	TV	WDR Aachen	TV	FTA	Yes	ARD Digital	SD	MPEG-2	3401	3402[ger]|3403[mis]	28534	arumba	6-Dec-13	2130	
+12604	H	22000	PE	TV	WDR Wuppertal	TV	FTA	Yes	ARD Digital	SD	MPEG-2	3401	3402[ger]|3403[mis]	28535	arumba	6-Dec-13	2132	
+12604	H	22000	PE	TV	WDR Bonn	TV	FTA	Yes	ARD Digital	SD	MPEG-2	3401	3402[ger]|3403[mis]	28536	arumba	6-Dec-13	2134	
+12604	H	22000	PE	TV	WDR Duisburg	TV	FTA	Yes	ARD Digital	SD	MPEG-2	3401	3402[ger]|3403[mis]	28537	arumba	6-Dec-13	2136	
+12604	H	22000	PE	TV	WDR HD Aachen	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5601	5602[ger]|5603[mis]|5606[ger]	28544	arumba	6-Dec-13	2138	
+12604	H	22000	PE	TV	WDR HD Wuppertal	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5601	5602[ger]|5603[mis]|5606[ger]	28545	arumba	6-Dec-13	2140	
+12604	H	22000	PE	TV	WDR HD Bonn	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5601	5602[ger]|5603[mis]|5606[ger]	28546	Rosenheim	6-Dec-13	2142	
+12604	H	22000	PE	TV	WDR HD Duisburg	TV	FTA	Yes	ARD Digital	HD	MPEG-4	5601	5602[ger]|5603[mis]|5606[ger]	28547	Rosenheim	6-Dec-13	2144	
+12604	H	22000	PE	R	Radio Horeb	R	FTA	Yes			MPEG-1	0	1289[ger]	7289	Rosenheim	6-Dec-13	2146	
+12604	H	22000	PE	R	Radio neue Hoffnung	R	FTA	Yes			MPEG-1	0	1292[eng]	7292	Rosenheim	6-Dec-13	2148	
+12604	H	22000	PE	R	RTL RADIO	R	FTA	Yes			MPEG-1	0	7932[mis]	7931	Rosenheim	6-Dec-13	2150	
+12633	H	22000	1LFSS	TV	Juwelo pur	TV	FTA	Yes		SD	MPEG-2	201	301[ger]	12600	Frocus	3-Oct-12	2154	
+12633	H	22000	1LFSS	TV	K-TV Fernsehen	TV	FTA	Yes		SD	MPEG-2	202	302[ger]	12601	dm800	18-Jun-09	2156	
+12633	H	22000	1LFSS	TV	Deutsches Musik Fernsehen	TV	FTA	Yes		SD	MPEG-2	53	54[ger]	12604	Tanea	2-May-13	2158	
+12633	H	22000	1LFSS	TV	freenet TV connect	 	Ger	TV	FTA	Yes		SD	MPEG-2	207	307[ger]	12607	Tanea	28-Mar-18	2160	
+12633	H	22000	1LFSS	TV	Erotik 24	TV	FTA	Yes		SD	MPEG-2	212	312[ger]	12612	dm800	18-Jun-09	2162	
+12633	H	22000	1LFSS	TV	RheinMain TV	TV	FTA	Yes		SD	MPEG-2	208	308[ger]	12614	dm800	18-Jun-09	2164	
+12633	H	22000	1LFSS	TV	Tabu 24	TV	FTA	Yes		SD	MPEG-2	215	315[ger]	12615	dm800	18-Jun-09	2166	
+12633	H	22000	1LFSS	TV	Juwelo TV	TV	FTA	Yes		SD	MPEG-2	1041	1042[ger]	12616	dm800	18-Jun-09	2168	
+12633	H	22000	1LFSS	TV	Dreamgirls TV	TV	FTA	Yes		SD	MPEG-2	218	318[ger]	12618	dm800	18-Jun-09	2170	
+12633	H	22000	1LFSS	TV	Erotik-Sat TV	TV	FTA	Yes		SD	MPEG-2	219	319[ger]	12619	dm800	18-Jun-09	2172	
+12633	H	22000	1LFSS	TV	123 Damenwahl	TV	FTA	Yes		SD	MPEG-2	220	320[ger]	12620	dm800	18-Jun-09	2174	
+12633	H	22000	1LFSS	TV	mein Genius TV Shop	TV	FTA	Yes		SD	MPEG-2	221	321[ger]	12621	Tanea	15-Feb-18	2176	
+12633	H	22000	1LFSS	TV	Männersache TV	TV	FTA	Yes		SD	MPEG-2	222	322[ger]	12622	LynKat	24-Dec-12	2178	
+12633	H	22000	1LFSS	TV	Date Line	TV	FTA	Yes		SD	MPEG-2	223	323[ger]	12623	dm800	18-Jun-09	2180	
+12633	H	22000	1LFSS	TV	Fotohandy TV	TV	FTA	Yes		SD	MPEG-2	224	324[ger]	12624	dm800	18-Jun-09	2182	
+12633	H	22000	1LFSS	TV	Mobile-Sex	TV	FTA	Yes		SD	MPEG-2	225	325[ger]	12625	Chaturbate	29-Nov-17	2184	
+12633	H	22000	1LFSS	TV	My Dirty Mobile	TV	FTA	Yes		SD	MPEG-2	226	326[ger]	12626	LynKat	24-Dec-12	2186	
+12633	H	22000	1LFSS	TV	Kamasutra TV	TV	FTA	Yes		SD	MPEG-2	227	327[ger]	12627	dm800	18-Jun-09	2188	
+12633	H	22000	1LFSS	TV	Teledate TV	TV	FTA	Yes		SD	MPEG-2	228	328[ger]	12628	LynKat	24-Dec-12	2190	
+12633	H	22000	1LFSS	TV	Traumgirls TV	TV	FTA	Yes		SD	MPEG-2	229	329[ger]	12629	LynKat	24-Dec-12	2192	
+12633	H	22000	1LFSS	TV	Das Erotische TV	TV	FTA	Yes		SD	MPEG-2	230	330[ger]	12630	dm800	18-Jun-09	2194	
+12633	H	22000	1LFSS	TV	Volksmusik TV	TV	FTA	Yes		SD	MPEG-2	233	333[ger]	12633	Tanea	18-Nov-19	2196	
+12633	H	22000	1LFSS	TV	Nice	TV	FTA	Yes		SD	MPEG-2	242	342[ger]	12634	Frocus	24-Jul-14	2198	
+12633	H	22000	1LFSS	TV	Babestation 24 (21hrs - 04hrs)	TV	FTA	Yes		SD	MPEG-2	235	335[ger]	12635	LynKat	24-Dec-12	2200	
+12633	H	22000	1LFSS	TV	DHD 24 Plus	TV	FTA	Yes		SD	MPEG-2	236	336[ger]	12636	LynKat	24-Dec-12	2202	
+12633	H	22000	1LFSS	TV	Erotika TV	TV	FTA	Yes		SD	MPEG-2	239	339[ger]	12639	dm800	18-Jun-09	2204	
+12633	H	22000	1LFSS	TV	BunnyClub 24	TV	FTA	Yes		SD	MPEG-2	240	340[ger]	12640	dm800	18-Jun-09	2206	
+12633	H	22000	1LFSS	TV	Clipmobile	TV	FTA	Yes		SD	MPEG-2	241	341[ger]	12641	Frocus	13-Jun-12	2208	
+12633	H	22000	1LFSS	IMG	MB SmartCast Test 2	TV	FTA	Yes		SD	MPEG-2	242		12642	Tanea	5-Mar-13	2210	
+12633	H	22000	1LFSS	TV	Deutsches Musik Fernsehen	TV	FTA	Yes		SD	MPEG-2	243	343[ger]	12643	LynKat	24-Dec-12	2212	
+12633	H	22000	1LFSS	IMG	Media Broadcast HD card	TV	FTA	Yes		HD	MPEG-4	244		12644	Tanea	17-Feb-18	2214	
+12633	H	22000	1LFSS	IMG	MB SmartCast Test 3	TV	FTA	Yes		SD	MPEG-2	242		12657	Tanea	5-Mar-13	2216	
+12633	H	22000	1LFSS	IMG	MB SmartCast Test 4	TV	FTA	Yes		SD	MPEG-2	242		12664	Tanea	5-Mar-13	2218	
+12633	H	22000	1LFSS	R	Radio Top 40	R	FTA	Yes				0	353[ger]	12653	dreambox	18-Jun-09	2220	
+12633	H	22000	1LFSS	R	FFN	R	FTA	Yes				0	354[ger]	12654	dreambox	18-Jun-09	2222	
+12633	H	22000	1LFSS	R	Radio Paloma	R	FTA	Yes				0	355[ger]	12655	dreambox	18-Jun-09	2224	
+12633	H	22000	1LFSS	R	WRN Deutsch	R	FTA	Yes				0	356[ger]	12656	dreambox	18-Jun-09	2226	
+12633	H	22000	1LFSS	R	Antenne 50plus	R	FTA	Yes				0	357[ger]	12657	SchleicheR	25-Oct-12	2228	
+12633	H	22000	1LFSS	R	Radio Gloria	R	FTA	Yes				0	359[ger]	12659	dreambox	18-Jun-09	2230	
+12633	H	22000	1LFSS	R	Hit Radio FFH Wiesbaden-Mainz	R	FTA	Yes				0	1024[ger]	12660	dreambox	18-Jun-09	2232	
+12633	H	22000	1LFSS	R	Planet Radio	R	FTA	Yes				0	1030[ger]	12661	dreambox	18-Jun-09	2234	
+12633	H	22000	1LFSS	R	Harmony FM	R	FTA	Yes				0	1036[ger]	12662	dreambox	18-Jun-09	2236	
+12633	H	22000	1LFSS	R	Radio Regenbogen	R	FTA	Yes				0	363[ger]	12663	dreambox	18-Jun-09	2238	
+12663	H	22000	PE	TV	ORF III	TV	Videoguard|Betacrypt|Cryptoworks|Irdeto 2|Nagravision 3	No	ORF Digital	SD	MPEG-2	1010	1011[ger]	13101	kathi3	11-Dec-13	2242	
+12663	H	22000	PE	TV	RTL Nitro A	TV	FTA	Yes	ORF Digital	SD	MPEG-2	1020	1021[ger]	13102	Tanea	16-Oct-14	2244	
+12663	H	22000	PE	TV	Welt der Wunder	TV	FTA	Yes		SD	MPEG-2	1030	1031[ger]	13103	SchleicheR	17-Oct-13	2246	
+12663	H	22000	PE	TV	LT1-OOE	TV	FTA	Yes	ORF Digital	SD	MPEG-2	1040	1041[ger]	13104	kathi3	11-Dec-13	2248	
+12663	H	22000	PE	TV	sixx Austria	TV	FTA	Yes	ORF Digital	SD	MPEG-2	1060	1061[ger]	13106	kathi3	11-Dec-13	2250	
+12663	H	22000	PE	TV	ServusTV Deutschland	TV	FTA	Yes		SD	MPEG-2	1110	1111[ger]|1112[eng]	13110	kathi4	11-Dec-13	2252	
+12663	H	22000	PE	TV	ServusTV Oesterreich	TV	FTA	Yes	ORF Digital	SD	MPEG-2	2110	2111[ger]|2112[eng]	13111	kathi4	11-Dec-13	2254	
+12663	H	22000	PE	TV	L-TV/TVM	TV	FTA	Yes	ORF Digital	SD	MPEG-2	2130	2131[ger]	13113	kathi4	11-Dec-13	2256	
+12663	H	22000	PE	TV	BTV	TV	FTA	Yes	ORF Digital	SD	MPEG-2	2410	2411[ger]	13141	kathi4	11-Dec-13	2258	
+12663	H	22000	PE	TV	RTS (Time-Sharing)	TV	FTA	Yes	ORF Digital	SD	MPEG-2	2410	2411[ger]	13141	Tanea	11-Mar-14	2260	
+12663	H	22000	PE	TV	Mühlviertel TV	TV	FTA	Yes	ORF Digital	SD	MPEG-2	2410	2411[ger]	13141	Tanea	11-Mar-14	2262	
+12663	H	22000	PE	R	OE1	R	FTA	Yes	ORF Digital		MPEG-1	0	421[ger]	13121	kathi6	11-Dec-13	2264	
+12663	H	22000	PE	R	OE1 DD	R	FTA	Yes	ORF Digital		Other	0	422[ger]	13122	kathi6	11-Dec-13	2266	
+12663	H	22000	PE	R	OE2 W	R	FTA	Yes	ORF Digital		MPEG-1	0	423[ger]	13123	kathi6	11-Dec-13	2268	
+12663	H	22000	PE	R	OE2 N	R	FTA	Yes	ORF Digital		MPEG-1	0	424[ger]	13124	kathi6	11-Dec-13	2270	
+12663	H	22000	PE	R	OE2 B	R	FTA	Yes	ORF Digital		MPEG-1	0	425[ger]	13125	kathi6	11-Dec-13	2272	
+12663	H	22000	PE	R	OE2 O	R	FTA	Yes	ORF Digital		MPEG-1	0	426[ger]	13126	kathi6	11-Dec-13	2274	
+12663	H	22000	PE	R	OE2 S	R	FTA	Yes	ORF Digital		MPEG-1	0	427[ger]	13127	kathi6	11-Dec-13	2276	
+12663	H	22000	PE	R	OE2 T	R	FTA	Yes	ORF Digital		MPEG-1	0	428[ger]	13128	kathi6	11-Dec-13	2278	
+12663	H	22000	PE	R	OE2 V	R	FTA	Yes	ORF Digital		MPEG-1	0	429[ger]	13129	kathi7	11-Dec-13	2280	
+12663	H	22000	PE	R	OE2 St	R	FTA	Yes	ORF Digital		MPEG-1	0	430[ger]	13130	kathi7	11-Dec-13	2282	
+12663	H	22000	PE	R	OE2 K	R	FTA	Yes	ORF Digital		MPEG-1	0	431[ger]	13131	kathi7	11-Dec-13	2284	
+12663	H	22000	PE	R	OE3	R	FTA	Yes	ORF Digital		MPEG-1	0	433[ger]	13133	kathi7	11-Dec-13	2286	
+12663	H	22000	PE	R	FM4	R	FTA	Yes	ORF Digital		MPEG-1	0	434[ger]	13134	kathi6	11-Dec-13	2288	
+12663	H	22000	PE	R	U1 Tirol	R	FTA	Yes			MPEG-1	0	436[ger]	13136	kathi6	11-Dec-13	2290	
+12663	H	22000	PE	R	RADIO MARIA	R	FTA	Yes	ORF Digital		MPEG-1	0	440[ger]	13140	kathi6	11-Dec-13	2292	
+12692	H	22000	PE	TV	ORF1	TV	Videoguard|Betacrypt|Cryptoworks|Irdeto|Nagravision 2	No	ORF Digital	SD	MPEG-2	160	161[ger]|163[ger]	13001	kathi7	11-Dec-13	2296	
+12692	H	22000	PE	TV	ORF2	TV	Videoguard|Betacrypt|Cryptoworks|Irdeto|Nagravision 2	No	ORF Digital	SD	MPEG-2	500	501[ger]|503[ger]	13002	kathi7	11-Dec-13	2298	
+12692	H	22000	PE	TV	ORF2 W	TV	FTA	Yes	ORF Digital	SD	MPEG-2	500	501[ger]|503[ger]	13003	kathi7	11-Dec-13	2300	
+12692	H	22000	PE	TV	ORF2 N	TV	Videoguard|Betacrypt|Cryptoworks|Irdeto|Nagravision 2	No	ORF Digital	SD	MPEG-2	500	501[ger]|503[ger]	13004	kathi7	11-Dec-13	2302	
+12692	H	22000	PE	TV	ORF2 B	TV	Videoguard|Betacrypt|Cryptoworks|Irdeto|Nagravision 2	No	ORF Digital	SD	MPEG-2	500	501[ger]|503[ger]	13005	kathi7	11-Dec-13	2304	
+12692	H	22000	PE	TV	ORF2 O	TV	Videoguard|Betacrypt|Cryptoworks|Irdeto|Nagravision 2	No	ORF Digital	SD	MPEG-2	500	501[ger]|503[ger]	13006	kathi7	11-Dec-13	2306	
+12692	H	22000	PE	TV	ORF2 S	TV	Videoguard|Betacrypt|Cryptoworks|Irdeto|Nagravision 2	No	ORF Digital	SD	MPEG-2	500	501[ger]|503[ger]	13007	kathi7	11-Dec-13	2308	
+12692	H	22000	PE	TV	ORF2 T	TV	Videoguard|Betacrypt|Cryptoworks|Irdeto|Nagravision 2	No	ORF Digital	SD	MPEG-2	500	501[ger]|503[ger]	13008	Rosenheim	11-Dec-13	2310	
+12692	H	22000	PE	TV	ORF2 V	TV	Videoguard|Betacrypt|Cryptoworks|Irdeto|Nagravision 2	No	ORF Digital	SD	MPEG-2	500	501[ger]|503[ger]	13009	Rosenheim	11-Dec-13	2312	
+12692	H	22000	PE	TV	ORF2 St	TV	Videoguard|Betacrypt|Cryptoworks|Irdeto|Nagravision 2	No	ORF Digital	SD	MPEG-2	500	501[ger]|503[ger]	13010	Rosenheim	11-Dec-13	2314	
+12692	H	22000	PE	TV	ORF2 K	TV	Videoguard|Betacrypt|Cryptoworks|Irdeto|Nagravision 2	No	ORF Digital	SD	MPEG-2	500	501[ger]|503[ger]	13011	Rosenheim	11-Dec-13	2316	
+12692	H	22000	PE	TV	ATV	TV	Videoguard|Betacrypt|Cryptoworks|Irdeto|Nagravision 2	No	ORF Digital	SD	MPEG-2	506	507[ger]	13012	dm800	18-Jun-09	2318	
+12692	H	22000	PE	TV	HITRADIO OE3	TV	FTA	Yes	ORF Digital	SD	MPEG-2	130	131[ger]	13013	Rosenheim	11-Dec-13	2320	
+12692	H	22000	PE	TV	ORF2E	TV	FTA	Yes	ORF Digital	SD	MPEG-2	170	171[ger]	13014	Rosenheim	11-Dec-13	2322	
+12692	H	22000	PE	TV	Folx TV	TV	FTA	Yes		SD	MPEG-2	180	181[ger]	13018	Tanea	15-Jul-13	2324	
+12692	H	22000	PE	TV	RiC	TV	FTA	Yes		SD	MPEG-2	190	191[ger]	13019	Rosenheim	11-Dec-13	2326	
+12692	H	22000	PE	TV	N-TV Austria info card	TV	FTA	Yes		SD	MPEG-2	3020	0[ger]	13021	Tanea	3-Jan-18	2328	
+12692	H	22000	PE	DATA	AlphaCrypt	@	FTA	Yes				0		13200	SchleicheR	19-Jul-13	2330	
+12728	V	22000	1LFSS	TV	France 3 Provence-Alpes	TV	Mediaguard 2|Viaccess 2.5|Viaccess 3.0	No	CanalSat France	SD	MPEG-2	162	88[fre]	9803	dm800	18-Jun-09	2334	
+12728	V	22000	1LFSS	TV	France 3 Centre	TV	Mediaguard 2|Viaccess 2.5|Viaccess 3.0	No	CanalSat France	SD	MPEG-2	163	92[fre]	9804	dm800	18-Jun-09	2336	
+12728	V	22000	1LFSS	TV	France 3 Poitou-Charentes	TV	Mediaguard 2|Viaccess 2.5|Viaccess 3.0	No	CanalSat France	SD	MPEG-2	165	100[fre]	9806	dm800	18-Jun-09	2338	
+12728	V	22000	1LFSS	TV	France 3 Champagne-Ardenne	TV	Mediaguard 2|Viaccess 2.5|Viaccess 3.0	No	CanalSat France	SD	MPEG-2	166	104[fre]	9807	dm800	18-Jun-09	2340	
+12728	V	22000	1LFSS	TV	France 3 Grenoble	TV	Mediaguard 2|Viaccess 2.5|Viaccess 3.0	No	CanalSat France	SD	MPEG-2	167	108[fre]	9808	dm800	18-Jun-09	2342	
+12728	V	22000	1LFSS	TV	France 3 Nord-Pas de Calais	TV	Mediaguard 2|Viaccess 2.5|Viaccess 3.0	No	CanalSat France	SD	MPEG-2	168	112[fre]	9809	dm800	18-Jun-09	2344	
+12728	V	22000	1LFSS	TV	France 3 Languedoc	TV	Mediaguard 2|Viaccess 2.5|Viaccess 3.0	No	CanalSat France	SD	MPEG-2	170	120[fre]	9811	dm800	18-Jun-09	2346	
+12728	V	22000	1LFSS	TV	France 3 Provence-Alpes	TV	Viaccess 3.0|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	SD	MPEG-2	1310	1321[fre]	9813	Tanea	16-Dec-15	2348	
+12728	V	22000	1LFSS	TV	France 3 Haute-Normandie	TV	Viaccess 3.0|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	SD	MPEG-2	1410	1421|1421[fre]	9814	Tanea	16-Dec-15	2350	
+12728	V	22000	1LFSS	TV	France 3 Aquitaine	TV	Viaccess 3.0|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	SD	MPEG-2	1510	1521|1521[fre]	9815	Tanea	16-Dec-15	2352	
+12728	V	22000	1LFSS	TV	France 3 Auvergne	TV	Viaccess 3.0|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	SD	MPEG-2	1610	1621|1621[fre]	9816	Tanea	16-Dec-15	2354	
+12728	V	22000	1LFSS	TV	France 3 Bretagne	TV	Viaccess 3.0|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	SD	MPEG-2	1710	1721|1721[fre]	9817	Tanea	16-Dec-15	2356	
+12728	V	22000	1LFSS	TV	France 3 Limousin	TV	Viaccess 3.0|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	SD	MPEG-2	1810	1821|1821[fre]	9818	Tanea	16-Dec-15	2358	
+12728	V	22000	1LFSS	TV	France 3 Lorraine	TV	Viaccess 3.0|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	SD	MPEG-2	1910	1921|1921[fre]	9819	Tanea	16-Dec-15	2360	
+12728	V	22000	1LFSS	TV	France 3 Midi-Pyrénées	TV	Viaccess 3.0|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	SD	MPEG-2	2010	2021|2021[fre]	9820	Tanea	16-Dec-15	2362	
+12728	V	22000	1LFSS	TV	France 3 Paris Ile-de-France	TV	Viaccess 3.0|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	SD	MPEG-2	2110	2121|2121[fre]	9821	Tanea	16-Dec-15	2364	
+12728	V	22000	1LFSS	TV	France 3 Picardie	TV	Viaccess 3.0|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	SD	MPEG-2	2210	2221|2221[fre]	9822	Tanea	16-Dec-15	2366	
+12728	V	22000	1LFSS	TV	France 3 Rhône-Alpes	TV	Viaccess 3.0|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	SD	MPEG-2	2310	2321|2321[fre]	9823	Tanea	16-Dec-15	2368	
+12728	V	22000	1LFSS	TV	France 3 Franche-Comté	TV	Viaccess 3.0|Viaccess 4.0|Mediaguard 3|Viaccess 5.0	No	CanalSat France	SD	MPEG-2	2410	2421|2421[fre]	9824	Tanea	16-Dec-15	2370	
+18556	V	3330	Europe	TV	ITV Newsnet	TV	FTA	Yes		SD	MPEG-2	512	4112[eng]	1	Tanea	17-Nov-14	2374	
+18766	H	3110	Europe	TV	Unire Sat	TV	FTA	Yes		SD	MPEG-4	512	4112[ita]	1	Tanea	21-Jul-14	2378	

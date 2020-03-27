@@ -1,18 +1,289 @@
-﻿using System;
+﻿/*
+ * Created by SharpDevelop.
+ * User: XXX
+ * Date: 2020-03-23
+ * Time: 11:22
+ * 
+ * To change this template use Tools | Options | Coding | Edit Standard Headers.
+ */
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
-using System.Linq;
 using System.Net;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SatRTV
 {
-    class AppCoreSat
-    {
+	/// <summary>
+	/// Description of AppCoreSat.
+	/// </summary>
+	public class AppCoreSat
+	{
         private string PolOrder = "HVRL";
 
+        public static string RemoveEscape(string S)
+        {
+        	// https://www.fileformat.info/format/w3c/htmlentity.htm
+			S = S.Replace("&Aacute;", ((char)Eden.HexToInt("00C1")).ToString());
+			S = S.Replace("&aacute;", ((char)Eden.HexToInt("00E1")).ToString());
+			S = S.Replace("&Acirc;", ((char)Eden.HexToInt("00C2")).ToString());
+			S = S.Replace("&acirc;", ((char)Eden.HexToInt("00E2")).ToString());
+			S = S.Replace("&acute;", ((char)Eden.HexToInt("00B4")).ToString());
+			S = S.Replace("&AElig;", ((char)Eden.HexToInt("00C6")).ToString());
+			S = S.Replace("&aelig;", ((char)Eden.HexToInt("00E6")).ToString());
+			S = S.Replace("&Agrave;", ((char)Eden.HexToInt("00C0")).ToString());
+			S = S.Replace("&agrave;", ((char)Eden.HexToInt("00E0")).ToString());
+			S = S.Replace("&alefsym;", ((char)Eden.HexToInt("2135")).ToString());
+			S = S.Replace("&Alpha;", ((char)Eden.HexToInt("0391")).ToString());
+			S = S.Replace("&alpha;", ((char)Eden.HexToInt("03B1")).ToString());
+			S = S.Replace("&amp;", ((char)Eden.HexToInt("0026")).ToString());
+			S = S.Replace("&and;", ((char)Eden.HexToInt("2227")).ToString());
+			S = S.Replace("&ang;", ((char)Eden.HexToInt("2220")).ToString());
+			S = S.Replace("&Aring;", ((char)Eden.HexToInt("00C5")).ToString());
+			S = S.Replace("&aring;", ((char)Eden.HexToInt("00E5")).ToString());
+			S = S.Replace("&asymp;", ((char)Eden.HexToInt("2248")).ToString());
+			S = S.Replace("&Atilde;", ((char)Eden.HexToInt("00C3")).ToString());
+			S = S.Replace("&atilde;", ((char)Eden.HexToInt("00E3")).ToString());
+			S = S.Replace("&Auml;", ((char)Eden.HexToInt("00C4")).ToString());
+			S = S.Replace("&auml;", ((char)Eden.HexToInt("00E4")).ToString());
+			S = S.Replace("&bdquo;", ((char)Eden.HexToInt("201E")).ToString());
+			S = S.Replace("&Beta;", ((char)Eden.HexToInt("0392")).ToString());
+			S = S.Replace("&beta;", ((char)Eden.HexToInt("03B2")).ToString());
+			S = S.Replace("&brvbar;", ((char)Eden.HexToInt("00A6")).ToString());
+			S = S.Replace("&bull;", ((char)Eden.HexToInt("2022")).ToString());
+			S = S.Replace("&cap;", ((char)Eden.HexToInt("2229")).ToString());
+			S = S.Replace("&Ccedil;", ((char)Eden.HexToInt("00C7")).ToString());
+			S = S.Replace("&ccedil;", ((char)Eden.HexToInt("00E7")).ToString());
+			S = S.Replace("&cedil;", ((char)Eden.HexToInt("00B8")).ToString());
+			S = S.Replace("&cent;", ((char)Eden.HexToInt("00A2")).ToString());
+			S = S.Replace("&Chi;", ((char)Eden.HexToInt("03A7")).ToString());
+			S = S.Replace("&chi;", ((char)Eden.HexToInt("03C7")).ToString());
+			S = S.Replace("&circ;", ((char)Eden.HexToInt("02C6")).ToString());
+			S = S.Replace("&clubs;", ((char)Eden.HexToInt("2663")).ToString());
+			S = S.Replace("&cong;", ((char)Eden.HexToInt("2245")).ToString());
+			S = S.Replace("&copy;", ((char)Eden.HexToInt("00A9")).ToString());
+			S = S.Replace("&crarr;", ((char)Eden.HexToInt("21B5")).ToString());
+			S = S.Replace("&cup;", ((char)Eden.HexToInt("222A")).ToString());
+			S = S.Replace("&curren;", ((char)Eden.HexToInt("00A4")).ToString());
+			S = S.Replace("&Dagger;", ((char)Eden.HexToInt("2021")).ToString());
+			S = S.Replace("&dagger;", ((char)Eden.HexToInt("2020")).ToString());
+			S = S.Replace("&dArr;", ((char)Eden.HexToInt("21D3")).ToString());
+			S = S.Replace("&darr;", ((char)Eden.HexToInt("2193")).ToString());
+			S = S.Replace("&deg;", ((char)Eden.HexToInt("00B0")).ToString());
+			S = S.Replace("&Delta;", ((char)Eden.HexToInt("0394")).ToString());
+			S = S.Replace("&delta;", ((char)Eden.HexToInt("03B4")).ToString());
+			S = S.Replace("&diams;", ((char)Eden.HexToInt("2666")).ToString());
+			S = S.Replace("&divide;", ((char)Eden.HexToInt("00F7")).ToString());
+			S = S.Replace("&Eacute;", ((char)Eden.HexToInt("00C9")).ToString());
+			S = S.Replace("&eacute;", ((char)Eden.HexToInt("00E9")).ToString());
+			S = S.Replace("&Ecirc;", ((char)Eden.HexToInt("00CA")).ToString());
+			S = S.Replace("&ecirc;", ((char)Eden.HexToInt("00EA")).ToString());
+			S = S.Replace("&Egrave;", ((char)Eden.HexToInt("00C8")).ToString());
+			S = S.Replace("&egrave;", ((char)Eden.HexToInt("00E8")).ToString());
+			S = S.Replace("&empty;", ((char)Eden.HexToInt("2205")).ToString());
+			S = S.Replace("&emsp;", ((char)Eden.HexToInt("2003")).ToString());
+			S = S.Replace("&ensp;", ((char)Eden.HexToInt("2002")).ToString());
+			S = S.Replace("&Epsilon;", ((char)Eden.HexToInt("0395")).ToString());
+			S = S.Replace("&epsilon;", ((char)Eden.HexToInt("03B5")).ToString());
+			S = S.Replace("&equiv;", ((char)Eden.HexToInt("2261")).ToString());
+			S = S.Replace("&Eta;", ((char)Eden.HexToInt("0397")).ToString());
+			S = S.Replace("&eta;", ((char)Eden.HexToInt("03B7")).ToString());
+			S = S.Replace("&ETH;", ((char)Eden.HexToInt("00D0")).ToString());
+			S = S.Replace("&eth;", ((char)Eden.HexToInt("00F0")).ToString());
+			S = S.Replace("&Euml;", ((char)Eden.HexToInt("00CB")).ToString());
+			S = S.Replace("&euml;", ((char)Eden.HexToInt("00EB")).ToString());
+			S = S.Replace("&euro;", ((char)Eden.HexToInt("20AC")).ToString());
+			S = S.Replace("&exist;", ((char)Eden.HexToInt("2203")).ToString());
+			S = S.Replace("&fnof;", ((char)Eden.HexToInt("0192")).ToString());
+			S = S.Replace("&forall;", ((char)Eden.HexToInt("2200")).ToString());
+			S = S.Replace("&frac12;", ((char)Eden.HexToInt("00BD")).ToString());
+			S = S.Replace("&frac14;", ((char)Eden.HexToInt("00BC")).ToString());
+			S = S.Replace("&frac34;", ((char)Eden.HexToInt("00BE")).ToString());
+			S = S.Replace("&frasl;", ((char)Eden.HexToInt("2044")).ToString());
+			S = S.Replace("&Gamma;", ((char)Eden.HexToInt("0393")).ToString());
+			S = S.Replace("&gamma;", ((char)Eden.HexToInt("03B3")).ToString());
+			S = S.Replace("&ge;", ((char)Eden.HexToInt("2265")).ToString());
+			S = S.Replace("&gt;", ((char)Eden.HexToInt("003E")).ToString());
+			S = S.Replace("&hArr;", ((char)Eden.HexToInt("21D4")).ToString());
+			S = S.Replace("&harr;", ((char)Eden.HexToInt("2194")).ToString());
+			S = S.Replace("&hearts;", ((char)Eden.HexToInt("2665")).ToString());
+			S = S.Replace("&hellip;", ((char)Eden.HexToInt("2026")).ToString());
+			S = S.Replace("&Iacute;", ((char)Eden.HexToInt("00CD")).ToString());
+			S = S.Replace("&iacute;", ((char)Eden.HexToInt("00ED")).ToString());
+			S = S.Replace("&Icirc;", ((char)Eden.HexToInt("00CE")).ToString());
+			S = S.Replace("&icirc;", ((char)Eden.HexToInt("00EE")).ToString());
+			S = S.Replace("&iexcl;", ((char)Eden.HexToInt("00A1")).ToString());
+			S = S.Replace("&Igrave;", ((char)Eden.HexToInt("00CC")).ToString());
+			S = S.Replace("&igrave;", ((char)Eden.HexToInt("00EC")).ToString());
+			S = S.Replace("&image;", ((char)Eden.HexToInt("2111")).ToString());
+			S = S.Replace("&infin;", ((char)Eden.HexToInt("221E")).ToString());
+			S = S.Replace("&int;", ((char)Eden.HexToInt("222B")).ToString());
+			S = S.Replace("&Iota;", ((char)Eden.HexToInt("0399")).ToString());
+			S = S.Replace("&iota;", ((char)Eden.HexToInt("03B9")).ToString());
+			S = S.Replace("&iquest;", ((char)Eden.HexToInt("00BF")).ToString());
+			S = S.Replace("&isin;", ((char)Eden.HexToInt("2208")).ToString());
+			S = S.Replace("&Iuml;", ((char)Eden.HexToInt("00CF")).ToString());
+			S = S.Replace("&iuml;", ((char)Eden.HexToInt("00EF")).ToString());
+			S = S.Replace("&Kappa;", ((char)Eden.HexToInt("039A")).ToString());
+			S = S.Replace("&kappa;", ((char)Eden.HexToInt("03BA")).ToString());
+			S = S.Replace("&Lambda;", ((char)Eden.HexToInt("039B")).ToString());
+			S = S.Replace("&lambda;", ((char)Eden.HexToInt("03BB")).ToString());
+			S = S.Replace("&lang;", ((char)Eden.HexToInt("2329")).ToString());
+			S = S.Replace("&laquo;", ((char)Eden.HexToInt("00AB")).ToString());
+			S = S.Replace("&lArr;", ((char)Eden.HexToInt("21D0")).ToString());
+			S = S.Replace("&larr;", ((char)Eden.HexToInt("2190")).ToString());
+			S = S.Replace("&lceil;", ((char)Eden.HexToInt("2308")).ToString());
+			S = S.Replace("&ldquo;", ((char)Eden.HexToInt("201C")).ToString());
+			S = S.Replace("&le;", ((char)Eden.HexToInt("2264")).ToString());
+			S = S.Replace("&lfloor;", ((char)Eden.HexToInt("230A")).ToString());
+			S = S.Replace("&lowast;", ((char)Eden.HexToInt("2217")).ToString());
+			S = S.Replace("&loz;", ((char)Eden.HexToInt("25CA")).ToString());
+			S = S.Replace("&lrm;", ((char)Eden.HexToInt("200E")).ToString());
+			S = S.Replace("&lsaquo;", ((char)Eden.HexToInt("2039")).ToString());
+			S = S.Replace("&lsquo;", ((char)Eden.HexToInt("2018")).ToString());
+			S = S.Replace("&lt;", ((char)Eden.HexToInt("003C")).ToString());
+			S = S.Replace("&macr;", ((char)Eden.HexToInt("00AF")).ToString());
+			S = S.Replace("&mdash;", ((char)Eden.HexToInt("2014")).ToString());
+			S = S.Replace("&micro;", ((char)Eden.HexToInt("00B5")).ToString());
+			S = S.Replace("&middot;", ((char)Eden.HexToInt("00B7")).ToString());
+			S = S.Replace("&minus;", ((char)Eden.HexToInt("2212")).ToString());
+			S = S.Replace("&Mu;", ((char)Eden.HexToInt("039C")).ToString());
+			S = S.Replace("&mu;", ((char)Eden.HexToInt("03BC")).ToString());
+			S = S.Replace("&nabla;", ((char)Eden.HexToInt("2207")).ToString());
+			S = S.Replace("&nbsp;", ((char)Eden.HexToInt("00A0")).ToString());
+			S = S.Replace("&ndash;", ((char)Eden.HexToInt("2013")).ToString());
+			S = S.Replace("&ne;", ((char)Eden.HexToInt("2260")).ToString());
+			S = S.Replace("&ni;", ((char)Eden.HexToInt("220B")).ToString());
+			S = S.Replace("&not;", ((char)Eden.HexToInt("00AC")).ToString());
+			S = S.Replace("&notin;", ((char)Eden.HexToInt("2209")).ToString());
+			S = S.Replace("&nsub;", ((char)Eden.HexToInt("2284")).ToString());
+			S = S.Replace("&Ntilde;", ((char)Eden.HexToInt("00D1")).ToString());
+			S = S.Replace("&ntilde;", ((char)Eden.HexToInt("00F1")).ToString());
+			S = S.Replace("&Nu;", ((char)Eden.HexToInt("039D")).ToString());
+			S = S.Replace("&nu;", ((char)Eden.HexToInt("03BD")).ToString());
+			S = S.Replace("&Oacute;", ((char)Eden.HexToInt("00D3")).ToString());
+			S = S.Replace("&oacute;", ((char)Eden.HexToInt("00F3")).ToString());
+			S = S.Replace("&Ocirc;", ((char)Eden.HexToInt("00D4")).ToString());
+			S = S.Replace("&ocirc;", ((char)Eden.HexToInt("00F4")).ToString());
+			S = S.Replace("&OElig;", ((char)Eden.HexToInt("0152")).ToString());
+			S = S.Replace("&oelig;", ((char)Eden.HexToInt("0153")).ToString());
+			S = S.Replace("&Ograve;", ((char)Eden.HexToInt("00D2")).ToString());
+			S = S.Replace("&ograve;", ((char)Eden.HexToInt("00F2")).ToString());
+			S = S.Replace("&oline;", ((char)Eden.HexToInt("203E")).ToString());
+			S = S.Replace("&Omega;", ((char)Eden.HexToInt("03A9")).ToString());
+			S = S.Replace("&omega;", ((char)Eden.HexToInt("03C9")).ToString());
+			S = S.Replace("&Omicron;", ((char)Eden.HexToInt("039F")).ToString());
+			S = S.Replace("&omicron;", ((char)Eden.HexToInt("03BF")).ToString());
+			S = S.Replace("&oplus;", ((char)Eden.HexToInt("2295")).ToString());
+			S = S.Replace("&or;", ((char)Eden.HexToInt("2228")).ToString());
+			S = S.Replace("&ordf;", ((char)Eden.HexToInt("00AA")).ToString());
+			S = S.Replace("&ordm;", ((char)Eden.HexToInt("00BA")).ToString());
+			S = S.Replace("&Oslash;", ((char)Eden.HexToInt("00D8")).ToString());
+			S = S.Replace("&oslash;", ((char)Eden.HexToInt("00F8")).ToString());
+			S = S.Replace("&Otilde;", ((char)Eden.HexToInt("00D5")).ToString());
+			S = S.Replace("&otilde;", ((char)Eden.HexToInt("00F5")).ToString());
+			S = S.Replace("&otimes;", ((char)Eden.HexToInt("2297")).ToString());
+			S = S.Replace("&Ouml;", ((char)Eden.HexToInt("00D6")).ToString());
+			S = S.Replace("&ouml;", ((char)Eden.HexToInt("00F6")).ToString());
+			S = S.Replace("&para;", ((char)Eden.HexToInt("00B6")).ToString());
+			S = S.Replace("&part;", ((char)Eden.HexToInt("2202")).ToString());
+			S = S.Replace("&permil;", ((char)Eden.HexToInt("2030")).ToString());
+			S = S.Replace("&perp;", ((char)Eden.HexToInt("22A5")).ToString());
+			S = S.Replace("&Phi;", ((char)Eden.HexToInt("03A6")).ToString());
+			S = S.Replace("&phi;", ((char)Eden.HexToInt("03C6")).ToString());
+			S = S.Replace("&Pi;", ((char)Eden.HexToInt("03A0")).ToString());
+			S = S.Replace("&pi;", ((char)Eden.HexToInt("03C0")).ToString());
+			S = S.Replace("&piv;", ((char)Eden.HexToInt("03D6")).ToString());
+			S = S.Replace("&plusmn;", ((char)Eden.HexToInt("00B1")).ToString());
+			S = S.Replace("&pound;", ((char)Eden.HexToInt("00A3")).ToString());
+			S = S.Replace("&Prime;", ((char)Eden.HexToInt("2033")).ToString());
+			S = S.Replace("&prime;", ((char)Eden.HexToInt("2032")).ToString());
+			S = S.Replace("&prod;", ((char)Eden.HexToInt("220F")).ToString());
+			S = S.Replace("&prop;", ((char)Eden.HexToInt("221D")).ToString());
+			S = S.Replace("&Psi;", ((char)Eden.HexToInt("03A8")).ToString());
+			S = S.Replace("&psi;", ((char)Eden.HexToInt("03C8")).ToString());
+			S = S.Replace("&quot;", ((char)Eden.HexToInt("0022")).ToString());
+			S = S.Replace("&radic;", ((char)Eden.HexToInt("221A")).ToString());
+			S = S.Replace("&rang;", ((char)Eden.HexToInt("232A")).ToString());
+			S = S.Replace("&raquo;", ((char)Eden.HexToInt("00BB")).ToString());
+			S = S.Replace("&rArr;", ((char)Eden.HexToInt("21D2")).ToString());
+			S = S.Replace("&rarr;", ((char)Eden.HexToInt("2192")).ToString());
+			S = S.Replace("&rceil;", ((char)Eden.HexToInt("2309")).ToString());
+			S = S.Replace("&rdquo;", ((char)Eden.HexToInt("201D")).ToString());
+			S = S.Replace("&real;", ((char)Eden.HexToInt("211C")).ToString());
+			S = S.Replace("&reg;", ((char)Eden.HexToInt("00AE")).ToString());
+			S = S.Replace("&rfloor;", ((char)Eden.HexToInt("230B")).ToString());
+			S = S.Replace("&Rho;", ((char)Eden.HexToInt("03A1")).ToString());
+			S = S.Replace("&rho;", ((char)Eden.HexToInt("03C1")).ToString());
+			S = S.Replace("&rlm;", ((char)Eden.HexToInt("200F")).ToString());
+			S = S.Replace("&rsaquo;", ((char)Eden.HexToInt("203A")).ToString());
+			S = S.Replace("&rsquo;", ((char)Eden.HexToInt("2019")).ToString());
+			S = S.Replace("&sbquo;", ((char)Eden.HexToInt("201A")).ToString());
+			S = S.Replace("&Scaron;", ((char)Eden.HexToInt("0160")).ToString());
+			S = S.Replace("&scaron;", ((char)Eden.HexToInt("0161")).ToString());
+			S = S.Replace("&sdot;", ((char)Eden.HexToInt("22C5")).ToString());
+			S = S.Replace("&sect;", ((char)Eden.HexToInt("00A7")).ToString());
+			S = S.Replace("&shy;", ((char)Eden.HexToInt("00AD")).ToString());
+			S = S.Replace("&Sigma;", ((char)Eden.HexToInt("03A3")).ToString());
+			S = S.Replace("&sigma;", ((char)Eden.HexToInt("03C3")).ToString());
+			S = S.Replace("&sigmaf;", ((char)Eden.HexToInt("03C2")).ToString());
+			S = S.Replace("&sim;", ((char)Eden.HexToInt("223C")).ToString());
+			S = S.Replace("&spades;", ((char)Eden.HexToInt("2660")).ToString());
+			S = S.Replace("&sub;", ((char)Eden.HexToInt("2282")).ToString());
+			S = S.Replace("&sube;", ((char)Eden.HexToInt("2286")).ToString());
+			S = S.Replace("&sum;", ((char)Eden.HexToInt("2211")).ToString());
+			S = S.Replace("&sup;", ((char)Eden.HexToInt("2283")).ToString());
+			S = S.Replace("&sup1;", ((char)Eden.HexToInt("00B9")).ToString());
+			S = S.Replace("&sup2;", ((char)Eden.HexToInt("00B2")).ToString());
+			S = S.Replace("&sup3;", ((char)Eden.HexToInt("00B3")).ToString());
+			S = S.Replace("&supe;", ((char)Eden.HexToInt("2287")).ToString());
+			S = S.Replace("&szlig;", ((char)Eden.HexToInt("00DF")).ToString());
+			S = S.Replace("&Tau;", ((char)Eden.HexToInt("03A4")).ToString());
+			S = S.Replace("&tau;", ((char)Eden.HexToInt("03C4")).ToString());
+			S = S.Replace("&there4;", ((char)Eden.HexToInt("2234")).ToString());
+			S = S.Replace("&Theta;", ((char)Eden.HexToInt("0398")).ToString());
+			S = S.Replace("&theta;", ((char)Eden.HexToInt("03B8")).ToString());
+			S = S.Replace("&thetasym;", ((char)Eden.HexToInt("03D1")).ToString());
+			S = S.Replace("&thinsp;", ((char)Eden.HexToInt("2009")).ToString());
+			S = S.Replace("&THORN;", ((char)Eden.HexToInt("00DE")).ToString());
+			S = S.Replace("&thorn;", ((char)Eden.HexToInt("00FE")).ToString());
+			S = S.Replace("&tilde;", ((char)Eden.HexToInt("02DC")).ToString());
+			S = S.Replace("&times;", ((char)Eden.HexToInt("00D7")).ToString());
+			S = S.Replace("&trade;", ((char)Eden.HexToInt("2122")).ToString());
+			S = S.Replace("&Uacute;", ((char)Eden.HexToInt("00DA")).ToString());
+			S = S.Replace("&uacute;", ((char)Eden.HexToInt("00FA")).ToString());
+			S = S.Replace("&uArr;", ((char)Eden.HexToInt("21D1")).ToString());
+			S = S.Replace("&uarr;", ((char)Eden.HexToInt("2191")).ToString());
+			S = S.Replace("&Ucirc;", ((char)Eden.HexToInt("00DB")).ToString());
+			S = S.Replace("&ucirc;", ((char)Eden.HexToInt("00FB")).ToString());
+			S = S.Replace("&Ugrave;", ((char)Eden.HexToInt("00D9")).ToString());
+			S = S.Replace("&ugrave;", ((char)Eden.HexToInt("00F9")).ToString());
+			S = S.Replace("&uml;", ((char)Eden.HexToInt("00A8")).ToString());
+			S = S.Replace("&upsih;", ((char)Eden.HexToInt("03D2")).ToString());
+			S = S.Replace("&Upsilon;", ((char)Eden.HexToInt("03A5")).ToString());
+			S = S.Replace("&upsilon;", ((char)Eden.HexToInt("03C5")).ToString());
+			S = S.Replace("&Uuml;", ((char)Eden.HexToInt("00DC")).ToString());
+			S = S.Replace("&uuml;", ((char)Eden.HexToInt("00FC")).ToString());
+			S = S.Replace("&weierp;", ((char)Eden.HexToInt("2118")).ToString());
+			S = S.Replace("&Xi;", ((char)Eden.HexToInt("039E")).ToString());
+			S = S.Replace("&xi;", ((char)Eden.HexToInt("03BE")).ToString());
+			S = S.Replace("&Yacute;", ((char)Eden.HexToInt("00DD")).ToString());
+			S = S.Replace("&yacute;", ((char)Eden.HexToInt("00FD")).ToString());
+			S = S.Replace("&yen;", ((char)Eden.HexToInt("00A5")).ToString());
+			S = S.Replace("&Yuml;", ((char)Eden.HexToInt("0178")).ToString());
+			S = S.Replace("&yuml;", ((char)Eden.HexToInt("00FF")).ToString());
+			S = S.Replace("&Zeta;", ((char)Eden.HexToInt("0396")).ToString());
+			S = S.Replace("&zeta;", ((char)Eden.HexToInt("03B6")).ToString());
+			S = S.Replace("&zwj;", ((char)Eden.HexToInt("200D")).ToString());
+			S = S.Replace("&zwnj;", ((char)Eden.HexToInt("200C")).ToString());
+        	return S;
+        }
+        
+        public static string ClearString(string S)
+        {
+        	return S.Replace("&nbsp;", " ").Trim();
+        }
+        
         public static int ToInt(string S)
         {
             int N = 0;
@@ -46,39 +317,44 @@ namespace SatRTV
         public string TempDir;
         public List<string> SatAddr = new List<string>();
 
+        public string Num(int N)
+        {
+        	return N.ToString().PadLeft(3, '0');
+        }
+        
         public string DataFileName(int N)
         {
-            return TempDir + "Data" + N.ToString() + ".html";
+            return TempDir + "Data" + Num(N) + ".html";
         }
 
         public string TransFileName(int N)
         {
-            return TempDir + "TransData" + N.ToString() + ".txt";
+            return TempDir + "TransData" + Num(N) + ".txt";
         }
 
         public string ChanFileName(int N)
         {
-            return TempDir + "ChanData" + N.ToString() + ".txt";
+            return TempDir + "ChanData" + Num(N) + ".txt";
         }
 
         public string BeamFileName(int N)
         {
-            return TempDir + "Beam" + N.ToString() + ".txt";
+            return TempDir + "Beam" + Num(N) + ".txt";
         }
 
         public string TransListFileName(int N)
         {
-            return TempDir + "TransList" + N.ToString() + ".txt";
+            return TempDir + "TransList" + Num(N) + ".txt";
         }
 
         public string ChanListFileName(int N)
         {
-            return TempDir + "ChanList" + N.ToString() + ".txt";
+            return TempDir + "ChanList" + Num(N) + ".txt";
         }
 
         public string TransImgFileName(int N)
         {
-            return TempDir + "TransFreq" + N.ToString() + ".png";
+            return TempDir + "TransFreq" + Num(N) + ".png";
         }
 
         /// <summary>
@@ -93,6 +369,10 @@ namespace SatRTV
             {
                 return;
             }
+
+			ServicePointManager.SecurityProtocol = SecurityProtocolType.Ssl3 | SecurityProtocolType.Tls | SecurityProtocolType.Tls11 | SecurityProtocolType.Tls12;
+			ServicePointManager.ServerCertificateValidationCallback = (snder, cert, chain, error) => true;
+
             WebClient WC = new WebClient();
             //WC.Headers.Add("User-Agent", "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-GB; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12");
             //WC.Headers.Add("Accept-Language", "en-US,en-GB;q=0.7,en;q=0.3");
@@ -212,6 +492,12 @@ namespace SatRTV
                 IdxSID = 9;
                 IdxFTA = 6;
                 IdxLang = 8;
+            }
+            if (this is AppCoreSat_4SatBeams)
+            {
+                IdxSID = 14;
+                IdxFTA = 8;
+                IdxLang = 13;
             }
 
             // Load file into list
@@ -434,6 +720,14 @@ namespace SatRTV
                 IdxTxp = 0;
                 IdxBeam = 10;
             }
+            if (this is AppCoreSat_4SatBeams)
+            {
+                IdxFreq = 0;
+                IdxPol = 1;
+                IdxSR = 2;
+                IdxTxp = -1;
+                IdxBeam = 5;
+            }
 
             // Load file into list
             Buf = SR1.ReadLine();
@@ -456,7 +750,14 @@ namespace SatRTV
                 Tab[2] = Raw[IdxSR].Replace("-", " ");
 
                 // Txp
-                Tab[4] = Raw[IdxTxp];
+                if (IdxTxp >= 0)
+                {
+	                Tab[4] = Raw[IdxTxp];
+                }
+                else
+                {
+                	Tab[4] = "";
+                }
 
                 // Beam
                 Tab[5] = Raw[IdxBeam];
@@ -734,6 +1035,38 @@ namespace SatRTV
         bool PrepareInfoExtend = true;
         protected bool PrepareInfoFlySat = false;
 
+        
+        protected void PrepareInfo2(HtmlAgilityPack.HtmlNode N)
+        {
+            InfoText.Clear();
+            InfoColor.Clear();
+
+            for (int i = 0; i < N.ChildNodes.Count; i++)
+            {
+            	if (N.ChildNodes[i].NodeType == HtmlAgilityPack.HtmlNodeType.Text)
+            	{
+            		string S = ClearString(N.ChildNodes[i].InnerText);
+            		if (S != "")
+            		{
+	            		InfoText.Add(S);
+	            		InfoColor.Add("");
+            		}
+            	}
+            	if (N.ChildNodes[i].NodeType == HtmlAgilityPack.HtmlNodeType.Element)
+            	{
+            		if (N.ChildNodes[i].Name.ToUpperInvariant() == "SPAN")
+            		{
+	            		string S = ClearString(N.ChildNodes[i].InnerText);
+	            		if (S != "")
+	            		{
+		            		InfoText.Add(S);
+		            		InfoColor.Add("");
+	            		}
+            		}
+            	}
+            }
+        }
+        
         /// <summary>
         /// Prepare information based on HTML tags
         /// </summary>
@@ -937,7 +1270,20 @@ namespace SatRTV
         long GetSortKey(int Freq, string Pol, string Beam, string SID)
         {
             long Freq_ = Freq;
-            long SID_ = int.Parse(ClearInt(SID));
+            long SID_ = 0;
+            try
+            {
+            	SID_ = int.Parse(ClearInt(SID));
+	            if (SID_ >= 1000000L)
+	            {
+	                throw new Exception("Unsupported SID [" + SID.ToString() + "]");
+	            }
+            }
+            catch
+            {
+            	Console.Write("Input SID number for \"" + SID + "\":");
+        		SID_ = long.Parse(Console.ReadLine());
+            }
             Freq_ = Freq_ * 1000000000L;
             if (SID_ >= 1000000L)
             {
@@ -1156,5 +1502,5 @@ namespace SatRTV
             FSW.Close();
             FS.Close();
         }
-    }
+	}
 }

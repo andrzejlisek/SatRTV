@@ -1,0 +1,290 @@
+Freq	Pol	Beam	SID	Type	Name	Lang	FTA
+10719	V	HB-13C	4409	TV	TVP Info HD	[pol]	Yes
+10758	V	HB-13C	17023	TV	Stars TV	[pol]	Yes
+10758	V	HB-13C	17037	TV	4fun TV	[pol]	Yes
+10758	V	HB-13C	17038	TV	4Fun Gold Hits	[pol]	Yes
+10758	V	HB-13C	17039	TV	4fun Dance	[pol]	Yes
+10758	V	HB-13C	17051	TV	Eska TV Extra	[pol]	Yes
+10775	H	HB-13E	1506	TV	IRINN	[per]	Yes
+10775	H	HB-13E	1508	TV	IRIB Quran	[per]	Yes
+10775	H	HB-13E	1514	TV	iFilm TV	[ara][per]	Yes
+10775	H	HB-13E	1520	TV	IRIB Nasim	[per]	Yes
+10775	H	HB-13E	1521	TV	Jame-Jam TV Network	[far][per]	Yes
+10775	H	HB-13E	1522	TV	Jame-Jam TV 2	[per]	Yes
+10775	H	HB-13E	1523	TV	Jame-Jam TV 3	[per]	Yes
+10775	H	HB-13E	1526	TV	Sahar Balkan (Bosanski)	[bos]	Yes
+10775	H	HB-13E	1527	TV	Sahar Azeri	[aze]	Yes
+10775	H	HB-13E	1528	TV	Sahar Urdu	[urd]	Yes
+10775	H	HB-13E	1529	TV	Sahar Kurdi	[kur]	Yes
+10775	H	HB-13E	1530	TV	Alkawthar TV	[ara]	Yes
+10775	H	HB-13E	1531	TV	Press TV HD	[eng]	Yes
+10775	H	HB-13E	1532	TV	Hispan TV	[spa]	Yes
+10775	H	HB-13E	1533	TV	iFilm English	[eng][per]	Yes
+10796	V	HB-13C	15704	TV	TV Silesia	[pol]	Yes
+10815	H	HB-13B	17308	TV	VOTV (Vozrojdenie TV)	[ukr]	Yes
+10815	H	HB-13B	17311	TV	BVN TV Europa	[dut]	Yes
+10815	H	HB-13B	17312	TV	CNL	[rus]	Yes
+10815	H	HB-13B	17317	TV	TBN Rossiya	[rus]	Yes
+10815	H	HB-13B	17320	TV	Thai TV Global Network	[tha]	Yes
+10815	H	HB-13B	17337	TV	TVK	[kh]	Yes
+10834	V	HB-13C	3509	TV	Red Carpet TV HD	[pol]	Yes
+10873	V	HB-13C	1	TV	Al Maghribia HD (5)	[ara]	Yes
+10873	V	HB-13C	2	TV	Al Aoula Laayoune HD (1)	[ara]	Yes
+10873	V	HB-13C	3	TV	Al Aoula Inter HD (1)	[ara]	Yes
+10873	V	HB-13C	4	TV	Athaqafia HD (4)	[ara]	Yes
+10873	V	HB-13C	5	TV	Al Aoula Inter (1)	[ara]	Yes
+10873	V	HB-13C	6	TV	Assadissa HD (6)	[ara]	Yes
+10873	V	HB-13C	8	TV	Medi 1 TV	[ara]	Yes
+10873	V	HB-13C	10	TV	Arryadia (3)	[ara]	Yes
+10873	V	HB-13C	31	TV	Arryadia HD (3)	[ara]	Yes
+10873	V	HB-13C	241	TV	Tamazight HD (8)	[ber][tam][tar]	Yes
+10930	H	HB-13C	41	TV	Kazakh TV HD	[eng][kaz][kir][rus][uzb]	Yes
+10930	H	HB-13C	1731	TV	HSE 24 Italia	[ita]	Yes
+10930	H	HB-13C	16924	TV	UA TV	[ukr]	Yes
+10949	V	HB-13B	7456	TV	Al Hiwar HD	[ara]	Yes
+10949	V	HB-13B	7470	TV	Sat-7 Pars (11-21 & 23-09)	[per]	Yes
+10992	V	HB-13C	8511	TV	Rai 1	[ita]	Yes
+10992	V	HB-13C	8512	TV	Rai 2	[ita]	Yes
+10992	V	HB-13C	8513	TV	Rai 3	[ita]	Yes
+10992	V	HB-13C	8516	TV	RAI News 24	[ita]	Yes
+11013	H	HB-13C	17712	TV	Rai Gulp HD	[ita]	Yes
+11013	H	HB-13C	17715	TV	Rai Scuola HD	[ita]	Yes
+11034	V	HB-13C	1701	TV	Algérie 5 (TV Coran)	[ara]	Yes
+11034	V	HB-13C	1702	TV	Algérie 4 (TV Tamazight)	[ber]	Yes
+11034	V	HB-13C	1703	TV	TNT International	[rus]	Yes
+11034	V	HB-13C	1704	TV	112 Ukraine HD	[ukr]	Yes
+11034	V	HB-13C	1705	TV	2M Monde	[ara]	Yes
+11034	V	HB-13C	1706	TV	CGTN	[eng]	Yes
+11034	V	HB-13C	1707	TV	TV Rus	[rus]	Yes
+11034	V	HB-13C	1708	TV	RTR Planeta	[rus]	Yes
+11034	V	HB-13C	1709	TV	BestMarket	[rus]	Yes
+11034	V	HB-13C	1710	TV	Rossiya 24	[rus]	Yes
+11034	V	HB-13C	1713	TV	NTV Mir	[rus]	Yes
+11034	V	HB-13C	1718	TV	8 Kanal International Russia	[rus]	Yes
+11075	V	HB-13B	3710	TV	Aristo TV	[ger]	Yes
+11075	V	HB-13B	3711	TV	Anixe Plus HD	[ger]	Yes
+11075	V	HB-13B	3712	TV	Anixe HD Serie	[ger]	Yes
+11075	V	HB-13B	3715	TV	TVP Polonia	[pol]	Yes
+11137	H	HB-13C	7305	TV	Al Jazeera English	[eng]	Yes
+11137	H	HB-13C	7306	TV	Al Jazeera English HD	[eng]	Yes
+11137	H	HB-13C	7322	TV	TV 5 Monde Europe	[fre]	Yes
+11179	H	HB-13C	4904	TV	Alkarma TV Middle East	[ara]	Yes
+11179	H	HB-13C	4908	TV	Fashion TV Europe	[eng]	Yes
+11179	H	HB-13C	4910	TV	Juwelo TV Italia	[ita]	Yes
+11179	H	HB-13C	4937	TV	Marjaeyat	[ara][far]	Yes
+11179	H	HB-13C	4955	TV	Radio Radio TV	[ita]	Yes
+11179	H	HB-13C	4960	TV	Canale Italia 2	[ita]	Yes
+11179	H	HB-13C	4970	TV	TLC Telecampione	[ita]	Yes
+11179	H	HB-13C	4974	TV	Regal TV	[ita]	Yes
+11179	H	HB-13C	4993	TV	Arte Investimenti	[ita]	Yes
+11179	H	HB-13C	4994	TV	Telecupole	[ita]	Yes
+11179	H	HB-13C	4995	TV	Viva L'italia Channel	[ita]	Yes
+11179	H	HB-13C	4996	TV	All In Channel	[ita]	Yes
+11200	V	HB-13B	4704	TV	Deluxe 139 (Veneto Link / Blu)	[ita]	Yes
+11200	V	HB-13B	4706	TV	MTA 3 Al Arabiyah	[ara]	Yes
+11200	V	HB-13B	4709	TV	KICC TV	[eng]	Yes
+11219	H	HB-13C	1220	TV	Ukraina 24	[ukr]	Yes
+11240	V	HB-13C	13930	TV	Noviy Mir	[rus]	Yes
+11240	V	HB-13C	13931	TV	RT English	[eng]	Yes
+11258	H	HB-13C	1915	TV	Lana TV (Syria)	[ara]	Yes
+11258	H	HB-13C	1916	TV	Hannibal TV	[ara]	Yes
+11296	H	HB-13C	2202	TV	CBC TV (Caspian Broadcasting Company)	[aze]	Yes
+11296	H	HB-13C	2204	TV	Yemen TV	[ara]	Yes
+11296	H	HB-13C	2207	TV	KurdSat	[kur]	Yes
+11296	H	HB-13C	2209	TV	İctimai TV	[aze]	Yes
+11296	H	HB-13C	2210	TV	Xəzər TV	[aze]	Yes
+11296	H	HB-13C	2212	TV	Kazakh TV	[eng][kaz][kir][rus][uzb]	Yes
+11296	H	HB-13C	2213	TV	Az TV	[aze]	Yes
+11317	V	HB-13C	17632	TV	RT Arabic	[ara]	Yes
+11317	V	HB-13C	17633	TV	Kentron TV International	[arm]	Yes
+11317	V	HB-13C	17635	TV	Payam-e-Afghan TV	[afg]	Yes
+11317	V	HB-13C	17636	TV	Kalsan TV	[som]	Yes
+11317	V	HB-13C	17637	TV	Horn Cable TV	[som]	Yes
+11317	V	HB-13C	17638	TV	Somali Cable	[som]	Yes
+11317	V	HB-13C	17640	TV	Hadi TV 3	[aze][rus][tur]	Yes
+11334	H	HB-13C	6	TV	Armenia TV Europe	[arm]	Yes
+11334	H	HB-13C	10	TV	RTP Internacional Europa	[por]	Yes
+11373	H	HB-13C	506	TV	Rûdaw HD	[kur]	Yes
+11373	H	HB-13C	507	TV	Waar TV HD	[ara]	Yes
+11373	H	HB-13C	508	TV	Kurdistan 24 HD	[kur]	Yes
+11373	H	HB-13C	510	TV	Parole di Vita	[ita]	Yes
+11373	H	HB-13C	530	TV	World Fashion Channel International HD	[eng]	Yes
+11373	H	HB-13C	532	TV	Tesory Channel	[ita]	Yes
+11373	H	HB-13C	533	TV	NHK World Japan HD	[eng]	Yes
+11373	H	HB-13C	534	TV	Al Iraqia News HD	[ara]	Yes
+11373	H	HB-13C	535	TV	ETV News	[amh]	Yes
+11393	V	HB-13C	4316	TV	Mango 24	[pol]	Yes
+11393	V	HB-13C	4317	TV	Nuta TV	[pol]	Yes
+11393	V	HB-13C	4324	TV	NTL Radomsko	[pol]	Yes
+11393	V	HB-13C	4325	TV	Junior Music (Top Kids Jr)	[pol]	Yes
+11393	V	HB-13C	4327	TV	Power TV	[pol]	Yes
+11393	V	HB-13C	4328	TV	To!TV	[pol]	Yes
+11471	V	HB-13B	3	TV	Wesal Haq	[ara]	Yes
+11471	V	HB-13B	7	TV	ESTV	[orm]	Yes
+11471	V	HB-13B	13	TV	Universal TV (Time Sharing)	[som]	Yes
+11471	V	HB-13B	13	TV	Telefishinka Caalamiga (Time Sharing)	[som]	Yes
+11471	V	HB-13B	32	TV	Somali National TV	[som]	Yes
+11526	H	HB-13C	14053	TV	SRF info HD	[ger]	Yes
+11541	V	HB-13B	3628	TV	TG Norba 24	[ita]	Yes
+11566	H	HB-13B	798	TV	Qatar TV HD	[ara]	Yes
+11566	H	HB-13B	799	TV	TRT Arapça HD (TRT Arabi)	[ara]	Yes
+11566	H	HB-13B	800	TV	Belarus 24 HD	[bel][rus]	Yes
+11566	H	HB-13B	801	TV	EuroNews HD	[eng]	Yes
+11566	H	HB-13B	802	TV	Kuwait TV 1 HD	[ara]	Yes
+11566	H	HB-13B	803	TV	TRT World HD	[eng]	Yes
+11566	H	HB-13B	806	TV	Bahrain TV HD	[ara]	Yes
+11566	H	HB-13B	807	TV	France 24 Français HD	[fre]	Yes
+11566	H	HB-13B	808	TV	France 24 English HD	[fre]	Yes
+11585	V	HB-13C	871	TV	CCTV 4 Europe HD	[chi]	Yes
+11585	V	HB-13C	872	TV	CGTN HD	[eng]	Yes
+11585	V	HB-13C	873	TV	CGTN Documentary	[eng]	Yes
+11585	V	HB-13C	874	TV	CGTN Español HD	[spa]	Yes
+11585	V	HB-13C	875	TV	CGTN Français HD	[fre]	Yes
+11623	V	HB-13B	10701	TV	Tele Congo	[fre]	Yes
+11623	V	HB-13B	10715	TV	Arirang World	[kor]	Yes
+11623	V	HB-13B	10723	TV	Soyuz	[rus]	Yes
+11623	V	HB-13B	10726	TV	ERT World Europe	[gre]	Yes
+11642	H	HB-13C	1307	TV	RTL 102.5 TV HD	[ita]	Yes
+11642	H	HB-13C	1308	TV	Radio Freccia TV HD	[ita]	Yes
+11642	H	HB-13C	1309	TV	I24 News HD (French)	[eng]	Yes
+11642	H	HB-13C	1310	TV	I24 News HD (English)	[fre]	Yes
+11642	H	HB-13C	1311	TV	Radionorba TV	[ita]	Yes
+11642	H	HB-13C	1313	TV	KBS World HD	[kor]	Yes
+11642	H	HB-13C	1314	TV	HRT Int	[hrv]	Yes
+11642	H	HB-13C	1317	TV	Kurdistan TV HD	[kur]	Yes
+11642	H	HB-13C	1320	TV	Bethel TV HD Peru	[spa]	Yes
+11642	H	HB-13C	1321	TV	Radio Zeta Radiovisione HD	[ita]	Yes
+11642	H	HB-13C	1323	TV	RTL 102.5 News Via Radio HD	[ita]	Yes
+11642	H	HB-13C	1328	TV	People TV / Rete 7	[ita]	Yes
+11662	V	HB-13C	16920	TV	Emilia Romagna 24	[ita]	Yes
+11662	V	HB-13C	16922	TV	TRM h24	[ita]	Yes
+11662	V	HB-13C	16925	TV	Canale Italia	[ita]	Yes
+11662	V	HB-13C	16937	TV	Tele Moda Canale 168	[ita]	Yes
+11662	V	HB-13C	16938	TV	AuroraArte	[ita]	Yes
+11662	V	HB-13C	16939	TV	Life 120 Channel (Arte E Cucina)	[ita]	Yes
+11662	V	HB-13C	16952	TV	TelepadrePio HD	[ita]	Yes
+11662	V	HB-13C	16955	TV	Tele 5	[pol]	Yes
+11662	V	HB-13C	16956	TV	Polonia 1	[pol]	Yes
+11662	V	HB-13C	16961	TV	TVR International	[rum]	Yes
+11662	V	HB-13C	16962	TV	Radio Italia TV HD	[ita]	Yes
+11662	V	HB-13C	16963	TV	UnireSat by Teleippica HD	[ita]	Yes
+11662	V	HB-13C	16964	TV	Arte Atelier	[ita]	Yes
+11662	V	HB-13C	16965	TV	Antichita Chiossone	[ita]	Yes
+11662	V	HB-13C	16966	TV	Radio Italia Trend TV HD	[ita]	Yes
+11662	V	HB-13C	16967	TV	Suryoyo Sat		Yes
+11662	V	HB-13C	16969	TV	Venus TV / Music Life / Lazio Channel / Fuego TV / EurSat	[ita]	Yes
+11662	V	HB-13C	16976	TV	Radio Kiss Kiss TV HD	[ita]	Yes
+11662	V	HB-13C	16976	TV	Radio Kiss Kiss TV HD	[ita]	Yes
+11662	V	HB-13C	16977	TV	RDS Social TV HD	[ita]	Yes
+11662	V	HB-13C	16979	TV	QVC Italia HD	[ita]	Yes
+11662	V	HB-13C	16980	TV	BFC (Asset and the City)	[ita]	Yes
+11662	V	HB-13C	16983	TV	Ciao / Napoli Mia / TeleItalia	[ita]	Yes
+11662	V	HB-13C	16988	TV	TVA Vicenza	[ita]	Yes
+11662	V	HB-13C	16992	TV	VideoLina	[ita]	Yes
+11681	H	HB-13B	307	TV	Arte Français HD	[fre][ger][org]	Yes
+11727	V	HB-13B	13101	TV	DW English HD	[eng]	Yes
+11727	V	HB-13B	13102	TV	BBC Arabic HD	[eng]	Yes
+11727	V	HB-13B	13103	TV	Pobeda HD	[rus]	Yes
+11747	H	HB-13C	9504	TV	Sharjah TV HD	[ara]	Yes
+11747	H	HB-13C	9507	TV	Abu Dhabi Sports 1 HD	[ara]	Yes
+11747	H	HB-13C	9509	TV	ZAD TV	[ara]	Yes
+11747	H	HB-13C	9510	TV	Alsharqiya TV HD	[ara]	Yes
+11747	H	HB-13C	9513	TV	Al Arabiya HD	[ara]	Yes
+11747	H	HB-13C	9516	TV	Sky News Arabia	[ara]	Yes
+11747	H	HB-13C	9518	TV	Orient News	[ara]	Yes
+11766	V	HB-13C	3404	TV	Rai Sport + HD	[ita]	Yes
+11804	V	HB-13C	3302	TV	Camera dei Deputati	[ita]	Yes
+11804	V	HB-13C	3303	TV	Rai Sport	[ita]	Yes
+11804	V	HB-13C	3304	TV	Rai Storia	[ita]	Yes
+11804	V	HB-13C	3305	TV	Rai Gulp	[ita]	Yes
+11804	V	HB-13C	3307	TV	Rai Scuola	[ita]	Yes
+11804	V	HB-13C	3308	TV	Uninettuno University TV	[ita]	Yes
+11804	V	HB-13C	3314	TV	Senato Italiano	[ita]	Yes
+11919	V	HB-13C	8	TV	TgCom24	[ita]	Yes
+12034	V	HB-13B	11180	TV	TV 2000 (some programs are encrypted)	[ita]	Yes
+12111	V	HB-13C	705	TV	Al Jazeera Documentary	[ara]	Yes
+12111	V	HB-13C	706	TV	Aljazeera Mubasher	[ara]	Yes
+12111	V	HB-13C	708	TV	Al Jazeera Channel	[ara]	Yes
+12111	V	HB-13C	723	TV	Sender Neu Jerusalem	[ger]	Yes
+12111	V	HB-13C	727	TV	El Sharq	[ara]	Yes
+12111	V	HB-13C	735	TV	Al Mayadeen	[ara]	Yes
+12111	V	HB-13C	756	TV	Canale Italia 83	[ita]	Yes
+12111	V	HB-13C	757	TV	Canale Italia 84	[ita]	Yes
+12111	V	HB-13C	780	TV	QVC Italia	[ita]	Yes
+12111	V	HB-13C	782	TV	RIK Sat	[gre]	Yes
+12111	V	HB-13C	785	TV	Mekameleen TV	[ara]	Yes
+12111	V	HB-13C	788	TV	MTA 2 HD	[ara][ben][eng][fre][ger][hin][urd]	Yes
+12149	V	HB-13B	7202	TV	Watania 1 Tunisia	[ara]	Yes
+12149	V	HB-13B	7224	TV	CCTV 4 Europe	[chi]	Yes
+12149	V	HB-13B	7226	TV	Alalam News Channel	[ara]	Yes
+12149	V	HB-13B	7254	TV	RTV San Marino HD	[ita]	Yes
+12149	V	HB-13B	7279	TV	Bayyinat TV	[ara]	Yes
+12169	H	HB-13B	384	TV	Kanali Voulis	[gre]	Yes
+12188	V	HB-13B	7309	TV	TV Okazje	[pol]	Yes
+12303	V	HB-13B	1	TV	Record TV Europa	[por]	Yes
+12303	V	HB-13B	783	TV	Telesur	[spa]	Yes
+12303	V	HB-13B	802	TV	Life TV Estonia	[rus]	Yes
+12303	V	HB-13B	807	TV	TBN Polska	[pol]	Yes
+12303	V	HB-13B	810	TV	Kanal Hayat (Turk Hristiyan TV)	[tur]	Yes
+12303	V	HB-13B	3203	TV	TCI	[ita]	Yes
+12303	V	HB-13B	3501	TV	TVE Internacional Europa HD	[spa]	Yes
+12303	V	HB-13B	3502	TV	Canal 24 Horas HD	[spa]	Yes
+12322	H	HB-13B	13920	TV	Shant News	[arm]	Yes
+12322	H	HB-13B	13944	TV	BBC Persian	[per]	Yes
+12322	H	HB-13B	14807	TV	Velayat TV (Alwilayah TV Farsi)	[per]	Yes
+12380	V	HB-13B	3012	TV	Karbala TV	[ara]	Yes
+12380	V	HB-13B	3013	TV	CGN TV	[kor]	Yes
+12380	V	HB-13B	3014	TV	EuroNews Russian	[rus]	Yes
+12380	V	HB-13B	3015	TV	EuroNews Hungarian	[hun]	Yes
+12380	V	HB-13B	3017	TV	Sunna TV Saudi Arabia	[ara]	Yes
+12399	H	HB-13B	903	TV	Sama Dubai HD	[ara]	Yes
+12399	H	HB-13B	905	TV	Dubai International HD	[ara]	Yes
+12399	H	HB-13B	906	TV	Dubai Sports 1 HD	[ara]	Yes
+12399	H	HB-13B	907	TV	Sudan TV	[ara]	Yes
+12399	H	HB-13B	910	TV	Al Masriya	[ara]	Yes
+12399	H	HB-13B	914	TV	Al Ordoni TV (Jordan TV)	[ara]	Yes
+12399	H	HB-13B	916	TV	Libya Al Watanya	[ara]	Yes
+12399	H	HB-13B	920	TV	Oman TV Satellite HD	[ara]	Yes
+12476	H	HB-13B	2001	TV	RT News HD	[eng]	Yes
+12476	H	HB-13B	2002	TV	RT Doc HD	[eng]	Yes
+12476	H	HB-13B	2003	TV	Super Tennis HD	[ita]	Yes
+12476	H	HB-13B	2004	TV	TelePace HD	[eng][ita]	Yes
+12476	H	HB-13B	2005	TV	2M Monde	[ara]	Yes
+12476	H	HB-13B	2006	TV	BBC Brit HD Polska	[eng][pol]	Yes
+12476	H	HB-13B	2017	TV	EuroNews Italian	[ita]	Yes
+12476	H	HB-13B	2018	TV	EuroNews Greek	[gre]	Yes
+12476	H	HB-13B	2100	TV	Al Rayyan 2 HD	[ara]	Yes
+12520	V	HB-13B	9003	TV	Ronahi TV	[kur]	Yes
+12520	V	HB-13B	9005	TV	Fadak TV	[ara]	Yes
+12520	V	HB-13B	9006	TV	Al Araby 2 HD	[ara]	Yes
+12520	V	HB-13B	9007	TV	NetViet (VTC10)	[vie]	Yes
+12520	V	HB-13B	9009	TV	Angel TV Europe	[eng]	Yes
+12520	V	HB-13B	9014	TV	Syria TV HD	[ara]	Yes
+12520	V	HB-13B	9016	TV	Somaliland National TV	[som]	Yes
+12520	V	HB-13B	9018	TV	Al Malakoot Sat (The Kingdom Sat)	[eng]	Yes
+12539	H	HB-13C	1102	TV	Fashion TV 4K	[eng]	Yes
+12577	H	HB-13C	1601	TV	Al Jazeera Channel HD	[ara]	Yes
+12577	H	HB-13C	1602	TV	Italian Fishing TV	[ita]	Yes
+12577	H	HB-13C	1603	TV	Wine TV	[ita]	Yes
+12577	H	HB-13C	1605	TV	Italia Channel 123E TV Emilia RomagnaMedia Text.itTelepiu ChannelPianeta TVReality TVQuore TV	[ita]	Yes
+12577	H	HB-13C	1612	TV	CNC World English HD	[eng]	Yes
+12577	H	HB-13C	1613	TV	MS MotorTV	[ita]	Yes
+12577	H	HB-13C	1614	TV	MS Channel	[ita]	Yes
+12577	H	HB-13C	1615	TV	Canal Algérie 2 HD	[ara]	Yes
+12577	H	HB-13C	1616	TV	Algérie 3 HD (Thalitha TV)	[ara]	Yes
+12577	H	HB-13C	1617	TV	TV Art Live	[ita]	Yes
+12597	V	HB-13B	8203	TV	BBC Arabic	[ara]	Yes
+12597	V	HB-13B	8204	TV	BBC World News	[eng]	Yes
+12597	V	HB-13B	8208	TV	Perviy kanal Europe	[rus]	Yes
+12597	V	HB-13B	8293	TV	Perviy kanal Europa	[rus]	Yes
+12597	V	HB-13B	8295	TV	RT Doc	[eng]	Yes
+12616	H	HB-13C	11306	TV	Class TV Moda	[ita]	Yes
+12654	H	HB-13C	3	TV	Saudi TV	[ara]	Yes
+12654	H	HB-13C	5	TV	Iqraa Arabic	[ara]	Yes
+12654	H	HB-13C	6	TV	Sudan TV	[ara]	Yes
+12654	H	HB-13C	7	TV	Oman TV Satellite HD	[ara]	Yes
+12654	H	HB-13C	8	TV	Al Masriya	[ara]	Yes
+12654	H	HB-13C	40	TV	Al Ordoni TV (Jordan TV)	[ara]	Yes
+12654	H	HB-13C	42	TV	Quran TV Saudi Arabia	[ara]	Yes
+12654	H	HB-13C	43	TV	Libya Al Watanya	[ara]	Yes
+12692	H	HB-13C	415	TV	BFM TV	[fre]	Yes

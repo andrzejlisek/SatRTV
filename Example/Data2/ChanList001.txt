@@ -1,0 +1,288 @@
+Freq	Pol	Beam	SID	Type	Name	Lang	FTA
+10762	H	Europe B	1020	TV	Top News	[alb]	Yes
+10762	H	Europe B	1300	TV	BCTV Europe	[alb]	Yes
+10762	H	Europe B	1800	R	Top Albania Radio	[alb]	Yes
+10762	H	Europe B	1820	R	Top Gold	[alb]	Yes
+10804	H	Europe B	921	R	My Music Radio	[alb]	Yes
+10804	H	Europe B	2000	TV	EuroNews Albania	[alb]	Yes
+10804	H	Europe B	2411	R	NRG Radio Albania	[alb]	Yes
+10804	H	Sub-Sahara Africa	101	TV	Vision 4	[fre]	Yes
+10804	H	Sub-Sahara Africa	102	TV	2S TV	[fre]	Yes
+10804	H	Sub-Sahara Africa	104	TV	CRTV	[fre]	Yes
+10804	H	Sub-Sahara Africa	104	R	CRTV National Radio	[fre]	Yes
+10804	H	Sub-Sahara Africa	105	TV	Hadi TV 5		Yes
+10804	H	Sub-Sahara Africa	106	R	Golfe FM	[fre]	Yes
+10804	H	Sub-Sahara Africa	107	TV	Emirem TV	[fre]	Yes
+10804	H	Sub-Sahara Africa	108	TV	CRTV News	[fre]	Yes
+10804	H	Sub-Sahara Africa	111	TV	Canal 2 English	[eng]	Yes
+10804	H	Sub-Sahara Africa	113	TV	Label TV	[fre]	Yes
+10804	H	Sub-Sahara Africa	114	TV	Christ Live	[fre]	Yes
+10804	H	Sub-Sahara Africa	115	TV	RTB TV (Burkina Faso)	[fre]	Yes
+10804	H	Sub-Sahara Africa	116	R	RTB Radio	[fre]	Yes
+10804	H	Sub-Sahara Africa	117	TV	Vision 4 RCA	[fre]	Yes
+10804	H	Sub-Sahara Africa	118	TV	CRTV Sports and Entertainment	[fre]	Yes
+10804	H	Sub-Sahara Africa	121	TV	LM TV Français	[fre]	Yes
+10804	H	Sub-Sahara Africa	131	TV	Arewa 24	[hau]	Yes
+10804	H	Sub-Sahara Africa	132	TV	Burkina Info TV	[fre]	Yes
+10804	H	Sub-Sahara Africa	133	R	Alpha Blondy FM	[fre]	Yes
+10804	H	Sub-Sahara Africa	201	TV	ORTB TV	[fre]	Yes
+10804	H	Sub-Sahara Africa	204	TV	Golfe TV Africa	[fre]	Yes
+10804	H	Sub-Sahara Africa	205	TV	France 24 Français	[fre]	Yes
+10804	H	Sub-Sahara Africa	206	TV	Asonga TV	[spa]	Yes
+10804	H	Sub-Sahara Africa	343	TV	Equinoxe TV	[fre]	Yes
+10804	H	Sub-Sahara Africa	345	TV	Canal 2 International	[fre]	Yes
+10804	H	Sub-Sahara Africa	346	TV	Sweet FM Vision	[fre]	Yes
+10804	H	Sub-Sahara Africa	361	TV	ImpacTV	[fre]	Yes
+10804	H	Sub-Sahara Africa	371	TV	Boom TV	[fre]	Yes
+10804	H	Sub-Sahara Africa	372	TV	STV (Cameroon)	[fre]	Yes
+10804	H	Sub-Sahara Africa	373	R	Radio Biafra	[eng]	Yes
+10804	H	Sub-Sahara Africa	374	TV	New Africa TV Hausa	[hau]	Yes
+10804	H	Sub-Sahara Africa	470	TV	Amen TV Sat	[fre]	Yes
+10804	H	Sub-Sahara Africa	480	R	Radio Immaculée Conception	[fre]	Yes
+10804	H	Sub-Sahara Africa	482	TV	Power TV	[fre]	Yes
+10804	H	Sub-Sahara Africa	502	TV	Canal 2 Movies	[fre]	Yes
+10804	H	Sub-Sahara Africa	505	TV	Ubiznews TV	[fre]	Yes
+10804	H	Sub-Sahara Africa	600	R	RFI Afrique	[fre]	Yes
+10804	H	Sub-Sahara Africa	601	TV	Africa TV 3	[fre]	Yes
+10804	H	Sub-Sahara Africa	620	TV	Africa Sports TV	[fre]	Yes
+10804	H	Sub-Sahara Africa	640	TV	Voxafrica Afrique		Yes
+10804	H	Sub-Sahara Africa	651	TV	Eden TV		Yes
+10804	H	Sub-Sahara Africa	660	R	Diaspora FM		Yes
+10804	H	Sub-Sahara Africa	670	TV	TVC Africa	[fre]	Yes
+10928	H	Europe B	1102	TV	Wness TV	[bul][eng][ukr]	Yes
+10972	V	Europe B	1371	R	Radio Studio B	[srp]	Yes
+10972	V	Europe B	1372	R	Hit FM Radio	[srp]	Yes
+11016	H	Sub-Sahara Africa	1	TV	E-Télé Benin	[fre]	Yes
+11016	H	Sub-Sahara Africa	37	R	E-Télé	[fre]	Yes
+11024	H	Sub-Sahara Africa	0	R	Radio Madagasikara		Yes
+11024	H	Sub-Sahara Africa	1	TV	TV Malagasy		Yes
+11055	V	Europe B	1154	TV	CT 24	[cze]	Yes
+11069	H	Europe A	1010	R	Radio 10	[dut]	Yes
+11069	H	Europe A	5380	R	Radio 538	[dut]	Yes
+11070	H	Europe A	170	R	Slam!	[dut]	Yes
+11070	H	Europe A	417	R	Sky Radio (Netherlands)	[dut]	Yes
+11070	H	Europe A	674	R	Radio Veronica	[dut]	Yes
+11071	H	Europe A	170	R	100% NL	[dut]	Yes
+11071	H	Europe A	17629	R	BNR Nieuwsradio	[dut]	Yes
+11131	V	Europe B	55	R	Radio Zu	[rum]	Yes
+11131	V	Europe B	56	R	Romantic FM	[rum]	Yes
+11139	H	Europe A	4721	TV	T7	[alb]	Yes
+11139	H	Europe A	5010	TV	Top News	[alb]	Yes
+11151	V	Europe A	64	TV	Pink Folk 1	[srp]	Yes
+11178	V	Europe B	3	R	Pink Radio	[srp]	Yes
+11178	V	Europe B	13	R	Welcome To Fun Radio	[srp]	Yes
+11221	H	Europe A	4466	R	Kanal 77	[mac]	Yes
+11231	V	Europe A	773	R	Play	[srp]	Yes
+11262	H	Europe B	5	TV	BN Music	[srp]	Yes
+11262	H	Europe B	7	TV	RTRS TV	[srp]	Yes
+11262	H	Europe B	8	R	Radio Stari Grad	[bos]	Yes
+11262	H	Europe B	9	R	Kalman Radio	[bos]	Yes
+11262	H	Europe B	10	R	VIP Radio	[srp]	Yes
+11262	H	Europe B	11	R	Radio Bir	[bos]	Yes
+11262	H	Europe B	13	R	Radio BN	[srp]	Yes
+11262	H	Europe B	14	R	Radio Mix	[bos]	Yes
+11262	H	Europe B	15	R	Radio Fles	[srp]	Yes
+11262	H	Europe B	16	R	Radio Curak	[hrv]	Yes
+11262	H	Europe B	17	TV	RTRS Plus	[srp]	Yes
+11262	H	Europe B	18	R	Radio Republike Srpske	[srp]	Yes
+11262	H	Europe B	19	R	Radio Mir Medjugorje	[hrv]	Yes
+11262	H	Europe B	20	R	Radio Posavina	[hrv]	Yes
+11262	H	Europe B	22	R	Bobar Radio	[srp]	Yes
+11303	H	Europe A	1	TV	Aljazeera Balkans	[bos]	Yes
+11303	H	Europe A	2	R	Nezavisni Radio Studio 99	[bos]	Yes
+11303	H	Europe A	6	TV	Yu Planet TV	[srp]	Yes
+11303	H	Europe A	8	TV	Aurora TV	[hrv]	Yes
+11303	H	Europe A	9	TV	Pro TV International	[rum]	Yes
+11303	H	Europe A	15	TV	Fashion TV HD Europe		Yes
+11303	H	Europe A	16	TV	TV Duga +	[srp]	Yes
+11303	H	Europe A	17	TV	DM Sat	[srp]	Yes
+11303	H	Europe A	24	R	Radio Marija Srbija	[hrv]	Yes
+11303	H	Europe A	25	R	Mária Rádió Szerbia	[hun]	Yes
+11303	H	Europe A	26	R	Radio Maria Romania	[rum]	Yes
+11303	H	Europe A	27	R	Mária Rádió Erdély	[hun]	Yes
+11303	H	Europe A	28	R	Radio Maria Albania	[alb]	Yes
+11303	H	Europe A	29	R	Radio Marija Bosna i Hercegovina	[hrv]	Yes
+11303	H	Europe A	32	R	Mária Rádió	[hun]	Yes
+11345	H	Europe B	1001	TV	OTV Valentino	[bos]	Yes
+11345	H	Europe B	1004	TV	K CN 3	[srp]	Yes
+11345	H	Europe B	1007	TV	K CN 1	[srp]	Yes
+11345	H	Europe B	1017	TV	K CN 2	[srp]	Yes
+11345	H	Europe B	3001	R	Radio 1 Krvavec	[slv]	Yes
+11345	H	Europe B	3002	R	Radio Ognjisce	[slv]	Yes
+11345	H	Europe B	3004	R	Radio Valentino	[bos]	Yes
+11356	H	Sub-Sahara Africa	3101	TV	RTS 1 (Senegal)	[fre]	Yes
+11356	H	Sub-Sahara Africa	3102	TV	Télé Tchad	[fre]	Yes
+11356	H	Sub-Sahara Africa	3103	TV	Equinoxe TV	[fre]	Yes
+11356	H	Sub-Sahara Africa	3104	TV	Alwilayah TV Hausa	[hau]	Yes
+11356	H	Sub-Sahara Africa	3105	R	Radio Tchad	[fre]	Yes
+11356	H	Sub-Sahara Africa	3106	TV	Divin Amour TV		Yes
+11356	H	Sub-Sahara Africa	3113	TV	Sikka TV	[fre]	Yes
+11427	V	Europe B	3	TV	Tring Sport News	[alb]	Yes
+11427	V	Europe B	128	TV	Fax News	[alb]	Yes
+11427	V	Europe B	999	TV	Kanali 7	[alb]	Yes
+11427	V	Europe B	7000	R	Radio Klan	[alb]	Yes
+11471	H	South East Africa	18	R	Jazz Radio	[fre]	Yes
+11471	H	South East Africa	24	R	RFM (France)	[fre]	Yes
+11471	H	South East Africa	31	R	Europe 1	[fre]	Yes
+11471	H	South East Africa	32	R	RMC	[fre]	Yes
+11471	H	South East Africa	48	R	Free Dom 1	[fre]	Yes
+11512	V	Europe B	6	TV	TVR International	[rum]	Yes
+11512	V	Europe B	21	R	Radio România Actualitati	[rum]	Yes
+11512	V	Europe B	22	R	Radio România Cultural	[rum]	Yes
+11512	V	Europe B	23	R	Radio România Muzical	[rum]	Yes
+11512	V	Europe B	24	R	Radio România Antena Satelor	[rum]	Yes
+11512	V	Europe B	25	R	Radio România International 1	[rum]	Yes
+11512	V	Europe B	26	R	Radio România International 2	[rum]	Yes
+11512	V	Europe B	27	R	Radio România International 3	[rum]	Yes
+11554	H	South East Africa	151	R	Réunion 1ère Radio	[fre]	Yes
+11554	H	South East Africa	152	R	Mayotte 1ère Radio	[fre]	Yes
+11554	H	South East Africa	156	R	Mouv'	[fre]	Yes
+11554	H	South East Africa	157	R	Radio France Internationale	[fre]	Yes
+11554	H	South East Africa	158	R	Franceinfo: Radio	[fre]	Yes
+11554	H	South East Africa	159	R	France Culture	[fre]	Yes
+11554	H	South East Africa	160	R	France Inter	[fre]	Yes
+11554	H	South East Africa	161	R	France Musique	[fre]	Yes
+11554	H	South East Africa	162	R	France Bleu 107.1	[fre]	Yes
+11554	H	South East Africa	163	R	France Bleu	[fre]	Yes
+11554	H	South East Africa	164	R	RFI Afrique	[fre]	Yes
+11554	H	South East Africa	8548	TV	Franceinfo: TV	[fre]	Yes
+11554	H	South East Africa	18548	TV	France 24 Français	[fre]	Yes
+11595	H	Europe B	103	TV	Z1	[hrv]	Yes
+11595	H	Europe B	155	TV	TVCG Sat	[srp]	Yes
+11595	H	Europe B	156	R	Radio CG	[srp]	Yes
+11595	H	Europe B	201	R	Otvoreni Radio	[hrv]	Yes
+11595	H	Europe B	202	R	Narodni	[hrv]	Yes
+11595	H	Europe B	203	R	Antena Zagreb	[hrv]	Yes
+11595	H	Europe B	211	R	Radio Marija Hrvatska	[hrv]	Yes
+11595	H	Europe B	218	R	Gold FM	[hrv]	Yes
+11595	H	Europe B	219	R	Enter ZG	[hrv]	Yes
+11595	V	Europe B	30000-5/68PSK  952 - 3501	R	Fashion Television Europe	[eng]	Yes
+11596	H	South East Africa	183	R	RCF National	[fre]	Yes
+11596	H	South East Africa	2298	R	Sunlight FM	[fre]	Yes
+11637	H	Europe B	1923	TV	TV Bulgare	[bul]	Yes
+11637	H	Europe B	1951	TV	Evrofutbol Konni Nabyaaniya	[bul]	Yes
+11637	H	Europe B	1952	TV	Evrofutbol SportMaks	[bul]	Yes
+11637	H	South East Africa	536	TV	Voir +	[fre]	Yes
+11637	H	South East Africa	539	R	Radio Record		Yes
+11637	H	South East Africa	540	R	Radio des Jeunes	[fre]	Yes
+11637	H	South East Africa	541	R	RTL Réunion	[fre]	Yes
+11637	H	South East Africa	542	R	Radio Don Bosco	[fre]	Yes
+11637	H	South East Africa	543	R	RNM		Yes
+11637	H	South East Africa	544	R	Viva 98.8 FM	[fre]	Yes
+11637	H	South East Africa	545	R	Ylang FM	[fre]	Yes
+11637	H	South East Africa	546	R	Best FM		Yes
+11637	H	South East Africa	547	R	Kool FM		Yes
+11637	H	South East Africa	548	R	Radio One (Mauritius)	[fre]	Yes
+11637	H	South East Africa	549	R	Radio Plus FM (Réunion)	[fre]	Yes
+11637	V	Europe B	3404	TV	HRT 4	[hrv]	Yes
+11637	V	Europe B	3405	TV	HRT International	[hrv]	Yes
+11637	V	Europe B	3411	R	HR Prvi program	[hrv]	Yes
+11637	V	Europe B	3412	R	HR Drugi program	[hrv]	Yes
+11637	V	Europe B	3413	R	HR Treci program	[hrv]	Yes
+11637	V	Europe B	3414	R	Glas Hrvatske	[hrv]	Yes
+11637	V	Europe B	3416	R	Hrvatski Katolicki Radio	[hrv]	Yes
+11637	V	Europe B	3431	TV	TV Slovenija 1	[slv]	Yes
+11637	V	Europe B	3432	TV	TV Slovenija 2	[slv]	Yes
+11637	V	Europe B	3433	TV	TV Slovenija 3	[slv]	Yes
+11637	V	Europe B	3434	R	Prvi	[slv]	Yes
+11637	V	Europe B	3435	R	Val 202	[slv]	Yes
+11637	V	Europe B	3436	R	Ars	[slv]	Yes
+11637	V	Europe B	3437	R	Radio Si		Yes
+11678	H	Europe B	87	TV	Nova 24 TV	[slv]	Yes
+11678	H	Europe B	132	TV	Posavina TV	[hrv]	Yes
+11678	H	Europe B	215	TV	Laudato TV	[hrv]	Yes
+11678	H	Europe B	430	TV	Sportska TV	[hrv]	Yes
+12541	V	Europe B	9	TV	Zico TV	[alb]	Yes
+12541	V	Europe B	10	TV	TV 21 Macedonia	[mac]	Yes
+12541	V	Europe B	11	R	Radio 21 (Kosovo)	[alb]	Yes
+12541	V	Europe B	12	R	Radio Dukagjini	[alb]	Yes
+12562	H	Sub-Sahara Africa	201	TV	TFM	[fre]	Yes
+12562	H	Sub-Sahara Africa	202	TV	L'Obs TV	[fre]	Yes
+12562	H	Sub-Sahara Africa	203	TV	TFM Religions	[fre]	Yes
+12562	H	Sub-Sahara Africa	204	R	RFM (Senegal)	[fre]	Yes
+12562	H	Sub-Sahara Africa	205	TV	NW Sport 1		Yes
+12562	H	Sub-Sahara Africa	206	TV	TVT	[fre]	Yes
+12562	H	Sub-Sahara Africa	207	TV	NW Info	[fre]	Yes
+12562	H	Sub-Sahara Africa	209	R	Radio Kara	[fre]	Yes
+12562	H	Sub-Sahara Africa	210	R	Radio Lomé	[fre]	Yes
+12562	H	Sub-Sahara Africa	211	TV	InfoTV	[fre]	Yes
+12562	H	Sub-Sahara Africa	212	TV	DBS TV (Cameroon)	[fre]	Yes
+12562	H	Sub-Sahara Africa	213	TV	LoveWorld Plus	[eng]	Yes
+12562	H	Sub-Sahara Africa	214	TV	Dieu TV	[fre]	Yes
+12562	H	Sub-Sahara Africa	216	TV	BF1	[fre]	Yes
+12562	H	Sub-Sahara Africa	219	TV	NW Magazine	[fre]	Yes
+12562	H	Sub-Sahara Africa	220	TV	Unafrica TV	[fre]	Yes
+12562	H	Sub-Sahara Africa	221	TV	La Beninoise TV		Yes
+12562	H	Sub-Sahara Africa	222	TV	La Chrétienne TV	[fre]	Yes
+12562	H	Sub-Sahara Africa	223	TV	QTV Gambia	[eng]	Yes
+12562	H	Sub-Sahara Africa	228	TV	BB 24	[fre]	Yes
+12562	H	Sub-Sahara Africa	236	TV	SMTV	[fre]	Yes
+12562	H	Sub-Sahara Africa	237	TV	NW Info 2	[eng]	Yes
+12562	H	Sub-Sahara Africa	238	TV	A12 TV	[fre]	Yes
+12562	H	Sub-Sahara Africa	242	TV	JesusChrist TV	[fre]	Yes
+12562	H	Sub-Sahara Africa	243	TV	EMCI TV Paris	[fre]	Yes
+12562	H	Sub-Sahara Africa	244	TV	Miracle TV+		Yes
+12562	H	Sub-Sahara Africa	245	TV	Distinction TV	[fre]	Yes
+12562	H	Sub-Sahara Africa	246	TV	TV Chandelier	[fre]	Yes
+12562	H	Sub-Sahara Africa	247	TV	AC TV	[fre]	Yes
+12562	H	Sub-Sahara Africa	250	TV	Casarhema TV	[fre]	Yes
+12593	V	Europe B	1	TV	DM Sat	[srp]	Yes
+12604	H	Sub-Sahara Africa	27	TV	DBM	[fre]	Yes
+12604	H	Sub-Sahara Africa	34	R	RTL	[fre]	Yes
+12604	H	Sub-Sahara Africa	35	R	RFM (France)	[fre]	Yes
+12604	H	Sub-Sahara Africa	36	R	Virgin Radio France	[fre]	Yes
+12604	H	Sub-Sahara Africa	37	R	Skyrock	[fre]	Yes
+12604	H	Sub-Sahara Africa	38	R	France Inter	[fre]	Yes
+12604	H	Sub-Sahara Africa	40	R	Fun Radio (France)	[fre]	Yes
+12604	H	Sub-Sahara Africa	41	R	RMC	[fre]	Yes
+12604	H	Sub-Sahara Africa	42	R	Europe 1	[fre]	Yes
+12606	H	Europe B	4520	TV	Orange Infokanál	[slo]	Yes
+12639	H	Europe B	110	TV	RTSH Sat	[alb]	Yes
+12639	H	Europe B	120	TV	RTSH 3	[alb]	Yes
+12639	H	Europe B	130	TV	RTSH Plus	[alb]	Yes
+12639	H	Europe B	140	TV	RTSH 24	[alb]	Yes
+12639	H	Europe B	150	TV	RTSH Shqip	[alb]	Yes
+12639	H	Europe B	160	TV	RTSH Muzikë	[alb]	Yes
+12639	H	Europe B	170	R	Radio Tirana 1	[alb]	Yes
+12639	H	Europe B	180	R	Radio Tirana 2	[alb]	Yes
+12639	H	Europe B	190	R	Radio Tirana International		Yes
+12639	H	Europe B	200	R	Radio Tirana Klasik	[alb]	Yes
+12639	H	Europe B	220	R	Radio Tirana Jazz	[alb]	Yes
+12643	V	Europe B	11	TV	Digi 24	[rum]	Yes
+12643	V	Europe B	12	TV	Etno TV (Romania)	[rum]	Yes
+12643	V	Europe B	21	TV	TVR Cluj	[rum]	Yes
+12643	V	Europe B	22	TV	TVR Craiova	[rum]	Yes
+12643	V	Europe B	23	TV	TVR Iasi	[rum]	Yes
+12643	V	Europe B	24	TV	TVR Timisoara	[rum]	Yes
+12643	V	Europe B	25	TV	TVR Targu-Mures	[rum]	Yes
+12643	V	Europe B	101	R	Radio Trinitas	[rum]	Yes
+12643	V	Europe B	102	R	Radio Reîntregirea	[rum]	Yes
+12660	H	Europe B	2	TV	SNAI Virtuali 8	[ita]	Yes
+12687	H	Sub-Sahara Africa	601	TV	Zoe Channel	[fre]	Yes
+12687	H	Sub-Sahara Africa	602	TV	MIPC TV	[fre]	Yes
+12687	H	Sub-Sahara Africa	603	TV	Afrique Média	[fre]	Yes
+12687	H	Sub-Sahara Africa	604	TV	Jes TV	[fre]	Yes
+12687	H	Sub-Sahara Africa	605	TV	Capital Santé TV	[fre]	Yes
+12687	H	Sub-Sahara Africa	606	TV	Divine TV (Cameroon)	[eng]	Yes
+12687	H	Sub-Sahara Africa	607	TV	Hope World	[fre]	Yes
+12687	H	Sub-Sahara Africa	609	TV	Hope TV (Benin)	[fre]	Yes
+12687	H	Sub-Sahara Africa	610	TV	Solution TV (Cameroon)	[fre]	Yes
+12687	H	Sub-Sahara Africa	611	TV	Liberty TV (Cameroon)	[fre]	Yes
+12687	H	Sub-Sahara Africa	612	TV	LTM TV	[fre]	Yes
+12687	H	Sub-Sahara Africa	613	TV	Jesus Savior TV	[fre]	Yes
+12687	H	Sub-Sahara Africa	614	TV	Miséricorde TV	[fre]	Yes
+12687	H	Sub-Sahara Africa	615	TV	Hausa 7 TV	[hau]	Yes
+12687	H	Sub-Sahara Africa	616	TV	Transformers TV	[eng]	Yes
+12687	H	Sub-Sahara Africa	617	TV	Revival Channel	[fre]	Yes
+12687	H	Sub-Sahara Africa	618	TV	Porte TV	[fre]	Yes
+12687	H	Sub-Sahara Africa	619	TV	Kalac TV	[fre]	Yes
+12687	H	Sub-Sahara Africa	620	TV	Canal 2 Movies	[fre]	Yes
+12699	H	Europe B	5	TV	SNAI Virtuali 2	[ita]	Yes
+12699	H	Europe B	55	TV	SNAI Virtuali 3	[ita]	Yes
+12699	H	Europe B	57	TV	SNAI Virtuali 1	[ita]	Yes
+12717	H	Europe B	15	R	National FM	[rum]	Yes
+12717	H	Europe B	16	R	RFI România	[rum]	Yes
+12717	H	Europe B	23	R	Favorit FM	[rum]	Yes
+12717	H	Europe B	32	TV	Favorit TV	[rum]	Yes
+12717	H	Europe B	88	TV	Alfa Omega TV	[rum]	Yes
+12739	H	Europe B	900	TV	Realitatea Plus	[rum]	Yes

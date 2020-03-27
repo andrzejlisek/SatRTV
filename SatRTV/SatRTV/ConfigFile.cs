@@ -1,14 +1,22 @@
-﻿using System;
+﻿/*
+ * Created by SharpDevelop.
+ * User: XXX
+ * Date: 2020-03-23
+ * Time: 11:23
+ * 
+ * To change this template use Tools | Options | Coding | Edit Standard Headers.
+ */
+using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SatRTV
 {
-    class ConfigFile
-    {
+	/// <summary>
+	/// Description of ConfigFile.
+	/// </summary>
+	public class ConfigFile
+	{
         private Dictionary<string, string> Raw = new Dictionary<string, string>();
 
         public void FileLoad(string FileName)
@@ -223,5 +231,5 @@ namespace SatRTV
         {
             return Raw.ContainsKey(Name);
         }
-    }
+	}
 }

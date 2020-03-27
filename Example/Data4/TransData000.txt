@@ -1,0 +1,100 @@
+Freq	Pol	SR	FEC	Sat	Beam	Mod	Format	Info	Row
+10719	V	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	NC+ (318/11000),	0
+10727	H	30000	3/4	Eutelsat Hot Bird 13E (13&deg; E)	Wide	8PSK	DVB-S2	Eutelsat (318/11100),	14
+10758	V	27500	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Cyfrowy Polsat (318/11200),	18
+10775	H	29900	3/5	Eutelsat Hot Bird 13E (13&deg; E)	Wide	8PSK	DVB-S2	IRIB (318/8700),	76
+10796	V	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	NC+ (318/11400),	108
+10815	H	27500	5/6	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	QPSK	DVB-S	RRSat (318/11500),	146
+10834	V	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	NC+ (318/11600),	168
+10873	V	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	SNRT (176/11800),	186
+10892	H	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	NC+ (318/11900),	234
+10911	V	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	Cyfrowy Polsat (318/12000),	254
+10930	H	30000	2/3	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	Eutelsat (318/12100),	276
+10949	V	27500	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	QPSK	DVB-S	GlobeCast (318/12200),	324
+10971	H	29700	2/3	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	SRG SSR (318/12300),	356
+10992	V	27500	2/3	Eutelsat Hot Bird 13E (13&deg; E)	Wide	QPSK	DVB-S	RAI (318/12400),	366
+11013	H	29900	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	RAI (318/12500),	392
+11034	V	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	QPSK	DVB-S	GlobeCast (318/12600),	408
+11054	H	27500	5/6	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	QPSK	DVB-S	Media Broadcast (318/12700),	444
+11075	V	30000	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Media Broadcast,	474
+11117	V	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	Cyfrowy Polsat (318/13000),	484
+11137	H	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	QPSK	DVB-S	Arqiva (318/13100),	498
+11158	V	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	Cyfrowy Polsat (113/13200),	516
+11179	H	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	QPSK	DVB-S	Telespazio (318/13300),	546
+11200	V	27500	5/6	Eutelsat Hot Bird 13E (13&deg; E)	Wide	QPSK	DVB-S	RRSat (318/13400),	580
+11219	H	29900	3/5	Eutelsat Hot Bird 13E (13&deg; E)	Wide	QPSK	DVB-S2	XtraTV,	634
+11240	V	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	QPSK	DVB-S	Eutelsat (318/200),	680
+11258	H	27500	3/4	Eutelsat Hot Bird 13E (13&deg; E)	Wide	8PSK	DVB-S2	MBC,	692
+11278	V	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	NC+ (318/400),	716
+11296	H	27500	5/6	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	QPSK	DVB-S	iKO Media Group (318/500),	770
+11317	V	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	QPSK	DVB-S	Arqiva (318/600),	794
+11334	H	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	QPSK	DVB-S	Arqiva (318/700),	804
+11355	V	29900	5/6	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	QPSK	DVB-S	Sky Italia (64511/800),	816
+11373	H	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	ABS (318/900),	820
+11393	V	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	TVN (318/1000),	842
+11411	H	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	NC+ (318/1100),	878
+11432	V	29900	3/4	Eutelsat Hot Bird 13E (13&deg; E)	Wide	8PSK	DVB-S2	Mediaset (272/1200),	908
+11449	H	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	NC+ (318/1300),	922
+11470	V	27500	5/6	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	QPSK	DVB-S	iKO Media Group (318/1400),	948
+11488	H	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	NC+ (318/1500),	964
+11508	V	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	NC+ (318/1600),	984
+11526	H	29700	2/3	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	SRG SSR (318/1700),	1000
+11541	V	22000	5/6	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	QPSK	DVB-S	M-Three satcom (200/1800),	1046
+11566	H	29900	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	GlobeCast (318/15300),	1102
+11585	V	27500	5/6	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	CCTV (318/15400),	1122
+11604	H	27500	5/6	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	QPSK	DVB-S	Media Broadcast (318/15500),	1134
+11623	V	27500	3/4	Eutelsat Hot Bird 13E (13&deg; E)	Wide	QPSK	DVB-S	GlobeCast (318/15600),	1170
+11642	H	27500	3/4	Eutelsat Hot Bird 13E (13&deg; E)	Wide	8PSK	DVB-S2	M-Three satcom (318/15700),	1204
+11662	V	27500	3/4	Eutelsat Hot Bird 13E (13&deg; E)	Wide	8PSK	DVB-S2	Telespazio,	1228
+11681	H	27500	3/4	Eutelsat Hot Bird 13E (13&deg; E)	Wide	8PSK	DVB-S2	Eutelsat (319/15900),	1306
+11727	V	29900	5/6	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	GlobeCast,	1348
+11747	H	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	QPSK	DVB-S	Du (318/5103),	1354
+11766	V	29900	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	RAI (318/5200),	1378
+11785	H	29900	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Sky Italia,	1398
+11804	V	27500	2/3	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	QPSK	DVB-S	RAI (318/5400),	1418
+11823	H	27500	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Nova (318/5500),	1454
+11843	V	29900	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Sky Italia (64511/5600),	1492
+11862	H	29900	5/6	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	QPSK	DVB-S	Sky Italia (64511/5700),	1520
+11881	V	27500	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	QPSK	DVB-S	Sky Italia (64511/5800),	1536
+11900	H	29900	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Sky Italia (64511/5900),	1540
+11919	V	29900	5/6	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	QPSK	DVB-S	Mediaset (272/6000),	1562
+11938	H	27500	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	NetMed (318/6100),	1594
+11958	V	27500	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	QPSK	DVB-S	Sky Italia (64511/6200),	1624
+11977	H	29900	5/6	Eutelsat Hot Bird 13E (13&deg; E)	Wide	QPSK	DVB-S	Mediaset,	1642
+11996	V	29900	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Sky Italia (64511/6400),	1670
+12015	H	27500	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Cyfrowy Polsat (318/6500),	1690
+12034	V	29900	5/6	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	QPSK	DVB-S	Sky Italia (64511/6600),	1732
+12054	H	29900	5/6	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	QPSK	DVB-S	Sky Italia (64511/6700),	1764
+12073	V	29900	5/6	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	QPSK	DVB-S	Sky Italia (64511/6800),	1796
+12092	H	29900	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Sky Italia,	1830
+12111	V	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	QPSK	DVB-S	Telespazio (318/7000),	1842
+12130	H	27500	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Nova (318/7100),	1890
+12149	V	27500	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	QPSK	DVB-S	Eutelsat (318/7200),	1908
+12169	H	27500	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Nova (318/7300),	1960
+12188	V	27500	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Cyfrowy Polsat (113/7400),	1996
+12207	H	29900	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Sky Italia (64511/7500),	2024
+12226	V	27500	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	QPSK	DVB-S	VoA (1/101),	2032
+12265	V	27500	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Cyfrowy Polsat (113/7800),	2116
+12284	H	27500	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Cyfrowy Polsat (113/7900),	2140
+12303	V	27500	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2		2188
+12322	H	27500	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	QPSK	DVB-S	Etisalat (318/8100),	2212
+12341	V	29900	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Sky Italia (64511/8200),	2260
+12360	H	29900	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Sky Italia (318/8300),	2282
+12380	V	27500	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	QPSK	DVB-S	GlobeCast (318/8400),	2312
+12399	H	29700	2/3	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	SRG SSR (318/8500),	2354
+12418	V	29900	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Sky Italia (64511/8600),	2388
+12437	H	29900	3/5	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	XtraTV,	2410
+12466	V	29900	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	Sky Italia (64511/8800),	2442
+12476	H	29900	3/4	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	8PSK	DVB-S2	GlobeCast (318/8900),	2460
+12520	V	27500	5/6	Eutelsat Hot Bird 13E (13&deg; E)	Wide	QPSK	DVB-S	STN (318/9000),	2488
+12539	H	30000	5/6	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	Eutelsat (318/9100),	2516
+12558	V	27500	3/4	Eutelsat Hot Bird 13E (13&deg; E)	Wide	QPSK	DVB-S	Eutelsat (319/9200),	2520
+12577	H	30000	5/6	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2		2524
+12597	V	27500	3/4	Eutelsat Hot Bird 13E (13&deg; E)	Wide	QPSK	DVB-S	GlobeCast (318/9400),	2558
+12616	H	29900	5/6	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	QPSK	DVB-S	Sky Italia (64511/9500),	2618
+12635	V	29900	5/6	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	QPSK	DVB-S	Sky Italia (64511/9600),	2640
+12654	H	27500	5/6	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	QPSK	DVB-S	Arabsat (702/9700),	2670
+12672	V	29900	5/6	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	QPSK	DVB-S	Sky Italia (64511/9800),	2730
+12673	V	29900	5/6	Eutelsat Hot Bird 13B (13&deg; E)	Europe8	QPSK	DVB-S	Sky Italia,	2734
+12692	H	27500	3/4	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	8PSK	DVB-S2	AB Sat (319/9900),	2748
+12731	H	29900	5/6	Eutelsat Hot Bird 13C (13&deg; E)	Europe9	QPSK	DVB-S	Sky Italia (64511/10100),	2788

@@ -1,31 +1,37 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/*
+ * Created by SharpDevelop.
+ * User: XXX
+ * Date: 2020-03-23
+ * Time: 11:18
+ * 
+ * To change this template use Tools | Options | Coding | Edit Standard Headers.
+ */
+using System;
 
 namespace SatRTV
 {
-    class Program
-    {
+	class Program
+	{
         static void Pause()
         {
             Console.Write("Press any key to continue");
             Console.ReadKey();
             Console.WriteLine();
         }
-
-        static void Main(string[] args)
+        
+        public static void Main(string[] args)
         {
             AppCore Core = new AppCore();
-            AppCoreSat[] AppCoreSat_ = new AppCoreSat[4];
+            AppCoreSat[] AppCoreSat_ = new AppCoreSat[5];
             AppCoreSat_[0] = null;
             AppCoreSat_[1] = Core.CoreKingOfSat;
             AppCoreSat_[2] = Core.CoreLyngSat;
             AppCoreSat_[3] = Core.CoreFlySat;
+            AppCoreSat_[4] = Core.CoreSatBeams;
             AppCoreSat_[1].SetListFields(Core.ListTransFields, Core.ListChanFields);
             AppCoreSat_[2].SetListFields(Core.ListTransFields, Core.ListChanFields);
             AppCoreSat_[3].SetListFields(Core.ListTransFields, Core.ListChanFields);
+            AppCoreSat_[4].SetListFields(Core.ListTransFields, Core.ListChanFields);
 
             bool Work = true;
             while (Work)
@@ -144,7 +150,7 @@ namespace SatRTV
                             }
                             break;
                         case "DOWNLOAD":
-                            if ((CmdNum >= 1) && (CmdNum <= 3))
+                            if ((CmdNum >= 1) && (CmdNum < AppCoreSat_.Length))
                             {
                                 for (int i = 0; i < Core.SatName.Count; i++)
                                 {
@@ -160,7 +166,7 @@ namespace SatRTV
                             }
                             break;
                         case "PARSE":
-                            if ((CmdNum >= 1) && (CmdNum <= 3))
+                            if ((CmdNum >= 1) && (CmdNum < AppCoreSat_.Length))
                             {
                                 for (int i = 0; i < Core.SatName.Count; i++)
                                 {
@@ -176,7 +182,7 @@ namespace SatRTV
                             }
                             break;
                         case "LIST":
-                            if ((CmdNum >= 1) && (CmdNum <= 3))
+                            if ((CmdNum >= 1) && (CmdNum < AppCoreSat_.Length))
                             {
                                 for (int i = 0; i < Core.SatName.Count; i++)
                                 {
@@ -197,7 +203,7 @@ namespace SatRTV
                             }
                             break;
                         case "TRANSIMG":
-                            if ((CmdNum >= 1) && (CmdNum <= 3))
+                            if ((CmdNum >= 1) && (CmdNum < AppCoreSat_.Length))
                             {
                                 AppCoreSat_[CmdNum].CreateTransBitmap(Core.SatSelected, Core.Band1, Core.Band2, Core.Band3);
                                 GoodCmd = true;
@@ -211,6 +217,7 @@ namespace SatRTV
                     Console.WriteLine("S=1 - KingOfSat");
                     Console.WriteLine("S=2 - LyngSat");
                     Console.WriteLine("S=3 - FlySat");
+                    Console.WriteLine("S=4 - SatBeams");
                     Console.WriteLine("SELECT N - Select or deselect satellite");
                     Console.WriteLine("BAND N - Select or deselect band");
                     Console.WriteLine("FTA - Toggle between FTA and all channels");
@@ -227,5 +234,5 @@ namespace SatRTV
             }
             Console.Clear();
         }
-    }
+	}
 }

@@ -1,14 +1,22 @@
-﻿using System;
+﻿/*
+ * Created by SharpDevelop.
+ * User: XXX
+ * Date: 2020-03-23
+ * Time: 11:22
+ * 
+ * To change this template use Tools | Options | Coding | Edit Standard Headers.
+ */
+using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SatRTV
 {
-    class AppCoreSat_3FlySat : AppCoreSat
-    {
+	/// <summary>
+	/// Description of AppCoreSat_3FlySat.
+	/// </summary>
+	public class AppCoreSat_3FlySat : AppCoreSat
+	{
         public override void Parse(int I, bool TypeByPID)
         {
             File.Delete(TransFileName(I));
@@ -452,5 +460,5 @@ namespace SatRTV
             }
             PrepareInfoFlySat = false;
         }
-    }
+	}
 }

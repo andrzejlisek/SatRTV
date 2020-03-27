@@ -1,15 +1,23 @@
-﻿using System;
+﻿/*
+ * Created by SharpDevelop.
+ * User: XXX
+ * Date: 2020-03-23
+ * Time: 11:22
+ * 
+ * To change this template use Tools | Options | Coding | Edit Standard Headers.
+ */
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SatRTV
 {
-    class AppCore
-    {
+	/// <summary>
+	/// Description of AppCore.
+	/// </summary>
+	public class AppCore
+	{
         public static double String2Double(string S)
         {
             return double.Parse(S, CultureInfo.InvariantCulture);
@@ -17,7 +25,7 @@ namespace SatRTV
 
         public static string ApplicationDirectory()
         {
-            string AppDir = Path.GetDirectoryName(Environment.GetCommandLineArgs()[0]);
+            string AppDir = Path.GetDirectoryName(System.Diagnostics.Process.GetCurrentProcess().MainModule.FileName);
             if (AppDir[AppDir.Length - 1] != System.IO.Path.DirectorySeparatorChar)
             {
                 AppDir = AppDir + System.IO.Path.DirectorySeparatorChar;
@@ -30,6 +38,7 @@ namespace SatRTV
         public AppCoreSat_1KingOfSat CoreKingOfSat;
         public AppCoreSat_2LyngSat CoreLyngSat;
         public AppCoreSat_3FlySat CoreFlySat;
+        public AppCoreSat_4SatBeams CoreSatBeams;
         public int SatCount;
         public List<string> SatName = new List<string>();
         public List<bool> SatSelected = new List<bool>();
@@ -52,11 +61,13 @@ namespace SatRTV
             CoreKingOfSat = new AppCoreSat_1KingOfSat();
             CoreLyngSat = new AppCoreSat_2LyngSat();
             CoreFlySat = new AppCoreSat_3FlySat();
+            CoreSatBeams = new AppCoreSat_4SatBeams();
             ConfigFile CF = new ConfigFile();
             CF.FileLoad(@"Config.txt");
             CoreKingOfSat.TempDir = ApplicationDirectory() + "Data1" + System.IO.Path.DirectorySeparatorChar;
             CoreLyngSat.TempDir = ApplicationDirectory() + "Data2" + System.IO.Path.DirectorySeparatorChar;
             CoreFlySat.TempDir = ApplicationDirectory() + "Data3" + System.IO.Path.DirectorySeparatorChar;
+            CoreSatBeams.TempDir = ApplicationDirectory() + "Data4" + System.IO.Path.DirectorySeparatorChar;
 
             CF.ParamGet("SetBand1", ref Band1);
             CF.ParamGet("SetBand2", ref Band2);
@@ -87,6 +98,7 @@ namespace SatRTV
                 CoreKingOfSat.SatAddr.Add(CF.ParamGetS("Sat" + i.ToString() + "KingOfSat"));
                 CoreLyngSat.SatAddr.Add(CF.ParamGetS("Sat" + i.ToString() + "LyngSat"));
                 CoreFlySat.SatAddr.Add(CF.ParamGetS("Sat" + i.ToString() + "FlySat"));
+                CoreSatBeams.SatAddr.Add(CF.ParamGetS("Sat" + i.ToString() + "SatBeams"));
                 CoreLyngSat.SpanChange.Add(new Dictionary<int, int>());
                 CoreFlySat.SpanChange.Add(new Dictionary<int, int>());
 
@@ -125,5 +137,5 @@ namespace SatRTV
                 }
             }
         }
-    }
+	}
 }

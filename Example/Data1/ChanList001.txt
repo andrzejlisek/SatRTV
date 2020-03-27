@@ -1,0 +1,153 @@
+Freq	Pol	Beam	SID	Type	Name	Lang	FTA
+10762	H	Europe B	1000	TV	RTK 1 Sat (Kosovo)	[alb]	Yes
+10762	H	Europe B	1020	TV	Top News	[alb]	Yes
+10762	H	Europe B	1300	TV	BCTV Europe	[alb]	Yes
+10762	H	Europe B	1800	R	Top Albania Radio	[aac]	Yes
+10762	H	Europe B	1820	R	Top Gold Radio	[aac]	Yes
+10804	H	Europe B	921	R	My Music Radio	[alb]	Yes
+10804	H	Europe B	2000	TV	Euronews Albania	[alb]	Yes
+10804	H	Europe B	2411	R	NRG Radio	[alb]	Yes
+10845	H	Europe B	1028	TV	Ndihma e Klientit	[alb]	Yes
+10928	H	Europe B	1102	TV	Wness TV	[bul][eng][ukr]	Yes
+10972	V	Europe B	1371	R	Radio Studio B	[ser]	Yes
+10972	V	Europe B	1372	R	Test 1	[aac][ser]	Yes
+11055	V	Europe B	1154	TV	CT 24 HD	[cze]	Yes
+11069	H	Europe A	21418	R	Radio 538 TNZ	[ned]	Yes
+11070	H	Europe A	170	R	Slam!    Main	[ned]	Yes
+11071	H	Europe A	170	R	100%NL  !	[ned]	Yes
+11071	H	Europe A	17629	R	BNR_AMS	[ned]	Yes
+11131	V	Europe B	55	R	Radio Zu	[rom]	Yes
+11131	V	Europe B	56	R	Radio Romantic	[rom]	Yes
+11139	H	Europe B	4721	TV	T7	[aac]	Yes
+11139	H	Europe B	5000	TV	Top Channel	[aac][alb]	Yes
+11139	H	Europe B	5010	TV	Top News	[aac][alb]	Yes
+11151	V	Europe B	64	TV	Pink Folk	[ser]	Yes
+11178	V	Europe B	3	R	Radio Pink	[ser]	Yes
+11178	V	Europe B	13	R	Radio Sport FM		Yes
+11221	H	Europe A	4466	R	Radio Kanal 77	[mac]	Yes
+11231	V	Europe A	773	R	Play radio	[ser]	Yes
+11262	H	Europe B	5	TV	BN Music HD	[ser]	Yes
+11262	H	Europe B	7	TV	RTRS	[aac][ser]	Yes
+11262	H	Europe B	8	R	Radio Stari Grad	[bos]	Yes
+11262	H	Europe B	9	R	Radio Kalman	[bos]	Yes
+11262	H	Europe B	10	R	VIP Radio	[ser]	Yes
+11262	H	Europe B	11	R	Radio BIR	[bos]	Yes
+11262	H	Europe B	13	R	Radio BN	[ser]	Yes
+11262	H	Europe B	14	R	Radio MIX		Yes
+11262	H	Europe B	15	R	Fles Radio	[ser]	Yes
+11262	H	Europe B	16	R	Radio Curak		Yes
+11262	H	Europe B	17	TV	RTRS Plus	[bos]	Yes
+11262	H	Europe B	18	R	RTRS RRS	[ser]	Yes
+11262	H	Europe B	19	R	Radio Mir Medjugorje		Yes
+11262	H	Europe B	20	R	Radio Posavina		Yes
+11262	H	Europe B	22	R	Bobar Radio		Yes
+11304	H	Europe B	1	TV	Al Jazeera Balkans HD	[eng]	Yes
+11304	H	Europe B	2	R	Studio 99	[hun]	Yes
+11304	H	Europe B	6	TV	YU Planet		Yes
+11304	H	Europe B	8	TV	Aurora TV	[slk]	Yes
+11304	H	Europe B	9	TV	Pro TV International	[rom]	Yes
+11304	H	Europe B	12	TV	HAYAT FOLK	[bos]	Yes
+11304	H	Europe B	13	TV	HAYAT MUSIC	[bos]	Yes
+11304	H	Europe B	15	TV	Fashion TV	[aac][eng]	Yes
+11304	H	Europe B	16	TV	TV Duga Plus	[bos]	Yes
+11304	H	Europe B	17	TV	DM Sat HD	[ser]	Yes
+11304	H	Europe B	21	TV	K3 (Bosnia)	[bos]	Yes
+11304	H	Europe B	24	R	RM Serbia SRB	[ser]	Yes
+11304	H	Europe B	25	R	RM Serbia HU	[hun]	Yes
+11304	H	Europe B	26	R	RM Romania RO	[rom]	Yes
+11304	H	Europe B	27	R	RM Romania HU	[hun]	Yes
+11304	H	Europe B	28	R	RM Albania	[alb]	Yes
+11304	H	Europe B	29	R	RM BiH	[bos]	Yes
+11304	H	Europe B	30	R	RM Armenia	[arm]	Yes
+11304	H	Europe B	32	R	RM Hungary	[hun]	Yes
+11345	H	Europe B	1001	TV	OTV Valentino	[bos]	Yes
+11345	H	Europe B	1004	TV	Svet Plus	[eng]	Yes
+11345	H	Europe B	1007	TV	KCN Music 2	[ser]	Yes
+11345	H	Europe B	1017	TV	TV Kopernikus	[ser]	Yes
+11345	H	Europe B	1018	TV	HNL SD	[eng]	Yes
+11345	H	Europe B	3001	R	Radio 1	[slo]	Yes
+11345	H	Europe B	3002	R	Ognjisce Radio Slovenija	[slo]	Yes
+11345	H	Europe B	3004	R	OTV Radio Valentino	[bos]	Yes
+11427	V	Europe B	3	TV	Tring Sport News	[alb]	Yes
+11427	V	Europe B	128	TV	Fax News	[eng]	Yes
+11427	V	Europe B	999	TV	Kanali 7	[alb]	Yes
+11427	V	Europe B	7000	R	Radio Klan	[alb]	Yes
+11471	V	Europe B	604	TV	Arena HD	[ger]	Yes
+11512	V	Europe B	6	TV	TV Romania International	[rom]	Yes
+11512	V	Europe B	21	R	Radio Romania Actualitati	[rom]	Yes
+11512	V	Europe B	22	R	Radio Romania Cultural	[rom]	Yes
+11512	V	Europe B	23	R	Radio Romania Muzical	[rom]	Yes
+11512	V	Europe B	24	R	Radio Romania Antena Satelor	[rom]	Yes
+11512	V	Europe B	25	R	Radio Romania International 1	[rom]	Yes
+11512	V	Europe B	26	R	Radio Romania International 2	[rom]	Yes
+11512	V	Europe B	27	R	Radio Romania International 3	[rom]	Yes
+11595	H	Europe B	103	TV	Z1	[cro]	Yes
+11595	H	Europe B	155	TV	RTCG Sat	[ser]	Yes
+11595	H	Europe B	156	R	Radio CG.	[ser]	Yes
+11595	H	Europe B	201	R	Otvoreni.		Yes
+11595	H	Europe B	202	R	Narodni.		Yes
+11595	H	Europe B	203	R	Antena Zagreb.		Yes
+11595	H	Europe B	211	R	R.Marija.		Yes
+11595	H	Europe B	218	R	R. Mediaservis		Yes
+11595	H	Europe B	219	R	Enter ZG.		Yes
+11595	V	Europe B	952	TV	Fashion TV	[eng]	Yes
+11636	V	Europe A	3401	TV	HRT 1 HD	[cro]	Yes
+11636	V	Europe A	3402	TV	HRT 2 HD	[cro]	Yes
+11636	V	Europe A	3404	TV	HRT 4 HD	[cro]	Yes
+11636	V	Europe A	3405	TV	HRT International	[cro]	Yes
+11636	V	Europe A	3411	R	HRT-HR1	[cro]	Yes
+11636	V	Europe A	3412	R	HRT-HR2	[cro]	Yes
+11636	V	Europe A	3413	R	HRT-HR3	[cro]	Yes
+11636	V	Europe A	3414	R	VOICE OF CRO	[cro]	Yes
+11636	V	Europe A	3416	R	HKR	[cro]	Yes
+11636	V	Europe A	3431	TV	SLO1 HD	[slo]	Yes
+11636	V	Europe A	3432	TV	SLO2 HD	[slo]	Yes
+11636	V	Europe A	3433	TV	SLO3 HD	[slo]	Yes
+11636	V	Europe A	3434	R	RASLO PRVI	[slo]	Yes
+11636	V	Europe A	3435	R	RASLO VAL 202	[slo]	Yes
+11636	V	Europe A	3436	R	RASLO ARS	[slo]	Yes
+11636	V	Europe A	3437	R	RASLO RADIO SI	[slo]	Yes
+11637	H	Europe B	1923	TV	In Life	[bul]	Yes
+11678	H	Europe B	87	TV	Nova 24 TV	[slo]	Yes
+11678	H	Europe B	132	TV	Posavina TV	[bos]	Yes
+11678	H	Europe B	215	TV	Laudato TV	[cro]	Yes
+11678	H	Europe B	430	TV	SPTV	[cro]	Yes
+12543	V	Europe B	9	TV	Zico TV	[alb]	Yes
+12543	V	Europe B	10	TV	RTV 21 M	[alb]	Yes
+12543	V	Europe B	11	R	Radio 21 Kosovo	[alb]	Yes
+12543	V	Europe B	12	R	Radio Dukagjini	[alb]	Yes
+12593	V	Europe B	1	TV	DM Sat	[ser]	Yes
+12605	H	Europe B	4520	TV	Orange Info (Slovakia)	[slk]	Yes
+12639	H	Europe B	110	TV	RTSH 1 HD	[alb]	Yes
+12639	H	Europe B	120	TV	RTSH 3	[alb]	Yes
+12639	H	Europe B	130	TV	RTSH Plus	[alb]	Yes
+12639	H	Europe B	140	TV	RTSH 24	[alb]	Yes
+12639	H	Europe B	150	TV	RTSH Shqip	[alb]	Yes
+12639	H	Europe B	160	TV	RTSH Muzike	[alb]	Yes
+12639	H	Europe B	170	R	Radio Tirana 1	[alb]	Yes
+12639	H	Europe B	180	R	Radio Tirana 2	[eng]	Yes
+12639	H	Europe B	190	R	Radio Tirana Internacional	[eng]	Yes
+12639	H	Europe B	200	R	Radio Tirana Klasik	[alb]	Yes
+12639	H	Europe B	220	R	Radio Tirana Jazz	[alb]	Yes
+12643	V	Europe B	11	TV	Digi 24	[rom]	Yes
+12643	V	Europe B	12	TV	Etno TV	[rom]	Yes
+12643	V	Europe B	21	TV	TVR Cluj	[rom]	Yes
+12643	V	Europe B	22	TV	TVR Craiova	[rom]	Yes
+12643	V	Europe B	23	TV	TVR Iasi	[rom]	Yes
+12643	V	Europe B	24	TV	TVR Timisoara	[rom]	Yes
+12643	V	Europe B	25	TV	TVR Tirgu Mures	[rom]	Yes
+12643	V	Europe B	101	R	Radio Trinitas	[rom]	Yes
+12643	V	Europe B	102	R	Radio Reintregirea	[rom]	Yes
+12660	H	Europe B	1	TV	SNAI Live		Yes
+12680	H	Europe B	17627	R	JOE FM BU	[ned]	Yes
+12694	H	Europe B	1	TV	SNAI Quad Race	[ita]	Yes
+12699	H	Europe B	5	TV	SNAI Virtuali 2		Yes
+12699	H	Europe B	55	TV	SNAI Virtuali 3		Yes
+12699	H	Europe B	57	TV	SNAI Virtuali 1	[ita]	Yes
+12699	H	Europe B	100	TV	CH 100 - TEST		Yes
+12717	H	Europe B	15	R	National FM	[rom]	Yes
+12717	H	Europe B	16	R	RFI Romania		Yes
+12717	H	Europe B	23	R	Favorit FM	[rom]	Yes
+12717	H	Europe B	32	TV	Favorit TV	[rom]	Yes
+12717	H	Europe B	88	TV	Alfa Omega TV	[rom]	Yes
+12737	H	Europe B	900	TV	Realitatea Plus	[rom]	Yes

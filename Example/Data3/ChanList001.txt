@@ -1,0 +1,148 @@
+Freq	Pol	Beam	SID	Type	Name	Lang	FTA
+10762	H	E16A Europe B	902	TV	Top News	[alb]	Yes
+10762	H	E16A Europe B	1300	TV	BCTV Europe	[alb]	Yes
+10804	H	E16A Africa	101	TV	Vision 4	[fre]	Yes
+10804	H	E16A Africa	102	TV	2S TV	[fre]	Yes
+10804	H	E16A Africa	103	TV	Alwilayah TV Hausa	[hau]	Yes
+10804	H	E16A Africa	104	TV	CRTV	[fre]	Yes
+10804	H	E16A Africa	105	TV	Hadi TV 5	[hau]	Yes
+10804	H	E16A Africa	107	TV	Emirem TV (Eglise Missionnaire du Réveil Mondial)	[fre]	Yes
+10804	H	E16A Africa	108	TV	CRTV News	[fre]	Yes
+10804	H	E16A Africa	111	TV	Canal 2 English	[eng]	Yes
+10804	H	E16A Africa	112	TV	Wisal Hausa TV	[hau]	Yes
+10804	H	E16A Africa	113	TV	Label TV	[fre]	Yes
+10804	H	E16A Africa	114	TV	Christ Live	[fre]	Yes
+10804	H	E16A Africa	115	TV	RTB TV	[fre]	Yes
+10804	H	E16A Africa	117	TV	Vision 4 RCA	[fre]	Yes
+10804	H	E16A Africa	121	TV	LMTV (Lumiere du Monde TV)	[fre]	Yes
+10804	H	E16A Africa	131	TV	Arewa24	[hau]	Yes
+10804	H	E16A Africa	132	TV	Burkina Info TV	[fre]	Yes
+10804	H	E16A Africa	201	TV	ORTB TV Benin	[fre]	Yes
+10804	H	E16A Africa	204	TV	Golfe TV International	[fre]	Yes
+10804	H	E16A Africa	205	TV	France 24 Français	[fre]	Yes
+10804	H	E16A Africa	206	TV	Asonga Telévision	[spa]	Yes
+10804	H	E16A Africa	343	TV	Equinoxe TV	[fre]	Yes
+10804	H	E16A Africa	345	TV	Canal 2 International	[fre]	Yes
+10804	H	E16A Africa	346	TV	Sweet Radio Vision	[fre]	Yes
+10804	H	E16A Africa	361	TV	ImpactTV	[fre]	Yes
+10804	H	E16A Africa	371	TV	Boom TV	[fre]	Yes
+10804	H	E16A Africa	372	TV	STV	[fre]	Yes
+10804	H	E16A Africa	470	TV	Amen TV Congo-Kinshasa	[fre]	Yes
+10804	H	E16A Africa	482	TV	Power TV Benin	[fre]	Yes
+10804	H	E16A Africa	502	TV	Canal 2 Movies	[fre]	Yes
+10804	H	E16A Africa	505	TV	UbizNews	[fre]	Yes
+10804	H	E16A Africa	601	TV	New Africa TV Hausa	[hau]	Yes
+10804	H	E16A Africa	620	TV	Stad'Afric	[fre]	Yes
+10804	H	E16A Africa	640	TV	Voxafrica Afrique	[fre]	Yes
+10804	H	E16A Africa	650	TV	Eden TV	[fre]	Yes
+10804	H	E16A Africa	670	TV	TVC Benin	[fre]	Yes
+10804	H	E16A Europe B	2000	TV	Euronews Albania HD	[alb]	Yes
+10928	H	E16A Europe B	1102	TV	Wness TV	[bul]	Yes
+11002	H	E16A Africa	1	TV	Afrique Média	[fre]	Yes
+11002	H	E16A Africa	2	TV	Hope TV Benin	[fre]	Yes
+11002	H	E16A Africa	3	TV	Solution TV	[fre]	Yes
+11002	H	E16A Africa	4	TV	Liberty TV Cameroon	[fre]	Yes
+11002	H	E16A Africa	5	TV	LTM TV	[fre]	Yes
+11002	H	E16A Africa	6	TV	Jesus Savior TV		Yes
+11002	H	E16A Africa	7	TV	Misericorde TV	[fre]	Yes
+11002	H	E16A Africa	9	TV	Transformers TV	[fre]	Yes
+11002	H	E16A Africa	11	TV	Revival Channel	[fre]	Yes
+11040	H	E16A Africa	1	TV	Divine TV	[eng]	Yes
+11040	H	E16A Africa	2	TV	Zoe Channel	[fre]	Yes
+11040	H	E16A Africa	3	TV	African Movie Star	[fre]	Yes
+11040	H	E16A Africa	4	TV	Capital Santé TV	[fre]	Yes
+11040	H	E16A Africa	5	TV	Nour TV Gabon	[fre]	Yes
+11055	V	E16A Europe B	1154	TV	CT 24 HD	[cze]	Yes
+11139	H	E16A Europe B	5000	TV	Top Channel	[alb]	Yes
+11139	H	E16A Europe B	5010	TV	Top News	[alb]	Yes
+11151	V	E16A Europe B	64	TV	Pink Folk 1	[srp]	Yes
+11262	H	E16A Europe B	5	TV	BN Music HD	[srp]	Yes
+11262	H	E16A Europe B	7	TV	RTRS (sometimes VideoGuard)	[ser]	Yes
+11262	H	E16A Europe B	17	TV	RTRS Plus (sometimes VideoGuard)	[ser]	Yes
+11303	H	E16A Europe A	1	TV	Al Jazeera Balkans HD	[bos]	Yes
+11303	H	E16A Europe A	6	TV	Yu Planet Bec	[srp]	Yes
+11303	H	E16A Europe A	7	TV	OBN Open Broadcast Network	[bos]	Yes
+11303	H	E16A Europe A	9	TV	Pro TV International	[rum]	Yes
+11303	H	E16A Europe A	15	TV	Fashion TV HD Europe	[eng]	Yes
+11303	H	E16A Europe A	16	TV	TV Duga Plus	[srp]	Yes
+11345	H	E16A Europe A	1001	TV	OTV Valentino	[bos]	Yes
+11345	H	E16A Europe A	1004	TV	K::CN Svet + 3	[srp]	Yes
+11345	H	E16A Europe A	1007	TV	K::CN Kopernikus 1		Yes
+11345	H	E16A Europe A	1017	TV	K::CN Music 2	[srp]	Yes
+11356	H	E16A Africa	3101	TV	RTS 1	[fre]	Yes
+11356	H	E16A Africa	3102	TV	Télé Tchad	[ara]	Yes
+11356	H	E16A Africa	3103	TV	Equinoxe TV	[fre]	Yes
+11356	H	E16A Africa	3104	TV	Alwilayah TV Hausa	[hau]	Yes
+11356	H	E16A Africa	3106	TV	Divin Amour TV Cote d'Ivoire	[fre]	Yes
+11356	H	E16A Africa	3113	TV	Sikka TV	[fre]	Yes
+11426	V	E16A Europe B	128	TV	Fax News	[alb]	Yes
+11426	V	E16A Europe B	999	TV	Kanali 7	[alb]	Yes
+11512	V	E16A Europe B	6	TV	TVR Int	[rum]	Yes
+11595	H	E16A Europe B	103	TV	Z1 (TV Sljeme)	[hrv]	Yes
+11595	H	E16A Europe B	155	TV	TVCG Sat HD	[srp]	Yes
+11637	H	E16A Europe B	1923	TV	TV Bulgare	[bul]	Yes
+11637	V	E16A Europe A	3404	TV	HRT 4 HD	[hrv]	Yes
+11637	V	E16A Europe A	3405	TV	HRT Int	[hrv]	Yes
+11637	V	E16A Europe A	3431	TV	TV Slovenija 1 HD (sometimes encrypted)	[slv]	Yes
+11637	V	E16A Europe A	3432	TV	TV Slovenija 2 HD (sometimes encrypted)	[slv]	Yes
+11637	V	E16A Europe A	3433	TV	TV Slovenija 3 HD (sometimes encrypted)	[slv]	Yes
+11678	H	E16A Europe B	87	TV	Nova 24 TV	[slv]	Yes
+11678	H	E16A Europe B	132	TV	Posavina TV	[bos]	Yes
+11678	H	E16A Europe B	215	TV	Laudato TV	[hrv]	Yes
+12543	V	E16A Europe B	9	TV	Zico TV	[alb]	Yes
+12543	V	E16A Europe B	10	TV	RTV 21 Macedonia (TV21 Maqedoni)	[alb]	Yes
+12562	H	E16A Africa	201	TV	TFM Senegal	[fre]	Yes
+12562	H	E16A Africa	202	TV	L'Obs TV	[fre]	Yes
+12562	H	E16A Africa	203	TV	TFM Religions	[fre]	Yes
+12562	H	E16A Africa	205	TV	New World Sport 1	[fre]	Yes
+12562	H	E16A Africa	206	TV	TVT	[fre]	Yes
+12562	H	E16A Africa	207	TV	New World Info Fr	[fre]	Yes
+12562	H	E16A Africa	208	TV	New World Cinema	[fre]	Yes
+12562	H	E16A Africa	211	TV	Info TV Cameroun	[fre]	Yes
+12562	H	E16A Africa	212	TV	DBS TV	[fre]	Yes
+12562	H	E16A Africa	213	TV	LoveWorld Plus	[eng]	Yes
+12562	H	E16A Africa	214	TV	Dieu TV	[fre]	Yes
+12562	H	E16A Africa	216	TV	BFI TV	[fre]	Yes
+12562	H	E16A Africa	217	TV	Cash Chrono	[fre]	Yes
+12562	H	E16A Africa	219	TV	New World Magazine	[fre]	Yes
+12562	H	E16A Africa	220	TV	Unafrica TV	[fre]	Yes
+12562	H	E16A Africa	221	TV	La Beninoise TV		Yes
+12562	H	E16A Africa	222	TV	La Chreteinne TV	[fre]	Yes
+12562	H	E16A Africa	223	TV	QTV Gambia	[fre]	Yes
+12562	H	E16A Africa	228	TV	BB24 (Bénin Business 24)	[fre]	Yes
+12562	H	E16A Africa	230	TV	BFM Paris	[fre]	Yes
+12562	H	E16A Africa	231	TV	BFM Business	[fre]	Yes
+12562	H	E16A Africa	232	TV	Kombat Sport	[fre]	Yes
+12562	H	E16A Africa	233	TV	SFR Sport 4	[fre]	Yes
+12562	H	E16A Africa	234	TV	BFM TV	[fre]	Yes
+12562	H	E16A Africa	236	TV	SMTV	[eng]	Yes
+12562	H	E16A Africa	237	TV	New World Info En	[eng]	Yes
+12562	H	E16A Africa	238	TV	A12 TV	[fre]	Yes
+12562	H	E16A Africa	239	TV	New World Transnat		Yes
+12562	H	E16A Africa	240	TV	New World Muzik		Yes
+12562	H	E16A Africa	241	TV	New World Sport 2		Yes
+12562	H	E16A Africa	243	TV	EMCI TV	[fre]	Yes
+12562	H	E16A Africa	244	TV	Miracle TV Ivory Coast	[fre]	Yes
+12562	H	E16A Africa	245	TV	Distinction TV	[fre]	Yes
+12562	H	E16A Africa	246	TV	Chandelier TV	[fre]	Yes
+12562	H	E16A Africa	250	TV	Casarhema TV	[fre]	Yes
+12639	H	E16A Europe B	110	TV	RTSH Sat HD	[alb]	Yes
+12639	H	E16A Europe B	120	TV	RTSH 3	[alb]	Yes
+12639	H	E16A Europe B	130	TV	RTSH Plus	[alb]	Yes
+12639	H	E16A Europe B	140	TV	RTSH 24 HD	[alb]	Yes
+12639	H	E16A Europe B	150	TV	RTSH Shqip	[alb]	Yes
+12639	H	E16A Europe B	160	TV	RTSH Muzike	[alb]	Yes
+12643	V	E16A Europe B	11	TV	Digi 24	[rum]	Yes
+12643	V	E16A Europe B	12	TV	Etno TV	[rum]	Yes
+12643	V	E16A Europe B	21	TV	TVR Cluj	[rum]	Yes
+12643	V	E16A Europe B	22	TV	TVR Craiova	[rum]	Yes
+12643	V	E16A Europe B	23	TV	TVR Iasi	[rum]	Yes
+12643	V	E16A Europe B	24	TV	TVR Timisoara	[rum]	Yes
+12643	V	E16A Europe B	25	TV	TVR Tirgu-Mures	[rum]	Yes
+12660	H	E16A Europe B	2	TV	Snai Tech HD	[ita]	Yes
+12693	H	E16A Europe B	1	TV	SNAI Quad Race	[ita]	Yes
+12699	H	E16A Europe B	5	TV	SNAI Sport Virtuali 2 HD	[ita]	Yes
+12699	H	E16A Europe B	55	TV	SNAI Sport Virtuali 3 HD	[ita]	Yes
+12699	H	E16A Europe B	57	TV	SNAI Virtuali 1	[ita]	Yes
+12717	H	E16A Europe B	32	TV	Favorit TV	[rum]	Yes
+12717	H	E16A Europe B	88	TV	Alpha Omega TV	[rom]	Yes

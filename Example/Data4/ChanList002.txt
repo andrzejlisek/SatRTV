@@ -1,0 +1,434 @@
+Freq	Pol	Beam	SID	Type	Name	Lang	FTA
+10744	H	1KR	28722	TV	One (ARD)	[000][ger]	Yes
+10744	H	1KR	28724	TV	ARTE Deutsch	[fre][ger]	Yes
+10744	H	1KR	28725	TV	Phoenix	[ger]	Yes
+10773	H	1MEurope	21103	TV	QVC HD	[ger]	Yes
+10773	H	1MEurope	21104	TV	HSE24 HD	[ger]	Yes
+10773	H	1MEurope	21113	TV	Genius Plus TV	[ger]	Yes
+10788	V	1KR	30372	TV	Canal Orbe 21	[spa]	Yes
+10803	H	1KR	5501	TV	HSE 24 Extra HD	[ger]	Yes
+10803	H	1KR	5502	TV	123tv HD	[ger]	Yes
+10803	H	1KR	5504	TV	QVC 2 Deutschland HD	[ger]	Yes
+10847	V	1MEurope	30102	TV	C RADIOS	[spa]	Yes
+10847	V	1MEurope	30104	R	Cadena SER	[spa]	Yes
+10847	V	1MEurope	30104	R	M 80 Radio	[spa]	Yes
+10847	V	1MEurope	30104	R	Los 40 Principales	[spa]	Yes
+10847	V	1MEurope	30104	R	Cadena Dial	[spa]	Yes
+10847	V	1MEurope	30104	R	Radiolé	[spa]	Yes
+10847	V	1MEurope	30104	R	Máxima FM	[spa]	Yes
+10847	V	1MEurope	30104	R	Sinfo Radio	[spa]	Yes
+10847	V	1MEurope	30104	R	Euskadi Irratia	[bas]	Yes
+10847	V	1MEurope	30104	R	Radio Euskadi	[spa]	Yes
+10847	V	1MEurope	30104	R	CanalSur Radio	[spa]	Yes
+10847	V	1MEurope	30104	R	ICat FM	[cat]	Yes
+10847	V	1MEurope	30104	R	Catalunya Informació	[cat]	Yes
+10847	V	1MEurope	30104	R	Catalunya Música	[cat]	Yes
+10847	V	1MEurope	30104	R	Catalunya Ràdio	[cat]	Yes
+10847	V	1MEurope	30104	R	RADIOS ESP	[bas][cat][spa]	Yes
+10847	V	1MEurope	30107	TV	LTC	[spa]	Yes
+10847	V	1MEurope	30110	TV	Bajo Demanda	[spa]	Yes
+10847	V	1MEurope	30121	TV	CANAL GUÍA	[spa]	Yes
+10847	V	1MEurope	30128	TV	C TAQUILLA	[spa]	Yes
+10847	V	1MEurope	30169	TV	CONTRATO	[spa]	Yes
+10891	H	1KR	10350	TV	rbb Brandenburg HD	[ger][mis]	Yes
+10891	H	1KR	10351	TV	rbb Berlin HD	[ger][mis]	Yes
+10891	H	1KR	10352	TV	MDR Sachsen HD	[ger][mis]	Yes
+10891	H	1KR	10353	TV	MDR S-Anhalt HD	[ger][mis]	Yes
+10891	H	1KR	10354	TV	MDR Thüringen HD	[ger][mis]	Yes
+10891	H	1KR	10355	TV	hr-fernsehen HD	[ger][mis]	Yes
+10921	H	1KR	33	TV	Family TV	[ger]	Yes
+10921	H	1KR	35	TV	Zee One Deutschland	[ger]	Yes
+10921	H	1KR	37	TV	Sky Sport News Deutschland	[ger]	Yes
+10921	H	1KR	39	TV	MediaShop-Meine Einkaufswelt	[ger]	Yes
+10921	H	1KR	39	TV	eoTV (European Originals)	[ger]	Yes
+10964	H	1LFSS	10101	TV	Zee One HD Deutschland	[ger]	Yes
+10964	H	1LFSS	10102	TV	Sparhandy TV 2 HD	[ger]	Yes
+10964	H	1LFSS	10104	TV	Channel 21 HD	[ger]	Yes
+10964	H	1LFSS	10105	TV	QVC Style HD	[ger]	Yes
+10994	H	1LFSS	1	TV	SES UHD Demo Channel	[eng]	Yes
+11009	V	1KR	2200	TV	SES Demo HD	[eng]	Yes
+11053	H	1LFSS	10375	TV	tagesschau24 HD	[ger]	Yes
+11053	H	1LFSS	10376	TV	One HD (ARD)	[ger][mis]	Yes
+11053	H	1LFSS	10378	TV	SR Fernsehen HD	[ger][mis]	Yes
+11068	V	1LFSS	4	TV	Córdoba Internacional TV	[spa]	Yes
+11068	V	1LFSS	1150	TV	RT Español	[spa]	Yes
+11068	V	1LFSS	31301	TV	TV Record	[por]	Yes
+11068	V	1LFSS	31301	R	Canal Sur Radio	[spa]	Yes
+11068	V	1LFSS	31304	TV	Telesur	[spa]	Yes
+11068	V	1LFSS	31305	TV	TBN España	[spa]	Yes
+11068	V	1LFSS	31306	TV	Galicia TV Europa	[glg]	Yes
+11068	V	1LFSS	31307	TV	I24 News	[fre]	Yes
+11112	H	1LFSS	12501	TV	Fashion 4K	[eng]	Yes
+11186	V	1KR	4310	TV	TV TRWAM	[pol]	Yes
+11186	V	1KR	4311	R	Radio Maryja	[pol]	Yes
+11229	V	1KR	5001	TV	BBC World News Europe HD	[eng]	Yes
+11229	V	1KR	5010	TV	Insight HD	[eng]	Yes
+11229	V	1KR	5021	TV	NHK World TV HD	[eng]	Yes
+11229	V	1KR	5031	TV	Al Jazeera English HD	[eng]	Yes
+11244	H	1KR	13222	TV	Volksmusik	[ger]	Yes
+11244	H	1KR	13224	TV	Bibel TV HD	[ger]	Yes
+11244	H	1KR	13225	TV	Schau TV	[ger]	Yes
+11244	H	1KR	13226	TV	StarParadies AT	[ger]	Yes
+11244	H	1KR	13227	TV	Hope Channel Deutsch HD info card	[ger]	Yes
+11244	H	1KR	13231	TV	Freenet Shopping	[ger]	Yes
+11273	H	1KR	13313	TV	Schweiz 5	[ger]	Yes
+11273	H	1KR	13314	TV	oe24 TV	[ger]	Yes
+11288	V	Europe	4216	TV	RAI News 24	[ita]	Yes
+11288	V	Europe	4230	TV	QVC Deutschland UHD	[ger]	Yes
+11303	H	1KR	4913	TV	ServusTV HD Oesterreich	[eng][ger]	Yes
+11303	H	1KR	4914	TV	ServusTV HD Deutschland	[eng][ger]	Yes
+11347	V	1LFSS	11150	TV	3sat HD	[ger][mis][mul]	Yes
+11347	V	1LFSS	11160	TV	KiKA HD	[ger][mis]	Yes
+11347	V	1LFSS	11170	TV	ZDFinfo HD	[ger][mis][mul]	Yes
+11362	H	1KR	11110	TV	ZDF HD	[ger][mis][mul]	Yes
+11362	H	1KR	11130	TV	zdf_neo HD	[ger][mis][mul]	Yes
+11377	V	1LFSS	6380	TV	Telesur HD	[spa]	Yes
+11377	V	1LFSS	6381	TV	RT News HD	[eng]	Yes
+11377	V	1LFSS	6382	TV	RT Español HD	[spa]	Yes
+11391	H	1KR	2	TV	QVC UK	[eng]	Yes
+11391	H	1KR	12400	TV	RTL 2 CH	[ger]	Yes
+11391	H	1KR	22301	TV	QVC Extra UK	[eng]	Yes
+11391	H	1KR	22302	TV	QVC Style UK	[eng]	Yes
+11391	H	1KR	22303	TV	QVC Beauty UK	[eng]	Yes
+11421	H	1LFSS	4702	TV	Handshake 2 Deutschland info card	[ger]	Yes
+11421	H	1LFSS	4712	TV	Sophia TV	[ger]	Yes
+11421	H	1LFSS	4713	TV	Die Neue Zeit TV	[ger]	Yes
+11494	H	1LFSS	10301	TV	Das Erste HD	[ger][mis]	Yes
+11494	H	1LFSS	10302	TV	arte HD	[fre][ger][mis][mul]	Yes
+11494	H	1LFSS	10303	TV	SWR BW HD	[ger][mis]	Yes
+11494	H	1LFSS	10304	TV	SWR RP HD	[ger][mis]	Yes
+11509	V	1KR	7008	TV	Cubavisión Internacional	[spa]	Yes
+11509	V	1KR	7009	TV	Al Jazeera Channel	[ara]	Yes
+11509	V	1KR	7010	TV	Record Internacional Europa	[por]	Yes
+11509	V	1KR	7011	TV	Arirang World	[kor]	Yes
+11538	V	1LFSS	6904	TV	Russia Today	[eng]	Yes
+11538	V	1LFSS	6905	TV	France 24 Français	[fre]	Yes
+11538	V	1LFSS	6906	TV	France 24 English	[eng]	Yes
+11538	V	1LFSS	6912	TV	CCTV9 Documentary	[fre]	Yes
+11538	V	1LFSS	6913	TV	CCTV F	[fre]	Yes
+11538	V	1LFSS	6914	TV	CCTV News	[eng]	Yes
+11538	V	1LFSS	6915	TV	TV 5 Monde Europe	[fre]	Yes
+11538	V	1LFSS	6918	TV	TRT World HD	[eng]	Yes
+11553	H	Europe	5800	TV	Augsburg TV HD	[ger]	Yes
+11553	H	Europe	5801	TV	München TV HD	[ger]	Yes
+11553	H	Europe	5802	TV	RFO HD (18-24)	[ger]	Yes
+11553	H	Europe	5803	TV	TV Allgäu HD	[ger]	Yes
+11553	H	Europe	5805	TV	Lokal TV Portal HD	[ger]	Yes
+11582	H	1LFSS	10325	TV	BR Süd HD	[ger][mis]	Yes
+11582	H	1LFSS	10326	TV	BR Nord HD	[ger][mis]	Yes
+11582	H	1LFSS	10327	TV	NDR FS NDS HD	[ger][mis]	Yes
+11582	H	1LFSS	10328	TV	NDR FS MV HD	[ger][mis]	Yes
+11582	H	1LFSS	10329	TV	NDR FS HH HD	[ger][mis]	Yes
+11582	H	1LFSS	10330	TV	NDR FS SH HD	[ger][mis]	Yes
+11582	H	1LFSS	10331	TV	PHOENIX HD	[ger][mul]	Yes
+11597	V	1LFSS	10030	TV	CNBC Europe	[eng]	Yes
+11597	V	1LFSS	10050	TV	BBC World News	[eng]	Yes
+11597	V	1LFSS	10067	TV	Bloomberg TV Europe	[eng]	Yes
+11597	V	1LFSS	10080	TV	SonLife Broadcasting Network	[eng]	Yes
+11597	V	1LFSS	10082	TV	Algeria 3	[ara]	Yes
+11597	V	1LFSS	10083	TV	Canal Algérie	[ara]	Yes
+11612	H	1MEurope	5101	TV	VR Demo (Virtual Reality)	[ger]	Yes
+11612	H	1MEurope	5113	TV	TRT Türk	[tur]	Yes
+11612	H	1MEurope	5127	TV	R1 Extra	[rus]	Yes
+11612	H	1MEurope	5130	TV	Yol TV HD	[tur]	Yes
+11612	H	1MEurope	5601	TV	TV Rus	[rus]	Yes
+11627	V	1MWide	0	TV	Al Jazeera English	[eng]	Yes
+11627	V	1MWide	4401	TV	TVE Internacional Europe	[000][spa]	Yes
+11627	V	1MWide	4402	TV	Canal 24 Horas	[000][spa]	Yes
+11627	V	1MWide	4422	TV	CNN International Europe	[eng]	Yes
+11627	V	1MWide	4430	TV	DW-TV	[ger]	Yes
+11627	V	1MWide	4435	TV	DW Arabia	[ara]	Yes
+11671	H	1KR	5304	TV	Puls 24 HD	[ger]	Yes
+11671	H	1KR	5310	TV	Sat.1 Gold Austria	[ger]	Yes
+11671	H	1KR	5311	TV	ProSieben MAXX Austria	[ger]	Yes
+11686	V	1KR	30205	TV	Aragón TV	[spa]	Yes
+11836	H	PE	28106	TV	Das Erste	[ger][mis]	Yes
+11836	H	PE	28107	TV	Bayerisches FS Süd	[ger][mis]	Yes
+11836	H	PE	28108	TV	hr Fernsehen	[ger][mis]	Yes
+11836	H	PE	28110	TV	Bayerisches FS Nord	[ger][mis]	Yes
+11836	H	PE	28111	TV	WDR Fernsehen Köln	[ger][mis]	Yes
+11836	H	PE	28113	TV	SWR Fernsehen BW	[ger]	Yes
+11856	V	1MWide	8206	TV	M6 BOUTIQUE	[fre]	Yes
+11954	H	PE	28006	TV	ZDF	[ger][mis][mul]	Yes
+11954	H	PE	28007	TV	3sat	[ger][mis][mul]	Yes
+11954	H	PE	28008	TV	KiKA	[ger][mis]	Yes
+11954	H	PE	28011	TV	ZDFinfo	[ger][mis][mul]	Yes
+11954	H	PE	28012	R	DKULTUR	[ger]	Yes
+11954	H	PE	28013	R	DLF	[ger]	Yes
+11954	H	PE	28014	TV	zdf_neo	[ger][mis][mul]	Yes
+11954	H	PE	28017	R	DRadio Wissen	[ger]	Yes
+11973	V	1MWide	28676	TV	Viva	[ger]	Yes
+11973	V	1MWide	28680	TV	Nick Deutschland	[ger]	Yes
+12032	H	PE	18	TV	Sky Select	[000][ger]	Yes
+12051	V	PE	20001	TV	ProSieben Schweiz	[ger]	Yes
+12051	V	PE	20002	TV	ProSieben Austria	[ger]	Yes
+12051	V	PE	20003	TV	Kabel 1 Schweiz	[ger]	Yes
+12051	V	PE	20004	TV	Kabel 1 Austria	[ger]	Yes
+12051	V	PE	20005	TV	SAT.1 A	[ger]	Yes
+12051	V	PE	20006	TV	SAT.1 CH	[ger]	Yes
+12051	V	PE	20008	TV	SAT.1 HH/SH	[ger]	Yes
+12051	V	PE	20009	TV	Sat. 1 NS/Bremen	[ger]	Yes
+12051	V	PE	20010	TV	SAT.1 RhlPf/Hessen	[ger]	Yes
+12110	H	1MEurope	28205	TV	rbb Brandenburg	[ger][mis]	Yes
+12110	H	1MEurope	28206	TV	rbb Berlin	[ger][mis]	Yes
+12110	H	1MEurope	28221	TV	ARD-TEST-1	[fre][ger]	Yes
+12110	H	1MEurope	28224	TV	NDR FS MV	[ger][mis]	Yes
+12110	H	1MEurope	28225	TV	NDR FS HH	[ger][mis]	Yes
+12110	H	1MEurope	28226	TV	NDR FS NDS	[ger][mis]	Yes
+12110	H	1MEurope	28227	TV	NDR FS SH	[ger][mis]	Yes
+12110	H	1MEurope	28228	TV	MDR Sachsen	[ger][mis]	Yes
+12110	H	1MEurope	28229	TV	MDR S-Anhalt	[ger][mis]	Yes
+12110	H	1MEurope	28230	TV	MDR Thüringen	[ger][mis]	Yes
+12110	H	1MEurope	28231	TV	SWR Fernsehen RP	[ger][mis]	Yes
+12129	V	PE	9910	TV	TV 5 Monde FBS HD	[fre]	Yes
+12148	H	PE	53	TV	N24 Doku Austria	[ger]	Yes
+12148	H	PE	54	TV	Beauty TV	[ger]	Yes
+12148	H	PE	60	TV	Comedy Central Österreich (20.15-06.00)	[ger]	Yes
+12148	H	PE	60	TV	Viva Österreich	[ger]	Yes
+12148	H	PE	61	TV	Nick Night Austria	[ger]	Yes
+12148	H	PE	61	TV	Nick Österreich (06.00-20.15)	[ger]	Yes
+12148	H	PE	65	TV	Deluxe Music	[ger]	Yes
+12148	H	PE	70	TV	BB-MV Lokal-TV info card	[ger]	Yes
+12148	H	PE	71	TV	Hope Channel Deutsch	[ger]	Yes
+12148	H	PE	160	R	Rock Antenne	[ger]	Yes
+12148	H	PE	161	R	ERF Radio	[ger]	Yes
+12148	H	PE	169	R	Sunshine Live	[ger]	Yes
+12148	H	PE	170	R	Antenne Bayern	[ger]	Yes
+12148	H	PE	176	R	2255 Live	[ger]	Yes
+12148	H	PE	514	TV	JML Direct Shop	[ger]	Yes
+12148	H	PE	765	TV	Pearl TV	[ger]	Yes
+12148	H	PE	769	TV	Channel 21 Express	[ger]	Yes
+12148	H	PE	774	TV	God TV Europe	[eng]	Yes
+12148	H	PE	775	TV	MediaShop - Meine Einkaufswelt	[ger]	Yes
+12148	H	PE	775	TV	Der Schmuckkanal	[ger]	Yes
+12188	H	1MEurope	12003	TV	RTL Television	[ger]	Yes
+12188	H	1MEurope	12004	TV	RTL Regional NRW	[ger]	Yes
+12188	H	1MEurope	12005	TV	RTL HB NDS	[ger]	Yes
+12188	H	1MEurope	12006	TV	RTL FS (TV Bayern Live)	[ger]	Yes
+12188	H	1MEurope	12020	TV	RTL2	[ger]	Yes
+12188	H	1MEurope	12040	TV	SUPER RTL	[ger]	Yes
+12188	H	1MEurope	12041	TV	Vox Schweiz	[ger]	Yes
+12188	H	1MEurope	12060	TV	VOX	[ger]	Yes
+12188	H	1MEurope	12061	TV	RTLNITRO	[ger]	Yes
+12188	H	1MEurope	12080	TV	RTLplus Deutschland	[ger]	Yes
+12188	H	1MEurope	12080	TV	Channel 21	[ger]	Yes
+12188	H	1MEurope	12090	TV	n-tv	[ger]	Yes
+12226	H	1MEurope	28800	TV	RTL Österreich	[ger]	Yes
+12226	H	1MEurope	28805	TV	Vox Österreich	[ger]	Yes
+12226	H	1MEurope	28810	TV	RTL 2 Österreich	[ger]	Yes
+12226	H	1MEurope	28815	TV	Super RTL Österreich	[ger]	Yes
+12226	H	1MEurope	28820	TV	VOXup	[ger]	Yes
+12226	H	1MEurope	31200	TV	Eurosport Deutschland	[ger]	Yes
+12226	H	1MEurope	31210	TV	HSE 24 Extra	[ger]	Yes
+12226	H	1MEurope	31220	TV	EuroNews	[ara][eng][fre][ger][ita][per][por][rus][spa][tur]	Yes
+12266	H	1MEurope	28400	R	Bayern 1	[ger]	Yes
+12266	H	1MEurope	28401	R	Bayern 2	[ger]	Yes
+12266	H	1MEurope	28402	R	BAYERN 3	[ger]	Yes
+12266	H	1MEurope	28403	R	BR-KLASSIK	[ger]	Yes
+12266	H	1MEurope	28404	R	B5 aktuell	[ger]	Yes
+12266	H	1MEurope	28405	R	BAYERN plus	[ger]	Yes
+12266	H	1MEurope	28406	R	PULS	[ger]	Yes
+12266	H	1MEurope	28408	R	B5 plus	[ger]	Yes
+12266	H	1MEurope	28419	R	hr1	[ger]	Yes
+12266	H	1MEurope	28420	R	hr2	[ger]	Yes
+12266	H	1MEurope	28421	R	hr3	[ger]	Yes
+12266	H	1MEurope	28422	R	hr4	[ger]	Yes
+12266	H	1MEurope	28423	R	YOU FM	[ger]	Yes
+12266	H	1MEurope	28424	R	hr-iNFO	[ger]	Yes
+12266	H	1MEurope	28428	R	MDR1 SACHSEN	[ger]	Yes
+12266	H	1MEurope	28429	R	MDR S-ANHALT	[ger]	Yes
+12266	H	1MEurope	28430	R	MDR THÜRINGEN	[ger]	Yes
+12266	H	1MEurope	28431	R	MDR FIGARO	[ger]	Yes
+12266	H	1MEurope	28432	R	MDR Jump	[ger]	Yes
+12266	H	1MEurope	28433	R	MDR SPUTNIK	[ger]	Yes
+12266	H	1MEurope	28434	R	MDR INFO	[ger]	Yes
+12266	H	1MEurope	28435	R	MDR KLASSIK	[ger]	Yes
+12266	H	1MEurope	28437	R	NDR 2	[ger]	Yes
+12266	H	1MEurope	28438	R	NDR Kultur	[ger]	Yes
+12266	H	1MEurope	28439	R	NDR Info	[ger]	Yes
+12266	H	1MEurope	28440	R	N-Joy	[ger]	Yes
+12266	H	1MEurope	28441	R	NDR 90.3	[ger]	Yes
+12266	H	1MEurope	28442	R	NDR1WelleNord	[ger]	Yes
+12266	H	1MEurope	28443	R	NDR 1 Radio MV	[ger]	Yes
+12266	H	1MEurope	28444	R	NDR 1 Nieders.	[ger]	Yes
+12266	H	1MEurope	28445	R	NDR Info Spez.	[ger]	Yes
+12266	H	1MEurope	28446	R	NDR Blue	[ger]	Yes
+12266	H	1MEurope	28448	R	Bremen Eins	[ger]	Yes
+12266	H	1MEurope	28449	R	Nordwestradio	[ger]	Yes
+12266	H	1MEurope	28450	R	Bremen Vier	[ger]	Yes
+12266	H	1MEurope	28452	R	Inforadio	[ger]	Yes
+12266	H	1MEurope	28453	R	Kulturradio	[ger]	Yes
+12266	H	1MEurope	28454	R	Antenne Brandenburg	[ger]	Yes
+12266	H	1MEurope	28455	R	radioBERLIN 88.8	[ger]	Yes
+12266	H	1MEurope	28456	R	radioeins	[ger]	Yes
+12266	H	1MEurope	28457	R	Fritz	[ger]	Yes
+12266	H	1MEurope	28461	R	SR 1 Europawelle	[ger]	Yes
+12266	H	1MEurope	28462	R	SR 2 KulturRadio	[ger]	Yes
+12266	H	1MEurope	28463	R	SR 3 Saarlandwelle	[ger]	Yes
+12266	H	1MEurope	28465	R	SWR1 BW	[ger]	Yes
+12266	H	1MEurope	28466	R	SWR1 RP	[ger]	Yes
+12266	H	1MEurope	28467	R	SWR2	[ger]	Yes
+12266	H	1MEurope	28468	R	SWR3	[ger]	Yes
+12266	H	1MEurope	28469	R	SWR4 BW	[ger]	Yes
+12266	H	1MEurope	28470	R	SWR4 RP	[ger]	Yes
+12266	H	1MEurope	28471	R	DASDING	[ger]	Yes
+12266	H	1MEurope	28472	R	SWRinfo	[ger]	Yes
+12266	H	1MEurope	28475	R	1LIVE	[ger]	Yes
+12266	H	1MEurope	28476	R	WDR 2	[ger]	Yes
+12266	H	1MEurope	28477	R	WDR 3	[ger]	Yes
+12266	H	1MEurope	28478	R	WDR 4	[ger]	Yes
+12266	H	1MEurope	28479	R	WDR 5	[ger]	Yes
+12266	H	1MEurope	28480	R	WDR Funkhaus Europa	[ger]	Yes
+12266	H	1MEurope	28481	R	1Live diggi	[ger]	Yes
+12266	H	1MEurope	28482	R	KIRAKA	[ger]	Yes
+12266	H	1MEurope	28483	R	WDR Event	[ger]	Yes
+12266	H	1MEurope	28486	TV	SR Fernsehen	[ger][mis]	Yes
+12266	H	1MEurope	28487	TV	ARD Alpha	[ger][mwl]	Yes
+12324	V	PE	8605	TV	Association Matertel HD	[fre]	Yes
+12344	H	1MEurope	2000	TV	Insight UHD	[eng]	Yes
+12402	V	PE	8703	TV	eSPORTS1 HD	[fre]	Yes
+12402	V	PE	8716	TV	beIN Sports 4K 1 promo	[fre]	Yes
+12422	H	1MEurope	28306	TV	WDR Bielefeld	[ger][mis]	Yes
+12422	H	1MEurope	28307	TV	WDR Dortmund	[ger][mis]	Yes
+12422	H	1MEurope	28308	TV	WDR Düsseldorf	[ger][mis]	Yes
+12422	H	1MEurope	28309	TV	WDR Essen	[ger][mis]	Yes
+12422	H	1MEurope	28310	TV	WDR Münster	[ger][mis]	Yes
+12422	H	1MEurope	28311	TV	WDR Siegen	[ger][mis]	Yes
+12422	H	1MEurope	28325	TV	WDR HD Köln	[ger][mis]	Yes
+12422	H	1MEurope	28326	TV	WDR HD Bielefeld	[ger][mis]	Yes
+12422	H	1MEurope	28327	TV	WDR HD Dortmund	[ger][mis]	Yes
+12422	H	1MEurope	28328	TV	WDR HD Düsseldorf	[ger][mis]	Yes
+12422	H	1MEurope	28329	TV	WDR HD Essen	[ger][mis]	Yes
+12422	H	1MEurope	28330	TV	WDR HD Münster	[ger][mis]	Yes
+12422	H	1MEurope	28331	TV	WDR HD Siegen	[ger][mis]	Yes
+12422	H	1MEurope	28385	TV	Radio Bremen TV	[ger]	Yes
+12422	H	1MEurope	28395	TV	WDR Test A	[ger][mis]	Yes
+12441	V	PE	6513	TV	Multisports HD 3	[fre]	Yes
+12460	H	1MEurope	48	TV	N24 Doku	[ger]	Yes
+12460	H	1MEurope	48	R	ERF Radio	[ger]	Yes
+12460	H	1MEurope	48	R	Life Channel	[ger]	Yes
+12460	H	1MEurope	62	TV	EWTN - Katholisches Fernsehen	[eng][ger]	Yes
+12460	H	1MEurope	64	TV	QVC Style	[ger]	Yes
+12460	H	1MEurope	74	TV	Livington TV	[ger]	Yes
+12460	H	1MEurope	171	R	DomRadio	[ger]	Yes
+12460	H	1MEurope	172	R	Ego FM	[ger]	Yes
+12460	H	1MEurope	173	R	Klassik Radio	[ger]	Yes
+12460	H	1MEurope	174	R	Oldiestar	[ger]	Yes
+12460	H	1MEurope	175	R	Hope Channel Radio	[ger]	Yes
+12460	H	1MEurope	659	TV	Sparhandy TV	[ger]	Yes
+12460	H	1MEurope	662	TV	1-2-3 TV ( 06am - 02am )	[ger]	Yes
+12460	H	1MEurope	764	TV	Anixe HD	[ger]	Yes
+12460	H	1MEurope	772	TV	TLC info card	[ger]	Yes
+12460	H	1MEurope	776	TV	Sixx	[ger]	Yes
+12460	H	1MEurope	1793	TV	Disney Channel	[ger]	Yes
+12460	H	1MEurope	1794	TV	QVC Deutschland	[ger]	Yes
+12480	V	1MEurope	32	TV	Sonnenklar TV	[ger]	Yes
+12480	V	1MEurope	40	TV	Home Shopping Europe Deutsch	[ger]	Yes
+12480	V	1MEurope	46	TV	mediasparTV	[ger]	Yes
+12480	V	1MEurope	51	TV	Tele 5	[ger]	Yes
+12480	V	1MEurope	63	TV	DMAX	[ger]	Yes
+12480	V	1MEurope	76	TV	Qlar	[ger]	Yes
+12480	V	1MEurope	77	TV	HSE 24 Trend	[ger]	Yes
+12480	V	1MEurope	661	TV	Astro TV	[ger]	Yes
+12480	V	1MEurope	897	TV	Equi 8 TV	[ger]	Yes
+12480	V	1MEurope	899	TV	Mein TV Shop	[ger]	Yes
+12480	V	1MEurope	900	TV	Sport 1 (fka: DSF)	[ger]	Yes
+12515	H	1LFSS	4060	R	Radio Lebensquelle	[ger]	Yes
+12515	H	1LFSS	4062	R	Radio Freundes-Dienst	[ger]	Yes
+12515	H	1LFSS	4122	R	VRT Radio 1	[dut]	Yes
+12515	H	1LFSS	4123	R	VRT Radio 2	[dut]	Yes
+12545	H	1LFSS	17500	TV	SAT.1	[ger]	Yes
+12545	H	1LFSS	17501	TV	ProSieben	[ger]	Yes
+12545	H	1LFSS	17502	TV	kabel eins	[ger]	Yes
+12545	H	1LFSS	17503	TV	N24	[ger]	Yes
+12545	H	1LFSS	17504	TV	SAT.1 Gold	[ger]	Yes
+12545	H	1LFSS	17505	TV	ProSieben MAXX	[ger]	Yes
+12545	H	1LFSS	17507	TV	SAT. 1 Bayern	[ger]	Yes
+12545	H	1LFSS	17508	TV	SAT. 1 NRW	[ger]	Yes
+12552	V	PE	3394	TV	QVC 2 Deutschland	[ger]	Yes
+12552	V	PE	12100	TV	QVC Deutschland	[ger]	Yes
+12552	V	PE	12122	TV	Bibel TV	[ger]	Yes
+12574	H	1LFSS	5400	TV	Sonnenklar.TV HD	[ger]	Yes
+12574	H	1LFSS	5403	TV	Juwelo TV HD	[ger]	Yes
+12574	H	1LFSS	5404	TV	Pearl.TV HD	[ger]	Yes
+12604	H	PE	7289	R	Radio Horeb	[ger]	Yes
+12604	H	PE	7290	TV	Sky News Intl	[eng]	Yes
+12604	H	PE	7292	R	Radio neue Hoffnung	[eng]	Yes
+12604	H	PE	7931	R	RTL RADIO	[mis]	Yes
+12604	H	PE	28534	TV	WDR Aachen	[ger][mis]	Yes
+12604	H	PE	28535	TV	WDR Wuppertal	[ger][mis]	Yes
+12604	H	PE	28536	TV	WDR Bonn	[ger][mis]	Yes
+12604	H	PE	28537	TV	WDR Duisburg	[ger][mis]	Yes
+12604	H	PE	28544	TV	WDR HD Aachen	[ger][mis]	Yes
+12604	H	PE	28545	TV	WDR HD Wuppertal	[ger][mis]	Yes
+12604	H	PE	28546	TV	WDR HD Bonn	[ger][mis]	Yes
+12604	H	PE	28547	TV	WDR HD Duisburg	[ger][mis]	Yes
+12633	H	1LFSS	12600	TV	Juwelo pur	[ger]	Yes
+12633	H	1LFSS	12601	TV	K-TV Fernsehen	[ger]	Yes
+12633	H	1LFSS	12604	TV	Deutsches Musik Fernsehen	[ger]	Yes
+12633	H	1LFSS	12612	TV	Erotik 24	[ger]	Yes
+12633	H	1LFSS	12614	TV	RheinMain TV	[ger]	Yes
+12633	H	1LFSS	12615	TV	Tabu 24	[ger]	Yes
+12633	H	1LFSS	12616	TV	Juwelo TV	[ger]	Yes
+12633	H	1LFSS	12618	TV	Dreamgirls TV	[ger]	Yes
+12633	H	1LFSS	12619	TV	Erotik-Sat TV	[ger]	Yes
+12633	H	1LFSS	12620	TV	123 Damenwahl	[ger]	Yes
+12633	H	1LFSS	12621	TV	mein Genius TV Shop	[ger]	Yes
+12633	H	1LFSS	12622	TV	Männersache TV	[ger]	Yes
+12633	H	1LFSS	12623	TV	Date Line	[ger]	Yes
+12633	H	1LFSS	12624	TV	Fotohandy TV	[ger]	Yes
+12633	H	1LFSS	12625	TV	Mobile-Sex	[ger]	Yes
+12633	H	1LFSS	12626	TV	My Dirty Mobile	[ger]	Yes
+12633	H	1LFSS	12627	TV	Kamasutra TV	[ger]	Yes
+12633	H	1LFSS	12628	TV	Teledate TV	[ger]	Yes
+12633	H	1LFSS	12629	TV	Traumgirls TV	[ger]	Yes
+12633	H	1LFSS	12630	TV	Das Erotische TV	[ger]	Yes
+12633	H	1LFSS	12633	TV	Volksmusik TV	[ger]	Yes
+12633	H	1LFSS	12634	TV	Nice	[ger]	Yes
+12633	H	1LFSS	12635	TV	Babestation 24 (21hrs - 04hrs)	[ger]	Yes
+12633	H	1LFSS	12636	TV	DHD 24 Plus	[ger]	Yes
+12633	H	1LFSS	12639	TV	Erotika TV	[ger]	Yes
+12633	H	1LFSS	12640	TV	BunnyClub 24	[ger]	Yes
+12633	H	1LFSS	12641	TV	Clipmobile	[ger]	Yes
+12633	H	1LFSS	12643	TV	Deutsches Musik Fernsehen	[ger]	Yes
+12633	H	1LFSS	12653	R	Radio Top 40	[ger]	Yes
+12633	H	1LFSS	12654	R	FFN	[ger]	Yes
+12633	H	1LFSS	12655	R	Radio Paloma	[ger]	Yes
+12633	H	1LFSS	12656	R	WRN Deutsch	[ger]	Yes
+12633	H	1LFSS	12657	R	Antenne 50plus	[ger]	Yes
+12633	H	1LFSS	12659	R	Radio Gloria	[ger]	Yes
+12633	H	1LFSS	12660	R	Hit Radio FFH Wiesbaden-Mainz	[ger]	Yes
+12633	H	1LFSS	12661	R	Planet Radio	[ger]	Yes
+12633	H	1LFSS	12662	R	Harmony FM	[ger]	Yes
+12633	H	1LFSS	12663	R	Radio Regenbogen	[ger]	Yes
+12663	H	PE	13102	TV	RTL Nitro A	[ger]	Yes
+12663	H	PE	13103	TV	Welt der Wunder	[ger]	Yes
+12663	H	PE	13104	TV	LT1-OOE	[ger]	Yes
+12663	H	PE	13106	TV	sixx Austria	[ger]	Yes
+12663	H	PE	13110	TV	ServusTV Deutschland	[eng][ger]	Yes
+12663	H	PE	13111	TV	ServusTV Oesterreich	[eng][ger]	Yes
+12663	H	PE	13113	TV	L-TV/TVM	[ger]	Yes
+12663	H	PE	13121	R	OE1	[ger]	Yes
+12663	H	PE	13122	R	OE1 DD	[ger]	Yes
+12663	H	PE	13123	R	OE2 W	[ger]	Yes
+12663	H	PE	13124	R	OE2 N	[ger]	Yes
+12663	H	PE	13125	R	OE2 B	[ger]	Yes
+12663	H	PE	13126	R	OE2 O	[ger]	Yes
+12663	H	PE	13127	R	OE2 S	[ger]	Yes
+12663	H	PE	13128	R	OE2 T	[ger]	Yes
+12663	H	PE	13129	R	OE2 V	[ger]	Yes
+12663	H	PE	13130	R	OE2 St	[ger]	Yes
+12663	H	PE	13131	R	OE2 K	[ger]	Yes
+12663	H	PE	13133	R	OE3	[ger]	Yes
+12663	H	PE	13134	R	FM4	[ger]	Yes
+12663	H	PE	13136	R	U1 Tirol	[ger]	Yes
+12663	H	PE	13140	R	RADIO MARIA	[ger]	Yes
+12663	H	PE	13141	TV	Mühlviertel TV	[ger]	Yes
+12663	H	PE	13141	TV	RTS (Time-Sharing)	[ger]	Yes
+12663	H	PE	13141	TV	BTV	[ger]	Yes
+12692	H	PE	13003	TV	ORF2 W	[ger]	Yes
+12692	H	PE	13013	TV	HITRADIO OE3	[ger]	Yes
+12692	H	PE	13014	TV	ORF2E	[ger]	Yes
+12692	H	PE	13018	TV	Folx TV	[ger]	Yes
+12692	H	PE	13019	TV	RiC	[ger]	Yes
+12692	H	PE	13021	TV	N-TV Austria info card	[ger]	Yes
