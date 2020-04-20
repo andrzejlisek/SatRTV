@@ -1,0 +1,215 @@
+Freq	Pol	SR	Beam	Type	Channel	T	Encryption	FTA	Package	Res	Compression	V_PID	A_PID	SID	Owner	Date	Row
+10721	H	22000	EuropeB	DATA	BBC Persian	TV	FTA	Yes		SD	MPEG-2	0		0	Mehr7400	23-Sep-11	2	
+10721	H	22000	EuropeB	TV	Simaye Azadi Iran National TV	TV	FTA	Yes		SD	MPEG-2	201	202[per]	2	allaei	15-Sep-11	4	
+10721	H	22000	EuropeB	TV	Nejat TV	TV	FTA	Yes		SD	MPEG-2	501	502[per]	5	Tanea	31-May-17	6	
+10721	H	22000	EuropeB	TV	Manoto	TV	FTA	Yes		SD	MPEG-2	3555	3675[per]	7355	ade3661	27-Mar-17	8	
+10721	H	22000	EuropeB	TV	Rang A Rang TV	TV	FTA	Yes		SD	MPEG-2	6011	6012[per]	8601	Tanea	7-Nov-17	10	
+10721	H	22000	EuropeB	TV	Channel Yek	TV	FTA	Yes		SD	MPEG-2	921	922[per]	9002	Tanea	15-Oct-19	12	
+10721	H	22000	EuropeB	R	Syrnet - Syria Radio Network	R	FTA	Yes		SD	MPEG-2	0	402[][]|402[Ar]	0	Hochleichter	27-Mar-17	14	
+10721	H	22000	EuropeB	R	Start FM	R	FTA	Yes		SD	MPEG-2	0	302[][]|302[Ar]	0	Hochleichter	27-Mar-17	16	
+10721	H	22000	EuropeB	R	GünAz Radio	R	FTA	Yes				0	1901[aze]	19	Frocus	14-Sep-15	18	
+10721	V	27500	East	R	BBC English	R	FTA	Yes	opensky		MPEG-1	0	6662[eng]	13907	EnoSat	31-Jan-20	22	
+10721	V	27500	East	DATA	BBC Eur Feed 5	R	BISS	No	opensky		MPEG-1	0		13975	EnoSat	31-Jan-20	24	
+10762	H	30000	Africa	DATA	test card	TV	FTA	Yes		SD	MPEG-2	0		0	ikumbet	18-Oct-19	28	
+10803	H	30000	West	TV	MTV Live HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	100	110[eng]	2501	Frocus	2-Mar-12	32	
+10803	H	30000	West	TV	BBC HD Nordic	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2494	3503[eng]	2502	Tanea	14-Aug-13	34	
+10803	H	30000	West	TV	History HD UK	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	400	410[000]|411[eng]	2504	Frocus	25-May-12	36	
+10803	H	30000	West	TV	Eurosport HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2491	3491[tur]|3591[eng]	2505	Tanea	16-Jul-14	38	
+10803	H	30000	West	TV	Kanal 7 HD Türkiye	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2499	3499[tur]	2509	Tanea	8-Nov-17	40	
+10803	H	30000	West	TV	beIN Series Sci-Fi HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2497	3498[eng]|3504[tur]	2510	Tanea	20-Jan-17	42	
+10803	H	30000	West	TV	Eurosport 2 HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2495	3492[eng]|3592[tur]	2511	Tanea	2-Aug-15	44	
+10803	H	30000	West	TV	TJK TV HD (Türkiye Jokey Kulübü)	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2499	3593[tur]	2597	Tanea	27-Jun-17	46	
+10804	V	30000	West	TV	TRT Avaz	TV	FTA	Yes		SD	MPEG-2	2500	3500[tur]	8501	ade3661	20-Feb-19	50	
+10804	V	30000	West	TV	TRT Okul	TV	FTA	Yes		SD	MPEG-2	2501	3510[tur]	8502	ade3661	20-Feb-19	52	
+10804	V	30000	West	TV	TRT Arapça (TRT Arabi)	TV	FTA	Yes		SD	MPEG-2	2502	3520[ara]	8503	ade3661	20-Feb-19	54	
+10804	V	30000	West	TV	TRT Belgesel	TV	FTA	Yes		SD	MPEG-2	2503	3530[tur]	8504	ade3661	20-Feb-19	56	
+10804	V	30000	West	TV	TRT Türk	TV	FTA	Yes		SD	MPEG-2	2504	3540[tur]	8505	ade3661	20-Feb-19	58	
+10804	V	30000	West	TV	TRT Kurdi	TV	FTA	Yes		SD	MPEG-2	2505	3550[kur]	8506	ade3661	20-Feb-19	60	
+10804	V	30000	West	TV	TRT 3 Spor / TBMM TV (6.58-5.58)	TV	FTA	Yes		SD	MPEG-2	2506	2560[tur]	8507	ade3661	20-Feb-19	62	
+10804	V	30000	West	TV	TRT Haber	TV	FTA	Yes		SD	MPEG-2	2507	3570[tur]	8508	ade3661	20-Feb-19	64	
+10804	V	30000	West	TV	TRT Müzik	TV	FTA	Yes		SD	MPEG-2	2509	3590[tur]	8510	ade3661	20-Feb-19	66	
+10804	V	30000	West	TV	TRT Çocuk	TV	FTA	Yes		SD	MPEG-2	2510	3600[tur]	8511	ade3661	20-Feb-19	68	
+10804	V	30000	West	TV	TRT Spor	TV	FTA	Yes		SD	MPEG-2	2511	3610[tur]	8512	ade3661	20-Feb-19	70	
+10804	V	30000	West	TV	TRT Haber HD	TV	FTA	Yes		HD	MPEG-4	2512	3620[tur]	8513	ade3661	20-Feb-19	72	
+10804	V	30000	West	TV	TRT Belgesel HD	TV	FTA	Yes		HD	MPEG-4	2513	3630[tur]	8514	ade3661	20-Feb-19	74	
+10804	V	30000	West	TV	TRT Spor HD	TV	FTA	Yes		HD	MPEG-4	2514	3640[tur]	8515	ade3661	20-Feb-19	76	
+10845	V	30000	West	TV	BJK TV HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2250	2800|2800[tur]	8001	Tanea	3-Mar-18	80	
+10845	V	30000	West	TV	Ülke TV HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2251	2803|2803[tur]	8002	Tanea	3-Mar-18	82	
+10845	V	30000	West	TV	TV8,5 HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2252	2806|2806[tur]	8003	Tanea	3-Mar-18	84	
+10845	V	30000	West	TV	A2 HD Türkiye	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2253	2809[tur]	8004	Tanea	3-Mar-18	86	
+10845	V	30000	West	TV	HaberTürk HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2254	2812|2812[tur]	8005	Tanea	3-Mar-18	88	
+10845	V	30000	West	TV	A News HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2255	2815[eng]	8006	Tanea	3-Mar-18	90	
+10845	V	30000	West	TV	Sony Channel HD Türkiye	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2256	2818|2818[tur]|2819[eng]	8007	Tanea	3-Mar-18	92	
+10845	V	30000	West	DATA	SkyDSL	@	FTA	Yes				0		0	dreambox	27-Oct-10	94	
+10845	H	30000	West	TV	TRT Belgesel HD	TV	FTA	Yes	DigiTurk	HD	MPEG-4	2440	3438[tur]	8103	ade3661	4-Jun-17	98	
+10845	H	30000	West	TV	A Haber HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2431	3434[tur]	8104	Tanea	8-Nov-17	100	
+10845	H	30000	West	TV	Discovery Channel HD Turkey	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2442	3442[tur]	8106	ade3661	4-Jun-17	102	
+10845	H	30000	West	TV	Beyaz TV HD	TV	Irdeto 2	No	DigiTurk	SD	MPEG-2	2437	3439[tur]	8107	ade3661	3-Oct-15	104	
+10845	H	30000	West	TV	Saran Spor HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2429	3432[tur]	8110	ade3661	4-Jun-17	106	
+10845	H	30000	West	TV	beIN Iz HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2436	3440[tur]	8118	ade3661	4-Jun-17	108	
+10845	H	30000	West	TV	NTV Spor HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2502	2503[tur]	8119	Frocus	2-Aug-11	110	
+10886	V	30000	West	TV	beIN Sports 1 HD Turkey	TV	Irdeto 2	No	DigiTurk	UHD	MPEG-4	2330	3330[tur]	202	berat027	3-Dec-18	114	
+10886	V	30000	West	TV	beIN GURME HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2335	3338[tur]	203	ade3661	4-Jun-17	116	
+10886	V	30000	West	TV	beIN Movies Türk HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2336	3339[tur]	204	ade3661	4-Jun-17	118	
+10886	V	30000	West	TV	beIN Movies Premier HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	205	305[tur]|306[eng]	205	ade3661	4-Jun-17	120	
+10886	V	30000	West	TV	TRT World HD	TV	FTA	Yes		HD	MPEG-4	2337	3335[eng]	206	Tanea	8-Nov-17	122	
+10886	V	30000	West	TV	BeIN Sports 3 HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2333	3336[tur]	208	ade3661	4-Jun-17	124	
+10886	V	30000	West	TV	beIN Series Vice HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2334	2338[tur]	210	ade3661	4-Jun-17	126	
+10886	V	30000	West	TV	Taraftar HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	202	302[tur]	222	Tanea	18-Feb-11	128	
+10886	V	30000	West	TV	Ticari beIN Sports 1 HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2330	3330[tur]	223	ade3661	4-Jun-17	130	
+10886	V	30000	West	TV	Ticari beIN Sports 3 HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2333	3336[tur]	264	ade3661	4-Jun-17	132	
+10886	V	30000	West	TV	Taraftar 3 HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2333	3336[tur]|3337[000]	265	Tanea	28-Aug-13	134	
+10886	H	30000	West	TV	Nat Geo HD	TV	Cryptoworks|Irdeto 2	No	DigiTurk	HD	MPEG-4	5001	5003[000]|5002[tur]	7901	Frocus	14-Jun-10	138	
+10886	H	30000	West	TV	beIN Series Drama HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2392	3394[tur]	7902	ade3661	4-Jun-17	140	
+10886	H	30000	West	TV	beIN Sports Max 2 HD Türkiye	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2393	3393[tur]|3395[000]	7903	Tanea	8-Nov-17	142	
+10886	H	30000	West	TV	Fox HD Türkiye	TV	Cryptoworks|Irdeto 2	No	DigiTurk	HD	MPEG-4	8010	8110[tur]	7905	Frocus	3-Oct-12	144	
+10886	H	30000	West	TV	Kanal D HD	TV	Irdeto 2	No		HD	MPEG-4	8012	8111[tur]	7906	ade3661	17-Sep-16	146	
+10886	H	30000	West	TV	beIN Movies Stars HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2100	2101[tur]|2102[000]	7912	ade3661	4-Jun-17	148	
+10886	H	30000	West	TV	Star TV HD	TV	Irdeto 2	No		HD	MPEG-4	2394	3498[tur]	7914	ade3661	17-Sep-16	150	
+10886	H	30000	West	TV	ATV HD	TV	Cryptoworks|Irdeto 2	No	DigiTurk	HD	MPEG-4	2900	2901[tur]	7917	Frocus	25-Apr-11	152	
+10886	H	30000	West	TV	Nat Geo HD	TV	Irdeto 2	No		HD	MPEG-4	2390	3390[tur]	7991	ade3661	17-Sep-16	154	
+10886	H	30000	West	TV	beIN Series Drama HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2392	3394[tur]	7992	ade3661	4-Jun-17	156	
+10886	H	30000	West	TV	beIN Movies Stars HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2100	2101[tur]|2102[000]	7993	ade3661	4-Jun-17	158	
+10886	H	30000	West	TV	Star TV HD	TV	Irdeto 2	No		HD	MPEG-4	2394	3498[tur]	7994	ade3661	17-Sep-16	160	
+10928	H	30000	West	TV	teve 2 HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2205	2715|2715[tur]|2716[000]	7806	Tanea	3-Mar-18	164	
+10928	H	30000	West	TV	beIN Series 101 HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2207	2721[tur]|2722[000]	7808	Tanea	23-Oct-19	166	
+10928	H	30000	West	TV	Bloomberg HT HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2208	2724|2724[tur]	7809	Tanea	3-Mar-18	168	
+10928	H	30000	West	TV	24 TV HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2209	2727[tur]	7810	Tanea	3-Mar-18	170	
+10928	H	30000	West	TV	Sunna TV HD Saudi Arabia	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2211	2733[ara]	7812	Tanea	23-Oct-19	172	
+10928	H	30000	West	TV	Quran TV HD Saudi Arabia	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2212	2736[ara]	7813	Tanea	23-Oct-19	174	
+10928	H	30000	West	TV	EuroStar	TV	Irdeto 2	No	DigiTurk	SD	MPEG-4	2213	2737[tur]	7814	Tanea	3-Jan-20	176	
+10928	H	30000	West	DATA	EBU feeds	F	FTA	Yes				0		0	dreambox	18-Jun-09	178	
+10928	V	30000	West	TV	TV 8 Turkey HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2487	3493[tur]	8304	ade3661	4-Jun-17	182	
+10928	V	30000	West	TV	beIN Series Comedy HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2482	3486[tur]	8305	ade3661	4-Jun-17	184	
+10928	V	30000	West	TV	FB TV HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2481	3479[tur]	8306	Tanea	8-Nov-17	186	
+10928	V	30000	West	TV	beIN Movies Premier 2 HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2103	3303[tur]|3304[eng]	8308	ade3661	4-Jun-17	188	
+10928	V	30000	West	TV	beIN Movies Festival HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2479	3480[tur]|3481[000]	8309	ade3661	4-Jun-17	190	
+10928	V	30000	West	TV	BeIN Home & Entertainment HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2483	3485[tur]|3489[000]	8382	ade3661	4-Jun-17	192	
+10928	V	30000	West	TV	beIN Movies Action HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2488	3495[tur]	8393	ade3661	4-Jun-17	194	
+11222	H	27500	EuropeA	TV	Kalemeh TV	TV	FTA	Yes		SD	MPEG-2	5612	5613[per]	5610	ade3661	18-Dec-17	198	
+11222	H	27500	EuropeA	TV	Manoto	TV	FTA	Yes		SD	MPEG-2	5632	5633[per]	5630	Tanea	6-Jan-18	200	
+11222	H	27500	EuropeA	TV	TFM Senegal	TV	FTA	Yes		SD	MPEG-2	611	631[fre]	5703	Tanea	16-Jan-15	202	
+11222	H	27500	EuropeA	TV	Iran International	TV	FTA	Yes		SD	MPEG-2	7051	7052[per]	5705	ade3661	18-Dec-17	204	
+11222	H	27500	EuropeA	TV	TPA Internacional	TV	FTA	Yes		SD	MPEG-2	514	4111[por]	5721	Tanea	16-Jan-15	206	
+11222	H	27500	EuropeA	TV	Iranefarda	TV	FTA	Yes		SD	MPEG-2	6901	6902[per]	6900	atm2000	12-Feb-13	208	
+11222	H	27500	EuropeA	DATA	MOOD MEDIA	R	FTA	Yes				0		5701	alexfloresaf38	8-Apr-18	210	
+11262	H	27500	EuropeB	TV	Kuran Hidayah Turkish	TV	FTA	Yes		SD	MPEG-2	1091	1092[tur]	109	Tanea	7-Jun-16	214	
+11262	H	27500	EuropeB	TV	Hadi TV 1	TV	FTA	Yes		SD	MPEG-2	1101	1102[urd]	110	ade3661	28-Nov-16	216	
+11262	H	27500	EuropeB	TV	Hadi TV 3	TV	FTA	Yes		SD	MPEG-2	1121	1122[tur]	112	ade3661	28-Nov-16	218	
+11262	H	27500	EuropeB	TV	Janatobaghie TV	TV	FTA	Yes		SD	MPEG-2	3561	3562[per]	356	Tanea	9-Feb-17	220	
+11262	H	27500	EuropeB	IMG	Dua Channel	TV	FTA	Yes		SD	MPEG-2	3681		368	Tanea	28-Jul-16	222	
+11262	H	27500	EuropeB	TV	Beitol Abbas	TV	FTA	Yes		SD	MPEG-2	3691	3692[ara]	369	ade3661	28-Nov-16	224	
+11262	H	27500	EuropeB	IMG	Imam Asr TV	TV	FTA	Yes		SD	MPEG-2	3711		371	ade3661	28-Nov-16	226	
+11304	H	29700	EuropeB	R	ICC TV (Iranian Cinema Channel)	TV	FTA	Yes		SD	MPEG-2	0	0[per]	0	Tanea	14-Jan-20	230	
+11304	H	29700	EuropeB	IMG	Manoto HD	TV	FTA	Yes		HD	MPEG-4	33		1	alirezaj	25-Dec-16	232	
+11304	H	29700	EuropeB	TV	CineFilm Farsi HD	TV	FTA	Yes		HD	MPEG-4	5051	5052[per]	505	ade3661	18-Feb-19	234	
+11304	H	29700	EuropeB	TV	National Geographic Farsi HD info card	TV	FTA	Yes		HD	MPEG-4	5091	5092[per]	509	ade3661	15-Jun-17	236	
+11304	H	29700	EuropeB	TV	Cine Series HD	TV	FTA	Yes		HD	MPEG-4	5111	5112[per]	511	ade3661	18-Feb-19	238	
+11304	H	29700	EuropeB	TV	Iran International HD	TV	FTA	Yes		HD	MPEG-4	5131	5132[per]	513	ade3661	18-Feb-19	240	
+11324	V	29700	EuropeB	R	PMC HD	TV	FTA	Yes		HD	MPEG-4	0	0[per]	0	Tanea	21-Feb-19	244	
+11324	V	29700	EuropeB	TV	English Club Farsi HD	TV	FTA	Yes		HD	MPEG-4	511	512[per]	2051	ade3661	18-Feb-19	246	
+11324	V	29700	EuropeB	TV	Fashion TV HD Europe	TV	FTA	Yes		HD	MPEG-4	531	3502[eng]	2053	ade3661	18-Feb-19	248	
+11324	V	29700	EuropeB	TV	Bartar TV HD	TV	FTA	Yes		HD	MPEG-4	541	542[per]	2054	Tanea	30-Dec-19	250	
+11324	V	29700	EuropeB	TV	PMC HD	TV	FTA	Yes		HD	MPEG-4	571	572[per]	2057	Tanea	30-Dec-19	252	
+11324	V	29700	EuropeB	TV	Cine Film HD	TV	FTA	Yes		HD	MPEG-4	621	622[per]	2062	Tanea	30-Dec-19	254	
+11324	V	29700	EuropeB	TV	Cine Series HD	TV	FTA	Yes		HD	MPEG-4	631	632[per]	2063	Tanea	30-Dec-19	256	
+11324	V	29700	EuropeB	TV	Manoto HD +2	TV	FTA	Yes		HD	MPEG-4	641	642[per]	2064	Tanea	30-Dec-19	258	
+11345	H	27500	EuropeB	TV	HodHod Farsi	TV	FTA	Yes		SD	MPEG-2	3011	3012[per]	301	ade3661	18-Feb-19	262	
+11345	H	27500	EuropeB	TV	ICC TV (Iranian Cinema Channel)	TV	FTA	Yes		SD	MPEG-2	3031	3032[per]	303	Tanea	24-Jan-20	264	
+11345	H	27500	EuropeB	TV	Didgah TV	TV	FTA	Yes		SD	MPEG-2	3051	3052[per]	305	Tanea	24-Jan-20	266	
+11345	H	27500	EuropeB	TV	National Geographic Farsi	TV	FTA	Yes		SD	MPEG-2	3091	3092[per]	309	ade3661	18-Feb-19	268	
+11345	H	27500	EuropeB	TV	GHM	TV	FTA	Yes		SD	MPEG-2	3101	3102[per]	310	Tanea	5-Aug-19	270	
+11345	H	27500	EuropeB	TV	4Music HD	TV	FTA	Yes		HD	MPEG-4	3121	3122[per]	312	Tanea	9-Feb-20	272	
+11345	H	27500	EuropeB	TV	PMC	TV	FTA	Yes		SD	MPEG-2	3141	3142[per]	314	Tanea	21-Feb-19	274	
+11345	H	27500	EuropeB	TV	Cine Film	TV	FTA	Yes		SD	MPEG-2	3151	3152[per]	315	Tanea	5-Aug-19	276	
+11345	H	27500	EuropeB	TV	Cine Series	TV	FTA	Yes		SD	MPEG-2	3161	3162[per]	316	Tanea	5-Aug-19	278	
+11345	H	27500	EuropeB	TV	Avang TV	TV	FTA	Yes		SD	MPEG-2	3171	3172[per]	317	Tanea	5-Aug-19	280	
+11387	H	27500	EuropeB	IMG	Cine Series info card	TV	FTA	Yes		SD	MPEG-2	610		1906	Tanea	29-Nov-17	284	
+11387	H	27500	EuropeB	TV	CineFilm	TV	FTA	Yes		SD	MPEG-2	710	720[per]	1907	Tanea	29-Nov-17	286	
+11387	H	27500	EuropeB	TV	Manoto HD	TV	FTA	Yes		HD	MPEG-4	910	920[per]	1909	Tanea	27-Mar-18	288	
+11471	H	30000	West	TV	KRT HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2756	3918[tur]	7529	Tanea	21-Sep-19	292	
+11471	H	30000	West	TV	Nickelodeon Türkiye HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2757	3919[tur]	7530	Tanea	21-Sep-19	294	
+11471	H	30000	West	TV	TGRT Haber HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2758	3922[tur]	7531	Tanea	21-Sep-19	296	
+11471	H	30000	West	TV	NBA TV HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	7532	3923[eng]	7532	Tanea	21-Sep-19	298	
+11513	H	29900	West	TV	DigiTürk 4K	TV	Irdeto 2	No	DigiTurk	HD	HEVC (H.265)	2261	3261[tur]	5301	Tanea	8-Nov-17	302	
+11513	H	29900	West	TV	beIN Movies Action 2 HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2271	3271[tur]|3272[000]|3273|3273[btm]	5302	Tanea	8-Nov-17	304	
+11513	H	29900	West	TV	BBC HD Nordic	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2274	3276[000]	5306	Tanea	8-Nov-17	306	
+11513	H	29900	West	TV	Şömine Keyfi HD	TV	Cryptoworks|Irdeto|Viaccess	No	SkyLink	HD	MPEG-4	2275	3278[tur]	5307	Tanea	2-Dec-19	308	
+11513	H	29900	West	DATA	Masal TV	@	FTA	Yes	DigiTurk			0		0	dreambox	18-Jun-09	310	
+11513	H	29900	West	DATA	Digiposta	@	FTA	Yes	DigiTurk			0		0	dreambox	18-Jun-09	312	
+11513	H	29900	West	DATA	Digiaktif	@	FTA	Yes	DigiTurk			0		0	dreambox	18-Jun-09	314	
+11513	H	29900	West	DATA	Halk Bankasi	@	FTA	Yes	DigiTurk			0		0	dreambox	18-Jun-09	316	
+11513	H	29900	West	DATA	TV Hava Durumu	@	FTA	Yes	DigiTurk			0		0	dreambox	18-Jun-09	318	
+11513	H	29900	West	DATA	TV Haber	@	FTA	Yes	DigiTurk			0		0	dreambox	18-Jun-09	320	
+11513	H	29900	West	DATA	Müsteri Hizmetleri	@	FTA	Yes	DigiTurk			0		0	dreambox	18-Jun-09	322	
+11513	H	29900	West	DATA	Yemek Sepeti	@	FTA	Yes	DigiTurk			0		0	dreambox	18-Jun-09	324	
+11513	H	29900	West	DATA	Süper Lig Bilgi Kanali	@	FTA	Yes	DigiTurk			0		0	dreambox	18-Jun-09	326	
+11513	H	29900	West	DATA	Jojo Interaktif	@	FTA	Yes	DigiTurk			0		0	dreambox	18-Jun-09	328	
+11513	H	29900	West	DATA	IBB Trafik	@	FTA	Yes	DigiTurk			0		0	dreambox	18-Jun-09	330	
+11554	H	29750	West	IMG	Irdeto Test4	@	FTA	Yes		SD	MPEG-2	698		7626	alexfloresaf38	8-Apr-18	334	
+11554	H	29750	West	IMG	Irdeto Test3	@	FTA	Yes		SD	MPEG-2	699		7627	alexfloresaf38	8-Apr-18	336	
+11554	H	29750	West	IMG	HM9504-R	@	FTA	Yes		SD	MPEG-2	2380		7628	alexfloresaf38	8-Apr-18	338	
+11554	H	29750	West	IMG	SMIT	@	FTA	Yes		SD	MPEG-2	2390		7630	alexfloresaf38	8-Apr-18	340	
+11554	H	29750	West	IMG	DT-5103	@	FTA	Yes		SD	MPEG-2	2391		7631	alexfloresaf38	8-Apr-18	342	
+11554	H	29750	West	IMG	DT9505R	@	FTA	Yes		SD	MPEG-2	2392		7632	alexfloresaf38	8-Apr-18	344	
+11554	H	29750	West	IMG	DT9103-R	@	FTA	Yes		SD	MPEG-2	2397		7636	alexfloresaf38	8-Apr-18	346	
+11596	H	30000	West	TV	beIN Sports Max 2 Türkiye	TV	Irdeto 2	No		SD	MPEG-2	2101	3101[tur]|3102[eng]	6402	Tanea	3-Jan-18	350	
+11596	H	30000	West	TV	Nick Jr Türkiye	TV	Irdeto 2	No	DigiTurk	SD	MPEG-2	2102	3103[tur]|3104[eng]	6403	Tanea	3-Jan-18	352	
+11596	H	30000	West	TV	Habertürk	TV	Cryptoworks|Irdeto 2	No	DigiTurk	SD	MPEG-2	2104	2204[tur]	6404	dm800	18-Jun-09	354	
+11596	H	30000	West	TV	TJK TV	TV	FTA	Yes	DigiTurk	SD	MPEG-2	2105	2205[tur]	6405	dm800	18-Jun-09	356	
+11596	H	30000	West	TV	MovieMax Action 2	TV	Cryptoworks|Irdeto 2	No	DigiTurk	SD	MPEG-2	2106	2206[tur]|2274[000]	6406	Tanea	31-Dec-14	358	
+11596	H	30000	West	TV	Lig TV 3 (Turkey)	TV	Cryptoworks|Irdeto 2	No	DigiTurk	SD	MPEG-2	2170	2270[tur]	6407	Frocus	3-Sep-11	360	
+11596	H	30000	West	TV	Lig TV Ticari	TV	Cryptoworks|Irdeto 2	No	DigiTurk	SD	MPEG-2	2108	2208[tur]	6408	dm800	18-Jun-09	362	
+11596	H	30000	West	TV	FBTV	TV	Cryptoworks|Irdeto 2	No	DigiTurk	SD	MPEG-2	2111	2211[tur]	6410	dm800	18-Jun-09	364	
+11596	H	30000	West	TV	DiziMax Drama	TV	Cryptoworks|Irdeto 2	No	DigiTurk	SD	MPEG-2	2107	2162[tur]|2163[eng]	6411	Frocus	3-Oct-12	366	
+11596	H	30000	West	TV	Fox Sports Turkey	TV	Cryptoworks|Irdeto 2	No	DigiTurk	SD	MPEG-2	2161	2261[tur]|2262[eng]	6461	dm800	18-Jun-09	368	
+11596	H	30000	West	TV	MTV Europe	TV	Irdeto 2	No	DigiTurk	SD	MPEG-4	2720	3860[eng]	6461	Tanea	2-Jun-18	370	
+11596	H	30000	West	TV	TRT Spor	TV	FTA	Yes		SD	MPEG-4	2722	3865[tur]	6463	Tanea	9-Jun-18	372	
+11596	H	30000	West	TV	TRT Haber	TV	FTA	Yes		SD	MPEG-4	2723	3867[tur]	6464	Tanea	9-Jun-18	374	
+11596	H	30000	West	TV	TRT Diyanet TV	TV	FTA	Yes		SD	MPEG-4	2724	3868[tur]	6465	Tanea	9-Jun-18	376	
+11596	H	30000	West	TV	Digi TV	TV	Cryptoworks|Irdeto 2	No	DigiTurk	SD	MPEG-2	2258	3267[tur]|3262[eng]	6467	Tanea	27-Aug-15	378	
+11596	H	30000	West	DATA	Hipodrom ITV	@	FTA	Yes	DigiTurk			0		0	dreambox	18-Jun-09	380	
+11596	H	30000	West	DATA	Bilyoner.com	@	FTA	Yes	DigiTurk			0		0	dreambox	18-Jun-09	382	
+11637	H	30000	West	TV	Lig TV 4 HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2232	3234[tur]	618	ade3661	3-Oct-16	386	
+11637	H	30000	West	TV	Show TV HD	TV	Irdeto 2	No		HD	MPEG-4	2230	3230[tur]	619	ade3661	3-Oct-16	388	
+11637	H	30000	West	TV	TRT 1 HD	TV	FTA	Yes		HD	MPEG-4	2231	3232[tur]	620	Tanea	28-Aug-15	390	
+11637	H	30000	West	TV	A Spor HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2233	3236[tur]	621	Tanea	8-Nov-17	392	
+11637	H	30000	West	TV	Lig TV 2 HD	TV	Irdeto 2	No		HD	MPEG-4	2237	3424[tur]	622	ade3661	3-Oct-16	394	
+11637	H	30000	West	TV	TRT Spor HD	TV	FTA	Yes		HD	MPEG-4	2241	3249[tur]	623	Tanea	8-Dec-15	396	
+11637	H	30000	West	TV	TRT Haber HD	TV	FTA	Yes		HD	MPEG-4	2242	3244[tur]	624	ade3661	3-Oct-16	398	
+11637	H	30000	West	TV	Haber Global HD	TV	Irdeto 2	No		HD	MPEG-4	2235	3253[tur]|3254[000]	625	Tanea	23-Nov-18	400	
+11637	H	30000	West	TV	Boomerang Türkiye HD	TV	Irdeto 2	No		HD	MPEG-4	2236	3255[tur]|3256[eng]	626	Tanea	23-Nov-18	402	
+11637	H	30000	West	TV	Lig TV 2 Ticari HD	TV	Irdeto 2	No		SD	MPEG-4	2237	3242[tur]	632	ade3661	3-Oct-16	404	
+11637	H	30000	West	TV	Lig TV 4 Ticari HD	TV	Irdeto 2	No		SD	MPEG-4	2232	3234[tur]	638	ade3661	3-Oct-16	406	
+11637	H	30000	West	TV	Taraftar 205 HD	TV	Irdeto 2	No		SD	MPEG-4	2237	3242[tur]	642	ade3661	3-Oct-16	408	
+11637	H	30000	West	TV	Lig TV 2 HD	TV	Irdeto 2	No		SD	MPEG-4	2237	3242[tur]	652	ade3661	3-Oct-16	410	
+11637	H	30000	West	TV	Lig TV 4 HD	TV	Irdeto 2	No		SD	MPEG-4	2232	3234[tur]	688	ade3661	3-Oct-16	412	
+11637	H	30000	West	TV	Show TV HD	TV	Irdeto 2	No		SD	MPEG-4	2230	3230[tur]	689	ade3661	3-Oct-16	414	
+11637	H	30000	West	DATA	Digioyun	@	FTA	Yes	DigiTurk			0		0	dreambox	18-Jun-09	416	
+11678	H	30000	West	TV	CBeebies Türkiye HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2650	3729[tur]|3730[eng]	4350	Tanea	12-Nov-19	420	
+11678	H	30000	West	TV	BBC Earth HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2651	3731[tur]|3732[eng]	4351	Tanea	12-Nov-19	422	
+11678	H	30000	West	TV	TV Net HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2652	3733[tur]	4352	Tanea	12-Nov-19	424	
+11678	H	30000	West	TV	MCM Top HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2653	3734[fre]	4353	Tanea	12-Nov-19	426	
+11678	H	30000	West	TV	Fashion TV HD Europe	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2654	3735[fre]	4354	Tanea	12-Nov-19	428	
+11678	H	30000	West	TV	UçanKuş HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2656	3737[tur]	4356	Tanea	27-Dec-19	430	
+11678	H	30000	West	TV	National Geographic Türkiye HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2657	3738[tur]|3739[eng]	4357	Tanea	12-Nov-19	432	
+11678	H	30000	West	TV	A Para HD	TV	Irdeto 2	No	DigiTurk	HD	MPEG-4	2658	3740[tur]	4358	Tanea	12-Nov-19	434	
+11678	H	30000	West	TV	TV 100	TV	Irdeto 2	No	DigiTurk	SD	MPEG-4	2659	3741[tur]	4359	Tanea	12-Nov-19	436	
+12556	V	4035	EuropeA	TV	Fox Sports Europe HD	TV	Viaccess 6.0	No		HD	MPEG-4	256	4113[eng]|4129[eng]|4145[eng]	1	EnoSat	31-Jan-20	440	
+12744	H	2222	EuropeA	TV	Numidia TV	TV	FTA	Yes		SD	MPEG-2	103	102[ara]	1	Tanea	19-Jan-20	444	
+21565	H	1100	EuropeC	TV	2S TV	TV	FTA	Yes		SD	MPEG-2	901	902[fre]	309	ade3661	22-Dec-19	448	
+21567	H	1100	EuropeC	TV	QTV Gambia	TV	FTA	Yes		SD	MPEG-4	312	5312[eng]	1	ade3661	22-Feb-19	452	
+21571	H	2441	EuropeC	TV	TPA Internacional	TV	FTA	Yes		SD	MPEG-2	514	4111[fre]	2	Tanea	15-Mar-15	456	
+21750	H	15000	EuropeC	TV	Muvi TV	TV	FTA	Yes		SD	MPEG-4	257	258|258[eng]	1	Tanea	14-Sep-16	460	
+21750	H	15000	EuropeC	TV	Africa Unite TV	TV	FTA	Yes		SD	MPEG-4	258	514|514[eng]	2	Tanea	14-Sep-16	462	
+21750	H	15000	EuropeC	TV	Muvi Nyimbo	TV	FTA	Yes		SD	MPEG-4	259	515|515[eng]	3	Tanea	14-Sep-16	464	
+21750	H	15000	EuropeC	TV	Nonkas TV	TV	FTA	Yes		SD	MPEG-4	260	516[eng]	4	Tanea	5-Apr-18	466	
+21750	H	15000	EuropeC	TV	Pinoy TV	TV	FTA	Yes		SD	MPEG-4	261	517[eng]	5	Tanea	14-Sep-16	468	
+21750	H	15000	EuropeC	TV	Muvi Prism Africa	TV	FTA	Yes		SD	MPEG-4	262	518|518[eng]	6	Tanea	14-Sep-16	470	
+21750	H	15000	EuropeC	TV	Muvi Sports	TV	FTA	Yes		SD	MPEG-4	263	519[eng]	7	Tanea	15-Mar-20	472	
+21750	H	15000	EuropeC	TV	Z-TV	TV	FTA	Yes		SD	MPEG-4	264	520|520[eng]	8	Tanea	14-Sep-16	474	
+21750	H	15000	EuropeC	TV	Hope Channel Zambia	TV	FTA	Yes		SD	MPEG-4	265	521|521[eng]	9	Tanea	14-Sep-16	476	
+21750	H	15000	EuropeC	TV	Muvi Bakadoli	TV	FTA	Yes		SD	MPEG-4	272	528|528[eng]	10	Tanea	14-Sep-16	478	
+21750	H	15000	EuropeC	TV	Muvi Emmanuel	TV	FTA	Yes		SD	MPEG-4	273	529|529[eng]	11	Tanea	14-Sep-16	480	
+21750	H	15000	EuropeC	TV	Muvi Novela	TV	FTA	Yes		SD	MPEG-4	274	530|530[eng]	12	Tanea	14-Sep-16	482	
+21750	H	15000	EuropeC	TV	KNC TV	TV	FTA	Yes		SD	MPEG-4	36	35[eng]	14	Tanea	15-Mar-20	484	

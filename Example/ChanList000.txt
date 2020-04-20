@@ -1,0 +1,20 @@
+No	Name	Lang
+1	Via Vosges|ViàVosges	[fra][fre]
+2	KTO|KTO TV Catholique	[fra][fre]
+3	RT France	[fra][fre]
+4	Label TV	[fra][fre]
+5	A La Maison	[fra][fre][qaa]
+6	Dici TV|D!ci TV|D!CI TV	[fra][fre]
+7	Bis Télévisions Promo|Bis TV promo|Offre	[fra][fre]
+8	Fransat Info HD|Fransat Info promo	[fra][fre]
+9	RT France	[fra][fre]
+10	Opsis TV|[Opsis TV info card]|Opsis TV HD info card	[fre]
+11	...|[test card]|test card	
+12	....|[test card]|test card	
+13	Via Vosges|ViàVosges|Vosges Télévision	[fra][fre]
+14	KTO|KTO TV Catholique	[fra][fre]
+15		
+16	Opsis TV|[Opsic TV info card]|Opsis TV HD info card	[fre]
+17	...|[test card]|test card	
+18	....|[test card]|test card	
+19	Label TV	[fra][fre]

@@ -1,485 +1,88 @@
 Freq	Pol	SR	Beam	Type	Name	FTA	Encryption	SID	VPID	APID Lang	Row
-10762	H	30000-3/5	Europe B	TV	Top News	Yes	MPEG-4/SD	1020	1021	1022[Alb]	6001
-10762	H	30000-3/5	Europe B	TV	BCTV Europe	Yes	MPEG-4/SD	1300	1301	1302[Alb]	6001
-10762	H	30000-3/5	Europe B	R	Top Albania Radio	Yes		1800		1803[Alb]	6001
-10762	H	30000-3/5	Europe B	R	Top Gold	Yes		1820		1023[Alb]	6001
-10804	H	29950-2/3	Europe B	TV	EuroNews Albania	Yes	MPEG-4/HD	2000	2001	2002[Alb]	6006
-10804	H	29950-2/3	Europe B	R	My Music Radio	Yes		921		2243[Alb]	6006
-10804	H	29950-2/3	Europe B	R	NRG Radio Albania	Yes		2411		2764[Alb]	6006
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Vision 4	Yes	MPEG-4/SD	101	1011	1012[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	2S TV	Yes	MPEG-4/SD	102	1021	1022[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	CRTV	Yes	MPEG-4/SD	104	1041	1042[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Hadi TV 5	Yes	MPEG-4/SD	105	1051	1052	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Emirem TV	Yes	MPEG-4/SD	107	1071	1072[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	CRTV News	Yes	MPEG-4/SD	108	1081	.082[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Canal 2 English	Yes	MPEG-4/SD	111	1111	1112[Eng]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Label TV	Yes	MPEG-4/SD	113	1131	1132[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Christ Live	Yes	MPEG-4/SD	114	1141	1142[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	RTB TV (Burkina Faso)	Yes	MPEG-4/SD	115	1151	1152[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Vision 4 RCA	Yes	MPEG-4/SD	117	1171	1172[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	CRTV Sports and Entertainment	Yes	MPEG-4/SD	118	1181	1182[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	LM TV Français	Yes	MPEG-4/SD	121	1211	1212[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Arewa 24	Yes	MPEG-4/SD	131	1311	1312[Hau]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Burkina Info TV	Yes	MPEG-4/SD	132	1321	1322[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	ORTB TV	Yes	MPEG-4/SD	201	2011	2012[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Golfe TV Africa	Yes	MPEG-4/SD	204	2041	2042[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	France 24 Français	Yes	MPEG-4/SD	205	2051	2052[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Asonga TV	Yes	MPEG-4/SD	206	2061	2062[Spa]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Equinoxe TV	Yes	MPEG-4/SD	343	3431	3432[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Canal 2 International	Yes	MPEG-4/SD	345	3451	3452[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Sweet FM Vision	Yes	MPEG-4/SD	346	3461	3462[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	ImpacTV	Yes	MPEG-4/SD	361	3611	3612[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Boom TV	Yes	MPEG-4/SD	371	3711	3712[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	STV (Cameroon)	Yes	MPEG-4/SD	372	3721	3722[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	New Africa TV Hausa	Yes	MPEG-4/SD	374	3741	3742[Hau]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Amen TV Sat	Yes	MPEG-4/HD	470	4701	4702[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Power TV	Yes	MPEG-4/SD	482	4821	4822[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Canal 2 Movies	Yes	MPEG-4/SD	502	5021	5022[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Ubiznews TV	Yes	MPEG-4/SD	505	5051	5052[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Africa TV 3	Yes	MPEG-4/SD	601	6011	6012[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Africa Sports TV	Yes	MPEG-4/SD	620	6201	6202[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Voxafrica Afrique	Yes	MPEG-4/SD	640	6401	6402	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	Eden TV	Yes	MPEG-4/SD	651	6511	6512	6010
-10804	H	30000-2/3	Sub-Sahara Africa	TV	TVC Africa	Yes	MPEG-4/SD	670	6701	6702[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	R	CRTV National Radio	Yes		104		1043[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	R	Golfe FM	Yes		106		1062[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	R	RTB Radio	Yes		116		1162[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	R	Alpha Blondy FM	Yes		133		1332[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	R	Radio Biafra	Yes		373		3732[Eng]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	R	Radio Immaculée Conception	Yes		480		4802[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	R	RFI Afrique	Yes		600		6002[Fre]	6010
-10804	H	30000-2/3	Sub-Sahara Africa	R	Diaspora FM	Yes		660		6612	6010
-10845	H	30000-3/5	Europe B	TV	DigitAlb promo	No	MPEG-4/SD	1028	320	321[Alb]	6054
-10928	H	30000-3/5	Europe B	TV	Wness TV	Yes	MPEG-4/SD	1102	1201	1202[Bul]|1203[Eng]|1204[Ukr]	6059
-10972	V	27500-3/5	Europe B	R	Radio Studio B	Yes		1371		3711[Srp]	7004
-10972	V	27500-3/5	Europe B	R	Hit FM Radio	Yes		1372		3721[Srp]	7004
-11016	H	2083-4/5	Sub-Sahara Africa	R	E-Télé	Yes	MPEG-4/SD	37		38[Fre]	7015
-11016	H	2083-4/5	Sub-Sahara Africa	TV	E-Télé Benin	Yes	MPEG-4/SD	1	33	34[Fre]	7015
-11024	H	3333-5/6	Sub-Sahara Africa	TV	TV Malagasy	Yes		1	512	768	7020
-11024	H	3333-5/6	Sub-Sahara Africa	R	Radio Madagasikara	Yes				211	7020
-11055	V	27500-4/5	Europe B	TV	CT 24	Yes	MPEG-4/HD	1154	1401	1402[Cze]	7027
-11069.4	H	355-2/3	Europe A	R	Radio 10	Yes		1010		201[Dut]	7031
-11069.4	H	355-2/3	Europe A	R	Radio 538	Yes		5380		101[Dut]	7031
-11069.8	H	375-3/5	Europe A	R	Sky Radio (Netherlands)	Yes		417		161[Dut]	7034
-11069.8	H	375-3/5	Europe A	R	Radio Veronica	Yes		674		162[Dut]	7034
-11070.2	H	274-1/2	Europe A	R	Slam!	Yes		170		64[Dut]	7037
-11070.6	H	274-1/2	Europe A	R	100% NL	Yes		170		64[Dut]	7038
-11070.9	H	176-3/4	Europe A	R	BNR Nieuwsradio	Yes		17629		1015[Dut]	7039
-11131	V	16593-2/3	Europe B	TV	Antena 1 (Romania)	No	MPEG-4/SD|Conax	1	1120	1221[Rum]	7051
-11131	V	16593-2/3	Europe B	TV	Antena Stars	No	MPEG-4/SD|Conax	2	2120	2221[Rum]	7051
-11131	V	16593-2/3	Europe B	TV	Antena 3 (Romania)	No	MPEG-4/SD|Conax	3	3120	3221[Rum]	7051
-11131	V	16593-2/3	Europe B	TV	Happy Channel	No	MPEG-4/SD|Conax	4	4120	4221[Rum]	7051
-11131	V	16593-2/3	Europe B	TV	Zu TV	No	MPEG-4/SD|Conax	5	5120	5221[Rum]	7051
-11131	V	16593-2/3	Europe B	TV	Antena International	No	MPEG-2/SD|Conax	6	6120	6221[Rum]	7051
-11131	V	16593-2/3	Europe B	TV	Antena 1 (Romania)	No	MPEG-4/HD|Conax	7	7120	7221[Rum]	7051
-11131	V	16593-2/3	Europe B	R	Radio Zu	Yes		55		6223[Rum]	7051
-11131	V	16593-2/3	Europe B	R	Romantic FM	Yes		56		3223[Rum]	7051
-11139	H	30000-3/5	Europe A	TV	T7	Yes	MPEG-4/SD	4721	49	50[Alb]	7061
-11139	H	30000-3/5	Europe A	TV	Top News	Yes	MPEG-4/SD	5010	6841	6844[Alb]	7061
-11151	V	14375-3/5	Europe A	TV	Pink Thriller	No	MPEG-4/SD|Irdeto|Videoguard	52	552	652[Srp]	7064
-11151	V	14375-3/5	Europe A	TV	Pink Crime & Mystery	No	MPEG-4/SD|Irdeto|Videoguard	53	553	653[Srp]	7064
-11151	V	14375-3/5	Europe A	TV	Pink Romance	No	MPEG-4/SD|Irdeto|Videoguard	54	554	654[Srp]	7064
-11151	V	14375-3/5	Europe A	TV	Pink Sci-Fi & Fantasy	No	MPEG-4/SD|Irdeto|Videoguard	55	555	655[Srp]	7064
-11151	V	14375-3/5	Europe A	TV	Pink Reality	No	MPEG-4/SD|Irdeto|Videoguard	56	556	656[Srp]	7064
-11151	V	14375-3/5	Europe A	TV	Pink Premium	No	MPEG-4/SD|Irdeto|Videoguard	57	557	657[Srp]	7064
-11151	V	14375-3/5	Europe A	TV	Pink Soap	No	MPEG-4/SD|Irdeto|Videoguard	58	558	658[Srp]	7064
-11151	V	14375-3/5	Europe A	TV	Pink World	No	MPEG-4/SD|Irdeto|Videoguard	59	559	659[Srp]	7064
-11151	V	14375-3/5	Europe A	TV	Pink Zabava	No	MPEG-4/SD|Irdeto|Videoguard	60	560	660[Srp]	7064
-11151	V	14375-3/5	Europe A	TV	Pink Pedia	No	MPEG-4/SD|Irdeto|Videoguard	61	561	661[Srp]	7064
-11151	V	14375-3/5	Europe A	TV	Pink Hits 2	No	MPEG-4/SD|Irdeto|Videoguard	62	562	662[Srp]	7064
-11151	V	14375-3/5	Europe A	TV	Pink Koncert	No	MPEG-4/SD|Irdeto|Videoguard	63	563	663[Srp]	7064
-11151	V	14375-3/5	Europe A	TV	Pink Folk 1	Yes	MPEG-4/SD	64	564	664[Srp]	7064
-11151	V	14375-3/5	Europe A	TV	Pink Comedy	No	MPEG-4/SD|Irdeto|Videoguard	65	565	665[Srp]	7064
-11151	V	14375-3/5	Europe A	TV	Pink Horror	No	MPEG-4/SD|Irdeto|Videoguard	67	567	667[Srp]	7064
-11151	V	14375-3/5	Europe A	TV	Pink Folk 2	No	MPEG-4/SD|Irdeto|Videoguard	68	568	668[Srp]	7064
-11178	V	30000-3/5	Europe B	R	Pink Radio	Yes	MPEG-4/SD	3		661[Srp]	7084
-11178	V	30000-3/5	Europe B	R	Welcome To Fun Radio	Yes	MPEG-4/SD	13		662[Srp]	7084
-11221	H	30000-3/5	Europe A	R	Kanal 77	Yes		4466		3652[Mac]	8000
-11231	V	42000-4/5	Europe A	R	Play	Yes		773		3731[Srp]	8002
-11262	H	30000-2/3	Europe B	TV	BN TV Satelitski	No	MPEG-4/HD|Viaccess|Videoguard	4	93	95[Srp]	8004
-11262	H	30000-2/3	Europe B	TV	BN Music	Yes	MPEG-4/HD	5	109	111[Srp]	8004
-11262	H	30000-2/3	Europe B	TV	RTRS TV	Yes	MPEG-4/SD	7	141	143[Srp]	8004
-11262	H	30000-2/3	Europe B	TV	BN TV Zemaljski	No	MPEG-4/HD|Viaccess|Videoguard	12	221	223[Srp]	8004
-11262	H	30000-2/3	Europe B	TV	RTRS Plus	Yes	MPEG-4/SD	17	301	303[Srp]	8004
-11262	H	30000-2/3	Europe B	R	Radio Stari Grad	Yes		8		159[Bos]	8004
-11262	H	30000-2/3	Europe B	R	Kalman Radio	Yes		9		175[Bos]	8004
-11262	H	30000-2/3	Europe B	R	VIP Radio	Yes		10		191[Srp]	8004
-11262	H	30000-2/3	Europe B	R	Radio Bir	Yes		11		207[Bos]	8004
-11262	H	30000-2/3	Europe B	R	Radio BN	Yes		13		239[Srp]	8004
-11262	H	30000-2/3	Europe B	R	Radio Mix	Yes		14		255[Bos]	8004
-11262	H	30000-2/3	Europe B	R	Radio Fles	Yes		15		271[Srp]	8004
-11262	H	30000-2/3	Europe B	R	Radio Curak	Yes		16		287[Hrv]	8004
-11262	H	30000-2/3	Europe B	R	Radio Republike Srpske	Yes		18		304[Srp]	8004
-11262	H	30000-2/3	Europe B	R	Radio Mir Medjugorje	Yes		19		288[Hrv]	8004
-11262	H	30000-2/3	Europe B	R	Radio Posavina	Yes		20		351[Hrv]	8004
-11262	H	30000-2/3	Europe B	R	Bobar Radio	Yes		22		256[Srp]	8004
-11283	V	30000-2/3	Europe B	TV	FilmBox Premium Adria	No	MPEG-4/HD|Conax|Videoguard	2701	1101	1102[Eng]	8022
-11283	V	30000-2/3	Europe B	TV	Timeless Drama Channel	No	MPEG-4/HD|Conax	2702	1201	1202[Tur]|1203[Ara]	8022
-11283	V	30000-2/3	Europe B	TV	Gametoon	No	MPEG-4/HD|Conax	2705	3401	3402[Eng]	8022
-11283	V	30000-2/3	Europe B	TV	FightBox HD	No	MPEG-4/HD|Conax	2706	2301	2302[Eng]	8022
-11283	V	30000-2/3	Europe B	TV	FilmBox Arthouse Africa & Turkey & Middle East	No	MPEG-4/SD|Conax	2707	3501	3502[Eng]	8022
-11283	V	30000-2/3	Europe B	TV	FilmBox Arthouse Worldwide	No	MPEG-4/SD|Conax|Videoguard	2708	1801	1802[Eng]|1803[Rus]	8022
-11283	V	30000-2/3	Europe B	TV	FilmBox Plus Adria	No	MPEG-4/SD|Conax|Videoguard	2709	1901	1902[Eng]	8022
-11283	V	30000-2/3	Europe B	TV	FilmBox Extra HD Adria	No	MPEG-4/HD|Conax|Videoguard	2710	2001	2002[Eng]	8022
-11283	V	30000-2/3	Europe B	TV	DocuBox HD	No	MPEG-4/HD|Conax|Irdeto|Videoguard	2711	2101	2102[Eng]|2103[Rus]	8022
-11283	V	30000-2/3	Europe B	TV	Fast & FunBox HD	No	MPEG-4/HD|Conax|Irdeto|Videoguard	2712	2201	2202[Eng]|2203[Rus]|2204[Tur]	8022
-11283	V	30000-2/3	Europe B	TV	FightBox HD	No	MPEG-4/HD|Conax|Irdeto|Videoguard	2713	2301	2302[Eng]|2303[Rus]|2304[Pol]|2305[Tur]|2306[Spa]	8022
-11283	V	30000-2/3	Europe B	TV	Eroxxx HD	No	MPEG-4/HD|Conax|Irdeto|Videoguard	2714	2401	2402[Eng]	8022
-11283	V	30000-2/3	Europe B	TV	Erox HD	No	MPEG-4/SD|Conax|Irdeto|Videoguard	2715	2501	2502[Eng]	8022
-11283	V	30000-2/3	Europe B	TV	360 Tune Box	No	MPEG-4/SD|Conax	2716	1501	1502[Eng]	8022
-11283	V	30000-2/3	Europe B	TV	FilmBox Extra HD Czechia & Hungary	No	MPEG-4/HD|Conax|Irdeto	2717	2701	2721[Cze]|2722[Hun]	8022
-11283	V	30000-2/3	Europe B	TV	FilmBox Plus Hungary	No	MPEG-4/SD|Conax|Irdeto	2718	2801	2802[Cze]|2803[Eng]|2804[Hun]	8022
-11283	V	30000-2/3	Europe B	TV	FilmBox Premium Czechia	No	MPEG-4/SD|Conax|Irdeto	2719	2901	2902[Cze]	8022
-11283	V	30000-2/3	Europe B	TV	360 Tune Box	No	MPEG-4/SD|Conax|Irdeto|Videoguard	2720	1501	1502[Eng]	8022
-11283	V	30000-2/3	Europe B	TV	FashionBox HD	No	MPEG-4/SD|Conax|Irdeto|Videoguard	2721	1701	1702[Eng]	8022
-11283	V	30000-2/3	Europe B	TV	FilmBox Basic	No	MPEG-4/SD|Conax|Irdeto	2722	3001	3003[Eng]|3004[Hun]|3005[Bul]	8022
-11283	V	30000-2/3	Europe B	TV	FilmBox Baltic	No	MPEG-4/SD|Conax	2723	3101	3102[Rus]|3103[Qaa]	8022
-11283	V	30000-2/3	Europe B	TV	FilmBox Premium Hungary	No	MPEG-4/SD|Conax	2724	3201	3202[Hun]	8022
-11283	V	30000-2/3	Europe B	TV	FilmBox Family	No	MPEG-4/SD|Conax|Irdeto	2725	3301	3302[Cze]|3303[Hun]	8022
-11283	V	30000-2/3	Europe B	TV	FilmBox Plus Adria	No	MPEG-4/SD|Conax	2727	1901	1902[Eng]	8022
-11283	V	30000-2/3	Europe B	TV	FilmBox Extra HD Adria	No	MPEG-4/HD|Conax	2728	2001	2002[Eng]	8022
-11283	V	30000-2/3	Europe B	TV	Gametoon	No	MPEG-4/HD|Conax|Videoguard	2729	3401	3402[Eng]	8022
-11303	H	30000-2/3	Europe A	TV	Aljazeera Balkans	Yes	MPEG-4/HD	1	49	51[Bos]	8049
-11303	H	30000-2/3	Europe A	TV	Minimax Serbia	No	MPEG-4/SD|Viaccess|Videoguard	3	81	83[Srp]|84[Slv]	8049
-11303	H	30000-2/3	Europe A	TV	Eurochannel	No	MPEG-4/HD|Viaccess	4	97	99[Qaa]|100[Pol]|101[Rus]	8049
-11303	H	30000-2/3	Europe A	TV	Yu Planet TV	Yes	MPEG-4/SD	6	129	131[Srp]	8049
-11303	H	30000-2/3	Europe A	TV	OBN	No	MPEG-4/SD|Viaccess	7	145	147[Bos]	8049
-11303	H	30000-2/3	Europe A	TV	Aurora TV	Yes	MPEG-4/SD	8	161	163[Hrv]	8049
-11303	H	30000-2/3	Europe A	TV	Pro TV International	Yes	MPEG-4/SD	9	177	179[Rum]	8049
-11303	H	30000-2/3	Europe A	TV	Fashion TV HD Europe	Yes	MPEG-4/HD	15	273	275	8049
-11303	H	30000-2/3	Europe A	TV	TV Duga +	Yes	MPEG-4/SD	16	289	291[Srp]	8049
-11303	H	30000-2/3	Europe A	TV	DM Sat	Yes	MPEG-4/HD	17	305	307[Srp]	8049
-11303	H	30000-2/3	Europe A	TV	AMC Balkan	No	MPEG-2/SD|Conax|Viaccess|Videoguard	18	321	323[Eng]	8049
-11303	H	30000-2/3	Europe A	TV	K3	No	MPEG-4/SD|Videoguard	21	369	371[Srp]	8049
-11303	H	30000-2/3	Europe A	R	Nezavisni Radio Studio 99	Yes		2		68[Bos]	8049
-11303	H	30000-2/3	Europe A	R	Radio Marija Srbija	Yes		24		415[Hrv]	8049
-11303	H	30000-2/3	Europe A	R	Mária Rádió Szerbia	Yes		25		431[Hun]	8049
-11303	H	30000-2/3	Europe A	R	Radio Maria Romania	Yes		26		447[Rum]	8049
-11303	H	30000-2/3	Europe A	R	Mária Rádió Erdély	Yes		27		46.[Hun]	8049
-11303	H	30000-2/3	Europe A	R	Radio Maria Albania	Yes		28		479[Alb]	8049
-11303	H	30000-2/3	Europe A	R	Radio Marija Bosna i Hercegovina	Yes		29		495[Hrv]	8049
-11303	H	30000-2/3	Europe A	R	Mária Rádió	Yes		32		543[Hun]	8049
-11345	H	30000-3/4	Europe B	TV	OTV Valentino	Yes	MPEG-4/SD	1001	102	103[Bos]	8071
-11345	H	30000-3/4	Europe B	TV	K CN 3	Yes		1004	402	403[Srp]	8071
-11345	H	30000-3/4	Europe B	TV	K CN 1	Yes		1007	702	703[Srp]	8071
-11345	H	30000-3/4	Europe B	TV	K CN 2	Yes		1017	1702	1703[Srp]	8071
-11345	H	30000-3/4	Europe B	R	Radio 1 Krvavec	Yes		3001		3102[Slv]	8071
-11345	H	30000-3/4	Europe B	R	Radio Ognjisce	Yes		3002		3202[Slv]	8071
-11345	H	30000-3/4	Europe B	R	Radio Valentino	Yes		3004		3402[Bos]	8071
-11356	H	45000-3/4	Sub-Sahara Africa	TV	RTS 1 (Senegal)	Yes	MPEG-4/SD	3101	1012	1013[Fre]	8079
-11356	H	45000-3/4	Sub-Sahara Africa	TV	Télé Tchad	Yes	MPEG-4/SD	3102	1021	1022[Fre]	8079
-11356	H	45000-3/4	Sub-Sahara Africa	TV	Equinoxe TV	Yes	MPEG-4/SD	3103	1031	1032[Fre]	8079
-11356	H	45000-3/4	Sub-Sahara Africa	TV	Alwilayah TV Hausa	Yes	MPEG-4/SD	3104	1041	1042[Hau]	8079
-11356	H	45000-3/4	Sub-Sahara Africa	TV	Divin Amour TV	Yes	MPEG-4/SD	3106	106.	1062	8079
-11356	H	45000-3/4	Sub-Sahara Africa	TV	Sikka TV	Yes	MPEG-4/SD	3113	1131	1132[Fre]	8079
-11356	H	45000-3/4	Sub-Sahara Africa	TV	Nina sat	No	MPEG-4/SD	3114	1141	1142[Fre]	8079
-11356	H	45000-3/4	Sub-Sahara Africa	R	Radio Tchad	Yes		3105		1052[Fre]	8079
-11427	V	27500-2/3	Europe B	TV	Tring Sport News	Yes	MPEG-4/SD	3	2518	2519[Alb]	8091
-11427	V	27500-2/3	Europe B	TV	Fax News	Yes	MPEG-4/SD	128	3504	3505[Alb]	8091
-11427	V	27500-2/3	Europe B	TV	Kanali 7	Yes	MPEG-4/SD	999	1700	1710[Alb]	8091
-11427	V	27500-2/3	Europe B	R	Radio Klan	Yes		7000		2304[Alb]	8091
-11471	V	30000-5/6	Europe B	TV	Arena HD	No	MPEG-4/HD	604	1401	1402[Ger]	9001
-11471	H	30000-8/9	South East Africa	R	Jazz Radio	Yes		18		1904[Fre]	9003
-11471	H	30000-8/9	South East Africa	R	RFM (France)	Yes		24		1905[Fre]	9003
-11471	H	30000-8/9	South East Africa	R	Europe 1	Yes		31		1907[Fre]	9003
-11471	H	30000-8/9	South East Africa	R	RMC	Yes		32		1909[Fre]	9003
-11471	H	30000-8/9	South East Africa	R	Free Dom 1	Yes		48		114[Fre]	9003
-11512	V	29950-2/3	Europe B	TV	TVR 1	No	MPEG-4/SD|Conax	1	100	110[Rum]	9010
-11512	V	29950-2/3	Europe B	TV	TVR 2	No	MPEG-4/SD|Conax	2	200	210[Rum]	9010
-11512	V	29950-2/3	Europe B	TV	TVR 3	No	MPEG-4/SD|Conax	3	300	310[Rum]	9010
-11512	V	29950-2/3	Europe B	TV	TVR Moldova	No	MPEG-4/SD|Conax	4	400	410[Rum]	9010
-11512	V	29950-2/3	Europe B	TV	TVR International	Yes	MPEG-4/SD	6	600	610[Rum]	9010
-11512	V	29950-2/3	Europe B	TV	TVR 1	No	MPEG-4/HD|Conax	15	1500	1510[Rum]	9010
-11512	V	29950-2/3	Europe B	TV	TVR 2	No	MPEG-4/HD|Conax	17	1700	1710[Rum]	9010
-11512	V	29950-2/3	Europe B	R	Radio România Actualitati	Yes		21		2110[Rum]	9010
-11512	V	29950-2/3	Europe B	R	Radio România Cultural	Yes		22		2210[Rum]	9010
-11512	V	29950-2/3	Europe B	R	Radio România Muzical	Yes		23		2310[Rum]	9010
-11512	V	29950-2/3	Europe B	R	Radio România Antena Satelor	Yes		24		2410[Rum]	9010
-11512	V	29950-2/3	Europe B	R	Radio România International 1	Yes		25		2510[Rum]	9010
-11512	V	29950-2/3	Europe B	R	Radio România International 2	Yes		26		2610[Rum]	9010
-11512	V	29950-2/3	Europe B	R	Radio România International 3	Yes		27		2710[Rum]	9010
-11554	H	30000-5/6	South East Africa	TV	Franceinfo: TV	Yes	MPEG-4/SD	8548	341	441[Fre]	9028
-11554	H	30000-5/6	South East Africa	TV	Réunion 1ère	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	18450	301	401[Fre]	9028
-11554	H	30000-5/6	South East Africa	TV	Mayotte 1ère	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	18457	302	402[Fre]	9028
-11554	H	30000-5/6	South East Africa	TV	France 2	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	18529	370	470[Fre]	9028
-11554	H	30000-5/6	South East Africa	TV	France 3	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	18532	371	471[Fre]	9028
-11554	H	30000-5/6	South East Africa	TV	France 4	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	18535	372	472[Fre]	9028
-11554	H	30000-5/6	South East Africa	TV	France 5	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	18538	373	473[Fre]	9028
-11554	H	30000-5/6	South East Africa	TV	France Ô	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	18541	375	475[Fre]	9028
-11554	H	30000-5/6	South East Africa	TV	ARTE Français	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	18545	374	474[Fre]	9028
-11554	H	30000-5/6	South East Africa	TV	France 24 Français	Yes	MPEG-4/SD	18548	342	442[Fre]	9028
-11554	H	30000-5/6	South East Africa	R	Réunion 1ère Radio	Yes		151		501[Fre]	9028
-11554	H	30000-5/6	South East Africa	R	Mayotte 1ère Radio	Yes		152		502[Fre]	9028
-11554	H	30000-5/6	South East Africa	R	Mouv'	Yes		156		506[Fre]	9028
-11554	H	30000-5/6	South East Africa	R	Radio France Internationale	Yes		157		507[Fre]	9028
-11554	H	30000-5/6	South East Africa	R	Franceinfo: Radio	Yes		158		508[Fre]	9028
-11554	H	30000-5/6	South East Africa	R	France Culture	Yes		159		509[Fre]	9028
-11554	H	30000-5/6	South East Africa	R	France Inter	Yes		160		510[Fre]	9028
-11554	H	30000-5/6	South East Africa	R	France Musique	Yes		161		521[Fre]	9028
-11554	H	30000-5/6	South East Africa	R	France Bleu 107.1	Yes		162		522[Fre]	9028
-11554	H	30000-5/6	South East Africa	R	France Bleu	Yes		163		513[Fre]	9028
-11554	H	30000-5/6	South East Africa	R	RFI Afrique	Yes		164		514[Fre]	9028
-11554	H	30000-5/6	South East Africa	R	Outre-mer 1ère	No	Viaccess	190		490[Fre]	9028
-11595	H	30000-3/4	Europe B	TV	Z1	Yes	MPEG-4/SD	103	2834	2610[Hrv]	9051
-11595	H	30000-3/4	Europe B	TV	TVCG Sat	Yes	MPEG-4/HD	155	2896	2640[Srp]	9051
-11595	H	30000-3/4	Europe B	R	Radio CG	Yes		156		2641[Srp]	9051
-11595	H	30000-3/4	Europe B	R	Otvoreni Radio	Yes		201		2572[Hrv]	9051
-11595	H	30000-3/4	Europe B	R	Narodni	Yes		202		2573[Hrv]	9051
-11595	H	30000-3/4	Europe B	R	Antena Zagreb	Yes		203		2574[Hrv]	9051
-11595	H	30000-3/4	Europe B	R	Radio Marija Hrvatska	Yes		211		2582[Hrv]	9051
-11595	H	30000-3/4	Europe B	R	Gold FM	Yes		218		2586[Hrv]	9051
-11595	H	30000-3/4	Europe B	R	Enter ZG	Yes		219		2587[Hrv]	9051
-11595	V	30000-5/6	Europe B	R	Fashion Television Europe	Yes	DVB-S2|MPEG-4/HD	30000-5/68PSK  952 - 3501		9.4|3502[Eng]	9061
-11596	H	29980-8/9	South East Africa	R	RCF National	Yes		183		683[Fre]	9063
-11596	H	29980-8/9	South East Africa	R	Sunlight FM	Yes		2298		2479[Fre]	9063
-11637	H	30000-5/6	Europe B	TV	VH1 Classic	No	MPEG-4/SD|Conax	1901	1101	1102[Eng]	9066
-11637	H	30000-5/6	Europe B	TV	History Europe	No	MPEG-4/SD|Irdeto	1902	1201	1202[Cze]|1203[Hun]|1204[Eng]	9066
-11637	H	30000-5/6	Europe B	TV	Nick Jr Central & Eastern Europe	No	MPEG-4/SD|Conax|Irdeto	1903	1301	1302[Eng]	9066
-11637	H	30000-5/6	Europe B	TV	PlanetSport 4	No	MPEG-4/HD|Conax	1905	1501	1502[Hrv]	9066
-11637	H	30000-5/6	Europe B	TV	Travelxp HD Europe	No	MPEG-4/HD|Conax|Irdeto	1906	1601	1602[Eng]|1603[Cze]	9066
-11637	H	30000-5/6	Europe B	TV	Cartoon Network Bulgaria	No	MPEG-4/SD|Conax|Irdeto	1907	1701	1702[Eng]|1703[Bul]|1704[Rus]	9066
-11637	H	30000-5/6	Europe B	TV	Disney Channel Romania	No	MPEG-2/SD|Conax	1908	1801	1802[Rum]|1803[Eng]	9066
-11637	H	30000-5/6	Europe B	TV	History Europe	No	MPEG-4/SD|Conax	1909	.201	1204[Eng]	9066
-11637	H	30000-5/6	Europe B	TV	Disney Channel Bulgaria	No	MPEG-2/SD|Conax	1910	2001	2002[Bul]|2003[Eng]	9066
-11637	H	30000-5/6	Europe B	TV	Havoc TV	No	MPEG-4/SD|Conax	1912	3901	3902[Eng]	9066
-11637	H	30000-5/6	Europe B	TV	AXN Spin Romania	No	MPEG-4/SD|Conax|Videoguard	1914	2401	2402[Eng]|2403[Rum]	9066
-11637	H	30000-5/6	Europe B	TV	Eurobet 5 ot 11	No	MPEG-4/SD|Conax	1915	2501	2502[Bul]	9066
-11637	H	30000-5/6	Europe B	TV	Barely Legal TV	No	MPEG-4/SD|Conax	1917	2701	2702[Eng]	9066
-11637	H	30000-5/6	Europe B	TV	Eurobet Sport Chance	No	MPEG-4/SD|Conax	1918	2801	2802[Bul]	9066
-11637	H	30000-5/6	Europe B	TV	Da Vinci	No	MPEG-4/SD|Conax	1919	4301	4302	9066
-11637	H	30000-5/6	Europe B	TV	Travel Channel Europe	No	MPEG-4/SD|Conax	1920	4501	4504[Eng]	9066
-11637	H	30000-5/6	Europe B	TV	PlanetSport 5	No	MPEG-4/HD|Conax	1922	3201	3202[Hrv]	9066
-11637	H	30000-5/6	Europe B	TV	TV Bulgare	Yes	MPEG-4/SD	1923	3301	3302[Bul]	9066
-11637	H	30000-5/6	Europe B	TV	HBO Adria	No	MPEG-4/HD|Conax|Nagravision	1924	3401	3402[Hrv]|3404[Slv]|3405[Mac]|3406[Srp]|3421[Eng]	9066
-11637	H	30000-5/6	Europe B	TV	HBO 2 Central Europe	No	MPEG-4/HD|Conax|Nagravision	1925	3501	3502[Hrv]|3504[Slv]|3505[Mac]|3506[Srp]|3521[Eng]	9066
-11637	H	30000-5/6	Europe B	TV	Cinemax Central Europe	No	MPEG-4/HD|Conax|Nagravision|Videoguard	1926	3601	3602[Hrv]|3605[Slv]|3606[Srp]	9066
-11637	H	30000-5/6	Europe B	TV	Cinemax 2 Central Europe	No	MPEG-4/HD|Conax|Nagravision|Videoguard	1927	3701	3702[Hrv]|3705[Slv]|3706[Srp]	9066
-11637	H	30000-5/6	Europe B	TV	Cinemax 2 Central Europe	No	MPEG-4/HD|Conax	1938	3701	3704[Cze]	9066
-11637	H	30000-5/6	Europe B	TV	HBO 3 Central Europe	No	MPEG-4/HD|Conax|Nagravision|Videoguard	1942	5201	5202[Hrv]|5203[Slv]|5204[Srp]|5206[Mac]|5221[Eng]	9066
-11637	H	30000-5/6	Europe B	TV	Travel Channel Europe	No	MPEG-4/SD|Conax	1944	4501	4502[Bul]	9066
-11637	H	30000-5/6	Europe B	TV	Cinemax Central Europe	No	MPEG-4/HD|Conax|Irdeto	1946	3601	3604[Cze]	9066
-11637	H	30000-5/6	Europe B	TV	Cinemax 2 Central Europe	No	MPEG-4/HD|Irdeto	1948	3701	3704[Cze]	9066
-11637	H	30000-5/6	Europe B	TV	Cinemax Central Europe	No	MPEG-4/HD|Irdeto	1949	3601	3604[Cze]	9066
-11637	H	30000-5/6	Europe B	TV	Evrofutbol	No	MPEG-4/SD|BISS	1950	4901	4902[Bul]	9066
-11637	H	30000-5/6	Europe B	TV	Evrofutbol Konni Nabyaaniya	Yes	MPEG-4/SD	1951	5101	5102[Bul]	9066
-11637	H	30000-5/6	Europe B	TV	Evrofutbol SportMaks	Yes	MPEG-4/SD	1952	5301	5302[Bul]	9066
-11637	V	30000-2/3	Europe B	TV	HRT 1	No	MPEG-4/HD|Viaccess	3401	111	112[Hrv]	9098
-11637	V	30000-2/3	Europe B	TV	HRT 2	No	MPEG-4/HD|Viaccess	3402	121	122[Hrv]	9098
-11637	V	30000-2/3	Europe B	TV	HRT 3	No	MPEG-4/HD|Viaccess	3403	131	132[Hrv]	9098
-11637	V	30000-2/3	Europe B	TV	HRT 4	Yes	MPEG-4/HD	3404	141	142[Hrv]	9098
-11637	V	30000-2/3	Europe B	TV	HRT International	Yes	MPEG-4/SD	3405	151	152[Hrv]	9098
-11637	V	30000-2/3	Europe B	TV	TV Slovenija 1	Yes	MPEG-4/HD	3431	411	412[Slv]	9098
-11637	V	30000-2/3	Europe B	TV	TV Slovenija 2	Yes	MPEG-4/HD	3432	421	422[Slv]	9098
-11637	V	30000-2/3	Europe B	TV	TV Slovenija 3	Yes	MPEG-4/HD	3433	431	432[Slv]	9098
-11637	V	30000-2/3	Europe B	R	HR Prvi program	Yes		3411		212[Hrv]	9098
-11637	V	30000-2/3	Europe B	R	HR Drugi program	Yes		3412		222[Hrv]	9098
-11637	V	30000-2/3	Europe B	R	HR Treci program	Yes		3413		232[Hrv]	9098
-11637	V	30000-2/3	Europe B	R	Glas Hrvatske	Yes		3414		242[Hrv]	9098
-11637	V	30000-2/3	Europe B	R	Hrvatski Katolicki Radio	Yes		3416		262[Hrv]	9098
-11637	V	30000-2/3	Europe B	R	Prvi	Yes		3434		452[Slv]	9098
-11637	V	30000-2/3	Europe B	R	Val 202	Yes		3435		462[Slv]	9098
-11637	V	30000-2/3	Europe B	R	Ars	Yes		3436		472[Slv]	9098
-11637	V	30000-2/3	Europe B	R	Radio Si	Yes		3437		492	9098
-11637	H	30000-8/9	South East Africa	TV	Voir +	Yes	MPEG-4/SD	536	191	131[Fre]	9116
-11637	H	30000-8/9	South East Africa	R	Radio Record	Yes		539		135	9116
-11637	H	30000-8/9	South East Africa	R	Radio des Jeunes	Yes		540		137[Fre]	9116
-11637	H	30000-8/9	South East Africa	R	RTL Réunion	Yes		541		138[Fre]	9116
-11637	H	30000-8/9	South East Africa	R	Radio Don Bosco	Yes		542		139[Fre]	9116
-11637	H	30000-8/9	South East Africa	R	RNM	Yes		543		141	9116
-11637	H	30000-8/9	South East Africa	R	Viva 98.8 FM	Yes		544		142[Fre]	9116
-11637	H	30000-8/9	South East Africa	R	Ylang FM	Yes		545		143[Fre]	9116
-11637	H	30000-8/9	South East Africa	R	Best FM	Yes		546		150	9116
-11637	H	30000-8/9	South East Africa	R	Kool FM	Yes		547		146	9116
-11637	H	30000-8/9	South East Africa	R	Radio One (Mauritius)	Yes		548		147[Fre]	9116
-11637	H	30000-8/9	South East Africa	R	Radio Plus FM (Réunion)	Yes		549		149[Fre]	9116
-11678	H	30000-3/4	Europe B	TV	Nova 24 TV	Yes	MPEG-4/SD	87	2822	2566[Slv]	9131
-11678	H	30000-3/4	Europe B	TV	Posavina TV	Yes	MPEG-4/SD	132	2817	2561[Hrv]	9131
-11678	H	30000-3/4	Europe B	TV	Laudato TV	Yes	MPEG-4/SD	215	2840	2584[Hrv]	9131
-11678	H	30000-3/4	Europe B	TV	Sportska TV	Yes	MPEG-4/SD	430	2835	2579[Hrv]	9131
-12541	V	19970-3/4	Europe B	TV	Kohavision	No	MPEG-4/HD|Conax|Irdeto	1	257	258[Alb]	10009
-12541	V	19970-3/4	Europe B	TV	Klan Kosova	No	MPEG-4/HD|Conax|Irdeto	2	300	301[Alb]	10009
-12541	V	19970-3/4	Europe B	TV	RTV 21 Sat	No	MPEG-4/HD|Conax|Irdeto	3	910	911[Alb]	10009
-12541	V	19970-3/4	Europe B	TV	TV Dukagjini	No	MPEG-4/HD|Conax|Irdeto	4	900	901[Alb]	10009
-12541	V	19970-3/4	Europe B	TV	First Channel	No	MPEG-4/SD|Conax|Irdeto	6	920	921[Alb]	10009
-12541	V	19970-3/4	Europe B	TV	Arta	No	MPEG-4/HD|Conax|Irdeto	7	700	701[Alb]	10009
-12541	V	19970-3/4	Europe B	TV	T7	No	MPEG-4/SD|Conax|Irdeto	8	611	631[Alb]	10009
-12541	V	19970-3/4	Europe B	TV	Zico TV	Yes	MPEG-4/SD	9	930	931[Alb]	10009
-12541	V	19970-3/4	Europe B	TV	TV 21 Macedonia	Yes	MPEG-4/SD	10	513	514[Mac]	10009
-12541	V	19970-3/4	Europe B	R	Radio 21 (Kosovo)	Yes		11		771[Alb]	10009
-12541	V	19970-3/4	Europe B	R	Radio Dukagjini	Yes		12		259[Alb]	10009
-12562	H	30000-2/3	Sub-Sahara Africa	TV	TFM	Yes	MPEG-4/SD	201	2012	2013[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	L'Obs TV	Yes	MPEG-4/SD	202	2022	2023[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	TFM Religions	Yes	MPEG-4/SD	203	2032	2033[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	NW Sport 1	Yes	MPEG-4/SD	205	2051	2052	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	TVT	Yes	MPEG-4/SD	206	2061	2062[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	NW Info	Yes	MPEG-4/SD	207	2071	2072[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	InfoTV	Yes	MPEG-4/SD	211	2111	2112[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	DBS TV (Cameroon)	Yes	MPEG-4/SD	212	2121	2122[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	LoveWorld Plus	Yes	MPEG-4/SD	213	2131	2132[Eng]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	Dieu TV	Yes	MPEG-4/SD	214	2141	2142[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	BF1	Yes	MPEG-4/SD	216	2161	2162[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	NW Magazine	Yes	MPEG-4/SD	219	2191	2192[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	Unafrica TV	Yes	MPEG-4/SD	220	2201	2202[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	La Beninoise TV	Yes	MPEG-4/SD	221	2211	2212	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	La Chrétienne TV	Yes	MPEG-4/SD	222	2221	2222[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	QTV Gambia	Yes	MPEG-4/SD	223	2231	2232[Eng]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	BB 24	Yes	MPEG-2/SD	228	2281	2282[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	SMTV	Yes	MPEG-4/SD	236	2361	2362[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	NW Info 2	Yes	MPEG-4/SD	237	2371	2372[Eng]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	A12 TV	Yes	MPEG-4/SD	238	2381	2382[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	JesusChrist TV	Yes	MPEG-4/SD	242	2421	2422[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	EMCI TV Paris	Yes	MPEG-4/SD	243	2431	2432[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	Miracle TV+	Yes	MPEG-4/SD	244	2441	2442	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	Distinction TV	Yes	MPEG-4/SD	245	2451	2452[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	TV Chandelier	Yes	MPEG-4/SD	246	2461	2462[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	AC TV	Yes	MPEG-4/SD	247	2471	2472[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	TV	Casarhema TV	Yes	MPEG-4/SD	250	3641	36.2[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	R	RFM (Senegal)	Yes		204		2043[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	R	Radio Kara	Yes		209		2.92[Fre]	10026
-12562	H	30000-2/3	Sub-Sahara Africa	R	Radio Lomé	Yes		210		2102[Fre]	10026
-12564	V	3617-3/4	Europe B	TV	Kanal D Romania	No	BISS	1	100	110[Rum]	10058
-12570	H	3703-7/8	Europe A	TV	SIC Internacional	No	BISS	1	308	256[Por]	10060
-12593	V	2500-2/3	Europe B	TV	DM Sat	Yes		1	512	.68[Srp]	10063
-12604	H	29980-2/3	Sub-Sahara Africa	TV	TF 1	No	MPEG-4/SD|Conax|Nagravision|Viaccess	1	111	112[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	France 2	No	MPEG-4/SD|Conax|Nagravision|Viaccess	2	121	122[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	France 3	No	MPEG-4/SD|Conax|Nagravision|Viaccess	3	131	132[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	France 5	No	MPEG-4/SD|Conax|Nagravision|Viaccess	4	141	142[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	France Ô	No	MPEG-4/SD|Conax|Nagravision|Viaccess	5	151	152[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	RTL 9	No	MPEG-4/SD|Conax|Nagravision|Viaccess	6	161	162[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	AB 3	No	MPEG-4/SD|Conax|Nagravision|Viaccess	7	171	172[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	Mangas	No	MPEG-4/SD|Conax|Nagravision|Viaccess	9	191	192[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	Automoto la chaîne	No	MPEG-4/SD|Conax|Nagravision|Viaccess	10	201	202[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	AB 1	No	MPEG-4/SD|Conax|Nagravision|Viaccess	11	211	212[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	Trek	No	MPEG-4/SD|Conax|Nagravision|Viaccess	12	221	222[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	Toute l'Histoire	No	MPEG-4/SD|Conax|Nagravision|Viaccess	13	231	232[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	Science & Vie TV	No	MPEG-4/SD|Conax|Nagravision|Viaccess	14	241	242[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	Animaux	No	MPEG-4/SD|Conax|Nagravision|Viaccess	15	251	252[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	Action (France)	No	MPEG-4/SD|Conax|Nagravision|Viaccess	16	261	262[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	Nickelodeon Junior France	No	MPEG-4/SD|Conax|Nagravision|Viaccess	17	271	272[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	Crime District	No	MPEG-4/SD|Conax|Nagravision|Viaccess	18	281	282[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	TFX	No	MPEG-4/SD|Conax|Nagravision|Viaccess	20	301	302[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	TMC	No	MPEG-4/SD|Conax|Nagravision|Viaccess	21	311	312[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	Passions TV	No	MPEG-4/SD|Conax|Nagravision|Viaccess	25	351	352[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	KTO	No	MPEG-4/SD|Conax|Nagravision|Viaccess	26	361	362[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	DBM	Yes	MPEG-4/SD	27	371	372[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	RTNC	No	MPEG-4/SD|Conax|Nagravision|Viaccess	28	381	382[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	Canal J	No	MPEG-4/SD|Conax|Nagravision|Viaccess	29	391	392[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	Bis Africa promo	No	MPEG-4/SD	31	411	412[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	XXL	No	MPEG-4/SD|Conax|Nagravision|Viaccess	32	421	422[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	Savannah TV	No	MPEG-4/SD|Conax|Nagravision|Viaccess	33	431	432[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	TV	C8	No	MPEG-4/SD|Conax|Nagravision|Viaccess	39	181	182[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	R	RTL	Yes		34		442[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	R	RFM (France)	Yes		35		452[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	R	Virgin Radio France	Yes		36		462[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	R	Skyrock	Yes		37		472[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	R	France Inter	Yes		38		482[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	R	Fun Radio (France)	Yes		40		502[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	R	RMC	Yes		41		512[Fre]	10066
-12604	H	29980-2/3	Sub-Sahara Africa	R	Europe 1	Yes		42		522[Fre]	10066
-12606	H	30000-3/4	Europe B	TV	Orange Infokanál	Yes	MPEG-4/SD	4520	3001	3002[Slo]	10103
-12639	H	10833-3/5	Europe B	TV	RTSH Sat	Yes	MPEG-4/HD	110	111	112[Alb]	10110
-12639	H	10833-3/5	Europe B	TV	RTSH 3	Yes	MPEG-4/SD	120	121	122[Alb]	10110
-12639	H	10833-3/5	Europe B	TV	RTSH Plus	Yes	MPEG-4/SD	130	131	132[Alb]	10110
-12639	H	10833-3/5	Europe B	TV	RTSH 24	Yes	MPEG-4/HD	140	141	142[Alb]	10110
-12639	H	10833-3/5	Europe B	TV	RTSH Shqip	Yes	MPEG-4/SD	150	151	152[Alb]	10110
-12639	H	10833-3/5	Europe B	TV	RTSH Muzikë	Yes	MPEG-4/SD	160	161	162[Alb]	10110
-12639	H	10833-3/5	Europe B	R	Radio Tirana 1	Yes		170		172[Alb]	10110
-12639	H	10833-3/5	Europe B	R	Radio Tirana 2	Yes		180		182[Alb]	10110
-12639	H	10833-3/5	Europe B	R	Radio Tirana International	Yes		190		192	10110
-12639	H	10833-3/5	Europe B	R	Radio Tirana Klasik	Yes		200		202[Alb]	10110
-12639	H	10833-3/5	Europe B	R	Radio Tirana Jazz	Yes		220		222[Alb]	10110
-12643	V	27500-2/3	Europe B	TV	Prima TV	No	MPEG-4/SD|Conax	1	100	110[Rum]	10122
-12643	V	27500-2/3	Europe B	TV	Kanal D Romania	No	MPEG-4/SD|Conax	2	200	210[Rum]	10122
-12643	V	27500-2/3	Europe B	TV	National TV (Romania)	No	MPEG-4/SD|Conax	3	300	310[Rum]	10122
-12643	V	27500-2/3	Europe B	TV	Boomerang Central & Eastern Europe	No	MPEG-4/SD|Conax	4	400	410[Rum]	10122
-12643	V	27500-2/3	Europe B	TV	Pro TV	No	MPEG-4/SD|Conax	5	500	510[Rum]	10122
-12643	V	27500-2/3	Europe B	TV	Pro X	No	MPEG-4/SD|Conax	6	600	610[Rum]	10122
-12643	V	27500-2/3	Europe B	TV	Pro 2	No	MPEG-4/SD|Conax	7	700	710[Rum]	10122
-12643	V	27500-2/3	Europe B	TV	Pro Cinema	No	MPEG-4/SD|Conax	8	800	810[Rum]	10122
-12643	V	27500-2/3	Europe B	TV	TNT Romania	No	MPEG-4/SD|Conax	9	900	910[Rum]	10122
-12643	V	27500-2/3	Europe B	TV	România TV	No	MPEG-4/SD|Conax	10	1000	1010[Rum]	10122
-12643	V	27500-2/3	Europe B	TV	Digi 24	Yes	MPEG-4/SD	11	1100	1110[Rum]	10122
-12643	V	27500-2/3	Europe B	TV	Etno TV (Romania)	Yes	MPEG-4/SD	12	1200	1210[Rum]	10122
-12643	V	27500-2/3	Europe B	TV	TVR Cluj	Yes	MPEG-4/SD	21	2.00	2110[Rum]	10122
-12643	V	27500-2/3	Europe B	TV	TVR Craiova	Yes	MPEG-4/SD	22	2200	2210[Rum]	10122
-12643	V	27500-2/3	Europe B	TV	TVR Iasi	Yes	MPEG-4/SD	23	2300	2310[Rum]	10122
-12643	V	27500-2/3	Europe B	TV	TVR Timisoara	Yes	MPEG-4/SD	24	2400	2410[Rum]	10122
-12643	V	27500-2/3	Europe B	TV	TVR Targu-Mures	Yes	MPEG-4/SD	25	2500	2510[Rum]	10122
-12643	V	27500-2/3	Europe B	TV	(TVR feeds)	No		200	512	4112	10122
-12643	V	27500-2/3	Europe B	R	Radio Trinitas	Yes		101		1001[Rum]	10122
-12643	V	27500-2/3	Europe B	R	Radio Reîntregirea	Yes		102		1002[Rum]	10122
-12654	H	11111-2/3	Europe B	TV	Unire TV 1	No	PowerVu	1	110	100[Ita]	10143
-12654	H	11111-2/3	Europe B	TV	Unire TV 2	No	PowerVu	2	210	200[Ita]	10143
-12654	H	11111-2/3	Europe B	TV	Unire Blu	No	PowerVu	10	510	500[Ita]	10143
-12660	H	2222-5/6	Europe B	TV	[test card]	No	MPEG-4/HD	1	512	4112	10147
-12660	H	2222-5/6	Europe B	TV	SNAI Virtuali 8	Yes	MPEG-4/HD	2	513	[Ita]	10147
-12676	H	2667-3/4	Europe B	TV	Libya Al-Ahrar TV	No	MPEG-4/HD|BISS	1	308	256[Ara]	10151
-12687	H	29980-3/4	Sub-Sahara Africa	TV	Zoe Channel	Yes	MPEG-4/SD	601	6011	6012[Fre]	10157
-12687	H	29980-3/4	Sub-Sahara Africa	TV	MIPC TV	Yes	MPEG-4/SD	602	6021	6022[Fre]	10157
-12687	H	29980-3/4	Sub-Sahara Africa	TV	Afrique Média	Yes	MPEG-4/SD	603	6031	6032[Fre]	10157
-12687	H	29980-3/4	Sub-Sahara Africa	TV	Jes TV	Yes	MPEG-4/SD	604	6041	6042[Fre]	10157
-12687	H	29980-3/4	Sub-Sahara Africa	TV	Capital Santé TV	Yes	MPEG-4/SD	605	6051	6.52[Fre]	10157
-12687	H	29980-3/4	Sub-Sahara Africa	TV	Divine TV (Cameroon)	Yes	MPEG-4/SD	606	6061	6062[Eng]	10157
-12687	H	29980-3/4	Sub-Sahara Africa	TV	Hope World	Yes	MPEG-4/SD	607	6071	6072[Fre]	10157
-12687	H	29980-3/4	Sub-Sahara Africa	TV	Hope TV (Benin)	Yes	MPEG-4/SD	609	6091	6092[Fre]	10157
-12687	H	29980-3/4	Sub-Sahara Africa	TV	Solution TV (Cameroon)	Yes	MPEG-4/SD	610	6101	6102[Fre]	10157
-12687	H	29980-3/4	Sub-Sahara Africa	TV	Liberty TV (Cameroon)	Yes	MPEG-4/SD	611	6111	6112[Fre]	10157
-12687	H	29980-3/4	Sub-Sahara Africa	TV	LTM TV	Yes	MPEG-4/SD	612	6121	6122[Fre]	10157
-12687	H	29980-3/4	Sub-Sahara Africa	TV	Jesus Savior TV	Yes	MPEG-4/SD	613	6131	6132[Fre]	10157
-12687	H	29980-3/4	Sub-Sahara Africa	TV	Miséricorde TV	Yes	MPEG-4/SD	614	6141	6142[Fre]	10157
-12687	H	29980-3/4	Sub-Sahara Africa	TV	Hausa 7 TV	Yes	MPEG-4/SD	615	6151	6152[Hau]	10157
-12687	H	29980-3/4	Sub-Sahara Africa	TV	Transformers TV	Yes	MPEG-4/SD	616	6161	6162[Eng]	10157
-12687	H	29980-3/4	Sub-Sahara Africa	TV	Revival Channel	Yes	MPEG-4/SD	617	6171	6172[Fre]	10157
-12687	H	29980-3/4	Sub-Sahara Africa	TV	Porte TV	Yes	MPEG-4/SD	618	6181	6182[Fre]	10157
-12687	H	29980-3/4	Sub-Sahara Africa	TV	Kalac TV	Yes	MPEG-4/SD	619	6191	6192[Fre]	10157
-12687	H	29980-3/4	Sub-Sahara Africa	TV	Canal 2 Movies	Yes	MPEG-4/SD	620	6201	6202[Fre]	10157
-12694	H	2222-3/4	Europe A	TV	SNAI Quad Race	No	HEVC/SD|BISS	1	512	4112[Ita]	10178
-12699	H	9880-2/3	Europe B	TV	SNAI Virtuali 2	Yes	MPEG-4/HD	5	510	.00[Ita]	10180
-12699	H	9880-2/3	Europe B	TV	SNAI Virtuali 1	No	MPEG-2/SD|PowerVu	7	410	400[Ita]	10180
-12699	H	9880-2/3	Europe B	TV	SNAI Virtuali 3	Yes	MPEG-4/HD	55	810	800[Ita]	10180
-12699	H	9880-2/3	Europe B	TV	SNAI Virtuali 1	Yes	MPEG-4/SD	57	910	901[Ita]	10180
-12699	H	9880-2/3	Europe B	TV	[test card]	No	MPEG-4/HD	100	710	700	10180
-12717	H	7500-3/4	Europe B	TV	National TV (Romania)	No	MPEG-4/SD|BISS	10	257	258[Rum]	10190
-12717	H	7500-3/4	Europe B	TV	National 24 Plus	No	MPEG-4/SD|BISS	22	513	514[Rum]	10190
-12717	H	7500-3/4	Europe B	TV	Favorit TV	Yes	MPEG-4/SD	32	772	773[Rum]	10190
-12717	H	7500-3/4	Europe B	TV	Alfa Omega TV	Yes	MPEG-4/SD	88	802	803[Rum]	10190
-12717	H	7500-3/4	Europe B	R	National FM	Yes		15		516[Rum]	10190
-12717	H	7500-3/4	Europe B	R	RFI România	Yes		16		515[Rum]	10190
-12717	H	7500-3/4	Europe B	R	Favorit FM	Yes		23		530[Rum]	10190
-12739	H	2256-3/4	Europe B	TV	Realitatea Plus	Yes		900	901	902[Rum]	10203
-21534	H	1124-3/5	Europe C	TV	Vision 4	Yes	MPEG-4/SD	1	258	257[Fre]	11000
-21538	H	1054-3/4	Europe C	TV	Vision 4	Yes	MPEG-4/SD	1	258	257[Fre]	11002
-21541	H	1070-3/4	Europe C	TV	Eden TV	Yes	MPEG-4/SD	1	513	4112[Fre]	11003
-21541	H	1070-3/4	Europe C	R	Diaspora FM	Yes		2		4114[Fre]	11003
-21543	H	1100-3/4	Europe C	TV	TVC Africa	Yes	MPEG-4/SD	1	258	257[Fre]	11005
-21545	H	2143-5/6	Europe C	TV	Boom TV	Yes	MPEG-4/SD	1	101	102[Fre]	11006
-21545	H	2143-5/6	Europe C	TV	STV (Cameroon)	Yes	MPEG-4/SD	2	201	202[Fre]	11006
-21547	H	1238-5/6	Europe C	TV	Golfe TV Africa	Yes	MPEG-4/SD	1	513	4112[Fre]	11009
-21547	H	1238-5/6	Europe C	R	Golfe FM	Yes		2		4114[Fre]	11009
-21562	H	1010-2/3	Europe C	TV	ImpacTV	Yes	MPEG-4/SD	200	101	102[Fre]	11011
-21563	H	1250-2/3	Europe C	TV	Burkina Info TV	Yes	MPEG-4/SD	1	33	34[Fre]	11012
-21564	H	128-3/4	Europe C	R	Radio Immaculée Conception	Yes		1000		101[Fre]	11013
-21568	H	1383-3/4	Europe C	TV	Equinoxe TV	Yes	MPEG-4/HD	1	61	62[Fre]	11014
-21571	H	2900-5/6	Europe C	TV	TFM	Yes	MPEG-4/SD	1	611	631[Fre]	11015
-21571	H	2900-5/6	Europe C	TV	L'Obs TV	Yes	MPEG-4/SD	3	811	831[Fre]	11015
-21571	H	2900-5/6	Europe C	TV	TFM Religions	Yes	MPEG-4/SD	4	911	931[Fre]	11015
-21571	H	2900-5/6	Europe C	R	RFM (Senegal)	Yes		1		632[Fre]	11015
-21576	H	3674-5/6	Europe C	TV	Canal 2 International	Yes	MPEG-4/HD	1	81	82[Fre]	11020
-21576	H	3674-5/6	Europe C	TV	Canal 2 Movies	Yes	MPEG-4/SD	4	129	130[Fre]	11020
-21599	H	5206-2/3	Europe C	TV	Zoe Channel	Yes	MPEG-4/SD	1	128	144[Fre]	11024
-21599	H	5206-2/3	Europe C	TV	MIPC TV	Yes	MPEG-4/SD	2	129	145[Fre]	11024
-21599	H	5206-2/3	Europe C	TV	[test card]	No	MPEG-4/SD	3	130	146	11024
-21599	H	5206-2/3	Europe C	TV	Jes TV	Yes	MPEG-4/SD	4	131	147[Fre]	11024
-21599	H	5206-2/3	Europe C	TV	Capital Santé TV	Yes	MPEG-4/SD	5	97	98[Fre]	11024
-21599	H	5206-2/3	Europe C	TV	Divine TV (Cameroon)	Yes	MPEG-4/SD	6	91	92[Fre]	11024
-21599	H	5206-2/3	Europe C	TV	Hope World	Yes	MPEG-4/SD	7	6079	6072[Fre]	11024
-21607	H	7706-2/3	Europe C	TV	Hope TV (Benin)	Yes	MPEG-4/SD	2	130	146[Fre]	11032
-21607	H	7706-2/3	Europe C	TV	Solution TV (Cameroon)	Yes	MPEG-4/SD	3	97	98[Fre]	11032
-21607	H	7706-2/3	Europe C	TV	Liberty TV (Cameroon)	Yes	MPEG-4/SD	4	256	257[Fre]	11032
-21607	H	7706-2/3	Europe C	TV	LTM TV	Yes	MPEG-4/SD	5	132	148[Fre]	11032
-21607	H	7706-2/3	Europe C	TV	Jesus Savior TV	Yes	MPEG-4/SD	6	133	149[Fre]	11032
-21607	H	7706-2/3	Europe C	TV	Miséricorde TV	Yes	MPEG-4/SD	7	102	103[Fre]	11032
-21607	H	7706-2/3	Europe C	TV	Hausa 7 TV	Yes	MPEG-4/SD	8	131	147[Hau]	11032
-21607	H	7706-2/3	Europe C	TV	Transformers TV	Yes	MPEG-4/SD	9	90	91[Fre]	11032
-21607	H	7706-2/3	Europe C	TV	Revival Channel	Yes	MPEG-4/SD	10	113	114[Fre]	11032
-21607	H	7706-2/3	Europe C	TV	Porte TV	Yes	MPEG-4/SD	11	128	144[Fre]	11032
+10758	V	30000-3/4	Europe	TV	[test card]	No	MPEG-4/SD	1212	481	482	8002
+10926	V	27500-5/6	Middle East	TV	The Shopping Channel (Israel)	Yes		1202	513	661[Heb]	8006
+10926	V	27500-5/6	Middle East	TV	Knesset Channel	Yes		1205	516	664[Heb]	8006
+10926	V	27500-5/6	Middle East	TV	Hala TV (Israel)	Yes		1215	526	674[Ara]	8006
+11052	H	8518-2/3	Middle East	TV	Keshet 12	Yes		10	257	258[Heb]	9003
+11052	H	8518-2/3	Middle East	TV	Reshet 13	Yes		20	513	514[Heb]	9003
+11062	H	4500-1/2	Middle East	TV	Middle East TV	Yes	MPEG-4/SD	3	1160	1120[Eng]	9007
+11062	H	4500-1/2	Middle East	TV	It's Supernatural! Network	Yes	MPEG-4/SD	4	69	71[Eng]	9007
+11113	H	8518-3/4	Middle East	TV	KAN 11	Yes		1	1025	1040[Heb]	9013
+11113	H	8518-3/4	Middle East	TV	Makan 33	Yes		2	1026	1056[Ara]	9013
+11113	H	8518-3/4	Middle East	R	KAN Tarbut	Yes		3		4112[Heb]	9013
+11113	H	8518-3/4	Middle East	R	KAN Bet	Yes		4		4113[Heb]	9013
+11113	H	8518-3/4	Middle East	R	KAN Gimmel	Yes		5		4114[Heb]	9013
+11113	H	8518-3/4	Middle East	R	KAN Makan	Yes		6		4115[Ara]	9013
+11113	H	8518-3/4	Middle East	R	KAN Kol HaMusica	Yes		7		4116[Heb]	9013
+11113	H	8518-3/4	Middle East	R	KAN Reka	Yes		8		4117	9013
+11113	H	8518-3/4	Middle East	R	KAN 88	Yes		9		4118[Heb]	9013
+11113	H	8518-3/4	Middle East	R	KAN Farsi	Yes		10		4119[Per]	9013
+11113	H	8518-3/4	Middle East	R	KAN Moreshet	Yes		11		4120[Heb]	9013
+11140	H	30000-3/4	Europe	TV	X Sport	No	MPEG-4/SD|BISS	1	257	258[Ukr]	9025
+11140	H	30000-3/4	Europe	TV	Pershiy Diloviy	Yes		2	513	514[Ukr]	9025
+11140	H	30000-3/4	Europe	TV	UA: Zakarpattya	Yes		3	769	770[Ukr]	9025
+11140	H	30000-3/4	Europe	TV	112 Ukraïna	Yes		4	1025	1026[Ukr]	9025
+11140	H	30000-3/4	Europe	TV	Pryamyy	Yes	MPEG-4/HD	6	1537	1538[Ukr]	9025
+11140	H	30000-3/4	Europe	TV	News One (Ukraine)	Yes		7	33	34[Ukr]	9025
+11140	H	30000-3/4	Europe	TV	UA: Kultura	No	BISS	9	2305	2306[Ukr]	9025
+11140	H	30000-3/4	Europe	TV	UA: Donbas	Yes		10	4097	4098[Ukr]	9025
+11140	H	30000-3/4	Europe	TV	Telekanal Zik	Yes		11	4353	4354[Ukr]	9025
+11140	H	30000-3/4	Europe	TV	112 Ukraïna	Yes	MPEG-4/HD	12	4609	4610[Ukr]	9025
+11140	H	30000-3/4	Europe	TV	Telekanal STB	No	MPEG-4/SD|Verimatrix (B)|Verimatrix	21	337	338[Ukr]	9025
+11140	H	30000-3/4	Europe	TV	Novy Kanal	No	MPEG-4/SD|Verimatrix (B)|Verimatrix	22	353	354[Ukr]	9025
+11140	H	30000-3/4	Europe	TV	ICTV (Ukraine)	No	MPEG-4/SD|Verimatrix (B)|Verimatrix	23	369	370[Ukr]	9025
+11140	H	30000-3/4	Europe	R	Tysa FM	Yes		3		771[Ukr]	9025
+11140	H	30000-3/4	Europe	R	UR 1	Yes		14		38[Ukr]	9025
+11140	H	30000-3/4	Europe	R	Radio Promin	Yes		15		40[Ukr]	9025
+11140	H	30000-3/4	Europe	R	Radio Kultura	Yes		16		42[Ukr]	9025
+11140	H	30000-3/4	Europe	R	Holos Donbasu	Yes		17		48[Ukr]	9025
+11140	H	30000-3/4	Europe	R	Radio Ukraine International	Yes		18		44	9025
+11175	H	30000-3/4	Europe	TV	Telekanal STB	No	Verimatrix (B)|Videoguard	1	33	34[Ukr]	9045
+11175	H	30000-3/4	Europe	TV	M1 (Ukraine)	No	Verimatrix (B)|Videoguard	2	49	50[Ukr]	9045
+11175	H	30000-3/4	Europe	TV	Milady TV	Yes		3	65	66[Ukr]	9045
+11175	H	30000-3/4	Europe	TV	Novy Kanal	No	Verimatrix (B)|Videoguard	4	81	82[Ukr]	9045
+11175	H	30000-3/4	Europe	TV	ICTV (Ukraine)	Yes		5	97	98[Ukr]	9045
+11175	H	30000-3/4	Europe	TV	M2	No	Verimatrix (B)|Videoguard	6	113	114[Ukr]	9045
+11175	H	30000-3/4	Europe	TV	ICTV (Ukraine)	No	Verimatrix (B)|Videoguard	7	71	72[Ukr]	9045
+11175	H	30000-3/4	Europe	TV	24 Kanal	Yes		8	4194	4195[Ukr]	9045
+11175	H	30000-3/4	Europe	TV	Eko TV	Yes		9	42	23.6[Ukr]	9045
+11175	H	30000-3/4	Europe	TV	Pryamyy	Yes		10	4097	4098[Ukr]	9045
+11175	H	30000-3/4	Europe	TV	Oce	No	Verimatrix (B)|Videoguard	11	129	130	9045
+11175	H	30000-3/4	Europe	TV	UA: Pershiy	No	BISS	13	305	306[Ukr]	9045
+11175	H	30000-3/4	Europe	TV	UA: Krym	Yes		14	321	322	9045
+11175	H	30000-3/4	Europe	R	Luks FM	Yes		8		4197[Ukr]	9045
+11175	H	30000-3/4	Europe	R	Maximum FM	Yes		8		4198[Ukr]	9045
+11304	H	8889-3/4	Europe	TV	Hír TV	No	Conax	2	200	201[Hun]	10003
+11304	H	8889-3/4	Europe	TV	Da Vinci	No	Conax	9	900	901[Pol]|902[Qaa]|903[Hun]|904[Ukr]|905[Rus]|906[Bul]	10003
+11304	H	8889-3/4	Europe	R	Karc FM	No	Conax	10		1001[Hun]	10003
+11350	H	17333-2/3	Europe	TV	Tippmix élo 1	No	MPEG-4/HD|Conax	1	101	102[Hun]	10007
+11350	H	17333-2/3	Europe	TV	Tippmix élo 2	No	MPEG-4/HD|Conax	2	201	202[Hun]	10007
+11350	H	17333-2/3	Europe	TV	Tippmix élo 3	No	MPEG-4/HD|Conax	3	301	302[Hun]	10007
+11350	H	17333-2/3	Europe	TV	Tippmix élo 4	No	MPEG-4/HD|Conax	4	401	402[Hun]	10007
+11350	H	17333-2/3	Europe	TV	Tippmix élo 5	No	MPEG-4/HD|Conax	5	501	502[Hun]	10007
+11425	H	30000-3/4	Europe	TV	[T-Home test card]	No	MPEG-4/SD	1800	481	482	10014
+11542	H	3703-3/4	Middle East	TV	SBN International	Yes		1	2001	3001[Eng]	11003
+11542	H	3703-3/4	Middle East	TV	Rodnoy Shalom	Yes		2	2002	3002[Rus]	11003
+11542	H	3703-3/4	Middle East	TV	The Word Network	Yes		4	2004	3004[Eng]	11003
+12341	H	17900-3/4	CEE	TV	12 Kanal	Yes	MPEG-4/SD	1	4113	4114[Ukr]	12001
+12341	H	17900-3/4	CEE	TV	Setanta Sports Ukraine	No	MPEG-4/HD|Verimatrix (B)	2	4129	4130[Ukr]|4131[Rus]	12001
+12341	H	17900-3/4	CEE	TV	Obozrevatel TV	Yes	MPEG-4/SD	3	4145	4146[Ukr]	12001
+12341	H	17900-3/4	CEE	TV	ATR	Yes	MPEG-4/HD	6	4193	4194	12001
+12341	H	17900-3/4	CEE	TV	ATR	Yes	MPEG-4/SD	7	4209	4210	12001
+12341	H	17900-3/4	CEE	TV	Lale	Yes	MPEG-4/SD	8	4225	4226	12001
+12341	H	17900-3/4	CEE	R	Radio Meydan	Yes		101		6673[Crh]	12001
+12354	H	3333-3/4	CEE	TV	România TV	Yes	MPEG-2/SD	1	256	258[Rum]	12009
+12410	H	20833-7/8	CEE	TV	Pershyy Zakhidnyy	Yes	MPEG-2/SD	1	4113	4114[Ukr]	12015
+12410	H	20833-7/8	CEE	TV	Vozrozhdeniye	Yes	MPEG-2/SD	2	4129	4130[Rus]	12015
+12410	H	20833-7/8	CEE	TV	4 Kanal	Yes	MPEG-2/SD	3	4145	4146[Ukr]	12015
+12410	H	20833-7/8	CEE	TV	Boutique TV Ukraina	Yes	MPEG-2/SD	4	4161	4162[Rus]	12015
+12410	H	20833-7/8	CEE	TV	ChePe Info	Yes	MPEG-2/SD	5	4177	4178[Ukr]	12015
+12410	H	20833-7/8	CEE	TV	Chernomorskaya TV	Yes	MPEG-2/SD	6	4193	4194[Ukr]	12015
+12410	H	20833-7/8	CEE	TV	Malyatko TV	Yes	MPEG-2/SD	7	4209	421.[Ukr]	12015
+12410	H	20833-7/8	CEE	TV	Televsesvit	Yes	MPEG-4/SD	8	4225	4226[Ukr]	12015
+12410	H	20833-7/8	CEE	TV	OTB Galychyna	Yes	MPEG-2/SD	9	4241	424.[Ukr]	12015
+12410	H	20833-7/8	CEE	TV	Pravda Tut	Yes	MPEG-2/SD	11	4369	4370[Ukr]	12015
+12410	H	20833-7/8	CEE	TV	8 Kanal (Ukraine)	Yes	MPEG-4/SD	12	4385	4386[Ukr]	12015
+12410	H	20833-7/8	CEE	TV	Genuine TV	Yes	MPEG-2/SD	13	4401	4402[Ukr]	12015
+12515	H	1666-3/4	CEE	TV	RASD TV	Yes	MPEG-2/SD	1	512	4112[Ara]	13000
+12515	H	1666-3/4	CEE	R	RASD Radio	Yes		2		514[Ara]	13000

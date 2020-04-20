@@ -1174,6 +1174,10 @@ namespace SatRTV
                     int XDigit = 0;
                     int XSpace = 0;
                     InfoText[ii] = InfoText[ii].Trim();
+                    InfoText[ii] = InfoText[ii].Replace("\t", " ");
+                    InfoText[ii] = InfoText[ii].Replace("  ", " ");
+                    InfoText[ii] = InfoText[ii].Replace("  ", " ");
+                    InfoText[ii] = InfoText[ii].Replace("  ", " ");
                     InfoText[ii] = InfoText[ii].Replace("  ", " ");
                     InfoText[ii] = InfoText[ii].Replace("  ", " ");
 
@@ -1282,7 +1286,8 @@ namespace SatRTV
             catch
             {
             	Console.Write("Input SID number for \"" + SID + "\":");
-        		SID_ = long.Parse(Console.ReadLine());
+                string SID__ = Console.ReadLine();
+                SID_ = long.Parse(SID__ != "" ? SID__ : "0");
             }
             Freq_ = Freq_ * 1000000000L;
             if (SID_ >= 1000000L)
@@ -1313,11 +1318,6 @@ namespace SatRTV
         /// <returns></returns>
         bool IsFreqAllowed(double Freq, bool Band1, bool Band2, bool Band3)
         {
-            if (Freq == 20185)
-            {
-                Freq.ToString();
-            }
-
             if (Freq < 0)
             {
                 return false;

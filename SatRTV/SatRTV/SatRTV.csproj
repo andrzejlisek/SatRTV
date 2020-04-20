@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AppCore.cs" />
+    <Compile Include="AppCoreNo.cs" />
     <Compile Include="AppCoreSat.cs" />
     <Compile Include="AppCoreSat_1KingOfSat.cs" />
     <Compile Include="AppCoreSat_2LyngSat.cs" />

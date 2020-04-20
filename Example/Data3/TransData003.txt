@@ -1,0 +1,123 @@
+Txp No	Source	Date	Freq	Pol	Mode	SR-FEC	Provider Name	Encryption	ONID-TID	FootPrints	EIRP(dBW)	Comments	Row
+H5	DX Süvi	15.12.2019	3648	L	DVB-S2/8PSK	2167 5/6	Data			SES-5 Hemi			0
+H5	DX Süvi	15.12.2019	3649	L	DVB-S2/8PSK	845 5/6	Data			SES-5 Hemi			1
+H5	DX Süvi	02.10.2018	3657	L	DVB-S2/QPSK|MPEG-4	3500 2/3	Quest TV feed			SES-5 Hemi			2
+H5	DX Süvi	29.11.2019	3663	L	DVB-S2/QPSK|MPEG-4	5300 2/3	AIT Partners		1|?-4096	SES-5 Hemi			3
+H5	DX Süvi	03.12.2019	3668	L	DVB-S2/8PSK|MPEG-4	2000 2/3	AIT Lagos		1|?-4096	SES-5 Hemi			6
+H14	Eduard	03.12.2019	3684	L	DVB-S2/QPSK|MPEG-4	3453 3/5	Dove TV HD		1|MPEG-4/HD|1-1	SES-5 Hemi			8
+H14	Atomantiii|Eduard	17.12.2018	3688	L	DVB-S2/8PSK	2015 3/4	DCLM feed			SES-5 Hemi			9
+H14	DX Süvi	21.11.2019	3691	L	DVB-S2/QPSK|MPEG-4					SES-5 Hemi		Liberation TV|left	10
+H14	DX Süvi	13.12.2019	3692	L	DVB-S2/QPSK|MPEG-4					SES-5 Hemi		Plus TV Africa HD|left	11
+H14	Marval450	25.07.2016	3693	L	DVB-S2/QPSK|MPEG-4	1682 3/5	MFM TV		1	SES-5 Hemi			12
+H14	Marval450|Onacila	25.07.2016	3697	L	DVB-S2/QPSK|MPEG-4	1514 3/5	WAP TV		1|1-1	SES-5 Hemi			13
+H14	F.Kocsis	17.11.2018	3701	L	DVB-S2/8PSK|MPEG-4	5000 5/6			8192-4096	SES-5 Hemi			14
+H14	K.Szabolcs	12.01.2020	3705	L	DVB-S2/QPSK|MPEG-4	1210 5/6	Liberty TV		1|65535-1	SES-5 Hemi			17
+H14	Satellites|Community	09.07.2019	3707	L	DVB-S2/QPSK|MPEG-2	1210 5/6	Hip TV		1|8196-4096	SES-5 Hemi			18
+H14	K.Szabolcs	13.03.2020	3708	L	DVB-S2/QPSK|MPEG-4	1540 Auto	OSBC			SES-5 Hemi		new	19
+H14	DX Süvi	21.11.2019	3711	L	DVB-S2/QPSK|MPEG-2					SES-5 Hemi		Star TV|left	20
+H14	DX Süvi|Onacila	03.04.2018	3714	L	DVB-S2/QPSK|MPEG-2	1725 2/3	TVGE Internacional		1024|0-8	SES-5 Hemi			21
+H4	DX Süvi	28.10.2019	3800	L	DVB-S2/8PSK|MPEG-4	27500 2/3		PowerVu|Verimatrix	18-101	SES-5 Hemi			22
+H5	DX Süvi	21.08.2018	3843	R	DVB-S2/QPSK|MPEG-4	1134 5/6	ECWA TV		1	SES-5 Hemi			61
+H5	DX Süvi	21.08.2018	3846	R	DVB-S2/QPSK|MPEG-4	2324 2/3	SES Demo		1	SES-5 Hemi			62
+H5	LaithLaith	09.04.2020	3850	R	DVB-S2/QPSK|MPEG-4	2400 2/3	Times TV		101|1-1	SES-5 Hemi		Times Radio|on	63
+H5	KhaledStaR	27.12.2019	3853	R	DVB-S2/QPSK|MPEG-4					SES-5 Hemi		Western TV|left	65
+H5	DX Süvi	10.01.2018	3855	R	DVB-S2/QPSK|MPEG-4	1290 2/3	Label TV		1	SES-5 Hemi			66
+H5	Onacila	17.07.2015	3857	R	DVB-S2/QPSK|MPEG-2	1520 3/5	Galaxy TV Lagos		1	SES-5 Hemi			67
+H5	DX Süvi	13.02.2018	3858	R	DVB-S2/QPSK|MPEG-2	1055 5/6	Rave TV		101	SES-5 Hemi			68
+H5	DX Süvi	09.02.2018	3860	R	DVB-S2/QPSK|MPEG-4	1300 5/6	Core TV News		1	SES-5 Hemi			69
+H5	DX Süvi	21.11.2019	3861	R	DVB-S2/QPSK|MPEG-4	1000 3/4	Quest TV		257	SES-5 Hemi			70
+H5	KhaledStaR	27.12.2019	3863	R	DVB-S2/QPSK|MPEG-4					SES-5 Hemi		CMTV Network|left	71
+H5	KhaledStaR	27.12.2019	3877	R	DVB-S2/QPSK|MPEG-4					SES-5 Hemi		CRBC TV|left	72
+H5	DX Süvi	21.11.2019	3892	R	DVB-S2/QPSK|MPEG-4					SES-5 Hemi		package|left	73
+H8	Feci01	21.05.2017	3928	R	DVB-S2/32APSK	30800 3/4	Data			SES-5 Hemi			74
+H10	Marval450	07.11.2015	3990	L	DVB-S2|ACM	47000 3/4	Data			SES-5 Hemi			75
+H9	DX Süvi	13.12.2019	3991	R	DVB-S2/QPSK|MPEG-4					SES-5 Hemi		AIT National|left	76
+H9	DX Süvi	13.12.2019	3996	R	DVB-S2/QPSK|MPEG-4					SES-5 Hemi		AIT Partners|left	77
+H9	DX Süvi	13.12.2019	3999	R	DVB-S2/QPSK|MPEG-4					SES-5 Hemi		AIT Abuja|left	78
+H9	DX Süvi	13.12.2019	4001	R	DVB-S2/QPSK|MPEG-4					SES-5 Hemi		AIT Lagos|left	79
+H9	DX Süvi	13.12.2019	4003	R	DVB-S2/QPSK|MPEG-2					SES-5 Hemi		AIT Int|left	80
+H12	Satesco	13.04.2017	4049	L	DVB-S2/8PSK|ACM	47000 5/6	Data			SES-5 Hemi			81
+H11	Atomantiii	17.12.2018	4059	R	DVB-S2/8PSK|ACM	2500 3/4	Data			SES-5 C-band			82
+3	Hendrik	10.07.2019	11265	H	DVB-S2/8PSK|MPEG-4	30000 3/4		VideoGuard	86-34	SES-5 Nordic			83
+4	Hendrik	11.03.2019	11265	V	DVB-S2/8PSK|MPEG-4	30000 3/4		VideoGuard	86-33	SES-5 Nordic			84
+5	Hendrik	02.11.2017	11305	H	DVB-S2/8PSK	30000 3/4		VideoGuard	86-35	SES-5 Nordic			85
+6	Hendrik	04.04.2017	11305	V	DVB-S2/8PSK	30000 3/4		VideoGuard	86-32	SES-5 Nordic			86
+7	Hendrik	06.05.2019	11345	H	DVB-S2/8PSK|MPEG-4	30000 3/4		VideoGuard	86-36	SES-5 Nordic			87
+8	Hendrik	09.03.2020	11345	V	DVB-S2/8PSK|MPEG-4	30000 3/4		VideoGuard	86-25	SES-5 Nordic		TV2 Sport X HD|on	89
+9	Hendrik	06.12.2019	11385	H	DVB-S2/8PSK|MPEG-4|HEVC	30000 3/4		VideoGuard	86-37	SES-5 Nordic		Viasat Sport Extra|on	93
+10	Hendrik	11.04.2019	11385	V	DVB-S2/8PSK|MPEG-4	30000 3/4		VideoGuard	86-31	SES-5 Nordic			94
+B1	Hendrik	15.01.2020	11727	H	DVB-S2/8PSK|MPEG-4					Astra-4A BSS Nordic		TVPlay Home|package|lefy	95
+941	KooLy	12.11.2019	11727	H	DVB-S/QPSK|MPEG-4	27500 3/4	Zuku TV	Verimatrix		SES-5 Sub Saharan Africa			96
+B2	Wellikan|Eduard|Yacine1980|Hendrik	30.03.2020	11747	V	DVB-S2/8PSK|MPEG-2|MPEG-4|HEVC	30000 3/4			85-43	Astra-4A BSS Europe		Svoboda|on|(Wellikan|Eduard|Yacine1980)|Tellytrack|encrypted again|(Hendrik)	98
+942	Walter	19.05.2013	11747	V	DVB-S2/QPSK|MPEG-4	27500 2/3	Zuku TV	Verimatrix		SES-5 Sub Saharan Africa			115
+B3	Eduard	10.04.2020	11766	H	DVB-S2/8PSK|MPEG-4	27500 2/3			85-12	Astra-4A BSS Europe		VideoGuard|encryption|switched off	117
+B4	Hendrik	03.03.2020	11785	V	DVB-S2/8PSK|MPEG-4	27500 5/6		VideoGuard	85-201	Astra-4A BSS Nordic			140
+444	Ali-Alsaloul	29.11.2012	11785	V	DVB-S/MPEG-2	27500 3/4				SES-5 Sub Saharan Africa			141
+B5	William-1|Hendrik	22.11.2018	11804	H	DVB-S/MPEG-2					Astra-4A BSS Nordic		Viasat package|left	143
+945	KooLy	12.11.2019	11804	H	DVB-S2/QPSK|MPEG-4	27500 3/4	Zuku TV	Verimatrix		SES-5 Sub Saharan Africa			144
+B6	Hendrik	07.01.2020	11823	V	DVB-S2/8PSK|MPEG-4	27500 3/4		VideoGuard	86-27	Astra-4A BSS Nordic		TV2 Humorkanalen|left	145
+946	KooLy	12.11.2019	11823	V	DVB-S2/QPSK|MPEG-4	27500 3/4	Zuku TV	Verimatrix		SES-5 Sub Saharan Africa			146
+B7	Hendrik	06.12.2019	11843	H	DVB-S/MPEG-2	27500 3/4				Astra-4A BSS Nordic		Tallinna TV|left	147
+B8	Wellikan	22.01.2019	11862	V	DVB-S2/32APSK|ACM/VCM	27500 3/4	Data			Astra-4A BSS Nordic			148
+B9	Hendrik	07.01.2020	11881	H	DVB-S2/8PSK|MPEG-4	28000 3/4		VideoGuard	86-7	Astra-4A BSS Nordic		DR K info|DR Ultra info|left	149
+949	KooLy	12.11.2019	11881	H	DVB-S2/QPSK|MPEG-4	27500 3/4	Zuku TV	Verimatrix		SES-5 Sub Saharan Africa			150
+B10	William-1|Hendrik	22.11.2018	11900	V	DVB-S/MPEG-2					Astra-4A BSS Nordic		Viasat package|left	151
+950	KooLy	12.11.2019	11900	V	DVB-S2/QPSK|MPEG-4	27500 3/4	Zuku TV	Verimatrix		SES-5 Sub Saharan Africa			152
+251	KooLy	12.11.2019	11919	H	DVB-S/MPEG-2|DVB-S/MPEG-4	27500 3/4			1-21	SES-5 Sub Saharan Africa			153
+B11	Hendrik	21.05.2019	11919	H	DVB-S2/8PSK|MPEG-4	28000 3/4		VideoGuard	86-24	Astra-4A BSS Nordic			160
+B12	Hendrik	03.12.2019	11938	V	DVB-S2/8PSK|MPEG-4	27500 5/6		VideoGuard	85-203	Astra-4A BSS Nordic			161
+950	KooLy	12.11.2019	11938	V	DVB-S2/QPSK|MPEG-4	27500 3/4	StarSat			SES-5 Sub Saharan Africa			163
+13	Hendrik	03.12.2019	11958	H	DVB-S2/8PSK|MPEG-4	27500 3/4		VideoGuard	85-202	Astra-4A BSS Nordic		TV3 Sport 2 HD|on|TVPlay|Sports Plus HD|E!|left	164
+953	Walter	19.05.2013	11958	H	DVB-S2/QPSK|MPEG-4	27500 2/3	Zuku TV	Verimatrix		SES-5 Sub Saharan Africa			165
+B14	William-1|Hendrik	22.11.2018	11977	V	DVB-S/MPEG-2					Astra-4A BSS Nordic		Viasat package|left	166
+954	KooLy	12.11.2019	11977	V	DVB-S2/QPSK|MPEG-4	27500 3/4	StarSat			SES-5 Sub Saharan Africa			167
+B15	Eduard|Hendrik	05.04.2020	11996	H	DVB-S/MPEG-2|DVB-S/MPEG-4	27500 3/4		Viaccess|VideoGuard	86-6	Astra-4A BSS Nordic		RT English|left	168
+955	KooLy	12.11.2019	11996	H	DVB-S2/QPSK|MPEG-4	27500 3/4	StarSat			SES-5 Sub Saharan Africa			174
+B16	Hendrik	08.01.2020	12015	V	DVB-S2/8PSK|MPEG-4	27500 3/4		VideoGuard	86-28	Astra-4A BSS Nordic		NRK 1 Innlandet|NRK 1|Vestfold og Telemark|on|NRK 1 Østfold|NRK 1 Østnytt|NRK 1 Østafjells|left	176
+956	KooLy	12.11.2019	12015	V	DVB-S/MPEG-2|DVB-S/MPEG-4	29950 3/4			4-4956	SES-5 Sub Saharan Africa			204
+B17	William-1|Hendrik	22.11.2018	12034	H	DVB-S/MPEG-2					Astra-4A BSS Nordic		Viasat package|left	226
+957	KooLy	12.11.2019	12034	H	DVB-S/MPEG-2|DVB-S/MPEG-4	27500 3/4			4-4957	SES-5 Sub Saharan Africa		SES Demo|on	227
+B18	Hendrik	14.03.2019	12054	V	DVB-S/MPEG-4	27500 3/4				Astra-4A BSS Nordic		Viasat|package|left	248
+258	DX Sito	23.08.2017	12054	V	DVB-S2/8PSK|MPEG-2	30000 3/4				SES-5 Sub Saharan Africa			249
+B19	Eduard|Hendrik	01.02.2020	12073	H	DVB-S/MPEG-2|DVB-S/MPEG-4	27500 3/4			85-15	Astra-4A BSS Europe			250
+B20	Eduard|Hendrik	09.04.2020	12092	V	DVB-S2/8PSK|MPEG-4	30000 2/3		Verimatrix|VideoGuard	68-26	Astra-4A BSS Europe		Some|channels|VideoGuard|encryption|switched off	265
+B21	Wellikan	01.04.2020	12111	H	DVB-S2/16PSK|HEVC|Multi: 0	26877 5/6	BFM TV HD		1|HEVC/HD|65281-1	Astra-4A BSS Europe		new	266
+B22	Hendrik	08.04.2020	12130	V	DVB-S/MPEG-2|DVB-S/MPEG-4	27500 3/4			85-16	Astra-4A BSS Europe		Telekanal Ukraine|NLO TV|Indigo TV|left	267
+B23	Hendrik|P.Piotrowski	03.04.2020	12149	H	DVB-S/MPEG-2	27500 3/4		PowerVu	1-201	Astra-4A BSS Europe		Provider|name|NEP Connect|now|P.Piotrowski|06.04.2020	274
+B24	Eduard	28.11.2019	12169	V	DVB-S2/QPSK|ACM	30000 3/4	Data			Astra-4A BSS Europe			285
+B25	Eduard	18.03.2020	12188	H	DVB-S2/8PSK|MPEG-4|Multistream|T2-MI	30000 5/6		Irdeto		Astra-4A BSS Europe		encrypted|again	286
+B26	Eduard	09.04.2020	12207	V	DVB-S2/8PSK|MPEG-4	30000 2/3		Verimatrix	68-24	Astra-4A BSS Europe		VideoGuard|encryption|switched off	305
+B27	Zaza	26.09.2019	12226	H	DVB-S2/8PSK	27500 3/4	AOL			Astra-4A BSS Europe			306
+B28	Eduard|William-1	07.03.2020	12245	V	DVB-S2/8PSK|MPEG-4	30000 2/3		BetaCrypt	83-53	Astra-4A BSS Europe			307
+B29	Eduard	09.04.2020	12265	H	DVB-S/MPEG-2|DVB-S/MPEG-4	30000 3/4			85-44	Astra-4A BSS Europe		1+1|TET|2+2|Paramount|Nicktoons|Plus Plus|Bigudi|Unian TV|left	311
+B30	Eduard	12.03.2020	12284	V	DVB-S/MPEG-2|DVB-S/MPEG-4	27500 3/4			85-17	Astra-4A BSS Europe		5 Kanal|Ukraine|back on	317
+B31	Hendrik	01.07.2019	12303	H	DVB-S/MPEG-2|DVB-S/MPEG-4	25548 7/8		PowerVu	1-0	Astra-4A BSS Europe			331
+B32	Eduard|Hendrik	04.02.2020	12322	V	DVB-S2/8PSK|MPEG-4	27500 5/6		PowerVu	94-1	Astra-4A BSS Europe			341
+B33	Hendrik	31.03.2020	12341	H	DVB-S2/8PSK|MPEG-4|Multistream	30000 3/4		Irdeto2		Astra-4A BSS Europe		Test Card|SD now	356
+973	Bugreysev	12.11.2012	12341	H	DVB-S2/8PSK|MPEG-4	27500 3/4	StarSat	VideoGuard		SES-5 Sub Saharan Africa			374
+B34	Hendrik	11.12.2019	12360	V	DVB-S2/8PSK|MPEG-4	27500 5/6		PowerVu	94-1	Astra-4A BSS Europe			375
+B35	Hendrik	08.01.2020	12380	H	DVB-S/MPEG-2	27500 3/4			85-2	Astra-4A BSS Europe		LTV World|left	389
+975	Bugreysev	12.11.2012	12380	H	DVB-S2/8PSK|MPEG-4	27500 3/4	StarSat	VideoGuard		SES-5 Sub Saharan Africa			399
+B36	Hendrik|Eduard	16.03.2020	12399	V	DVB-S/MPEG-2|DVB-S/MPEG-4	27500 3/4			85-19	Astra-4A BSS Europe		Svarozhichi|left	400
+B37	Hendrik|P.Piotrowski	03.04.2020	12418	H	DVB-S/MPEG-2	27500 3/4		PowerVu	1-101	Astra-4A BSS Europe		Provider|name|NEP Connect|now|P.Piotrowski|06.04.2020	402
+977	Bugreysev	12.11.2012	12418	H	DVB-S2/8PSK|MPEG-4	27500 3/4	StarSat	VideoGuard		SES-5 Sub Saharan Africa			415
+B38	Eduard	09.04.2020	12437	V	DVB-S2/8PSK|MPEG-2|MPEG-4	30000 2/3		BetaCrypt|Verimatrix	85-46	Astra-4A BSS Europe		VideoGuard|encryption|switched off	416
+B39	Wellikan	11.10.2015	12456	H	DVB-S2/QPSK	27000 1/2	AOL			Astra-4A BSS Europe			427
+B40	VodzigorLans	08.06.2018	12476	V	DVB-S2/32APSK	27500 3/4	Data			Astra-4A BSS Nordic		Viasat|package|left	428
+EG1	Zaza	06.10.2019	12534	H	DVB-S2/8PSK|ACM	5334 3/4	Data			Astra-4A FSS Europe			429
+G4	Andrew O.	03.12.2016	12565	V	DVB-S2/QPSK|MPEG-4	30000 5/6		Panaccess		Astra-4A Sub Saharan Africa			430
+EG1	Hendrik	23.09.2019	12578	H	DVB-S/QPSK	1333 3/4			65535-1	Astra-4A FSS Europe			458
+EG3	Hendrik|Mogol|Eduard	08.01.2019	12608	H	DVB-S/MPEG-2	27500 3/4		VideoGuard	86-29	Astra-4A FSS Europe			463
+EG4	EnoSat|VodzigorLans	06.04.2016	12611	V	DVB-S2/32APSK|ACM	1000 3/4	Data			Astra-4A FSS Nordic			464
+EG4	VodzigorLans	30.03.2017	12616	V	DVB-S2/32APSK|ACM	2230 3/4	Data			Astra-4A FSS Nordic			465
+G6	Chadli_sat	20.04.2015	12621	V	DVB-S/MPEG-2	3660 2/3	MBC			Astra-4A Sub Saharan Africa			466
+EG4	SatSearcher	17.11.2018	12636	V	DVB-S2/QPSK|ACM	4320 1/4	Data			Astra-4A FSS Nordic			467
+EG3	Hendrik	02.01.2019	12637	H	DVB-S/MPEG-2	14465 3/4		VideoGuard	86-20	Astra-4A FSS Europe			468
+EG4	SatSearcher	17.11.2018	12644	V	DVB-S2/16APSK	1000 2/3	Data			Astra-4A FSS Nordic			469
+EG4	M.Vyletal	04.10.2015	12645	V	DVB-S/QPSK	256 1/2				Astra-4A FSS Europe		12645.3	470
+G10	Chadli_sat	20.09.2014	12671	V	DVB-S2/QPSK|MPEG-4	3000 2/3				Astra-4A Sub Saharan Africa			472
+EG6	SatSearcher	17.11.2018	12681	V	DVB-S2/32APSK	22080 3/4	Data			Astra-4A FSS Europe			474
+EG5	Wellikan	05.09.2018	12687	H	DVB-S2/16APSK	5167 2/3	Data			Astra-4A FSS Europe			475
+EG5	Eduard	09.03.2020	12735	H	DVB-S2/8PSK|MPEG-4	3600 2/3				Astra-4A FSS Europe		Jurnal TV SD|back on	476
+IC52	Wellikan	03.01.2018	19728	H	DVB-S2/32APSK	45000 3/4	Data			Astra-4A Interconnect Ka Beam			481
+IC4	Llew	12.02.2015	21580	H	DVB-S/MPEG-2	3659 Auto	TVM Malawi		1	Astra-4A Interconnect Ka Beam			482

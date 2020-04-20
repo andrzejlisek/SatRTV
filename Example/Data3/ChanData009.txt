@@ -1,0 +1,301 @@
+Freq	Pol	SR	Beam	Type	Channel Name	FTA	V.PID	A.PID	SID	Row
+11644	H	5500 3/4	3B Europe	R	-R- Radio WaWa Kielce	No		1052[Pol]	1050	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio WaWa Krakow	No		1072[Pol]	1070	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio WaWa Lódz	No		1102[Pol]	1100	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio WaWa Opole	No		1122[Pol]	1120	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio WaWa Torun	No		1152[Pol]	1150	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio WaWa Trojmiasto	No		1172[Pol]	1170	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio WaWa Wroclaw	No		1182[Pol]	1180	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio WaWa Rzeszów	No		1242[Pol]	1240	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio WaWa Szczecin	No		1261[Pol]	1260	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio WaWa Nowy Sacz	No		1292[Pol]	1290	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio WaWa Warszawa	No		1381[Pol]	1380	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio WaWa Jelenia Gora	No		1482[Pol]	1480	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio WaWa Trzebnica	No		1512[Pol]	1510	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Ses	No		2002[Pol]	2000	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Belchatów	No		2012[Pol]	2010	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Bialystok	No		2022[Pol]	2020	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Bydgoszcz	No		2032[Pol]	2030	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Gorzów	No		2042[Pol]	2040	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Kielce	No		2052[Pol]	2050	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Siedlce	No		2062[Pol]	2060	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Krakow	No		2072[Pol]	2070	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Leszno	No		2082[Pol]	2080	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Pila	No		2092[Pol]	2090	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Lódz	No		2102[Pol]	2100	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Olsztyn	No		2112[Pol]	2110	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Opole	No		2122[Pol]	2120	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Lublin	No		2132[Pol]	2130	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Poznan	No		2142[Pol]	2140	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Torun	No		2052[Pol]	2150	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Tarnów	No		2162[Pol]	2160	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Trojmiasto	No		2172[Pol]	2170	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Wroclaw	No		2182[Pol]	2180	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Zielona Góra	No		2192[Pol]	2190	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Radom	No		2212[Pol]	2210	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Slask	No		2222[Pol]	2220	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Zamosc	No		2232[Pol]	2230	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Rzeszów	No		2242[Pol]	2240	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Plock	No		2252[Pol]	2250	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Szczecin	No		2262[Pol]	2260	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Koszalin	No		2272[Pol]	2270	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Zywiec	No		2302[Pol]	2300	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Szczecinek	No		2312[Pol]	2310	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Przemysl	No		2322[Pol]	2320	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Krasnik	No		2362[Pol]	2360	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Starachowice	No		2402[Pol]	2400	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Zary	No		2422[Pol]	2420	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Elblag	No		2432[Pol]	2430	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Ilawa	No		2442[Pol]	2440	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Grudziadz	No		2452[Pol]	2450	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Lomza	No		2462[Pol]	2460	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Wroclaw JG	No		2482[Pol]	2480	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Ostrzeszow	No		2502[Pol]	2500	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska Braniewo	No		2522[Pol]	2520	10
+11644	H	5500 3/4	3B Europe	R	-R- Vox Gorzow	No		3042[Pol]	3040	10
+11644	H	5500 3/4	3B Europe	R	-R- Vox Poznan	No		3142[Pol]	3140	10
+11644	H	5500 3/4	3B Europe	R	-R- Vox Radom	No		3212[Pol]	3210	10
+11644	H	5500 3/4	3B Europe	R	-R- Vox FM	No		3992[Pol]	3990	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Plus FM	No		4002[Pol]	4000	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Plus Olsztyn	No		4112[Pol]	4110	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Plus Lublin	No		4132[Pol]	4130	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Plus Koszalin	No		4272[Pol]	4270	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Plus Podhale	No		4342[Pol]	4340	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Eska	No		5012[Pol]	5010	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Rodzina	No		8012[Pol]	8010	10
+11644	H	5500 3/4	3B Europe	R	-R- Radio Wielkopolska	No		8022[Pol]	8020	10
+11675	V	999 3/4	3B Europe	R	-R- Radio Zlate Przeboje Polska	No		101[Pol]	1000	76
+11675	V	999 3/4	3B Europe	R	-R- Radio Pogoda	No		201[Pol]	2000	76
+11675	V	999 3/4	3B Europe	R	-R- Rock Radio	No		301[Pol]	3000	76
+11675	V	999 3/4	3B Europe	R	-R- Tok FM	No		401[Pol]	4000	76
+11675	V	999 3/4	3B Europe	R	-R- Radio Pogoda 94.5 FM ŚLĄSK I ZAGŁĘBIE	No		501[Pol]	5000	76
+11675	V	999 3/4	3B Europe	R	-R- Radio Zlote Przeboje 93.2 FM Jędrzejów	No		601[Pol]	6000	76
+11675	V	999 3/4	3B Europe	R	-R- Radio Zlote Przeboje 103.6 FM Wetlina	No		701[Pol]	7000	76
+11676	V	1410 4/5	3B Europe	R	-R- RMF FM	No		1101[Pol]	11000	85
+11676	V	1410 4/5	3B Europe	R	-R- RMF Classic	No		1201[Pol]	12000	85
+11676	V	1410 4/5	3B Europe	R	-R- RMF Maxxx	No		1301[Pol]	13000	85
+11676	V	1410 4/5	3B Europe	R	-R- RMF Maxxx Trojmiasto 96.4/106.7 FM	No		1401[Pol]	14000	85
+11676	V	1410 4/5	3B Europe	R	-R- RMF Maxxx Kielce/Radom 89.7/98.0/106.5 FM	No		1501[Pol]	15000	85
+11676	V	1410 4/5	3B Europe	R	-R- RMF Maxxx Pomorze 88.6/91.5/97.2/99.7/101.2/102.9/103.9 FM	No		1601[Pol]	16000	85
+11676	V	1410 4/5	3B Europe	R	-R- RMF Maxxx Warszawa 95.8 FM	No		1701[Pol]	17000	85
+11678	V	2050 3/4	3B Europe	R	-R- RFM Maxxx Poznan 93.5 FM	No		2101[Pol]	21000	93
+11678	V	2050 3/4	3B Europe	R	-R- RMF Maxxx Szczecin 98.4 FM	No		2201[Pol]	22000	93
+11678	V	2050 3/4	3B Europe	R	-R- RMF Maxxx Pila 104.1 FM	No		2301[Pol]	23000	93
+11678	V	2050 3/4	3B Europe	R	-R- RMF Maxxx Konin 95.8 FM	No		2401[Pol]	24000	93
+11678	V	2050 3/4	3B Europe	R	-R- Radio Gra	No		2501[Pol]	25000	93
+11678	V	2050 3/4	3B Europe	R	-R- RMF Maxxx Bydgoszcz 106.1 FM	No		2601[Pol]	26000	93
+11678	V	2050 3/4	3B Europe	R	-R- RMF Maxxx Lubuskie 94.9/101.7 FM	No		2701[Pol]	27000	93
+11678	V	2050 3/4	3B Europe	R	-R- RFM Classic	No		2801[Pol]	28000	93
+11678	V	2050 3/4	3B Europe	R	-R- RMF Maxxx Wloclawek 89.2 FM	No		3101[Pol]	31000	93
+11678	V	2050 3/4	3B Europe	R	-R- RMF Maxxx Czestochova 102.6 FM	No		3201[Pol]	32000	93
+11678	V	2050 3/4	3B Europe	R	-R- RMF Maxxx Slask 88.1 FM	No		3301[Pol]	33000	93
+11678	V	2050 3/4	3B Europe	R	-R- RMF Maxxx Dolny Slask 99.5/101.7 FM	No		3401[Pol]	34000	93
+11678	V	2050 3/4	3B Europe	R	-R- RMF Maxxx Krosno 97.6 FM	No		3501[Pol]	35000	93
+11678	V	2050 3/4	3B Europe	R	-R- RMF Maxxx Opole 102.0 FM	No		3601[Pol]	36000	93
+11678	V	2050 3/4	3B Europe	R	-R- Radio Jura 93.8 FM	No		3701[Pol]	37000	93
+11678	V	2050 3/4	3B Europe	R	-R- RMF Maxxx Mazowsze 88.4/89.6/90.2 FM	No		3801[Pol]	38000	93
+11678	V	2050 3/4	3B Europe	R	-R- RMF Maxxx Inowroclaw 90.8 FM	No		5101[Pol]	51000	93
+11678	V	2050 3/4	3B Europe	R	-R- Radio Gra Wroclaw 95.1 FM	No		5201[Pol]	52000	93
+11678	V	2050 3/4	3B Europe	R	-R- RMF Maxxx Olesnica 96.0 FM	No		5301[Pol]	53000	93
+11678	V	2050 3/4	3B Europe	R	-R- RMF Maxxx Podlasie 97.5 FM	No		5401[Pol]	54000	93
+11678	V	2050 3/4	3B Europe	R	-R- RMF Maxxx Novy Sacz 104.6 FM	No		5501[Pol]	55000	93
+11678	V	2050 3/4	3B Europe	R	-R- Radio Zlote Przeboje	No		5601[Pol]	56000	93
+11678	V	2050 3/4	3B Europe	R	-R- Radio Zlote Przeboje	No		5701[Pol]	57000	93
+11678	V	2050 3/4	3B Europe	R	-R- Radio Gra	No		5801[Pol]	58000	93
+11739	V	29900 2/3	3B Europe Wide	TV	CD Infokanaal	No	562	82	6112	120
+11739	V	29900 2/3	3B Europe Wide	TV	TVV Infokanaal	No	563	82	6113	120
+11739	V	29900 2/3	3B Europe Wide	R	-R- Arrow Classic Rock	No		166[Dut]	6128	120
+11739	V	29900 2/3	3B Europe Wide	R	-R- Classic FM Netherlands	No		167[Dut]	6129	120
+11739	V	29900 2/3	3B Europe Wide	R	-R- Radio Veronica	No		168[Dut]	6130	120
+11778	V	27500 2/3	3B Europe Wide	TV	Astra Ultra HD Demo	No	511	512[Eng]	5390	127
+11778	V	27500 2/3	3B Europe Wide	TV	SES Ultra HD Demo	No	257	258[Eng]	5395	127
+11914	H	30000 3/4	3B Europe Wide	TV	RTS Svet HD	Yes	991	992[Srp]	20099	136
+11914	H	30000 3/4	3B Europe Wide	R	-R- Radio Beograd 1	No		1102[Ser]	20820	136
+11914	H	30000 3/4	3B Europe Wide	R	-R- Radio Beograd 2	No		202[Ser]	20821	136
+11914	H	30000 3/4	3B Europe Wide	R	-R- Radio AS FM	No		212[Ser]	20850	136
+11914	H	30000 3/4	3B Europe Wide	R	-R- Play Radio	No		512[Srp]	20851	136
+11914	H	30000 3/4	3B Europe Wide	R	-R- Radio 202	No		222[Ser]	20822	136
+11934	V	27500 3/4	3B Europe Wide	TV	German Tote TV	No	4110	4120[Ger]	14041	143
+11934	V	27500 3/4	3B Europe Wide	TV	FightBox	No	5010	5020[Eng]|5021[Pol]	14050	143
+11934	V	27500 3/4	3B Europe Wide	TV	DocuBox	No	5110	5120[Eng]	14051	143
+11934	V	27500 3/4	3B Europe Wide	TV	Prima Comedy Central	No	5210	5220[Cze]	14052	143
+11934	V	27500 3/4	3B Europe Wide	TV	Prima MAX HD	No	5310	5320[Cze]	14053	143
+11934	V	27500 3/4	3B Europe Wide	TV	History HD BNL	No	5410	5420[Dut]	14054	143
+11934	V	27500 3/4	3B Europe Wide	TV	TV Oranje	No	5510	5520[Dut]	14055	143
+11934	V	27500 3/4	3B Europe Wide	TV	Prima ZOOM HD	No	5610	5620[Cze]	14056	143
+11934	V	27500 3/4	3B Europe Wide	TV	FilmBox Central Europe	No	5710	5720[Cze]|5721[Eng]	14057	143
+11934	V	27500 3/4	3B Europe Wide	TV	CS Film (06-00 CET)	No	5810	5820[Cze]	14058	143
+11934	V	27500 3/4	3B Europe Wide	TV	CS Horror (00-06 Cet)	No	5910	5920[Cze]	14059	143
+11934	V	27500 3/4	3B Europe Wide	TV	Viasat History	No	6010	6020[Cze]|6021[Eng]|6022[Hun]	14060	143
+11934	V	27500 3/4	3B Europe Wide	TV	Viasat Explore East	No	6110	6120[Cze]|6121[Eng]|6122[Hun]	14061	143
+11934	V	27500 3/4	3B Europe Wide	TV	Viasat Nature East Europe	No	6210	6220[Cze]|6221[Eng]|6222[Hun]	14062	143
+11934	V	27500 3/4	3B Europe Wide	TV	Prima LOVE	No	6310	6320[Cze]	14063	143
+11934	V	27500 3/4	3B Europe Wide	TV	Nick Jr. Czechia	No	6410	6420[Cze]|6421[Eng]	14064	143
+11934	V	27500 3/4	3B Europe Wide	TV	Senzi	No	6510	6520[Slo]	14065	143
+11934	V	27500 3/4	3B Europe Wide	TV	FilmBox Extra HD	No	6710	6720[Cze]|6721[qaa]|6722[Hun]	14067	143
+11934	V	27500 3/4	3B Europe Wide	TV	Duck TV	No	7710	7720[Slo]	14068	143
+11934	V	27500 3/4	3B Europe Wide	TV	Cartoon Network CZ	No	6910	6920[Cze]|6921[Eng]	14069	143
+11934	V	27500 3/4	3B Europe Wide	TV	MTV NL	No	7010	7020[Dut]	14070	143
+11934	V	27500 3/4	3B Europe Wide	TV	Nickelodeon Nederland (time sharing)	No	7110	7120[Dut]	14070	143
+11934	V	27500 3/4	3B Europe Wide	TV	Spike Nederland (time sharing)	No	7110	7120[Dut]	14070	143
+11934	V	27500 3/4	3B Europe Wide	TV	Comedy Central Nederland	No	7210	7220[Dut]	14071	143
+11934	V	27500 3/4	3B Europe Wide	TV	Spike 24	No	7310	7320[Dut]	14073	143
+11934	V	27500 3/4	3B Europe Wide	TV	Nickelodeon Nederland	No	7110	7120[Dut]	14074	143
+11934	V	27500 3/4	3B Europe Wide	TV	AMC Central Europe	No	7510	7520[Cze]|7521[Eng]	14075	143
+11934	V	27500 3/4	3B Europe Wide	TV	Disney Channel Hungary & Czechia	No	7610	7620[Cze]|7621[Eng]|7622[Hun]	14076	143
+11934	V	27500 3/4	3B Europe Wide	TV	TV Paprika	No	7810	7820[Cze]	14078	143
+11934	V	27500 3/4	3B Europe Wide	TV	test	No	7910	7920[Cze]	14079	143
+11934	V	27500 3/4	3B Europe Wide	R	-R- POS Radio 5	No		6631[Ger]		143
+11934	V	27500 3/4	3B Europe Wide	R	-R- POS Radio 6	No		6632[Ger]		143
+11934	V	27500 3/4	3B Europe Wide	R	-R- POS Radio 7	No		6633[Ger]		143
+11934	V	27500 3/4	3B Europe Wide	R	-R- POS Radio 8	No		6634[Ger]		143
+11934	V	27500 3/4	3B Europe Wide	R	-R- POS Radio 9	No		6635[Ger]		143
+11934	V	27500 3/4	3B Europe Wide	R	-R- POS Radio	No		6636[Ger]		143
+11934	V	27500 3/4	3B Europe Wide	R	-R- POS Radio	No		6637[Ger]		143
+11973	V	29900 2/3	3B Europe Wide	TV	Nova Sport 2 HD	No	1010	1020[Cze]|1021[Org]	14110	182
+11973	V	29900 2/3	3B Europe Wide	TV	WAU HD	No	1110	1120[Slo]|1121[Org]	14111	182
+11973	V	29900 2/3	3B Europe Wide	TV	Markiza International	No	1210	1220[Slo]	14112	182
+11973	V	29900 2/3	3B Europe Wide	TV	Nova Gold	No	1310	1320[Cze]	14113	182
+11973	V	29900 2/3	3B Europe Wide	TV	Nova 2	No	1410	1420[Cze]	14114	182
+11973	V	29900 2/3	3B Europe Wide	TV	JOJ Family HD	No	1510	1520[Cze][Slo]|1521[Org]	14115	182
+11973	V	29900 2/3	3B Europe Wide	TV	Minimax Czechia (06-20)	No	1610	1620[Cze]	14116	182
+11973	V	29900 2/3	3B Europe Wide	TV	LTV (22-06)	No	1710	1720[Cze]	14117	182
+11973	V	29900 2/3	3B Europe Wide	TV	LTV (22-06)	No	1710	1720[Cze]	14118	182
+11973	V	29900 2/3	3B Europe Wide	TV	PHD G	No	1910	1920[Eng]	14119	182
+11973	V	29900 2/3	3B Europe Wide	TV	PHD G	No	1910	1920[Eng]	14120	182
+11973	V	29900 2/3	3B Europe Wide	TV	PQ	No	2110	2120[Eng]	14121	182
+11973	V	29900 2/3	3B Europe Wide	TV	PQ	No	2110	2120[Eng]	14122	182
+11973	V	29900 2/3	3B Europe Wide	TV	Nova HD	No	2410	2420[Cze]	14124	182
+11973	V	29900 2/3	3B Europe Wide	TV	Markiza +1 HD	No	2510	2520[Slo]|2521	14125	182
+11973	V	29900 2/3	3B Europe Wide	TV	Mnam TV	No	2810	2820[Cze]	14128	182
+11973	V	29900 2/3	3B Europe Wide	TV	TV Markíza HD	No	2910	2920[Slo]|2921[Org]	14129	182
+11973	V	29900 2/3	3B Europe Wide	TV	TV Doma HD	No	3010	3020[Slo]|3021[Org]	14130	182
+11973	V	29900 2/3	3B Europe Wide	R	-R- FunX	No		5120[Dut]	14151	182
+11973	V	29900 2/3	3B Europe Wide	R	-R- L1 Radio	No		5220[Dut]	14152	182
+11973	V	29900 2/3	3B Europe Wide	R	-R- Rádio 7	No		5320[Cze]	14153	182
+11973	V	29900 2/3	3B Europe Wide	R	-R- Radio Proglas	No		5020[Cze]	42000	182
+12032	H	27500 9/10	3B Europe Wide	TV	Classica Deutschland HD	No	511	515[Ger]	6101	206
+12032	H	27500 9/10	3B Europe Wide	TV	Stingray iConcerts HD	No	767	768[Eng]	6102	206
+12032	H	27500 9/10	3B Europe Wide	TV	Auto Motor und Sport HD	No	1023	1024[Ger]|1025[Bul]|1026[Cze]|1027[Ger]	6103	206
+12032	H	27500 9/10	3B Europe Wide	DATA	@ SES Broadband	No			6190	206
+12090	V	29900 2/3	3B Europe Wide	TV	National Geographic HD East Europe	No	1501	1504[Cze]|1506[Eng]|7018[Hun]	770	213
+12090	V	29900 2/3	3B Europe Wide	TV	National Geographic HD East Europe	No	1501	1504[Cze]|1506[Eng]	771	213
+12090	V	29900 2/3	3B Europe Wide	TV	Nat Geo Wild Europe HD	No	1101	1102[Eng]|1104[Cze]|7614[Bul]|7616[Rus]|7617[Dut]|7618[Hun]	772	213
+12090	V	29900 2/3	3B Europe Wide	TV	Nat Geo Wild Europe HD	No	1101	1102[Eng]|1104[Cze]	773	213
+12090	V	29900 2/3	3B Europe Wide	TV	Nat Geo Wild Europe HD	No	1101	1102[Eng]|7617[Dut]	774	213
+12090	V	29900 2/3	3B Europe Wide	TV	Stingray Brava HD	No	7321	7322[Eng]	791	213
+12090	V	29900 2/3	3B Europe Wide	TV	Regionální Televize	Yes	7131	7132[Cze]	786	213
+12129	V	29900 2/3	3B Europe Wide	TV	Film+ Czechia	No	569	108[Cze]	21218	222
+12129	V	29900 2/3	3B Europe Wide	TV	FilmBox Plus Czechia	No	570	109[Cze]	21219	222
+12129	V	29900 2/3	3B Europe Wide	TV	Filmbox Premium	No	571	110[Cze]	21220	222
+12129	V	29900 2/3	3B Europe Wide	TV	Up Network	No	572	112[Cze]|212[Eng]	21221	222
+12129	V	29900 2/3	3B Europe Wide	R	-R- Sky Radio 101 FM	No		147[Dut]	21227	222
+12168	V	27500 3/4	3B Europe Wide	TV	Ócko TV	Yes	54	53[Cze]	5201	229
+12168	V	27500 3/4	3B Europe Wide	TV	Ócko Star	Yes	55	56[Cze]	5202	229
+12168	V	27500 3/4	3B Europe Wide	TV	TV Lux HD	Yes	35	36[Slo]	5210	229
+12168	V	27500 3/4	3B Europe Wide	TV	Chamber TV HD	Yes	51	50[Lux]	5225	229
+12168	V	27500 3/4	3B Europe Wide	TV	RTL Télé Lëtzebuerg (18-15)	Yes	1141	1142[Lux]	5240	229
+12168	V	27500 3/4	3B Europe Wide	TV	Super RTL (15-18)	Yes	1141	1142[Ger]	5240	229
+12168	V	27500 3/4	3B Europe Wide	TV	Nordliicht TV (Every sunday from 13-14)	Yes	1141	1142[Lux]	5240	229
+12168	V	27500 3/4	3B Europe Wide	TV	Teleippica 1	Yes	110	100[Ita]|102[Ita]	5251	229
+12168	V	27500 3/4	3B Europe Wide	TV	Unire Sat HD	Yes	38	39[Ita]	5254	229
+12168	V	27500 3/4	3B Europe Wide	R	-R- RTL Radio Lëtzebuerg	No		168[Lux]	5245	229
+12168	V	27500 3/4	3B Europe Wide	R	-R- Radio 100.7 Letzebuerg	No		768[Lux]	5246	229
+12168	V	27500 3/4	3B Europe Wide	R	-R- POS Radio	No		6729		229
+12168	V	27500 3/4	3B Europe Wide	R	-R- POS Radio	No		6730		229
+12168	V	27500 3/4	3B Europe Wide	R	-R- POS Radio	No		6733		229
+12168	V	27500 3/4	3B Europe Wide	R	-R- POS Radio 9	No		6638		229
+12168	V	27500 3/4	3B Europe Wide	R	-R- POS Radio	No		6639		229
+12168	V	27500 3/4	3B Europe Wide	R	-R- POS Radio	No		6740		229
+12168	V	27500 3/4	3B Europe Wide	R	-R- POS Radio	No		6744[Ger]		229
+12168	V	27500 3/4	3B Europe Wide	R	-R- POS Radio	No		6747		229
+12168	V	27500 3/4	3B Europe Wide	R	-R- POS Radio	No		6747		229
+12188	H	29900 2/3	3B Europe Wide	TV	TV Rebel	Yes	564	164[Cze]	21064	250
+12188	H	29900 2/3	3B Europe Wide	TV	TV Relax	Yes	565	165[Cze]	21065	250
+12188	H	29900 2/3	3B Europe Wide	TV	TV Drenthe	Yes	571	271[Dut]	21071	250
+12188	H	29900 2/3	3B Europe Wide	R	-R- 100% NL	No		135[Dut]	21075	250
+12188	H	29900 2/3	3B Europe Wide	R	-R- Radio 1 Netherlands	No		140[Dut]	21080	250
+12188	H	29900 2/3	3B Europe Wide	R	-R- Radio 5 Netherlands	No		144[Dut]	21084	250
+12188	H	29900 2/3	3B Europe Wide	R	-R- Radio 10 Gold	No		145[Dut]	21085	250
+12188	H	29900 2/3	3B Europe Wide	R	-R- Radio Gelderland	No		146[Dut]	21086	250
+12188	H	29900 2/3	3B Europe Wide	R	-R- Radio Oost	No		147[Dut]	21087	250
+12188	H	29900 2/3	3B Europe Wide	R	-R- SLAM!FM	No		150[Dut]	21090	250
+12343	H	29900 2/3	3B Europe Wide	TV	CT 24 HD	Yes	1310	1320[Cze]|1323[Cze]	8003	265
+12343	H	29900 2/3	3B Europe Wide	TV	TESTS7	No	2110	2120[Cze]	8013	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Radiozurnal	No		6120[Cze]	8051	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Dvojka	No		6220[Cze]	8052	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Vltava	No		6320[Cze]	8053	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Plus	No		6420[Cze]	8054	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Radio Wave	No		6520[Cze]	8055	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Radio Junior	No		6620[Cze]	8056	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo D-Dur	No		6720[Cze]	8057	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Jazz	No		6820[Cze]	8058	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo DAB Praha	No		6920[Cze]	8059	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Prague International	No		7120	8061	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Region	No		7020[Cze]	8060	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo BRNO	No		7205[Cze]	8062	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo České Budějovice	No		7215[Cze]	8063	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Hradec Králové	No		7225[Cze]	8064	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Karlovy Vary	No		7235[Cze]	8065	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Liberec	No		7245[Cze]	8066	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Vysočina	No		7255[Cze]	8067	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Pardubice	No		7265[Cze]	8068	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Plzeň	No		7275[Cze]	8069	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Olomouc	No		7285[Cze]	8070	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Ostrava	No		7295[Cze]	8071	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Sever	No		7305[Cze]	8072	265
+12343	H	29900 2/3	3B Europe Wide	R	-R- ČRo Zlín	No		7315[Cze]	8073	265
+12363	V	29500 3/4	3B Europe Wide	TV	TV Noe HD	Yes	5020	5030[Cze]	4910	291
+12363	V	29500 3/4	3B Europe Wide	TV	Televízia Osem HD	Yes	5514	5524[Slo]	4914	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Slovensko	No		5881[Slo]	4921	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Regina Bratislava	No		5882[Slo]	4922	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Regina Banská Bystrica	No		5883[Slo]	4923	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Regina Kosice	No		5884[Slo]	4924	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Devín	No		5885[Slo]	4925	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio FM	No		5886[Slo]	4926	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Radio Pyramida	No		5887[Slo]	4927	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Litera	No		5888[Slo]	4928	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Junior	No		5889[Slo]	4929	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Patria (6-18) / Radio FM (18-06)	No		5890[Slo]	4930	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Patria (6-18) / Rádio Devín (18-06)	No		5901[Slo]	4931	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Slovakia International	No		5902[Slo]	4932	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Jemné Melodie Zapad	No		5903[Slo]	4933	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Jemné Melodie Sever	No		5904[Slo]	4934	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Jemné Melodie Vychod	No		5905[Slo]	4935	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Lumen	No		5906[Slo]	4936	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Anténa Rock	No		5907[Slo]	4937	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Radio Zet	No		5909[Cze]	4939	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Beat	No		5920[Cze]	4940	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Beat JM (Jizní Morava)	No		5921[Cze]	4941	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Beat SM (Severní Morava)	No		5922[Cze]	4942	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Beat JZ (Jihozápad)	No		5923[Cze]	4943	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Beat SV (Severovychod)	No		5924[Cze]	4944	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Country Rádio	No		5925[Cze]	4945	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Country JZ (Jihozápad)	No		5926[Cze]	4946	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Country SV (Severovychod)	No		5927[Cze]	4947	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Vlna	No		5519[Slo]	5159	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Vlna SS	No		5520[Slo]	5160	291
+12363	V	29500 3/4	3B Europe Wide	R	-R- Rádio Vlna VS	No		5530[Slo]	5161	291
+12363	V	29500 3/4	3B Europe Wide	DATA	Otta InterActivna Sluzba	No			4918	291
+12402	V	30000 3/4	3B Europe Wide	TV	Uci Doma TV 1	No	4001	4002	20400	325
+12402	V	30000 3/4	3B Europe Wide	TV	Uci Doma TV 2	No	4011	4012	20401	325
+12517	V	16871 3/4	3B Europe	TV	Pro TV	No	2011	2012[Rum]	7601	328
+12517	V	16871 3/4	3B Europe	TV	Pro 2	No	2021	2022[Rum]	7602	328
+12517	V	16871 3/4	3B Europe	TV	Pro TV International	No	2031	2032[Rum]	7603	328
+12517	V	16871 3/4	3B Europe	TV	Pro Cinema	No	2041	2042[Rum]	7604	328
+12517	V	16871 3/4	3B Europe	TV	Pro X	No	2051	2052[Rum]	7605	328
+12517	V	16871 3/4	3B Europe	TV	TEST 1	No	2061	2062[Rum]	7606	328
+12517	V	16871 3/4	3B Europe	TV	Pro Gold	No	2071	2072[Rum]	7607	328
+12548	V	1830 3/4	3B Europe	R	-R- Kronehit OOE	No		101[Ger]	1000	336
+12548	V	1830 3/4	3B Europe	R	-R- Kronehit SBG	No		201[Ger]	2000	336
+12548	V	1830 3/4	3B Europe	R	-R- Kronehit T	No		301[Ger]	3000	336
+12548	V	1830 3/4	3B Europe	R	-R- Kronehit VBG	No		401[Ger]	4000	336
+12548	V	1830 3/4	3B Europe	R	-R- Kronehit STMK	No		501[Ger]	5000	336
+12548	V	1830 3/4	3B Europe	R	-R- Kronehit KTN	No		601[Ger]	6000	336
+12640	V	940 1/2	3B Europe	R	-R- Radio Deutschlandfunk	No		101[Ger]	1000	347
+12640	V	940 1/2	3B Europe	R	-R- Deutschlandradio Kultur	No		201[Ger]	2000	347
+12643	V	556 3/4	3B Europe	R	-R- Radio Oberland 2	No		44[Ger]	100	351
+12643	V	556 3/4	3B Europe	R	-R- Radio Oberland	No		41[Ger]	200	351
+12643	V	556 3/4	3B Europe	R	-R- Radio Osttirol	No		42[Ger]	300	351
+12643	V	556 3/4	3B Europe	R	-R- Radio POS/Ausserfern	No		43[Ger]	400	351
+12647	V	285 7/8	3B Europe	R	-R- Antenne Düsseldorf 104,2	No		101[Ger]	1000	358

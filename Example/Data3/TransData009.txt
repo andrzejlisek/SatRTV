@@ -1,0 +1,66 @@
+Txp No	Source	Date	Freq	Pol	Mode	SR-FEC	Provider Name	Encryption	ONID-TID	FootPrints	EIRP(dBW)	Comments	Row
+401	KooLy	02.05.2018	11461	H	DVB-S2/16APSK|ACM	8000 3/4	Data			3B Middle East			0
+401	KooLy	18.11.2019	11476	H	DVB-S2/QPSK|ACM	4832 1/2	Data			3B Middle East			1
+402	KooLy	08.02.2012	11475	V	DVB-S2/QPSK|ACM/VCM	30000 1/2	AOL			3B Middle East			2
+403	Kypros|Pambou	24.07.2016	11515	H	DVB-S2/32APSK|ACM	34285 3/4	Data			3B Middle East			3
+408	KooLy	09.12.2018	11580	V	DVB-S2X/16APSK|ACM	3643 25/36	Data			3B Middle East			4
+7	Hendrik	19.02.2020	11582	H	DVB-S2/8PSK|MPEG-4					3B Europe		TVP Polonia|left	5
+408	KooLy	09.12.2018	11587	V	DVB-S2X/16APSK|ACM	3250 7/9	Data			3B Middle East			6
+408	KooLy	09.12.2018	11593	V	DVB-S2X/16APSK|ACM	3250 7/9	Data			3B Middle East			7
+407	KooLy	12.10.2013	11595	H	DVB-S2/QPSK|ACM	30000 1/2	AOL			3B Middle East			8
+9	Satesco	20.05.2017	11620	H	DVB-S2/32APSK|ACM	5931 3/4	Data			3B Europe			9
+9	Hendrik	03.02.2020	11644	H	DVB-S2/8PSK	5500 3/4			1-0	3B Europe		ESKA Braniewo	10
+12	EnoSat	03.09.2019	11675	V	DVB-S2/8PSK|ACM/VCM	999 3/4				3B Europe			76
+412	KooLy	09.04.2017	11675	V	DVB-S2/32APSK|ACM	34278 3/4	Data			3B Middle East			84
+12	EnoSat	03.09.2019	11676	V	DVB-S2/QPSK	1410 4/5			3-11	3B Europe			85
+12	EnoSat	03.09.2019	11678	V	DVB-S2/8PSK	2050 3/4			5-15	3B Europe			93
+12	Redeemer	05.08.2013	11686	V	DVB-S/MPEG-2	2748 3/4	@ Gilat Satellite Networks			3B Europe			118
+201	Hendrik	06.03.2020	11720	H	DVB-S2/8PSK|MPEG-4|HEVC	30000 3/4		Conax	3-3201	3B Europe Wide			119
+202	Hendrik	07.04.2020	11739	V	DVB-S2/8PSK|MPEG-4	29900 2/3		Cryptoworks|Itdeto|Mediaguard|Nagravision|Viaccess	3-3202	3B Europe Wide		FightBox|on	120
+203	EnoSat	23.11.2016	11758	H	DVB-S2/16APSK|ACM/VCM	30000 Auto	Data			3B Europe Wide			126
+204	Hendrik|Satmaat|D.Shimoni|FaresSenara	11.11.2016	11778	V	DVB-S2/8PSK|HEVC	27500 2/3			3-3204	3B Europe Wide			127
+205	Hendrik	03.03.2020	11798	H	DVB-S2/8PSK|MPEG-4|HEVC	30000 3/4		Conax	3-3205	3B Europe Wide		B92|on|O2.TV|left	130
+206	Hendrik	21.03.2020	11817	V	DVB-S2/8PSK|MPEG-4|HEVC	30000 3/4		Conax	3-3206	3B Europe Wide		K1|Kazbuka|TVDR|on	131
+207	Zaza	13.10.2019	11837	H	DVB-S2/16APSK	31430 2/3	Data			3B Europe Wide			132
+208	Hendrik	19.03.2019	11856	V	DVB-S2/8PSK|MPEG-4	29900 2/3		Cryptoworks|Irdeto|Mediaguard|Nagravision|Viaccess	3-3208	3B Europe Wide			133
+209	Martin.cz	18.02.2020	11876	H	DVB-S2/8PSK|MPEG-4	29900 3/4		Cryptoworks|Irdeto	3-3209	3B Europe Wide			134
+210	EnoSat	23.11.2016	11895	V	DVB-S2/QPSK|ACM/VCM|MIS-0	30000 Auto	Data			3B Europe Wide			135
+211	Hendrik	16.03.2020	11914	H	DVB-S2/8PSK|MPEG-4|HEVC	30000 3/4		Conax	3-3211	3B Europe Wide		B TV|left	136
+212	Hendrik	15.01.2020	11934	V	DVB-S2/8PSK|MPEG-2|MPEG-4	27500 3/4			3-3212	3B Europe Wide		CS Horror|on|Horror Film|CS Mini|left	143
+213	M.Vyletal	01.09.2011	11954	H	DVB-S2/8PSK					3B Europe Wide		SES|Broadband|left	181
+214	Hendrik	12.11.2019	11973	V	DVB-S2/8PSK|MPEG-4	29900 2/3			3-3214	3B Europe Wide			182
+215	EnoSat	09.05.2012	11992	H	DVB-S/QPSK					3B Europe Wide		left carrier	205
+217	Martin.cz|E.Markham	19.12.2017	12032	H	DVB-S2/QPSK|MPEG-4	27500 9/10			3-3217	3B Europe Wide			206
+218	M.Vyletal|StEVE^qSR	10.06.2013	12051	V	DVB-S2/8PSK					3B Europe Wide		SatelliteBG|package|left	211
+219	Martin.cz	07.04.2020	12070	H	DVB-S/MPEG-4	27500 3/4		Cryptoworks|Irdeto|Viaccess	3-3219	3B Europe Wide		Šlágr TV|encrypted|again	212
+220	Martin.cz	06.04.2020	12090	V	DVB-S2/8PSK|MPEG-4	29900 2/3		Cryptoworks|Irdeto|Mediaguard|Nagravision|Viaccess	3-3220	3B Europe Wide		TV Rebel 2|left	213
+221	EnoSat	24.08.2019	12110	H	DVB-S2/8PSK	27500 9/10	Internet			3B Europe Wide			221
+222	Hendrik	02.03.2020	12129	V	DVB-S2/8PSK|MPEG-4	29900 2/3		Mediaguard|Nagravision	3-3222	3B Europe Wide		CAZ 2|on|VTM Kids Jr|Kanaal Z|left	222
+223	EnoSat	01.12.2012	12148	H	DVB-S2/8PSK	27500 5/6	@ SES Broadband		7470|3-3223	3B Europe Wide			228
+224	Hendrik|William-1	19.12.2019	12168	V	DVB-S/MPEG-2|DVB-S/MPEG-4	27500 3/4			3-3224	3B Europe Wide		Ócko Star|started|program|on	229
+225	Hendrik	29.04.2019	12188	H	DVB-S2/8PSK|MPEG-4	29900 2/3		Mediaguard|Nagravision|Viaccess	3-3225	3B Europe Wide			250
+226	Hendrik	10.08.2016	12207	V	DVB-S2/8PSK|MPEG-4					3B Europe Wide		M7 Group|(Skylink)|package|left	261
+227	EnoSat	31.08.2010	12226	H	DVB-S2/8PSK					3B Europe Wide		left|@ SES Broadband	262
+229	Roger	18.08.2012	12265	H	DVB-S2/8PSK					3B Europe Wide		@ SES Broadband|left	263
+231	EnoSat	01.12.2012	12304	H	DVB-S2/8PSK	27500 5/6	@ SES Broadband		7450|3-3231	3B Europe Wide			264
+233	Hendrik	20.03.2020	12343	H	DVB-S2/8PSK|MPEG-4	29900 2/3		Cryptoworks|Irdeto|Viaccess	3-3233	3B Europe Wide		CT 3 HD|on	265
+234	Hendrik	27.03.2020	12363	V	DVB-S2/8PSK|MPEG-4	29500 3/4		Cryptoworks|Irdeto	3-3234	3B Europe Wide		Radio Jazz FM|left	291
+235	Zaza	13.10.2019	12383	H	DVB-S2/QPSK	31430 1/4	Internet			3B Europe Wide			324
+236	Hendrik|Vito	23.03.2020	12402	V	DVB-S2/8PSK|MPEG-4|HEVC	30000 3/4		Conax	3-3236	3B Europe Wide		Uci Doma TV 1|Uci Doma TV 2|FTA now	325
+14	Hendrik	01.03.2019	12517	V	DVB-S2/QPSK|MPEG-4	16871 3/4		Conax	5-5212	3B Europe			328
+16	EnoSat|SatSearcher	17.08.2018	12548	V	DVB-S2/QPSK	1830 3/4			1-1	3B Europe			336
+16	Satesco	17.10.2015	12563	V	DVB-S2/QPSK|ACM	5249 3/4	Gilat - Sky Edge II			3B Europe			343
+17	Feci01	26.03.2020	12567	H	DVB-S2/16APSK	2780 3/4	Data			3B Europe			344
+16	EnoSat	24.08.2019	12573	V	DVB-S2/16APSK|ACM/VCM	11181 Auto	IPVideo			3B Europe			345
+17	EnoSat	24.08.2019	12605	H	DVB-S2/QPSK	30000 3/4	Internet			3B Europe			346
+22	EnoSat|Thrasher	21.02.2017	12640	V	DVB-S/QPSK|MPEG-1	940 1/2			1-1	3B Europe			347
+20	EnoSat	04.04.2012	12641	V	DVB-S/DAB	1342 5/6	DR Deutchland (Media Broadcast 5C)			3B Europe			350
+22	EnoSat	17.07.2014	12643	V	DVB-S/MPEG-2	556 3/4			1-1	3B Europe		12643.2	351
+19	EnoSat	24.08.2019	12645	H	DVB-S2/QPSK	30000 3/4	Internet			3B Europe			356
+20	EnoSat	09.05.2012	12645	V	DVB-S/DAB	1489 3/4	NRW (WDR 11D)			3B Europe			357
+20	EnoSat|Redeemer	02.06.2014	12647	V	DVB-S/QPSK	285 7/8			1-1	3B Europe			358
+22	Atomantiii	13.11.2017	12667	V	DVB-S2/32APSK|ACM	1000 3/5	Data			3B Europe			360
+21	EnoSat	24.08.2019	12694	H	DVB-S2/8PSK	15000 2/3	Data			3B Europe			361
+23	M.Kröner	15.02.2017	12725	H	DVB-S2/8PSK					3B Europe		SES|Broadband|left	362
+	Marval450	15.10.2015	21465	V	DVB-S2/32APSK	34285 3/4	Data			3B Ka-band			363
+	Dreamsat|Marval450|Onacila	27.10.2013	21545	V	DVB-S2/QPSK|ACM/VCM	30000 1/2	AOL		20500|40000	3B Ka-band			364

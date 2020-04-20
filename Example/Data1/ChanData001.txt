@@ -1,812 +1,236 @@
 Freq	Pol	SR	Beam	Type	Name	Country	Category	Packages	Encryption	SID	VPID	Audio	PMT	PCR	TXT	Last updated	FTA	Row
-10762.25	H	30000 3/5	Europe B	TV	RTK 1 Sat (Kosovo)	Serbia	General	Digit Alb	Clear	1000	1001	1002[alb]	1000	1001		2018-07-16	Yes	39001001
-10762.25	H	30000 3/5	Europe B	TV	Top News	Albania	News	Digit Alb	Clear	1020	1021	1022[alb]|1023	1020	1021		2016-08-23	Yes	39001003
-10762.25	H	30000 3/5	Europe B	TV	Bang Bang	Albania	Children	Digit Alb	Conax	1040	1041	1042[alb]|1043[eng]	1040	1041		2019-07-18	No	39001005
-10762.25	H	30000 3/5	Europe B	TV	Explorer shkence	Albania	Documentaries	Digit Alb	Conax	1060	1061	1062[alb]|1063[eng]	1060	1061		2019-07-18	No	39001007
-10762.25	H	30000 3/5	Europe B	TV	Film Komedi	Albania	Movies	Digit Alb	Conax	1100	1101	1102[eng]	1100	1101		2019-07-18	No	39001009
-10762.25	H	30000 3/5	Europe B	TV	T	Albania	General	Digit Alb	Conax	1160	1161	1162[alb]	1160	1161		2019-07-18	No	39001011
-10762.25	H	30000 3/5	Europe B	TV	Ora News	Albania	News	Digit Alb	Conax	1180	1181	1182[alb]|1183[alb]	1180	1181		2019-09-18	No	39001013
-10762.25	H	30000 3/5	Europe B	TV	News 24 Albania	Albania	News	Digit Alb	Conax	1240	1241	1242[alb]	1240	1241		2019-07-18	No	39001015
-10762.25	H	30000 3/5	Europe B	TV	X1	Albania	Porn	Digit Alb	Conax	1260	1261	1262[eng]	1260	1261		2014-10-04	No	39001017
-10762.25	H	30000 3/5	Europe B	TV	BCTV Europe	Albania	Various	Digit Alb	Clear	1300	1301	1302[alb]	1300	1301		2017-02-08	Yes	39001019
-10762.25	H	30000 3/5	Europe B	TV	T HD	Albania	Movies	Digit Alb	Conax	1400	1401	1402[alb]	1400	1401		2019-07-18	No	39001021
-10762.25	H	30000 3/5	Europe B	TV	Supersport 7 HD	Albania	Sport	Digit Alb	Conax	1420	1421	1422[alb]|1423[eng]	1420	1421		2019-07-18	No	39001023
-10762.25	H	30000 3/5	Europe B	TV	RTV Ora	Albania	Various	Digit Alb	Conax	1440	1441	1442[alb]	1440	1441		2019-09-18	No	39001025
-10762.25	H	30000 3/5	Europe B	TV	MTV Live HD	United Kingdom	Music	Digit Alb	Conax	1460	1461	1462[eng]	1460	1461		2019-07-18	No	39001027
-10762.25	H	30000 3/5	Europe B	TV	Film Hits HD	Albania	Movies	Digit Alb	Conax	1480	1481	1482[alb]	1480	1481		2019-07-18	No	39001029
-10762.25	H	30000 3/5	Europe B	TV	Film Aksion HD	Albania	Movies	Digit Alb	Conax	1500	1501	1502[alb]	1500	1501		2019-07-18	No	39001031
-10762.25	H	30000 3/5	Europe B	TV	Seriale Turke	Albania	Series	Digit Alb	Conax	1520	1521	1522[tur]	1520	1521		2019-10-16	No	39001033
-10762.25	H	30000 3/5	Europe B	TV	Top Channel HD	Albania	General	Digit Alb	Conax	1540	1541	1542[alb]	1540	1541		2019-09-05	No	39001035
-10762.25	H	30000 3/5	Europe B	R	Top Albania Radio			Digit Alb	Clear	1800		1803[aac]	1800	8191		2018-10-31	Yes	39001037
-10762.25	H	30000 3/5	Europe B	R	Top Gold Radio			Digit Alb	Clear	1820		1023[aac]	1820	8191		2018-10-31	Yes	39001039
-10762.25	H	30000 3/5	Europe B	DATA	KSF-S270HDCO			Digit Alb	Clear	613			32	8191		2015-07-11	Yes	39001041
-10762.25	H	30000 3/5	Europe B	DATA	KSF-S660HDCO			Digit Alb	Clear	614			33	8191		2015-07-11	Yes	39001043
-10762.25	H	30000 3/5	Europe B	DATA	ODS-2+3000H			Digit Alb	Clear	617			35	8191		2015-07-11	Yes	39001045
-10762.25	H	30000 3/5	Europe B	DATA	DGA-OTT200S			Digit Alb	Clear	620			620	8191		2016-11-28	Yes	39001047
-10762.25	H	30000 3/5	Europe B	DATA	V-Data			Digit Alb	Clear	5300			5300	8191		2017-12-16	Yes	39001049
-10803.75	H	29950 2/3	Europe B	TV	Euronews Albania	France	News	Digit Alb	Clear	2000	2001	2002[alb]	2000	2001		2019-12-04	Yes	43001001
-10803.75	H	29950 2/3	Europe B	TV	Supersport 5 HD (Albania)	Albania	Sport	Digit Alb	Conax	2020	2021	2022[alb]	2020	2021		2019-07-18	No	43001003
-10803.75	H	29950 2/3	Europe B	TV	Supersport 6 HD Albania	Albania	Sport	Digit Alb	Conax	2030	2031	2032[alb]	2030	2031		2019-07-18	No	43001005
-10803.75	H	29950 2/3	Europe B	TV	Junior TV Albania	Albania	Children	Digit Alb	Conax	2100	2101	2102[alb]|2103[eng]	2100	2101		2019-07-18	No	43001007
-10803.75	H	29950 2/3	Europe B	TV	Cufo TV	Albania	Children	Digit Alb	Conax	2110	2111	2112[alb]|2113[eng]	2110	2111		2019-07-18	No	43001009
-10803.75	H	29950 2/3	Europe B	TV	My Music	Albania	Music	Digit Alb	Conax	2120	2121	2122[alb]	2120	2121		2019-07-18	No	43001011
-10803.75	H	29950 2/3	Europe B	TV	Explorer natyra	Albania	Documentaries	Digit Alb	Conax	2130	2131	2132[alb]|2133[eng]	2130	2131		2019-07-18	No	43001013
-10803.75	H	29950 2/3	Europe B	TV	Explorer histori	Albania	Documentaries	Digit Alb	Conax	2140	2141	2142[alb]|2143[eng]	2140	2141		2019-07-18	No	43001015
-10803.75	H	29950 2/3	Europe B	TV	Fax News	Albania	News	Digit Alb	Conax	2150	2151	2152[alb]	2150	2151		2020-03-20	No	43001017
-10803.75	H	29950 2/3	Europe B	TV	EuroFilm	Albania	Movies	Digit Alb	Conax	2160	2161	2162	2160	2161		2019-07-18	No	43001019
-10803.75	H	29950 2/3	Europe B	TV	EuroFilm	Albania	Movies	Digit Alb	Conax	2160	2161	2162	2160	2161		2019-07-19	No	43001021
-10803.75	H	29950 2/3	Europe B	TV	Film Autor	Albania	Movies	Digit Alb	Conax	2170	2171	2172[eng]|2173[ita]	2170	2171		2019-07-18	No	43001023
-10803.75	H	29950 2/3	Europe B	TV	SS_Service1			Digit Alb	BISS	2180	2181	2182|2183	2180	2181		2019-10-10	No	43001025
-10803.75	H	29950 2/3	Europe B	TV	Film Thriller	Albania	Movies	Digit Alb	Conax	2190	2191	2192[eng]|2193[ita]	2190	2191		2019-07-18	No	43001027
-10803.75	H	29950 2/3	Europe B	TV	Film Drame	Albania	Movies	Digit Alb	Conax	2200	2201	2202[eng]|2203[ita]	2200	2201		2019-07-18	No	43001029
-10803.75	H	29950 2/3	Europe B	TV	SS_Service2			Digit Alb	BISS	2210	2211	2212|2213	2210	2211		2019-10-10	No	43001031
-10803.75	H	29950 2/3	Europe B	TV	ABC News (Albania)	Albania	News	Digit Alb	Conax	2220	2221	2222[alb]	2220	2221		2019-07-18	No	43001033
-10803.75	H	29950 2/3	Europe B	TV	Melody.TV	Albania	Music	Digit Alb	Conax	2240	2241	2242[alb]	2240	2241		2019-07-18	No	43001035
-10803.75	H	29950 2/3	Europe B	TV	A2 CNN	Albania	News	Digit Alb	Conax	3300	3301	3302[alb]	3300	3301		2019-07-18	No	43001037
-10803.75	H	29950 2/3	Europe B	R	My Music Radio			Digit Alb	Clear	921		2243[alb]	921	2241		2014-10-31	Yes	43001039
-10803.75	H	29950 2/3	Europe B	R	NRG Radio			Digit Alb	Clear	2411		2764[alb]	2411	8191		2018-04-26	Yes	43001041
-10803.75	H	29950 2/3	Europe B	DATA	DGA-Z100S			Digit Alb	Clear	612			612	8191		2019-05-23	Yes	43001043
-10803.75	H	29950 2/3	Europe B	DATA	ODS-2+3000H			Digit Alb	Clear	617						2018-11-16	Yes	43001045
-10803.75	H	29950 2/3	Europe B	DATA	ODS-4000H			Digit Alb	Clear	618			618	8191		2015-09-04	Yes	43001047
-10803.75	H	29950 2/3	Europe B	DATA	DGA-i100S			Digit Alb	Clear	619			619	8191		2015-09-04	Yes	43001049
-10845.25	H	30000 3/5	Europe B	TV	Film Nje HD	Albania	Movies	Digit Alb	Conax	1001	1011	1012[eng]	2402	1011		2019-07-18	No	47001001
-10845.25	H	30000 3/5	Europe B	TV	Film Dy HD	Albania	Movies	Digit Alb	Conax	1002	1021	1022[eng]	2403	1021		2019-07-18	No	47001003
-10845.25	H	30000 3/5	Europe B	TV	Family HD	Albania	Various	Digit Alb	Conax	1003	1031	1032[alb]|1033[eng]	2404	1031		2019-07-20	No	47001005
-10845.25	H	30000 3/5	Europe B	TV	SuperSport HD-1	Albania	Sport	Digit Alb	Conax	1004	1041	1042[alb]|1043[eng]	1100	1041		2019-07-18	No	47001007
-10845.25	H	30000 3/5	Europe B	TV	SuperSport HD-2	Albania	Sport	Digit Alb	Conax	1005	1051	1052[alb]|1053[eng]	1101	1051		2019-07-18	No	47001009
-10845.25	H	30000 3/5	Europe B	TV	SuperSport HD-3	Albania	Sport	Digit Alb	Conax	1006	1061	1062[alb]|1063[eng]	2405	1061		2019-07-18	No	47001011
-10845.25	H	30000 3/5	Europe B	TV	SuperSport HD-4	Albania	Sport	Digit Alb	Conax	1007	2161	2162[alb]|2163[eng]	1307	2161		2019-07-18	No	47001013
-10845.25	H	30000 3/5	Europe B	TV	Travel Channel HD	United Kingdom	Travel	Digit Alb	Conax	1009	2121	2122[eng]	1303	2121		2013-06-30	No	47001015
-10845.25	H	30000 3/5	Europe B	TV	RRokum	Kosovo	Music	Digit Alb	Conax	1021	300	301[alb]	1103	300		2019-07-18	No	47001017
-10845.25	H	30000 3/5	Europe B	TV	Scan TV	Albania	Business	Digit Alb	Conax	1023	340	341[alb]	1116	340		2019-07-18	No	47001019
-10845.25	H	30000 3/5	Europe B	TV	Ndihma e Klientit	Albania	Presentations	Digit Alb	Clear	1028	320	321[alb]	1028	320		2016-10-22	Yes	47001021
-10845.25	H	30000 3/5	Europe B	TV	IN TV (Albania)	Albania	Various	Digit Alb	Conax	1034	370	371[alb]	1034	370		2019-07-18	No	47001023
-10845.25	H	30000 3/5	Europe B	TV	UTV News	Albania	Documentaries	Digit Alb	Conax	1035	230	231[alb]	1035	230		2019-07-18	No	47001025
-10845.25	H	30000 3/5	Europe B	TV	Travel Channel HD			Digit Alb|OrangeSat Slovakia	Irdeto 2	3660	2121	2122[eng]	3660	2121		2018-08-16	No	47001027
-10845.25	H	30000 3/5	Europe B	TV	Travel Channel HD			Digit Alb	Conax	3700	2121	2122[eng]|2123[bul]	1303	2121		2016-11-13	No	47001029
-10845.25	H	30000 3/5	Europe B	TV	Star Plus TV	Albania	Entertainment	Digit Alb	Conax	4160	4161	4162[alb]	4160	4161		2019-07-18	No	47001031
-10845.25	H	30000 3/5	Europe B	TV	Fox Movies Eastern Europe	undefined	Movies	Digit Alb	Conax	4460	4461	4462[eng]	4460	4461		2019-07-18	No	47001033
-10886.75	H	30000 3/5	Europe B	TV	National Geographic HD UK	United Kingdom	Documentaries	Digit Alb	Conax	1001	1001	1002[eng]	2401	1001		2019-07-18	No	51001003
-10886.75	H	30000 3/5	Europe B	TV	Discovery HD Showcase	United Kingdom	Documentaries	Digit Alb	Conax	1002	1091	1092[eng]|1093[cze]	1119	1091		2017-05-29	No	51001005
-10886.75	H	30000 3/5	Europe B	TV	STV Folk	Albania	Music	Digit Alb	Conax	1003	2171	2172[eng]	1308	2171		2019-07-18	No	51001007
-10886.75	H	30000 3/5	Europe B	TV	Animal Planet HD	United Kingdom	Documentaries	Digit Alb	Conax	1004	2101	2102[eng]	1301	2101		2017-05-29	No	51001009
-10886.75	H	30000 3/5	Europe B	TV	Discovery Science Europe HD	United Kingdom	Documentaries	Digit Alb	Conax	1005	2111	2112[eng]	1302	2111		2017-05-29	No	51001011
-10886.75	H	30000 3/5	Europe B	TV	Dorcel HD	undefined	Porn	Digit Alb	Conax	1007	2141	2142[eng]|2143[fra]	1305	2141		2013-02-20	No	51001013
-10886.75	H	30000 3/5	Europe B	TV	24 Kitchen	Portugal	Cooking	Digit Alb	Conax	1021	200	201[eng]	1106	200		2019-07-18	No	51001015
-10886.75	H	30000 3/5	Europe B	TV	Fox Channel Albania	Albania	Entertainment	Digit Alb	Conax	1022	210	211[eng]	1107	210		2019-07-18	No	51001017
-10886.75	H	30000 3/5	Europe B	TV	Discovery Turbo Xtra	United Kingdom	Entertainment	Digit Alb	Conax	1023	220	221[alb]	1108	220		2019-07-18	No	51001019
-10886.75	H	30000 3/5	Europe B	TV	Comedy Central Extra	United Kingdom	Entertainment	Digit Alb	Conax	1025	240	241[eng]	1110	240		2019-07-18	No	51001021
-10886.75	H	30000 3/5	Europe B	TV	Fox Life Albania	Albania	Entertainment	Digit Alb	Conax	1026	250	251[eng]	1111	250		2019-07-18	No	51001023
-10886.75	H	30000 3/5	Europe B	TV	Nickelodeon Europe	United Kingdom	Children	Digit Alb	Conax	1027	260	261[eng]	1112	260		2019-07-18	No	51001025
-10886.75	H	30000 3/5	Europe B	TV	Supersonic TV	Albania	Music	Digit Alb	Conax	1030	310	311[eng]	1104	310		2019-07-18	No	51001027
-10886.75	H	30000 3/5	Europe B	TV	A1 Report	Albania	News	Digit Alb	Conax	1031	270	271[alb]	1102	270		2019-07-18	No	51001029
-10886.75	H	30000 3/5	Europe B	TV	Discovery Channel	United Kingdom	Documentaries	Digit Alb	Conax	1042	290	291[eng]	1114	290		2019-07-18	No	51001031
-10886.75	H	30000 3/5	Europe B	TV	Playboy HD	U.S.A.	Erotic	Digit Alb	Conax	3240	3241	3242[eng]|3243[fra]	3240	3241		2018-03-29	No	51001033
-10886.75	H	30000 3/5	Europe B	TV	Animal Planet HD			Digit Alb|OrangeSat Slovakia	Irdeto 2	3600	2101	2102[eng]	3600	2101		2018-08-16	No	51001035
-10886.75	H	30000 3/5	Europe B	TV	Discovery Science HD			Digit Alb|OrangeSat Slovakia	Irdeto 2	3620	2111	2112[eng]	3620	2111		2018-08-16	No	51001037
-10886.75	H	30000 3/5	Europe B	TV	Discovery Showcase HD			Digit Alb|OrangeSat Slovakia	Irdeto 2	3640	1091	1092[eng]	3640	1091		2018-08-16	No	51001039
-10886.75	H	30000 3/5	Europe B	TV	Animal Planet HD			Digit Alb	Conax	4700	2101	2102[eng]|2103[cze]	4700	2101		2017-05-29	No	51001041
-10886.75	H	30000 3/5	Europe B	TV	Discovery Science HD			Digit Alb	Conax	4720	2111	2112[eng]|2113[cze]	4720	2111		2017-05-29	No	51001043
-10886.75	H	30000 3/5	Europe B	TV	Discovery HD Showcase	United Kingdom	Documentaries	Digit Alb	Conax	4740	1091	1092[eng]|1093[bul]	4740	1091		2017-07-13	No	51001045
-10886.75	H	30000 3/5	Europe B	TV	DTX	United Kingdom	Documentaries	Digit Alb	Conax	4760	220	221[eng]|222[cze]	1108	220		2019-09-24	No	51001047
-10928.25	H	30000 3/5	Europe B	TV	Ginx	undefined	Children	Antik Sat	Conax	1101	1101	1102[eng]	1100	1101		2019-11-19	No	55001001
-10928.25	H	30000 3/5	Europe B	TV	Wness TV	Bulgaria	Lifestyle	Antik Sat	Clear	1102	1201	1202[bul]|1203[eng]|1204[ukr]	1200	1201		2019-11-19	Yes	55001003
-10928.25	H	30000 3/5	Europe B	TV	RIC	Germany	Children	Antik Sat	Conax	1105	1501	1502[eng]|1503[ger]	1500	1501		2019-11-19	No	55001005
-10928.25	H	30000 3/5	Europe B	TV	Kerrang !	United Kingdom	Music	Antik Sat	Conax	1107	1701	1702[eng]	1700	1701		2019-11-20	No	55001007
-10928.25	H	30000 3/5	Europe B	TV	Kiss TV (UK)	United Kingdom	Music	Antik Sat	Conax	1108	1801	1802[eng]	1800	1801		2019-11-20	No	55001009
-10928.25	H	30000 3/5	Europe B	TV	Magic (UK)	United Kingdom	Music	Antik Sat	Conax	1109	1901	1902[eng]	1900	1901		2019-11-20	No	55001011
-10928.25	H	30000 3/5	Europe B	TV	Box Hits	United Kingdom	Music	Antik Sat	Conax	1110	2001	2002[eng]	2000	2001		2019-11-20	No	55001013
-10928.25	H	30000 3/5	Europe B	TV	Box Africa	undefined	Entertainment	Antik Sat	Conax	1111	2101	2102[eng]	2100	2101		2019-11-20	No	55001015
-10928.25	H	30000 3/5	Europe B	TV	Epic Drama	undefined	Movies	Antik Sat|OrangeSat Slovakia|Total TV	Conax|Irdeto 2|VideoGuard	1112	2201	2202[vo]|2203[lit]|2204[bul]|2205[tur]|2206[cze]|2207[hun]|2208[rus]	2200	2201		2019-11-19	No	55001017
-10928.25	H	30000 3/5	Europe B	TV	Evil Angels	Bulgaria	Porn	Antik Sat	Conax	1113	2301	2302[eng]	2300	2301		2019-11-20	No	55001019
-10928.25	H	30000 3/5	Europe B	TV	Viasat Nature HD	Sweden	Documentaries	Antik Sat|OrangeSat Slovakia|Total TV	Conax|Irdeto 2|VideoGuard	1114	2401	2402[vo]|2403[rus]|2404[cze]|2405[hun]	2400	2401	2433	2019-11-20	No	55001021
-10928.25	H	30000 3/5	Europe B	TV	Viasat Explore HD	Sweden	Documentaries	Antik Sat|OrangeSat Slovakia|Total TV	Conax|Irdeto 2|VideoGuard	1115	2501	2502[vo]|2503[rus]|2504[tur]|2505[cze]|2506[hun]|2507[bul]	2500	2501		2019-11-20	No	55001023
-10928.25	H	30000 3/5	Europe B	TV	Viasat History HD	Sweden	History	Antik Sat|OrangeSat Slovakia|Total TV	Conax|Irdeto 2|VideoGuard	1116	2601	2602[vo]|2603[swe]|2604[nor]|2605[den]|2606[cze]|2607[rus]|2608[tur]|2609[hun]	2600	2601		2019-11-19	No	55001025
-10928.25	H	30000 3/5	Europe B	TV	Body In Balance	Germany	Lifestyle	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1128	3801	3802[eng]	3800	3801		2019-11-19	No	55001027
-10972.17	V	27500 3/5	Europe B	TV	BK TV	Serbia	General	Total TV	VideoGuard	1351	251	3511[ser]	151	251		2019-08-27	No	63001001
-10972.17	V	27500 3/5	Europe B	TV	TV Palma Plus	Serbia	Regional	Total TV	VideoGuard	1352	252	3521[ser]	152	252		2019-08-27	No	63001003
-10972.17	V	27500 3/5	Europe B	TV	Arena Sport 1 Croatia	Croatia	Sport	Total TV	VideoGuard	1353	253	3531[cro]	153	253		2019-08-27	No	63001005
-10972.17	V	27500 3/5	Europe B	TV	TV Alfa Sarajevo	Bosnia and Herzegovina	Regional	Total TV	VideoGuard	1354	52	34[ser]	154	52		2019-08-27	No	63001007
-10972.17	V	27500 3/5	Europe B	TV	ArenaSport 4	Serbia	Sport	Total TV	VideoGuard	1355	255	3551[ser]	155	255		2019-08-27	No	63001009
-10972.17	V	27500 3/5	Europe B	TV	24 Vesti	Macedonia	News	Total TV	VideoGuard	1356	256	3561[mac]	156	256		2019-08-28	No	63001011
-10972.17	V	27500 3/5	Europe B	TV	Telma	Macedonia	News	Total TV	VideoGuard	1357	257	3571[mac]	157	257		2019-08-27	No	63001013
-10972.17	V	27500 3/5	Europe B	TV	MRT Sobraniski	Macedonia	Various	Total TV	VideoGuard	1358	258	3581[mac]|3582[alb]	158	258		2019-11-08	No	63001015
-10972.17	V	27500 3/5	Europe B	TV	Alfa TV Macedonia	Macedonia	General	Total TV	VideoGuard	1359	259	3591[mac]	159	259		2019-08-27	No	63001017
-10972.17	V	27500 3/5	Europe B	TV	Comedy Central Croatia	Croatia	Comedy	Total TV	Nagravision 3|VideoGuard	1360	260	3601[eng]	160	260		2019-10-04	No	63001019
-10972.17	V	27500 3/5	Europe B	TV	Cinestar TV	Croatia	Movies	Total TV	Nagravision 3|VideoGuard	1361	261	3611[cro]	161	261		2019-08-27	No	63001021
-10972.17	V	27500 3/5	Europe B	TV	Travel Channel	United Kingdom	Travel	Total TV	VideoGuard	1362	262	3621[eng]	162	262		2019-08-27	No	63001023
-10972.17	V	27500 3/5	Europe B	TV	CineStar Premiere HD	Croatia	Movies	Total TV	Nagravision 3|VideoGuard	1364	264	3641[ser]|3642[cro]	164	264		2019-08-27	No	63001025
-10972.17	V	27500 3/5	Europe B	TV	SK Esports	Serbia	Game	Total TV	VideoGuard	1365	265	3651[ser]	165	265		2019-08-27	No	63001027
-10972.17	V	27500 3/5	Europe B	TV	Cinestar Premiere 2 HD	Croatia	Movies	Total TV	Nagravision 3|VideoGuard	1366	266	3661[ser]|3662[cro]	166	266		2019-12-25	No	63001029
-10972.17	V	27500 3/5	Europe B	TV	Crime & Investigation Network	United Kingdom	Documentaries	Total TV	Nagravision 3|VideoGuard	1367	267	3671[eng]	167	267		2019-10-04	No	63001031
-10972.17	V	27500 3/5	Europe B	TV	Dusk International	undefined	Various	Total TV	VideoGuard	1368	268	3681[eng]	168	268		2016-05-07	No	63001033
-10972.17	V	27500 3/5	Europe B	TV	Uci Doma 1	Serbia	Various	Total TV	VideoGuard	1369	269	3691[ser]	169	269		2020-03-20	No	63001035
-10972.17	V	27500 3/5	Europe B	TV	Uci Doma 2	Serbia	Various	Total TV	VideoGuard	1370	270	3701[ser]	170	270		2020-03-20	No	63001037
-10972.17	V	27500 3/5	Europe B	R	Radio Studio B			Total TV	Clear	1371		3711[ser]	171	3711		2016-05-07	Yes	63001039
-10972.17	V	27500 3/5	Europe B	R	Test 1			Total TV	Clear	1372		3721[aac][ser]	172	3721		2016-05-11	Yes	63001041
-10993.00	H	2506 5/6	Europe A	TV	EUTELSAT 16A S3-01			EI Towers	BISS	1	310	259[ita]	32	8190		2017-05-28	No	71001003
-11010.92	V	27500 3/5	Europe B	TV	SK 1 HD	Serbia	General	Total TV	VideoGuard	1451	251	3511[ser]	151	251		2019-08-27	No	75001001
-11010.92	V	27500 3/5	Europe B	TV	SK 2 HD	Serbia	General	Total TV	VideoGuard	1452	252	3521[ser]|3522[cro]|3523[slo]	152	252		2019-08-27	No	75001003
-11010.92	V	27500 3/5	Europe B	TV	SK 1 CG HD	Serbia	General	Total TV	VideoGuard	1453	253	3531[ser]	153	253		2019-08-27	No	75001005
-11010.92	V	27500 3/5	Europe B	TV	HBO Adria HD	Bulgaria	Movies	Total TV	VideoGuard	1454	254	3541[ser]|3542[ser]|3543[slo]|3544[eng]|3545[mac]	154	254		2019-08-27	No	75001007
-11010.92	V	27500 3/5	Europe B	TV	HBO 2 HD Adria	U.S.A.	Movies	Total TV	VideoGuard	1455	255	3551[ser]|3552[ser]|3553[slo]|3554[eng]|3555[mac]	155	255		2019-08-27	No	75001009
-11010.92	V	27500 3/5	Europe B	TV	Discovery HD Showcase	United Kingdom	Documentaries	Total TV	VideoGuard	1456	256	3561[eng]	156	256		2019-08-27	No	75001011
-11010.92	V	27500 3/5	Europe B	TV	FOX Movies Adria HD	Serbia	Movies	Total TV	VideoGuard	1457	257	3571[eng]	157	257		2019-08-27	No	75001013
-11010.92	V	27500 3/5	Europe B	TV	Animal Planet HD	United Kingdom	Documentaries	Total TV	VideoGuard	1458	258	3581[eng]	158	258		2019-08-27	No	75001015
-11010.92	V	27500 3/5	Europe B	TV	TV Vijesti	Serbia	Various	Total TV	VideoGuard	1459	259	3591[eng]	159	259		2019-08-27	No	75001017
-11055.00	V	27500 4/5	Europe B	TV	TV Barrandov	Czech republic	Entertainment	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1152	1201	1202[aac][cze]	1200	1201		2018-11-27	No	87001001
-11055.00	V	27500 4/5	Europe B	TV	CT 1 HD	Czech republic	General	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1153	1301	1302[cze]|1321[cze]	1300	1301	1331	2019-03-02	No	87001003
-11055.00	V	27500 4/5	Europe B	TV	CT 24 HD	Czech republic	News	Antik Sat	Clear	1154	1401	1402[cze]	1400	1401		2018-08-11	Yes	87001005
-11055.00	V	27500 4/5	Europe B	TV	Prima Krimi	Czech republic	Series	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1155	1501	1502[cze]	1500	1501		2019-12-07	No	87001007
-11055.00	V	27500 4/5	Europe B	TV	CT 2 HD	Czech republic	General	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1156	1601	1602[cze]	1600	1601	1631	2019-03-02	No	87001009
-11055.00	V	27500 4/5	Europe B	TV	ČT Art	Czech republic	Cultural	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1159	1901	1902[aac][slk]	1900	1901		2019-03-02	No	87001011
-11055.00	V	27500 4/5	Europe B	TV	ČT D	Czech republic	Lifestyle	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1159	1901	1902[aac][slk]	1900	1901		2019-03-02	No	87001013
-11055.00	V	27500 4/5	Europe B	TV	CT Sport HD	Czech republic	Sport	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1160	2001	2002[cze]|2003[cze]|2021[cze]	2000	2001		2019-03-02	No	87001015
-11055.00	V	27500 4/5	Europe B	TV	Prima COOL HD	Czech republic	General	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1161	2101	2102[cze]	2100	2101		2018-09-27	No	87001017
-11055.00	V	27500 4/5	Europe B	TV	Prima Love	Czech republic	Entertainment	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1162	2201	2202[cze]	2200	2201		2018-09-27	No	87001019
-11055.00	V	27500 4/5	Europe B	TV	Prima Max HD	Czech republic	Movies	OrangeSat Slovakia	Conax|Irdeto 2	1164	2401	2402[cze]	2400	2401		2018-09-27	No	87001021
-11055.00	V	27500 4/5	Europe B	TV	Prima Zoom HD	Czech republic	Various	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1171	3101	3102[cze]	3100	3101		2018-09-27	No	87001023
-11055.00	V	27500 4/5	Europe B	DATA	ODS-2+3000H			Digit Alb	Clear	617						2018-10-02	Yes	87001025
-11055.00	V	27500 4/5	Europe B	DATA	Antik OTA Upgrade			Antik Sat	Clear	1199			8116	8191		2017-12-18	Yes	87001027
-11069.30	H	354 2/3	Europe A	R	Radio 538 TNZ			Broadcast Partners	Clear	21418		101[ned]	1015	101		2019-04-07	Yes	91001003
-11070.20	H	274 1/2	Europe A	R	Slam!    Main			CASTOR BROADCAST	Clear	170		64[ned]	1015	8191		2019-04-07	Yes	99001001
-11070.60	H	274 1/2	Europe A	R	100%NL  !			CASTOR BROADCAST	Clear	170		64[ned]	1015	8191		2019-04-07	Yes	103001001
-11071.30	H	334 1/2	Europe A	R	BNR_AMS			BP	Clear	17629		64[ned]	1015	64		2019-04-07	Yes	107001001
-11093.00	V	27500 4/5	Europe B	TV	Eurosport 2 HD	France	Sport	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1201	1101	1102[aac][cze]|1103[aac][eng]	1100	1101		2019-03-02	No	111001003
-11093.00	V	27500 4/5	Europe B	TV	Nova HD	Czech republic	General	Antik Sat	Conax	1203	1301	1302[aac][cze]	1300	1301		2019-11-12	No	111001005
-11093.00	V	27500 4/5	Europe B	TV	Horor Film	Czech republic	Movies	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1204	1401	1402[aac][cze]	1400	1401		2019-12-12	No	111001007
-11093.00	V	27500 4/5	Europe B	TV	CS Film	Czech republic	Movies	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1204	1401	1402[cze]	1400	1401		2019-12-12	No	111001009
-11093.00	V	27500 4/5	Europe B	TV	Fishing & Hunting	Hungary	Documentaries	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1205	1501	1502[cze]|1503[aac][hun]|1504[aac][rom]|1505[aac][bul]	1500	1501		2020-02-15	No	111001011
-11093.00	V	27500 4/5	Europe B	TV	Mnam TV HD	Czech republic	Cooking	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1206	1601	1602[cze]	1600	1601		2020-02-15	No	111001013
-11093.00	V	27500 4/5	Europe B	TV	Film Europe	undefined	Movies	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1207	1701	1702[aac][mul]	1700	1701		2019-03-02	No	111001015
-11093.00	V	27500 4/5	Europe B	TV	KinoSvet	Czech republic	Movies	Antik Sat	Conax	1208	1801	1802[aac][cze]	1800	1801		2017-11-30	No	111001017
-11093.00	V	27500 4/5	Europe B	TV	Arena Sport 2 HD Slovakia	Slovakia	Sport	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1210	2001	2002[slk]	2000	2001		2020-02-15	No	111001019
-11093.00	V	27500 4/5	Europe B	TV	Extasi TV	Italy	Porn	Antik Sat	Conax	1211	2101	2102[aac][eng]|2103[aac][eng]	2100	2101		2019-11-12	No	111001021
-11093.00	V	27500 4/5	Europe B	TV	Leo TV	Czech republic	Various	Antik Sat	Conax	1211	2101	2102[aac][eng]|2103[aac][eng]	2100	2101		2019-11-12	No	111001023
-11093.00	V	27500 4/5	Europe B	TV	Disney Channel Hungary & Czechia	Hungary	Children	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1216	2601	2602[aac][cze]|2603[aac][eng]|2604[aac][hun]	2600	2601		2019-03-02	No	111001025
-11093.00	V	27500 4/5	Europe B	TV	Film +	Hungary	Movies	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1217	2701	2702[aac][cze]	2700	2701		2019-03-02	No	111001027
-11093.00	V	27500 4/5	Europe B	TV	JOJ Cinema HD	Slovakia	Movies	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1221	3101	3102[aac][cze]|3103[aac][mul]	3100	3101		2019-03-02	No	111001029
-11093.00	V	27500 4/5	Europe B	TV	National Geographic Hungary & Czechia	Hungary	Documentaries	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1222	3201	3202[aac][cze]|3203[aac][eng]|3204[aac][hun]	3200	3201		2019-03-02	No	111001031
-11093.00	V	27500 4/5	Europe B	TV	Nickelodeon Czech	Czech republic	Children	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1223	3301	3302[aac][cze]|3303[aac][eng]|3304[aac][hun]	3300	3301		2018-08-12	No	111001033
-11093.00	V	27500 4/5	Europe B	TV	Noe TV	Czech republic	Religious	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1224	3401	3402[aac][cze]	3400	3401		2019-03-02	No	111001035
-11093.00	V	27500 4/5	Europe B	TV	Jojko	Slovakia	Children	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1225	3501	3502[aac][slk]|3503[aac][mul]	3500	3501		2020-01-03	No	111001037
-11093.00	V	27500 4/5	Europe B	TV	Spektrum TV Czechia	Czech republic	General	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1226	3601	3602[aac][cze]|3603[aac][hun]	3600	3601		2019-03-02	No	111001039
-11093.00	V	27500 4/5	Europe B	TV	Spektrum Home	Hungary	Documentaries	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1227	3701	3702[aac][cze]|3703[aac][hun]	3700	3701		2019-03-02	No	111001041
-11093.00	V	27500 4/5	Europe B	TV	Sport 2 HD Czechia	Czech republic	Sport	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1228	3801	3802[aac][cze]|3803[aac][slk]	3800	3801		2019-03-02	No	111001043
-11093.00	V	27500 4/5	Europe B	TV	TV Paprika	Hungary	Cooking	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1229	3901	3902[aac][cze]|3903[aac][hun]	3900	3901		2019-03-02	No	111001045
-11093.00	V	27500 4/5	Europe B	TV	Jim Jam	Czech republic	General	Antik Sat|OrangeSat Slovakia|Total TV	Conax|Irdeto 2|VideoGuard	1231	4101	4102[cze]|4103[eng]|4104[hun]	4100	4101		2019-03-02	No	111001047
-11093.00	V	27500 4/5	Europe B	TV	Nova Sport HD	Czech republic	Sport	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1255	6501	6502[aac][ces]|6503[aac][eng]	6500	6501		2019-03-02	No	111001049
-11093.00	V	27500 4/5	Europe B	TV	Nova Sport 2 HD	Czech republic	Sport	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1256	6601	6602[aac][cze]|6603[aac][eng]|6621[cze]	6600	6601		2019-03-02	No	111001051
-11093.00	V	27500 4/5	Europe B	TV	AXN Czech	Czech republic	Series	Antik Sat	Conax|Irdeto 2	1258	6801	6802[cze]|6803[eng]	6800	6801		2019-06-04	No	111001053
-11131.12	V	16593 2/3	Europe B	TV	Antena 1	Romania	General	Freesat Romania	Conax	1	1120	1221[rom]	5011	1120	1521	2017-05-31	No	115001001
-11131.12	V	16593 2/3	Europe B	TV	Antena Stars	Romania	Entertainment	Freesat Romania	Conax	2	2120	2221[rom]	5012	2120	1521	2017-05-31	No	115001003
-11131.12	V	16593 2/3	Europe B	TV	Antena 3 Romania	Romania	News	Freesat Romania	Conax	3	3120	3221[rom]|3223[rom]	5013	3120	1521	2017-05-31	No	115001005
-11131.12	V	16593 2/3	Europe B	TV	Happy Channel Romania	Romania	Entertainment	Freesat Romania	Conax	4	4120	4221[rom]	5014	4120	1521	2017-05-31	No	115001007
-11131.12	V	16593 2/3	Europe B	TV	Zu TV	Romania	Music	Freesat Romania	Conax	5	5120	5221[rom]	5015	5120	1521	2017-05-31	No	115001009
-11131.12	V	16593 2/3	Europe B	TV	Antena International	Romania	General	Freesat Romania	Conax	6	6120	6221[rom]	5016	6120	1521	2017-05-31	No	115001011
-11131.12	V	16593 2/3	Europe B	TV	Antena HD	Romania	General	Antena Group	Conax	7	7120	7221[rom]	5017	7120		2016-11-23	No	115001013
-11131.12	V	16593 2/3	Europe B	R	Radio Zu			Antena Group	Clear	55		6223[rom]	5065	6223		2016-11-23	Yes	115001015
-11131.12	V	16593 2/3	Europe B	R	Radio Romantic			Antena Group	Clear	56		3223[rom]	5066	8191		2016-11-23	Yes	115001017
-11139.00	H	30000 3/5	Europe B	TV	Klan Kosova HD	Kosovo	General	ARTMOTION	Conax	14	2710	2720[aac]	59	2710		2020-03-16	No	119001001
-11139.00	H	30000 3/5	Europe B	TV	ABC News (Albania)	Albania	News	Tring Digital	Conax	15	2518	2519[aac][alb]	56	2518		2020-03-16	No	119001003
-11139.00	H	30000 3/5	Europe B	TV	Tring History	Albania	History	Tring Digital	Conax	70	1512	1513[aac][eng]	42	1512		2020-03-16	No	119001005
-11139.00	H	30000 3/5	Europe B	TV	RTK 1 Sat (Kosovo)	Serbia	General	ARTMOTION	Conax	135	1111	1121[aac][alb]	40	1111		2020-03-16	No	119001007
-11139.00	H	30000 3/5	Europe B	TV	Kids	Albania	Children	Tring Digital	Conax	801	2775	2776[aac][eng]	41	2775		2020-03-16	No	119001009
-11139.00	H	30000 3/5	Europe B	TV	Elrodi TV	Albania	Various	Tring Digital	Conax	1225	513	2000[aac][alb]	55	513		2020-03-16	No	119001011
-11139.00	H	30000 3/5	Europe B	TV	Bunga Bunga	Albania	Porn	Tring Digital	Conax	2830	2831	2832[aac]	57	2831		2020-01-24	No	119001013
-11139.00	H	30000 3/5	Europe B	TV	Prime Albania	Albania	Entertainment	Tring Digital	Conax	3718	49	50[aac][alb]	51	49		2020-03-16	No	119001015
-11139.00	H	30000 3/5	Europe B	TV	Prince Kids	Albania	Children	Tring Digital	Conax	4718	43	44[aac]	45	43		2020-03-16	No	119001017
-11139.00	H	30000 3/5	Europe B	TV	T7	Albania	Talk shows	Tring Digital	Clear	4721	73	74[aac]	75	73		2020-03-24	Yes	119001019
-11139.00	H	30000 3/5	Europe B	TV	Artkino 1	Albania	Movies	ARTMOTION	Conax	4911	66	67[aac]	33	66		2020-03-16	No	119001021
-11139.00	H	30000 3/5	Europe B	TV	Artkino 2	Albania	Movies	Tring Digital	Conax	4912	130	131[aac]	34	130		2020-03-16	No	119001023
-11139.00	H	30000 3/5	Europe B	TV	Artkino 3	Albania	Movies	Tring Digital	Conax	4913	194	195[aac]	35	194		2020-03-16	No	119001025
-11139.00	H	30000 3/5	Europe B	TV	Artdoku 1	Albania	Documentaries	Tring Digital	Conax	4914	258	259[aac]	36	258		2020-03-16	No	119001027
-11139.00	H	30000 3/5	Europe B	TV	Artdoku 2	Albania	Documentaries	Artmotion	Conax	4915	37	38[aac]	39	37		2020-03-16	No	119001029
-11139.00	H	30000 3/5	Europe B	TV	Episode	Albania	Series	Tring Digital	Conax	4917	46	47[aac]	48	46		2020-03-16	No	119001031
-11139.00	H	30000 3/5	Europe B	TV	Top Channel	Albania	General	D	Clear	5000	101	102[aac][alb]	61	101		2020-02-08	Yes	119001033
-11139.00	H	30000 3/5	Europe B	TV	Top News	Albania	News	D	Clear	5010	6841	6844[aac][alb]	72	6841		2020-02-08	Yes	119001035
-11139.00	H	30000 3/5	Europe B	TV	Dukagjini	Albania	Talk shows	Tring Digital	Conax	6011	6312	6313	70	6312		2020-03-16	No	119001037
-11139.00	H	30000 3/5	Europe B	TV	Alsat-M	Macedonia	General	Tring Digital	Conax	6032	6366	5052[aac][alb]	71	6366		2020-03-16	No	119001039
-11139.00	H	30000 3/5	Europe B	TV	Gurmania	Albania	Cooking	Artmotion	Conax	62175	52	53[aac]	54	52		2020-03-16	No	119001041
-11151.00	V	14375 3/5	Europe B	TV	Pink Thriller	Serbia	Movies	Pink International|Total TV	Irdeto 2|VideoGuard	52	552	652[ser]	252	552		2019-06-17	No	123001001
-11151.00	V	14375 3/5	Europe B	TV	Pink Crime & Mystery	Serbia	Movies	Pink International|Total TV	Irdeto 2|VideoGuard	53	553	653[ser]	253	553		2019-06-17	No	123001003
-11151.00	V	14375 3/5	Europe B	TV	Pink Romance	Serbia	Movies	Pink International|Total TV	Irdeto 2|VideoGuard	54	554	654[ser]	254	554		2019-06-17	No	123001005
-11151.00	V	14375 3/5	Europe B	TV	Pink Sci-Fi and Fantasy	Serbia	Movies	Pink International|Total TV	Irdeto 2|VideoGuard	55	555	655[ser]	255	555		2019-06-17	No	123001007
-11151.00	V	14375 3/5	Europe B	TV	Pink Reality	Serbia	Real TV	Pink International|Total TV	Irdeto 2|VideoGuard	56	556	656[ser]	256	556		2019-06-17	No	123001009
-11151.00	V	14375 3/5	Europe B	TV	Pink Premium	Serbia	Movies	Pink International|Total TV	Irdeto 2|VideoGuard	57	557	657[ser]	257	557		2019-06-17	No	123001011
-11151.00	V	14375 3/5	Europe B	TV	Pink Soap	Serbia	Series	Pink International|Total TV	Irdeto 2|VideoGuard	58	558	658[ser]	258	558		2019-06-17	No	123001013
-11151.00	V	14375 3/5	Europe B	TV	Pink World	Serbia	Various	Pink International|Total TV	Irdeto 2|VideoGuard	59	559	659[ser]	259	559		2019-06-17	No	123001015
-11151.00	V	14375 3/5	Europe B	TV	Pink Zabava	Serbia	Various	Pink International|Total TV	Irdeto 2|VideoGuard	60	560	660[ser]	260	560		2019-06-17	No	123001017
-11151.00	V	14375 3/5	Europe B	TV	Pink Pedia	Serbia	Various	Pink International|Total TV	Irdeto 2|VideoGuard	61	561	661[ser]	261	561		2019-06-17	No	123001019
-11151.00	V	14375 3/5	Europe B	TV	Pink Hits 2	Serbia	Music	Pink International|Total TV	Irdeto 2|VideoGuard	62	562	662[ser]	262	562		2019-06-17	No	123001021
-11151.00	V	14375 3/5	Europe B	TV	Pink Koncert	Serbia	Music	Pink International|Total TV	Irdeto 2|VideoGuard	63	563	663[ser]	263	563		2019-06-17	No	123001023
-11151.00	V	14375 3/5	Europe B	TV	Pink Folk	Serbia	Music	pink	Clear	64	564	664[ser]	264	564		2019-06-17	Yes	123001025
-11151.00	V	14375 3/5	Europe B	TV	Pink Comedy	Serbia	Comedy	Pink International|Total TV	Irdeto 2|VideoGuard	65	565	665[ser]	265	565		2019-06-17	No	123001027
-11151.00	V	14375 3/5	Europe B	TV	Pink Horror	Serbia	Movies	Pink International|Total TV	Irdeto 2|VideoGuard	67	567	667[ser]	267	567		2019-06-17	No	123001029
-11151.00	V	14375 3/5	Europe B	TV	Pink Folk 2	Serbia	Music	Pink International|Total TV	Irdeto 2|VideoGuard	68	568	668[ser]	268	568		2019-06-17	No	123001031
-11177.58	V	30000 3/5	Europe B	TV	Pink Plus	Serbia	General	Pink International|Total TV	Irdeto 2|VideoGuard	1	512	640[ser]|661	256	512	576	2018-01-13	No	131001003
-11177.58	V	30000 3/5	Europe B	TV	Pink Extra	Serbia	General	Pink International|Total TV	Irdeto 2|VideoGuard	2	513	641[ser]	257	513		2018-01-13	No	131001005
-11177.58	V	30000 3/5	Europe B	TV	Pink	Serbia	General	Pink International|Total TV	Irdeto 2|VideoGuard	6	516	644[ser]	262	516	580	2018-08-29	No	131001007
-11177.58	V	30000 3/5	Europe B	TV	Pink Action	Serbia	Movies	Pink International|Total TV	Irdeto 2|VideoGuard	7	517	645[ser]	263	517		2018-01-13	No	131001009
-11177.58	V	30000 3/5	Europe B	TV	Pink Movies	Serbia	Movies	Pink International|Total TV	Irdeto 2|VideoGuard	8	518	646[ser]	264	518		2018-01-13	No	131001011
-11177.58	V	30000 3/5	Europe B	TV	Pink Film	Serbia	Movies	Pink International|Total TV	Irdeto 2|VideoGuard	9	519	647[ser]	265	519		2018-01-13	No	131001013
-11177.58	V	30000 3/5	Europe B	TV	Pink Music	Serbia	Music	Pink International|Total TV	Irdeto 2|VideoGuard	10	520	648[ser]	266	520		2018-01-13	No	131001015
-11177.58	V	30000 3/5	Europe B	TV	Pink 3 Info	Serbia	Series	Pink International|Total TV	Irdeto 2|VideoGuard	11	521	649[ser]	267	521		2018-01-13	No	131001017
-11177.58	V	30000 3/5	Europe B	TV	Pink Family	Serbia	Entertainment	Pink International|Total TV	Irdeto 2|VideoGuard	12	522	650[ser]	271	522		2018-01-13	No	131001019
-11177.58	V	30000 3/5	Europe B	TV	Zadruga Live 1	Serbia	Various	Pink International|Total TV	Irdeto 2|VideoGuard	66	566	666	276	566		2019-10-15	No	131001021
-11177.58	V	30000 3/5	Europe B	TV	Pink Kids	Serbia	Children	Pink International|Total TV	Irdeto 2|VideoGuard	80	581	680	280	581		2019-06-18	No	131001023
-11177.58	V	30000 3/5	Europe B	TV	Zadruga Live 2	Serbia	Various	Pink International|Total TV	Irdeto 2|VideoGuard	82	582	682	282	582		2019-10-15	No	131001025
-11177.58	V	30000 3/5	Europe B	TV	Pink Music 2	Serbia	Music	Pink International|Total TV	Irdeto 2|VideoGuard	83	583	683	283	583		2018-01-10	No	131001027
-11177.58	V	30000 3/5	Europe B	TV	Zadruga Live 3	Serbia	Various	Pink International|Total TV	Irdeto 2|VideoGuard	84	584	684	284	584		2019-10-15	No	131001029
-11177.58	V	30000 3/5	Europe B	TV	City Play	Serbia	Various	Pink International|Total TV	Irdeto 2|VideoGuard	85	585	685[ser]	285	585		2018-01-11	No	131001031
-11177.58	V	30000 3/5	Europe B	TV	Pink Western	Serbia	Movies	Pink International|Total TV	Irdeto 2|VideoGuard	90	590	690[ser]	290	590		2018-01-11	No	131001033
-11177.58	V	30000 3/5	Europe B	TV	Pink Classic	Serbia	Movies	Pink International|Total TV	Irdeto 2|VideoGuard	91	591	691[ser]	291	591		2018-01-11	No	131001035
-11177.58	V	30000 3/5	Europe B	TV	Pink Style	Serbia	Lifestyle	Pink International|Total TV	Irdeto 2|VideoGuard	92	592	692[ser]	292	592		2018-01-11	No	131001037
-11177.58	V	30000 3/5	Europe B	TV	Zadruga Live 4	Serbia	Various	Pink International|Total TV	Irdeto 2|VideoGuard	93	593	693	293	593		2019-10-15	No	131001039
-11177.58	V	30000 3/5	Europe B	TV	Pink Serije	Serbia	Series	Pink International|Total TV	Irdeto 2|VideoGuard	98	598	698[ser]	298	598		2018-01-11	No	131001041
-11177.58	V	30000 3/5	Europe B	TV	Pink World Cinema	Serbia	Movies	Pink International|Total TV	Irdeto 2|VideoGuard	99	599	699[ser]	299	599		2018-01-11	No	131001043
-11177.58	V	30000 3/5	Europe B	TV	Pink Show	Serbia	Entertainment	Pink International|Total TV	Irdeto 2|VideoGuard	100	600	700[ser]	300	600		2018-01-11	No	131001045
-11177.58	V	30000 3/5	Europe B	TV	Pink Kuvar	Serbia	Various	Pink International|Total TV	Irdeto 2|VideoGuard	101	601	701[ser]	301	601		2018-01-11	No	131001047
-11177.58	V	30000 3/5	Europe B	TV	Pink Super Kids	Serbia	Children	Pink International|Total TV	Irdeto 2|VideoGuard	102	602	[702ser]	302	602		2018-01-11	No	131001049
-11177.58	V	30000 3/5	Europe B	TV	HA HA	Serbia	Comedy	Pink International|Total TV	Irdeto 2|VideoGuard	103	603	703[ser]	303	603		2018-01-11	No	131001051
-11177.58	V	30000 3/5	Europe B	TV	LOL	Serbia	Comedy	Pink International|Total TV	Irdeto 2|VideoGuard	104	604	704[ser]	304	604		2018-01-11	No	131001053
-11177.58	V	30000 3/5	Europe B	TV	Pink Media BH	Bosnia and Herzegovina	General	Pink International|Total TV	Irdeto 2|VideoGuard	105	605	705[bos]	305	605		2019-01-27	No	131001055
-11177.58	V	30000 3/5	Europe B	TV	Pink BH	Bosnia and Herzegovina	General	Pink International|Total TV	Irdeto 2|VideoGuard	105	605	705[ser]	305	605		2018-10-22	No	131001057
-11177.58	V	30000 3/5	Europe B	TV	Pink M	Serbia	General	Pink International|Total TV	Irdeto 2|VideoGuard	106	606	706[ser]	306	606		2018-10-22	No	131001059
-11177.58	V	30000 3/5	Europe B	TV	Pink Media Montenegro	Montenegro	General	Pink International|Total TV	Irdeto 2|VideoGuard	106	606	706[ser]	306	606		2019-01-27	No	131001061
-11177.58	V	30000 3/5	Europe B	R	Radio Pink			Total TV	Clear	3		661[ser]	33	661		2018-01-10	Yes	131001063
-11177.58	V	30000 3/5	Europe B	R	Radio Sport FM			Total TV	Clear	13		662	34	662		2018-03-23	Yes	131001065
-11220.75	H	30000 3/5	Europe A	TV	Planet TV Serbia	Serbia	Documentaries	Total TV	VideoGuard	4451	251	3511[ser]	151	251		2019-08-27	No	135001001
-11220.75	H	30000 3/5	Europe A	TV	Golica TV	Slovenia	Entertainment	Total TV	VideoGuard	4452	252	3521[slo]	152	652		2019-08-27	No	135001003
-11220.75	H	30000 3/5	Europe A	TV	Brainz	Serbia	Various	Total TV	VideoGuard	4453	253	2531[ser]	153	253		2019-08-27	No	135001005
-11220.75	H	30000 3/5	Europe A	TV	Nova BH HD	Bosnia and Herzegovina	Entertainment	Total TV	VideoGuard	4454	254	3541[bos]	154	254		2019-08-27	No	135001007
-11220.75	H	30000 3/5	Europe A	TV	Oto	Slovenia	Various	Total TV	VideoGuard	4455	255	3551[slo]	155	255	1520	2019-08-27	No	135001009
-11220.75	H	30000 3/5	Europe A	TV	Nova Sport HD	Czech republic	Sport	Total TV	VideoGuard	4456	256	3561[ser]|3562[bos]	156	256		2019-12-05	No	135001011
-11220.75	H	30000 3/5	Europe A	TV	SK HD	Serbia	Sport	Total TV	VideoGuard	4457	257	3571[ser]|3572[cro]|3573[slo]	157	257		2019-08-27	No	135001013
-11220.75	H	30000 3/5	Europe A	TV	SK 3 HD	Serbia	General	Total TV	VideoGuard	4458	258	3581[ser]|3582[cro]|3583[slo]	158	258		2019-08-28	No	135001015
-11220.75	H	30000 3/5	Europe A	TV	N1 Serbia HD	Serbia	General	Total TV	VideoGuard	4459	259	3591[ser]	159	259		2019-08-27	No	135001017
-11220.75	H	30000 3/5	Europe A	TV	Fox HD Serbia	Serbia	Entertainment	Total TV	VideoGuard	4460	260	3601[eng]	160	260		2019-08-27	No	135001019
-11220.75	H	30000 3/5	Europe A	TV	Fox Life HD Serbia	Serbia	Entertainment	Total TV	VideoGuard	4461	261	3611[eng]	161	261		2019-08-27	No	135001021
-11220.75	H	30000 3/5	Europe A	TV	Sci-Fi Eastern Europe	Poland	Series	Total TV	VideoGuard	4465	265	3651[eng]	165	265		2019-08-27	No	135001023
-11220.75	H	30000 3/5	Europe A	R	Radio Kanal 77			Total TV	Clear	4466		3652[mac]	166	666		2018-11-27	Yes	135001025
-11231.00	V	42000 4/5	Europe A	TV	O Kanal	Bosnia and Herzegovina	Various	Total TV	VideoGuard	751	251	3511[bos]	151	251	551	2019-12-04	No	139001001
-11231.00	V	42000 4/5	Europe A	TV	Nickelodeon Europe	United Kingdom	Children	Total TV	VideoGuard	752	252	3521[ser]|3522[cro]|3523[eng]|3524[slo]	152	252		2019-08-27	No	139001003
-11231.00	V	42000 4/5	Europe A	TV	Sport Klub 3 Slovenia	Slovenia	Sport	Total TV	VideoGuard	753	253	3531[slo]	153	253		2019-08-27	No	139001005
-11231.00	V	42000 4/5	Europe A	TV	Viasat Explore	Sweden	Documentaries	Total TV	VideoGuard	754	254	3541[eng]	154	254		2019-08-28	No	139001007
-11231.00	V	42000 4/5	Europe A	TV	CineStar TV 2 HD	Serbia	Movies	Total TV	VideoGuard	756	256	3561[ser]|3562[cro]	156	256		2020-02-05	No	139001009
-11231.00	V	42000 4/5	Europe A	TV	Animal Planet	United Kingdom	Documentaries	Total TV	VideoGuard	757	257	3571[eng]	157	257		2019-08-27	No	139001011
-11231.00	V	42000 4/5	Europe A	TV	Investigation Discovery Europe	United Kingdom	Documentaries	Total TV	VideoGuard	758	258	3581[eng]	158	258		2019-08-27	No	139001013
-11231.00	V	42000 4/5	Europe A	TV	E! Eastern Europe	United Kingdom	Entertainment	Total TV	VideoGuard	759	259	3591[eng]	159	259		2019-08-27	No	139001015
-11231.00	V	42000 4/5	Europe A	TV	TLC Balkans	United Kingdom	Documentaries	Total TV	VideoGuard	760	260	3601[eng]	160	260		2019-08-27	No	139001017
-11231.00	V	42000 4/5	Europe A	TV	National Geographic HD East Europe	United Kingdom	Documentaries	Total TV	VideoGuard	761	261	3611[eng]	161	261		2019-08-27	No	139001019
-11231.00	V	42000 4/5	Europe A	TV	Fox Movies Slovenia	Slovenia	Movies	Total TV	VideoGuard	762	262	3621[eng]	162	262		2019-08-27	No	139001021
-11231.00	V	42000 4/5	Europe A	TV	24Kitchen	Bulgaria	Cooking	Total TV	Conax|VideoGuard	763	263	3631[eng]	163	263		2019-08-27	No	139001023
-11231.00	V	42000 4/5	Europe A	TV	HGTV HD	Poland	Lifestyle	Total TV	VideoGuard	764	264	3641[eng]	164	264		2020-02-05	No	139001025
-11231.00	V	42000 4/5	Europe A	TV	CineStar TV Serbia	Serbia	Movies	Total TV	VideoGuard	765	265	3651[ser]	165	265		2019-08-27	No	139001027
-11231.00	V	42000 4/5	Europe A	TV	CineStar Action and Thriller	Serbia	Movies	Total TV	VideoGuard	766	266	3661[ser]	166	266		2019-08-27	No	139001029
-11231.00	V	42000 4/5	Europe A	TV	AXN Adria	Serbia	Series	Total TV	VideoGuard	767	267	3671[eng]	167	267		2019-08-27	No	139001031
-11231.00	V	42000 4/5	Europe A	TV	Brazzers TV	undefined	Porn	Total TV	Nagravision 3|VideoGuard	768	268	3681[eng]	168	268		2018-04-13	No	139001033
-11231.00	V	42000 4/5	Europe A	TV	Dorcel HD	undefined	Porn	Total TV	Conax|VideoGuard	769	269	3691[eng]	169	269		2020-03-07	No	139001035
-11231.00	V	42000 4/5	Europe A	TV	ArenaSport 3	Serbia	Sport	Total TV	VideoGuard	770	270	3701[ser]	170	270		2019-08-27	No	139001037
-11231.00	V	42000 4/5	Europe A	TV	Disney Channel Croatia	Croatia	Children	Total TV	VideoGuard	772	272	3721[eng]	172	272		2019-08-27	No	139001039
-11231.00	V	42000 4/5	Europe A	TV	Sport TV 1			Total TV	VideoGuard	774	274	3741[slo]	174	274		2019-08-27	No	139001041
-11231.00	V	42000 4/5	Europe A	TV	Prva Kick	Serbia	General	Total TV	VideoGuard	775	275	3751[ser]	175	275		2019-08-27	No	139001043
-11231.00	V	42000 4/5	Europe A	TV	Pink Reality	Serbia	Real TV	Total TV	VideoGuard	777	277	3771	177	277		2019-08-27	No	139001045
-11231.00	V	42000 4/5	Europe A	TV	Vavoom	Serbia	Children	Total TV	Conax|Nagravision 3|VideoGuard	778	278	3781[ser]|3782[cro]|3783[slo]|3784[mkd]|3785[alb]	178	278		2020-03-07	No	139001047
-11231.00	V	42000 4/5	Europe A	TV	Pikaboo Slo/Hr	Croatia	Children	Total TV	VideoGuard	779	279	3791[cro]|3792[slo]	179	279		2019-08-27	No	139001049
-11231.00	V	42000 4/5	Europe A	TV	Happy Channel	Italy	Comedy	Total TV	VideoGuard	780	280	3801[ser]	180	280	580	2019-08-27	No	139001051
-11231.00	V	42000 4/5	Europe A	R	Play radio			Total TV	Clear	773		3731[ser]	173	3731		2018-11-27	Yes	139001053
-11262.25	H	30000 2/3	Europe B	TV	BN Sat TV	Bosnia and Herzegovina	General	Team:Media|Total TV	Viaccess 5.0|VideoGuard	4	93	95[ser]	92	93		2018-11-27	No	143001001
-11262.25	H	30000 2/3	Europe B	TV	BN Music HD	Bosnia and Herzegovina	Music	Team:Media	Clear	5	109	111[ser]	108	110		2018-09-30	Yes	143001003
-11262.25	H	30000 2/3	Europe B	TV	RTRS	Serbia	Regional	Team:Media|Total TV	BISS|Clear	7	141	143[aac][ser]	140	141	8040	2018-07-27	Yes	143001005
-11262.25	H	30000 2/3	Europe B	TV	BN TV (Terrestrial)	Bosnia and Herzegovina	General	Team:Media|Total TV	Viaccess 5.0|VideoGuard	12	221	223[ser]	220	221		2018-11-27	No	143001007
-11262.25	H	30000 2/3	Europe B	TV	RTRS Plus	Serbia	General	Team:Media|Total TV	Clear	17	301	303[bos]	300	301		2020-02-18	Yes	143001009
-11262.25	H	30000 2/3	Europe B	R	Radio Stari Grad			Team:Media	Clear	8		159[bos]	156	158		2018-07-27	Yes	143001011
-11262.25	H	30000 2/3	Europe B	R	Radio Kalman			Team:Media	Clear	9		175[bos]	172	175		2018-07-27	Yes	143001013
-11262.25	H	30000 2/3	Europe B	R	VIP Radio			Team:Media	Clear	10		191[ser]	188	190		2018-07-27	Yes	143001015
-11262.25	H	30000 2/3	Europe B	R	Radio BIR			Team:Media	Clear	11		207[bos]	204	207		2018-07-27	Yes	143001017
-11262.25	H	30000 2/3	Europe B	R	Radio BN			Team:Media	Clear	13		239[ser]|240	108	109		2018-07-27	Yes	143001019
-11262.25	H	30000 2/3	Europe B	R	Radio MIX			Team:Media	Clear	14		255	252	254		2018-07-27	Yes	143001021
-11262.25	H	30000 2/3	Europe B	R	Fles Radio			Team:Media	Clear	15		271[ser]	268	270		2019-05-08	Yes	143001023
-11262.25	H	30000 2/3	Europe B	R	Radio Curak			Team:Media	Clear	16		287	284	286		2019-04-13	Yes	143001025
-11262.25	H	30000 2/3	Europe B	R	RTRS RRS			Team:Media	Clear	18		304[ser]	316	141		2018-08-04	Yes	143001027
-11262.25	H	30000 2/3	Europe B	R	Radio Mir Medjugorje			Team:Media	Clear	19		288	332	334		2018-07-27	Yes	143001029
-11262.25	H	30000 2/3	Europe B	R	Radio Posavina			Team:Media	Clear	20		351	348	350		2018-07-27	Yes	143001031
-11262.25	H	30000 2/3	Europe B	R	Bobar Radio			Team:Media	Clear	22		256	380	382		2018-07-27	Yes	143001033
-11283.00	V	30000 2/3	Europe B	TV	FilmBox Premium HD	Czech republic	Movies	Antik Sat|Total TV	Conax|VideoGuard	2701	1101	1102[eng]	1100	1101		2019-02-25	No	147001001
-11283.00	V	30000 2/3	Europe B	TV	Timeless Drama Channel HD	undefined	Series	Antik Sat	Conax	2702	1201	1202[tur]|1203[ara]	1264	1201		2019-08-02	No	147001003
-11283.00	V	30000 2/3	Europe B	TV	Timeless Drama Channel HD	undefined	Series	A1 HR	Conax	2703	1201	1202[tur]|1203[ara]	1265	1201		2019-08-06	No	147001005
-11283.00	V	30000 2/3	Europe B	TV	Gametoon HD	undefined	Game	Digit Alb	Conax	2705	3401	3402[eng]	3467	3401		2019-08-28	No	147001007
-11283.00	V	30000 2/3	Europe B	TV	FightBOX HD	Bulgaria	Movies	Digit Alb	Conax	2706	2301	2302[eng]	2362	2301		2019-08-19	No	147001009
-11283.00	V	30000 2/3	Europe B	TV	Filmbox Arthouse	Poland	Movies	Antik Sat	Conax	2707	3501	3502	3500	3501		2015-12-04	No	147001011
-11283.00	V	30000 2/3	Europe B	TV	Filmbox Arthouse	Poland	Movies	Antik Sat|Total TV	Conax|VideoGuard	2708	1801	1802[eng]|1803[rus]	1800	1801		2019-08-27	No	147001013
-11283.00	V	30000 2/3	Europe B	TV	Filmbox Plus	undefined	Movies	Antik Sat|Total TV	Conax|VideoGuard	2709	1901	1902[eng]	1963	1901		2019-08-27	No	147001015
-11283.00	V	30000 2/3	Europe B	TV	Filmbox HD	Poland	Movies	Antik Sat|Total TV	Conax|VideoGuard	2710	2001	2002[eng]	2000	2001		2015-11-27	No	147001017
-11283.00	V	30000 2/3	Europe B	TV	DocuBOX HD	Bulgaria	Documentaries	Antik Sat|OrangeSat Slovakia|Total TV	Conax|Irdeto 2|VideoGuard	2711	2101	2102[eng]|2103[rus]	2100	2101		2019-08-27	No	147001019
-11283.00	V	30000 2/3	Europe B	TV	Fastnfunbox HD	Bulgaria	Entertainment	Antik Sat|OrangeSat Slovakia|Total TV	Conax|Irdeto 2|VideoGuard	2712	2201	2202[eng]|2203[rus]|2204[tur]	2200	2201		2019-08-27	No	147001021
-11283.00	V	30000 2/3	Europe B	TV	FightBOX HD	Bulgaria	Movies	Antik Sat|OrangeSat Slovakia|Total TV	Conax|Irdeto 2|VideoGuard	2713	2301	2302[eng]|2303[rus]|2304[pol]|2305[tur]	2300	2301		2019-08-27	No	147001023
-11283.00	V	30000 2/3	Europe B	TV	EroXXX HD	Bulgaria	Porn	Antik Sat|OrangeSat Slovakia|Total TV	Conax|Irdeto 2|VideoGuard	2714	2401	2402[eng]	2400	2401		2019-08-27	No	147001025
-11283.00	V	30000 2/3	Europe B	TV	Erox HD	Bulgaria	Porn	Antik Sat|OrangeSat Slovakia|Total TV	Conax|Irdeto 2|VideoGuard	2715	2501	2502[eng]	2500	2501		2019-08-27	No	147001027
-11283.00	V	30000 2/3	Europe B	TV	360 TuneBox HD	U.S.A.	Music	Digit Alb	Conax	2716	1501	1502[vo]	1561	1501		2019-08-19	No	147001029
-11283.00	V	30000 2/3	Europe B	TV	Filmbox Extra HD Hungary	Hungary	Movies	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	2717	2701	2721[cze]|2722[hun]	2700	2701		2019-03-02	No	147001031
-11283.00	V	30000 2/3	Europe B	TV	FilmBox Plus			Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	2718	2801	2802[cze]|2803[eng]|2804[hun]	2800	2801		2019-03-02	No	147001033
-11283.00	V	30000 2/3	Europe B	TV	Filmbox Premium	Czech republic	Movies	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	2719	2901	2902[cze]	2900	2901		2019-03-02	No	147001035
-11283.00	V	30000 2/3	Europe B	TV	360 TunemuBox	U.S.A.	Music	Antik Sat|OrangeSat Slovakia|Total TV	Conax|Irdeto 2|VideoGuard	2720	1501	1502[eng]	1560	1501		2019-08-27	No	147001037
-11283.00	V	30000 2/3	Europe B	TV	FashionBox	undefined	Lifestyle	Antik Sat|OrangeSat Slovakia|Total TV	Conax|Irdeto 2|VideoGuard	2721	1701	1702[eng]	1700	1701		2019-08-27	No	147001039
-11283.00	V	30000 2/3	Europe B	TV	FilmBox Basic	Romania	Movies	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	2722	3001	3002[cze]|3003[eng]|3004[hun]	3000	3001		2019-03-02	No	147001041
-11283.00	V	30000 2/3	Europe B	TV	FilmBox Baltic	undefined	Movies	Antik Sat	Conax	2723	3101	3102[eng]|3103[eng]	3100	3101		2015-10-25	No	147001043
-11283.00	V	30000 2/3	Europe B	TV	Filmbox Premium	Czech republic	Movies	Antik Sat	Conax	2724	3201	3202[hun]	3200	3201		2015-10-25	No	147001045
-11283.00	V	30000 2/3	Europe B	TV	Filmbox Family	Poland	Movies	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	2725	3301	3302[cze]|3303[hun]	3300	3301		2019-03-02	No	147001047
-11283.00	V	30000 2/3	Europe B	TV	FAST&FUN Box HD			Digit Alb	Conax	2726	2201	2202[eng]	2261	2201		2019-11-13	No	147001049
-11283.00	V	30000 2/3	Europe B	TV	Filmbox Plus	undefined	Movies	Antik Sat	Conax	2727	1901	1902[eng]	1964	1901		2016-02-17	No	147001051
-11283.00	V	30000 2/3	Europe B	TV	Filmbox Extra HD Hungary	Hungary	Movies	Antik Sat	Conax	2728	2001	2002[eng]	2064	2001		2018-08-11	No	147001053
-11283.00	V	30000 2/3	Europe B	TV	Gametoon HD			Antik Sat|Total TV	Conax|VideoGuard	2729	3401	3402[eng]	3463	3401		2019-08-28	No	147001055
-11304.00	H	30000 2/3	Europe B	TV	Al Jazeera Balkans HD	Bosnia and Herzegovina	News	Team:Media	Clear	1	49	51[eng]	48	49		2017-08-19	Yes	159001003
-11304.00	H	30000 2/3	Europe B	TV	Minimax Serbia	Serbia	Children	Team:Media|Total TV	Viaccess 5.0|VideoGuard	3	81	83[ser]	80	81		2018-12-03	No	159001005
-11304.00	H	30000 2/3	Europe B	TV	Eurochannel HD	France	Movies	Team:Media	Viaccess 5.0	4	97	99[aac]|100[aac]|101[aac]	96	97		2018-06-26	No	159001007
-11304.00	H	30000 2/3	Europe B	TV	YU Planet	undefined	Documentaries	Team:Media	Clear	6	129	131	128	130		2017-09-24	Yes	159001009
-11304.00	H	30000 2/3	Europe B	TV	OBN	Bosnia and Herzegovina	General	Team:Media	Viaccess 5.0	7	145	147[bos]	144	145		2019-12-17	No	159001011
-11304.00	H	30000 2/3	Europe B	TV	Aurora TV	Slovakia	Various	Team:Media	Clear	8	161	163[slk]	160	161		2018-03-03	Yes	159001013
-11304.00	H	30000 2/3	Europe B	TV	Pro TV International	Romania	General	Team:Media	Clear	9	177	179[rom]	176	178		2015-10-25	Yes	159001015
-11304.00	H	30000 2/3	Europe B	TV	HAYAT HD			Team:Media	Viaccess 5.0	10	193	195[bos]	192	193	196	2019-08-03	No	159001017
-11304.00	H	30000 2/3	Europe B	TV	HAYAT PLUS			Team:Media	Viaccess 5.0	11	209	211[bos]	208	209		2019-08-03	No	159001019
-11304.00	H	30000 2/3	Europe B	TV	HAYAT FOLK			Team:Media	Clear	12	225	227[bos]	224	225		2019-07-06	Yes	159001021
-11304.00	H	30000 2/3	Europe B	TV	HAYAT MUSIC			Team:Media	Clear	13	241	243[bos]	240	241		2019-07-06	Yes	159001023
-11304.00	H	30000 2/3	Europe B	TV	Hayatovci	Bosnia and Herzegovina	Various	Team:Media	Viaccess 5.0	14	257	259[bos]	256	257		2019-07-28	No	159001025
-11304.00	H	30000 2/3	Europe B	TV	Fashion TV	France	Lifestyle	Team:Media	Clear	15	273	275[aac][eng]	272	273		2019-04-03	Yes	159001027
-11304.00	H	30000 2/3	Europe B	TV	TV Duga Plus	Serbia	General	Team:Media	Clear	16	289	291[bos]	288	289		2019-11-06	Yes	159001029
-11304.00	H	30000 2/3	Europe B	TV	DM Sat HD	Serbia	General	Team:Media	Clear	17	305	307[ser]	304	306		2020-03-24	Yes	159001031
-11304.00	H	30000 2/3	Europe B	TV	AMC Balkan	Serbia	Movies	Team:Media|Total TV	Conax|Viaccess 5.0|VideoGuard	18	321	323[eng]	320	321		2018-12-03	No	159001033
-11304.00	H	30000 2/3	Europe B	TV	K3 (Bosnia)	Bosnia and Herzegovina	General	Team:Media|Total TV	Clear|VideoGuard	21	369	371[bos]	368	369		2019-03-17	Yes	159001035
-11304.00	H	30000 2/3	Europe B	R	Studio 99			Team:Media	Clear	2		68[hun]	64	49		2017-07-10	Yes	159001037
-11304.00	H	30000 2/3	Europe B	R	RM Serbia SRB			Team:Media	Clear	24		415[ser]	416	418		2018-11-14	Yes	159001039
-11304.00	H	30000 2/3	Europe B	R	RM Serbia HU			Team:Media	Clear	25		431[hun]	432	418		2018-11-14	Yes	159001041
-11304.00	H	30000 2/3	Europe B	R	RM Romania RO			Team:Media	Clear	26		447[rom]	448	418		2018-11-14	Yes	159001043
-11304.00	H	30000 2/3	Europe B	R	RM Romania HU			Team:Media	Clear	27		463[hun]	464	418		2018-11-14	Yes	159001045
-11304.00	H	30000 2/3	Europe B	R	RM Albania			Team:Media	Clear	28		479[alb]	480	418		2018-11-14	Yes	159001047
-11304.00	H	30000 2/3	Europe B	R	RM BiH			Team:Media	Clear	29		495[bos]	496	418		2018-11-14	Yes	159001049
-11304.00	H	30000 2/3	Europe B	R	RM Armenia			Team:Media	Clear	30		511[arm]	512	418		2018-11-14	Yes	159001051
-11304.00	H	30000 2/3	Europe B	R	RM Hungary			Team:Media	Clear	32		543[hun]	544	418		2018-11-14	Yes	159001053
-11324.50	V	30000 2/3	Europe B	TV	Jednotka HD	Slovakia	General	OrangeSat Slovakia	Conax|Irdeto 2	2001	1101	1102[slk]|1103[mis]|112[slk]	1100	1101	1131	2018-10-14	No	163001001
-11324.50	V	30000 2/3	Europe B	TV	Dvojka HD	Slovakia	General	OrangeSat Slovakia	Conax|Irdeto 2	2002	1201	110[slk]|111[mis]|3000[slk]	1200	1201	1231	2018-10-14	No	163001003
-11324.50	V	30000 2/3	Europe B	TV	Markiza HD	Slovakia	General	OrangeSat Slovakia	Conax|Irdeto 2	2003	1301	1302[slk]|1303[mul]	1300	1301	1331	2018-10-14	No	163001005
-11324.50	V	30000 2/3	Europe B	TV	J@J HD	Slovakia	General	OrangeSat Slovakia	Conax|Irdeto 2	2004	1401	1402[slk]|1403[mul]	1400	1401	1431	2018-10-14	No	163001007
-11324.50	V	30000 2/3	Europe B	TV	Doma HD	Slovakia	Series	OrangeSat Slovakia	Conax|Irdeto 2	2005	1501	1502[slk]|1503[mul]	1500	1501	1531	2018-10-14	No	163001009
-11324.50	V	30000 2/3	Europe B	TV	J@J PLUS HD	Slovakia	General	OrangeSat Slovakia	Conax|Irdeto 2	2006	1601	1602[slk]|1603[mul]	1600	1601	1631	2018-10-14	No	163001011
-11324.50	V	30000 2/3	Europe B	TV	Dajto HD	Slovakia	General	OrangeSat Slovakia	Conax|Irdeto 2	2007	1701	1702[slk]|1703[qaa]	1700	1701	1731	2018-10-14	No	163001013
-11324.50	V	30000 2/3	Europe B	TV	Nova HD	Czech republic	General	OrangeSat Slovakia	Irdeto 2	2008	1801	1802[cze]	1800	1801		2019-01-06	No	163001015
-11324.50	V	30000 2/3	Europe B	TV	Òcko	Czech republic	Music	OrangeSat Slovakia	Conax|Irdeto 2	2009	1901	1902[cze]	1900	1901		2018-10-14	No	163001017
-11324.50	V	30000 2/3	Europe B	TV	Slagr TV	Czech republic	Music	OrangeSat Slovakia	Conax|Irdeto 2	2011	2101	2102[cze]	2100	2101		2018-11-27	No	163001019
-11324.50	V	30000 2/3	Europe B	TV	TA3 HD	Slovakia	General	OrangeSat Slovakia	Conax|Irdeto 2	2012	2201	2202[slk]	2200	2201		2019-09-20	No	163001021
-11324.50	V	30000 2/3	Europe B	TV	Orange Sport Slovakia	Slovakia	Sport	OrangeSat Slovakia	Irdeto 2	2013	2301	2302[slk]|2303[mul]	2300	2301		2018-10-14	No	163001023
-11324.50	V	30000 2/3	Europe B	IMG	Premier Sport			OrangeSat Slovakia	Irdeto 2	2014	2401		2400	2401		2019-08-08	No	163001025
-11345.25	H	30000 3/4	Europe B	TV	OTV Valentino	Bosnia and Herzegovina	General	STN Ltd	Clear	1001	102	103[bos]	101	8190		2018-03-06	Yes	167001001
-11345.25	H	30000 3/4	Europe B	TV	Svet Plus	Serbia	General	STN Ltd	Clear	1004	402	403[eng]	401	8190	411	2018-03-06	Yes	167001003
-11345.25	H	30000 3/4	Europe B	TV	KCN Music 2	Serbia	Music	STN ltd	Clear	1007	702	703[ser]	701	8190		2018-03-06	Yes	167001005
-11345.25	H	30000 3/4	Europe B	TV	TV Kopernikus	Serbia	Regional	STN Ltd	Clear	1017	1702	1703[ser]	1701	8190		2018-03-06	Yes	167001007
-11345.25	H	30000 3/4	Europe B	TV	HNL SD	Serbia	Sport	STN PLC	Clear	1018	1802	1803[eng]|1804[eng]	1801	8190		2018-03-11	Yes	167001009
-11345.25	H	30000 3/4	Europe B	R	Radio 1			STN Ltd	Clear	3001		3102[slo]	3101	8190		2018-03-06	Yes	167001011
-11345.25	H	30000 3/4	Europe B	R	Ognjisce Radio Slovenija			STN L	Clear	3002		3202[slo]	3201	8190		2018-03-06	Yes	167001013
-11345.25	H	30000 3/4	Europe B	R	OTV Radio Valentino			STN Ltd	Clear	3004		3402[bos]	3401	3402		2019-06-14	Yes	167001015
-11366.00	V	30000 2/3	Europe A	TV	Wau HD	Slovakia	General	OrangeSat Slovakia	Conax|Irdeto 2	101	1101	1102[slk]|1103[mul]	1100	1101	1131	2018-08-11	No	171001001
-11366.00	V	30000 2/3	Europe A	TV	Senzi TV	Slovakia	Entertainment	OrangeSat Slovakia	Conax|Irdeto 2	102	1201	1202[slk]	1200	1201		2019-01-12	No	171001003
-11366.00	V	30000 2/3	Europe A	TV	TV Lux HD	Slovakia	General	OrangeSat Slovakia	Conax|Irdeto 2	103	1301	1302[slk]	1300	1301		2018-08-11	No	171001005
-11366.00	V	30000 2/3	Europe A	TV	AMC Central Europe HD	Czech republic	Movies	OrangeSat Slovakia	Conax|Irdeto 2	104	1401	1402[cze]|1403[qaa]	1400	1401		2018-07-19	No	171001007
-11366.00	V	30000 2/3	Europe A	TV	HBO 2 HD Hungary & Romania	Hungary	Movies	OrangeSat Slovakia	Conax|Irdeto 2	105	1501	1504[hun]|1502[cze]|1503[eng]	1500	1501		2018-07-18	No	171001009
-11366.00	V	30000 2/3	Europe A	TV	HBO 3 HD Central Europe	U.S.A.	Movies	OrangeSat Slovakia	Conax|Irdeto 2	106	1601	1604[hun]|1602[cze]|1603[eng]	1600	1601		2018-08-08	No	171001011
-11366.00	V	30000 2/3	Europe A	TV	HBO HD Czech	Czech republic	Movies	OrangeSat Slovakia	Conax|Irdeto 2	107	1701	1702[cze]|1703[eng]|1704[hun]	1700	1701		2018-07-18	No	171001013
-11366.00	V	30000 2/3	Europe A	TV	Discovery Channel Hungary	Hungary	Documentaries	OrangeSat Slovakia	Conax|Irdeto 2	108	1801	1803[eng]|1802[cze]|1804[hun]	1800	1801		2018-08-12	No	171001015
-11366.00	V	30000 2/3	Europe A	TV	The Golf Channel	U.S.A.	Sport	OrangeSat Slovakia	Irdeto 2	112	2201	2202[cze]|2203[qaa]	2200	2201		2018-07-18	No	171001017
-11366.00	V	30000 2/3	Europe A	TV	Investigation Discovery Xtra	United Kingdom	Documentaries	OrangeSat Slovakia	Irdeto 2	113	2301	2303[eng]|2304[hun]|2302[cze]	2300	2301		2018-08-11	No	171001019
-11366.00	V	30000 2/3	Europe A	TV	Leo TV	Czech republic	Various	OrangeSat Slovakia	Irdeto 2	114	2401	2402[cze]	2400	2401		2020-02-21	No	171001021
-11366.00	V	30000 2/3	Europe A	TV	Minimax Czechia	Czech republic	Children	OrangeSat Slovakia	Conax|Irdeto 2	115	2501	2504[hun]|2503[cze]|2502[slk]	2500	2501		2018-07-19	No	171001023
-11366.00	V	30000 2/3	Europe A	TV	TLC Czech	Czech republic	Documentaries	OrangeSat Slovakia	Conax|Irdeto 2	116	2601	2603[eng]|2604[hun]|2602[cze]	2600	2601		2018-08-12	No	171001025
-11366.00	V	30000 2/3	Europe A	TV	Prima Plus HD	Czech republic	Entertainment	OrangeSat Slovakia	Conax|Irdeto 2	119	2901	2903[cze]|2902[cze]	2900	2901		2018-08-11	No	171001027
-11366.00	V	30000 2/3	Europe A	TV	Sport 1 HD Czech	Czech republic	Sport	OrangeSat Slovakia	Conax|Irdeto 2	120	3001	3003[cze]|3002[slk]	3000	3001		2020-02-29	No	171001029
-11366.00	V	30000 2/3	Europe A	TV	Arena Sport 1 HD	Slovakia	Sport	OrangeSat Slovakia	Conax|Irdeto 2	121	3101	3102[slk]|3103[eng]	3100	3101		2018-08-11	No	171001031
-11386.75	H	30000 3/5	Europe B	TV	Arena Sport BIH	Bosnia and Herzegovina	Sport	Total TV	VideoGuard	1651	251	3511[bos]	151	251		2019-08-27	No	175001001
-11386.75	H	30000 3/5	Europe B	TV	ArenaSport 1	Serbia	Sport	Total TV	VideoGuard	1651	251	3511[ser]	151	251		2019-08-27	No	175001003
-11386.75	H	30000 3/5	Europe B	TV	RTS 3	Serbia	General	Total TV	VideoGuard	1652	252	3521[ser]	152	252		2020-03-16	No	175001005
-11386.75	H	30000 3/5	Europe B	TV	ATV			Total TV	VideoGuard	1653	253	3531[ser]	153	253		2019-08-27	No	175001007
-11386.75	H	30000 3/5	Europe B	TV	RTRS	Serbia	Regional	Total TV	VideoGuard	1654	254	3541[ser]	154	254	554	2019-08-27	No	175001009
-11386.75	H	30000 3/5	Europe B	TV	Pop Brio	Slovenia	Entertainment	Total TV	VideoGuard	1655	255	3551[slo]	155	255		2019-08-27	No	175001011
-11386.75	H	30000 3/5	Europe B	TV	Kino			Total TV	VideoGuard	1656	256	3561[slo]	156	256	1220	2019-08-27	No	175001013
-11386.75	H	30000 3/5	Europe B	TV	TV 3 Medias			Total TV	VideoGuard	1657	257	3571	157	257	400	2019-10-10	No	175001015
-11386.75	H	30000 3/5	Europe B	TV	MRT 1	Macedonia	General	Total TV	VideoGuard	1658	258	3581[mac]	158	258		2019-11-27	No	175001017
-11386.75	H	30000 3/5	Europe B	TV	Pink	Serbia	General	Total TV	VideoGuard	1661	261	3611[ser]	161	261	561	2019-08-27	No	175001019
-11386.75	H	30000 3/5	Europe B	TV	Nova TV HD Croatia	Croatia	General	Total TV	VideoGuard	1662	262	3621[cro]	162	262		2020-03-07	No	175001021
-11386.75	H	30000 3/5	Europe B	TV	Sitel Televizija	Macedonia	General	Total TV	VideoGuard	1663	263	3631[mac]	163	263		2019-08-27	No	175001023
-11386.75	H	30000 3/5	Europe B	TV	Kanal 5 Croatia	Croatia	General	Total TV	VideoGuard	1664	264	3641[cro]	164	264		2019-08-27	No	175001025
-11386.75	H	30000 3/5	Europe B	TV	Pikaboo	Serbia	Children	Total TV	Conax|VideoGuard	1665	265	3651[ser]|3652[cro]|3653[slo]|3654[mac]|3655[alb]	165	265		2019-08-27	No	175001027
-11386.75	H	30000 3/5	Europe B	TV	Cinemania HD Serbia	Serbia	Movies	Total TV	VideoGuard	1666	266	3661[ser]	166	266		2020-01-16	No	175001029
-11386.75	H	30000 3/5	Europe B	TV	Kanal A HD Slovenia	Slovenia	General	Total TV	VideoGuard	1667	267	3671[slo]	167	267	567	2019-08-27	No	175001031
-11386.75	H	30000 3/5	Europe B	TV	SK 2 SLO	Slovenia	General	Total TV	VideoGuard	1668	268	3681[slo]	168	268		2019-08-27	No	175001033
-11386.75	H	30000 3/5	Europe B	TV	CineStar Comedy	Croatia	Movies	Total TV	VideoGuard	1669	269	3691	169	269		2019-08-27	No	175001035
-11386.75	H	30000 3/5	Europe B	TV	Lov i Ribolov	Serbia	Various	Total TV	Conax|Nagravision 3|VideoGuard	1670	270	3701[ser]	170	270		2019-08-27	No	175001037
-11386.75	H	30000 3/5	Europe B	TV	Nova M	Macedonia	Entertainment	Total TV	VideoGuard	1671	271	3711[mac]	171	271	571	2019-08-27	No	175001039
-11427.00	V	27500 2/3	Europe B	TV	Vizion Plus HD	Albania	General	Tring Digital	Conax	1	501	502[alb]	515	501		2020-03-16	No	183001001
-11427.00	V	27500 2/3	Europe B	TV	Tring Super HD	Albania	Entertainment	Tring Digital	Conax	2	4224	4225[eng]	257	4224		2020-03-16	No	183001003
-11427.00	V	27500 2/3	Europe B	TV	Tring Sport News	Albania	Sport	Tring Digital	Clear	3	2518	2519[alb]	3551	2518		2020-03-16	Yes	183001005
-11427.00	V	27500 2/3	Europe B	TV	Tring Comedy	Albania	Comedy	Tring Digital	Conax	5	1500	1510[alb]	526	1500		2020-03-16	No	183001007
-11427.00	V	27500 2/3	Europe B	TV	RTV 21 Sat	Kosovo	General	Tring Digital	Conax	7	2001	2002[alb]	286	2001		2020-03-16	No	183001009
-11427.00	V	27500 2/3	Europe B	TV	TIP TV	Albania	Various	Tring Digital	Conax	8	2300	2301[alb]	522	2300		2020-03-16	No	183001011
-11427.00	V	27500 2/3	Europe B	TV	Tring Tring	Albania	Children	Tring Digital	Conax	9	2588	2566[alb]	521	2588		2020-03-16	No	183001013
-11427.00	V	27500 2/3	Europe B	TV	Tring Planet	Albania	Documentaries	Tring Digital	Conax	12	2170	2172[eng]	527	2170		2020-03-16	No	183001015
-11427.00	V	27500 2/3	Europe B	TV	Tring Life	Albania	Series	Tring Digital	Conax	20	1400	1410[alb]	525	1400		2020-03-16	No	183001017
-11427.00	V	27500 2/3	Europe B	TV	Tring Action	Albania	Movies	Tring Digital	Conax	21	1300	1310[alb]	2555	1300		2020-03-16	No	183001019
-11427.00	V	27500 2/3	Europe B	IMG	Sport 4 HD Albania	Albania	Sport	Tring Digital	Conax	26	1028		3555	1028		2019-02-25	No	183001021
-11427.00	V	27500 2/3	Europe B	TV	Sport 1 HD Albania	Albania	Sport	Tring Digital	Conax	27	2525	2526[alb]|2527[eng]	3552	2525		2020-03-16	No	183001023
-11427.00	V	27500 2/3	Europe B	TV	Sport 2 HD Albania	Albania	Sport	Tring Digital	Conax	28	2801	2802[alb]|2803[eng]	3553	2801		2020-03-16	No	183001025
-11427.00	V	27500 2/3	Europe B	TV	Sport 3 HD Albania	Albania	Sport	Tring Digital	Conax	29	2782	2783[alb]	3554	2782		2020-01-03	No	183001027
-11427.00	V	27500 2/3	Europe B	TV	Smile (Albania)	Albania	Entertainment	Tring Digital	Conax	33	1900	1901[alb]	517	1900		2020-03-16	No	183001029
-11427.00	V	27500 2/3	Europe B	TV	Jolly HD	Albania	Entertainment	Tring Digital	Conax	50	1703	1701[eng]	296	1703		2020-03-16	No	183001031
-11427.00	V	27500 2/3	Europe B	TV	3 Plus	Albania	Various	Tring Digital	Conax	56	1600	1610[eng]	516	1600		2020-03-16	No	183001033
-11427.00	V	27500 2/3	Europe B	TV	BBF	Albania	Music	Tring Digital	Conax	60	3225	3226[eng]	61	3225		2020-03-16	No	183001035
-11427.00	V	27500 2/3	Europe B	TV	Tring World	Albania	Documentaries	Tring Digital	Conax	66	107	108[alb]	528	107		2020-03-16	No	183001037
-11427.00	V	27500 2/3	Europe B	TV	Living	Albania	General	Tring Digital	Conax	80	4200	4210[alb]	539	4200		2020-03-16	No	183001039
-11427.00	V	27500 2/3	Europe B	TV	Tring Shqip	Albania	Movies	Tring Digital	Conax	88	1257	1258[eng]	520	1257		2020-03-16	No	183001041
-11427.00	V	27500 2/3	Europe B	TV	Folk Plus	Albania	Music	Tring Digital	Conax	125	125	101[alb]	535	125		2020-03-16	No	183001043
-11427.00	V	27500 2/3	Europe B	TV	Fax News	Albania	News	Tring TV	Clear	128	3504	3505[eng]	1001	3504		2019-05-14	Yes	183001045
-11427.00	V	27500 2/3	Europe B	TV	Desire	Albania	Porn	Tring Digital	Conax	555	2401	2402[eng]	536	2401		2020-02-29	No	183001047
-11427.00	V	27500 2/3	Europe B	TV	Kids	Albania	Children	Tring Digital	Conax	801	2775	2776[alb]	629	2775		2019-02-25	No	183001049
-11427.00	V	27500 2/3	Europe B	TV	Kanali 7	Albania	News	Tring Digital	Clear	999	1700	1710[alb]	518	1700		2019-02-25	Yes	183001051
-11427.00	V	27500 2/3	Europe B	TV	Tring Fantasy	Albania	Movies	Tring Digital	Conax	2260	1069	1020[eng]	2260	1069		2020-03-16	No	183001053
-11427.00	V	27500 2/3	Europe B	TV	Klan HD	Albania	General	Tring TV	Conax	3100	3110	3120[eng]	3101	3110		2020-03-16	No	183001055
-11427.00	V	27500 2/3	Europe B	TV	Klan Plus	Albania	Entertainment	Tring TV	Conax	3200	3210	3220[eng]	3201	3210		2020-03-16	No	183001057
-11427.00	V	27500 2/3	Europe B	TV	Kanal D Drama	Albania	Series	Tring Digital	Conax	4800	2309	2310[alb]	258	2309		2020-03-26	No	183001059
-11427.00	V	27500 2/3	Europe B	R	Radio Klan			Tring Digital	Clear	7000		2304[alb]	7001	2304		2020-03-10	Yes	183001061
-11470.75	H	30000 3/4	Europe B	TV	Prva Srpska Televizija	Serbia	General	Total TV	VideoGuard	851	251	3511[ser]	151	251	551	2019-08-27	No	187001001
-11470.75	H	30000 3/4	Europe B	TV	Prva Plus	Serbia	General	Total TV	VideoGuard	852	252	3521[ser]	152	252		2019-08-27	No	187001003
-11470.75	H	30000 3/4	Europe B	TV	Happy TV	Serbia	Children	Total TV	VideoGuard	853	253	3531[ser]	153	253	553	2019-08-27	No	187001005
-11470.75	H	30000 3/4	Europe B	TV	RTV 1 (Vojvodina)	Serbia	Regional	Total TV	VideoGuard	854	254	3541[ser]	154	254	554	2019-08-27	No	187001007
-11470.75	H	30000 3/4	Europe B	TV	BHT 1	Bosnia and Herzegovina	General	Total TV	VideoGuard	855	255	3551[bos]	155	255	555	2019-08-27	No	187001009
-11470.75	H	30000 3/4	Europe B	TV	Federalna TV	Bosnia and Herzegovina	General	Total TV	Conax|VideoGuard	856	256	3561[bos]	156	256	556	2019-08-27	No	187001011
-11470.75	H	30000 3/4	Europe B	TV	Pop TV HD Slovenia	Slovenia	Entertainment	Total TV	VideoGuard	858	258	3581[slo]	158	258	558	2019-08-27	No	187001013
-11470.75	H	30000 3/4	Europe B	TV	RTCG Sat	Montenegro	General	Total TV	VideoGuard	859	259	3591[ser]	159	259		2019-12-08	No	187001015
-11470.75	H	30000 3/4	Europe B	TV	RTCG 2 HD	Montenegro	General	Total TV	VideoGuard	860	121	122[ser]	160	121		2019-08-27	No	187001017
-11470.75	H	30000 3/4	Europe B	TV	SK 1 SLO	Slovenia	General	Total TV	VideoGuard	864	264	3641[slo]	164	264		2019-08-27	No	187001019
-11470.75	H	30000 3/4	Europe B	TV	Hema TV	Bosnia and Herzegovina	General	Total TV	VideoGuard	865	265	3651[bos]	165	665		2019-08-27	No	187001021
-11470.75	H	30000 3/4	Europe B	TV	SK 1 HR	Croatia	General	Total TV	VideoGuard	866	266	3661[cro]	166	266		2019-08-27	No	187001023
-11470.75	H	30000 3/4	Europe B	TV	TV 1000 Balkan	Serbia	Movies	Total TV	VideoGuard	867	267	3671[eng]	167	267		2019-08-27	No	187001025
-11470.75	H	30000 3/4	Europe B	TV	Diva Balkans	Serbia	Movies	Total TV	VideoGuard	869	269	3691[eng]	169	269		2019-08-27	No	187001027
-11470.75	H	30000 3/4	Europe B	TV	Fox Crime Croatia	Croatia	Series	Total TV	Conax|VideoGuard	870	270	3701[eng]	170	270		2019-08-27	No	187001029
-11470.75	H	30000 3/4	Europe B	TV	Fox Life Bulgaria	Bulgaria	Series	Total TV	Conax|VideoGuard	871	271	3711[eng]	171	271		2019-08-27	No	187001031
-11470.75	H	30000 3/4	Europe B	TV	Fox Movies Eastern Europe	undefined	Movies	Total TV	VideoGuard	872	272	3721[eng]	172	272		2019-08-27	No	187001033
-11470.75	H	30000 3/4	Europe B	TV	National Geographic Europe	United Kingdom	Documentaries	Total TV	Conax|VideoGuard	873	273	3731[eng]	173	273		2019-08-27	No	187001035
-11470.75	H	30000 3/4	Europe B	TV	SK 1 HD	Serbia	General	Total TV	VideoGuard	874	274	3741[ser]	174	274	574	2019-08-27	No	187001037
-11470.75	H	30000 3/4	Europe B	TV	RTV 2	Serbia	General	Total TV	VideoGuard	875	275	3751[ser]	175	275		2019-11-08	No	187001039
-11470.75	H	30000 3/4	Europe B	TV	IDJ TV HD	Serbia	Various	Total TV	Conax|VideoGuard	876	276	3761[ser]	176	276		2019-08-27	No	187001041
-11470.75	H	30000 3/4	Europe B	TV	NatGeo Wild HD	United Kingdom	Documentaries	Total TV	Conax|VideoGuard	877	277	3771[eng]	177	277		2019-10-04	No	187001043
-11470.75	V	30000 5/6	Europe B	TV	Extasy 4K	undefined	Entertainment	Antik Sat	Conax	601	1101	1102[aac][eng]	1100	1101		2019-10-19	No	191001001
-11470.75	V	30000 5/6	Europe B	TV	Test			Antik	Conax	602	1201	1202[slk]	1200	1201		2019-12-21	No	191001003
-11470.75	V	30000 5/6	Europe B	TV	ID Xtra HD			A1 BG	Conax	603	1301	1321[bul]	1300	1301		2019-01-14	No	191001005
-11470.75	V	30000 5/6	Europe B	TV	Arena HD	Germany	Sport	Antik Sat	Clear	604	1401	1402[ger]	1400	1401		2020-03-06	Yes	191001007
-11470.75	V	30000 5/6	Europe B	TV	Eurosport 1 HD	France	Sport	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	606	1601	1602[cze]|1603[eng]	1600	1601		2019-01-14	No	191001009
-11470.75	V	30000 5/6	Europe B	TV	Eurosport 2 HD	France	Sport	Antik Sat	Conax	607	1701	1704[eng]|1703[bul]	1700	1701		2019-01-14	No	191001011
-11470.75	V	30000 5/6	Europe B	TV	Planeta HD	Bulgaria	Music	A1 BG	Conax	608	1801	1802[bul]	1800	1801		2019-01-14	No	191001013
-11470.75	V	30000 5/6	Europe B	TV	AutoMotorSport HD	Germany	Sport	OrangeSat Slovakia	Conax|Irdeto 2	610	2001	2002[cze]|2003[bul]|2004[ger]	2000	2001		2019-01-14	No	191001015
-11470.75	V	30000 5/6	Europe B	TV	Duck TV SAT			A1 HR	Conax	616	3301	3302[eng]	3360	3301		2019-01-14	No	191001017
-11470.75	V	30000 5/6	Europe B	TV	Fine Living			A1 BG	Conax	618	2801	2803[eng]|2802[ces]	2860	2801		2019-01-14	No	191001019
-11470.75	V	30000 5/6	Europe B	TV	Baby TV	United Kingdom	Children	OrangeSat Slovakia	Conax|Irdeto 2	621	3101	3102[eng]	3100	3101		2019-03-30	No	191001021
-11470.75	V	30000 5/6	Europe B	TV	Investigation Discovery HD	United Kingdom	Documentaries	Antik Sat	Conax|Irdeto 2	622	1301	1322[cze]|1302[eng]	1361	1301		2019-06-04	No	191001023
-11470.75	V	30000 5/6	Europe B	TV	Duck TV	Slovakia	Children	A1 HR	Conax	623	3301	3302[eng]	3300	3301		2019-01-14	No	191001025
-11470.75	V	30000 5/6	Europe B	TV	Food Network	United Kingdom	Cooking	A1 BG	Conax	624	3401	3402[bul]	3461	3401		2019-01-14	No	191001027
-11470.75	V	30000 5/6	Europe B	TV	TLC			A1 BG	Conax	626	4001	4002[bul]|4003[eng]	4000	4001		2019-11-15	No	191001029
-11470.75	V	30000 5/6	Europe B	TV	Food Network	United Kingdom	Cooking	A1 HR	Conax	627	3401	3403[eng]	3465	3401		2019-01-14	No	191001031
-11470.75	V	30000 5/6	Europe B	TV	Fine Living			Digit Alb	Conax	634	2801	2803[eng]	2864	2801		2019-01-14	No	191001033
-11470.75	V	30000 5/6	Europe B	TV	eSportsTV			A1 HR	Conax	636	4601	4631[eng]	4600	4601		2019-01-14	No	191001035
-11470.75	V	30000 5/6	Europe B	TV	ID Xtra HD			Digit Alb	Conax	637	1301	1302[eng]	1360	1301		2019-01-14	No	191001037
-11470.75	V	30000 5/6	Europe B	TV	TLC			Digit Alb	Conax	638	4001	4003[eng]	4060	4001		2019-01-14	No	191001039
-11470.75	V	30000 5/6	Europe B	TV	Baby TV	United Kingdom	Children	Digit Alb	Conax	639	3101	3102[eng]	3160	3101		2019-01-14	No	191001041
-11470.75	V	30000 5/6	Europe B	TV	Duck TV	Slovakia	Children	Antik Sat	Conax	640	3301	3302[eng]	3363	3301		2019-03-30	No	191001043
-11470.75	V	30000 5/6	Europe B	TV	Fine Living Network	United Kingdom	Lifestyle	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	641	2801	2802[ces]|2803[eng]	2863	2801		2019-01-14	No	191001045
-11470.75	V	30000 5/6	Europe B	TV	Eurosport 1 HD	France	Sport	Antik Sat	Conax	642	1601	1603[eng]	1660	1601		2019-01-14	No	191001047
-11470.75	V	30000 5/6	Europe B	TV	Eurosport 2 HD	France	Sport	Antik Sat	Conax	643	1701	1704[eng]	1760	1701		2019-01-14	No	191001049
-11470.75	V	30000 5/6	Europe B	TV	Fine Living			A1 HR	Conax	645	2801	2803[eng]	2865	2801		2019-01-14	No	191001051
-11470.75	V	30000 5/6	Europe B	TV	Nickelodeon			A1 HR	Conax	646	5601	5602[cro]	5600	5601		2019-01-14	No	191001053
-11470.75	V	30000 5/6	Europe B	TV	FOX Movies Adria	Serbia	Movies	A1 HR	Conax	648	5801	5802[eng]	5800	5801		2019-09-03	No	191001055
-11470.75	V	30000 5/6	Europe B	TV	National Geographic Wild			Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	649	4901	4902[eng]|4903[cze]	4900	4901		2019-02-23	No	191001057
-11470.75	V	30000 5/6	Europe B	TV	Boomerang	United Kingdom	Children	A1 HR	Conax|Irdeto 2	650	6001	6002[eng]	6000	6001		2019-06-04	No	191001059
-11470.75	V	30000 5/6	Europe B	TV	Fine Living			Antik Sat|OrangeSat Slovakia	Irdeto 2	698	2801	2802[cze]	2866	2801		2019-01-14	No	191001061
-11470.75	V	30000 5/6	Europe B	TV	Duck TV	Slovakia	Children	Antik Sat|OrangeSat Slovakia	Irdeto 2	699	3301	3302[eng]	3365	3301		2019-01-14	No	191001063
-11512.25	H	30000 3/4	Europe B	TV	RTL Living Croatia	Croatia	Entertainment	Max TV	Conax|Nagravision 3	20	2819	2563[cro]	514	2819		2018-12-31	No	195001001
-11512.25	H	30000 3/4	Europe B	TV	RTL Kockica	Croatia	Children	Max TV|Total TV	Conax|Nagravision 3|VideoGuard	21	2818	2562[cro]	515	2818		2019-03-02	No	195001003
-11512.25	H	30000 3/4	Europe B	TV	National Geographic Croatia	Croatia	Documentaries	Max TV	Conax|Nagravision 3	30	2821	2565[cro]	516	2821		2018-12-31	No	195001005
-11512.25	H	30000 3/4	Europe B	TV	NatGeo Wild	United Kingdom	Documentaries	Max TV	Conax|Nagravision 3	31	2822	2566[eng]	517	2822		2018-12-31	No	195001007
-11512.25	H	30000 3/4	Europe B	TV	BBC Earth	United Kingdom	Documentaries	Max TV	Nagravision 3	44	2817	2561[eng]	512	2817		2018-12-27	No	195001009
-11512.25	H	30000 3/4	Europe B	TV	CineStar Fantasy	Serbia	Series	Max TV|Total TV	Conax|Nagravision 3|VideoGuard	47	2827	2571[ser]	522	2827		2018-12-31	No	195001011
-11512.25	H	30000 3/4	Europe B	TV	Nickelodeon Croatia	Croatia	Children	Max TV|Total TV	Nagravision 3|VideoGuard	48	2828	2572[cro]	523	2828		2019-03-30	No	195001013
-11512.25	H	30000 3/4	Europe B	TV	Vavoom	Serbia	Children	Max TV	Conax|Nagravision 3	50	2832	2576[cro]	527	2832		2018-12-31	No	195001015
-11512.25	H	30000 3/4	Europe B	TV	Boomerang	United Kingdom	Children	Max TV	Nagravision 3	51	2833	2577[eng]	528	2833		2018-12-27	No	195001017
-11512.25	H	30000 3/4	Europe B	TV	Baby TV	United Kingdom	Children	Max TV|Total TV	Nagravision 3|VideoGuard	52	2834	2578[eng]	529	2834		2019-02-25	No	195001019
-11512.25	H	30000 3/4	Europe B	TV	Cartoon Network Russia & South Eastern Europe	Russia	Children	Max TV	Conax|Nagravision 3	53	2835	2579[eng]	530	2835		2018-12-31	No	195001021
-11512.25	H	30000 3/4	Europe B	TV	Epic Drama	undefined	Movies	Max TV	Nagravision 3	60	2837	2581	533	2837		2019-07-18	No	195001023
-11512.25	H	30000 3/4	Europe B	TV	Fox Life South East Europe	Serbia	Entertainment	Max TV	Conax|Nagravision 3	61	2838	2582[eng]	534	2838		2018-12-31	No	195001025
-11512.25	H	30000 3/4	Europe B	TV	Fox Crime South East Europe	Serbia	Entertainment	Max TV	Conax|Nagravision 3	62	2839	2583[eng]	535	2839		2018-12-31	No	195001027
-11512.25	H	30000 3/4	Europe B	TV	HNTV	Croatia	Sport	Max TV	Nagravision 3	70	2844	2588	540	2844		2018-12-27	No	195001029
-11512.25	H	30000 3/4	Europe B	TV	Nick Jr Croatia	Croatia	Children	Max TV	Conax|Nagravision 3	73	2850	2594[cro]	545	2850		2018-12-31	No	195001031
-11512.25	H	30000 3/4	Europe B	TV	Sport Klub 2 HD	Serbia	Sport	Max TV	Nagravision 3	95	2851	2595[ser]	546	2851		2018-12-27	No	195001033
-11512.25	H	30000 3/4	Europe B	TV	Sport Klub 3 HD	Serbia	Movies	Max TV	Nagravision 3	96	2864	2608[ser]	576	2864		2018-12-27	No	195001035
-11512.25	H	30000 3/4	Europe B	TV	Arena Sport 3 HD	Croatia	Sport	Max TV	Nagravision 3	108	2824	2600[eng]	551	2824		2018-12-27	No	195001037
-11512.25	H	30000 3/4	Europe B	TV	Jugoton TV	Croatia	Music	Max TV	Conax|Nagravision 3	150	2854	2598[cro]	549	2854		2018-12-31	No	195001039
-11512.25	H	30000 3/4	Europe B	TV	Sport Klub Start	Croatia	Sport	Max TV	Nagravision 3	153	2855	2599[cro]	550	2855		2018-12-27	No	195001041
-11512.25	H	30000 3/4	Europe B	TV	Arena 4 HD	Serbia	Sport	Max TV	Nagravision 3	217	2857	2601[cro]	553	2857		2018-12-27	No	195001043
-11512.25	V	29950 2/3	Europe B	TV	TVR 1	Romania	General	SRTV	Conax	1	100	110[rom]	7001	100	118	2019-01-14	No	199001003
-11512.25	V	29950 2/3	Europe B	TV	TVR 2	Romania	General	SRTV	Conax	2	200	210[rom]	7002	200	218	2019-01-14	No	199001005
-11512.25	V	29950 2/3	Europe B	TV	TVR 3	Romania	General	SRTV	Conax	3	300	310[rom]	7003	300	318	2019-01-14	No	199001007
-11512.25	V	29950 2/3	Europe B	TV	TVR	Poland	Cultural	SRTV	Conax	4	400	410[eng]	7004	400	418	2019-01-14	No	199001009
-11512.25	V	29950 2/3	Europe B	TV	TV Romania International	Romania	General	SRTV	Clear	6	600	610[rom]	7006	600	618	2019-01-26	Yes	199001011
-11512.25	V	29950 2/3	Europe B	TV	TVR 1 HD	Romania	General	SRTV	Conax	15	1500	1510[rom]	7015	1500		2019-11-25	No	199001013
-11512.25	V	29950 2/3	Europe B	TV	TVR 2 HD	Romania	General		Conax	17	1700	1710[rom]	7017	1700		2019-11-28	No	199001015
-11512.25	V	29950 2/3	Europe B	R	Radio Romania Actualitati				Clear	21		2110[rom]	7020	2110		2019-01-14	Yes	199001017
-11512.25	V	29950 2/3	Europe B	R	Radio Romania Cultural				Clear	22		2210[rom]	7021	2210		2019-01-14	Yes	199001019
-11512.25	V	29950 2/3	Europe B	R	Radio Romania Muzical				Clear	23		2310[rom]	7022	2310		2019-01-14	Yes	199001021
-11512.25	V	29950 2/3	Europe B	R	Radio Romania Antena Satelor				Clear	24		2410[rom]	7023	2410		2019-01-14	Yes	199001023
-11512.25	V	29950 2/3	Europe B	R	Radio Romania International 1				Clear	25		2510[rom]	7024	2510		2019-01-14	Yes	199001025
-11512.25	V	29950 2/3	Europe B	R	Radio Romania International 2				Clear	26		2610[rom]	7025	2610		2019-01-14	Yes	199001027
-11512.25	V	29950 2/3	Europe B	R	Radio Romania International 3				Clear	27		2710[rom]	7026	2710		2019-01-14	Yes	199001029
-11553.75	H	30000 3/4	Europe B	TV	RTS 1 HD Serbia	Serbia	General	Total TV	VideoGuard	1751	251	3511[ser]	151	251	551	2019-08-27	No	203001001
-11553.75	H	30000 3/4	Europe B	TV	RTS 2 HD Serbia	Serbia	General	Total TV	VideoGuard	1752	252	3521[ser]	152	252	552	2019-08-27	No	203001003
-11553.75	H	30000 3/4	Europe B	TV	Pink 2	Serbia	General	Total TV	VideoGuard	1753	253	3531[ser]	153	253		2019-08-27	No	203001005
-11553.75	H	30000 3/4	Europe B	TV	B92	Serbia	General	Total TV	VideoGuard	1754	254	3541[ser]	154	254	554	2020-03-04	No	203001007
-11553.75	H	30000 3/4	Europe B	TV	OBN	Bosnia and Herzegovina	General	Total TV	VideoGuard	1755	255	3551[eng]	155	255		2019-08-27	No	203001009
-11553.75	H	30000 3/4	Europe B	TV	TV Slovenija 1	Slovenia	General	Total TV	VideoGuard	1756	256	3561[slo]	156	256	556	2019-08-27	No	203001011
-11553.75	H	30000 3/4	Europe B	TV	TV Slovenija 2 HD	Slovenia	General	Total TV	VideoGuard	1757	257	3571[slo]	157	257	557	2019-08-28	No	203001013
-11553.75	H	30000 3/4	Europe B	TV	Prva TV Crna Gora	Montenegro	General	Total TV	VideoGuard	1758	258	3581[ser]	158	258		2019-08-27	No	203001015
-11553.75	H	30000 3/4	Europe B	TV	ArenaSport 1	Serbia	Sport	Total TV	VideoGuard	1760	260	3601[ser]	160	260		2019-08-27	No	203001017
-11553.75	H	30000 3/4	Europe B	TV	ArenaSport 2	Serbia	Sport	Total TV	VideoGuard	1761	261	3611[ser]	161	261		2019-08-27	No	203001019
-11553.75	H	30000 3/4	Europe B	TV	Sport Klub Golf	Serbia	Sport	Total TV	VideoGuard	1762	262	3621[ser]|3622[cro]|3623[slo]	162	262		2019-08-27	No	203001021
-11553.75	H	30000 3/4	Europe B	TV	Prva World	Serbia	News	Total TV	VideoGuard	1763	263	3631[ser]	163	263		2019-08-27	No	203001023
-11553.75	H	30000 3/4	Europe B	TV	Nova S HD	Serbia	Entertainment	Total TV	VideoGuard	1764	264	3641[ser]	164	264		2019-08-27	No	203001025
-11553.75	H	30000 3/4	Europe B	TV	Grand TV	Serbia	General	Total TV	Conax|VideoGuard	1766	266	3661[ser]	166	266		2019-08-27	No	203001027
-11553.75	H	30000 3/4	Europe B	TV	N1 BiH	Bosnia and Herzegovina	General	Total TV	VideoGuard	1767	267	3671[bos]	167	267		2019-08-27	No	203001029
-11553.75	H	30000 3/4	Europe B	TV	N1 Hrvratska	Croatia	General	Total TV	Conax|Nagravision 3|VideoGuard	1768	268	3681[cro]	168	268		2019-08-27	No	203001031
-11553.75	H	30000 3/4	Europe B	TV	Fox Adria	undefined	Entertainment	Total TV	VideoGuard	1770	270	3701[eng]	170	270		2019-08-27	No	203001033
-11553.75	H	30000 3/4	Europe B	TV	FOX Crime HD Serbia	Serbia	Series	Total TV	VideoGuard	1772	272	3721[eng]	172	272		2019-08-27	No	203001035
-11553.75	H	30000 3/4	Europe B	TV	24 Kitchen HD	Portugal	Cooking	Total TV	VideoGuard	1773	273	3731[eng]	173	273		2019-08-27	No	203001037
-11554.00	V	30000 5/6	Europe B	TV	HRT 1	Croatia	General	A1 HR	Conax	1801	1101	1102[cro]	1100	1101	1131	2019-01-26	No	207001001
-11554.00	V	30000 5/6	Europe B	TV	HRT 2	Croatia	General	A1 HR	Conax	1802	1201	1202[cro]	1200	1201	1231	2019-01-26	No	207001003
-11554.00	V	30000 5/6	Europe B	TV	Balkanika	Bulgaria	Music	A1 HR	Conax	1806	1601	1602[bul]	1600	1601		2019-01-26	No	207001005
-11554.00	V	30000 5/6	Europe B	TV	Doku TV	undefined	Documentaries	A1 HR	Conax	1807	1701	1702[cro]	1700	1701		2019-01-14	No	207001007
-11554.00	V	30000 5/6	Europe B	TV	SK 2	Serbia	General	A1 HR	Conax	1808	1801	1802[cro]|1803[slo]|1804[ser]	1800	1801		2019-01-14	No	207001009
-11554.00	V	30000 5/6	Europe B	TV	Hustler HD	Italy	Presentations	Total TV	Conax|VideoGuard	1809	1901	1902[ita]	1900	1901		2019-07-07	No	207001011
-11554.00	V	30000 5/6	Europe B	TV	Hustler TV	U.S.A.	Porn	Total TV	Conax|Nagravision 3|VideoGuard	1810	2001	2002[eng]	2000	2001		2019-03-08	No	207001013
-11554.00	V	30000 5/6	Europe B	TV	SK 1 HR	Croatia	General	A1 HR	Conax	1811	2101	2102[cro]	2100	2101		2019-01-26	No	207001015
-11554.00	V	30000 5/6	Europe B	TV	HRT 3	Croatia	General	A1 HR	Conax	1812	2201	2202[cro]	2200	2201	2231	2019-01-26	No	207001017
-11554.00	V	30000 5/6	Europe B	TV	CBS Reality	United Kingdom	Documentaries	Total TV	Conax|Nagravision 3|VideoGuard	1813	2301	2302[eng]	2361	2301		2019-08-27	No	207001019
-11554.00	V	30000 5/6	Europe B	TV	Diva Balkans	Serbia	Movies	A1 HR	Conax	1815	2501	2502	2562	2501		2019-01-26	No	207001021
-11554.00	V	30000 5/6	Europe B	TV	TV1000			A1 HR	Conax|Nagravision 3	1816	2601	2602[eng]	2663	2601		2019-01-15	No	207001023
-11554.00	V	30000 5/6	Europe B	TV	SK 3	Serbia	General	A1 HR	Conax	1818	2801	2802[cro]	2800	2801		2019-01-14	No	207001025
-11554.00	V	30000 5/6	Europe B	TV	CineStar Action and Thriller	Serbia	Movies	Total TV	Conax|Nagravision 3|VideoGuard	1819	2901	2902[eng]	2900	2901		2019-08-27	No	207001027
-11554.00	V	30000 5/6	Europe B	TV	PlanetSport 1 HD	Croatia	Sport	A1 HR	Conax	1820	3001	3002[cro]	3000	3001		2019-01-14	No	207001029
-11554.00	V	30000 5/6	Europe B	TV	Cinestar TV	Croatia	Movies	A1 HR	Conax	1822	3201	3203	3200	3201		2020-02-29	No	207001031
-11554.00	V	30000 5/6	Europe B	TV	PlanetSport 2 HD	Croatia	Sport	A1 HR	Conax	1823	3301	3302[cro]	3300	3301		2019-01-14	No	207001033
-11554.00	V	30000 5/6	Europe B	TV	Viasat Explore	Sweden	Documentaries	A1 HR	Conax|Nagravision 3	1824	3401	3402[eng]|3403[cze]	3460	3401		2019-01-14	No	207001035
-11554.00	V	30000 5/6	Europe B	TV	PlanetSport 3 HD	Croatia	Sport	A1 HR	Conax	1826	3601	3602[cro]	3600	3601		2019-01-14	No	207001037
-11554.00	V	30000 5/6	Europe B	TV	Kino TV	Finland	Movies	A1 HR	Conax|Nagravision 3	1827	3701	3702[cro]	3700	3701		2019-01-14	No	207001039
-11554.00	V	30000 5/6	Europe B	TV	Viasat History	Sweden	History	A1 HR	Conax|Nagravision 3	1830	4001	4002[eng]|4003[cze]	4061	4001		2019-01-14	No	207001041
-11554.00	V	30000 5/6	Europe B	TV	VH1			OrangeSat Slovakia|Total TV	Conax|Irdeto 2|Nagravision 3|VideoGuard	1833	4301	4302	4300	4301	4331	2019-01-15	No	207001043
-11554.00	V	30000 5/6	Europe B	TV	Mediaset Italia	Italy	General	A1 HR	Conax	1836	4601	4602[ita]	4600	4601		2019-01-14	No	207001045
-11554.00	V	30000 5/6	Europe B	TV	MTV			Total TV	Conax|VideoGuard	1838	4802	4801[eng]	4800	4802		2019-01-15	No	207001047
-11554.00	V	30000 5/6	Europe B	TV	Kreator TV	Croatia	Cultural	A1 HR	Conax	1841	5201	5202[cro]	5200	5201		2019-01-14	No	207001049
-11554.00	V	30000 5/6	Europe B	TV	HTV4			A1 HR	Conax	1842	5101	5102[cro]	5100	5101	5131	2019-01-15	No	207001051
-11554.00	V	30000 5/6	Europe B	TV	CineStar Premiere 2	Croatia	Movies	A1 HR	Conax	1846	5601	5602[eng]	5600	5601		2019-01-14	No	207001053
-11554.00	V	30000 5/6	Europe B	TV	CineStar Premiere HD	Croatia	Movies	A1 HR	Conax	1847	5701	5702[cro]	5700	5701		2020-02-29	No	207001055
-11554.00	V	30000 5/6	Europe B	TV	E!			A1 HR	Conax|Irdeto 2|Nagravision 3	1848	5801	5802[eng]	5800	5801		2019-06-04	No	207001057
-11554.00	V	30000 5/6	Europe B	TV	SciFi			A1 HR	Conax	1849	5901	5902[eng]	5900	5901		2019-01-15	No	207001059
-11554.00	V	30000 5/6	Europe B	TV	Fight Channel			Total TV	Conax|VideoGuard	1850	6001	6002[cro]	6000	6001		2019-01-15	No	207001061
-11554.00	V	30000 5/6	Europe B	TV	AXN			A1 HR	Conax	1851	6101	6102[eng]	6100	6101		2019-01-15	No	207001063
-11554.00	V	30000 5/6	Europe B	TV	Planet Earth	undefined	Documentaries	A1 HR	Conax	1852	6201	6202[eng]	6200	6201		2019-01-14	No	207001065
-11554.00	V	30000 5/6	Europe B	TV	Woman	undefined	Various	A1 HR	Conax	1853	6301	6302[eng]	6300	6301		2019-01-14	No	207001067
-11554.00	V	30000 5/6	Europe B	TV	CBS Reality	United Kingdom	Documentaries	OrangeSat Slovakia	Irdeto 2	1854	2301	2303[cze]	2364	2301		2019-01-14	No	207001069
-11554.00	V	30000 5/6	Europe B	TV	Viasat Explore	Sweden	Documentaries	Antik Sat|OrangeSat Slovakia	Irdeto 2	1855	3401	3402[eng]|3403[cze]	3466	3401		2019-01-14	No	207001071
-11554.00	V	30000 5/6	Europe B	TV	Viasat History	Sweden	History	Antik Sat|OrangeSat Slovakia	Irdeto 2	1856	4001	4003[cze]|4002[eng]	4063	4001		2019-01-14	No	207001073
-11554.00	V	30000 5/6	Europe B	TV	BBC First HD	United Kingdom	Entertainment	A HR	Conax	1857	6701	6721[eng]	6700	6701		2019-04-02	No	207001075
-11554.00	V	30000 5/6	Europe B	DATA	A1 HR OTA-Upgrade			A1 HR	Clear	1899			8100	8191		2019-01-15	Yes	207001077
-11595.25	H	30000 3/4	Europe B	TV	History Channel Eastern Europe	Poland	History	Max TV|Total TV	Nagravision 3|VideoGuard	33	2824	2568[eng]	519	2824		2019-02-25	No	211001001
-11595.25	H	30000 3/4	Europe B	TV	M1 Gold	Macedonia	Movies	Max TV	Nagravision 3	41	2833	2609	561	2833		2018-04-06	No	211001003
-11595.25	H	30000 3/4	Europe B	TV	AXN Central Europe	United Kingdom	Series	Max TV	Nagravision 3	64	2836	2612[eng]	564	2836		2017-04-21	No	211001005
-11595.25	H	30000 3/4	Europe B	TV	Arena 2 HD	Serbia	Sport	Max TV	Nagravision 3	80	974	2567[ser]	33	974		2017-04-21	No	211001007
-11595.25	H	30000 3/4	Europe B	TV	Sport Klub 1 HD	Serbia	Sport	Max TV	Nagravision 3	86	2825	2569[ser]	520	2825		2017-11-03	No	211001009
-11595.25	H	30000 3/4	Europe B	TV	Extreme Sports	The Netherlands	Sport	Max TV	Nagravision 3	93	2839	2615[eng]	567	2839		2017-04-21	No	211001011
-11595.25	H	30000 3/4	Europe B	TV	HRT 2 HD	Croatia	General	Max TV	Nagravision 3	100	2841	2617[cro]	569	2841	3381	2019-01-27	No	211001013
-11595.25	H	30000 3/4	Europe B	TV	Z1	Croatia	Regional	Max TV	Clear	103	2834	2610[cro]	562	2834		2017-04-21	Yes	211001015
-11595.25	H	30000 3/4	Europe B	TV	Croatian Music Channel	Croatia	Music	Max TV|Total TV	Conax|Nagravision 3|VideoGuard	120	2848	2592[cro]	543	2848		2017-06-18	No	211001017
-11595.25	H	30000 3/4	Europe B	TV	VH-1 Classic	United Kingdom	Music	Max TV	Nagravision 3	126	2851	2595[eng]	546	2851		2017-04-21	No	211001019
-11595.25	H	30000 3/4	Europe B	TV	Arena 6 HD	Serbia	Sport	Max TV	Nagravision 3	127	2850	2594[ser]	545	2850		2017-05-25	No	211001021
-11595.25	H	30000 3/4	Europe B	TV	Da Vinci Learning	United Kingdom	Documentaries	Max TV	Nagravision 3	129	2853	2597[cro]	548	2853		2018-10-01	No	211001023
-11595.25	H	30000 3/4	Europe B	TV	CNN International	U.S.A.	News	Max TV	Conax|Nagravision 3	140	2854	2598[eng]	549	2854		2017-04-23	No	211001025
-11595.25	H	30000 3/4	Europe B	TV	Fox Movies Eastern Europe	undefined	Movies	Max TV	Nagravision 3	152	2856	2600[eng]	551	2856		2017-04-21	No	211001027
-11595.25	H	30000 3/4	Europe B	TV	RTCG Sat	Montenegro	General	Max TV	Clear	155	2896	2640[ser]	592	2896		2019-11-28	Yes	211001029
-11595.25	H	30000 3/4	Europe B	TV	RTL Passion	Croatia	Series	Max TV	Nagravision 3	166	2858	2602[cro]	599	2858		2017-04-21	No	211001031
-11595.25	H	30000 3/4	Europe B	TV	RTL Crime (Croatia)	Croatia	Series	Max TV	Nagravision 3	192	2817	2561[cro]	512	2817		2017-04-21	No	211001033
-11595.25	H	30000 3/4	Europe B	TV	Vivid Touch	undefined	Porn	Max TV	Nagravision 3	193	2818	2562	513	2818		2020-02-29	No	211001035
-11595.25	H	30000 3/4	Europe B	TV	Private TV	undefined	Porn	Max TV	Nagravision 3	195	2820	2564	515	2820		2017-04-21	No	211001037
-11595.25	H	30000 3/4	Europe B	TV	Fox Adria	undefined	Entertainment	Max TV	Conax|Nagravision 3	197	2880	2624[eng]	537	2880		2017-04-23	No	211001039
-11595.25	H	30000 3/4	Europe B	TV	HRT 1	Croatia	General	Max TV	Nagravision 3	295	2838	2614[cro]	566	2838	3894	2017-04-21	No	211001041
-11595.25	H	30000 3/4	Europe B	R	Radio CG.			Max TV	Clear	156		2641[ser]	593	2641		2019-11-27	Yes	211001043
-11595.25	H	30000 3/4	Europe B	R	Otvoreni.			Max TV	Clear	201		2572	523	2572		2017-04-21	Yes	211001045
-11595.25	H	30000 3/4	Europe B	R	Narodni.			Max TV	Clear	202		2573	524	2573		2017-04-21	Yes	211001047
-11595.25	H	30000 3/4	Europe B	R	Antena Zagreb.			Max TV	Clear	203		2574	525	2574		2017-04-21	Yes	211001049
-11595.25	H	30000 3/4	Europe B	R	R.Marija.			Max TV	Clear	211		2582	533	2582		2017-04-21	Yes	211001051
-11595.25	H	30000 3/4	Europe B	R	R. Mediaservis			Max TV	Clear	218		2586	570	2586		2017-04-21	Yes	211001053
-11595.25	H	30000 3/4	Europe B	R	Enter ZG.			Max TV	Clear	219		2587	571	2587		2017-04-21	Yes	211001055
-11595.25	V	30000 5/6	Europe B	TV	Body In Balance	Germany	Lifestyle	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	901	1101	1102[eng]|1103[slk]	1100	1101		2020-02-25	No	215001001
-11595.25	V	30000 5/6	Europe B	TV	RiC International HD	Germany	Various	Antik Sat	Conax	902	1201	1202[eng]|1203[ger]	1200	1201		2020-02-28	No	215001003
-11595.25	V	30000 5/6	Europe B	TV	Evil Angel HD	undefined	Porn	Antik Sat	Conax	903	1301	1302[eng]	1300	1301		2020-02-28	No	215001005
-11595.25	V	30000 5/6	Europe B	TV	Box Hits	United Kingdom	Music	Antik Sat	Conax	904	1401	1402[eng]	1400	1401		2020-02-25	No	215001007
-11595.25	V	30000 5/6	Europe B	TV	Box Africa	undefined	Entertainment	Antik Sat	Conax	905	1501	1502[eng]	1500	1501		2020-02-25	No	215001009
-11595.25	V	30000 5/6	Europe B	TV	Magic (UK)	United Kingdom	Music	Antik Sat	Conax	906	1601	1602[eng]	1600	1601		2020-02-26	No	215001011
-11595.25	V	30000 5/6	Europe B	TV	Kiss TV (UK)	United Kingdom	Music	Antik Sat	Conax	907	1701	1702[eng]	1700	1701		2020-02-26	No	215001013
-11595.25	V	30000 5/6	Europe B	TV	Kerrang !	United Kingdom	Music	Antik Sat	Conax	908	1801	1802[eng]	1800	1801		2020-02-26	No	215001015
-11595.25	V	30000 5/6	Europe B	TV	Ginx	undefined	Children	Antik Sat	Conax	909	1901	1902[eng]	1900	1901		2020-02-25	No	215001017
-11595.25	V	30000 5/6	Europe B	TV	Wness TV	Bulgaria	Lifestyle	Antik Sat	Conax	910	2001	2002[eng]|2003[bul]|2004[ukr]	44	2001		2020-02-25	No	215001019
-11595.25	V	30000 5/6	Europe B	TV	Fashion TV	France	Lifestyle	Antik Sat	Clear	952	3501	3502[eng]	3500	3501		2019-04-05	Yes	215001021
-11595.25	V	30000 5/6	Europe B	DATA	A1 BG SmardTV OTA			A1 BG	Clear	998			8104	8191		2018-11-28	Yes	215001023
-11595.25	V	30000 5/6	Europe B	DATA	A1 BG OTA-Upgrade			A1 BG	Clear	999						2019-10-09	Yes	215001025
-11636.00	V	30000 2/3	Europe A	TV	HRT 1 HD	Croatia	General	OIV	Clear|Viaccess 2.5|Viaccess 3.0	3401	111	112[cro]	110	111	115	2019-10-20	Yes	219001003
-11636.00	V	30000 2/3	Europe A	TV	HRT 2 HD	Croatia	General	OIV	Clear|Viaccess 2.5|Viaccess 3.0	3402	121	122[cro]	120	121	125	2019-12-15	Yes	219001005
-11636.00	V	30000 2/3	Europe A	TV	HRT 3 HD	Croatia	General	OIV	Viaccess 2.5|Viaccess 3.0	3403	131	132[cro]	130	131	135	2019-08-31	No	219001007
-11636.00	V	30000 2/3	Europe A	TV	HRT 4 HD	Croatia	General	OIV	Clear	3404	141	142[cro]	140	141	145	2019-08-31	Yes	219001009
-11636.00	V	30000 2/3	Europe A	TV	HRT International	Croatia	General	OIV	Clear	3405	151	152[cro]	150	151		2020-01-09	Yes	219001011
-11636.00	V	30000 2/3	Europe A	TV	SLO1 HD	Slovenia	General	RTV SLOVENIJA	Clear|Viaccess 3.0	3431	411	412[slo]	410	411	415	2019-12-15	Yes	219001013
-11636.00	V	30000 2/3	Europe A	TV	SLO2 HD	Slovenia	General	RTV SLOVENIJA	Clear|Viaccess 3.0	3432	421	422[slo]	420	421	415	2019-12-29	Yes	219001015
-11636.00	V	30000 2/3	Europe A	TV	SLO3 HD	Slovenia	General	RTV SLOVENIJA	Clear|Viaccess 3.0	3433	431	432[slo]	430	431	415	2019-12-15	Yes	219001017
-11636.00	V	30000 2/3	Europe A	R	HRT-HR1			OIV	Clear	3411		212[cro]	210	212		2019-08-31	Yes	219001019
-11636.00	V	30000 2/3	Europe A	R	HRT-HR2			OIV	Clear	3412		222[cro]	220	222		2019-08-31	Yes	219001021
-11636.00	V	30000 2/3	Europe A	R	HRT-HR3			OIV	Clear	3413		232[cro]	230	232		2019-08-31	Yes	219001023
-11636.00	V	30000 2/3	Europe A	R	VOICE OF CRO			OIV	Clear	3414		242[cro]	240	242		2019-08-31	Yes	219001025
-11636.00	V	30000 2/3	Europe A	R	HKR			OIV	Clear	3416		262[cro]	260	262		2019-10-18	Yes	219001027
-11636.00	V	30000 2/3	Europe A	R	RASLO PRVI			RTV SLOVENIJA	Clear	3434		452[slo]	450	452		2019-12-08	Yes	219001029
-11636.00	V	30000 2/3	Europe A	R	RASLO VAL 202			RTV SLOVENIJA	Clear	3435		462[slo]	460	462		2019-12-08	Yes	219001031
-11636.00	V	30000 2/3	Europe A	R	RASLO ARS			RTV SLOVENIJA	Clear	3436		472[slo]	470	472		2019-12-08	Yes	219001033
-11636.00	V	30000 2/3	Europe A	R	RASLO RADIO SI			RTV SLOVENIJA	Clear	3437		492[slo]	490	492		2019-12-08	Yes	219001035
-11637.00	H	30000 5/6	Europe B	TV	VH-1 Classic	United Kingdom	Music	A1 HR	Conax	1901	1101	1102[eng]	1110	1101		2019-09-03	No	223001001
-11637.00	H	30000 5/6	Europe B	TV	History	United Kingdom	Documentaries	Antik Sat|OrangeSat Slovakia	Irdeto 2	1902	1201	1202[cze]|1203[hun]|1204[eng]	1200	1201		2019-06-04	No	223001003
-11637.00	H	30000 5/6	Europe B	TV	Nick Jr Bulgaria	Bulgaria	Children	A1 Bulgaria	Conax|Irdeto 2	1903	1301	1302[eng]	1300	1301		2019-06-04	No	223001005
-11637.00	H	30000 5/6	Europe B	TV	Test X			Antik Sat	Conax	1904	1401	1402[eng]	1400	1401		2019-12-21	No	223001007
-11637.00	H	30000 5/6	Europe B	TV	PlanetSport 4 HD	Croatia	Sport	Direct2Home	Conax	1905	1501	1502[cro]	1500	1501		2018-09-17	No	223001009
-11637.00	H	30000 5/6	Europe B	TV	TravelXP HD	undefined	Documentaries	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1906	1601	1602[eng]	1600	1601		2019-03-02	No	223001011
-11637.00	H	30000 5/6	Europe B	TV	Cartoon Network Eastern Europe	United Kingdom	Children	Antik Sat	Conax|Irdeto 2	1907	1701	1702[eng]|1703[bul]|1704[rus]	1700	1701		2019-06-04	No	223001013
-11637.00	H	30000 5/6	Europe B	TV	Disney Channel Romania	Romania	Children	Antik Sat	Conax	1908	1801	1802[rom]|1803[eng]	1800	1801		2017-01-18	No	223001015
-11637.00	H	30000 5/6	Europe B	TV	History	United Kingdom	Documentaries	Direct2Home	Conax	1909	1201	1204[eng]	1261	1201		2016-09-27	No	223001017
-11637.00	H	30000 5/6	Europe B	TV	Disney Channel Bulgaria	Bulgaria	Children	Antik Sat	Conax	1910	2001	2002[bul]|2003[eng]	2000	2001		2017-01-18	No	223001019
-11637.00	H	30000 5/6	Europe B	TV	havoc			Antik Sat	Conax	1912	3901	3902[eng]	3900	3901		2019-03-02	No	223001021
-11637.00	H	30000 5/6	Europe B	TV	AXN Spin Romania	Romania	Entertainment	Antik Sat|Total TV	Conax|VideoGuard	1914	2401	2402[aac][rom]|2403[aac][eng]	2400	2401		2017-02-19	No	223001023
-11637.00	H	30000 5/6	Europe B	TV	Eurobet 5OT11			A1 BG	Conax	1915	2501	2502[bul]	2500	2501		2019-03-02	No	223001025
-11637.00	H	30000 5/6	Europe B	TV	Barely Legal	undefined	Porn	Antik Sat	Conax	1917	2701	2702[eng]	2700	2701		2019-03-02	No	223001027
-11637.00	H	30000 5/6	Europe B	TV	SportShans	Bulgaria	Sport	A1 Bulgaria	Conax	1918	2801	2802[bul]	2800	2801		2017-07-14	No	223001029
-11637.00	H	30000 5/6	Europe B	TV	Da Vinci Learning	United Kingdom	Documentaries	Direct2Home	Conax	1919	4301	4302[mul]	4360	4301		2017-09-15	No	223001031
-11637.00	H	30000 5/6	Europe B	TV	Travel Channel	United Kingdom	Travel	Direct2Home	Conax	1920	4501	4504[eng]	4560	4501		2017-09-15	No	223001033
-11637.00	H	30000 5/6	Europe B	TV	History Channel			Antik Sat	Conax	1921	1201	1204[eng]	1263	1201		2017-11-14	No	223001035
-11637.00	H	30000 5/6	Europe B	TV	PlanetSport 5 HD	Croatia	Sport	Direct2Home	Conax	1922	3201	3202[cro]	3200	3201		2018-09-18	No	223001037
-11637.00	H	30000 5/6	Europe B	TV	In Life	Bulgaria	Lifestyle	A1 BG	Clear	1923	3301	3302[bul]	3300	3301		2019-02-06	Yes	223001039
-11637.00	H	30000 5/6	Europe B	TV	HBO HD			Direct2Home	Conax|Nagravision 3	1924	3401	3402[eng]|3421[eng]|3404[slo]|3405[mac]|3406[ser]	3400	3401		2017-05-29	No	223001041
-11637.00	H	30000 5/6	Europe B	TV	HBO 2 HD			Direct2Home	Conax|Nagravision 3	1925	3501	3502[eng]|3521[eng]|3504[slo]|3505[mac]|3506[ser]	3500	3501		2017-05-29	No	223001043
-11637.00	H	30000 5/6	Europe B	TV	Cinemax HD			Total TV	Conax|Nagravision 3|VideoGuard	1926	3601	3602[cro]|3605[slo]|3606[ser]	3660	3601		2019-07-07	No	223001045
-11637.00	H	30000 5/6	Europe B	TV	Cinemax 2 HD			Total TV	Conax|Nagravision 3|VideoGuard	1927	3701	3702[cro]|3705[slo]|3706[ser]	3700	3701		2019-07-07	No	223001047
-11637.00	H	30000 5/6	Europe B	TV	Cinemax 2 HD			Antik Sat|OrangeSat Slovakia	Conax	1938	3701	3704[cze]	3761	3701		2019-06-04	No	223001049
-11637.00	H	30000 5/6	Europe B	TV	HBO 3 HD Central Europe	U.S.A.	Movies	Direct2Home|Total TV	Conax|Nagravision 3|VideoGuard	1942	5201	5202[cro]|5203[slo]|5204[ser]|5206[mac]|5221[eng]	5200	5201		2018-04-13	No	223001051
-11637.00	H	30000 5/6	Europe B	TV	Travel Channel	United Kingdom	Travel	A1 Bulgaria	Conax	1944	4501	4502[bul]|4504[eng]	4500	4501		2016-07-14	No	223001053
-11637.00	H	30000 5/6	Europe B	TV	Cinemax HD Eastern Europe	Poland	Movies	Antik Sat|OrangeSat Slovakia	Conax|Irdeto 2	1946	3601	3604[cze]	3662	3601		2019-03-02	No	223001055
-11637.00	H	30000 5/6	Europe B	TV	Cinemax 2 HD	Poland	Movies	Antik Sat|OrangeSat Slovakia	Irdeto 2	1948	3701	3704[cze]	3762	3701		2019-03-02	No	223001057
-11637.00	H	30000 5/6	Europe B	TV	Cinemax HD Eastern Europe	Poland	Movies	Antik Sat|OrangeSat Slovakia	Irdeto 2	1949	3601	3604[cze]	3663	3601		2019-03-02	No	223001059
-11678.25	H	30000 3/4	Europe B	TV	Vivid TV	The Netherlands	Porn	Max TV	Nagravision 3	34	2819	2563	514	2819		2019-02-23	No	227001001
-11678.25	H	30000 3/4	Europe B	TV	Test T.			Max TV	Nagravision 3	42	2820	2564	515	2820		2020-03-16	No	227001003
-11678.25	H	30000 3/4	Europe B	TV	Woman	undefined	Various	Max TV	Conax|Nagravision 3	43	2832	2576	527	2832		2018-02-01	No	227001005
-11678.25	H	30000 3/4	Europe B	TV	History 2	undefined	History	Max TV|Total TV	Nagravision 3|VideoGuard	45	2825	2569	521	2825		2019-08-07	No	227001007
-11678.25	H	30000 3/4	Europe B	TV	Pickbox TV	undefined	Entertainment	Max TV	Nagravision 3	56	2912	2656	32	2912		2018-02-10	No	227001009
-11678.25	H	30000 3/4	Europe B	TV	Nova 24 TV	Slovenia	News	Max TV	Clear	87	2822	2566[slo]	33	2822		2018-02-26	Yes	227001011
-11678.25	H	30000 3/4	Europe B	TV	Viasat Nature CEE	Sweden	Documentaries	Max TV	Nagravision 3	89	2836	2580[eng]	531	2836		2019-07-18	No	227001013
-11678.25	H	30000 3/4	Europe B	TV	Sport Klub Golf	Serbia	Sport	Max TV	Nagravision 3	90	2824	2568[cro]	516	2824		2015-11-22	No	227001015
-11678.25	H	30000 3/4	Europe B	TV	Vivid Red HD	Poland	Porn	Max TV	Nagravision 3	91	2827	2571[eng]	520	2827		2020-03-04	No	227001017
-11678.25	H	30000 3/4	Europe B	TV	24Kitchen	Bulgaria	Cooking	Max TV	Nagravision 3	102	6422	6421[bul]	528	6422		2018-11-27	No	227001019
-11678.25	H	30000 3/4	Europe B	TV	MTV Dance	United Kingdom	Music	Max TV	Nagravision 3	122	2829	2573[eng]	522	2829		2015-11-22	No	227001021
-11678.25	H	30000 3/4	Europe B	TV	MTV Hits	United Kingdom	Music	Max TV	Nagravision 3	123	2830	2574[eng]	523	2830		2015-11-22	No	227001023
-11678.25	H	30000 3/4	Europe B	TV	Djazz.tv	France	Music	Max TV	Nagravision 3	124	2831	2575[eng]	524	2831		2015-11-22	No	227001025
-11678.25	H	30000 3/4	Europe B	TV	Posavina TV	Bosnia and Herzegovina	General	Max TV	Clear	132	2817	2561[bos]	512	2817		2018-10-17	Yes	227001027
-11678.25	H	30000 3/4	Europe B	TV	Arena 5 HD	Serbia	Sport	Max TV	Nagravision 3	190	2818	2562[ser]	513	2818		2015-11-22	No	227001029
-11678.25	H	30000 3/4	Europe B	TV	Blue Hustler	United Kingdom	Erotic	Max TV	Nagravision 3	191	2860	2604	555	2860		2015-11-22	No	227001031
-11678.25	H	30000 3/4	Europe B	TV	HRT 3	Croatia	General	Max TV|Total TV	Nagravision 3|VideoGuard	198	35	36[cro]	543	35		2017-06-18	No	227001033
-11678.25	H	30000 3/4	Europe B	TV	Laudato TV	Croatia	Religious	Max TV	Clear	215	2840	2584[cro]	533	2840		2019-09-14	Yes	227001035
-11678.25	H	30000 3/4	Europe B	TV	Klasik TV	Croatia	Various	Max TV	Conax|Nagravision 3	216	2839	2583[cro]	534	2839		2018-04-13	No	227001037
-11678.25	H	30000 3/4	Europe B	TV	RTL Hrvatska	Croatia	General	Max TV	Conax|Nagravision 3	291	2844	2588[cro]	539	2844	3356	2015-12-11	No	227001039
-11678.25	H	30000 3/4	Europe B	TV	Nova TV Croatia	Croatia	General	Max TV	Conax|Nagravision 3	292	2845	2589[cro]	540	2845	3357	2015-11-22	No	227001041
-11678.25	H	30000 3/4	Europe B	TV	RTL 2 Croatia	Croatia	General	Max TV	Conax|Nagravision 3	293	2846	2590[cro]	541	2846		2015-11-22	No	227001043
-11678.25	H	30000 3/4	Europe B	TV	TV Doma	Slovakia	Series	Max TV|Total TV	Conax|Nagravision 3|VideoGuard	294	2847	2591[cro]	542	2847		2017-06-18	No	227001045
-11678.25	H	30000 3/4	Europe B	TV	M1.			Max TV	Nagravision 3	296	2842	2586[eng]	537	2842		2019-04-24	No	227001047
-11678.25	H	30000 3/4	Europe B	TV	Mini TV	Croatia	Children	Max TV|Total TV	Conax|Nagravision 3|VideoGuard	301	2828	2572[cro]	769	2828		2017-06-18	No	227001049
-11678.25	H	30000 3/4	Europe B	TV	Arena 1 HD	Serbia	Sport	Max TV	Nagravision 3	412	2843	2587[cro]|3611[eng]	538	2843		2015-11-22	No	227001051
-11678.25	H	30000 3/4	Europe B	TV	SPTV	Croatia	Various	Max TV	Clear	430	2835	2579[cro]	530	2835		2020-03-16	Yes	227001053
-11678.25	H	30000 3/4	Europe B	DATA					Clear	151			750	8191		2018-06-16	Yes	227001055
-12543.00	V	19970 3/4	Europe B	TV	KTV Kohavision HD	Albania	General	GMDS	Conax|Irdeto 2	1	257	258[alb]	256	257		2018-02-09	No	239001003
-12543.00	V	19970 3/4	Europe B	TV	Klan Kosova HD	Kosovo	General	GMDS	Irdeto 2	2	300	301[alb]	303	300		2018-02-09	No	239001005
-12543.00	V	19970 3/4	Europe B	TV	RTV 21 HD	Kosovo	General	GMDS	Conax|Irdeto 2	3	910	911[alb]	2048	910		2018-02-09	No	239001007
-12543.00	V	19970 3/4	Europe B	TV	TV Dukagjini	Albania	Various	GMDS	Conax|Irdeto 2	4	900	901[alb]	902	900		2020-03-07	No	239001009
-12543.00	V	19970 3/4	Europe B	TV	First Channel	Albania	Various	GMDS	Conax|Irdeto 2	6	920	921[alb]	922	920		2018-02-09	No	239001011
-12543.00	V	19970 3/4	Europe B	TV	Arta	Albania	Cultural		Conax|Irdeto 2	7	700	701[alb]	703	700		2018-02-09	No	239001013
-12543.00	V	19970 3/4	Europe B	TV	T7	Albania	Talk shows		Conax|Irdeto 2	8	611	631[alb]	181	611		2019-04-27	No	239001015
-12543.00	V	19970 3/4	Europe B	TV	Zico TV	Albania	Various		Clear	9	930	931[alb]	932	930		2017-12-18	Yes	239001017
-12543.00	V	19970 3/4	Europe B	TV	RTV 21 M	Albania	General	GMDS	Clear	10	513	514[alb]	516	513		2019-03-02	Yes	239001019
-12543.00	V	19970 3/4	Europe B	R	Radio 21 Kosovo			GMDS	Clear	11		771[alb]	412	771		2018-04-21	Yes	239001021
-12543.00	V	19970 3/4	Europe B	R	Radio Dukagjini			GMDS	Clear	12		259[alb]	400	259		2019-03-02	Yes	239001023
-12564.00	V	3617 3/4	Europe B	TV	Kanal D Romania	Romania	General	DoganMedia	BISS	1	100	110[rom]	90	100		2015-08-16	No	247001001
-12569.00	H	3703 7/8	Europe A	TV	SIC International	Portugal	General	SIC INTERNACIONAL	BISS	1	308	256[por]	32	308		2019-03-07	No	251001001
-12593.00	V	2500 2/3	Europe B	TV	DM Sat	Serbia	General	DM-SAT	Clear	1	512	768[ser]	256	512	1024	2017-12-26	Yes	259001003
-12605.00	H	30000 3/4	Europe B	TV	M1 HD	Hungary	General	OrangeSat Slovakia	Irdeto 2	4501	1101	1102[hun]	1100	1101	1131	2020-01-22	No	267001001
-12605.00	H	30000 3/4	Europe B	TV	M2 HD	Hungary	General	OrangeSat Slovakia	Irdeto 2	4502	1201	1202[hun]	1200	1201	1231	2020-01-22	No	267001003
-12605.00	H	30000 3/4	Europe B	IMG	M4 Sport HD	Hungary	Sport	OrangeSat Slovakia	Irdeto 2	4503	1301		1300	1301	1331	2020-01-22	No	267001005
-12605.00	H	30000 3/4	Europe B	TV	Duna World HD	Hungary	General	OrangeSat Slovakia	Irdeto 2	4504	1401	1402[hun]	1400	1401	1431	2020-01-22	No	267001007
-12605.00	H	30000 3/4	Europe B	TV	TV 2 (Hungary)	Hungary	General	OrangeSat Slovakia	Irdeto 2	4505	1501	1502[hun]|1503[eng]	1500	1501	1531	2020-01-22	No	267001009
-12605.00	H	30000 3/4	Europe B	TV	TV 4	Poland	General	OrangeSat Slovakia	Irdeto 2	4506	1601	1602[hun]	1600	1601		2020-01-22	No	267001011
-12605.00	H	30000 3/4	Europe B	TV	Film +	Hungary	Movies	OrangeSat Slovakia	Irdeto 2	4507	1701	1702[hun]	1700	1701		2020-01-22	No	267001013
-12605.00	H	30000 3/4	Europe B	TV	Cool TV	Hungary	Comedy	OrangeSat Slovakia	Irdeto 2	4508	1801	1802[hun]	1800	1801		2020-01-22	No	267001015
-12605.00	H	30000 3/4	Europe B	TV	RTL 2 Hungary	Hungary	Entertainment	OrangeSat Slovakia	Irdeto 2	4509	1901	1902[hun]	1900	1901		2020-01-22	No	267001017
-12605.00	H	30000 3/4	Europe B	TV	RTL Klub	Hungary	General	OrangeSat Slovakia	Irdeto 2	4510	2001	2002[hun]	2000	2001	2031	2020-01-22	No	267001019
-12605.00	H	30000 3/4	Europe B	TV	RTL+	Hungary	General	OrangeSat Slovakia	Irdeto 2	4511	2101	2102[hun]	2100	2101		2020-01-22	No	267001021
-12605.00	H	30000 3/4	Europe B	TV	Sorozat +	Hungary	Various	OrangeSat Slovakia	Irdeto 2	4512	2201	2202[hun]	2200	2201		2020-01-22	No	267001023
-12605.00	H	30000 3/4	Europe B	TV	Magyar Slager TV	Hungary	Various	OrangeSat Slovakia	Irdeto 2	4513	2301	2302[hun]	2300	2301		2020-01-22	No	267001025
-12605.00	H	30000 3/4	Europe B	TV	Kino Barrandov	Czech republic	Movies	OrangeSat Slovakia	Irdeto 2	4514	2401	2402[cze]|2403[cze]	2400	2401		2020-01-22	No	267001027
-12605.00	H	30000 3/4	Europe B	TV	Barrandov Krimi	Czech republic	Movies	OrangeSat Slovakia	Irdeto 2	4515	2501	2502[cze]|2503[cze]	2500	2501		2020-01-22	No	267001029
-12605.00	H	30000 3/4	Europe B	TV	Extreme Sports	The Netherlands	Sport	OrangeSat Slovakia	Irdeto 2	4517	2701	2702[eng]|2703[hun]	2700	2701		2020-01-22	No	267001031
-12605.00	H	30000 3/4	Europe B	TV	Orange Sport 3 Slovakia	Slovakia	Sport	OrangeSat Slovakia	Irdeto 2	4518	2801	2802[slk]|2803[mul]	2800	2801		2020-01-22	No	267001033
-12605.00	H	30000 3/4	Europe B	TV	Orange Sport 4 Slovakia	Slovakia	Sport	OrangeSat Slovakia	Irdeto 2	4519	2901	2902[slk]|2903[mul]	2900	2901		2020-01-22	No	267001035
-12605.00	H	30000 3/4	Europe B	TV	Orange Info (Slovakia)	Slovakia	Presentations	Orange TV	Clear	4520	3001	3002[slk]	3000	3001		2020-01-22	Yes	267001037
-12605.00	H	30000 3/4	Europe B	TV	Orange Sport 2 Slovakia	Slovakia	Sport	OrangeSat Slovakia	Irdeto 2	4522	3201	3202[slk]|3203[mul]	3200	3201		2020-01-22	No	267001039
-12605.00	H	30000 3/4	Europe B	TV	Trojka	Slovakia	General	OrangeSat Slovakia	Conax|Irdeto 2	4523	3301	3302[slk]	3300	3301		2020-01-22	No	267001041
-12605.00	H	30000 3/4	Europe B	TV	Lala TV	Czech republic	Children	Orange TV	Irdeto 2	4524	3401	3402[slk]|3403[cze]	3400	3401		2020-03-07	No	267001043
-12605.00	H	30000 3/4	Europe B	IMG	Up Network	Czech republic	Technology	Orange TV	Irdeto 2	4525	3501		3500	3501		2020-03-07	No	267001045
-12639.00	H	10833 3/5	Europe B	TV	RTSH 1 HD	Albania	General	RTSH	Clear	110	111	112[alb]	110	111		2019-01-27	Yes	287001003
-12639.00	H	10833 3/5	Europe B	TV	RTSH 3	Albania	General	RTSH	Clear	120	121	122[alb]	120	121		2019-01-27	Yes	287001005
-12639.00	H	10833 3/5	Europe B	TV	RTSH Plus	Albania	Various	RTSH	Clear	130	131	132[alb]	130	131		2018-02-10	Yes	287001007
-12639.00	H	10833 3/5	Europe B	TV	RTSH 24	Albania	News	RTSH	Clear	140	141	142[alb]	140	141		2019-01-27	Yes	287001009
-12639.00	H	10833 3/5	Europe B	TV	RTSH Shqip	Albania	General	RTSH	Clear	150	151	152[alb]	150	151		2018-02-10	Yes	287001011
-12639.00	H	10833 3/5	Europe B	TV	RTSH Muzike	Albania	Music	RTSH	Clear	160	161	162[alb]	160	161		2018-02-10	Yes	287001013
-12639.00	H	10833 3/5	Europe B	R	Radio Tirana 1			RTSH	Clear	170		172[alb]	170	172		2018-02-10	Yes	287001015
-12639.00	H	10833 3/5	Europe B	R	Radio Tirana 2			RTSH	Clear	180		182[eng]	180	182		2018-02-10	Yes	287001017
-12639.00	H	10833 3/5	Europe B	R	Radio Tirana Internacional			RTSH	Clear	190		192[eng]	190	192		2018-02-10	Yes	287001019
-12639.00	H	10833 3/5	Europe B	R	Radio Tirana Klasik			RTSH	Clear	200		202[alb]	200	202		2018-02-10	Yes	287001021
-12639.00	H	10833 3/5	Europe B	R	Radio Tirana Jazz			RTSH	Clear	220		222[alb]	220	222		2019-12-14	Yes	287001023
-12643.00	V	27500 2/3	Europe B	TV	Prima TV	Romania	General	Freesat Romania	Conax	1	100	110[rom]	7001	100		2019-10-21	No	291001001
-12643.00	V	27500 2/3	Europe B	TV	Kanal D Romania	Romania	General	Freesat Romania	Conax	2	200	210[rom]	7002	200		2019-10-21	No	291001003
-12643.00	V	27500 2/3	Europe B	TV	National TV	Romania	General	Freesat Romania	Conax	3	300	310[rom]	7003	300		2019-10-21	No	291001005
-12643.00	V	27500 2/3	Europe B	TV	Boomerang	United Kingdom	Children	Freesat Romania	Conax	4	400	410[rom]	7004	400		2019-10-21	No	291001007
-12643.00	V	27500 2/3	Europe B	TV	Pro TV	Romania	General	Freesat Romania|Orange Romania	Conax	5	500	510[rom]	7005	500		2019-10-21	No	291001009
-12643.00	V	27500 2/3	Europe B	TV	Pro X	Romania	Sport	ProTV	Conax	6	600	610[rom]	7006	600		2019-11-24	No	291001011
-12643.00	V	27500 2/3	Europe B	TV	Pro 2	Romania	General	ProTV	Conax	7	700	710[rom]	7007	700		2019-11-24	No	291001013
-12643.00	V	27500 2/3	Europe B	TV	Pro Cinema	Romania	Movies	Freesat Romania|Orange Romania	Conax	8	800	810[rom]	7008	800		2019-10-21	No	291001015
-12643.00	V	27500 2/3	Europe B	TV	TNT Bulgaria & Romania	Romania	Movies	Freesat Romania	Conax	9	900	910[eng]	7009	900		2019-10-21	No	291001017
-12643.00	V	27500 2/3	Europe B	TV	Romania TV	Romania	General	Freesat Romania	Conax	10	1000	1010[rom]	7010	1000		2019-10-21	No	291001019
-12643.00	V	27500 2/3	Europe B	TV	Digi 24	Romania	News		Clear	11	1100	1110[rom]	7014	1100		2019-10-21	Yes	291001021
-12643.00	V	27500 2/3	Europe B	TV	Etno TV	Romania	Music		Clear	12	1200	1210[rom]	7011	1200		2020-02-19	Yes	291001023
-12643.00	V	27500 2/3	Europe B	TV	TVR Cluj	Romania	Regional	SRTV	Clear	21	2100	2110[rom]	7021	2100	2118	2019-10-21	Yes	291001025
-12643.00	V	27500 2/3	Europe B	TV	TVR Craiova	Romania	Regional	SRTV	Clear	22	2200	2210[rom]	7022	2200	2218	2019-10-21	Yes	291001027
-12643.00	V	27500 2/3	Europe B	TV	TVR Iasi	Romania	Regional	SRTV	Clear	23	2300	2310[rom]	7023	2300	2318	2019-10-21	Yes	291001029
-12643.00	V	27500 2/3	Europe B	TV	TVR Timisoara	Romania	Regional	SRTV	Clear	24	2400	2410[rom]	7024	2400	2418	2019-10-21	Yes	291001031
-12643.00	V	27500 2/3	Europe B	TV	TVR Tirgu Mures	Romania	Regional	SRTV	Clear	25	2500	2510[rom]	7025	2500	2518	2019-10-21	Yes	291001033
-12643.00	V	27500 2/3	Europe B	TV	SRTV Feed HD				BISS	200	512	4112[eng]|4128[eng]	7200	512		2019-12-29	No	291001035
-12643.00	V	27500 2/3	Europe B	R	Radio Trinitas				Clear	101		1001[rom]	8001	1001		2019-10-21	Yes	291001037
-12643.00	V	27500 2/3	Europe B	R	Radio Reintregirea				Clear	102		1002[rom]	8002	1002		2019-10-21	Yes	291001039
-12653.50	H	11111 2/3	Europe B	TV	Unire TV	Italy	Racing		PowerVu	1	110	100[ita]|102	5001	110		2012-12-30	No	295001001
-12653.50	H	11111 2/3	Europe B	TV	Unire 2	Italy	Racing		PowerVu	2	210	200[ita]|202	5002	210		2012-12-30	No	295001003
-12653.50	H	11111 2/3	Europe B	TV	Unire Blu	Italy	Racing		PowerVu	10	310	300	5010	310		2017-07-15	No	295001005
-12660.00	H	2222 5/6	Europe B	TV	SNAI Live	Italy	Racing	SNAI LIVE	Clear	1	512	4112	256	512		2018-01-21	Yes	303001001
-12660.00	H	2222 5/6	Europe B	IMG	SNAI Virtuali Mosaic	Italy	Racing		Clear	2	513		257	513		2019-12-02	Yes	303001003
-12676.00	H	2667 3/4	Europe B	TV	TEST 1			Service Provider	BISS	1	308	256[eng]	32	308		2019-10-25	No	307001003
-12680.50	H	334 1/2	Europe B	R	JOE FM BU			BNT Uplink	Clear	17627		64[ned]	1015	8191		2015-05-11	Yes	315001001
-12694.00	H	2220 5/6	Europe B	TV	SNAI Quad Race	Italy	Racing	TIP	Clear	1	512	4112[ita]	256	768		2020-02-09	Yes	319001001
-12699.00	H	9880 2/3	Europe B	TV	SNAI Virtuali 2	Italy	Racing		Clear	5	510	500|502	5005	510		2019-07-07	Yes	323001001
-12699.00	H	9880 2/3	Europe B	TV	SNAI TV  Virtuali 1				PowerVu	7	410	400	5007	410		2019-07-07	No	323001003
-12699.00	H	9880 2/3	Europe B	TV	SNAI Virtuali 3	Italy	Racing		Clear	55	810	800	5055	810		2019-07-07	Yes	323001005
-12699.00	H	9880 2/3	Europe B	TV	SNAI Virtuali 1	Italy	Racing		Clear	57	910	901[ita]	5057	910		2019-07-07	Yes	323001007
-12699.00	H	9880 2/3	Europe B	TV	SNAI TV Audio Unico				PowerVu	77	410	600|400	5077	410		2019-07-07	No	323001009
-12699.00	H	9880 2/3	Europe B	TV	CH 100 - TEST				Clear	100	710	700	5100	710		2020-01-23	Yes	323001011
-12717.00	H	7500 3/4	Europe B	TV	National TV	Romania	General		BISS	10	257	258[rom]	256	257		2018-08-29	No	327001003
-12717.00	H	7500 3/4	Europe B	TV	N 24 Plus	Romania	News		BISS	22	513	514[rom]	512	513		2018-08-29	No	327001005
-12717.00	H	7500 3/4	Europe B	TV	Favorit TV	Romania	General		Clear	32	772	773[rom]	768	772		2018-08-29	Yes	327001007
-12717.00	H	7500 3/4	Europe B	TV	Alfa Omega TV	Romania	Regional		Clear	88	802	803[rom]	800	802		2018-08-29	Yes	327001009
-12717.00	H	7500 3/4	Europe B	R	National FM				Clear	15		516[rom]	310	516		2019-03-02	Yes	327001011
-12717.00	H	7500 3/4	Europe B	R	RFI Romania				Clear	16		515	662	515		2019-03-02	Yes	327001013
-12717.00	H	7500 3/4	Europe B	R	Favorit FM			ABC Plus Media	Clear	23		530[rom]	528	530		2018-08-29	Yes	327001015
-12717.00	H	7500 3/4	Europe B	DATA	National FMx				Clear	11			272	259		2019-01-14	Yes	327001017
-12737.00	H	2255 3/4	Europe B	TV	Realitatea Plus	Romania	News	Scopus Network Technologies	Clear	900	901	902[rom]	900	901		2020-01-04	Yes	335001001
+10723.00	V	30000 2/3	Hungary	TV	Magyar TV 2	Węgry	Ogólne	T-Home	Conax	4	164	162[hun]|163[mul]	166	164	48	2017-02-14	No	35001001
+10723.00	V	30000 2/3	Hungary	TV	Spektrum Home	Węgry	Dokumenty	T-Home	Conax	5	159	157[hun]	161	159		2017-02-14	No	35001003
+10723.00	V	30000 2/3	Hungary	TV	TV Paprika	Węgry	Gotowanie	T-Home	Conax	6	154	152[hun]	156	154		2017-02-14	No	35001005
+10723.00	V	30000 2/3	Hungary	TV	Private TV	nieokreślony	Porno	T-Home	Conax	9	139	137[aac]	141	139		2017-02-14	No	35001007
+10723.00	V	30000 2/3	Hungary	TV	MTV Hungary	Węgry	Muzyka	T-Home	Conax	10	134	132[hun]	136	134		2017-02-14	No	35001009
+10723.00	V	30000 2/3	Hungary	TV	Magyar ATV	Węgry	Ogólne	T-Home	Conax	12	124	122[hun]	126	124	125	2019-07-03	No	35001011
+10723.00	V	30000 2/3	Hungary	TV	RTL 2 Hungary	Węgry	Rozrywka	T-Home	Conax	17	99	97[hun]|3102[eng]	101	99		2018-04-16	No	35001013
+10723.00	V	30000 2/3	Hungary	TV	RTL Gold	Węgry	Seriale	T-Home	Conax	18	94	92[hun]	96	94		2017-07-05	No	35001015
+10723.00	V	30000 2/3	Hungary	TV	Cool TV	Węgry	Komedia	T-Home	Conax	19	89	87[hun]|802[eng]	91	89		2018-04-16	No	35001017
+10723.00	V	30000 2/3	Hungary	TV	RTL+	Węgry	Ogólne	T-Home	Conax	20	84	82[hun]|602[eng]	86	84		2018-04-16	No	35001019
+10723.00	V	30000 2/3	Hungary	TV	Sorozat +	Węgry	Różne	T-Home	Conax	21	79	77[hun]|702[eng]	81	79		2018-04-16	No	35001021
+10723.00	V	30000 2/3	Hungary	TV	Film +	Węgry	Filmy	T-Home	Conax	22	74	72[hun]|902[eng]	76	74		2018-04-16	No	35001023
+10723.00	V	30000 2/3	Hungary	TV	Fishing & Hunting	Węgry	Dokumenty	T-Home	Conax	23	69	67[hun]	71	69		2018-01-09	No	35001025
+10723.00	V	30000 2/3	Hungary	TV	Life Network	nieokreślony	Ogólne	T-Home	Conax	28	44	42[hun]|140[eng]	46	44		2017-07-09	No	35001027
+10723.00	V	30000 2/3	Hungary	TV	Ozone Network	Węgry	Rozrywka	T-Home	Conax	29	39	37[hun]|143[eng]	41	39		2017-07-09	No	35001029
+10723.00	V	30000 2/3	Hungary	TV	Hir TV	Węgry	Informacje	T-Home	Conax	30	34	32[hun]	36	34	35	2017-02-14	No	35001031
+10723.00	V	30000 2/3	Hungary	TV	Eurosport 1	Francja	Sport	T-Home	Conax	1101	179	177[hun]	181	179	180	2017-02-14	No	35001033
+10723.00	V	30000 2/3	Hungary	TV	Dikh TV	Węgry	Rozrywka	T-Home	Conax	1102	201	210[aac][hun]	200	201		2019-10-16	No	35001035
+10723.00	V	30000 2/3	Hungary	TV	ATV Spirit	Węgry	Różne	T-Home	Conax	1108	801	810[aac][hun]|811[aac][mul]	800	801		2019-03-07	No	35001037
+10723.00	V	30000 2/3	Hungary	TV	Spiler TV	Węgry	Różne	T-Home	Conax	1111	129	102[hun]	131	129		2018-10-12	No	35001039
+10723.00	V	30000 2/3	Hungary	TV	4! Story TV	Węgry	Ogólne	T-Home	Conax	1114	114	112[hun]	116	114		2018-05-09	No	35001041
+10723.00	V	30000 2/3	Hungary	TV	TV4 Hungary	Węgry	Ogólne	T-Home	Conax	1116	104	103[hun]	33	104		2019-04-24	No	35001043
+10723.00	V	30000 2/3	Hungary	TV	Galaxy	nieokreślony	Muzyka	T-Home	Conax	1125	64	53[hun]	65	64		2018-05-19	No	35001045
+10723.00	V	30000 2/3	Hungary	TV					Conax	1128	44	42[hun]|140[eng]	38	44		2017-02-14	No	35001047
+10723.00	V	30000 2/3	Hungary	TV	Muzsika TV	Węgry	Muzyka	T-Home	Conax	1131	57	40[hun]	58	57		2017-02-14	No	35001049
+10759.00	V	30000 3/4	Hungary	TV	RTL Klub	Węgry	Ogólne	T-Home	Conax	1201	90	62[mul]|88[hun]	92	90	32	2019-02-07	No	39001001
+10759.00	V	30000 3/4	Hungary	TV	TV 2 (Hungary)	Węgry	Ogólne	T-Home	Conax	1202	75	60[mul]|73[hun]	77	75	48	2019-02-07	No	39001003
+10759.00	V	30000 3/4	Hungary	TV	Viasat 3	Węgry	Ogólne	T-Home	Conax	1203	70	68[hun]|69[eng]	72	70		2019-02-07	No	39001005
+10759.00	V	30000 3/4	Hungary	TV	Prime	Węgry	Różne	T-Home	Conax	1204	65	63[hun]	67	65		2019-02-07	No	39001007
+10759.00	V	30000 3/4	Hungary	TV	Nickelodeon Hungary	Węgry	Dzieci	T-Home	Conax	1205	55	53[hun]|54[eng]	57	55		2019-02-07	No	39001009
+10759.00	V	30000 3/4	Hungary	TV	Duna TV	Węgry	Ogólne	T-Home	Conax	1206	43	41[hun]|135[mul]	36	43	47	2019-02-07	No	39001011
+10759.00	V	30000 3/4	Hungary	TV	Hustler TV	Stany Zjednoczone	Porno	T-Home	Conax	1207	35	33[aac][eng]	37	35		2019-02-07	No	39001013
+10759.00	V	30000 3/4	Hungary	TV	Super TV 2	Węgry	Rozrywka	T-Home	Conax	1208	84	38[hun]	89	84		2019-02-07	No	39001015
+10759.00	V	30000 3/4	Hungary	TV	M1 - Magyar TV	Węgry	Ogólne	T-Home	Conax	1209	49	44[mul]|46[hun]	52	49	47	2019-02-07	No	39001017
+10759.00	V	30000 3/4	Hungary	TV	Penthouse	Wielka Brytania	Erotyka	T-Home	Conax	1210	50	45[aac][eng]	58	50		2019-02-07	No	39001019
+10759.00	V	30000 3/4	Hungary	TV	Humor +	Węgry	Komedia	T-Home	Conax	1211	301	302[hun]	80	301		2019-02-07	No	39001021
+10759.00	V	30000 3/4	Hungary	TV	Teszt V			T-Home	FTA	1212	481	482[aac]	40	481		2019-03-02	Yes	39001023
+10759.00	V	30000 3/4	Hungary	TV	Izaura TV	Węgry	Różne	T-Home	Conax	1213	701	702[hun]	101	701		2019-02-07	No	39001025
+10759.00	V	30000 3/4	Hungary	TV	Spektrum TV Hungary	Węgry	Ogólne	T-Home	Conax	1214	111	97[hun]	112	111		2019-02-07	No	39001027
+10759.00	V	30000 3/4	Hungary	TV	Viasat Explore	Szwecja	Dokumenty	T-Home	Conax	1215	115	102[hun]|113[eng]	117	115		2019-02-07	No	39001029
+10759.00	V	30000 3/4	Hungary	TV	Mediaset Italia	Włochy	Ogólne	T-Home	Conax	1216	104	103[ita]	105	104		2019-02-07	No	39001031
+10759.00	V	30000 3/4	Hungary	TV	Jim Jam	Czechy	Ogólne	T-Home	Conax	1217	126	121[hun]|124[eng]	128	126		2019-02-07	No	39001033
+10759.00	V	30000 3/4	Hungary	TV	Mozi+	Węgry	Ogólne	T-Home	Conax	1218	201	202[hun]	140	201		2019-02-07	No	39001035
+10759.00	V	30000 3/4	Hungary	TV	Discovery Channel	Wielka Brytania	Dokumenty	T-Home	Conax	1221	145	141[hun]|143[eng]	138	145		2019-02-07	No	39001037
+10759.00	V	30000 3/4	Hungary	TV	Duna World	Węgry	Ogólne	T-Home	Conax	1222	150	144[hun]|146	64	150	61	2019-02-07	No	39001039
+10759.00	V	30000 3/4	Hungary	TV	ORF 1	Austria	Ogólne	T-Home	Conax	1224	118	106[ger]	119	118		2019-02-07	No	39001041
+10759.00	V	30000 3/4	Hungary	TV	Comedy Central Family Hungary	Węgry	Rozrywka	T-Home	Conax	1225	164	162[hun]	165	164		2019-02-07	No	39001043
+10759.00	V	30000 3/4	Hungary	TV	Travel Channel	Wielka Brytania	Podróże	T-Home	Conax	1226	167	161[eng]|163[hun]	168	167		2019-02-07	No	39001045
+10759.00	V	30000 3/4	Hungary	TV	Dorcel TV	Holandia	Porno	T-Home	Conax	1228	174	173[eng]	175	174		2019-08-02	No	39001047
+10759.00	V	30000 3/4	Hungary	R	MR1			T-Home	Conax	1251		99[hun]	95	99		2019-02-07	No	39001049
+10759.00	V	30000 3/4	Hungary	R	MR2			T-Home	Conax	1252		100[hun]	94	100		2019-02-07	No	39001051
+10759.00	V	30000 3/4	Hungary	R	MR3			T-Home	Conax	1253		8003[hun]	93	8003		2019-02-07	No	39001053
+10759.00	V	30000 3/4	Hungary	DATA					FTA	1002			8178	8191		2019-02-17	Yes	39001055
+10759.00	V	30000 3/4	Hungary	DATA					FTA	1004			8162	8191		2019-02-07	Yes	39001057
+10759.00	V	30000 3/4	Hungary	DATA					FTA	1006			8163	8191		2019-02-07	Yes	39001059
+10759.00	V	30000 3/4	Hungary	DATA					FTA	1007			133	8191		2019-02-07	Yes	39001061
+10759.00	V	30000 3/4	Hungary	DATA					FTA	1008			132	8191		2019-02-07	Yes	39001063
+10759.00	V	30000 3/4	Hungary	DATA					FTA	1010			56	8191		2019-02-07	Yes	39001065
+10759.00	V	30000 3/4	Hungary	DATA					FTA	1011			109	8191		2019-02-07	Yes	39001067
+10759.00	V	30000 3/4	Hungary	DATA					FTA	1012			110	8191		2019-02-07	Yes	39001069
+10759.00	V	30000 3/4	Hungary	DATA					FTA	1020			8185	8191		2019-02-07	Yes	39001071
+10759.00	V	30000 3/4	Hungary	DATA					FTA	1021			8186	8191		2019-02-17	Yes	39001073
+10759.00	V	30000 3/4	Hungary	DATA					FTA	1022			8151	8191		2019-06-04	Yes	39001075
+10806.00	V	30000 3/4	Hungary	TV	Film Café	Polska	Seriale	T-Home	Conax	1501	401	410[hun]	38	401		2018-01-09	No	43001001
+10806.00	V	30000 3/4	Hungary	TV	MTV Hits	Wielka Brytania	Muzyka	T-Home	Conax	1502	5041	5042[eng]	42	5041		2018-01-09	No	43001003
+10806.00	V	30000 3/4	Hungary	TV	Disney Channel Hungary & Czechia	Węgry	Dzieci	T-Home	Conax	1503	48	210[hun]|212[eng]	49	48		2018-01-09	No	43001005
+10806.00	V	30000 3/4	Hungary	TV	National Geographic HD Hungary	Węgry	Dokumenty	T-Home	Conax	1504	2500	2501[aac][eng]|2506[aac][hun]	56	2500		2019-01-08	No	43001007
+10806.00	V	30000 3/4	Hungary	TV	NatGeo Wild Hungary	Węgry	Dokumenty	T-Home	Conax	1505	601	610[hun]	43	601		2018-01-09	No	43001009
+10806.00	V	30000 3/4	Hungary	TV	Sport 1 Hungary	Węgry	Sport	T-Home	Conax	1507	201	202[hun]	44	201		2018-01-09	No	43001011
+10806.00	V	30000 3/4	Hungary	TV	Sport 2 Hungary	Węgry	Sport	T-Home	Conax	1508	301	302[hun]	45	301		2018-01-09	No	43001013
+10806.00	V	30000 3/4	Hungary	TV	Euronews English	Francja	Informacje	T-Home	Conax	1509	2221	2232[eng]	37	2221		2018-01-09	No	43001015
+10806.00	V	30000 3/4	Hungary	TV	M4 Sport	Węgry	Sport	T-Home	Conax	1510	4510	4500[hun]|4502[mul]	32	4510	7656	2018-01-09	No	43001017
+10806.00	V	30000 3/4	Hungary	TV	BBC Earth	Wielka Brytania	Dokumenty	T-Home	Conax	1511	1242	3232[eng]|4282[hun]	33	1242		2018-01-09	No	43001019
+10806.00	V	30000 3/4	Hungary	TV	History 2	nieokreślony	Historia	T-Home	Conax	1512	4101	136[eng]|4111[hun]	39	4101		2020-01-07	No	43001021
+10806.00	V	30000 3/4	Hungary	TV	RTL Spike	Węgry	Rozrywka	T-Home	Conax	1513	5071	51[eng]|3519[hun]	46	5071		2018-01-09	No	43001023
+10806.00	V	30000 3/4	Hungary	TV	Animal Planet	Wielka Brytania	Dokumenty	T-Home	Conax	1514	5103	5203[hun]|5320[eng]	35	5103		2018-01-09	No	43001025
+10806.00	V	30000 3/4	Hungary	TV	National Geographic Europe	Wielka Brytania	Dokumenty	T-Home	Conax	1515	251	260[hun]|262[eng]	61	251		2018-01-09	No	43001027
+10806.00	V	30000 3/4	Hungary	TV	m5	Węgry	Ogólne	T-Home	Conax	1516	4210	4200[hun]|4211[mul]	41	4210	7200	2018-01-09	No	43001029
+10806.00	V	30000 3/4	Hungary	TV	FEM3	Węgry	Rozrywka	T-Home	Conax	1517	4410	4400[hun]	34	4410		2018-01-09	No	43001031
+10806.00	V	30000 3/4	Hungary	TV	Investigation Discovery Europe	Wielka Brytania	Dokumenty	T-Home	Conax	1518	5102	5202[hun]|5319[eng]	36	5102		2018-01-09	No	43001033
+10806.00	V	30000 3/4	Hungary	TV	Viasat 6	Węgry	Ogólne	T-Home	Conax	1519	4310	4300[hun]|4302[eng]	40	4310		2018-01-09	No	43001035
+10806.00	V	30000 3/4	Hungary	TV	Zenebutik	Węgry	Muzyka	T-Home	Conax	1521	6300	6301[hun]	55	6300		2018-02-10	No	43001037
+10806.00	V	30000 3/4	Hungary	TV	VH-1 (Video Hits One)	Wielka Brytania	Muzyka	T-Home	Conax	1522	173	134[eng]	57	173		2018-01-09	No	43001039
+10806.00	V	30000 3/4	Hungary	TV	Spíler2 TV	Węgry	Sport	T-Home	Conax	1523	901	902[aac][hun]	53	901		2018-10-01	No	43001041
+10806.00	V	30000 3/4	Hungary	TV	Film4 Hungary	Węgry	Filmy	T-Home	Conax	1524	7730	7701[hun]	89	7730		2018-05-09	No	43001043
+10806.00	V	30000 3/4	Hungary	TV	Paramount Channel Hungary & Romania	Węgry	Filmy	T-Home	Conax	1525	5011	5012[hun]|5013[eng]	90	5011		2018-01-09	No	43001045
+10806.00	V	30000 3/4	Hungary	TV	Slagr TV	Czechy	Muzyka	T-Home	Conax	1526	4131	4129[hun]	97	4131		2018-01-09	No	43001047
+10806.00	V	30000 3/4	Hungary	TV	Cartoon Network Eastern Europe	Wielka Brytania	Dzieci	T-Home	Conax	1528	151	160[hun]|162[eng]	99	151		2018-01-09	No	43001049
+10842.00	V	30000 3/4	Hungary	TV	HBO HD Hungary	Węgry	Filmy	T-Home	Conax	1601	66	62[hun]|68[eng]	67	66		2019-10-30	No	47001001
+10842.00	V	30000 3/4	Hungary	TV	AXN Central Europe	Wielka Brytania	Seriale	T-Home	Conax	1602	60	56[hun]|58[eng]	61	60		2018-01-09	No	47001003
+10842.00	V	30000 3/4	Hungary	TV	Boomerang	Wielka Brytania	Dzieci	T-Home	Conax	1603	54	51[aac][eng]|52[hun]	93	54		2018-01-09	No	47001005
+10842.00	V	30000 3/4	Hungary	TV	LiChi TV	Węgry	Różne	T-Home	Conax	1604	48	44[hun]	49	48		2019-01-11	No	47001007
+10842.00	V	30000 3/4	Hungary	TV	Nicktoons Hungary	Węgry	Dzieci	T-Home	Conax	1605	42	38[hun]	43	42		2019-04-10	No	47001009
+10842.00	V	30000 3/4	Hungary	TV	TV5 Monde Europe	Francja	Ogólne	T-Home	Conax	1606	36	32[fra]	37	36		2018-01-09	No	47001011
+10842.00	V	30000 3/4	Hungary	TV	Kiwi TV	Węgry	Różne	T-Home	Conax	1607	501	502[hun]	79	501		2018-01-09	No	47001013
+10842.00	V	30000 3/4	Hungary	TV	KIKA - Der KinderKanal	Niemcy	Dzieci	T-Home	Conax	1608	85	84[ger]	86	85		2018-01-09	No	47001015
+10842.00	V	30000 3/4	Hungary	TV	Film Mánia	Węgry	Filmy	T-Home	Conax	1609	82	81[hun]	83	82		2018-01-09	No	47001017
+10842.00	V	30000 3/4	Hungary	TV	Vivid TV	Holandia	Porno	T-Home	Conax	1610	90	89[aac][eng]	91	90		2018-01-10	No	47001019
+10842.00	V	30000 3/4	Hungary	TV	Epic Drama	nieokreślony	Filmy	T-Home	Conax	1611	64	53[aac][hun]|1104[aac][mul]	65	64		2019-01-11	No	47001021
+10842.00	V	30000 3/4	Hungary	TV	Sat 1	Niemcy	Ogólne	T-Home	Conax	1612	100	99[ger]	101	100		2018-01-09	No	47001023
+10842.00	V	30000 3/4	Hungary	TV	RTL Television	Niemcy	Ogólne	T-Home	Conax	1613	103	102[ger]	104	103		2018-01-09	No	47001025
+10842.00	V	30000 3/4	Hungary	TV	TLC Hungary	Węgry	Dokumenty	T-Home	Conax	1614	34	40[hun]|165[eng]	39	34		2018-01-09	No	47001027
+10842.00	V	30000 3/4	Hungary	TV	ZDF	Niemcy	Ogólne	T-Home	Conax	1615	97	94[ger]	98	97		2018-01-09	No	47001029
+10842.00	V	30000 3/4	Hungary	TV	Da Vinci Learning	Wielka Brytania	Dokumenty	T-Home	Conax	1616	35	33[aac][hun]|902[aac][mul]	41	35		2018-04-16	No	47001031
+10842.00	V	30000 3/4	Hungary	TV	Unitel Classica HD	Niemcy	Muzyka	T-Home	Conax	1617	47	46[ger]	57	47		2018-10-12	No	47001033
+10842.00	V	30000 3/4	Hungary	TV	Comedy Central Hungary	Węgry	Komedia	T-Home	Conax	1618	92	76[hun]	95	92		2018-01-09	No	47001035
+10842.00	V	30000 3/4	Hungary	TV	RTR Planeta	Rosja	Ogólne	T-Home	Conax	1619	108	96[rus]	113	108		2018-01-09	No	47001037
+10842.00	V	30000 3/4	Hungary	TV	TVE International	Hiszpania	Ogólne	T-Home	Conax	1620	116	115[esp]	119	116		2018-01-09	No	47001039
+10842.00	V	30000 3/4	Hungary	TV	Eurosport 2	Francja	Sport	T-Home	Conax	1621	55	45[hun]|5120[eng]	75	55		2018-01-09	No	47001041
+10842.00	V	30000 3/4	Hungary	TV	Minimax Hungary	Węgry	Dzieci	T-Home	Conax	1622	140	137[hun]	141	140		2019-01-11	No	47001043
+10842.00	V	30000 3/4	Hungary	TV	Epic Drama HD	Polska	Seriale	T-Home	Conax	1623	2301	2310[aac][hun]|2311[aac][mul]	2300	2301		2020-01-07	No	47001045
+10842.00	V	30000 3/4	Hungary	TV	CNN International Europe	Wielka Brytania	Informacje	T-Home	Conax	1624	109	107[eng]	135	109		2018-01-09	No	47001047
+10842.00	V	30000 3/4	Hungary	TV	Nick Jr Hungary	Węgry	Dzieci	T-Home	Conax	1625	155	154[eng]|166[hun]	156	155		2018-01-09	No	47001049
+10842.00	V	30000 3/4	Hungary	TV	Viasat Nature CEE	Szwecja	Dokumenty	T-Home	Conax	1626	149	106[eng]|148[hun]	150	149		2018-01-09	No	47001051
+10842.00	V	30000 3/4	Hungary	TV	AMC Eastern Europe	Wielka Brytania	Filmy	T-Home	Conax	1627	158	50[eng]|157[hun]	159	158		2018-01-09	No	47001053
+11139.50	H	30000 3/4	Hungary	TV	XSport	Ukraina	Sport	Harmonic	BISS	1	257	258[ukr]	256	257		2020-01-21	No	59001001
+11139.50	H	30000 3/4	Hungary	TV	Pervy Delovoy	Ukraina	Ogólne	Harmonic	FTA	2	513	514[ukr]	512	513		2020-01-21	Yes	59001003
+11139.50	H	30000 3/4	Hungary	TV	UA:Zakarpattya	Ukraina	Różne	Harmonic	FTA	3	769	770[ukr]|771	768	769		2020-01-25	Yes	59001005
+11139.50	H	30000 3/4	Hungary	TV	112 Ukraine	Ukraina	Ogólne	Harmonic	FTA	4	1025	1026[ukr]	1024	1025		2020-01-21	Yes	59001007
+11139.50	H	30000 3/4	Hungary	TV	Pryamiy HD	Ukraina	Ogólne	Harmonic	FTA	6	1537	1538[ukr]	1536	1537		2020-01-21	Yes	59001009
+11139.50	H	30000 3/4	Hungary	TV	News One	Ukraina	Informacje	Harmonic	FTA	7	33	34[ukr]	36	33		2020-01-21	Yes	59001011
+11139.50	H	30000 3/4	Hungary	TV	Kultura	Ukraina	Kultura	Harmonic	BISS	9	2305	2306[ukr]	2304	2305		2020-01-21	No	59001013
+11139.50	H	30000 3/4	Hungary	TV	DoTB	Ukraina	Rozrywka	Harmonic	FTA	10	4097	4098[ukr]	4096	4097		2020-01-21	Yes	59001015
+11139.50	H	30000 3/4	Hungary	TV	Zik (Ukraine)	Ukraina	Muzyka	Harmonic	FTA	11	4353	4354[ukr]	4352	4353		2020-02-22	Yes	59001017
+11139.50	H	30000 3/4	Hungary	TV	112 Ukraine HD	Ukraina	Ogólne	Harmonic	FTA	12	4609	4610[ukr]	4608	4609		2020-01-21	Yes	59001019
+11139.50	H	30000 3/4	Hungary	TV	TEST1			Harmonic	VeriMatrix	21	337	338	336	337		2020-03-15	No	59001021
+11139.50	H	30000 3/4	Hungary	TV	TEST2			Harmonic	VeriMatrix	22	353	354	352	353		2020-03-15	No	59001023
+11139.50	H	30000 3/4	Hungary	TV	TEST3			Harmonic	VeriMatrix	23	369	370	368	369		2020-03-15	No	59001025
+11139.50	H	30000 3/4	Hungary	R	UR-1			Harmonic	FTA	14		38[ukr]	37	38		2020-01-21	Yes	59001027
+11139.50	H	30000 3/4	Hungary	R	Radio Promin			Harmonic	FTA	15		40[ukr]	39	40		2020-01-21	Yes	59001029
+11139.50	H	30000 3/4	Hungary	R	UR-3			Harmonic	FTA	16		42[ukr]	41	42		2020-01-21	Yes	59001031
+11139.50	H	30000 3/4	Hungary	R	Golos Donbasu			Harmonic	FTA	17		48[ukr]	47	48		2020-01-21	Yes	59001033
+11139.50	H	30000 3/4	Hungary	R	Radio Ukraine international			Harmonic	FTA	18		44[ukr]	43	44		2020-01-21	Yes	59001035
+11175.00	H	30000 3/4	Hungary	TV	Telekanal STB	Ukraina	Ogólne	Viasat Ukraine	VeriMatrix|VideoGuard	1	33	34[ukr]	32	33		2020-03-15	No	63001001
+11175.00	H	30000 3/4	Hungary	TV	M1	Ukraina	Ogólne	Viasat Ukraine	VeriMatrix|VideoGuard	2	49	50|51	48	49		2020-03-15	No	63001003
+11175.00	H	30000 3/4	Hungary	TV	Milady Television	Ukraina	Różne	Harmonic	FTA	3	65	66	64	65		2020-01-12	Yes	63001005
+11175.00	H	30000 3/4	Hungary	TV	Novy Kanal	Ukraina	Filmy	Viasat Ukraine	VeriMatrix|VideoGuard	4	81	82[ukr]	80	81		2020-03-15	No	63001007
+11175.00	H	30000 3/4	Hungary	TV	ICTV	Ukraina	Seriale	Harmonic	FTA	5	97	98[ukr]	96	97		2020-03-16	Yes	63001009
+11175.00	H	30000 3/4	Hungary	TV	M2 Ukrainia	Ukraina	Ogólne	Viasat Ukraine	VeriMatrix|VideoGuard	6	113	114[ukr]	112	113		2020-03-15	No	63001011
+11175.00	H	30000 3/4	Hungary	TV	ICTV	Ukraina	Seriale	Viasat Ukraine	VeriMatrix|VideoGuard	7	71	72|73	70	71		2020-03-15	No	63001013
+11175.00	H	30000 3/4	Hungary	TV	News 24 (Ukraine)	Ukraina	Informacje	Harmonic	FTA	8	4194	4195[ukr]|4196|4197[eng]|4198[eng]	4217	4194		2020-01-12	Yes	63001015
+11175.00	H	30000 3/4	Hungary	TV	Eko-TV	Ukraina	Biznes	Harmonic	FTA	9	42	2306[ukr]	2304	42		2020-01-12	Yes	63001017
+11175.00	H	30000 3/4	Hungary	TV	Pryamiy	Ukraina	Ogólne	Harmonic	FTA	10	4097	4098[ukr]	4096	4097		2020-01-12	Yes	63001019
+11175.00	H	30000 3/4	Hungary	TV	OCE	Ukraina	Ogólne	Viasat Ukraine	VeriMatrix|VideoGuard	11	129	130[ukr]	128	129		2020-03-15	No	63001021
+11175.00	H	30000 3/4	Hungary	TV	UA TV	Ukraina	Ogólne	Harmonic	BISS	13	305	306[ukr]	304	305		2020-01-13	No	63001023
+11175.00	H	30000 3/4	Hungary	TV	UA Krym	Ukraina	Seriale	Harmonic	FTA	14	321	322[ukr]	320	321		2020-01-12	Yes	63001025
+11222.00	H	30000 3/4	Hungary	TV	M1 HD	Węgry	Ogólne	T-Home	Conax	1301	56	1201[hun]|1301[mul]	57	56	1501	2018-01-11	No	67001001
+11222.00	H	30000 3/4	Hungary	TV	M2 HD	Węgry	Ogólne	T-Home	Conax	1302	1102	1202[hun]|1302[mul]	47	1102	45	2018-01-11	No	67001003
+11222.00	H	30000 3/4	Hungary	TV	STV2 HD			T-Home	Conax	1303	1101	52[hun]	53	1101		2018-01-21	No	67001005
+11222.00	H	30000 3/4	Hungary	TV	RTL Klub HD	Węgry	Ogólne	T-Home	Conax	1304	54	34[mul]|43[hun]	55	54		2018-01-11	No	67001007
+11222.00	H	30000 3/4	Hungary	TV	Sport 1 HD Hungary	Węgry	Sport	T-Home	Conax	1305	1001	1002[hun]	51	1001		2018-01-11	No	67001009
+11222.00	H	30000 3/4	Hungary	TV	Cinemax 2 Europe	Węgry	Filmy	T-Home	Conax	1306	1104	1204[hun]|1304[eng]	38	1104		2019-10-30	No	67001011
+11222.00	H	30000 3/4	Hungary	TV	AXN HD	Wielka Brytania	Seriale	T-Home	Conax	1307	701	611[hun]|613[eng]	32	701		2018-01-11	No	67001013
+11222.00	H	30000 3/4	Hungary	TV	Duna World HD	Węgry	Ogólne	T-Home	Conax	1308	36	33[hun]|35[mul]	40	36	1501	2018-01-11	No	67001015
+11222.00	H	30000 3/4	Hungary	TV	Magyar ATV HD	Węgry	Ogólne	T-Home	Conax	1310	101	102[hun]	42	101		2018-01-11	No	67001017
+11222.00	H	30000 3/4	Hungary	TV	HBO 2 Central Europe	Węgry	Filmy	T-Home	Conax	1311	1106	1206[hun]|1306[eng]|4206[eng]	41	1106	3265	2018-01-11	No	67001019
+11222.00	H	30000 3/4	Hungary	TV	Cinemax (Hungary)	Węgry	Filmy	T-Home	Conax	1313	601	602[hun]|603[eng]	50	601		2019-10-30	No	67001021
+11222.00	H	30000 3/4	Hungary	TV	Filmbox Plus	nieokreślony	Filmy	T-Home	Conax	1314	401	402[hun]	48	401		2018-01-11	No	67001023
+11222.00	H	30000 3/4	Hungary	TV	Filmbox Family	Polska	Filmy	T-Home	Conax	1315	5071	5072[hun]	44	5071		2018-01-11	No	67001025
+11258.00	H	30000 3/4	Hungary	TV	Duna World HD	Węgry	Ogólne	T-Home	Conax	1401	715	1203[hun]|1303[mul]	34	715	1501	2018-01-11	No	71001003
+11258.00	H	30000 3/4	Hungary	TV	M4 Sport HD	Węgry	Sport	T-Home	Conax	1402	717	1204[hun]|1304[mul]	36	717	35	2018-01-11	No	71001005
+11258.00	H	30000 3/4	Hungary	TV	M5 HD	Węgry	Ogólne	T-Home	Conax	1403	101	102[hun]|103[mul]	32	101	1510	2018-01-11	No	71001007
+11258.00	H	30000 3/4	Hungary	TV	Film+ HD	Bułgaria	Filmy	T-Home	Conax	1404	538	5384[eng]|5388[hun]	37	538		2019-02-09	No	71001009
+11258.00	H	30000 3/4	Hungary	TV	Sport 2 HD Hungary	Węgry	Sport	T-Home	Conax	1405	1301	1302[hun]	42	1301		2018-01-11	No	71001011
+11258.00	H	30000 3/4	Hungary	TV	Spektrum HD	Czechy	Dokumenty	T-Home	Conax	1406	1011	1013[hun]	39	1011		2018-01-11	No	71001013
+11258.00	H	30000 3/4	Hungary	TV	Cool TV HD	Węgry	Rozrywka	T-Home	Conax	1407	4100	4101[hun]	33	4100		2018-01-11	No	71001015
+11258.00	H	30000 3/4	Hungary	TV	RTL 2 HD Hungary	Węgry	Rozrywka	T-Home	Conax	1408	4200	4201[hun]	41	4200		2018-01-11	No	71001017
+11258.00	H	30000 3/4	Hungary	TV	Spíler 2 HD	Węgry	Różne	T-Home	Conax	1409	901	910[aac][hun]	900	901		2019-03-06	No	71001019
+11258.00	H	30000 3/4	Hungary	TV	TV 2 HD (Hungary)	Węgry	Ogólne	T-Home	Conax	1411	1201	914[mul]|1202[hun]	44	1201	1206	2018-01-11	No	71001021
+11303.50	H	8888 3/4	Hungary	TV	Hir TV	Węgry	Informacje	hirTV / AH / HDT	Conax	2	200	201[hun]	220	200	210	2018-04-16	No	79001001
+11303.50	H	8888 3/4	Hungary	TV	Da Vinci Learning	Wielka Brytania	Dokumenty	Xtra TV	Conax|VeriMatrix	9	900	901[pol]|902[mul]|903[hun]|904[ukr]|905[rus]|906[bul]	3850	900		2020-04-05	No	79001003
+11303.50	H	8888 3/4	Hungary	R	Karc FM			Antenna Hungaria	Conax	10		1001[hun]	1020	1001		2018-10-17	No	79001005
+11350.00	H	17333 2/3	Hungary	TV	Tippmix élő 1			HDT	Conax	1	101	102[aac][hun]	120	101		2019-03-24	No	91001003
+11350.00	H	17333 2/3	Hungary	TV	Tippmix élő 2			HDT	Conax	2	201	202[aac][hun]	220	201		2019-03-24	No	91001005
+11350.00	H	17333 2/3	Hungary	TV	Tippmix élő 3			HDT	Conax	3	301	302[aac][hun]	320	301		2019-03-24	No	91001007
+11350.00	H	17333 2/3	Hungary	TV	Tippmix élő 4			HDT	Conax	4	401	402[aac][hun]	420	401		2019-03-24	No	91001009
+11350.00	H	17333 2/3	Hungary	TV	Tippmix elő 5			HDT	Conax	5	501	502[aac][hun]	520	501		2019-03-24	No	91001011
+11350.00	H	17333 2/3	Hungary	DATA	SW update				FTA	7			720	8191		2019-03-24	Yes	91001013
+11389.00	H	30000 3/4	Hungary	TV	Discovery Channel Hungary HD	Węgry	Dokumenty	T-Home	Conax	1701	101	110[aac][hun]|111[aac][eng]	100	101		2019-02-09	No	95001001
+11389.00	H	30000 3/4	Hungary	TV	Spíler HD	Węgry	Różne	T-Home	Conax	1702	201	210[aac][hun]	200	201		2018-11-04	No	95001003
+11389.00	H	30000 3/4	Hungary	TV	Heti TV	Węgry	Informacje	T-Home	Conax	1703	301	310[aac][hun]	300	301		2018-02-14	No	95001005
+11389.00	H	30000 3/4	Hungary	TV	Animal Planet HD	Wielka Brytania	Dokumenty	T-Home	Conax	1704	401	410[hun]|411[eng]	400	401		2018-02-02	No	95001007
+11389.00	H	30000 3/4	Hungary	TV	Filmbox Extra HD Hungary	Węgry	Filmy	T-Home	Conax	1705	501	510[hun]|511[vo]	500	501		2018-02-14	No	95001009
+11389.00	H	30000 3/4	Hungary	TV	BBC Earth HD	Polska	Dokumenty	T-Home	Conax	1706	601	610[aac][hun]|611[eng]	600	601		2019-02-09	No	95001011
+11389.00	H	30000 3/4	Hungary	TV	Nat Geo Wild HD			T-Home	Conax	1707	701	710[aac][hun]|711[aac][eng]	700	701		2018-10-15	No	95001013
+11389.00	H	30000 3/4	Hungary	TV	Paramount HD			T-Home	Conax	1708	801	810[aac][hun]|811[aac][eng]	800	801		2018-10-15	No	95001015
+11389.00	H	30000 3/4	Hungary	TV	AMC HD			T-Home	Conax	1709	901	910[aac][hun]|911[aac][eng]	900	901		2018-10-15	No	95001017
+11389.00	H	30000 3/4	Hungary	TV	Eurosport2 HD			T-Home	Conax	1710	1001	1010[aac][hun]|1011[aac][eng]	1000	1001		2018-10-15	No	95001019
+11389.00	H	30000 3/4	Hungary	TV	VIASAT3 HD			T-Home	Conax	1711	1101	1110[hun]|1111[eng]	1100	1101		2018-10-15	No	95001021
+11425.00	H	30000 3/4	Hungary	TV	Teszt H			T-Home	FTA	1800	481	482[aac]	56	481		2017-07-13	Yes	99001001
+11425.00	H	30000 3/4	Hungary	TV	History	Wielka Brytania	Dokumenty	T-Home	Conax	1801	1601	1611[eng]|1620[hun]	44	1601		2017-01-03	No	99001003
+11425.00	H	30000 3/4	Hungary	TV	Fix.TV	Węgry	Różne	T-Home	Conax	1802	1001	1002[hun]	37	1001		2018-01-13	No	99001005
+11425.00	H	30000 3/4	Hungary	TV	Fit (Hungary)	Węgry	Zdrowie	T-Home	Conax	1803	261	262[hun]	38	261		2018-01-13	No	99001007
+11425.00	H	30000 3/4	Hungary	TV	Ötös csatorna	Węgry	Różne	T-Home	Conax	1804	51	6901[hun]	39	51		2017-01-03	No	99001009
+11425.00	H	30000 3/4	Hungary	TV	Bónum	Węgry	Różne	T-Home	Conax	1805	1401	1402[hun]	33	1401		2018-01-13	No	99001011
+11425.00	H	30000 3/4	Hungary	TV	Bónusz	Węgry	Różne	T-Home	Conax	1806	54	111[hun]|112[eng]	55	54		2018-04-16	No	99001013
+11425.00	H	30000 3/4	Hungary	TV	HBO HD Hungary	Węgry	Filmy	T-Home	Conax	1807	3210	3200[hun]|3202[eng]	41	3210		2017-01-03	No	99001015
+11425.00	H	30000 3/4	Hungary	TV	Eurosport 1 HD	Francja	Sport	T-Home	Conax	1808	3000	3201[eng]|3211[eng]	42	3000		2017-01-03	No	99001017
+11425.00	H	30000 3/4	Hungary	TV	History HD Europe	Wielka Brytania	Historia	T-Home	Conax	1809	1307	3303[eng]|4137[eng]	43	1307		2017-01-03	No	99001019
+11425.00	H	30000 3/4	Hungary	TV	Travel Channel HD	Wielka Brytania	Podróże	T-Home	Conax	1810	535	340[eng]|342[hun]	46	535		2017-01-03	No	99001021
+11425.00	H	30000 3/4	Hungary	TV	Sony Movie Channel	Węgry	Filmy	T-Home	Conax	1811	100	101[hun]|104[eng]	32	100		2018-01-11	No	99001023
+11425.00	H	30000 3/4	Hungary	TV	MTV Rocks	Wielka Brytania	Muzyka	T-Home	Conax	1812	47	3001[eng]	48	47		2019-02-02	No	99001025
+11425.00	H	30000 3/4	Hungary	TV	Sony Max	Węgry	Seriale	T-Home	Conax	1813	200	201[hun]|202[eng]	35	200		2018-01-11	No	99001027
+11425.00	H	30000 3/4	Hungary	TV	HBO 3 Central Europe	Stany Zjednoczone	Filmy	T-Home	Conax	1814	1941	1942[hun]|1943[eng]	36	1941		2019-10-30	No	99001029
+11425.00	H	30000 3/4	Hungary	TV	English Club	Ukraina	Rozrywka	T-Home	Conax	1815	6581	6583[eng]	34	6581		2017-01-03	No	99001031
+11425.00	H	30000 3/4	Hungary	TV	FilmBox	Czechy	Filmy	T-Home	Conax	1816	6100	6101[eng]|6103[hun]	40	6100		2017-01-03	No	99001033
+11425.00	H	30000 3/4	Hungary	TV	Viasat History	Szwecja	Historia	T-Home	Conax	1817	6491	6494[eng]|6495[hun]	45	6491		2017-05-28	No	99001035
+11425.00	H	30000 3/4	Hungary	TV	Jocky TV	Węgry	Różne	T-Home	Conax	1818	1801	1810[aac][hun]	1800	1801		2019-02-17	No	99001037
+11425.00	H	30000 3/4	Hungary	TV	Moziverzum	Węgry	Filmy	T-Home	Conax	1819	1901	1910[aac][hun]	1900	1901		2019-02-17	No	99001039
+11425.00	H	30000 3/4	Hungary	TV	Comedy Central HD Hungary	Węgry	Komedia	T-Home	Conax	1820	2001	2010[aac][hun]	2000	2001		2020-01-08	No	99001041
+12297.00	H	45000 2/3	Europe	TV	Telekanal STB HD	Ukraina	Ogólne	SLM	VeriMatrix	1	3111	3112[ukr]	3110	3111		2020-03-15	No	115001001
+12297.00	H	45000 2/3	Europe	TV	ICTV HD	Ukraina	Ogólne	SLM	VeriMatrix	2	3121	3122[ukr]|3123	3120	3121		2020-03-15	No	115001003
+12297.00	H	45000 2/3	Europe	TV	Novy Kanal HD	Ukraina	Ogólne	SLM	VeriMatrix	3	3131	3132[ukr]	3130	3131		2020-03-15	No	115001005
+12297.00	H	45000 2/3	Europe	TV	M1 HD Ukraine	Ukraina	Ogólne	SLM	VeriMatrix	4	3141	3142[ukr]|3143	3140	3141		2020-03-15	No	115001007
+12297.00	H	45000 2/3	Europe	TV	M2 HD Ukraine	Ukraina	Ogólne	SLM	VeriMatrix	5	3151	3152[ukr]	3150	3151		2020-03-15	No	115001009
+12297.00	H	45000 2/3	Europe	TV	OCE HD	Ukraina	Ogólne	SLM	VeriMatrix	6	3161	3162[ukr]	3160	3161		2020-03-15	No	115001011
+12340.00	H	17900 3/4	Europe	TV	12 Kanal	Ukraina	Ogólne	Ukrkosmos	FTA	1	4113	4114	4112	4113		2019-08-27	Yes	119001001
+12340.00	H	17900 3/4	Europe	TV	Setanta Sports Ukraine	Ukraina	Sport	Ukrkosmos	VeriMatrix	2	4129	4130[rus]|4131[rus]	4128	4133		2020-03-15	No	119001003
+12340.00	H	17900 3/4	Europe	TV	ATR HD	Ukraina	Ogólne	Ukrkosmos	FTA	6	4193	4194	4192	4193		2019-08-27	Yes	119001005
+12340.00	H	17900 3/4	Europe	TV	ATR	Ukraina	Ogólne	Ukrkosmos	FTA	7	4209	4210[ukr]	4208	4209		2019-08-27	Yes	119001007
+12340.00	H	17900 3/4	Europe	TV	Lale	Ukraina	Różne	Harmonic	FTA	8	4225	4226[ukr]	4224	4225		2019-08-27	Yes	119001009
+12340.00	H	17900 3/4	Europe	R	MEYDAN			Ukrkosmos	FTA	101		6673[ukr]	6672	8191		2019-08-27	Yes	119001011
+12354.00	H	3333 3/4	Europe	TV	Romania TV	Rumunia	Ogólne	Romania TV	FTA	1	256	258[rom]	32	256		2018-10-17	Yes	123001001
+12410.00	H	20833 7/8	Europe	TV	1zahid	Ukraina	Różne	Ukrkosmos	FTA	1	4113	4114[ukr]	4112	4113		2018-08-18	Yes	131001003
+12410.00	H	20833 7/8	Europe	TV	Channel 4 (Ukraine)	Ukraina	Ogólne	Ukrkosmos	FTA	3	4145	4146[ukr]	4144	4145		2019-12-11	Yes	131001005
+12410.00	H	20833 7/8	Europe	TV	Boutique TV	Ukraina	Telezakupy	Ukrkosmos	FTA	4	4161	4162	4160	4161		2017-11-28	Yes	131001007
+12410.00	H	20833 7/8	Europe	TV	Che-Pe Info	Ukraina	Prezentacje	Ukrkosmos	FTA	5	4177	4178[ukr]	4176	4177		2017-11-28	Yes	131001009
+12410.00	H	20833 7/8	Europe	TV	BlackSea TV	Ukraina	Ogólne	Ukrkosmos	FTA	6	4193	4194[ukr]	4192	4193		2019-08-02	Yes	131001011
+12410.00	H	20833 7/8	Europe	TV	Malyatko TV	Ukraina	Dzieci	Ukrkosmos	FTA	7	4209	4210	4208	4209		2017-11-28	Yes	131001013
+12410.00	H	20833 7/8	Europe	TV	Tele Vsesvit	Ukraina	Ogólne	Ukrkosmos	FTA	8	4225	4226[ukr]	4224	4225		2017-11-28	Yes	131001015
+12410.00	H	20833 7/8	Europe	TV	Galychyna	Ukraina	Różne	Ukrkosmos	FTA	9	4241	4242[ukr]	4240	4241		2018-08-18	Yes	131001017
+12410.00	H	20833 7/8	Europe	TV	Donechchyna TV	Ukraina	Różne	Ukrkosmos	FTA	10	4353	4354[ukr]	4352	4353		2020-03-02	Yes	131001019
+12410.00	H	20833 7/8	Europe	TV	Pravda Tut	Ukraina	Informacje	Ukrkosmos	FTA	11	4369	4370[ukr]	4368	4369		2019-12-02	Yes	131001021
+12410.00	H	20833 7/8	Europe	TV	8 Channel	Ukraina	Różne	Ukrkosmos	FTA	12	4385	4386[ukr]	4384	4385		2018-08-18	Yes	131001023
+12410.00	H	20833 7/8	Europe	TV	Genuine TV	Ukraina	Różne	Ukrkosmos	FTA	13	4401	4402[ukr]	4400	4401		2019-08-27	Yes	131001025

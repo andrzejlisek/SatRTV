@@ -1,559 +1,428 @@
 Freq	Pol	SR	Beam	Type	Name	FTA	Encryption	SID	VPID	APID Lang	Row
-10714	H	22000-2/3	Europe	TV	TV Mainfranken	Yes	MPEG-4/HD	5900	2010	2012[Ger]	8000
-10714	H	22000-2/3	Europe	TV	Franken Fernsehen	Yes	MPEG-4/HD	5901	2020	2022[Ger]	8000
-10714	H	22000-2/3	Europe	TV	TVA Ostbayern	Yes	MPEG-4/HD	5902	2030	2032[Ger]	8000
-10714	H	22000-2/3	Europe	TV	TV Oberfranken	Yes	MPEG-4/HD	5903	2040	2041[Ger]	8000
-10714	H	22000-2/3	Europe	TV	Niederbayern TV Landshut	Yes	MPEG-4/HD	5904	2050	2052[Ger]	8000
-10714	H	22000-2/3	Europe	TV	Niederbayern TV Passau	Yes	MPEG-4/HD	5904	2050	2052[Ger]	8000
-10714	H	22000-2/3	Europe	TV	Niederbayern TV Deggendorf	Yes	MPEG-4/HD	5904	2050	205.[Ger]	8000
-10714	H	22000-2/3	Europe	TV	Oberpfalz TV	Yes	MPEG-4/HD	5905	2060	2062[Ger]	8000
-10744	H	22000-5/6	Europe	TV	Tagesschau 24	Yes		28721	101	102[Ger]	8010
-10744	H	22000-5/6	Europe	TV	One	Yes		28722	201	202[Ger]|203[Qaa]|206[Ger]	8010
-10744	H	22000-5/6	Europe	TV	ARTE Deutsch	Yes		28724	401	402[Ger]|408[Fre]	8010
-10744	H	22000-5/6	Europe	TV	Phoenix	Yes		28725	501	502[Ger]|503[Qaa]	8010
-10773	H	22000-3/4	Europe	TV	Anixe HD Serie	Yes	MPEG-4/HD	21100	255	259[Ger]	8016
-10773	H	22000-3/4	Europe	TV	QVC Deutschland	Yes	MPEG-4/HD	21103	1023	1027[Ger]	8016
-10773	H	22000-3/4	Europe	TV	HSE 24	Yes	MPEG-4/HD	21104	1279	1283[Ger]	8016
-10773	H	22000-3/4	Europe	TV	Comedy Central Deutschland	No	MPEG-4/HD|Irdeto|Nagravision|Videoguard	21107	511	515[Ger]	8016
-10773	H	22000-3/4	Europe	TV	Welt	No	MPEG-4/HD|Irdeto|Nagravision|Videoguard	21108	767	771[Ger]	8016
-10773	H	22000-3/4	Europe	TV	Sophia TV Deutsch	Yes	MPEG-4/SD	21112	3071	3072[Ger]	8016
-10773	H	22000-3/4	Europe	TV	Genius Plus TV	Yes	MPEG-4/SD	21113	3327	3328[Ger]	8016
-10773	H	22000-3/4	Europe	TV	Comedy Central Deutschland	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard	21117	511	515[Ger]	8016
-10773	H	22000-3/4	Europe	TV	Welt	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard	21118	767	771[Ger]	8016
-10803	H	22000-3/4	Europe	TV	Disney Channel Deutschland	No	MPEG-4/HD|Irdeto|Nagravision|Viaccess|Videoguard	5500	255	259[Ger]	8027
-10803	H	22000-3/4	Europe	TV	HSE 24 Extra	Yes	MPEG-4/HD	5501	511	515[Ger]	8027
-10803	H	22000-3/4	Europe	TV	1-2-3 TV (05-02)	Yes	MPEG-4/HD	5502	767	771[Ger]	8027
-10803	H	22000-3/4	Europe	TV	Babestation 24 (02-05)	Yes	MPEG-4/HD	5502	767	771[Ger]	8027
-10803	H	22000-3/4	Europe	TV	Deluxe Music	No	MPEG-4/HD|Irdeto|Nagravision|Viaccess|Videoguard	5503	1023	1027[Ger]	8027
-10803	H	22000-3/4	Europe	TV	QVC Zwei	Yes	MPEG-4/HD	5504	1279	1283[Ger]	8027
-10803	H	22000-3/4	Europe	TV	Sport 1 (Germany)	No	MPEG-4/HD|Irdeto|Nagravision|Viaccess|Videoguard	5505	1535	1539[Ger]	8027
-10803	H	22000-3/4	Europe	TV	Disney Channel Deutschland	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard	5510	255	259[Ger]	8027
-10803	H	22000-3/4	Europe	TV	Deluxe Music	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard	5513	1023	1027[Ger]	8027
-10847	V	22000-5/6	Europe	TV	[Movistar+ test card]	No		30102	163	256[Spa]	8039
-10847	V	22000-5/6	Europe	TV	Canal Portada	Yes		30150	171	124[Spa]	8039
-10847	V	22000-5/6	Europe	R	Cadena Dial	Yes		30104		256[Spa]	8039
-10847	V	22000-5/6	Europe	R	Los 40 Classic	Yes		30104		257[Spa]	8039
-10847	V	22000-5/6	Europe	R	Radiolé	Yes		30104		258[Spa]	8039
-10847	V	22000-5/6	Europe	R	Los 40 Dances	Yes		30104		259[Spa]	8039
-10847	V	22000-5/6	Europe	R	Los 40	Yes		30104		260[Spa]	8039
-10847	V	22000-5/6	Europe	R	Cadena SER	Yes		30104		262[Spa]	8039
-10891	H	22000-2/3	Europe	TV	RBB Brandenburg (19.30-20.00)	Yes	MPEG-4/HD	10350	5301	5302[Ger]|5303[Qaa]|5306[Ger]	8050
-10891	H	22000-2/3	Europe	TV	RBB Berlin	Yes	MPEG-4/HD	10351	5311	5312[Ger]|5313[Qaa]|5316[Ger]	8050
-10891	H	22000-2/3	Europe	TV	MDR Fernsehen Sachsen (19.00-19.30 & Wed 21.15-21.45)	Yes	MPEG-4/HD	10352	5321	5322[Ger]|5323[Qaa]|5326[Ger]	8050
-10891	H	22000-2/3	Europe	TV	MDR Fernsehen Sachsen-Anhalt	Yes	MPEG-4/HD	10353	5331	5332[Ger]|5333[Qaa]|5336[Ger]	8050
-10891	H	22000-2/3	Europe	TV	MDR Fernsehen Thüringen (19.00-19.30 & Wed 21.15-21.45)	Yes	MPEG-4/HD	10354	5341	5342[Ger]|5343[Qaa]|5346[Ger]	8050
-10891	H	22000-2/3	Europe	TV	HR Fernsehen	Yes	MPEG-4/HD	10355	5351	5352[Ger]|5353[Qaa]|5356[Ger]	8050
-10921	H	22000-7/8	Europe	TV	Genius Family	Yes	MPEG-4/SD	33	255	256[Ger]	8058
-10921	H	22000-7/8	Europe	TV	Zee One	Yes	MPEG-2/SD	35	511	512[Ger]	8058
-10921	H	22000-7/8	Europe	TV	Sky Sport News	Yes	MPEG-2/SD	37	767	768[Ger]	8058
-10921	H	22000-7/8	Europe	TV	HGTV Deutschland	Yes	MPEG-2/SD	38	1023	1024[Ger]	8058
-10921	H	22000-7/8	Europe	TV	MediaShop	Yes	MPEG-4/SD	39	1279	1280[Ger]	8058
-10964	H	22000-2/3	Europe Ku	TV	TLC Germany	No	MPEG-4/HD|Irdeto|Nagravision|Viaccess|Videoguard	10100	255	259[Ger]	9000
-10964	H	22000-2/3	Europe Ku	TV	Zee One	Yes	MPEG-4/HD	10101	511	515[Ger]	9000
-10964	H	22000-2/3	Europe Ku	TV	Handystar	Yes	MPEG-4/HD	10102	767	771[Ger]	9000
-10964	H	22000-2/3	Europe Ku	TV	MTV Germany	No	MPEG-4/HD|Irdeto|Nagravision|Viaccess|Videoguard	10103	1023	1027[Ger]	9000
-10964	H	22000-2/3	Europe Ku	TV	Channel 21 (Germany)	Yes	MPEG-4/HD	10104	1279	1283[Ger]	9000
-10964	H	22000-2/3	Europe Ku	TV	QVC Style Deutschland	Yes	MPEG-4/HD	10105	1535	1539[Ger]	9000
-10964	H	22000-2/3	Europe Ku	TV	TLC Germany	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard	10110	255	259[Ger]	9000
-10964	H	22000-2/3	Europe Ku	TV	MTV Germany	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard	10113	1023	1027[Ger]	9000
-10994	H	22000-5/6	Europe Ku	TV	SES Ultra HD Demo Channel	Yes	HEVC/UHD 4K	1	511	512[Eng]|513[Eng]	9010
-10994	H	22000-5/6	Europe Ku	TV	UHD 1 (Mon-Fri 20-08 & Sun 14-08)	No	HEVC/UHD 4K|Nagravision|Videoguard	2	101	102[Ger]	9010
-10994	H	22000-5/6	Europe Ku	TV	Travelxp 4K Europe	No	HEVC/UHD 4K|Nagravision|Videoguard	6202	767	768[Eng]	9010
-11053	H	22000-2/3	Europe Ku	TV	Tagesschau 24	Yes	MPEG-4/HD	10375	5401	5402[Ger]|5406[Ger]	9017
-11053	H	22000-2/3	Europe Ku	TV	One	Yes	MPEG-4/HD	10376	5411	5412[Ger]|5416[Ger]	9017
-11053	H	22000-2/3	Europe Ku	TV	ARD Alpha	Yes	MPEG-4/HD	10377	5421	5422[Ger]|5426[Ger]	9017
-11053	H	22000-2/3	Europe Ku	TV	SR Fernsehen	Yes	MPEG-4/HD	10378	5431	5432[Ger]|5436[Ger]	9017
-11053	H	22000-2/3	Europe Ku	TV	Radio Bremen TV	Yes	MPEG-4/HD	10379	5441	5442[Ger]	9017
-11068	V	22000-5/6	Europe Ku	TV	RT Español	Yes		1150	1450	1550[Spa]	9023
-11068	V	22000-5/6	Europe Ku	TV	Record TV Europa	Yes		31301	33	32[Por]	9023
-11068	V	22000-5/6	Europe Ku	TV	Telesur (Venezuela)	Yes		31304	2101	2102[Spa]	9023
-11068	V	22000-5/6	Europe Ku	TV	I24 News Français	Yes	MPEG-4/SD	31307	1081	1082[Fre]	9023
-11112	H	22000-2/3	Europe Ku	TV	Sat. 1 Gold Deutschland	No	MPEG-4/HD|Irdeto|Nagravision|Videoguard	12500	255	259[Ger]	9030
-11112	H	22000-2/3	Europe Ku	TV	Eurosport 1 Germany	No	MPEG-4/HD|Irdeto|Nagravision|Videoguard	12502	7.7	771[Ger]	9030
-11112	H	22000-2/3	Europe Ku	TV	Eurosport 2 Xtra	No	MPEG-4/HD|Nagravision|Videoguard	12503	1023	1027[Ger]	9030
-11112	H	22000-2/3	Europe Ku	TV	Fashion One 4K	No	HEVC/UHD 4K|Conax|Irdeto|Nagravision|Viaccess	12510	2815	2816[Eng]	9030
-11112	H	22000-2/3	Europe Ku	TV	Sat. 1 Gold Deutschland	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard	12520	255	259[Ger]	9030
-11112	H	22000-2/3	Europe Ku	TV	Eurosport 1 Germany	No	MPEG-4/HD|Irdeto|Viaccess	12522	767	771[Ger]	9030
-11156	V	22000-5/6	Europe	TV	Canal Sur Andalucía	Yes		30505	166	1.4[Spa]	9039
-11171	H	22000-3/4	Europe	TV	CNBC Europe	Yes	MPEG-4/HD	125	2047	2051[Eng]	9041
-11186	V	22000-5/6	Europe Ku	TV	TV TRWAM	Yes		4310	33	3606[Pol]	9043
-11186	V	22000-5/6	Europe Ku	R	Radio Maryja	Yes		4311		3607[Pol]	9043
-11214	H	22000-2/3	Europe	TV	RTL UHD	No	HEVC/UHD|Irdeto	13410	4110	4111[Ger]	10000
-11229	V	22000-2/3	Europe	TV	BBC World News Europe	Yes	MPEG-4/HD	5001	20.1	2092[Eng]	10001
-11229	V	22000-2/3	Europe	TV	Insight HD	No	MPEG-4/HD|Irdeto|Nagravision|Videoguard	5010	255	256[Eng]|257[Ger]|259[Eng]	10001
-11229	V	22000-2/3	Europe	TV	Insight HD	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard	5011	255	256[Eng]|257[Ger]|259[Eng]	10001
-11229	V	22000-2/3	Europe	TV	NHK World Japan	Yes	MPEG-4/HD	5021	1760	1720[Eng]	10001
-11229	V	22000-2/3	Europe	TV	Aljazeera English	Yes	MPEG-4/HD	5031	3101	3102[Eng]|3103[Eng]	10001
-11229	V	22000-2/3	Europe	TV	Mont Blanc Live TV	Yes	MPEG-4/HD	5081	101	201[Fre]	10001
-11244	H	22000-5/6	Europe	TV	Shop 24 Direct	Yes		13222	2220	2221[Ger]	10008
-11244	H	22000-5/6	Europe	TV	Bibel TV	Yes	MPEG-4/HD	13224	2240	2241[Ger]	10008
-11244	H	22000-5/6	Europe	TV	Schau TV	Yes	MPEG-4/HD	13225	2250	2251[Ger]	10008
-11244	H	22000-5/6	Europe	TV	Hope Channel Deutsch	Yes	MPEG-4/HD	13227	2270	2271[Ger]	10008
-11244	H	22000-5/6	Europe	TV	RTL Plus Österreich	Yes	MPEG-4/SD	13229	2290	2291[Ger]	10008
-11273	H	22000-2/3	Europe	TV	[Flimmit info card]	No	MPEG-4/SD	13310	3100	[Ger]	10015
-11273	H	22000-2/3	Europe	TV	Aristo TV	Yes	MPEG-4/SD	13311	3110	3111[Ger]	10015
-11273	H	22000-2/3	Europe	TV	R9	Yes	MPEG-4/HD	13312	3120	3121[Ger]	10015
-11273	H	22000-2/3	Europe	TV	Oe24 TV	Yes	MPEG-4/HD	13314	3140	3141[Ger]	10015
-11273	H	22000-2/3	Europe	TV	Shop 24 Direct	Yes	MPEG-4/SD	13315	3150	3151[Ger]	10015
-11273	H	22000-2/3	Europe	TV	GoTV	Yes	MPEG-4/SD	13316	3160	3161[Ger]	10015
-11273	H	22000-2/3	Europe	TV	Melodie Express (22-19)	Yes	MPEG-4/SD	13317	3170	3171[Ger]	10015
-11273	H	22000-2/3	Europe	TV	Melodie TV (19-22)	Yes	MPEG-4/SD	13317	3170	3171[Ger]	10015
-11288	V	22000-2/3	Europe Ku	TV	Rai News 24	Yes	MPEG-2/SD	4216	520	690[Ita]	10024
-11288	V	22000-2/3	Europe Ku	TV	CBNN	No	MPEG-4/HD	4221	55	50[Eng]	10024
-11288	V	22000-2/3	Europe Ku	TV	Deutschland Vozrozhdeniye	Yes	MPEG-4/SD	4225	7686	7687[Ger]	10024
-11288	V	22000-2/3	Europe Ku	TV	QVC Deutschland	Yes	HEVC/UHD 4K	4230	255	256[Ger]	10024
-11303	H	22000-2/3	Europe Ku	TV	ORF Eins	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess|Videoguard	4911	1920	1921[Ger]|1922[Qaa]	10029
-11303	H	22000-2/3	Europe Ku	TV	ORF 2	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess|Videoguard	4912	2920	2921[Ger]|2922[Qaa]	10029
-11303	H	22000-2/3	Europe Ku	TV	Servus TV Österreich	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess|Videoguard	4913	3583	3584[Ger]|3585[Eng]|3587[Ger]	10029
-11303	H	22000-2/3	Europe Ku	TV	Servus TV Deutschland	Yes	MPEG-4/HD	4914	4920	4921[Ger]|4922[Eng]|4924[Ger]	10029
-11303	H	22000-2/3	Europe Ku	TV	ORF 2 Niederösterreich (19.00-19.30)	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess|Videoguard	4916	2920	2921[Ger]	10029
-11303	H	22000-2/3	Europe Ku	R	Hitradio Ö3	Yes		4920		921[Ger]	10029
-11347	V	22000-2/3	Europe	TV	3sat	Yes	MPEG-4/HD	11150	6510	6520[Ger]|6521[Qaa]|6522[Ger]	10038
-11347	V	22000-2/3	Europe	TV	KIKA (06-21)	Yes	MPEG-4/HD	11160	6610	6620[Ger]|6622[Ger]	10038
-11347	V	22000-2/3	Europe	TV	ZDF Info	Yes	MPEG-4/HD	11170	6710	6720[Ger]|6721[Qaa]|6722[Ger]	10038
-11362	H	22000-2/3	Europe	TV	ZDF	Yes	MPEG-4/HD	11110	6110	6120[Ger]|6122[Ger]|6123[Qaa]	10042
-11362	H	22000-2/3	Europe	TV	ZDF Neo	Yes	MPEG-4/HD	11130	6310	6320[Ger]|6321[Qaa]|6322[Ger]	10042
-11377	V	22000-2/3	Europe Ku	TV	Telesur (Venezuela)	Yes	MPEG-4/HD	6380	1001	1002[Spa]	10045
-11377	V	22000-2/3	Europe Ku	TV	RT News	Yes	MPEG-4/HD	6381	1011	1012[Eng]|1013[Eng]	10045
-11377	V	22000-2/3	Europe Ku	TV	RT Español	Yes	MPEG-4/HD	6382	1021	1022[Spa]|1023[Spa]	10045
-11377	V	22000-2/3	Europe Ku	TV	RT France	Yes	MPEG-4/HD	6383	1031	.032[Fre]|1033[Fre]	10045
-11377	V	22000-2/3	Europe Ku	TV	Canal Extremadura Satélite	Yes	MPEG-4/SD	6384	1041	1042[Spa]	10045
-11377	V	22000-2/3	Europe Ku	TV	Galicia TV Europa	Yes	MPEG-4/HD	6385	1701	1702[Glg]	10045
-11377	V	22000-2/3	Europe Ku	R	Radio Galega	Yes		6386		1802[Glg]	10045
-11377	V	22000-2/3	Europe Ku	R	Radio Galega Música	Yes		6387		1902[Glg]	10045
-11391	H	22000-5/6	Europe	TV	RTL Zwei Schweiz	Yes		12400	255	256[Ger]	10054
-11391	H	22000-5/6	Europe	TV	RTL UHD	No	HEVC/UHD 4K|Nagravision	12410	2815	2816[Ger]	10054
-11421	H	22000-5/6	Europe	TV	3+	No	MPEG-4/HD|Viaccess	4704	1279	1280[Ger]	10058
-11421	H	22000-5/6	Europe	TV	Die Neue Zeit TV	Yes	MPEG-4/SD	4713	3583	3584[Ger]	10058
-11421	H	22000-5/6	Europe	TV	[test card]	No	Irdeto|Nagravision	4718	5119	5120	10058
-11421	H	22000-5/6	Europe	TV	[test card]	No	Nagravision|TVkey|Videoguard	4719	5375	5376	10058
-11421	H	22000-5/6	Europe	TV	[test card]	No		4720	5631	56.2	10058
-11464	H	22000-2/3	Pan Europe	TV	Sat. 1 Deutschland	No	MPEG-4/HD|Irdeto|Nagravision|Videoguard	61300	255	259[Ger]	11000
-11464	H	22000-2/3	Pan Europe	TV	ProSieben Deutschland	No	MPEG-4/HD|Irdeto|Nagravision|Videoguard	61301	511	515[Ger]	11000
-11464	H	22000-2/3	Pan Europe	TV	Kabel Eins Deutschland	No	MPEG-4/HD|Irdeto|Nagravision|Videoguard	61302	767	771[Ger]	11000
-11464	H	22000-2/3	Pan Europe	TV	Sixx Deutschland	No	MPEG-4/HD|Irdeto|Nagravision|Videoguard	61303	1023	1027[Ger]	11000
-11464	H	22000-2/3	Pan Europe	TV	ProSieben Maxx Deutschland	No	MPEG-4/HD|Irdeto|Nagravision|Videoguard	61304	1279	1283[Ger]	11000
-11464	H	22000-2/3	Pan Europe	TV	Kabel Eins Doku Deutschland	No	MPEG-4/HD|Nagravision	61305	1535	1539[Ger]	11000
-11464	H	22000-2/3	Pan Europe	TV	Kabel Eins Deutschland	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard	61322	76.	771[Ger]	11000
-11464	H	22000-2/3	Pan Europe	TV	Sixx Deutschland	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard	61323	1023	1027[Ger]	11000
-11464	H	22000-2/3	Pan Europe	TV	ProSieben Maxx Deutschland	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard	61324	1279	1283[Ger]	11000
-11494	H	22000-2/3	Pan Europe	TV	Das Erste	Yes	MPEG-4/HD	10301	5101	5102[Ger]|5103[Qaa]|5106[Ger]	11011
-11494	H	22000-2/3	Pan Europe	TV	ARTE Deutsch	Yes	MPEG-4/HD	10302	5111	5112[Ger]|5113[Fre]|5116[Ger]	11011
-11494	H	22000-2/3	Pan Europe	TV	SWR Fernsehen Baden-Württemberg	Yes	MPEG-4/HD	10303	5121	5122[Ger]|5123[Qaa]|5126[Ger]	11011
-11494	H	22000-2/3	Pan Europe	TV	SWR Fernsehen Rheinland-Pfalz (Mon-Sun 18-20 & Thu 20.15-21.00 & Mon-Fri 21.45-22.00 & Sun 21.45-22.45)	Yes	MPEG-4/HD	10304	5131	5132[Ger]|5133[Qaa]|5136[Ger]	11011
-11509	V	22000-5/6	Europe Ku	TV	Cubavisión Internacional	Yes		7008	708	728[Spa]	11016
-11509	V	22000-5/6	Europe Ku	TV	Aljazeera Channel	Yes		7009	709	729[Ara]	11016
-11509	V	22000-5/6	Europe Ku	TV	Arirang World	Yes		7011	711	731[Eng]	11016
-11538	V	22000-5/6	Europe Ku	TV	RT News	Yes		6904	604	624[Eng]	11021
-11538	V	22000-5/6	Europe Ku	TV	France 24 Français	Yes		6905	605	625[Fre]	11021
-11538	V	22000-5/6	Europe Ku	TV	France 24 English	Yes		6906	606	626[Eng]	11021
-11538	V	22000-5/6	Europe Ku	TV	CGTN Documentary	Yes		6912	612	632[Eng]	11021
-11538	V	22000-5/6	Europe Ku	TV	CGTN Français	Yes		6913	613	633[Fre]	11021
-11538	V	22000-5/6	Europe Ku	TV	CGTN	Yes		6914	614	634[Eng]	11021
-11538	V	22000-5/6	Europe Ku	TV	TV 5 Monde Europe	Yes		6915	615	635[Fre]	11021
-11538	V	22000-5/6	Europe Ku	TV	TRT World	Yes	MPEG-4/HD	6918	618	638[Eng]	11021
-11553	H	22000-2/3	Europe Ku	TV	Augsburg TV	Yes	MPEG-4/HD	5800	1010	1012[Ger]	11030
-11553	H	22000-2/3	Europe Ku	TV	München TV	Yes	MPEG-4/HD	5801	1020	1022[Ger]	11030
-11553	H	22000-2/3	Europe Ku	TV	RFO	Yes	MPEG-4/HD	5802	1030	1032[Ger]	11030
-11553	H	22000-2/3	Europe Ku	TV	Regio TV Schwaben (18-24)	Yes	MPEG-4/HD	5803	1040	1042[Ger]	11030
-11553	H	22000-2/3	Europe Ku	TV	Allgäu TV (18-24)	Yes	MPEG-4/HD	5803	1040	1042[Ger]	11030
-11553	H	22000-2/3	Europe Ku	TV	TV Ingolstadt	Yes	MPEG-4/HD	5804	1050	1052[Ger]	11030
-11553	H	22000-2/3	Europe Ku	TV	[Lokal-TV-Portal info card]	No	MPEG-4/HD	5805	.001	[Ger]	11030
-11553	H	22000-2/3	Europe Ku	TV	BB-MV Lokal TV	Yes	MPEG-4/SD	5806	1070	1072[Ger]	11030
-11582	H	22000-2/3	Pan Europe	TV	Bayerisches Fernsehen Süd	Yes	MPEG-4/HD	10325	5201	5202[Ger]|5203[Qaa]|5206[Ger]	11040
-11582	H	22000-2/3	Pan Europe	TV	Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15)	Yes	MPEG-4/HD	10326	5211	5212[Ger]|5213[Qaa]|5216[Ger]	11040
-11582	H	22000-2/3	Pan Europe	TV	NDR Fernsehen Niedersachsen	Yes	MPEG-4/HD	10327	5221	5222[Ger]|5223[Qaa]|5226[Ger]	11040
-11582	H	22000-2/3	Pan Europe	TV	NDR Fernsehen Mecklenburg-Vorpommern (18.00-18.15 & 19.30-20.00)	Yes	MPEG-4/HD	10328	5231	5232[Ger]|5233[Qaa]|5236[Ger]	11040
-11582	H	22000-2/3	Pan Europe	TV	NDR Fernsehen Hamburg (18.00-18.15 & 19.30-20.00)	Yes	MPEG-4/HD	10329	5241	5242[Ger]|5243[Qaa]|5246[Ger]	11040
-11582	H	22000-2/3	Pan Europe	TV	NDR Fernsehen Schleswig-Holstein (18.00-18.15 & 19.30-20.00)	Yes	MPEG-4/HD	10330	5251	5252[Ger]|5253[Qaa]|5256[Ger]	11040
-11582	H	22000-2/3	Pan Europe	TV	Phoenix	Yes	MPEG-4/HD	10331	5261	5262[Ger]|5263[Qaa]	11040
-11597	V	22000-5/6	Europe Ku	TV	CNBC Europe	Yes		10030	307	308[Eng]	11048
-11597	V	22000-5/6	Europe Ku	TV	Bloomberg TV Europe	Yes		10067	1360	1320[Eng]	11048
-11597	V	22000-5/6	Europe Ku	TV	SBN International	Yes		10080	1051	1052[Eng]|1053[Spa]	11048
-11597	V	22000-5/6	Europe Ku	TV	Algérie 3	Yes		10082	514	670[Ara]	11048
-11597	V	22000-5/6	Europe Ku	TV	Canal Algérie 2	Yes		10083	515	680[Ara]	11048
-11612	H	22000-5/6	Pan Europe	TV	KaufBei TV	Yes	MPEG-4/SD	5126	6601	6611[Ger]	11054
-11612	H	22000-5/6	Pan Europe	TV	TBN Rossiya	Yes	MPEG-2/SD	5143	2017	3017[Rus]	11054
-11612	H	22000-5/6	Pan Europe	TV	8 Kanal International	Yes	MPEG-4/SD	5147	611	50[Rus]	11054
-11612	H	22000-5/6	Pan Europe	TV	TV Rus	Yes	MPEG-4/SD	5601	255	256[Rus]	11054
-11612	H	22000-5/6	Pan Europe	R	TSR	Yes		5116		1615[Tur]	11054
-11627	V	22000-5/6	Europe Wide	TV	SpaceConnectsUs	Yes	MPEG-4/HD	4410	50	88[Eng]	11060
-11627	V	22000-5/6	Europe Wide	TV	CNN International Europe	Yes		4422	165	100[Eng]	11060
-11627	V	22000-5/6	Europe Wide	TV	DW English	Yes		4430	529	785[Eng]	11060
-11627	V	22000-5/6	Europe Wide	TV	Aljazeera English	Yes		4440	3505	3625[Eng]	11060
-11656	V	22000-2/3	Pan Europe	TV	Sportdigital Fussball	No	MPEG-4/HD|Cryptoworks|Irdeto|Nagravision|Viaccess|Videoguard	4500	255	256[Ger]|257[Eng]	11066
-11656	V	22000-2/3	Pan Europe	TV	Sport 1+	No	MPEG-4/HD|Nagravision|Videoguard	4501	511	512[Ger]|513[Eng]	11066
-11656	V	22000-2/3	Pan Europe	TV	ESports 1	No	MPEG-4/HD|Nagravision|Videoguard	4502	767	76.[Ger]|769[Eng]	11066
-11656	V	22000-2/3	Pan Europe	TV	Edge Sport	No	MPEG-4/HD|Nagravision|Videoguard	4503	1023	1024[Eng]	11066
-11671	H	22000-2/3	Pan Europe	TV	Puls 24	Yes	MPEG-4/HD	5304	1279	1283[Ger]	11071
-11671	H	22000-2/3	Pan Europe	TV	Sat. 1 Gold Österreich	Yes		5310	2815	2816[Ger]	11071
-11671	H	22000-2/3	Pan Europe	TV	ProSieben Maxx Austria	Yes		5311	3071	3072[Ger]	11071
-11671	H	22000-2/3	Pan Europe	TV	Kabel Eins Doku Austria	Yes		5312	3327	3328[Ger]	11071
-11686	V	22000-5/6	Europe	TV	Aragón TV Internacional	Yes		30205	160	80[Spa]	11076
-11836	H	27500-3/4	Pan Europe	TV	Das Erste	Yes		28106	101	102[Ger]|106[Ger]	12006
-11836	H	27500-3/4	Pan Europe	TV	Bayerisches Fernsehen Süd	Yes		28107	201	202[Ger]|206[Ger]	12006
-11836	H	27500-3/4	Pan Europe	TV	HR Fernsehen	Yes		28108	301	302[Ger]	12006
-11836	H	27500-3/4	Pan Europe	TV	Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15)	Yes		28110	501	502[Ger]	12006
-11836	H	27500-3/4	Pan Europe	TV	WDR Fernsehen Köln	Yes		28111	601	602[Ger]	12006
-11836	H	27500-3/4	Pan Europe	TV	SWR Fernsehen Baden-Württemberg	Yes		28113	801	802[Ger]|806[Ger]	12006
-11856	V	29700-2/3	Europe Wide	TV	M6 Boutique	Yes	MPEG-4/HD	8206	610	621[Fre]	12013
-11934	V	29700-2/3	Europe Wide	TV	Canal + France clair Canal	Yes	MPEG-4/HD	8909	910	921[Fre]|922[Qaa]	12018
-11954	H	27500-3/4	Pan Europe	TV	ZDF	Yes		28006	110	120[Ger]|125[Ger]	12020
-11954	H	27500-3/4	Pan Europe	TV	3sat	Yes		28007	210	220[Ger]|225[Ger]	12020
-11954	H	27500-3/4	Pan Europe	TV	KIKA (06-21)	Yes		28008	310	320[Ger]|325[Ger]	12020
-11954	H	27500-3/4	Pan Europe	TV	ZDF Info	Yes		28011	610	620[Ger]|625[Ger]	12020
-11954	H	27500-3/4	Pan Europe	TV	ZDF Neo	Yes		28014	660	670[Ger]|675[Ger]	12020
-11954	H	27500-3/4	Pan Europe	R	Deutschlandfunk Kultur	Yes		28012		710[Ger]	12020
-11954	H	27500-3/4	Pan Europe	R	Deutschlandfunk Kultur	Yes		28012		711[Ger]	12020
-11954	H	27500-3/4	Pan Europe	R	Deutschlandfunk	Yes		28013		810[Ger]	12020
-11954	H	27500-3/4	Pan Europe	R	Dokumente und Debatten	Yes		28015		510[Ger]	12020
-11954	H	27500-3/4	Pan Europe	R	Deutschlandfunk Nova	Yes		28017		410[Ger]	12020
-11973	V	27500-3/4	Europe Wide	TV	Nickelodeon HD	No	MPEG-4/HD|Viaccess	28651	3011	3012[Tur]|3013[Eng]|3014[Rus]|3015[Hrv]	12031
-11973	V	27500-3/4	Europe Wide	TV	VH1 Europe	No	Conax|Cryptoworks|Irdeto|Mediaguard|Nagravision|Viaccess	28656	3061	3062[Eng]	12031
-11973	V	27500-3/4	Europe Wide	TV	VH1 Classic	No	Conax|Cryptoworks|Irdeto|Mediaguard|Nagravision|Viaccess	28657	3071	3072[Eng]	12031
-11973	V	27500-3/4	Europe Wide	TV	Nick Jr Europe	No	Viaccess	28661	3111	3112[Ger]|3113[Eng]|3114[Fre]|3117[Tur]	12031
-11973	V	27500-3/4	Europe Wide	TV	Nick Jr Europe	No	Viaccess	28662	3111	3113[Eng]|3114[Fre]|3116[Rus]|3118[Swe]|3119[Dan]|3120[Nor]|3121[Fin]|3122[Dut]|3128[Por]	12031
-11973	V	27500-3/4	Europe Wide	TV	Nick Jr Europe	No	Cryptoworks|Irdeto|Mediaguard|Nagravision|Viaccess	28663	3111	3112[Ger]|3113[Eng]|3114[Fre]|3122[Dut]	12031
-11973	V	27500-3/4	Europe Wide	TV	Nick Jr Europe	No	Cryptoworks|Irdeto|Mediaguard|Nagravision|Viaccess	28665	3111	3112[Ger]|3113[Eng]|3114[Fre]|3116[Rus]|3117[Tur]|3118[Swe]|3119[Dan]|3120[Nor]|3121[Fin]|3122[Dut]|3123[Hun]|3124[Ara]|3125[Rum]|3126[Hrv]|3127[Srp]|3128[Por]|3129[Cze]|3130[Slo]	12031
-11973	V	27500-3/4	Europe Wide	TV	Nick Jr Europe	No	Viaccess	28668	3111	3113[Eng]|3116[Rus]|3123[Hun]|3124[Ara]|3125[Rum]|3126[Hrv]|3127[Srp]|3129[Cze]	12031
-11973	V	27500-3/4	Europe Wide	TV	MTV Music 24	No	Conax|Cryptoworks|Irdeto|Mediaguard|Nagravision|Viaccess	28671	4011	4012[Eng]	12031
-11973	V	27500-3/4	Europe Wide	TV	Comedy Central Deutschland	Yes		28676	4061	4062[Ger]	12031
-11973	V	27500-3/4	Europe Wide	TV	Nick Jr Europe	No	Viaccess	28677	311.	3113[Eng]|3123[Hun]|3126[Hrv]|3127[Srp]|3130[Slv]	12031
-11973	V	27500-3/4	Europe Wide	TV	MTV Germany	Yes		28678	4081	4082[Ger]|4083[Eng]	12031
-11973	V	27500-3/4	Europe Wide	TV	MTV Germany +1 (20.15-05.00)	Yes		28680	4101	4102[Ger]	12031
-11973	V	27500-3/4	Europe Wide	TV	Nickelodeon Deutschland (05.00-20.15)	Yes		28680	4101	4102[Ger]|4103[Eng]	12031
-12032	H	27500-9/10	Pan Europe	TV	Sky Select	Yes	MPEG-4/SD	18	2559	2560[Ger]	12048
-12051	V	27500-3/4	Pan Europe	TV	ProSieben Schweiz	Yes		20001	289	290[Ger]|292[Ger]	12050
-12051	V	27500-3/4	Pan Europe	TV	ProSieben Austria	Yes		20002	161	84[Ger]|85[Ger]	12050
-12051	V	27500-3/4	Pan Europe	TV	Kabel Eins Schweiz	Yes		20003	162	163[Ger]	12050
-12051	V	27500-3/4	Pan Europe	TV	Kabel Eins Austria	Yes		20004	166	167[Ger]	12050
-12051	V	27500-3/4	Pan Europe	TV	Sat. 1 Österreich	Yes		20005	80.	801[Ger]|803[Ger]	12050
-12051	V	27500-3/4	Pan Europe	TV	Sat. 1 Schweiz	Yes		20006	1535	1536[Ger]|1539[Ger]	12050
-12051	V	27500-3/4	Pan Europe	TV	Puls 4	No	Cryptoworks|Irdeto|Viaccess|Videoguard	20007	1791	1792[Ger]	12050
-12051	V	27500-3/4	Pan Europe	TV	Sat. 1 Hamburg und Schleswig-Holstein	Yes		20008	2047	2048[Ger]|2051[Ger]	12050
-12051	V	27500-3/4	Pan Europe	TV	Sat. 1 Niedersachsen und Bremen (Mon-Fri 17.30-17.55)	Yes		20009	2303	2304[Ger]|2307[Ger]	12050
-12051	V	27500-3/4	Pan Europe	TV	Sat. 1 Rheinland-Pfalz/Hessen (Mon-Fri 17.30-17.55)	Yes		20010	2559	2560[Ger]|2563[Ger]	12050
-12110	H	27500-3/4	Europe	TV	RBB Brandenburg (19.30-20.00)	Yes		28205	501	502[Ger]	13000
-12110	H	27500-3/4	Europe	TV	RBB Berlin	Yes		28206	601	602[Ger]	13000
-12110	H	27500-3/4	Europe	TV	NDR Fernsehen Mecklenburg-Vorpommern (18.00-18.15 & 19.30-20.00)	Yes		28224	2401	2402[Ger]	13000
-12110	H	27500-3/4	Europe	TV	NDR Fernsehen Hamburg (18.00-18.15 & 19.30-20.00)	Yes		28225	2501	2502[Ger]	13000
-12110	H	27500-3/4	Europe	TV	NDR Fernsehen Niedersachsen	Yes		28226	2601	2602[Ger]	13000
-12110	H	27500-3/4	Europe	TV	NDR Fernsehen Schleswig-Holstein (18.00-18.15 & 19.30-20.00)	Yes		28227	2701	2702[Ger]	13000
-12110	H	27500-3/4	Europe	TV	MDR Fernsehen Sachsen (19.00-19.30 & Wed 21.15-21.45)	Yes		28228	2801	2802[Ger]	13000
-12110	H	27500-3/4	Europe	TV	MDR Fernsehen Sachsen-Anhalt	Yes		28229	2901	2902[Ger]	13000
-12110	H	27500-3/4	Europe	TV	MDR Fernsehen Thüringen (19.00-19.30 & Wed 21.15-21.45)	Yes		28230	3001	3002[Ger]	13000
-12110	H	27500-3/4	Europe	TV	SWR Fernsehen Rheinland-Pfalz	Yes		28231	3101	3102[Ger]|3106[Ger]	13000
-12129	V	29700-2/3	Pan Europe	TV	TV 5 Monde France Belgique Suisse	Yes	MPEG-4/HD	9910	1010	1021[Fre]	13011
-12148	H	27500-3/4	Pan Europe	TV	N24 Doku Austria	Yes		53	255	256[Ger]	13013
-12148	H	27500-3/4	Pan Europe	TV	Genius Exklusiv	Yes	MPEG-4/SD	54	3071	3072[Ger]	13013
-12148	H	27500-3/4	Pan Europe	TV	Comedy Central Austria	Yes		60	1535	1536[Ger]	13013
-12148	H	27500-3/4	Pan Europe	TV	Nickelodeon Austria	Yes		61	1791	1792[Ger]|1793[Eng]	13013
-12148	H	27500-3/4	Pan Europe	TV	Deluxe Music	Yes		65	3327	3328[Ger]	13013
-12148	H	27500-3/4	Pan Europe	TV	TLC Austria	Yes		71	511	512[Ger]	13013
-12148	H	27500-3/4	Pan Europe	TV	DMAX Austria	Yes		73	3583	3584[Ger]	13013
-12148	H	27500-3/4	Pan Europe	TV	MediaShop	Yes		514	2303	2304[Ger]	13013
-12148	H	27500-3/4	Pan Europe	TV	Pearl TV	Yes		765	2047	2048[Ger]	13013
-12148	H	27500-3/4	Pan Europe	TV	Channel 21	Yes		769	1023	1024[Ger]	13013
-12148	H	27500-3/4	Pan Europe	TV	MediaShop	Yes		775	1279	1280[Ger]	13013
-12148	H	27500-3/4	Pan Europe	R	Rock Antenne	Yes		160		304[Ger]	13013
-12148	H	27500-3/4	Pan Europe	R	ERF Plus	Yes		161		320[Ger]	13013
-12148	H	27500-3/4	Pan Europe	R	ERF Pop	Yes		162		368[Ger]	13013
-12148	H	27500-3/4	Pan Europe	R	Sunshine Live	Yes		169		336[Ger]	13013
-12148	H	27500-3/4	Pan Europe	R	Antenne Bayern	Yes		170		352[Ger]	13013
-12168	V	29700-2/3	Pan Europe	TV	Canal + promo	No	MPEG-4/SD	9311	1110	1121[Fre]	13030
-12188	H	27500-3/4	Europe Ku	TV	RTL Deutschland	Yes		12003	163	104[Ger]|106[Ger]	13032
-12188	H	27500-3/4	Europe Ku	TV	RTL West (Mon-Fri 18.00-18.30)	Yes		12004	190	191[Ger]	13032
-12188	H	27500-3/4	Europe Ku	TV	RTL Nord Niedersachsen & Bremen (Mon-Fri 18.00-18.30)	Yes		12005	180	181[Ger]	13032
-12188	H	27500-3/4	Europe Ku	TV	TV Bayern (Sat 17.45-18.45)	Yes		12006	200	201[Ger]	13032
-12188	H	27500-3/4	Europe Ku	TV	RTL Nord Hamburg & Schleswig-Holstein (Mon-Fri 18.00-18.30)	Yes		12009	170	171[Ger]	13032
-12188	H	27500-3/4	Europe Ku	TV	RTL Zwei Deutschland	Yes		12020	166	128[Ger]	13032
-12188	H	27500-3/4	Europe Ku	TV	Toggo Plus	Yes		12030	301	303[Ger]	13032
-12188	H	27500-3/4	Europe Ku	TV	Super RTL Deutschland	Yes		12040	165	120[Ger]	13032
-12188	H	27500-3/4	Europe Ku	TV	Vox Deutschland	Yes		12060	167	136[Ger]	13032
-12188	H	27500-3/4	Europe Ku	TV	Nitro Deutschland	Yes		12061	173	146[Ger]	13032
-12188	H	27500-3/4	Europe Ku	TV	RTL Plus	Yes		12080	168	137[Ger]	13032
-12188	H	27500-3/4	Europe Ku	TV	N-TV	Yes		12090	169	73[Ger]	13032
-12207	V	29700-2/3	Pan Europe	TV	LCI	Yes	MPEG-4/HD	9009	910	921[Fre]	13045
-12207	V	29700-2/3	Pan Europe	TV	C News	Yes	MPEG-4/HD	9014	1410	1421[Fre]	13045
-12207	V	29700-2/3	Pan Europe	TV	LCP Assemblée Nationale	Yes	MPEG-4/HD	9015	1510	1521[Fre]	13045
-12207	V	29700-2/3	Pan Europe	TV	Public Sénat	Yes	MPEG-4/HD	9015	1510	1521[Fre]	13045
-12226	H	27500-3/4	Europe Ku	TV	RTL Austria	Yes		28800	201	202[Ger]	13050
-12226	H	27500-3/4	Europe Ku	TV	Vox Austria	Yes		28805	301	302[Ger]	13050
-12226	H	27500-3/4	Europe Ku	TV	RTL Zwei Austria	Yes		28810	401	402[Ger]	13050
-12226	H	27500-3/4	Europe Ku	TV	Super RTL Austria	Yes		28815	501	502[Ger]	13050
-12226	H	27500-3/4	Europe Ku	TV	Voxup	Yes		28820	601	602[Ger]	13050
-12226	H	27500-3/4	Europe Ku	TV	Eurosport 1 Germany	Yes		31200	.01	103[Ger]	13050
-12226	H	27500-3/4	Europe Ku	TV	HSE 24 Extra	Yes		31210	512	660[Ger]	13050
-12226	H	27500-3/4	Europe Ku	TV	EuroNews Français	Yes		31220	2432	2435[Fre]	13050
-12226	H	27500-3/4	Europe Ku	TV	EuroNews Deutsch	Yes		31230	2440	2445[Ger]	13050
-12266	H	27500-3/4	Europe	TV	SR Fernsehen	Yes		28486	1301	1302[Ger]	13061
-12266	H	27500-3/4	Europe	TV	ARD Alpha	Yes		28487	1401	1402[Ger]|1406[Ger]	13061
-12266	H	27500-3/4	Europe	R	Bayern 1 Oberbayern	Yes		28400		101[Ger]	13061
-12266	H	27500-3/4	Europe	R	Bayern 2 Süd	Yes		28401		11.[Ger]	13061
-12266	H	27500-3/4	Europe	R	Bayern 3	Yes		28402		121[Ger]	13061
-12266	H	27500-3/4	Europe	R	BR Klassik	Yes		28403		131[Ger]	13061
-12266	H	27500-3/4	Europe	R	BR Klassik	Yes		28403		132[Ger]	13061
-12266	H	27500-3/4	Europe	R	B5 aktuell	Yes		28404		141[Ger]	13061
-12266	H	27500-3/4	Europe	R	Bayern Plus	Yes		28405		151[Ger]	13061
-12266	H	27500-3/4	Europe	R	BR Puls	Yes		28406		161[Ger]	13061
-12266	H	27500-3/4	Europe	R	BR Heimat	Yes		28407		171[Ger]	13061
-12266	H	27500-3/4	Europe	R	B5 plus	Yes		28408		181[Ger]	13061
-12266	H	27500-3/4	Europe	R	HR 1	Yes		28419		401[Ger]	13061
-12266	H	27500-3/4	Europe	R	HR 2 Kultur	Yes		28420		411[Ger]	13061
-12266	H	27500-3/4	Europe	R	HR 2 Kultur	Yes		28420		412[Ger]	13061
-12266	H	27500-3/4	Europe	R	HR 3	Yes		28421		421[Ger]	13061
-12266	H	27500-3/4	Europe	R	HR 4	Yes		28422		431[Ger]	13061
-12266	H	27500-3/4	Europe	R	You FM	Yes		28423		451[Ger]	13061
-12266	H	27500-3/4	Europe	R	HR Info	Yes		28424		461[Ger]	13061
-12266	H	27500-3/4	Europe	R	MDR Sachsen	Yes		28428		501[Ger]	13061
-12266	H	27500-3/4	Europe	R	MDR Sachsen-Anhalt	Yes		28429		511[Ger]	13061
-12266	H	27500-3/4	Europe	R	MDR Thüringen	Yes		28430		52.[Ger]	13061
-12266	H	27500-3/4	Europe	R	MDR Kultur	Yes		28431		531[Ger]	13061
-12266	H	27500-3/4	Europe	R	MDR Kultur	Yes		28431		532[Ger]	13061
-12266	H	27500-3/4	Europe	R	MDR Jump	Yes		28432		541[Ger]	13061
-12266	H	27500-3/4	Europe	R	MDR Sputnik	Yes		28433		551[Ger]	13061
-12266	H	27500-3/4	Europe	R	MDR Aktuell	Yes		28434		561[Ger]	13061
-12266	H	27500-3/4	Europe	R	MDR Klassik	Yes		28435		571[Ger]	13061
-12266	H	27500-3/4	Europe	R	NDR 2 Niedersachsen	Yes		28437		601[Ger]	13061
-12266	H	27500-3/4	Europe	R	NDR Kultur	Yes		28438		611[Ger]	13061
-12266	H	27500-3/4	Europe	R	NDR Info Niedersachsen	Yes		28439		621[Ger]	13061
-12266	H	27500-3/4	Europe	R	N-Joy	Yes		28440		631[Ger]	13061
-12266	H	27500-3/4	Europe	R	NDR 90.3	Yes		28441		641[Ger]	13061
-12266	H	27500-3/4	Europe	R	NDR 1 Welle Nord Kiel	Yes		28442		651[Ger]	13061
-12266	H	27500-3/4	Europe	R	NDR 1 Radio MV Schwerin	Yes		28443		661[Ger]	13061
-12266	H	27500-3/4	Europe	R	NDR 1 Niedersachsen Hannover	Yes		28444		671[Ger]	13061
-12266	H	27500-3/4	Europe	R	NDR Info Spezial	Yes		28445		681[Ger]	13061
-12266	H	27500-3/4	Europe	R	NDR Blue	Yes		28446		691[Ger]	13061
-12266	H	27500-3/4	Europe	R	NDR Plus	Yes		28447		696[Ger]	13061
-12266	H	27500-3/4	Europe	R	Bremen Eins	Yes		28448		701[Ger]	13061
-12266	H	27500-3/4	Europe	R	Bremen Zwei	Yes		28449		711[Ger]	13061
-12266	H	27500-3/4	Europe	R	Bremen Vier	Yes		28450		721[Ger]	13061
-12266	H	27500-3/4	Europe	R	InfoRadio	Yes		28452		801[Ger]	13061
-12266	H	27500-3/4	Europe	R	RBB Kultur	Yes		28453		811[Ger]	13061
-12266	H	27500-3/4	Europe	R	Antenne Brandenburg Potsdam	Yes		28454		821[Ger]	13061
-12266	H	27500-3/4	Europe	R	RBB 88.8	Yes		28455		831[Ger]	13061
-12266	H	27500-3/4	Europe	R	Radio Eins	Yes		28456		841[Ger]	13061
-12266	H	27500-3/4	Europe	R	Fritz	Yes		28457		851[Ger]	13061
-12266	H	27500-3/4	Europe	R	SR 1 Europawelle	Yes		28461		901[Ger]	13061
-12266	H	27500-3/4	Europe	R	SR 2 KulturRadio	Yes		28462		911[Ger]	13061
-12266	H	27500-3/4	Europe	R	SR 3 Saarlandwelle	Yes		28463		.21[Ger]	13061
-12266	H	27500-3/4	Europe	R	SWR 1 Baden-Württemberg	Yes		28465		1001[Ger]	13061
-12266	H	27500-3/4	Europe	R	SWR 1 Rheinland-Pfalz	Yes		28466		1011[Ger]	13061
-12266	H	27500-3/4	Europe	R	SWR 2 Baden-Württemberg	Yes		28467		1021[Ger]	13061
-12266	H	27500-3/4	Europe	R	SWR 2 Baden-Württemberg	Yes		28467		1022[Ger]	13061
-12266	H	27500-3/4	Europe	R	SWR 3 Rheinland-Pfalz	Yes		28468		1031[Ger]	13061
-12266	H	27500-3/4	Europe	R	SWR 4 Baden-Württemberg Stuttgart	Yes		28469		1041[Ger]	13061
-12266	H	27500-3/4	Europe	R	SWR 4 Rheinland-Pfalz Mainz	Yes		28470		1051[Ger]	13061
-12266	H	27500-3/4	Europe	R	Das Ding	Yes		28471		1061[Ger]	13061
-12266	H	27500-3/4	Europe	R	SWR Aktuell	Yes		28472		1071[Ger]	13061
-12266	H	27500-3/4	Europe	R	WDR 1 Live	Yes		28475		1101[Ger]	13061
-12266	H	27500-3/4	Europe	R	WDR 2 Rheinland	Yes		28476		1111[Ger]	13061
-12266	H	27500-3/4	Europe	R	WDR 3	Yes		28477		1121[Ger]	13061
-12266	H	27500-3/4	Europe	R	WDR 3	Yes		28477		1122[Ger]	13061
-12266	H	27500-3/4	Europe	R	WDR 4	Yes		28478		1131[Ger]	13061
-12266	H	27500-3/4	Europe	R	WDR 5	Yes		28479		1141[Ger]	13061
-12266	H	27500-3/4	Europe	R	Cosmo	Yes		28480		1151[Ger]	13061
-12266	H	27500-3/4	Europe	R	WDR 1 Live Diggi	Yes		28481		1161[Ger]	13061
-12266	H	27500-3/4	Europe	R	Die Sendung mit der Maus	Yes		28482		1171[Ger]	13061
-12266	H	27500-3/4	Europe	R	WDR Event	Yes		28483		1181[Ger]	13061
-12304	H	27500-9/10	Pan Europe	TV	Sky Sport News	Yes	MPEG-4/HD	108	1023	1027[Ger]	13133
-12344	H	30000-2/3	Europe	TV	Insight UHD	No	HEVC/UHD 4K|Conax|Irdeto|Nagravision|Viaccess|Videoguard	2000	255	256[Eng]|257[Ger]|258[Pol]|259[Eng]	13136
-12344	H	30000-2/3	Europe	TV	Insight UHD	No	HEVC/UHD 4K|Nagravision	2001	255	256[Eng]|512[Spa]	13136
-12344	H	30000-2/3	Europe	TV	Insight UHD	No	HEVC/UHD 4K|Nagravision	2005	255	256[Eng]|1280[Rus]	13136
-12344	H	30000-2/3	Europe	TV	QVC Zwei	Yes	HEVC/UHD 4K	2010	2815	2816[Ger]	13136
-12363	V	27500-3/4	Pan Europe	R	Sud Radio	Yes		9109		1914[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	Monte Carlo Doualiya	Yes		9110		1915[Ara]	13141
-12363	V	27500-3/4	Pan Europe	R	BFM Business Radio	Yes		9111		1918[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	Fun Radio (France)	Yes		9140		1964[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	BBC World Service English Europe	Yes		9142		1951[Eng]	13141
-12363	V	27500-3/4	Pan Europe	R	BBC World Service Arabic	Yes		9143		1946[Ara]	13141
-12363	V	27500-3/4	Pan Europe	R	Melody Vintage Radio	Yes		9144		1965[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	Mouv'	Yes		9153		1902[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	France Musique	Yes		9154		1901[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	FIP	Yes		9155		1903[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	Franceinfo: Radio	Yes		9156		1904[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	France Inter	Yes		9157		1905[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	France Culture	Yes		9158		1906[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	France Bleu 107.1	Yes		9159		1907[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	Radio France Internationale	Yes		9163		1908[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	Radio Classique	Yes		9164		1909[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	RTL	Yes		9165		1910[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	Europe 1	Yes		9166		1911[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	RMC	Yes		9167		1912[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	Rire & Chansons	Yes		9168		1913[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	TSF Jazz	Yes		9175		1916[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	Oüi FM	Yes		9176		1976[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	Jazz Radio	Yes		9177		1978[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	Radio Nova (France)	Yes		9178		1966[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	FG	Yes		9179		1967[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	Contact FM	Yes		9180		1969[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	Nostalgie	Yes		9181		1970[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	NRJ France	Yes		9182		1960[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	RFM (France)	Yes		9183		1972[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	Virgin Radio France	Yes		9184		19.1[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	Chérie FM	Yes		9185		1973[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	RTL 2	Yes		9186		1962[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	Skyrock	Yes		9187		1963[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	Radio Notre Dame	Yes		9194		1942[Fre]	13141
-12363	V	27500-3/4	Pan Europe	R	Beur FM	Yes		9198		1945[Fre]	13141
-12402	V	29700-2/3	Pan Europe	TV	[Canal + France info card]	No	MPEG-4/HD	8704	410	421[Fre]	13178
-12422	H	27500-3/4	Europe	TV	WDR Studio Bielefeld (Mon-Sat 19.30-20.00)	Yes		28306	301	302[Ger]	13180
-12422	H	27500-3/4	Europe	TV	WDR Studio Dortmund (Mon-Sat 19.30-20.00)	Yes		28307	401	402[Ger]	13180
-12422	H	27500-3/4	Europe	TV	WDR Fernsehen Düsseldorf	Yes		28308	501	502[Ger]	13180
-12422	H	27500-3/4	Europe	TV	WDR Studio Essen (Mon-Sat 19.30-20.00)	Yes		28309	601	602[Ger]	13180
-12422	H	27500-3/4	Europe	TV	WDR Studio Münster (Mon-Sat 19.30-20.00)	Yes		28310	701	702[Ger]	13180
-12422	H	27500-3/4	Europe	TV	WDR Studio Siegen (Mon-Sat 19.30-20.00)	Yes		28311	801	802[Ger]	13180
-12422	H	27500-3/4	Europe	TV	WDR Fernsehen Köln	Yes	MPEG-4/HD	28325	5501	5502[Ger]|5503[Qaa]|5506[Ger]	13180
-12422	H	27500-3/4	Europe	TV	WDR Studio Bielefeld (Mon-Sat 19.30-20.00)	Yes	MPEG-4/HD	28326	5511	5512[Ger]	13180
-12422	H	27500-3/4	Europe	TV	WDR Studio Dortmund (Mon-Sat 19.30-20.00)	Yes	MPEG-4/HD	28327	5521	5522[Ger]	13180
-12422	H	27500-3/4	Europe	TV	WDR Fernsehen Düsseldorf (Mon-Sat 19.30-20.00)	Yes	MPEG-4/HD	28328	5531	5532[Ger]	13180
-12422	H	27500-3/4	Europe	TV	WDR Studio Essen (Mon-Sat 19.30-20.00)	Yes	MPEG-4/HD	28329	5541	5542[Ger]	13180
-12422	H	27500-3/4	Europe	TV	WDR Studio Münster (Mon-Sat 19.30-20.00)	Yes	MPEG-4/HD	28330	5551	5552[Ger]	13180
-12422	H	27500-3/4	Europe	TV	WDR Studio Siegen (Mon-Sat 19.30-20.00)	Yes	MPEG-4/HD	28331	5561	5562[Ger]	13180
-12422	H	27500-3/4	Europe	TV	Radio Bremen TV	Yes		28385	1201	1202[Ger]	13180
-12460	H	27500-3/4	Europe	TV	N24 Doku	Yes		48	511	512[Ger]	13196
-12460	H	27500-3/4	Europe	TV	EWTN auf Deutsch	Yes		62	1023	1024[Ger]	13196
-12460	H	27500-3/4	Europe	TV	QVC Style Deutschland	Yes		64	1791	1792[Ger]	13196
-12460	H	27500-3/4	Europe	TV	Nicer Dicer TV	Yes	MPEG-4/SD	74	2303	2304[Ger]	13196
-12460	H	27500-3/4	Europe	TV	Handystar	Yes		659	3071	3072[Ger]	13196
-12460	H	27500-3/4	Europe	TV	1-2-3 TV (05-02)	Yes		662	2815	2816[Ger]	13196
-12460	H	27500-3/4	Europe	TV	Babestation 24 (02-05)	Yes		662	2815	2816[Ger]	13196
-12460	H	27500-3/4	Europe	TV	Anixe +	Yes	MPEG-4/HD	764	3311	3312[Ger]	13196
-12460	H	27500-3/4	Europe	TV	TLC Germany	Yes		772	1535	1536[Ger]	13196
-12460	H	27500-3/4	Europe	TV	Sixx Deutschland	Yes		776	767	768[Ger]	13196
-12460	H	27500-3/4	Europe	TV	Disney Channel Deutschland	Yes		1793	2047	2048[Ger]|2051[Ger]	13196
-12460	H	27500-3/4	Europe	TV	QVC Deutschland	Yes		1794	255	256[Ger]	13196
-12460	H	27500-3/4	Europe	R	Ego FM	Yes		172		384[Ger]	13196
-12460	H	27500-3/4	Europe	R	Klassik Radio	Yes		173		336[Ger]	13196
-12460	H	27500-3/4	Europe	R	Jam FM New Music Radio	Yes		177		528[Ger]	13196
-12480	V	27500-3/4	Europe	TV	Sonnenklar TV	Yes		32	2303	2304[Ger]	13212
-12480	V	27500-3/4	Europe	TV	HSE 24	Yes		40	1279	1280[Ger]	13212
-12480	V	27500-3/4	Europe	TV	Handystar 2	Yes		46	1791	1792[Ger]	13212
-12480	V	27500-3/4	Europe	TV	Regio TV Satellit	Yes	MPEG-4/SD	47	2047	2048[Ger]	13212
-12480	V	27500-3/4	Europe	TV	Tele 5 (Germany)	Yes		51	1535	1536[Ger]	13212
-12480	V	27500-3/4	Europe	TV	DMAX Deutschland	Yes		63	3327	3328[Ger]	13212
-12480	V	27500-3/4	Europe	TV	Baden TV	Yes	MPEG-4/SD	76	2815	2816[Ger]	13212
-12480	V	27500-3/4	Europe	TV	HSE 24 Trend	Yes		77	3071	3072[Ger]	13212
-12480	V	27500-3/4	Europe	TV	AstroTV	Yes		661	2559	2560[Ger]	13212
-12480	V	27500-3/4	Europe	TV	Equi 8 TV	Yes		897	767	768[Ger]	13212
-12480	V	27500-3/4	Europe	TV	MediaShop	Yes		898	255	256[Ger]	13212
-12480	V	27500-3/4	Europe	TV	Mein TV Shop	Yes		899	511	512[Ger]	13212
-12480	V	27500-3/4	Europe	TV	Sport 1 (Germany)	Yes		900	1023	1024[Ger]	13212
-12515	H	22000-5/6	Europe Ku	TV	Vivid TV Europe	No	MPEG-4/SD|Cryptoworks|Irdeto|Mediaguard|Viaccess	4064	564	90[Eng]	14000
-12515	H	22000-5/6	Europe Ku	TV	Vivid TV Europe	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	4065	564	90[Eng]	14000
-12515	H	22000-5/6	Europe Ku	TV	RTL Lounge	No	MPEG-4/SD|Mediaguard|Viaccess	4066	566	126[Dut]	14000
-12515	H	22000-5/6	Europe Ku	TV	AB 3	No	MPEG-4/SD|Mediaguard|Viaccess	4102	602	142[Fre]	14000
-12515	H	22000-5/6	Europe Ku	TV	Brazzers TV Europe (22-06)	No	MPEG-4/SD|Cryptoworks|Irdeto|Mediaguard|Viaccess	4105	605	145[Eng]	14000
-12515	H	22000-5/6	Europe Ku	TV	Eurosport 2	No	MPEG-4/SD|Cryptoworks|Irdeto|Mediaguard|Viaccess	4106	606	146[Eng]|246[Ger]	14000
-12515	H	22000-5/6	Europe Ku	TV	Hustler TV Europe	No	MPEG-4/SD|Cryptoworks|Irdeto|Mediaguard|Viaccess	4107	607	147[Eng]	14000
-12515	H	22000-5/6	Europe Ku	TV	Hustler TV Europe	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	4109	607	147[Eng]	14000
-12515	H	22000-5/6	Europe Ku	TV	Planet	No	MPEG-4/SD|Cryptoworks|Irdeto|Mediaguard|Viaccess	4115	615	155[Ger]	14000
-12515	H	22000-5/6	Europe Ku	TV	AXN Deutschland	No	MPEG-4/SD|Cryptoworks|Irdeto|Mediaguard|Viaccess	4125	625	165[Ger]|265[Eng]	14000
-12515	H	22000-5/6	Europe Ku	TV	Eleven Sports 1 België	No	MPEG-4/SD|Mediaguard|Viaccess	4126	626	166[Dut]	14000
-12515	H	22000-5/6	Europe Ku	TV	Eleven Sports 2 België	No	MPEG-4/SD|Mediaguard|Viaccess	4127	627	1.7[Dut]	14000
-12515	H	22000-5/6	Europe Ku	R	Radio Lebensquelle	Yes		4060		119[Ger]	14000
-12515	H	22000-5/6	Europe Ku	R	Radio Freundes-Dienst	Yes		4062		132[Ger]	14000
-12515	H	22000-5/6	Europe Ku	R	Nostalgie Vlaanderen	No	Mediaguard|Viaccess	4114		154[Dut]	14000
-12515	H	22000-5/6	Europe Ku	R	VRT Radio 1	Yes		4122		162[Dut]	14000
-12515	H	22000-5/6	Europe Ku	R	VRT Radio 2 Sat	Yes		4123		163[Dut]	14000
-12515	H	22000-5/6	Europe Ku	R	NRJ België	No	Mediaguard|Viaccess	4159		159[Dut]	14000
-12545	H	22000-5/6	Europe Ku	TV	Sat. 1 Deutschland	Yes		17500	255	256[Ger]|259[Ger]	14020
-12545	H	22000-5/6	Europe Ku	TV	ProSieben Deutschland	Yes		17501	511	512[Ger]|515[Ger]	14020
-12545	H	22000-5/6	Europe Ku	TV	Kabel Eins Deutschland	Yes		17502	767	768[Ger]	14020
-12545	H	22000-5/6	Europe Ku	TV	Welt	Yes		17503	1023	1024[Ger]	14020
-12545	H	22000-5/6	Europe Ku	TV	Sat. 1 Gold Deutschland	Yes		17504	1279	1280[Ger]	14020
-12545	H	22000-5/6	Europe Ku	TV	ProSieben Maxx Deutschland	Yes		17505	1535	1536[Ger]	14020
-12545	H	22000-5/6	Europe Ku	TV	Sat. 1 Bayern (Mon-Fri 17.30-17.55)	Yes		17507	2047	2048[Ger]|2051[Ger]	14020
-12545	H	22000-5/6	Europe Ku	TV	Sat. 1 NRW (Mon-Fri 17.30-17.55)	Yes		17508	2303	2304[Ger]|2307[Ger]	14020
-12545	H	22000-5/6	Europe Ku	TV	Kabel Eins Doku Deutschland	Yes		17509	2559	2560[Ger]	14020
-12552	V	22000-5/6	Pan Europe	TV	QVC Zwei	Yes		3394	168	144[Ger]	14030
-12552	V	22000-5/6	Pan Europe	TV	QVC Deutschland	Yes		12100	165	166[Ger]	14030
-12552	V	22000-5/6	Pan Europe	TV	Bibel TV	Yes		12122	33	34[Ger]	14030
-12552	V	22000-5/6	Pan Europe	TV	Chérie 25	No	MPEG-4/HD|Nagravision|Viaccess	12140	5301	5302[Fre]|5303[Qaa]	14030
-12552	V	22000-5/6	Pan Europe	TV	NRJ 12	No	MPEG-4/HD|Nagravision|Viaccess	12145	5501	5502[Fre]|5503[Qaa]	14030
-12574	H	22000-2/3	Europe Ku	TV	Sonnenklar TV	Yes	MPEG-4/HD	5400	255	259[Ger]	14036
-12574	H	22000-2/3	Europe Ku	TV	Tele 5 (Germany)	No	MPEG-4/HD|Irdeto|Nagravision|Viaccess|Videoguard	5401	511	515[Ger]	14036
-12574	H	22000-2/3	Europe Ku	TV	DMAX Deutschland	No	MPEG-4/HD|Irdeto|Nagravision|Viaccess|Videoguard	5402	767	771[Ger]	14036
-12574	H	22000-2/3	Europe Ku	TV	Juwelo	Yes	MPEG-4/HD	5403	1023	1024[Ger]	14036
-12574	H	22000-2/3	Europe Ku	TV	Pearl TV	Yes	MPEG-4/HD	5404	1279	1280[Ger]	14036
-12574	H	22000-2/3	Europe Ku	TV	Tele 5 (Germany)	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard	5421	511	515[Ger]	14036
-12574	H	22000-2/3	Europe Ku	TV	DMAX Deutschland	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard	5422	767	771[Ger]	14036
-12604	H	22000-5/6	Pan Europe	TV	Sky News International	Yes		7290	1290	2290[Eng]	14045
-12604	H	22000-5/6	Pan Europe	TV	WDR Fernsehen Aachen	Yes		28534	3401	3402[Ger]	14045
-12604	H	22000-5/6	Pan Europe	TV	WDR Studio Wuppertal (Mon-Fri 19.30-20.00)	Yes		28535	3501	3502[Ger]	14045
-12604	H	22000-5/6	Pan Europe	TV	WDR Studio Bonn (Mon-Fri 19.30-20.00)	Yes		28536	3601	3602[Ger]	14045
-12604	H	22000-5/6	Pan Europe	TV	WDR Studio Duisburg (Mon-Fri 19.30-20.00)	Yes		28537	3701	3702[Ger]	14045
-12604	H	22000-5/6	Pan Europe	TV	WDR Fernsehen Köln	Yes	MPEG-4/HD	28544	5601	5602[Ger]|5603[Qaa]|5606[Ger]	14045
-12604	H	22000-5/6	Pan Europe	R	Radio Horeb	Yes		7289		1289[Ger]	14045
-12604	H	22000-5/6	Pan Europe	R	Radio Neue Hoffnung	Yes		7292		1292[Ger]	14045
-12604	H	22000-5/6	Pan Europe	R	RTL Radio	Yes		7931		7932[Ger]	14045
-12633	H	22000-5/6	Pan Europe	TV	Health TV	Yes		12600	200	300[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	K-TV	Yes		12601	202	302[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Deutsches Musik Fernsehen	Yes		12604	53	54[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Media Broadcast Satellite promo	No		12606	1113	1114[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Freenet TV promo	No	MPEG-4/HD	12607	207	307[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Deutschlands GayChat	Yes		12612	212	312[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	RheinMain TV	Yes	MPEG-4/SD	12614	208	308[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Deutsche Girls 24 TV	Yes		12615	215	315[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Juwelo	Yes		12616	1041	1042[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Männersache TV	Yes		12622	222	322[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Date Line	No		12623	223	323[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Fotohandy TV	Yes		12624	224	324[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Mobile-Sex	No		12625	225	325[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	My Dirty Mobile	Yes		12626	226	326[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Eros TV	Yes		12627	227	327[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Achtung Sexy TV	Yes		12628	228	328[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Traumfrauen TV	Yes		12629	229	329[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Heiss und Sexy TV	Yes		12630	230	330[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Volksmusik TV	Yes		12633	233	333[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Babestation 24 (21-04)	Yes		12635	235	335[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Freenet Shopping	Yes		12636	236	336[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Erotika TV	No		12639	239	339[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	BunnyClub 24	No		12640	240	340[Ger]	14056
-12633	H	22000-5/6	Pan Europe	TV	Clipmobile	Yes		12641	241	341[Ger]	14056
-12633	H	22000-5/6	Pan Europe	R	Das Inselradio Mallorca	Yes		12651		702[Ger]	14056
-12633	H	22000-5/6	Pan Europe	R	FFN	Yes		12654		.54[Ger]	14056
-12633	H	22000-5/6	Pan Europe	R	Radio Paloma	Yes		12655		355[Ger]	14056
-12633	H	22000-5/6	Pan Europe	R	Radio HBR	Yes		12656		356[Ger]	14056
-12633	H	22000-5/6	Pan Europe	R	Radio HCJB Deutschland	Yes		12657		357[Ger]	14056
-12633	H	22000-5/6	Pan Europe	R	Radio B2 Deutschland	Yes		12658		364[Ger]	14056
-12633	H	22000-5/6	Pan Europe	R	Radio Gloria	Yes		12659		35.[Ger]	14056
-12633	H	22000-5/6	Pan Europe	R	Hit Radio FFH	Yes		12660		1024[Ger]	14056
-12633	H	22000-5/6	Pan Europe	R	Planet Radio	Yes		12661		1030[Ger]	14056
-12633	H	22000-5/6	Pan Europe	R	Radio Harmony	Yes		12662		1036[Ger]	14056
-12633	H	22000-5/6	Pan Europe	R	Radio Regenbogen	Yes		12663		363[Ger]	14056
-12633	H	22000-5/6	Pan Europe	R	Regenbogen 2	Yes		12665		365[Ger]	14056
-12663	H	22000-5/6	Pan Europe	TV	Nitro Austria	Yes	MPEG-2/SD	13102	1020	1021[Ger]	14094
-12663	H	22000-5/6	Pan Europe	TV	Welt der Wunder TV	Yes	MPEG-2/SD	13103	1030	1031[Ger]	14094
-12663	H	22000-5/6	Pan Europe	TV	LT 1 (21.30-17.00 & 17.30-21:00)	Yes	MPEG-4/SD	13104	1040	1041[Ger]	14094
-12663	H	22000-5/6	Pan Europe	TV	HT 1 Innviertel (17.00-17.30 & 21.00-21.30)	Yes	MPEG-4/SD	13104	1040	1041[Ger]	14094
-12663	H	22000-5/6	Pan Europe	TV	Sixx Austria	Yes	MPEG-2/SD	13106	1060	1061[Ger]	14094
-12663	H	22000-5/6	Pan Europe	TV	Visit-X TV	Yes	MPEG-2/SD	13107	1070	1071[Ger]	14094
-12663	H	22000-5/6	Pan Europe	TV	Servus TV Deutschland	Yes	MPEG-2/SD	13110	1110	1111[Ger]	14094
-12663	H	22000-5/6	Pan Europe	TV	[4Mediathek info card]	No	MPEG-4/SD	13112	2120	[Ger]	14094
-12663	H	22000-5/6	Pan Europe	TV	L TV	Yes	MPEG-4/SD	13113	2130	2131[Ger]	14094
-12663	H	22000-5/6	Pan Europe	TV	TV 1 Oberösterreich	Yes	MPEG-4/SD	13141	2410	2411[Ger]	14094
-12663	H	22000-5/6	Pan Europe	R	Ö1	Yes		13121		421[Ger]	14094
-12663	H	22000-5/6	Pan Europe	R	Ö1	Yes		13122		422[Ger]	14094
-12663	H	22000-5/6	Pan Europe	R	Radio Wien	Yes		13123		423[Ger]	14094
-12663	H	22000-5/6	Pan Europe	R	Radio Niederösterreich	Yes		13124		424[Ger]	14094
-12663	H	22000-5/6	Pan Europe	R	Radio Burgenland	Yes		13125		425[Ger]	14094
-12663	H	22000-5/6	Pan Europe	R	Radio Oberösterreich	Yes		13126		426[Ger]	14094
-12663	H	22000-5/6	Pan Europe	R	Radio Salzburg	Yes		13127		.27[Ger]	14094
-12663	H	22000-5/6	Pan Europe	R	Radio Tirol	Yes		13128		428[Ger]	14094
-12663	H	22000-5/6	Pan Europe	R	Radio Vorarlberg	Yes		13129		429[Ger]	14094
-12663	H	22000-5/6	Pan Europe	R	Radio Steiermark	Yes		13130		430[Ger]	14094
-12663	H	22000-5/6	Pan Europe	R	Radio Kärnten	Yes		13131		431[Ger]	14094
-12663	H	22000-5/6	Pan Europe	R	Hitradio Ö3	Yes		13133		433[Ger]	14094
-12663	H	22000-5/6	Pan Europe	R	Radio FM 4	Yes		13134		434[Ger]	14094
-12663	H	22000-5/6	Pan Europe	R	Radio U1 Tirol	Yes		13136		436[Ger]	14094
-12663	H	22000-5/6	Pan Europe	R	Radio Maria Österreich	Yes		13140		440[Ger]	14094
-12692	H	22000-5/6	Pan Europe	TV	ORF 2 Wien (19.00-19.30)	Yes		13003	510	511[Ger]	14121
-12692	H	22000-5/6	Pan Europe	TV	Hitradio Ö3	Yes	MPEG-4/HD	13013	130	131[Ger]	14121
-12692	H	22000-5/6	Pan Europe	TV	ORF 2 Europe	Yes		13014	170	171[Ger]	14121
-12692	H	22000-5/6	Pan Europe	TV	Shop 24 Direct	Yes		13015	150	151[Ger]	14121
-12692	H	22000-5/6	Pan Europe	TV	Folx	Yes		13018	180	181[Ger]	14121
-12692	H	22000-5/6	Pan Europe	TV	RiC	Yes		13019	190	191[Ger]	14121
-12692	H	22000-5/6	Pan Europe	TV	N-TV Austria	Yes	MPEG-4/SD	13021	3020	3021[Ger]	14121
-18556	V	3630-2/3	Europe Ka	TV	ITV Newsnet	Yes		1	512	4112[Eng]	15010
-18766	H	3110-1/2	Europe Ka	TV	Unire Sat	Yes	MPEG-4/SD	1	512	4112[Ita]	15029
+ 3977	L	17777-3/4	SE zone	TV	NBC 1	Yes		1	32	33[Eng]	8002
+ 3977	L	17777-3/4	SE zone	TV	(feeds)	No		2	34	35	8002
+ 3977	L	17777-3/4	SE zone	TV	(feeds)	No		26	59	57	8002
+ 3977	L	17777-3/4	SE zone	TV	NBC 1	No	Tongfang	64	81	82[Eng]	8002
+ 3977	L	17777-3/4	SE zone	TV	NBC 2	No	Tongfang	65	83	84[Eng]	8002
+ 3977	L	17777-3/4	SE zone	TV	NBC 3	No	Tongfang	66	85	86[Eng]	8002
+ 3977	L	17777-3/4	SE zone	R	National FM	Yes				36[Eng]	8002
+ 3977	L	17777-3/4	SE zone	R	Funkhaus FM	Yes				37[Ger]	8002
+ 3977	L	17777-3/4	SE zone	R	Kati FM	Yes				37	8002
+ 3977	L	17777-3/4	SE zone	R	Omurari FM	Yes				38	8002
+ 3977	L	17777-3/4	SE zone	R	Kaisames FM	Yes				38	8002
+ 3977	L	17777-3/4	SE zone	R	TYS FM	Yes				39	8002
+ 3977	L	17777-3/4	SE zone	R	99 FM (Namibia)	Yes				40[Eng]	8002
+ 3977	L	17777-3/4	SE zone	R	Kudu FM	Yes				40[Eng]	8002
+ 3977	L	17777-3/4	SE zone	R	Kanaal 7	Yes				41[Afr]	8002
+ 3977	L	17777-3/4	SE zone	R	Omulunga Radio	Yes				4.	8002
+ 3977	L	17777-3/4	SE zone	R	Energy 100 FM	Yes				43[Eng]	8002
+ 3977	L	17777-3/4	SE zone	R	Wato FM	Yes				44	8002
+ 3977	L	17777-3/4	SE zone	R	Nwanyi FM	Yes				44	8002
+ 3977	L	17777-3/4	SE zone	R	Kosmos 94.1	Yes				45[Afr]	8002
+ 3977	L	17777-3/4	SE zone	R	Fresh FM (Namibia)	Yes				55[Eng]	8002
+ 3977	L	17777-3/4	SE zone	R	Hartklop FM	Yes				58[Afr]	8002
+ 3977	L	17777-3/4	SE zone	R	Wato FM	Yes				67	8002
+ 3977	L	17777-3/4	SE zone	R	Hitradio Namibia	Yes				85[Ger]	8002
+ 3984	R	11341-4/5	East hemi	TV	(BBC feeds)	No		13911	6701	6702	8027
+ 3984	R	11341-4/5	East hemi	TV	(BBC feeds)	No		13912	6711	6712	8027
+ 3984	R	11341-4/5	East hemi	TV	(BBC feeds)	No		13914	6731	6732	8027
+ 3984	R	11341-4/5	East hemi	TV	(BBC feeds)	No		13917	6761	6762	8027
+ 3984	R	11341-4/5	East hemi	R	BBC World Service English East Africa	Yes		13901		6602[Eng]	8027
+ 3984	R	11341-4/5	East hemi	R	BBC World Service English West Africa	Yes		13902		6612[Eng]	8027
+ 3984	R	11341-4/5	East hemi	R	BBC World Service English Europe	Yes		13907		6662[Eng]	8027
+ 3984	R	11341-4/5	East hemi	R	BBC World Service English Middle East	Yes		13908		6662[Eng]	8027
+ 3984	R	11341-4/5	East hemi	R	BBC World Service English News	Yes		13910		6692[Eng]	8027
+ 3984	R	11341-4/5	East hemi	R	BBC World Service Arabic	Yes		13916		6752[Ara]	8027
+ 3984	R	11341-4/5	East hemi	R	BBC World Service Dari	Yes		13928		6872[Prs]	8027
+ 3984	R	11341-4/5	East hemi	R	BBC World Service Persian	Yes		13929		6.82[Per]	8027
+ 3984	R	11341-4/5	East hemi	R	BBC World Service Afrique	Yes		13930		6892[Fre]	8027
+ 3984	R	11341-4/5	East hemi	R	BBC Gahuza	Yes		13931		6902	8027
+ 3984	R	11341-4/5	East hemi	R	BBC World Service Hausa	Yes		13932		6912[Hau]	8027
+ 3984	R	11341-4/5	East hemi	R	BBC World Service Pashto	Yes		13942		7012[Pus]	8027
+ 3984	R	11341-4/5	East hemi	R	BBC World Service Somali	Yes		13955		7142[Som]	8027
+ 3984	R	11341-4/5	East hemi	R	BBC World Service Swahili	Yes		13960		7192[Swa]	8027
+ 4032	L	1000-5/6	NE zone	R	BBC World Service English East Africa	Yes		13901		6602[Eng]	8046
+ 4032	L	1000-5/6	NE zone	R	BBC World Service English West Africa	Yes		13902		6612[Eng]	8046
+ 4032	L	1000-5/6	NE zone	R	BBC World Service English News	Yes		13910		6692[Eng]	8046
+ 4032	L	1000-5/6	NE zone	R	BBC World Service Arabic	Yes		13916		6752[Ara]	8046
+ 4032	L	1000-5/6	NE zone	R	BBC World Service Afrique	Yes		13930		6892[Fre]	8046
+ 4032	L	1000-5/6	NE zone	R	BBC Gahuza	Yes		13931		6902	8046
+ 4032	L	1000-5/6	NE zone	R	BBC World Service Hausa	Yes		13932		6912[Hau]	8046
+ 4032	L	1000-5/6	NE zone	R	BBC World Service Somali	Yes		13955		7142[Som]	8046
+10747	V	25000-3/4	K1	R	NRK P1 Oslo og Akershus	Yes		7867		3867[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK P1 Troms	Yes		7868		3868[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK P1 Finnmark	Yes		7869		3869[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK P1 Nordland	Yes		7870		3870[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK P1 Trøndelag	Yes		7871		3871[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK P1 Møre og Romsdal	Yes		7872		3872[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK P1 Sogn og Fjordane	Yes		7873		3873[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK P1 Hordaland	Yes		7874		3874[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK P1 Rogaland	Yes		7875		3875[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK P1 Sørlandet	Yes		7876		3876[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK P1 Telemark	Yes		7877		3877[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK P1 Vestfold	Yes		7878		3878[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK P1 Buskerud	Yes		7879		3879[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK P1 Hedmark og Oppland	Yes		7880		3880[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK P1 Østfold	Yes		7881		3881[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK P2	Yes		7882		3882[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK P3	Yes		7883		3883[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK Klassisk	Yes		7884		3884[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK Sápmi	Yes		7885		3885[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK mP3	Yes		7886		3886[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK Alltid Nyheter	Yes		7887		3887[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK P13	Yes		7888		3888[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK Været til sjøs	Yes		7889		3889[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK Radio Super	Yes		7890		3890[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK P1+	Yes		7891		38.1[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK Jazz	Yes		7892		3892[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK Sport	Yes		7893		3893[Nor]	9001
+10747	V	25000-3/4	K1	R	NRK Folkemusikk	Yes		7894		3894[Nor]	9001
+11357	H	24500-7/8	T1	TV	Gospel Channel Scandinavia	Yes	MPEG-2/SD	129	514	648[Nor]	11009
+11357	H	24500-7/8	T1	TV	TV Visjon Norge	Yes	MPEG-4/HD	1809	1153	3148[Nor]	11009
+11357	H	24500-7/8	T1	TV	Kanal 10 Norge	Yes	MPEG-4/SD	6101	1411	3270[Nor]	11009
+11357	H	24500-7/8	T1	TV	TV Vision Sverige	Yes	MPEG-4/SD	7280	1180	3280[Swe]	11009
+11389	H	24500-7/8	T1	R	Radio Norge	Yes		1527		3475[Nor]	11015
+11389	H	24500-7/8	T1	R	Rás 1	Yes		2813		644[Ice]	11015
+11389	H	24500-7/8	T1	R	Rás 2	Yes		2814		645[Ice]	11015
+11389	H	24500-7/8	T1	R	Radio Rock	Yes		6022		3622[Nor]	11015
+11389	H	24500-7/8	T1	R	Radio Vinyl	Yes		6028		3628[Nor]	11015
+11389	H	24500-7/8	T1	R	Radio Topp 40	Yes		6032		3632[Nor]	11015
+11389	H	24500-7/8	T1	R	P4 Lyden av Norge	Yes		7000		3000[Nor]	11015
+11389	H	24500-7/8	T1	R	DR P3	Yes		7332		3332[Dan]	11015
+11688	H	1110-3/4	Spot 2	TV	Hona Baghdad TV	Yes	MPEG-4/SD	1	33	34[Ara]	12021
+11727	V	28000-7/8	K2	TV	Focus Sat promo	No		30132	2.01	2.10[Rum]	13000
+11747	H	28000-5/6	K2	TV	TV Paprika Romania	No	Conax|Nagravision	1004	.104	7204[Rum]	13002
+11747	H	28000-5/6	K2	TV	FilmBox Basic	No	Conax|Cryptoworks|Irdeto|Nagravision	1011	7111	7211[Hun]|7311[Bul]|7411[Eng]	13002
+11747	H	28000-5/6	K2	TV	FilmBox Premium Romania	No	Conax	1012	7112	7212[Rum]	13002
+11747	H	28000-5/6	K2	TV	Eurosport 1 Romania	No	Conax|Nagravision|Viaccess	1013	1113	1213[Rum]	13002
+11747	H	28000-5/6	K2	TV	Credo TV	Yes		1017	1117	1217[Rum]	13002
+11747	H	28000-5/6	K2	TV	Bollywood TV	No	Conax|Nagravision	1019	1119	1219[Rum]	13002
+11747	H	28000-5/6	K2	TV	Mooz Dance	No	MPEG-2/SD|Conax|Cryptoworks|Nagravision	1030	1131	1231[Rum]	13002
+11747	H	28000-5/6	K2	TV	Mooz Dance	No	MPEG-2/SD|Conax|Cryptoworks|Irdeto|Nagravision	1031	1131	1231[Rum]	13002
+11747	H	28000-5/6	K2	TV	National Geographic Hungary & Czechia	No	MPEG-4/HD|Conax|Cryptoworks|Irdeto|Nagravision	1034	1134	1234[Hun]|1334[Eng]	13002
+11747	H	28000-5/6	K2	TV	National Geographic România	No	MPEG-4/HD|Conax|Nagravision	1035	1135	1235[Rum]|1335[Eng]	13002
+11747	H	28000-5/6	K2	R	Itsy Bitsy	Yes		1021		7221[Rum]	13002
+11747	H	28000-5/6	K2	R	Radio Chisinau	Yes		1022		1222	13002
+11785	H	28000-7/8	T2	R	Petöfi Rádió	Yes		3680		3001[Hun]	13016
+11785	H	28000-7/8	T2	R	Kossuth Rádió	Yes		3690		3002[Hun]	13016
+11785	H	28000-7/8	T2	R	Bartók Rádió	Yes		3700		3003[Hun]	13016
+11785	H	28000-7/8	T2	R	Sláger FM	Yes		4001		780[Hun]	13016
+11785	H	28000-7/8	T2	R	90.9 Jazzy	Yes		4010		781[Hun]	13016
+11804	V	30000-3/4	K2	TV	CT 24	Yes	MPEG-4/SD	30315	801	811[Cze]	13022
+11881	V	9030	K2	R	Telenor Showcase 6	No	Conax	9030		6130	13027
+11881	V	9030	K2	TV	Telenor Showcase 7	No	MPEG-4/HD|Conax	9031	6131	6231	13027
+11881	V	9030	K2	TV	Telenor Showcase 8	No	MPEG-4/HD|Conax	9032	6132	6232	13027
+11881	V	9030	K2	TV	Telenor Showcase 9	No	MPEG-4/HD|Conax	9033	6133	6233	13027
+11881	V	9030	K2	TV	Telenor Showcase 10	No	MPEG-4/HD|Conax	9034	6134	6234	13027
+11881	V	9030	K2	R	Telenor	No	DVB-S2|MPEG-4/HD|Conax	30000-3/48PSK70-83		7.9	13027
+11900	H	28000-5/6	K2	TV	Music Channel Romania	Yes		1025	4054	4055[Rum]	13033
+11900	H	28000-5/6	K2	R	Digi FM	Yes		2510		760[Rum]	13033
+11900	H	28000-5/6	K2	R	Pro FM (Romania)	Yes		2530		762[Rum]	13033
+11900	H	28000-5/6	K2	R	Sport Total FM	Yes		2540		763[Rum]	13033
+11900	H	28000-5/6	K2	R	Virgin Radio Romania	Yes		3330		900[Rum]	13033
+11900	H	28000-5/6	K2	R	Rádió GaGa	Yes		3430		4034	13033
+11900	H	28000-5/6	K2	R	Europa FM Moldova	Yes		3610		4067[Rum]	13033
+11900	H	28000-5/6	K2	R	Europa FM Muntenia	Yes		3620		4068[Rum]	13033
+11900	H	28000-5/6	K2	R	Europa FM Oltenia	Yes		3630		4069[Rum]	13033
+11900	H	28000-5/6	K2	R	Europa FM Banat	Yes		3640		4070[Rum]	13033
+11900	H	28000-5/6	K2	R	Europa FM Dobrogea	Yes		3650		4071[Rum]	13033
+11900	H	28000-5/6	K2	R	Europa FM Ardeal	Yes		3720		4075[Rum]	13033
+11900	H	28000-5/6	K2	R	Chill FM	Yes		4130		76.[Rum]	13033
+11900	H	28000-5/6	K2	R	Dance FM	Yes		4140		766[Rum]	13033
+11900	H	28000-5/6	K2	R	Pro FM (Romania)	Yes		4150		768[Rum]	13033
+11919	V	28000-7/8	K2	TV	Cartoon Network Central & Eastern Europe	No	Conax|Cryptoworks|Irdeto|Nagravision	31102	151	160[Hun]|161[Cze]|162[Eng]	13049
+11919	V	28000-7/8	K2	TV	LiChi TV	No	Conax|Cryptoworks|Irdeto|Nagravision	31103	201	210[Hun]	13049
+11919	V	28000-7/8	K2	TV	National Geographic Hungary & Czechia	No	Conax|Cryptoworks|Irdeto|Nagravision	31104	251	260[Hun]|261[Cze]|262[Eng]	13049
+11919	V	28000-7/8	K2	TV	AMC Magyarország	No	Conax|Cryptoworks|Irdeto|Nagravision	31105	301	310[Hun]|312[Eng]	13049
+11919	V	28000-7/8	K2	TV	Viasat History	No	Conax|Cryptoworks|Irdeto|Nagravision	31106	351	360[Hun]|361[Cze]|362[Eng]	13049
+11919	V	28000-7/8	K2	TV	AMC Cesko	No	Conax|Cryptoworks|Irdeto|Nagravision	31107	401	411[Cze]|412[Eng]	13049
+11919	V	28000-7/8	K2	TV	Travel Channel Europe	No	Conax|Cryptoworks|Irdeto|Nagravision	31108	451	460[Eng]|461[Cze]|462[Hun]	13049
+11919	V	28000-7/8	K2	TV	Sláger TV	No	Conax|Cryptoworks|Irdeto|Nagravision	31109	501	510[Hun]	13049
+11919	V	28000-7/8	K2	TV	Mozi +	No	Conax|Cryptoworks|Irdeto|Nagravision	31110	551	560[Hun]	13049
+11919	V	28000-7/8	K2	TV	Investigation Discovery Europe	No	Conax|Cryptoworks|Irdeto|Nagravision	31111	601	610[Hun]|611[Cze]|612[Eng]	13049
+11919	V	28000-7/8	K2	TV	TV 4 (Hungary)	No	Conax|Cryptoworks|Irdeto|Nagravision	31113	701	710[Hun]	13049
+11919	V	28000-7/8	K2	TV	History Europe	No	Conax|Cryptoworks|Irdeto|Nagravision	31114	751	760[Hun]|761[Cze]|762[Eng]	13049
+11919	V	28000-7/8	K2	TV	Disney Channel Romania	No	Conax	31115	801	813[Rum]	13049
+11919	V	28000-7/8	K2	TV	M5	No	Conax|Cryptoworks|Irdeto|Nagravision	31116	851	860[Hun]	13049
+11919	V	28000-7/8	K2	TV	Humor +	No	Conax|Cryptoworks|Irdeto|Nagravision	31117	951	960[Hun]	13049
+11919	V	28000-7/8	K2	TV	Zenebutik	No	Conax|Cryptoworks|Irdeto|Nagravision	31118	901	910[Hun]	13049
+11919	V	28000-7/8	K2	TV	Humor +	No	Nagravision	31122	951	960[Hun]	13049
+11919	V	28000-7/8	K2	TV	Sláger TV	No	Conax|Nagravision	31124	501	510[Hun]	13049
+11919	V	28000-7/8	K2	TV	AMC Magyarország	No	Nagravision	31126	301	310[Hun]|312[Eng]	13049
+11919	V	28000-7/8	K2	TV	Kiwi TV	No	Conax|Cryptoworks|Irdeto|Nagravision	31128	1451	1460[Hun]	13049
+11958	V	28000-7/8	K2	TV	Focus Sat promo	No		31201	101	113[Rum]	13071
+11958	V	28000-7/8	K2	TV	CNN International Europe	No	Conax|Cryptoworks|Irdeto|Nagravision	31203	151	212[Eng]	13071
+11958	V	28000-7/8	K2	TV	Nat Geo Wild Romania	No	Conax	31204	201	262[Eng]	13071
+11958	V	28000-7/8	K2	TV	Minimax Czechia	No	Conax|Cryptoworks|Irdeto|Nagravision	31209	501	510[Hun]|511[Cze]|514[Slo]	13071
+11958	V	28000-7/8	K2	TV	TLC Rômania	No	Conax|Nagravision	31210	551	565[Rum]	13071
+11958	V	28000-7/8	K2	TV	Spektrum Home Czech	No	Conax|Cryptoworks|Irdeto|Nagravision	31211	601	611[Cze]|614[Slo]	13071
+11958	V	28000-7/8	K2	TV	RTL II	No	Conax|Cryptoworks|Irdeto|Nagravision	31212	651	660[Hun]	13071
+11958	V	28000-7/8	K2	TV	RTL +	No	Conax|Cryptoworks|Irdeto|Nagravision	31213	701	710[Hun]	13071
+11958	V	28000-7/8	K2	TV	Sorozat +	No	Conax|Cryptoworks|Irdeto|Nagravision	31214	751	760[Hun]	13071
+11958	V	28000-7/8	K2	TV	Muzsika TV	No	Conax|Cryptoworks|Irdeto|Nagravision	31215	801	810[Hun]	13071
+11958	V	28000-7/8	K2	TV	MTV Music 24	No	Conax|Cryptoworks|Irdeto|Nagravision	31216	851	862[Eng]	13071
+11958	V	28000-7/8	K2	TV	RTL II	No	Conax|Nagravision	31217	651	660[Hun]	13071
+11958	V	28000-7/8	K2	TV	RTL +	No	Conax|Nagravision	31218	701	710[Hun]	13071
+11958	V	28000-7/8	K2	TV	RTL Gold	No	Conax|Cryptoworks|Irdeto|Nagravision	31219	901	910[Hun]	13071
+11958	V	28000-7/8	K2	TV	Sorozat +	No	Conax|Nagravision	31220	751	760[Hun]	13071
+11958	V	28000-7/8	K2	TV	Muzsika TV	No	Conax|Nagravision	31221	801	810[Hun]	13071
+11958	V	28000-7/8	K2	TV	Izaura TV	No	Conax|Cryptoworks|Irdeto|Nagravision	31223	1251	1260[Hun]	13071
+11958	V	28000-7/8	K2	TV	The Fishing & Hunting Channel	No	Conax|Cryptoworks|Irdeto|Nagravision	31228	1501	1510[Hun]|1511[Cze]|1513[Rum]|1517[Bul]	13071
+11958	V	28000-7/8	K2	TV	The Fishing & Hunting Channel	No	Conax|Nagravision	31231	1501	1510[Hun]|1511[Cze]|1513[Rum]|1517[Bul]	13071
+11958	V	28000-7/8	K2	TV	RTL Gold	No	Conax|Nagravision	31235	901	910[Hun]	13071
+11958	V	28000-7/8	K2	TV	Minimax Czechia (06-20)	No	Conax|Nagravision	31236	501	510[Hun]|511[Cze]|514[Slo]	13071
+11958	V	28000-7/8	K2	TV	Spektrum Home Czech	No	Conax|Nagravision	31237	601	611[Cze]|614[Slo]	13071
+11996	V	28000-7/8	K2	TV	[ITNM Systems test card]	No		30417	33	34	13095
+12073	V	28000-7/8	K2	TV	M1 (Hungary)	No	Conax|Cryptoworks|Irdeto|Nagravision	30605	301	310[Hun]	13100
+12073	V	28000-7/8	K2	TV	M2	No	Conax|Cryptoworks|Irdeto|Nagravision	30607	401	410[Hun]	13100
+12073	V	28000-7/8	K2	TV	Nick Jr Czechia	No	Conax|Cryptoworks|Irdeto|Nagravision|Viaccess	30631	1301	1311[Cze]|1312[Eng]|1313[Hun]	13100
+12073	V	28000-7/8	K2	TV	Nick Jr România	No	Conax|Nagravision|Viaccess	30632	1351	1360[Hun]|1361[Eng]|1363[Rum]	13100
+12073	V	28000-7/8	K2	TV	Nickelodeon Czechia	No	Conax|Cryptoworks|Irdeto|Nagravision|Viaccess	30633	1401	1461[Cze]|1462[Eng]|1463[Hun]|1464[Slv]|1465[Srp]	13100
+12073	V	28000-7/8	K2	TV	Comedy Central România	No	Conax|Nagravision|Viaccess	30634	1651	1661[Rum]	13100
+12073	V	28000-7/8	K2	TV	RTL Spike	No	Conax|Cryptoworks|Irdeto|Nagravision|Viaccess	30635	1751	1760[Hun]|1761[Qaa]	13100
+12073	V	28000-7/8	K2	TV	Nickelodeon Magyarország	No	Conax|Cryptoworks|Irdeto|Nagravision|Viaccess	30636	1851	1860[Hun]|1862[Eng]|1864[Slo]|1865[Srp]|1866[Lav]|1867[Est]|1868[Rus]|1869[Tur]	13100
+12073	V	28000-7/8	K2	TV	Nick Jr Hungary	No	Conax|Cryptoworks|Irdeto|Nagravision|Viaccess	30637	1901	1910[Hun]|1912[Eng]	13100
+12073	V	28000-7/8	K2	TV	MTV Hungary	No	Conax|Cryptoworks|Irdeto|Nagravision|Viaccess	30638	1951	1960[Hun]	13100
+12073	V	28000-7/8	K2	TV	Paramount Channel Romania	No	Conax|Nagravision|Viaccess	30639	.001	2010[Hun]|2012[Rum]	13100
+12073	V	28000-7/8	K2	TV	Nickelodeon România	No	Conax|Nagravision|Viaccess	30640	2051	2060[Rum]|2062[Eng]|2064[Hun]|2065[Rus]|2066[Lav]|2067[Est]|2068[Tur]	13100
+12073	V	28000-7/8	K2	TV	Nicktoons România	No	Conax|Nagravision|Viaccess	30641	2501	2510[Rum]|2513[Hun]	13100
+12073	V	28000-7/8	K2	TV	Nick Jr Czechia	No	Conax|Nagravision|Viaccess	30651	1301	1311[Cze]|1312[Eng]	13100
+12073	V	28000-7/8	K2	TV	Nick Jr România	No	Nagravision|Viaccess	30652	1351	1360[Hun]|1361[Eng]|1363[Rum]	13100
+12073	V	28000-7/8	K2	TV	Nickelodeon Czechia	No	Conax|Nagravision|Viaccess	30653	1401	1461[Cze]|1462[Eng]|1463[Hun]	13100
+12073	V	28000-7/8	K2	TV	Comedy Central România	No	Nagravision|Viaccess	30654	1651	1661[Rum]	13100
+12073	V	28000-7/8	K2	TV	RTL Spike	No	Nagravision|Viaccess	30655	1751	1760[Hun]|1761[Qaa]	13100
+12073	V	28000-7/8	K2	TV	Nickelodeon Magyarország	No	Conax|Nagravision|Viaccess	30656	1851	1860[Hun]|1862[Eng]	13100
+12073	V	28000-7/8	K2	TV	Nick Jr Hungary	No	Conax|Nagravision|Viaccess	30657	1901	1910[Hun]|1912[Eng]	13100
+12073	V	28000-7/8	K2	TV	MTV Hungary	No	Conax|Nagravision|Viaccess	30658	1951	1960[Hun]	13100
+12073	V	28000-7/8	K2	TV	Paramount Channel Romania	No	Nagravision|Viaccess	30659	2001	2010[Hun]|2012[Rum]	13100
+12073	V	28000-7/8	K2	TV	Nickelodeon România	No	Nagravision|Viaccess	30660	2051	2060[Rum]|2062[Eng]|2064[Hun]	13100
+12073	V	28000-7/8	K2	TV	Nick Jr Czechia	No	Viaccess	30661	1301	1312[Eng]	13100
+12073	V	28000-7/8	K2	TV	Nickelodeon Magyarország	No	Nagravision|Viaccess	30666	1851	1860[Hun]|1862[Eng]	13100
+12073	V	28000-7/8	K2	TV	Nick Jr Hungary	No	Nagravision|Viaccess	30667	1901	1910[Hun]|1912[Eng]	13100
+12073	V	28000-7/8	K2	TV	MTV Hungary	No	Nagravision|Viaccess	30668	1951	1960[Hun]	13100
+12073	V	28000-7/8	K2	TV	Nicktoons România	No	Nagravision|Viaccess	30671	2501	2510[Rum]|2513[Hun]	13100
+12092	H	28000-7/8	K2	TV	AXN White	No	MPEG-2/SD|Conax|Cryptoworks|Irdeto|Nagravision	11002	5102	5202[Hun]|5302[Rum]|5402[Bul]|5502[Cze]	13129
+12092	H	28000-7/8	K2	TV	AXN Black	No	MPEG-2/SD|Conax|Cryptoworks|Irdeto|Nagravision	11003	5103	5203[Hun]|5303[Bul]|5403[Rum]|5503[Cze]	13129
+12092	H	28000-7/8	K2	TV	AXN Central Europe	No	MPEG-2/SD|Conax|Cryptoworks|Irdeto|Nagravision	11004	5104	5204[Hun]|5304[Cze]|5404[Eng]	13129
+12092	H	28000-7/8	K2	TV	AXN Romania	No	MPEG-2/SD|Conax|Nagravision	11005	5105	5205[Eng]|5305[Hun]|5405[Cze]	13129
+12092	H	28000-7/8	K2	TV	AXN Czech Republic	No	MPEG-2/SD|Conax|Cryptoworks|Irdeto|Nagravision	11006	5106	5206[Cze]|5306[Eng]	13129
+12092	H	28000-7/8	K2	TV	AXN White	No	MPEG-2/SD|Conax|Nagravision	11015	5102	5202[Hun]|5302[Rum]|5402[Bul]|5502[Cze]	13129
+12092	H	28000-7/8	K2	TV	AXN Black	No	MPEG-2/SD|Conax|Nagravision	11016	5103	520.[Hun]|5303[Bul]|5403[Rum]|5503[Cze]	13129
+12092	H	28000-7/8	K2	TV	Viasat 3	No	MPEG-2/SD|Conax|Cryptoworks|Irdeto|Nagravision	11017	5117	5217[Hun]|5317[Qaa]	13129
+12092	H	28000-7/8	K2	TV	Viasat 6	No	MPEG-2/SD|Conax|Cryptoworks|Irdeto|Nagravision	11018	5118	5218[Hun]|5318[Qaa]	13129
+12092	H	28000-7/8	K2	TV	Sony Max Hungary	No	MPEG-2/SD|Conax|Cryptoworks|Irdeto|Nagravision	11019	5119	5219[Hun]|5319[Eng]	13129
+12092	H	28000-7/8	K2	TV	Sony Movie Channel Hungary	No	MPEG-2/SD|Conax|Cryptoworks|Irdeto|Nagravision	11020	5120	5220[Hun]|5320[Eng]	13129
+12092	H	28000-7/8	K2	TV	Nicktoons Czechia	No	MPEG-2/SD|Conax|Cryptoworks|Irdeto|Nagravision	11029	5129	5229[Cze]|5329[Hun]	13129
+12130	H	28000-7/8	T2	TV	Galaxy 4	Yes		2710	601	834[Hun]	14001
+12149	V	28000-7/8	Ku	TV	History România	No	Conax|Cryptoworks|Irdeto|Nagravision	7340	1340	3334[Eng]|4334[Hun]	14003
+12149	V	28000-7/8	Ku	R	Best FM (Slovakia)	Yes		1583		3517[Slo]	14003
+12149	V	28000-7/8	Ku	R	Fun rádio	Yes		1584		652[Slo]	14003
+12149	V	28000-7/8	Ku	R	Fun rádio	Yes		1585		728[Slo]	14003
+12149	V	28000-7/8	Ku	R	Fun rádio	Yes		1586		732[Slo]	14003
+12149	V	28000-7/8	Ku	R	Fun rádio	Yes		1587		736[Slo]	14003
+12149	V	28000-7/8	Ku	R	Fun rádio	Yes		1588		740[Slo]	14003
+12149	V	28000-7/8	Ku	R	Rádio Expres Východ	Yes		1590		724[Slo]	14003
+12149	V	28000-7/8	Ku	R	Rádio Expres Bratislava	Yes		1591		648[Slo]	14003
+12149	V	28000-7/8	Ku	R	Rádio Expres	Yes		1592		680[Slo]	14003
+12149	V	28000-7/8	Ku	R	Rádio Expres Zilina	Yes		1593		752[Slo]	14003
+12149	V	28000-7/8	Ku	R	Rádio Expres Západ	Yes		1594		760[Slo]	14003
+12149	V	28000-7/8	Ku	R	Rádio Expres Stred	Yes		1595		720[Slo]	14003
+12149	V	28000-7/8	Ku	R	Europa 2	Yes		1596		768[Slo]	14003
+12188	V	28000-7/8	T2	TV	Speranta TV	Yes		3270	4010	894[Rum]	14019
+12188	V	28000-7/8	T2	R	Radio Vocea Sperantei	Yes		2520		761[Rum]	14019
+12188	V	28000-7/8	T2	R	Kiss FM (Romania)	Yes		3611		4074[Rum]	14019
+12207	H	30000-3/4	Ku	TV	Telenor Showcase 1	No	MPEG-4/HD|Conax	9025	6125	6225	14023
+12207	H	30000-3/4	Ku	TV	Telenor Showcase 2	No	MPEG-4/HD|Conax	9026	6126	6226	14023
+12207	H	30000-3/4	Ku	TV	Telenor Showcase 3	No	MPEG-4/HD|Conax	9027	6127	6227	14023
+12207	H	30000-3/4	Ku	TV	Telenor Showcase 4	No	MPEG-4/HD|Conax	9028	6128	6228	14023
+12207	H	30000-3/4	Ku	TV	Telenor Showcase 5	No	MPEG-4/HD|Conax	9029	612.	6229	14023
+12226	V	27500-5/6	K2	TV	Paramount Channel Hungary	No	Conax|Cryptoworks|Irdeto|Nagravision|Viaccess	501	5011	5012[Hun]|5013[Eng]	14029
+12226	V	27500-5/6	K2	TV	Comedy Central Family Hungary	No	Conax|Cryptoworks|Irdeto|Nagravision|Viaccess	502	5021	5022[Hun]	14029
+12226	V	27500-5/6	K2	TV	Comedy Central Hungary	No	Conax|Cryptoworks|Irdeto|Nagravision|Viaccess	503	5031	5032[Hun]	14029
+12226	V	27500-5/6	K2	TV	Comedy Central Extra Central Europe	No	Viaccess	504	5041	5042[Eng]	14029
+12226	V	27500-5/6	K2	TV	Nickelodeon Europe	No	Conax|Cryptoworks|Irdeto|Nagravision|Viaccess	505	5051	5052[Eng]|5053[Rum]|5054[Cze]|5055[Rus]|5056[Hun]|5057[Hrv]|5058[Slv]|6052[Srp]|6053[Bul]|6054[Est]|6055[Lit]|6056[Lav]	14029
+12226	V	27500-5/6	K2	TV	MTV Europe	No	Conax|Cryptoworks|Irdeto|Nagravision|Viaccess	506	5061	5062[Eng]|5063[Hun]|5064[Cze]	14029
+12226	V	27500-5/6	K2	TV	VH1 Europe	No	Conax|Cryptoworks|Irdeto|Nagravision|Viaccess	507	5071	5072[Eng]	14029
+12226	V	27500-5/6	K2	TV	MTV Hits	No	Conax|Cryptoworks|Irdeto|Nagravision|Viaccess	508	5081	5082[Eng]	14029
+12226	V	27500-5/6	K2	TV	MTV Dance	No	Conax|Cryptoworks|Irdeto|Nagravision|Viaccess	509	5091	5092[Eng]	14029
+12226	V	27500-5/6	K2	TV	VH1 Classic	No	Conax|Cryptoworks|Irdeto|Nagravision|Viaccess	510	5101	5102[Eng]	14029
+12226	V	27500-5/6	K2	TV	MTV Rocks	No	Conax|Cryptoworks|Irdeto|Nagravision|Viaccess	511	5111	5112[Eng]	14029
+12226	V	27500-5/6	K2	TV	Nickelodeon Europe	No	Viaccess	515	5051	6055[Lit]	14029
+12226	V	27500-5/6	K2	TV	MTV Europe	No	Cryptoworks|Nagravision	516	5061	5062[Eng]|5063[Hun]|5064[Cze]	14029
+12226	V	27500-5/6	K2	TV	VH1 Europe	No	Cryptoworks|Nagravision	517	5071	5072[Eng]	14029
+12226	V	27500-5/6	K2	TV	MTV Hits	No	Cryptoworks|Nagravision	518	5081	5082[Eng]	14029
+12226	V	27500-5/6	K2	TV	MTV Dance	No	Cryptoworks|Nagravision	519	5091	5092[Eng]	14029
+12226	V	27500-5/6	K2	TV	VH1 Classic	No	Cryptoworks|Nagravision	520	5101	5102[Eng]	14029
+12226	V	27500-5/6	K2	TV	MTV Rocks	No	Cryptoworks|Nagravision	521	5111	5112[Eng]	14029
+12265	V	28000-7/8	T2	TV	Eurosport 1	No	Conax|Cryptoworks|Irdeto|Nagravision	30901	101	110[Hun]|111[Cze]|112[Eng]|113[Rum]	14049
+12265	V	28000-7/8	T2	TV	TLC Pan Regional	No	Conax|Cryptoworks|Irdeto|Nagravision	30902	151	160[Hun]|161[Cze]|162[Eng]	14049
+12265	V	28000-7/8	T2	TV	Discovery Channel Hungary	No	Conax|Cryptoworks|Irdeto|Nagravision	30903	201	210[Hun]|211[Cze]|212[Eng]	14049
+12265	V	28000-7/8	T2	TV	Viasat Explore East (05-23)	No	Conax|Cryptoworks|Irdeto|Nagravision	30904	271	280[Hun]|281[Cze]|282[Eng]	14049
+12265	V	28000-7/8	T2	TV	CBS Reality Europe	No	Conax|Cryptoworks|Irdeto|Nagravision	30905	301	310[Hun]|311[Cze]|312[Eng]|313[Rum]	14049
+12265	V	28000-7/8	T2	TV	Fem 3	No	Conax|Cryptoworks|Irdeto|Nagravision	30906	351	360[Hun]	14049
+12265	V	28000-7/8	T2	TV	Super TV 2	No	Conax|Cryptoworks|Irdeto|Nagravision	30907	401	410[Hun]	14049
+12265	V	28000-7/8	T2	TV	National Geographic România	No	Conax|Cryptoworks|Irdeto	30908	451	462[Eng]|463[Rum]	14049
+12265	V	28000-7/8	T2	TV	Private TV	No	Conax|Cryptoworks|Irdeto|Nagravision	30909	501	512[Eng]	14049
+12265	V	28000-7/8	T2	TV	Pro TV	No	Conax	30910	551	563[Rum]	14049
+12265	V	28000-7/8	T2	TV	Sport 1 Czechia	No	Conax|Cryptoworks|Irdeto|Nagravision	30911	601	611[Cze]|614[Slo]	14049
+12265	V	28000-7/8	T2	TV	Prime (Hungary)	No	Conax|Cryptoworks|Irdeto|Nagravision	30912	651	660[Hun]	14049
+12265	V	28000-7/8	T2	IMG	[Plus info card]	No	MPEG-4/SD	30913	701		14049
+12265	V	28000-7/8	T2	TV	Cinemax 2 Central Europe	No	Conax|Cryptoworks|Irdeto|Nagravision	30914	751	760[Hun]|761[Cze]|762[Qaa]|763[Rum]	14049
+12265	V	28000-7/8	T2	TV	Blue Hustler Europe (23-05)	No	Conax|Cryptoworks|Irdeto|Nagravision	30915	251	262[Eng]	14049
+12265	V	28000-7/8	T2	TV	Duna TV	No	Conax|Cryptoworks|Irdeto|Nagravision	30916	801	810[Hun]	14049
+12265	V	28000-7/8	T2	TV	Food Network EMEA	No	Conax|Cryptoworks|Irdeto|Nagravision	30917	851	860[Hun]|861[Cze]|862[Eng]	14049
+12265	V	28000-7/8	T2	TV	Hustler TV Europe	No	Conax|Cryptoworks|Irdeto|Nagravision	30920	1101	1112[Eng]	14049
+12284	H	30000-3/4	Ku	TV	Telenor Cinema 1	No	MPEG-4/HD|Conax	9015	6115	6215	14068
+12284	H	30000-3/4	Ku	TV	Telenor Cinema 2	No	MPEG-4/HD|Conax	9016	6116	6216	14068
+12284	H	30000-3/4	Ku	TV	Telenor Cinema 3	No	MPEG-4/HD|Conax	9017	6117	6217	14068
+12284	H	30000-3/4	Ku	TV	Telenor Cinema 4	No	MPEG-4/HD|Conax	9018	6118	6218	14068
+12284	H	30000-3/4	Ku	TV	Telenor Cinema 5	No	MPEG-4/HD|Conax	9019	6119	6219	14068
+12303	V	27500-5/6	K2	TV	Discovery Channel Hungary	No	MPEG-4/HD|PowerVu	900	900	901[Cze]|902[Hun]|903[Eng]	14074
+12303	V	27500-5/6	K2	TV	Discovery Channel Central Europe	No	MPEG-4/HD|PowerVu	1100	1100	1101[Eng]|1102[Bul]|1103[Cze]|1104[Hun]	14074
+12303	V	27500-5/6	K2	TV	Discovery Channel Central Europe	No	MPEG-4/HD|PowerVu	1101	1100	1101[Eng]|1102[Bul]|1104[Hun]|1105[Rum]	14074
+12303	V	27500-5/6	K2	TV	Discovery Channel Central Europe	No	MPEG-4/HD|PowerVu	1102	1100	1101[Eng]|1106[Rus]	14074
+12303	V	27500-5/6	K2	TV	Discovery Historia	No	MPEG-4/SD|PowerVu	1300	1300	1301[Pol]	14074
+12303	V	27500-5/6	K2	TV	DTX East Europe	No	MPEG-4/SD|PowerVu	2300	2300	2301[Eng]|2303[Rus]|2304[Hun]|2305[Cze]	14074
+12303	V	27500-5/6	K2	TV	Discovery Showcase HD	No	MPEG-4/HD|PowerVu	2500	2500	2501[Eng]|2503[Rus]|2505[Tur]	14074
+12303	V	27500-5/6	K2	TV	Discovery Showcase HD	No	MPEG-4/HD|PowerVu	2501	2500	2501[Eng]|2504[Cze]|2506[Hun]	14074
+12303	V	27500-5/6	K2	TV	Discovery Showcase HD	No	MPEG-4/HD|PowerVu	2502	2500	2501[Eng]|2503[Rus]	14074
+12303	V	27500-5/6	K2	TV	Discovery Showcase HD	No	MPEG-4/HD|PowerVu	2503	2500	2501[Eng]|2504[Cze]	14074
+12303	V	27500-5/6	K2	TV	Discovery Showcase HD	No	MPEG-4/HD|PowerVu	2504	2500	2501[Eng]|2505[Tur]	14074
+12303	V	27500-5/6	K2	TV	Discovery Showcase HD	No	MPEG-4/HD|PowerVu	2505	2500	2501[Eng]|2506[Hun]	14074
+12303	V	27500-5/6	K2	TV	Discovery Showcase HD	No	MPEG-4/HD|PowerVu	2506	2500	2501[Eng]	14074
+12303	V	27500-5/6	K2	TV	Animal Planet Europe	No	MPEG-4/HD|PowerVu	2600	2600	2601[Eng]|2602[Pol]|2603[Rus]|2605[Tur]	14074
+12303	V	27500-5/6	K2	TV	Animal Planet Europe	No	MPEG-4/HD|PowerVu	2601	2600	2601[Eng]|2602[Pol]|2604[Cze]|2606[Hun]	14074
+12303	V	27500-5/6	K2	TV	Animal Planet Europe	No	MPEG-4/HD|PowerVu	2602	2600	2601[Eng]|2603[Rus]	14074
+12303	V	27500-5/6	K2	TV	Animal Planet Europe	No	MPEG-4/HD|PowerVu	2603	2600	2601[Eng]|2604[Cze]	14074
+12303	V	27500-5/6	K2	TV	Animal Planet Europe	No	MPEG-4/HD|PowerVu	2604	2600	2601[Eng]|2605[Tur]	14074
+12303	V	27500-5/6	K2	TV	Animal Planet Europe	No	MPEG-4/HD|PowerVu	2605	2600	2601[Eng]|2606[Hun]	14074
+12303	V	27500-5/6	K2	TV	Investigation Discovery Xtra	No	MPEG-4/HD|PowerVu	2700	2700	2701[Eng]|2702[Hun]|2703[Rus]|2704[Tur]	14074
+12303	V	27500-5/6	K2	TV	Investigation Discovery Xtra	No	MPEG-4/HD|PowerVu	2701	2700	2701[Eng]|2705[Bul]|2706[Cze]|2707[Slv]	14074
+12303	V	27500-5/6	K2	TV	Investigation Discovery Xtra	No	MPEG-4/HD|PowerVu	2702	2700	2701[Eng]|2708[Ara]	14074
+12303	V	27500-5/6	K2	TV	Discovery Channel Polska	No	MPEG-4/HD|PowerVu	2800	2800	2803[Pol]|2804[Eng]	14074
+12303	V	27500-5/6	K2	TV	DTX East Europe	No	MPEG-4/HD|PowerVu	3000	3000	3001[Eng]|3002[Tur]|3003[Rus]	14074
+12303	V	27500-5/6	K2	TV	DTX East Europe	No	MPEG-4/HD|PowerVu	3001	3000	3001[Eng]|3004[Hun]|3005[Cze]	14074
+12303	V	27500-5/6	K2	TV	DTX East Europe	No	MPEG-4/HD|PowerVu	3002	3000	3001[Eng]|3003[Rus]|3007[Eng]|3008[Rus]	14074
+12303	V	27500-5/6	K2	TV	Discovery Science	No	MPEG-4/HD|PowerVu	3200	3200	3201[Eng]|3202[Hun]|3203[Tur]|3204[Rus]	14074
+12303	V	27500-5/6	K2	TV	Discovery Science	No	MPEG-4/HD|PowerVu	3201	3200	3201[Eng]|3202[Hun]	14074
+12303	V	27500-5/6	K2	TV	Discovery Science	No	MPEG-4/HD|PowerVu	3202	3200	3201[Eng]|3203[Tur]	14074
+12303	V	27500-5/6	K2	TV	Discovery Science	No	MPEG-4/HD|PowerVu	3203	3200	3201[Eng]|3204[Rus]	14074
+12303	V	27500-5/6	K2	TV	Discovery Science	No	MPEG-4/HD|PowerVu	3204	3200	3201[Eng]|3205[Cze]	14074
+12303	V	27500-5/6	K2	TV	Discovery Science	No	MPEG-4/HD|PowerVu	3205	3200	3201[Eng]	14074
+12322	H	30000-3/4	Ku	TV	Telenor Sports 11	No	MPEG-4/HD|Conax	9010	6110	6210	14107
+12322	H	30000-3/4	Ku	TV	Telenor Sports 12	No	MPEG-4/HD|Conax	9011	.111	6211	14107
+12322	H	30000-3/4	Ku	TV	Telenor Sports 13	No	MPEG-4/HD|Conax	9012	6112	6212	14107
+12322	H	30000-3/4	Ku	TV	Telenor Sports 14	No	MPEG-4/HD|Conax	9013	6113	6213	14107
+12322	H	30000-3/4	Ku	TV	Telenor Sports 15	No	MPEG-4/HD|Conax	9014	6114	6214	14107
+12360	H	30000-3/4	Ku	TV	Telenor Sports 6	No	MPEG-4/HD|Conax	9005	6105	6205	14113
+12360	H	30000-3/4	Ku	TV	Telenor Sports 8	No	MPEG-4/HD|Conax	9007	6107	6207	14113
+12360	H	30000-3/4	Ku	TV	Telenor Sports 9	No	MPEG-4/HD|Conax	9008	6108	6208	14113
+12360	H	30000-3/4	Ku	TV	Telenor Sports 10	No	MPEG-4/HD|Conax	9009	6109	6209	14113
+12380	V	30000-3/4	K2	TV	Cartoon Network Central & Eastern Europe	No	MPEG-4/SD|Conax|Nagravision	6011	1102	1103[Cze]|1104[Eng]	14118
+12380	V	30000-3/4	K2	TV	Viasat Nature East	No	MPEG-4/HD|Conax|Nagravision	6012	1202	1203[Cze]|1204[Eng]|1205[Hun]	14118
+12380	V	30000-3/4	K2	TV	CT 3	No	MPEG-4/SD|Conax|Nagravision	6013	1302	1303[Cze]	14118
+12380	V	30000-3/4	K2	TV	AMC Cesko	No	MPEG-4/HD|Conax|Nagravision	6014	1402	1403[Cze]|1404[Eng]	14118
+12380	V	30000-3/4	K2	TV	Joj Family	No	MPEG-4/SD|Conax|Cryptoworks|Irdeto|Nagravision	6017	1702	1703[Slo]	14118
+12380	V	30000-3/4	K2	TV	Nova Sport 2	No	MPEG-4/HD|Conax|Cryptoworks|Irdeto|Nagravision	6018	1802	1803[Cze]	14118
+12380	V	30000-3/4	K2	TV	Sport 1 Czechia	No	MPEG-4/HD|Conax|Cryptoworks|Irdeto|Nagravision	6019	1902	1903[Slo]|1904[Cze]	14118
+12380	V	30000-3/4	K2	TV	Golf Channel Czechia	No	MPEG-4/SD|Conax|Nagravision	6020	2002	2003[Cze]	14118
+12380	V	30000-3/4	K2	TV	Prima Plus	No	MPEG-4/SD|Conax|Cryptoworks|Irdeto|Nagravision	6021	2102	2103[Cze]	14118
+12380	V	30000-3/4	K2	TV	TV Doma	No	MPEG-4/HD|Conax|Cryptoworks|Irdeto|Nagravision	6023	2302	2303[Slo]	14118
+12380	V	30000-3/4	K2	TV	Wau TV	No	MPEG-4/HD|Conax|Cryptoworks|Irdeto|Nagravision	6024	2402	2403[Slo]|2404[Qaa]	14118
+12380	V	30000-3/4	K2	TV	Joj Cinema	No	MPEG-4/HD|Conax|Cryptoworks|Irdeto|Nagravision	6025	2502	2503[Cze]	14118
+12380	V	30000-3/4	K2	TV	Nova International	No	MPEG-4/SD|Conax|Cryptoworks|Irdeto|Nagravision	6028	2802	2803[Cze]	14118
+12380	V	30000-3/4	K2	TV	Discovery Channel Central Europe	No	MPEG-4/HD|Conax|Cryptoworks|Irdeto|Nagravision	6030	3002	3003[Cze]|3004[Eng]|3005[Hun]	14118
+12380	V	30000-3/4	K2	TV	Prima Zoom	No	MPEG-4/HD|Conax|Cryptoworks|Irdeto|Nagravision	6031	3102	3103[Cze]	14118
+12399	H	30000-2/3	Ku	TV	Telenor promo	No	MPEG-4/SD	7056	1.55	3150	14134
+12399	H	30000-2/3	Ku	TV	Telenor Sports 1	No	MPEG-4/HD|Conax|Videoguard	9000	6100	6200	14134
+12399	H	30000-2/3	Ku	TV	Telenor Sports 2	No	MPEG-4/HD|Conax|Videoguard	9001	6101	6201	14134
+12399	H	30000-2/3	Ku	TV	Telenor Sports 3	No	MPEG-4/HD|Conax|Videoguard	9002	6102	6202	14134
+12399	H	30000-2/3	Ku	TV	Telenor Sports 4	No	MPEG-4/HD|Conax	9003	6103	6203	14134
+12399	H	30000-2/3	Ku	TV	Telenor Sports 5	No	MPEG-4/HD|Conax	9004	6104	6204	14134
+12418	V	28000-7/8	T2	TV	CGTN	Yes		519	1166	3097[Eng]	14141
+12418	V	28000-7/8	T2	TV	CGTN Documentary	Yes		2029	1172	3102[Eng]	14141
+12418	V	28000-7/8	T2	TV	Aljazeera English	Yes		2912	1239	3237[Eng]	14141
+12418	V	28000-7/8	T2	TV	Sky News International	Yes		3837	1206	3202[Eng]	14141
+12418	V	28000-7/8	T2	TV	Brunstad TV	No	MPEG-4/SD|Conax	4609	1102	3101[Nor]|3315[Ger]|3365[Dut]|3373[Eng]|4301[Fre]|4302[Spa]|4303[Fin]|4304[Rus]|4305[Por]|4306[Rum]|4307[Tur]|4308[Bul]|4309[Pol]|4311[Hun]|4312[Ita]|4313[Slv]	14141
+12418	V	28000-7/8	T2	TV	History România	Yes	MPEG-4/HD	7814	1814	3814[Eng]|4829[Hun]	14141
+12418	V	28000-7/8	T2	TV	History Europe	Yes	MPEG-2/SD	7815	1815	3815[Eng]|4816[Hun]|4817[Tur]|4818[Rus]	14141
+12418	V	28000-7/8	T2	TV	Crime + Investigation UK	Yes	MPEG-2/SD	7816	1816	3816[Eng]|4819[Cze]	14141
+12418	V	28000-7/8	T2	R	ScanSat	Yes		917		3174[Nor]	14141
+12607	H	30000-3/4	Spot 3	TV	Rossiya 1	No	MPEG-4/SD|Verimatrix	1	101	.02[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	Soyuz	No	MPEG-4/SD|Verimatrix	2	201	202[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	Match!	No	MPEG-4/SD|Verimatrix	3	301	302[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	Raz TV	No	MPEG-4/SD|Verimatrix	4	401	402[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	Okhota i Rybalka	No	MPEG-4/SD|Verimatrix	5	501	502[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	Smile TV (10.30-22.30)	No	MPEG-4/SD|Verimatrix	6	601	602[Eng]	15013
+12607	H	30000-3/4	Spot 3	TV	Juce TV (22.30-10.30)	No	MPEG-4/SD|Verimatrix	6	601	602[Eng]	15013
+12607	H	30000-3/4	Spot 3	TV	Rossiya 24	No	MPEG-4/SD|Verimatrix	7	701	702[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	TBN Rossiya	No	MPEG-4/SD|Verimatrix	8	801	802[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	Ulibka Rebyonka	No	MPEG-4/SD|Verimatrix	9	901	902[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	Russian Music Box	No	MPEG-4/SD|Verimatrix	11	1101	1102[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	RTR Planeta	No	MPEG-4/SD|Verimatrix	12	1201	1202[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	STS	No	MPEG-4/SD|Verimatrix	13	1301	1302[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	Rossiya 1 Chita	No	MPEG-4/SD|Verimatrix	14	1401	1402[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	Shanson TV	No	MPEG-4/SD|Verimatrix	15	1501	1502[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	Perviy kanal (0h)	No	MPEG-4/SD|Verimatrix	16	1601	1602[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	Kinomiks	No	MPEG-4/SD|Verimatrix	17	1701	1702[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	Top Shop TV Russia	No	MPEG-4/SD|Verimatrix	18	1801	1802[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	TV Centr Evropa	No	MPEG-4/SD|Verimatrix	19	1901	1902[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	TV Mall (Russia)	No	MPEG-4/SD|Verimatrix	20	2001	2002[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	Domashniy	No	MPEG-4/SD|Verimatrix	21	2101	2102[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	Telekanal Zvezda (0h)	No	MPEG-4/SD|Verimatrix	22	2201	2202[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	Match! Planeta	No	MPEG-4/SD|Verimatrix	23	2301	2302[Rus]	15013
+12607	H	30000-3/4	Spot 3	TV	5 Kanal (0h)	No	MPEG-4/SD|Verimatrix	24	2401	2402[Rus]	15013
+12607	H	30000-3/4	Spot 3	R	Humor FM	No	Verimatrix	41		4102[Rus]	15013
+12607	H	30000-3/4	Spot 3	R	Radio Dlya Dvoih	No	Verimatrix	42		4202[Rus]	15013
+12607	H	30000-3/4	Spot 3	R	Radio Romantika	No	Verimatrix	43		4302[Rus]	15013
+12607	H	30000-3/4	Spot 3	R	Avtoradio Moskva (0h)	No	Verimatrix	44		4402[Rus]	15013
+12607	H	30000-3/4	Spot 3	R	Radio Vanya	No	Verimatrix	45		4502[Rus]	15013
+12607	H	30000-3/4	Spot 3	R	NRJ Russia	No	Verimatrix	46		4602[Rus]	15013
+12607	H	30000-3/4	Spot 3	R	DFM	No	Verimatrix	47		4702[Rus]	15013
+12607	H	30000-3/4	Spot 3	R	Vashe Radio	Yes		48		4802[Rus]	15013
+12607	H	30000-3/4	Spot 3	R	Russkoe Radio	No	Verimatrix	49		4902[Rus]	15013
+12607	H	30000-3/4	Spot 3	R	Hit FM (Russia)	No	Verimatrix	50		5002[Rus]	15013
+12643	H	30000-7/8	Spot 3	TV	Rodnoe Kino	No	MPEG-4/SD|Verimatrix	25	2501	25.2[Rus]	15048
+12643	H	30000-7/8	Spot 3	TV	Nashe Novoe Kino	No	MPEG-4/SD|Verimatrix	26	2601	2602[Rus]	15048
+12643	H	30000-7/8	Spot 3	TV	Kinosemja	No	MPEG-4/SD|Verimatrix	27	2701	2702[Rus]	15048
+12643	H	30000-7/8	Spot 3	TV	Kinohit	No	MPEG-4/SD|Verimatrix	28	2801	2802[Rus]	15048
+12643	H	30000-7/8	Spot 3	TV	Kanal Disney	No	MPEG-4/SD|Verimatrix	29	2901	2902[Rus]	15048
+12643	H	30000-7/8	Spot 3	TV	MTV Dance	No	MPEG-4/SD|Verimatrix	31	3101	3102[Eng]	15048
+12643	H	30000-7/8	Spot 3	TV	O'zbekiston	No	MPEG-2/SD|Verimatrix	32	3201	3202[Uzb]	15048
+12643	H	30000-7/8	Spot 3	TV	VH1 Classic	No	MPEG-4/SD|Verimatrix	33	3301	3302[Eng]	15048
+12643	H	30000-7/8	Spot 3	TV	Kinosvidanie	No	MPEG-4/SD|Verimatrix	34	3401	3402[Rus]	15048
+12643	H	30000-7/8	Spot 3	TV	EuroNews Russkiy	No	MPEG-4/SD|Verimatrix	35	3501	3502[Rus]	15048
+12643	H	30000-7/8	Spot 3	TV	RBK TV	No	MPEG-4/SD|Verimatrix	36	3601	3602[Rus]	15048
+12643	H	30000-7/8	Spot 3	TV	TV Sale	No	MPEG-4/SD|Verimatrix	37	3701	3702[Rus]	15048
+12643	H	30000-7/8	Spot 3	TV	TV 3 (0h)	No	MPEG-4/SD|Verimatrix	38	3801	3802[Rus]	15048
+12643	H	30000-7/8	Spot 3	TV	Match! Arena	No	MPEG-4/HD|Verimatrix	39	3901	3902[Rus]	15048
+12643	H	30000-7/8	Spot 3	TV	Match! Futbol 1	No	MPEG-4/HD|Verimatrix	40	4001	4002[Rus]	15048
+12643	H	30000-7/8	Spot 3	R	Militseyskaya Volna	No	Verimatrix	53		5302[Rus]	15048
+12643	H	30000-7/8	Spot 3	R	Comedy Radio	No	Verimatrix	54		5402[Rus]	15048
+12643	H	30000-7/8	Spot 3	R	Radio Komsomolskaya Pravda	No	Verimatrix	55		5502[Rus]	15048
+12643	H	30000-7/8	Spot 3	R	Relax FM	No	Verimatrix	56		5602[Rus]	15048
+12643	H	30000-7/8	Spot 3	R	Echo Moskva	No	Verimatrix	57		5702[Rus]	15048
+12643	H	30000-7/8	Spot 3	R	Detskoe Radio Moskva	No	Verimatrix	58		5802[Rus]	15048
+12643	H	30000-7/8	Spot 3	R	Radio Zenit (Russia)	No	Verimatrix	59		5902[Rus]	15048
+12643	H	30000-7/8	Spot 3	R	Pioner FM	No	Verimatrix	60		6002[Rus]	15048
+12643	V	28800-3/4	Spot 3	TV	(feeds)	No	MPEG-4/SD|PowerVu	1038	1238	1338	15072
+12643	V	28800-3/4	Spot 3	TV	Tivi 5 Monde	No	MPEG-2/SD|PowerVu	1039	1239	1339[Fre]	15072
+12643	V	28800-3/4	Spot 3	TV	TV 5 Monde Afrique	No	MPEG-2/SD|PowerVu	1040	1240	1340[Fre]	15072
+12643	V	28800-3/4	Spot 3	TV	TV 5 Monde Europe	Yes	MPEG-2/SD	1041	1241	1341[Fre]	15072
+12643	V	28800-3/4	Spot 3	TV	TV 5 Monde Europe	Yes	MPEG-4/HD	1042	1242	1342[Fre]	15072
+12643	V	28800-3/4	Spot 3	TV	TV 5 Monde France Belgique Suisse	Yes	MPEG-4/HD	1043	1243	1343[Fre]	15072
+12643	V	28800-3/4	Spot 3	TV	TV 5 Monde Maghreb-Orient	No	MPEG-4/HD|PowerVu	1044	1244	1344[Fre]	15072
+12643	V	28800-3/4	Spot 3	TV	TV 5 Monde Pacifique	No	MPEG-4/SD|PowerVu	1045	1245	1345[Fre]	15072
+12643	V	28800-3/4	Spot 3	TV	TV 5 Monde Style HD	No	MPEG-4/HD|PowerVu	1046	1246	1346[Fre]	15072
+12687	H	27500-3/4	Spot 3	TV	U TV (Romania)	Yes		1011	511	664[Rum]	15082
+12687	H	27500-3/4	Spot 3	R	Mária Rádió Hungary	Yes		2680		779[Hun]	15082
+12687	H	27500-3/4	Spot 3	R	Mária Rádió Erdély	Yes		2680		779[Hun]	15082
+12687	H	27500-3/4	Spot 3	R	Radio Maria Romania	Yes		3670		4073[Rum]	15082
+12687	V	28800-3/5	Spot 3	TV	Epic Drama	No	MPEG-4/HD|Conax|Nagravision	7011	1102	1103[Cze]|1104[Qaa]|1105[Hun]	15087
+12687	V	28800-3/5	Spot 3	TV	Seznam	No	MPEG-4/SD|Nagravision	7012	1202	1203[Cze]	15087
+12687	V	28800-3/5	Spot 3	TV	Prima Love	No	MPEG-4/HD|Conax|Nagravision	7013	1302	1303[Cze]	15087
+12687	V	28800-3/5	Spot 3	TV	Prima Cool	No	MPEG-4/HD|Conax|Nagravision	7014	1402	1403[Cze]	15087
+12687	V	28800-3/5	Spot 3	TV	Prima Max	No	MPEG-4/HD|Conax|Cryptoworks|Irdeto|Nagravision	7015	1502	1503[Cze]	15087
+12687	V	28800-3/5	Spot 3	TV	Nova Cinema	No	MPEG-4/HD|Conax|Cryptoworks|Irdeto|Nagravision	7017	1702	1703[Cze]	15087
+12687	V	28800-3/5	Spot 3	R	Radio Dálnice	Yes	MPEG-4/SD	7016		1602[Cze]	15087
+12723	H	27500-3/4	Spot 3	R	Vibe FM	Yes		2516		782[Rum]	15097

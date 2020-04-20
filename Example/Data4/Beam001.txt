@@ -1,5 +1,6 @@
-EuropeA
-EuropeB
-EuropeC
-SEAfrica
-SubSaharan
+CEE
+EUH3
+EUV3
+ME
+MEV3
+PanEuropean

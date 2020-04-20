@@ -25,20 +25,19 @@ namespace SatRTV
 
         public static string ApplicationDirectory()
         {
-            string AppDir = Path.GetDirectoryName(System.Diagnostics.Process.GetCurrentProcess().MainModule.FileName);
-            if (AppDir[AppDir.Length - 1] != System.IO.Path.DirectorySeparatorChar)
+            string AppDir = Path.GetDirectoryName(System.Reflection.Assembly.GetCallingAssembly().Location);
+            if (AppDir[AppDir.Length - 1] != Path.DirectorySeparatorChar)
             {
-                AppDir = AppDir + System.IO.Path.DirectorySeparatorChar;
+                AppDir = AppDir + Path.DirectorySeparatorChar;
             }
             return AppDir;
         }
-
-
 
         public AppCoreSat_1KingOfSat CoreKingOfSat;
         public AppCoreSat_2LyngSat CoreLyngSat;
         public AppCoreSat_3FlySat CoreFlySat;
         public AppCoreSat_4SatBeams CoreSatBeams;
+        public AppCoreNo AppCoreNo_;
         public int SatCount;
         public List<string> SatName = new List<string>();
         public List<bool> SatSelected = new List<bool>();
@@ -62,12 +61,14 @@ namespace SatRTV
             CoreLyngSat = new AppCoreSat_2LyngSat();
             CoreFlySat = new AppCoreSat_3FlySat();
             CoreSatBeams = new AppCoreSat_4SatBeams();
+            AppCoreNo_ = new AppCoreNo();
             ConfigFile CF = new ConfigFile();
-            CF.FileLoad(@"Config.txt");
-            CoreKingOfSat.TempDir = ApplicationDirectory() + "Data1" + System.IO.Path.DirectorySeparatorChar;
-            CoreLyngSat.TempDir = ApplicationDirectory() + "Data2" + System.IO.Path.DirectorySeparatorChar;
-            CoreFlySat.TempDir = ApplicationDirectory() + "Data3" + System.IO.Path.DirectorySeparatorChar;
-            CoreSatBeams.TempDir = ApplicationDirectory() + "Data4" + System.IO.Path.DirectorySeparatorChar;
+            CF.FileLoad(ApplicationDirectory() + "Config.txt");
+            CoreKingOfSat.TempDir = ApplicationDirectory() + "Data1" + Path.DirectorySeparatorChar;
+            CoreLyngSat.TempDir = ApplicationDirectory() + "Data2" + Path.DirectorySeparatorChar;
+            CoreFlySat.TempDir = ApplicationDirectory() + "Data3" + Path.DirectorySeparatorChar;
+            CoreSatBeams.TempDir = ApplicationDirectory() + "Data4" + Path.DirectorySeparatorChar;
+            AppCoreNo_.TempDir = ApplicationDirectory();
 
             CF.ParamGet("SetBand1", ref Band1);
             CF.ParamGet("SetBand2", ref Band2);
@@ -83,6 +84,11 @@ namespace SatRTV
 
             ListTransFields = CF.ParamGetS("SetTransFields").Split('|');
             ListChanFields = CF.ParamGetS("SetChanFields").Split('|');
+
+            AppCoreNo_.TransNoFields = CF.ParamGetS("SetTransNoListFields").Split('|');
+            AppCoreNo_.TransNoMode = CF.ParamGetS("SetTransNoListMode").Split('|');
+            AppCoreNo_.ChanNoFields = CF.ParamGetS("SetChanNoListFields").Split('|');
+            AppCoreNo_.ChanNoMode = CF.ParamGetS("SetChanNoListMode").Split('|');
 
             SatCount = 0;
             while (CF.ParamGetS("Sat" + SatCount.ToString() + "Name") != "")

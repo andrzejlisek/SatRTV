@@ -2,15 +2,19 @@
 
 The general purpose of this application is downloading information about geostationary satellite broadcasts \(especially radio and television channels\) and convert it into text files, which are more uniform and usable by people or other applications\.
 
-This application aquires data from three sources:
+This application aquires data from three sources, which are enumerated from 1 to 4:
 
 
-* [https://en\.kingofsat\.net/satellites\.php](https://en.kingofsat.net/satellites.php "https://en.kingofsat.net/satellites.php")
-* [https://www\.lyngsat\.com](https://www.lyngsat.com/ "https://www.lyngsat.com/")
-* [https://www\.flysat\.com/satlist\.php](https://www.flysat.com/satlist.php "https://www.flysat.com/satlist.php")
-* [https://www\.satbeams\.com/channels](https://www.satbeams.com/channels "https://www.satbeams.com/channels")
+1. [https://en\.kingofsat\.net/satellites\.php](https://en.kingofsat.net/satellites.php "https://en.kingofsat.net/satellites.php")
+2. [https://www\.lyngsat\.com](https://www.lyngsat.com/ "https://www.lyngsat.com/") 
+3. [https://www\.flysat\.com/satlist\.php](https://www.flysat.com/satlist.php "https://www.flysat.com/satlist.php")
+4. [https://www\.satbeams\.com/channels](https://www.satbeams.com/channels "https://www.satbeams.com/channels")
 
 All the sites are not official information about satellites, there are created for fans or end\-users, so the information may be outdated, incorrect or incomplete\. It is a good idea to compare information from several sources, there are differences either in transponder list or in channel list on specified transponder\. SatRTV can create list of transponder and the channels, which has the same layout, so there are easier to compare or correct using your spreadsheet software\. In the spreadsheet software, the transponder list or channel list can be addidionaly filtered or converted by user\.
+
+The other ability and purpose is the create enumerated list of stations, which is corresponds to channel numbers in your receiver\. It can merge chanell names and languages from several or all four sources\.
+
+SatRTV requires \.NET or MONO library to run and use, it was implemented and tested on Windows and Ubuntu Linux\.
 
 # Configuration file
 
@@ -71,6 +75,7 @@ You can specify field layout in ultimate transponder list and channel list\. For
 
 
 * **SetTransFields** \- Transponder list layout, available fields:
+  * **No** \- Channel number \(generated as blank field\)
   * **Freq** \- Frequency
   * **Pol** \- Polarization
   * **SR** \- Symbol rate
@@ -83,6 +88,7 @@ You can specify field layout in ultimate transponder list and channel list\. For
   * **DATA** \- Number of DATA channels included on channel list
   * **TOTAL** \- Total number channels included on channel list
 * **SetChanFields** \- Channel list layout, available fields:
+  * **No** \- Channel number \(generated as blank field\)
   * **Freq** \- Transponder frequency
   * **Pol** \- Transponder polarization
   * **Beam** \- Transponder beam name
@@ -93,6 +99,25 @@ You can specify field layout in ultimate transponder list and channel list\. For
   * **FTA** \- Channel is not encrypted \(free to air\)
 
 By modifying the list, you can specify order or include only some of all fields\.
+
+## Enumerated list
+
+After creating the transponder list and channel list, you can create the enumerated list\. The function uses the following parameters:
+
+
+* **SetTransNoListFields** \- Field list in enumerated transponder list, separated by **&#124;**\.
+* **SetTransNoListMode** \- Field value aquiring mode corresponding to fields in **SetTransNoListFields**, separated by **&#124;**, for each field possible value is **0** or **1**, described below\.
+* **SetChanNoListFields** \- Field list in enumerated transponder list, separated by **&#124;**\.
+* **SetChanNoListMode** \- Field value aquiring mode corresponding to fields in **SetChanNoListFields**, separated by **&#124;**, for each field possible value is **0** or **1** or **2**, described below\.
+
+The **SetTransNoListMode** and **SetChanNoListMode** is the digital value list separated by **&#124;**\. These value are the following meaning:
+
+
+* **0** \- Write the first occurence
+* **1** \- Write all occurences separated by **&#124;**, the exactly repeated occurences will not written\.
+* **2** \- Reserved to **Lang** field, where language codes are in **\[\]**\. Merge language codes without repeated language codes and sort alphabetically \(usable only in **Lang** field in channel list\)\.
+
+The value is not applicable to **No** field, because the list is generated based on the **No** field, so the value for the field does not impact the list creating\.
 
 # Using application
 
@@ -133,7 +158,7 @@ The parsed data are saved in three text files per earch selected satellite \(the
 * **ChanDataNNN\.txt** \- Channel data\.
 * **BeamNNN\.txt** \- All unique transponder beams used in the satellite, sorted alphabetically\.
 
-The first two files stores almost all available data\. If files has incorrect layout or parsing process is broken due to incorrectness HTML file, you can manually correct this HTML file and repeat parse\. For LyngSat and FlySat you can change row spanning for tables when necessary as described in configuration file desctiption\. After hanging configuration file, you have to restart SatRTV application\. Eventually, you can manually correct output text files\.
+The first two files stores almost all available data\. If files has incorrect layout or parsing process is broken due to incorrectness HTML file, you can manually correct the HTML file and repeat parse\. For LyngSat and FlySat you can change row spanning for tables when necessary as described in configuration file desctiption\. After hanging configuration file, you have to restart SatRTV application\. Eventually, you can manually correct output text files\.
 
 The third file stores all beam names, which occured in this satellite\.
 
@@ -221,6 +246,32 @@ The image height is the same as number of selected satellites\. The image width 
 * **Red** \- Transponder with horizontal or right polarization\.
 * **Green** \- Transponder with vertical or left polarization\.
 * **Yellow** \- Two transponders with opposite polarizations\.
+
+## Creating enumerated channel list
+
+The last ability is to create the enumerated list for every satellite\. This list is usable for example, for search the item number in your receiver by station name or language\. If you have tuned your receiver and you have generated channel list \(**ChanListNNN\.txt** file\) with the **No** field, which is blank, You have to manually input item number, in which the channel is stored\. At the items, which are not stored in your receiver, leave blank the **No** field\. The **No** can not be repeated or input out of order\. In case, where the item order does not meet the item order in your receiver, reorder the items in the file\. The limitations are introduced to detect some mistakes in item number entering\.
+
+After fill in the **No** field, you have to save the file and run **CHANNO S** command\. In this command, the **S** means the concatenated source numbers in priority order\. The characters other than digits from **1** to **4** will be ignored\. The repeated **1**\-**4** characters will be also ignored\. For example:
+
+
+* **CHANNO 1234** \- Get channels from all sources in this order: KingOfSat, LyngSat, FlySat and SatBeams\.
+* **CHANNO 1** \- Get channels from KingOfSat only\.
+* **CHANNO 31** \- Get channels from FlySat followed by KingOfSat\.
+
+This command will create **ChanListNNN\.txt** file in the application directory, where there is the **Config\.txt** file\. The field list for this list is defined by the **SetChanNoListFields** parameter\. The all fields mentioned as the value must be exist in the every used **ChanListNNN\.txt** file in **DataS** directory\.
+
+The **SetChanNoListMode** parameter corresponds with the **SetChanNoListFields** parameter and determines the value getting type for each field:
+
+
+* **0** \- Write the first occurence
+* **1** \- Write all occurences separated by **&#124;**, the exactly repeated occurences will not written\.
+* **2** \- Reserved to **Lang** field, where language codes are in **\[\]**\. Merge language codes without repeated language codes and sort alphabetically\.
+
+The **SetChanNoListMode** value is not applicable to **No** field, because the list is generated based on the **No** field\.
+
+## Creating enumerated transponder list
+
+You can create the enumerated transponder list by exactly the same principle as the enumerated thannel list creating\. It uses the **TransListNNN\.txt** file from **DataS** directory and creates the **TransListNNN\.txt** file\. To to this you have to execute the **TRANSNO S** command\. It uses the **SetTransNoListFields** and **SetTransNoListMode** parameters from Config\.txt, but the 2 value for **SetTransNoListMode** is not usable in the transponder list\.
 
 # Errors and exceptions
 

@@ -23,6 +23,7 @@ namespace SatRTV
         {
             AppCore Core = new AppCore();
             AppCoreSat[] AppCoreSat_ = new AppCoreSat[5];
+            AppCoreNo AppCoreNo_ = Core.AppCoreNo_;
             AppCoreSat_[0] = null;
             AppCoreSat_[1] = Core.CoreKingOfSat;
             AppCoreSat_[2] = Core.CoreLyngSat;
@@ -206,6 +207,21 @@ namespace SatRTV
                             if ((CmdNum >= 1) && (CmdNum < AppCoreSat_.Length))
                             {
                                 AppCoreSat_[CmdNum].CreateTransBitmap(Core.SatSelected, Core.Band1, Core.Band2, Core.Band3);
+                                Pause();
+                                GoodCmd = true;
+                            }
+                            break;
+                        case "TRANSNO":
+                            {
+                                AppCoreNo_.TransNo(CmdX[1], Core.SatSelected);
+                                Pause();
+                                GoodCmd = true;
+                            }
+                            break;
+                        case "CHANNO":
+                            {
+                                AppCoreNo_.ChanNo(CmdX[1], Core.SatSelected);
+                                Pause();
                                 GoodCmd = true;
                             }
                             break;
@@ -227,6 +243,8 @@ namespace SatRTV
                     Console.WriteLine("PARSE S - Parse downloaded data from S");
                     Console.WriteLine("LIST S - Create lists of transponder and channels from S");
                     Console.WriteLine("TRANSIMG S - Visualize transponder frequencies in picture file");
+                    Console.WriteLine("TRANSNO S - Create numbered transponder list from multiple sources");
+                    Console.WriteLine("CHANNO S - Create numbered channel list from multiple sources");
                     Console.WriteLine("EXIT - Exit application");
                     Console.WriteLine();
                     Pause();

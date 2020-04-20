@@ -1,0 +1,843 @@
+Freq	Pol	SR	Beam	Type	Name	Country	Category	Packages	Encryption	SID	VPID	Audio	PMT	PCR	TXT	Last updated	FTA	Row
+10714.25	H	22000 5/6	U.K.	TV	Channel 4 London	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	9211	2315	2317[nar]|2316[eng]	256	2315	2318	2017-02-15	Yes	35001001
+10714.25	H	22000 5/6	U.K.	TV	Channel 4 South & East	Wielka Brytania	Ogólne	Sky Digital	FTA	9212	2327	2328[eng]	257	2327	2329	2017-02-15	Yes	35001003
+10714.25	H	22000 5/6	U.K.	TV	Channel 4 Midlands	Wielka Brytania	Ogólne	Sky Digital	FTA	9213	2332	2333[eng]	258	2332	2334	2017-02-15	Yes	35001005
+10714.25	H	22000 5/6	U.K.	TV	Channel 4 North	Wielka Brytania	Ogólne	Sky Digital	FTA	9214	2337	2338[eng]	259	2337	2339	2017-02-15	Yes	35001007
+10714.25	H	22000 5/6	U.K.	TV	Channel 4 Scotland	Wielka Brytania	Ogólne	Sky Digital	FTA	9216	2347	2348[eng]	261	2347	2349	2017-02-15	Yes	35001009
+10714.25	H	22000 5/6	U.K.	TV	Film4	Wielka Brytania	Filmy	Freesat|Sky Digital	FTA	9220	2353	2355[nar]|2354[eng]	266	2353	2356	2017-02-15	Yes	35001011
+10714.25	H	22000 5/6	U.K.	TV	More 4 +1	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	9230	2367	2369[nar]|2368[eng]	264	2367	2370	2018-02-16	Yes	35001013
+10714.25	H	22000 5/6	U.K.	TV	More 4	Wielka Brytania	Ogólne	Sky Digital	VideoGuard	9231	2322	2324[nar]|2323[eng]	267	2322	2325	2018-07-05	No	35001015
+10714.25	H	22000 5/6	U.K.	TV	E4 UK	Wielka Brytania	Ogólne	Sky Digital	FTA	9241	2372	2374[nar]|2373[eng]	263	2372	2375	2018-05-26	Yes	35001017
+10714.25	H	22000 5/6	U.K.	TV	Channel 4+1			Sky Digital	VideoGuard	9245	2306	2309[nar]|2307[eng]	269	2306	2308	2018-06-08	No	35001019
+10714.25	H	22000 5/6	U.K.	TV	E4 +1	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	9250	2305	2312[nar]|2310[eng]	265	2305	2311	2018-08-16	No	35001021
+10714.25	H	22000 5/6	U.K.	TV	c4 l			Sky Digital	FTA	9281	2315	2316[eng]	262	2315	2318	2017-02-15	Yes	35001023
+10758.00	V	22000 5/6	U.K.	TV	ITV 1 London	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	10060	3328	3330[nar]|3329[eng]	261	3328	2326	2017-02-15	Yes	47001001
+10758.00	V	22000 5/6	U.K.	TV	ITV 2	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	10070	3332	3334[nar]|3333[eng]	262	3332	2360	2017-02-15	Yes	47001003
+10758.00	V	22000 5/6	U.K.	TV	CITV U.K.	Wielka Brytania	Dzieci	Freesat|Sky Digital	FTA	10071	3336	3338[nar]|3337[eng]	257	3336	2306	2017-02-15	Yes	47001005
+10758.00	V	22000 5/6	U.K.	TV	ITV 4	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	10072	3340	3342[nar]|3341[eng]	264	3340	2369	2017-02-15	Yes	47001007
+10758.00	V	22000 5/6	U.K.	TV	ITV 4 +1	Wielka Brytania	Ogólne	Sky Digital	FTA	10073	2316	2318[nar]|2317[eng]	269	2316	2319	2017-02-15	Yes	47001009
+10758.00	V	22000 5/6	U.K.	TV	ITV Be	Wielka Brytania	Ogólne	Sky Digital	FTA	10075	2305	2309[nar]|2308[eng]	258	2305	2310	2017-02-15	Yes	47001011
+10758.00	V	22000 5/6	U.K.	TV	ITVi Stream 44			Sky Digital	FTA	10079	3336	3337[eng]	256	3336		2017-02-15	Yes	47001013
+10758.00	V	22000 5/6	U.K.	TV	ITV 1 Granada	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	10080	3348	3350[nar]|3349[eng]	263	3348	2349	2017-02-15	Yes	47001015
+10758.00	V	22000 5/6	U.K.	TV	ITV 1 Anglia East	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	10090	3352	3354[nar]|3353[eng]	260	3352	2341	2017-02-15	Yes	47001017
+10758.00	V	22000 5/6	U.K.	TV	ITV 1 Anglia East +1	Wielka Brytania	Regionalne	Sky Digital	FTA	10091	2312	2313[eng]	268	2312	2314	2017-02-15	Yes	47001019
+10758.00	V	22000 5/6	U.K.	TV	ITV 1 Central West	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	10100	3356	3358[nar]|3357[eng]	259	3356	2377	2017-02-15	Yes	47001021
+10758.00	V	22000 5/6	U.K.	TV	ITV 1 Meridian East +1	Wielka Brytania	Ogólne	Sky Digital	FTA	10101	2351	2352[eng]	267	2351	2353	2017-02-15	Yes	47001023
+10773.00	H	22000 5/6	U.K.	TV	BBC One London	Wielka Brytania	Ogólne	BBC|Freesat|Sky Digital	FTA	6301	5000	5002[nar]|5001[eng]	256	5000	5003	2017-02-15	Yes	51001003
+10773.00	H	22000 5/6	U.K.	TV	BBC Two England	Wielka Brytania	Ogólne	BBC|Freesat|Sky Digital	FTA	6302	5100	5102[nar]|5101[eng]	258	5100	5103	2019-02-19	Yes	51001005
+10773.00	H	22000 5/6	U.K.	TV	ETV1			Sky Digital	FTA	6306	5000	5001[eng]	257	5000	5003	2017-02-15	Yes	51001007
+10773.00	H	22000 5/6	U.K.	TV	BBC Four	Wielka Brytania	Kultura	Sky Digital	FTA	6316	5200	5202[nar]|5201[eng]	259	5200	5203	2017-02-15	Yes	51001009
+10773.00	H	22000 5/6	U.K.	TV	CBeebies	Wielka Brytania	Dzieci	Sky Digital	FTA	6318	5200	5202[nar]|5201[eng]	263	5200	5203	2017-02-15	Yes	51001011
+10773.00	H	22000 5/6	U.K.	TV	BBC One Lon			Sky Digital	FTA	6321	5000	5002[nar]|5001[eng]	265	5000	5003	2017-02-15	Yes	51001013
+10773.00	H	22000 5/6	U.K.	TV	BBC Two			Sky Digital	FTA	6322	5100	5102[nar]|5101[eng]	266	5100	5103	2019-02-19	Yes	51001015
+10773.00	H	22000 5/6	U.K.	TV	BBC Four	Wielka Brytania	Kultura	Sky Digital	FTA	6336	5200	5201[eng]	261	5200	5203	2019-01-13	Yes	51001017
+10773.00	H	22000 5/6	U.K.	TV	CBeebies			Sky Digital	FTA	6338	5200	5202[nar]|5201[eng]	267	5200	5203	2017-05-15	Yes	51001019
+10773.00	H	22000 5/6	U.K.	TV	BBC One West	Wielka Brytania	Ogólne	Sky Digital	FTA	6341	5900	5901[eng]	268	5900	5903	2017-02-15	Yes	51001021
+10773.00	H	22000 5/6	U.K.	TV	BBC One Cambridge	Wielka Brytania	Ogólne	Sky Digital	FTA	6351	5700	5701[eng]	269	5700	5703	2017-02-15	Yes	51001023
+10773.00	H	22000 5/6	U.K.	TV	BBC One Channel Islands	Wielka Brytania	Ogólne	Sky Digital	FTA	6361	5800	5801[eng]	270	5800	5803	2017-02-15	Yes	51001025
+10773.00	H	22000 5/6	U.K.	TV	BBC Red Button 1	Wielka Brytania	Ogólne	Sky Digital	FTA	6390	5400	5402|5401[eng]	262	5400		2019-06-28	Yes	51001027
+10773.00	H	22000 5/6	U.K.	TV	6391			Sky Digital	FTA	6391	5000	5052|5001[eng]	264	5000		2017-02-15	Yes	51001029
+10788.00	V	22000 5/6	U.K.	TV	BBC One West Midlands	Wielka Brytania	Ogólne	BBC|Freesat|Sky Digital	FTA	10301	5000	5001[eng]	256	5000	5002	2017-02-15	Yes	55001001
+10788.00	V	22000 5/6	U.K.	TV	BBC One Yorkshire & Lincolnshire	Wielka Brytania	Ogólne	BBC|Freesat|Sky Digital	FTA	10303	5200	5201[eng]	265	5200	5202	2017-02-15	Yes	55001003
+10788.00	V	22000 5/6	U.K.	TV	BBC One East Midlands	Wielka Brytania	Ogólne	BBC|Freesat|Sky Digital	FTA	10305	5401	5402[eng]	260	5401	5403	2017-02-15	Yes	55001005
+10788.00	V	22000 5/6	U.K.	TV	BBC One East	Wielka Brytania	Ogólne	BBC|Freesat|Sky Digital	FTA	10306	5500	5501[eng]	261	5500	5502	2017-02-15	Yes	55001007
+10788.00	V	22000 5/6	U.K.	TV	BBC Parliament	Wielka Brytania	Informacje	Sky Digital	FTA	10307	5100	5101[eng]	258	5100	5103	2017-02-15	Yes	55001009
+10788.00	V	22000 5/6	U.K.	TV	BBC One Wales	Wielka Brytania	Ogólne	Sky Digital	FTA	10311	5600	5601[eng]	263	5600	5603	2017-02-15	Yes	55001011
+10788.00	V	22000 5/6	U.K.	TV	BBC Two Wales	Wielka Brytania	Ogólne	Sky Digital	FTA	10312	5700	5701[eng]	264	5700	5703	2017-02-15	Yes	55001013
+10788.00	V	22000 5/6	U.K.	TV	ETV5			Sky Digital	FTA	10321	5000	5004|5001[eng]	262	5000	5002	2017-02-15	Yes	55001015
+10788.00	V	22000 5/6	U.K.	R	BBC R3			Sky Digital	FTA	10380		6001[eng]	259	6001		2017-02-15	Yes	55001017
+10788.00	V	22000 5/6	U.K.	R	BBC R4 FM			Sky Digital	FTA	10381		6002[eng]	275	6002		2017-02-15	Yes	55001019
+10788.00	V	22000 5/6	U.K.	R	BBC R4 LW			Sky Digital	FTA	10382		6003[eng]	276	6003		2017-02-15	Yes	55001021
+10788.00	V	22000 5/6	U.K.	R	BBC 6 Music			Sky Digital	FTA	10383		6004[eng]	277	6004		2017-02-15	Yes	55001023
+10788.00	V	22000 5/6	U.K.	R	BBC R4 Ex			Sky Digital	FTA	10384		6005[eng]	278	6005		2017-02-15	Yes	55001025
+10788.00	V	22000 5/6	U.K.	R	BBC WS			Sky Digital	FTA	10385		6006[eng]	279	6006		2017-02-15	Yes	55001027
+10788.00	V	22000 5/6	U.K.	R	BBC R Scot.			Sky Digital	FTA	10386		6007[eng]	280	6007		2017-02-15	Yes	55001029
+10788.00	V	22000 5/6	U.K.	R	BBC R n Gael			Sky Digital	FTA	10387		6008[gla]	281	6008		2017-02-15	Yes	55001031
+10788.00	V	22000 5/6	U.K.	R	BBC R Wales			Sky Digital	FTA	10388		6009[eng]	282	6009		2017-02-15	Yes	55001033
+10788.00	V	22000 5/6	U.K.	R	BBC R Cymru			Sky Digital	FTA	10389		6010[wel]	283	6010		2017-02-15	Yes	55001035
+10788.00	V	22000 5/6	U.K.	R	BBC R Ulster			Sky Digital	FTA	10390		6011[eng]	284	6011		2017-02-15	Yes	55001037
+10788.00	V	22000 5/6	U.K.	R	BBC R Foyle			Sky Digital	FTA	10391		6012[eng]	257	6012		2017-02-15	Yes	55001039
+10803.00	H	22000 5/6	U.K.	TV	ETV2			Sky Digital	FTA	6407	5000	5001[eng]	262	5000	5003	2017-02-15	Yes	59001001
+10803.00	H	22000 5/6	U.K.	TV	BBC Scotland	Wielka Brytania	Ogólne	Sky Digital	FTA	6420	5100	5102[nar]|5101[eng]	272	5100	5103	2019-02-22	Yes	59001003
+10803.00	H	22000 5/6	U.K.	TV	BBC One Scotland	Wielka Brytania	Ogólne	BBC|Freesat|Sky Digital	FTA	6421	5000	5001[eng]	261	5000	5003	2017-02-15	Yes	59001005
+10803.00	H	22000 5/6	U.K.	TV	BBC Alba	Wielka Brytania	Regionalne	Sky Digital	FTA	6423	5200	5201[gla]	257	5200		2017-10-30	Yes	59001007
+10803.00	H	22000 5/6	U.K.	TV	BBC ALBA			Sky Digital	FTA	6424	5200	5206[eng]	266	5200		2017-02-15	Yes	59001009
+10803.00	H	22000 5/6	U.K.	TV	BBC One North West	Wielka Brytania	Ogólne	Sky Digital	FTA	6441	5700	5701[eng]	268	5700	5703	2017-02-15	Yes	59001011
+10803.00	H	22000 5/6	U.K.	TV	BBC One Yorkshire & North Midlands	Wielka Brytania	Ogólne	Sky Digital	FTA	6451	5800	5801[eng]	269	5800	5803	2017-02-15	Yes	59001013
+10803.00	H	22000 5/6	U.K.	TV	BBC One South East	Wielka Brytania	Ogólne	Sky Digital	FTA	6461	5900	5901[eng]	270	5900	5903	2017-02-15	Yes	59001015
+10803.00	H	22000 5/6	U.K.	TV	BBC One North East and Cumbria	Wielka Brytania	Ogólne	Sky Digital	FTA	6471	5600	5601[eng]	256	5600	5603	2017-02-15	Yes	59001017
+10803.00	H	22000 5/6	U.K.	R	BBC R5L			Sky Digital	FTA	6401		6001[eng]	271	6001		2017-02-15	Yes	59001019
+10803.00	H	22000 5/6	U.K.	R	BBC R1			Sky Digital	FTA	6450		6201[eng]	263	6201		2017-02-15	Yes	59001021
+10803.00	H	22000 5/6	U.K.	R	BBC R2			Sky Digital	FTA	6452		6301[eng]	265	6301		2017-02-15	Yes	59001023
+10803.00	H	22000 5/6	U.K.	R	BBC Cymru 2			Sky Digital	FTA	6454		6701[wel]	267	6701		2018-01-26	Yes	59001025
+10803.00	H	22000 5/6	U.K.	R	BBC Asian			Sky Digital	FTA	6460		6401[eng]	258	6401		2017-02-15	Yes	59001027
+10803.00	H	22000 5/6	U.K.	R	BBC R5SX			Sky Digital	FTA	6464		6101[eng]	278	6101		2017-02-15	Yes	59001029
+10803.00	H	22000 5/6	U.K.	R	BBC R1X			Sky Digital	FTA	6466		6501[eng]	259	6501		2017-02-15	Yes	59001031
+10803.00	H	22000 5/6	U.K.	R	BBC RLondon			Sky Digital	FTA	6470		6601[eng]	260	6601		2017-02-15	Yes	59001033
+10818.00	V	22000 5/6	U.K.	TV	CBBC	Wielka Brytania	Dzieci	Sky Digital	FTA	10352	5400	5402[nar]|5401[eng]	266	5400	5403	2017-02-15	Yes	63001001
+10818.00	V	22000 5/6	U.K.	TV	BBC One South	Wielka Brytania	Ogólne	BBC|Freesat|Sky Digital	FTA	10353	5200	5201[eng]	258	5200	5202	2017-02-15	Yes	63001003
+10818.00	V	22000 5/6	U.K.	TV	BBC One South West	Wielka Brytania	Ogólne	BBC|Freesat|Sky Digital	FTA	10354	5300	5301[eng]	259	5300	5302	2017-02-15	Yes	63001005
+10818.00	V	22000 5/6	U.K.	TV	BBC One Oxford	Wielka Brytania	Ogólne	BBC|Freesat|Sky Digital	FTA	10356	5500	5501[eng]	261	5500	5502	2017-02-15	Yes	63001007
+10818.00	V	22000 5/6	U.K.	TV	BBC News	Wielka Brytania	Informacje	Sky Digital	FTA	10358	5100	5101[eng]	256	5100	5103	2017-02-15	Yes	63001009
+10818.00	V	22000 5/6	U.K.	TV	BBC One Northern Ireland	Wielka Brytania	Ogólne	Sky Digital	FTA	10361	5600	5601[eng]	263	5600	5603	2017-02-15	Yes	63001011
+10818.00	V	22000 5/6	U.K.	TV	BBC Two Northern Ireland	Wielka Brytania	Ogólne	Sky Digital	FTA	10362	5700	5701[eng]	264	5700	5703	2017-02-15	Yes	63001013
+10818.00	V	22000 5/6	U.K.	TV	ETV6			Sky Digital	FTA	10371	5200	5201[eng]	262	5200	5202	2017-02-15	Yes	63001015
+10818.00	V	22000 5/6	U.K.	TV	CBBC	Wielka Brytania	Dzieci	Sky Digital	FTA	10372	5400	5402[nar]|5401[eng]	267	5400	5403	2017-02-15	Yes	63001017
+10818.00	V	22000 5/6	U.K.	TV	BBC One NI			Sky Digital	FTA	10392	5600	5601[eng]	257	5600	5603	2017-02-15	Yes	63001019
+10818.00	V	22000 5/6	U.K.	TV	BBC Two NI			Sky Digital	FTA	10393	5700	5701[eng]	260	5700	5703	2017-02-15	Yes	63001021
+10847.00	V	23000 3/4	U.K.	TV	BBC Two Wales HD	Wielka Brytania	Ogólne	Sky Digital	FTA	6912	5700	5701[eng]	266	5700	5703	2018-11-30	Yes	71001003
+10847.00	V	23000 3/4	U.K.	TV	BBC Two HD	Wielka Brytania	Ogólne	BBC|Freesat|Sky Digital	FTA	6940	5500	5502[nar]|5501[eng]	258	5500	5503	2018-10-17	Yes	71001005
+10847.00	V	23000 3/4	U.K.	TV	BBC One HD	Wielka Brytania	Ogólne	BBC|Freesat|Sky Digital	FTA	6941	5400	5402[nar]|5401[eng]	260	5400	5403	2018-10-17	Yes	71001007
+10847.00	V	23000 3/4	U.K.	TV	BBC One North Ireland HD	Wielka Brytania	Ogólne	BBC|Freesat|Sky Digital	FTA	6943	5300	5301[eng]	256	5300	5302	2018-10-17	Yes	71001009
+10847.00	V	23000 3/4	U.K.	TV	6945			Sky Digital	FTA	6945	5400	5402[nar]|5401[eng]	259	5400	5403	2018-10-17	Yes	71001011
+10847.00	V	23000 3/4	U.K.	TV	CBBC HD	Wielka Brytania	Dzieci	BBC|Sky Digital	FTA	6952	5600	5602[nar]|5601[eng]	264	5600	5603	2018-10-17	Yes	71001013
+10847.00	V	23000 3/4	U.K.	TV	BBC Two HD			Sky Digital	FTA	6960	5500	5502[nar]|5501[eng]	262	5500	5503	2018-10-17	Yes	71001015
+10847.00	V	23000 3/4	U.K.	TV	BBC One HD			Sky Digital	FTA	6961	5400	5402[nar]|5401[eng]	257	5400	5403	2018-10-17	Yes	71001017
+10847.00	V	23000 3/4	U.K.	TV	BBC One NI HD			Sky Digital	FTA	6963	5300	5301[eng]	263	5300	5302	2018-10-17	Yes	71001019
+10847.00	V	23000 3/4	U.K.	TV	CBBC HD			Sky Digital	FTA	6972	5600	5602[nar]|5601[eng]	265	5600	5603	2018-10-17	Yes	71001021
+10891.00	H	22000 5/6	U.K.	TV	ITV 1 Border	Wielka Brytania	Ogólne	Sky Digital	FTA	10120	3368	3370[nar]|3369[eng]	268	3368	2306	2017-02-15	Yes	83001001
+10891.00	H	22000 5/6	U.K.	TV	ITV 1 Westcountry South +1	Wielka Brytania	Regionalne	Sky Digital	FTA	10125	2342	2343[eng]	269	2342	2344	2017-02-15	Yes	83001003
+10891.00	H	22000 5/6	U.K.	TV	ITV 1 Tyne Tees TV North	Wielka Brytania	Ogólne	Sky Digital	FTA	10130	3339	3341[nar]|3340[eng]	263	3339	2400	2017-02-15	Yes	83001005
+10891.00	H	22000 5/6	U.K.	TV	ITV Be +1	Wielka Brytania	Ogólne	Sky Digital	FTA	10139	2305	2309[nar]|2308[eng]	258	2305	2310	2017-02-15	Yes	83001007
+10891.00	H	22000 5/6	U.K.	TV	ITV 1 Meridian TV South	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	10140	3336	3335[nar]|3337[eng]	257	3336	2347	2017-02-15	Yes	83001009
+10891.00	H	22000 5/6	U.K.	TV	ITV 1 Central West +1	Wielka Brytania	Ogólne	Sky Digital	FTA	10145	2358	2359[eng]	270	2358	2360	2017-02-15	Yes	83001011
+10891.00	H	22000 5/6	U.K.	TV	ITV 1 Meridian East	Wielka Brytania	Ogólne	Sky Digital	FTA	10150	3344	3346[nar]|3345[eng]	266	3344	2380	2017-02-15	Yes	83001013
+10891.00	H	22000 5/6	U.K.	TV	ITV 1 London +1	Wielka Brytania	Ogólne	Sky Digital	FTA	10155	2362	2364[nar]|2363[eng]	271	2362	2365	2017-02-15	Yes	83001015
+10891.00	H	22000 5/6	U.K.	TV	ITV 1 Yorkshire West	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	10160	3348	3350[nar]|3349[eng]	262	3348	2368	2017-02-15	Yes	83001017
+10891.00	H	22000 5/6	U.K.	TV	ITV 2 +1	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	10165	3352	3354[nar]|3353[eng]	265	3352	2392	2017-02-15	Yes	83001019
+10906.00	V	22000 5/6	U.K.	TV	ITV Channel TV	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	10200	3328	2309[nar]|3329[eng]	256	3328	2314	2017-02-15	Yes	87001001
+10906.00	V	22000 5/6	U.K.	TV	STV North	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	10210	3332	3333[eng]	257	3332	2333	2017-02-15	Yes	87001003
+10906.00	V	22000 5/6	U.K.	TV	STV Central West	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	10220	3336	3338[nar]|3337[eng]	258	3336	2340	2017-02-15	Yes	87001005
+10906.00	V	22000 5/6	U.K.	TV	STV Central East	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	10221	3340	3341[eng]	263	3340	2388	2017-02-15	Yes	87001007
+10906.00	V	22000 5/6	U.K.	TV	STV			Sky Digital	FTA	10225	2374	2376[nar]|2375[eng]	267	2374	2377	2017-02-15	Yes	87001009
+10906.00	V	22000 5/6	U.K.	TV	UTV (Ulster)	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	10230	3344	2311[nar]|3345[eng]	259	3344	2347	2017-02-15	Yes	87001011
+10906.00	V	22000 5/6	U.K.	TV	UTV +1	Wielka Brytania	Regionalne	Sky Digital	FTA	10231	2318	2312[eng]	266	2318	2316	2018-05-26	Yes	87001013
+10906.00	V	22000 5/6	U.K.	TV	ITV 1 Westcountry South West	Wielka Brytania	Ogólne	Sky Digital	FTA	10240	2308	2310[nar]|2305[eng]	269	2308	2306	2017-02-15	Yes	87001015
+10906.00	V	22000 5/6	U.K.	TV	ITV 1 Granada +1	Wielka Brytania	Ogólne	Sky Digital	FTA	10255	2379	2380[eng]	268	2379	2381	2017-02-15	Yes	87001017
+10906.00	V	22000 5/6	U.K.	TV	ITV 3	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	10260	3348	3350[nar]|3349[eng]	260	3348	2354	2017-02-15	Yes	87001019
+10906.00	V	22000 5/6	U.K.	TV	ITV 3 +1	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	10261	3352	3354[nar]|3353[eng]	261	3352	2361	2017-02-15	Yes	87001021
+10906.00	V	22000 5/6	U.K.	R	talkSPORT			Sky Digital	FTA	10238		3355[eng]	265	3355		2017-02-15	Yes	87001023
+10936.00	V	22000 5/6	U.K.	TV	E4 +1	Wielka Brytania	Rozrywka	Sky Digital	FTA	8300	2347	2349[nar]|2348[eng]	256	2347	2350	2018-11-27	Yes	95001001
+10936.00	V	22000 5/6	U.K.	TV	E4 UK	Wielka Brytania	Ogólne	Sky Digital	VideoGuard	8306	2305	2307[nar]|2306[eng]	267	2305	2308	2018-11-27	No	95001003
+10936.00	V	22000 5/6	U.K.	TV	Channel 4 London +1	Wielka Brytania	Ogólne	Sky Digital	FTA	8311	2316	2318[nar]|2317[eng]	257	2316	2319	2018-11-27	Yes	95001005
+10936.00	V	22000 5/6	U.K.	TV	Channel 4 South & East +1	Wielka Brytania	Ogólne	Sky Digital	FTA	8312	2322	2323[eng]	258	2322	2324	2018-11-27	Yes	95001007
+10936.00	V	22000 5/6	U.K.	TV	Channel 4 North +1	Wielka Brytania	Ogólne	Sky Digital	FTA	8314	2332	2333[eng]	263	2332	2334	2018-11-27	Yes	95001009
+10936.00	V	22000 5/6	U.K.	TV	Channel 4 Scotland +1	Wielka Brytania	Ogólne	Sky Digital	FTA	8316	2342	2343[eng]	266	2342	2344	2018-11-27	Yes	95001011
+10936.00	V	22000 5/6	U.K.	TV	Channel 4 Northern Ireland	Wielka Brytania	Ogólne	Sky Digital	FTA	8320	2315	2327[eng]	269	2315	2328	2018-11-27	Yes	95001013
+10936.00	V	22000 5/6	U.K.	TV	Channel 4			Sky Digital	VideoGuard	8325	2366	2369[nar]|2368[eng]	264	2366	2370	2018-12-01	No	95001015
+10936.00	V	22000 5/6	U.K.	TV	More 4	Wielka Brytania	Ogólne	Sky Digital	FTA	8340	2359	2361[nar]|2360[eng]	268	2359	2362	2018-11-27	Yes	95001017
+10936.00	V	22000 5/6	U.K.	TV	Film4 +1	Wielka Brytania	Filmy	Sky Digital	FTA	8341	2354	2356[nar]|2355[eng]	262	2354	2357	2018-11-27	Yes	95001019
+10936.00	V	22000 5/6	U.K.	TV	Film4	Wielka Brytania	Filmy	Sky Digital	VideoGuard	8350	2311	2313[nar]|2312[eng]	260	2311	2314	2018-11-27	No	95001021
+10964.00	H	22000 5/6	U.K.	TV	Channel 5 South Central	Wielka Brytania	Ogólne	Sky Digital	FTA	7701	2346	2348[nar]|2347[eng]	267	2346	2349	2015-06-19	Yes	99001001
+10964.00	H	22000 5/6	U.K.	TV	5 USA	Wielka Brytania	Ogólne	Sky Digital	FTA	7710	2325	2327[nar]|2326[eng]	258	2325	2328	2015-06-19	Yes	99001003
+10964.00	H	22000 5/6	U.K.	TV	5 USA +1	Wielka Brytania	Seriale	Sky Digital	FTA	7711	2333	2336[nar]|2334[eng]	259	2333	2335	2018-02-16	Yes	99001005
+10964.00	H	22000 5/6	U.K.	TV	5*	Wielka Brytania	Rozrywka	Sky Digital	FTA	7715	2329	2331[nar]|2330[eng]	260	2329	2332	2016-02-17	Yes	99001007
+10964.00	H	22000 5/6	U.K.	TV	5 Select	Wielka Brytania	Rozrywka	Freesat|Sky Digital	FTA	7716	2337	2340[nar]|2338[eng]	261	2337	2339	2020-02-02	Yes	99001009
+10964.00	H	22000 5/6	U.K.	TV	5* +1	Wielka Brytania	Rozrywka	Sky Digital	FTA	7717	2341	2343[nar]|2342[eng]	256	2341	2344	2018-02-16	Yes	99001011
+10964.00	H	22000 5/6	U.K.	TV	Channel 5 +1	Wielka Brytania	Ogólne	Sky Digital	FTA	7720	2321	2323[nar]|2322[eng]	262	2321	2324	2015-06-19	Yes	99001013
+10964.00	H	22000 5/6	U.K.	TV	Channel 5 HD	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	7750	2305	2307[nar]|2306[eng]	257	2305	2308	2018-02-16	Yes	99001015
+10964.00	H	22000 5/6	U.K.	TV	Paramount Network	Wielka Brytania	Filmy	Sky Digital	FTA	7760	2360	2362[nar]|2361[eng]	268	2360	2363	2020-01-29	Yes	99001017
+10964.00	H	22000 5/6	U.K.	TV	Paramount +1	Wielka Brytania	Komedia	Sky Digital	FTA	7761	2369	2371[nar]|2370[eng]	265	2369	2372	2020-01-29	Yes	99001019
+10994.00	H	22000 5/6	U.K.	TV	ITV 1 Meridian TV North	Wielka Brytania	Ogólne	Sky Digital	FTA	12101	3332	2329[nar]|3333[eng]	267	3332	2350	2015-08-19	Yes	103001001
+10994.00	H	22000 5/6	U.K.	TV	ITV +1 Tyne Tees	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	12105	2309	2306[eng]	258	2309	2307	2015-08-19	Yes	103001003
+10994.00	H	22000 5/6	U.K.	TV	ITV 1 Anglia TV West	Wielka Brytania	Ogólne	Sky Digital	FTA	12110	3336	2331[nar]|3337[eng]	262	3336	2355	2015-08-19	Yes	103001005
+10994.00	H	22000 5/6	U.K.	TV	ITV 1 Yorkshire TV East	Wielka Brytania	Ogólne	Sky Digital	FTA	12120	3340	2334[nar]|3341[eng]	268	3340	2351	2015-08-19	Yes	103001007
+10994.00	H	22000 5/6	U.K.	TV	ITV Border Scotland	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	12130	2321	2333[nar]|2322[eng]	256	2321	2323	2015-08-19	Yes	103001009
+10994.00	H	22000 5/6	U.K.	TV	ITV 1 Central East	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	12145	2310	2335[nar]|2311[eng]	259	2310	2312	2015-08-19	Yes	103001011
+10994.00	H	22000 5/6	U.K.	TV	ITV 1 Wales	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	12150	2340	2336[nar]|2341[eng]	264	2340	2342	2015-08-19	Yes	103001013
+10994.00	H	22000 5/6	U.K.	TV	ITV +1 Wales	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	12155	2345	2346[eng]	263	2345	2347	2015-08-19	Yes	103001015
+10994.00	H	22000 5/6	U.K.	TV	ITV 1 Yorkshire TV East +1	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	12165	2330	2372[eng]	269	2330	2373	2015-08-19	Yes	103001017
+10994.00	H	22000 5/6	U.K.	TV	ITV 1 Westcountry West	Wielka Brytania	Regionalne	Freesat|Sky Digital	FTA	12170	2320	2332[nar]|2317[eng]	266	2320	2318	2015-12-07	Yes	103001019
+10994.00	H	22000 5/6	U.K.	TV	ITV+1			Freesat|Sky Digital	FTA	12175	2325	2326[eng]	265	2325	2327	2015-11-23	Yes	103001021
+11024.00	H	23000 3/4	U.K.	TV	BBC One Scotland HD	Wielka Brytania	Ogólne	BBC|Freesat|Sky Digital	FTA	8901	5100	5101[eng]	256	5100	5103	2018-10-17	Yes	111001003
+11024.00	H	23000 3/4	U.K.	TV	BBC One Wales HD	Wielka Brytania	Ogólne	BBC|Freesat|Sky Digital	FTA	8911	5200	5201[eng]	257	5200	5203	2018-10-17	Yes	111001005
+11024.00	H	23000 3/4	U.K.	TV	BBC News HD	Wielka Brytania	Informacje	Sky Digital	FTA	8921	5000	5001[eng]	258	5000	5003	2018-10-17	Yes	111001007
+11024.00	H	23000 3/4	U.K.	TV	BBC Scotland HD	Wielka Brytania	Ogólne	Sky Digital	FTA	8924	2307	2309[nar]|2308[eng]	263	2307	2310	2019-02-22	Yes	111001009
+11024.00	H	23000 3/4	U.K.	TV	BBC Four HD	Wielka Brytania	Ogólne	Sky Digital	FTA	8931	5300	5302[nar]|5301[eng]	260	5300	5303	2018-10-17	Yes	111001011
+11024.00	H	23000 3/4	U.K.	TV	CBeebies HD	Wielka Brytania	Dzieci	Sky Digital	FTA	8932	5300	5302[nar]|5301[eng]	261	5300	5303	2018-10-17	Yes	111001013
+11024.00	H	23000 3/4	U.K.	TV	BBC Four HD	Wielka Brytania	Ogólne	Sky Digital	FTA	8951	5300	5302[nar]|5301[eng]	262	5300	5303	2018-10-17	Yes	111001015
+11024.00	H	23000 3/4	U.K.	TV	CBeebies HD			Sky Digital	FTA	8952	5300	5302[nar]|5301[eng]	259	5300	5303	2019-01-29	Yes	111001017
+11038.00	V	22000 5/6	Europe	TV	Investigation Discovery Europe	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	52400	2323	2324[eng]	256	2323	2325	2017-11-08	No	115001001
+11038.00	V	22000 5/6	Europe	TV	Animal Planet +1	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	52405	2309	2310[eng]|2311[eng]	264	2309	2312	2017-11-08	No	115001003
+11038.00	V	22000 5/6	Europe	TV	Discovery Science +1	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	52410	2305	2306[eng]|2307[eng]	263	2305	2308	2017-11-08	No	115001005
+11038.00	V	22000 5/6	Europe	TV	Discovery Channel +1	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	52415	2369	2371[nar]|2370[eng]	260	2369	2372	2019-01-14	No	115001007
+11038.00	V	22000 5/6	Europe	TV	Discovery Home & Health	Wielka Brytania	Zdrowie	Sky Digital	VideoGuard	52420	2375	2377[nar]|2376[eng]	262	2375	2378	2019-01-22	No	115001009
+11038.00	V	22000 5/6	Europe	TV	Investigation Discovery +1	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	52426	2337	2338[eng]	258	2337		2017-11-08	No	115001011
+11038.00	V	22000 5/6	Europe	TV	The Learning Channel	Wielka Brytania	Różne	Sky Digital	VideoGuard	52430	2352	2353[eng]|2354[nar]	269	2352	2355	2019-01-08	No	115001013
+11038.00	V	22000 5/6	Europe	TV	Discovery History +1	Wielka Brytania	Historia	Sky Digital	VideoGuard	52435	2331	2332[eng]|2333[eng]	268	2331	2334	2018-04-14	No	115001015
+11038.00	V	22000 5/6	Europe	TV	Discovery Shed	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	52440	2335	2336[eng]	265	2335		2017-11-08	No	115001017
+11038.00	V	22000 5/6	Europe	TV	TLC +1	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	52446	2313	2314[eng]|2315[nar]	259	2313	2316	2017-11-08	No	115001019
+11038.00	V	22000 5/6	Europe	TV	Discovery Home & Health +1	Wielka Brytania	Zdrowie	Sky Digital	VideoGuard	52450	2319	2320[eng]|2321[eng]	278	2319	2322	2017-11-08	No	115001021
+11038.00	V	22000 5/6	Europe	TV	Discovery Turbo +1 UK	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	52455	2340	2342[nar]|2341[eng]	257	2340	2343	2018-04-30	No	115001023
+11038.00	V	22000 5/6	Europe	TV	Discovery Channel Ireland	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	52460	2360	2362[nar]|2361[eng]	267	2360	2363	2019-01-08	No	115001025
+11038.00	V	22000 5/6	Europe	TV	Investigation Discovery Europe	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	52465	2365	2366[eng]	270	2365	2367	2019-01-08	No	115001027
+11052.75	H	23000 3/4	U.K.	TV	ITV 2 HD	Wielka Brytania	Ogólne	Sky Digital	VideoGuard	20710	2305	2306[nar]|2307[eng]	258	2305	2309	2016-08-17	No	119001001
+11052.75	H	23000 3/4	U.K.	TV	ITV Wales HD	Wielka Brytania	Regionalne	Sky Digital	FTA	20730	2320	2322[nar]|2321[eng]	256	2320	2323	2016-08-17	Yes	119001003
+11052.75	H	23000 3/4	U.K.	TV	ITV HD	Wielka Brytania	Ogólne	Sky Digital	FTA	20740	2330	2332[nar]|2331[eng]	260	2330	2333	2016-08-17	Yes	119001005
+11052.75	H	23000 3/4	U.K.	TV	ITV HD	Wielka Brytania	Ogólne	Sky Digital	FTA	20750	2318	2315[nar]|2317[eng]	257	2318	2316	2016-08-17	Yes	119001007
+11052.75	H	23000 3/4	U.K.	TV	ITV HD	Wielka Brytania	Ogólne	Sky Digital	FTA	20760	2310	2311[nar]|2314[eng]	259	2310	2312	2016-11-26	Yes	119001009
+11052.75	H	23000 3/4	U.K.	TV	ITV HD	Wielka Brytania	Ogólne	Sky Digital	FTA	20770	2325	2327[nar]|2326[eng]	261	2325	2328	2016-11-26	Yes	119001011
+11068.00	V	23000 3/4	U.K.	TV	STV HD	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	20800	2305	2307[nar]|2306[eng]	261	2305	2308	2016-08-07	Yes	123001001
+11068.00	V	23000 3/4	U.K.	TV	UTV HD	Wielka Brytania	Regionalne	Freesat|Sky Digital	FTA	20810	2312	2314[nar]|2313[eng]	259	2312	2315	2016-08-07	Yes	123001003
+11068.00	V	23000 3/4	U.K.	TV	ITV HD	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	20840	2325	2326[nar]|2327[eng]	258	2325	2329	2016-08-18	Yes	123001005
+11068.00	V	23000 3/4	U.K.	TV	ITV HD	Wielka Brytania	Ogólne	Sky Digital	FTA	20850	2310	2317[nar]|2311[eng]	257	2310	2318	2016-11-26	Yes	123001007
+11081.00	H	22000 5/6	Europe	TV	KTV India	Indie	Ogólne	Sky Digital	FTA	50300	2346	2347[eng]	265	2346		2018-02-08	Yes	127001001
+11081.00	H	22000 5/6	Europe	TV	Jewellery Maker	Wielka Brytania	Telezakupy	Sky Digital	FTA	50310	2334	2335[eng]	270	2334		2018-08-12	Yes	127001003
+11081.00	H	22000 5/6	Europe	TV	CNN International Europe	Wielka Brytania	Informacje	Sky Digital	FTA	50316	2309	2312[eng]	261	2309	2313	2019-08-01	Yes	127001005
+11081.00	H	22000 5/6	Europe	TV	GOLD	Wielka Brytania	Komedia	Sky Digital	VideoGuard	50320	2322	2324[nar]|2323[eng]	268	2322	2325	2019-12-10	No	127001007
+11081.00	H	22000 5/6	Europe	TV	Ahlulbayt Satellite Channel	Irak	Religia	Sky Digital	FTA	50325	2338	2339[eng]	266	2338		2017-11-29	Yes	127001009
+11081.00	H	22000 5/6	Europe	TV	Spotlight TV	Wielka Brytania	Telezakupy	Sky Digital	FTA	50331	2330	2331[eng]	262	2330		2019-07-02	Yes	127001011
+11081.00	H	22000 5/6	Europe	TV	Sikh Channel	Wielka Brytania	Religia	Sky Digital	FTA	50335	2307	2308[eng]	264	2307		2016-08-19	Yes	127001013
+11081.00	H	22000 5/6	Europe	TV	Alibi	Wielka Brytania	Seriale	Sky Digital	VideoGuard	50341	2341	2342[eng]|2343[nar]	269	2341	2344	2019-12-11	No	127001015
+11081.00	H	22000 5/6	Europe	TV	Hillsong	Wielka Brytania	Religia	Sky Digital	FTA	50345	2336	2337[eng]	272	2336		2016-06-03	Yes	127001017
+11081.00	H	22000 5/6	Europe	TV	Blaze	Wielka Brytania	Różne	Sky Digital	FTA	50350	2310	2311[eng]	263	2310		2016-09-22	Yes	127001019
+11081.00	H	22000 5/6	Europe	TV	Watch	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	50355	2349	2350[eng]|2351[nar]	273	2349	2352	2019-12-12	No	127001021
+11081.00	H	22000 5/6	Europe	TV	Watch +1	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	50355	2349	2350[eng]|2351[nar]	273	2349	2352	2019-12-12	No	127001023
+11081.00	H	22000 5/6	Europe	TV	Inspiration Network	Wielka Brytania	Religia	Sky Digital	FTA	50390	2315	2316[eng]	271	2315		2016-12-07	Yes	127001025
+11081.00	H	22000 5/6	Europe	TV	Al Jazeera English	Katar	Informacje	Sky Digital	FTA	50395	2317	2318[eng]	258	2317		2016-04-23	Yes	127001027
+11097.00	V	23000 3/4	U.K.	TV	ITV 1 London HD	Wielka Brytania	Ogólne	Sky Digital	FTA	21000	2305	2307[nar]|2306[eng]	258	2305	2308	2015-12-02	Yes	131001003
+11097.00	V	23000 3/4	U.K.	TV	ITV 1 Meridian South HD	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	21020	2315	2316[nar]|2317[eng]	260	2315	2318	2015-12-02	Yes	131001005
+11097.00	V	23000 3/4	U.K.	TV	ITV 1 Central West HD	Wielka Brytania	Ogólne	Freesat|Sky Digital	FTA	21030	2320	2321[nar]|2322[eng]	261	2320	2323	2015-12-02	Yes	131001007
+11097.00	V	23000 3/4	U.K.	TV	ITV HD	Wielka Brytania	Ogólne	Sky Digital	FTA	21040	2310	2313[nar]|2311[eng]	256	2310	2312	2016-04-04	Yes	131001009
+11097.00	V	23000 3/4	U.K.	TV	ITV 3 HD	Wielka Brytania	Ogólne	Sky Digital	VideoGuard	21050	2314	2325[nar]|2326[eng]	262	2314	2328	2016-09-14	No	131001011
+11097.00	V	23000 3/4	U.K.	TV	ITV 4 HD	Wielka Brytania	Ogólne	Sky Digital	VideoGuard	21060	2331	2329[nar]|2332[eng]	263	2331	2333	2016-09-14	No	131001013
+11112.00	H	22000 5/6	Europe	TV	Arise News	Wielka Brytania	Informacje	Sky Digital	FTA	50400	2605	2606[eng]	257	128		2018-08-25	Yes	135001001
+11112.00	H	22000 5/6	Europe	TV	Geo News International	Pakistan	Informacje	Sky Digital	FTA	50405	2341	2340[urd]	258	2306		2017-06-14	Yes	135001003
+11112.00	H	22000 5/6	Europe	TV	Gems.tv	Wielka Brytania	Telezakupy	Sky Digital	FTA	50411	2318	2319[eng]	263	2318		2019-08-21	Yes	135001005
+11112.00	H	22000 5/6	Europe	TV	Islam Channel	Wielka Brytania	Religia	Sky Digital	FTA	50415	2313	2314[eng]	273	2313		2017-09-07	Yes	135001007
+11112.00	H	22000 5/6	Europe	TV	Studio 66 TV 2	Wielka Brytania	Erotyka	Sky Digital	FTA	50440	2309	2310[eng]	271	2309		2017-09-05	Yes	135001009
+11112.00	H	22000 5/6	Europe	TV	Studio 66 TV 3	Wielka Brytania	Erotyka	Sky Digital	FTA	50445	2311	2312[eng]	272	2311		2017-09-07	Yes	135001011
+11112.00	H	22000 5/6	Europe	TV	Faith Channel	Wielka Brytania	Religia	Sky Digital	FTA	50450	2322	2323[eng]	280	2322		2017-11-01	Yes	135001013
+11112.00	H	22000 5/6	Europe	TV	High Street TV 3	Wielka Brytania	Telezakupy	Sky Digital	FTA	50456	2316	2317[eng]	259	2316		2019-08-13	Yes	135001015
+11112.00	H	22000 5/6	Europe	TV	Brit Asia TV	Wielka Brytania	Rozrywka	Sky Digital	FTA	50460	2320	2321[eng]	279	2320		2017-09-07	Yes	135001017
+11112.00	H	22000 5/6	Europe	TV	Ary Family	Wielka Brytania	Rozrywka	Sky Digital	FTA	50470	2330	2331[urd]	267	2330		2018-03-31	Yes	135001019
+11112.00	H	22000 5/6	Europe	TV	Sanskar TV	Indie	Kultura	Sky Digital	FTA	50475	2343	2342	262	2343		2018-03-19	Yes	135001021
+11112.00	H	22000 5/6	Europe	TV	Dunya News	Pakistan	Informacje	Sky Digital	FTA	50490	2305	2315[urd]	268	2305		2018-03-31	Yes	135001023
+11112.00	H	22000 5/6	Europe	TV	MATV National	Wielka Brytania	Ogólne	Sky Digital	FTA	50495	2362	2363[eng]	261	2362		2017-09-13	Yes	135001025
+11112.00	H	22000 5/6	Europe	TV	New Vision TV	Wielka Brytania	Religia	Sky Digital	FTA	50497	2326	2327[eng]	266	2326		2017-12-13	Yes	135001027
+11112.00	H	22000 5/6	Europe	TV	Islam Channel	Wielka Brytania	Religia	Sky Digital	FTA	52021	2325	2324[eng]	270	2325		2019-02-22	Yes	135001029
+11112.00	H	22000 5/6	Europe	TV	Iqra Bangla	Wielka Brytania	Różne	Sky Digital	FTA	52023	2328	2329[ben]	264	2328		2019-02-22	Yes	135001031
+11112.00	H	22000 5/6	Europe	TV	Iqraa TV	Arabia Saudyjska	Religia	Sky Digital	FTA	52202	2332	2333[ara]	269	2332		2019-02-22	Yes	135001033
+11127.00	V	22000 5/6	U.K.	TV	Channel 4 HD	Wielka Brytania	Ogólne	Sky Digital	FTA	21200	2305	2307[nar]|2306[eng]	259	2305	2309	2015-06-18	Yes	139001001
+11127.00	V	22000 5/6	U.K.	TV	4Seven	Wielka Brytania	Rozrywka	Sky Digital	FTA	21250	2316	2319[nar]|2317[eng]	260	2316	2318	2015-06-18	Yes	139001003
+11141.25	H	22000 5/6	Europe	TV	BET U.K.	Wielka Brytania	Rozrywka	Sky Digital	FTA	51081	2301	2302[eng]|2303	259	2301		2015-07-25	Yes	143001001
+11141.25	H	22000 5/6	Europe	TV	Nick Toons	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	51082	2363	2364[eng]|2365[nar]	269	2363	2366	2015-07-25	No	143001003
+11141.25	H	22000 5/6	Europe	TV	Comedy Central +1 UK	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	51083	2328	2329[eng]|2330	265	2328	2331	2015-07-25	No	143001005
+11141.25	H	22000 5/6	Europe	TV	Comedy Central Ireland	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	51084	2332	2333[eng]|2334	258	2332	2335	2015-07-25	No	143001007
+11141.25	H	22000 5/6	Europe	TV	Nickelodeon +1	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	51085	2336	2337[eng]	263	2336	2338	2019-09-04	No	143001009
+11141.25	H	22000 5/6	Europe	TV	Comedy Central Extra	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	51086	2342	2343[eng]|2344	264	2342	2345	2015-07-25	No	143001011
+11141.25	H	22000 5/6	Europe	TV	Comedy Central Extra +1	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	51087	2436	2348|2347[eng]	262	2436	2349	2015-07-25	No	143001013
+11141.25	H	22000 5/6	Europe	TV	Nick Junior	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	51088	2313	2314[eng]|2315[nar]	260	2313	2316	2015-07-25	No	143001015
+11141.25	H	22000 5/6	Europe	TV	Nick Jr Peppa	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	51089	2318	2319[eng]|2320[nar]	261	2318	2321	2020-04-01	No	143001017
+11141.25	H	22000 5/6	Europe	TV	Nick Jr +1	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	51090	2308	2309[eng]|2310	267	2308	2311	2015-07-25	No	143001019
+11141.25	H	22000 5/6	Europe	TV	Nickelodeon Europe	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	51091	2323	2324[eng]|2325	266	2323	2326	2015-07-25	No	143001021
+11141.25	H	22000 5/6	Europe	TV	Nick Jr Peppa Ireland	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	51092	2353	2354[eng]|2355[nar]	268	2353	2356	2020-04-01	No	143001023
+11141.25	H	22000 5/6	Europe	TV	Comedy Central UK	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	51093	2367	2368[eng]|2369[nar]	257	2367	2370	2019-07-02	No	143001025
+11170.75	H	22000 5/6	Europe	TV	A1TV	Liban	Ogólne	Sky Digital	FTA	51117	2309	2315[eng]	264	2309		2018-10-23	Yes	147001001
+11170.75	H	22000 5/6	Europe	TV	Racing UK	Wielka Brytania	Wyścigi	Sky Digital	VideoGuard	51120	2310	2311[eng]	257	2310		2018-12-18	No	147001003
+11170.75	H	22000 5/6	Europe	TV	Cartoon Network	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	51121	2355	2357[nar]|2356[eng]	266	2355	2358	2019-07-18	No	147001005
+11170.75	H	22000 5/6	Europe	TV	Cartoon Network +1	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	51122	2360	2361[eng]|2362[nar]	267	2360	2363	2019-07-18	No	147001007
+11170.75	H	22000 5/6	Europe	TV	TCM - Turner Classic Movies	Wielka Brytania	Filmy	Sky Digital	VideoGuard	51123	2319	2321[nar]|2320[eng]	268	2319	2322	2019-08-04	No	147001009
+11170.75	H	22000 5/6	Europe	TV	TCM +1 UK	Wielka Brytania	Filmy	Sky Digital	VideoGuard	51124	2340	2342[nar]|2341[eng]	270	2340	2343	2019-08-04	No	147001011
+11170.75	H	22000 5/6	Europe	TV	Boomerang	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	51125	2345	2347[nar]|2346[eng]	272	2345	2348	2019-07-18	No	147001013
+11170.75	H	22000 5/6	Europe	TV	Boomerang +1	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	51126	2350	2351[eng]|2352[nar]	273	2350	2353	2019-07-18	No	147001015
+11170.75	H	22000 5/6	Europe	TV	Cartoonito	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	51127	2335	2337[nar]|2336[eng]	271	2335	2338	2019-07-18	No	147001017
+11170.75	H	22000 5/6	Europe	R	Newstalk			Sky Digital	FTA	51114		2331[eng]	277	2305		2016-05-27	Yes	147001019
+11225.00	V	23000 2/3	Europe	TV	NHK World HD	Japonia	Ogólne	Freesat|Sky Digital	FTA	53147	2315	2317[eng]|2316[eng]	274	2315		2015-11-19	Yes	163001001
+11225.00	V	23000 2/3	Europe	TV	RT HD	Rosja	Informacje	Sky Digital	FTA	53148	2348	2349[eng]|2350[eng]	259	2348		2015-11-19	Yes	163001003
+11225.00	V	23000 2/3	Europe	TV	Arirang TV HD	Korea Południowa	Ogólne	Sky Digital	FTA	53150	2309	2311[kor]	260	2309		2016-09-27	Yes	163001005
+11225.00	V	23000 2/3	Europe	TV	CGTN HD	Chiny	Ogólne	Sky Digital	FTA	53151	2305	2306[eng]	256	2305		2019-04-05	Yes	163001007
+11264.00	H	27500 2/3	Europe	TV	Nick Toons	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	7200	2317	2319[nar]|2318[eng]	256	2317	2320	2019-08-08	No	167001001
+11264.00	H	27500 2/3	Europe	TV	Nick Junior	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	7201	2321	2323[nar]|2322[eng]	257	2321	2324	2019-08-08	No	167001003
+11264.00	H	27500 2/3	Europe	TV	Nickelodeon Europe	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	7203	2329	2330[nar]|2328[eng]	262	2329	2331	2019-08-08	No	167001005
+11264.00	H	27500 2/3	Europe	TV	4Music	Wielka Brytania	Muzyka	Sky Digital	VideoGuard	7206	2305	2307[nar]|2306[eng]	271	2305	2308	2019-08-21	No	167001007
+11264.00	H	27500 2/3	Europe	TV	Magic (UK)	Wielka Brytania	Muzyka	Sky Digital	FTA	7207	2309	2310[eng]	272	2309	2311	2019-08-21	Yes	167001009
+11264.00	H	27500 2/3	Europe	TV	The Box	Wielka Brytania	Muzyka	Sky Digital	FTA	7208	2312	2314[eng]	273	2312	2313	2019-08-22	Yes	167001011
+11264.00	H	27500 2/3	Europe	TV	Box Hits	Wielka Brytania	Muzyka	Sky Digital	FTA	7209	2334	2333[eng]	274	2334	2335	2019-08-22	Yes	167001013
+11264.00	H	27500 2/3	Europe	TV	Kiss TV (UK)	Wielka Brytania	Muzyka	Sky Digital	FTA	7211	2315	2316[eng]	276	2315	2332	2019-08-23	Yes	167001015
+11264.00	H	27500 2/3	Europe	TV	Kerrang !	Wielka Brytania	Muzyka	Sky Digital	FTA	7212	2340	2339[eng]	277	2340	2341	2019-08-23	Yes	167001017
+11265.00	V	27500 2/3	Europe	TV	Zee TV	Wielka Brytania	Ogólne	Sky Digital	VideoGuard	52117	2319	2320[eng]|2321[ned]	262	2319	2322	2020-04-10	No	171001001
+11265.00	V	27500 2/3	Europe	TV	PCNE - Phoenix Chinese News & Entertainment	Wielka Brytania	Ogólne	Sky Digital	FTA	52118	2315	2316[eng]|2317[chi]	260	4299		2015-06-23	Yes	171001003
+11265.00	V	27500 2/3	Europe	TV	Islam Channel	Wielka Brytania	Religia	Sky Digital	FTA	52119	2310	2311[eng]	257	2310		2015-06-23	Yes	171001005
+11265.00	V	27500 2/3	Europe	TV	MTA International	Wielka Brytania	Religia	Sky Digital	FTA	52123	2354	2355|2356[urd]|2357[eng]|2358[fra]|2359[ger]|2360[ara]|2361[ben]	259	2354		2016-10-25	Yes	171001007
+11265.00	V	27500 2/3	Europe	TV	TBN UK	Wielka Brytania	Religia	Sky Digital	FTA	52124	2363	2364[eng]	256	2363		2018-12-25	Yes	171001009
+11265.00	V	27500 2/3	Europe	TV	Smithsonian Channel	Stany Zjednoczone	Rozrywka	Sky Digital	FTA	52126	2309	2312[eng]	261	2309		2019-02-12	Yes	171001011
+11265.00	V	27500 2/3	Europe	TV	Revelation TV	Wielka Brytania	Religia	Freesat|Sky Digital	FTA	52127	2313	2314[eng]	273	5199		2015-06-23	Yes	171001013
+11265.00	V	27500 2/3	Europe	TV	EWTN Europe	Stany Zjednoczone	Religia	Sky Digital	FTA	52136	2341	2342[eng]	258	2341		2015-06-23	Yes	171001015
+11265.00	V	27500 2/3	Europe	R	EWTN Catholic			Sky Digital	FTA	52137		2343[eng]	264	2343		2018-10-24	Yes	171001017
+11307.00	H	27500 5/6	U.K.	TV	BT Sport Extra 1	Wielka Brytania	Sport	Sky Digital	VideoGuard	52205	2305	2306[eng]	264	2305		2019-09-11	No	175001001
+11307.00	H	27500 5/6	U.K.	TV	BT Sport Extra 2	Wielka Brytania	Sport	Sky Digital	VideoGuard	52215	2307	2308[eng]	266	2307		2019-09-11	No	175001003
+11307.00	H	27500 5/6	U.K.	TV	BT Sport Extra 3	Wielka Brytania	Sport	Sky Digital	VideoGuard	52226	2309	2310[eng]	265	2309		2019-09-11	No	175001005
+11307.00	H	27500 5/6	U.K.	TV	BT Sport Extra 4	Wielka Brytania	Sport	Sky Digital	VideoGuard	52235	2311	2312[eng]	262	2311		2019-09-13	No	175001007
+11307.00	H	27500 5/6	U.K.	TV	BT Sport Extra 5	Wielka Brytania	Sport	Sky Digital	VideoGuard	52245	2313	2314[eng]	272	2313		2019-09-13	No	175001009
+11307.00	H	27500 5/6	U.K.	TV	BT Sport Extra 6	Wielka Brytania	Sport	Sky Digital	VideoGuard	52261	2315	2316[eng]	273	2315		2019-09-13	No	175001011
+11307.00	H	27500 5/6	U.K.	TV	BT Sport Mosaic 2	Wielka Brytania	Sport	Sky Digital	VideoGuard	52271	2319	2327[hin]|2326[gal]|2325[fin]|2324[epo]|2323[den]|2322[cat]|2321[bre]|2320[ara]	271	2319		2019-09-12	No	175001013
+11307.00	V	27500 5/6	U.K.	TV	Sony Action	Wielka Brytania	Rozrywka	Sky Digital	FTA	53310	2306	2307[eng]	269	2306		2019-09-11	Yes	179001003
+11307.00	V	27500 5/6	U.K.	TV	Sony Movies	Wielka Brytania	Filmy	Sky Digital	FTA	53315	2349	2350[eng]	270	2349		2019-01-08	Yes	179001005
+11307.00	V	27500 5/6	U.K.	TV	Sony Classic	Wielka Brytania	Seriale	Sky Digital	FTA	53320	2313	2314[eng]	284	2313		2020-01-07	Yes	179001007
+11307.00	V	27500 5/6	U.K.	TV	Sony Classic +1	Wielka Brytania	Seriale	Sky Digital	FTA	53325	2317	2318[eng]	283	2317		2020-01-07	Yes	179001009
+11307.00	V	27500 5/6	U.K.	TV	Tiny Pop	Wielka Brytania	Dzieci	Sky Digital	FTA	53330	2321	2322[eng]	282	2321		2019-01-08	Yes	179001011
+11307.00	V	27500 5/6	U.K.	TV	Pop	Wielka Brytania	Dzieci	Sky Digital	FTA	53340	2315	2316[eng]	280	2315		2019-01-08	Yes	179001013
+11307.00	V	27500 5/6	U.K.	TV	Tiny Pop +1	Wielka Brytania	Dzieci	Sky Digital	FTA	53345	2335	2336[eng]	279	2335		2019-01-08	Yes	179001015
+11307.00	V	27500 5/6	U.K.	TV	Pop Max	Wielka Brytania	Rozrywka	Sky Digital	FTA	53350	2337	2338[eng]	278	2337		2019-01-08	Yes	179001017
+11307.00	V	27500 5/6	U.K.	TV	Sony Movies +1	Wielka Brytania	Filmy	Sky Digital	FTA	53355	2352	2353[eng]	271	2352		2019-01-08	Yes	179001019
+11307.00	V	27500 5/6	U.K.	TV	Pop Max +1	Wielka Brytania	Rozrywka	Sky Digital	FTA	53360	2333	2334[eng]	276	2333		2019-01-08	Yes	179001021
+11307.00	V	27500 5/6	U.K.	TV	Sony Action +1	Wielka Brytania	Rozrywka	Sky Digital	FTA	53365	2319	2320[eng]	268	2319		2019-09-11	Yes	179001023
+11307.00	V	27500 5/6	U.K.	TV	Pop +1	Wielka Brytania	Rozrywka	Sky Digital	FTA	53370	2339	2340[eng]	273	2339		2019-01-08	Yes	179001025
+11307.00	V	27500 5/6	U.K.	TV	Sony Channel UK	Wielka Brytania	Rozrywka	Sky Digital	FTA	53375	2341	2342[eng]	265	2341		2019-09-11	Yes	179001027
+11307.00	V	27500 5/6	U.K.	TV	Sony Channel +1 UK	Wielka Brytania	Rozrywka	Sky Digital	FTA	53380	2344	2345[eng]	256	2344		2019-09-11	Yes	179001029
+11307.00	V	27500 5/6	U.K.	TV	Sony Crime	Wielka Brytania	Seriale	Sky Digital	FTA	53385	2308	2311[eng]	263	2308	2312	2019-01-08	Yes	179001031
+11344.00	H	27500 5/6	U.K.	TV	Trace Urban UK	Wielka Brytania	Muzyka	Sky Digital	FTA	53201	2307	2308[eng]	275	2307		2019-11-01	Yes	183001001
+11344.00	H	27500 5/6	U.K.	TV	BoxNation	Wielka Brytania	Sport	Sky Digital	VideoGuard	53205	2326	2327	269	2326		2018-12-26	No	183001003
+11344.00	H	27500 5/6	U.K.	TV	Trace Latina UK	Wielka Brytania	Muzyka	Sky Digital	FTA	53211	2305	2306[eng]	270	2305		2019-11-01	Yes	183001005
+11344.00	H	27500 5/6	U.K.	TV	Trace Vault	Wielka Brytania	Muzyka	Sky Digital	FTA	53217	2336	2335[eng]	268	2336		2019-11-01	Yes	183001007
+11344.00	H	27500 5/6	U.K.	TV	HGTV UK	Wielka Brytania	Dokumenty	Sky Digital	FTA	53221	2346	2349[nar]|2348[eng]	265	2346	2347	2020-01-21	Yes	183001009
+11344.00	H	27500 5/6	U.K.	TV	Really	Wielka Brytania	Rozrywka	Sky Digital	FTA	53225	2309	2324[nar]|2323[eng]	262	2309	2340	2019-10-04	Yes	183001011
+11344.00	H	27500 5/6	U.K.	TV	HGTV +1 UK	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	53231	2351	2354[nar]|2352[eng]	276	2351	2353	2020-01-21	No	183001013
+11344.00	H	27500 5/6	U.K.	TV	Really	Wielka Brytania	Rozrywka	Sky Digital	FTA	53235	2342	2344[nar]|2343[eng]	263	2342	2345	2019-10-04	Yes	183001015
+11344.00	H	27500 5/6	U.K.	TV	PBS America	Wielka Brytania	Rozrywka	Sky Digital	FTA	53270	2337	2338[eng]	267	2337	2339	2019-07-25	Yes	183001017
+11344.00	H	27500 5/6	U.K.	TV	BT Sport 2	Wielka Brytania	Sport	Sky Digital	VideoGuard	53280	2310	2312[nar]|2311[eng]	272	2310	2313	2018-12-26	No	183001019
+11344.00	H	27500 5/6	U.K.	TV	BT Sport 2			Sky Digital	VideoGuard	53281	2310	2312[nar]|2311[eng]	271	2310	2313	2018-12-26	No	183001021
+11344.00	H	27500 5/6	U.K.	TV	BT Sport//ESPN			Sky Digital	VideoGuard	53285	2314	2318[nar]|2317[eng]	274	2314	2319	2018-12-26	No	183001023
+11344.00	H	27500 5/6	U.K.	TV	BT Sport/ESPN	Wielka Brytania	Sport	Sky Digital	VideoGuard	53286	2314	2318[nar]|2317[eng]	273	2314	2319	2018-12-25	No	183001025
+11344.50	V	27500 5/6	U.K.	TV	CBS Drama	Wielka Brytania	Seriale	Sky Digital	FTA	50903	3080	3081[eng]	270	3080		2019-01-24	Yes	187001001
+11344.50	V	27500 5/6	U.K.	TV	CBS Justice Ireland	Wielka Brytania	Dokumenty	Sky Digital	FTA	55201	2318	2319[eng]	256	2318		2019-07-06	Yes	187001003
+11344.50	V	27500 5/6	U.K.	TV	Horror Channel	Wielka Brytania	Filmy	Sky Digital	FTA	55202	2307	2308[eng]	286	2307		2019-01-24	Yes	187001005
+11344.50	V	27500 5/6	U.K.	TV	BT Sport 1	Wielka Brytania	Sport	Sky Digital	VideoGuard	55205	2640	2325[nar]|2641[eng]	282	2640	2328	2019-01-24	No	187001007
+11344.50	V	27500 5/6	U.K.	TV	CBS Justice	Wielka Brytania	Real TV	Sky Digital	FTA	55209	2644	2645[eng]	277	2644		2019-01-24	Yes	187001009
+11344.50	V	27500 5/6	U.K.	TV	BT Sport 3	Wielka Brytania	Sport	Sky Digital	VideoGuard	55211	2646	2329[nar]|2647[eng]	278	2646	2330	2019-01-24	No	187001011
+11344.50	V	27500 5/6	U.K.	TV	Starz TV	Wielka Brytania	Muzyka	Sky Digital	FTA	55213	2353	2354[eng]	259	2353		2020-01-07	Yes	187001013
+11344.50	V	27500 5/6	U.K.	TV	CBS Reality	Wielka Brytania	Dokumenty	Sky Digital	FTA	55214	2650	2327[nar]|2651[eng]	285	2650	2346	2019-01-24	Yes	187001015
+11344.50	V	27500 5/6	U.K.	TV	CBS Reality	Wielka Brytania	Dokumenty	Sky Digital	FTA	55216	2351	2350[eng]	265	2351		2019-01-24	Yes	187001017
+11344.50	V	27500 5/6	U.K.	TV	CBS Reality +1	Wielka Brytania	Dokumenty	Sky Digital	FTA	55217	2312	2313[eng]	275	2312	2347	2019-01-24	Yes	187001019
+11344.50	V	27500 5/6	U.K.	TV	Horror Channel +1	Wielka Brytania	Seriale	Sky Digital	FTA	55218	2314	2315[eng]	276	2314		2019-01-24	Yes	187001021
+11344.50	V	27500 5/6	U.K.	TV	BT Sport Mosaic	Wielka Brytania	Sport	Sky Digital	VideoGuard	55219	2317	2321[bre]|2320[ara]	261	2317		2019-01-24	No	187001023
+11344.50	V	27500 5/6	U.K.	TV	BT Sport 1	Wielka Brytania	Sport	Sky Digital	VideoGuard	55250	2640	2325[nar]|2641[eng]	281	2640	2328	2019-01-24	No	187001025
+11344.50	V	27500 5/6	U.K.	TV	55251			Sky Digital	VideoGuard	55251	2640	2325[nar]|2641[eng]	283	2640	2328	2019-01-24	No	187001027
+11344.50	V	27500 5/6	U.K.	TV	50368			Sky Digital	VideoGuard	55252	2640	2325[nar]|2641[eng]	284	2640	2328	2019-01-24	No	187001029
+11344.50	V	27500 5/6	U.K.	TV	BT Sport 3	Wielka Brytania	Sport	Sky Digital	VideoGuard	55260	2646	2329[nar]|2647[eng]	274	2646	2330	2019-01-24	No	187001031
+11344.50	V	27500 5/6	U.K.	TV	50342			Sky Digital	VideoGuard	55261	2646	2329[nar]|2647[eng]	279	2646	2330	2019-01-24	No	187001033
+11344.50	V	27500 5/6	U.K.	TV	50343			Sky Digital	VideoGuard	55262	2646	2329[nar]|2647[eng]	280	2646	2330	2019-01-24	No	187001035
+11344.50	V	27500 5/6	U.K.	TV	S4C Digidol	Wielka Brytania	Ogólne	Sky Digital	FTA	55295	2360	2363[nar]|2362[wel]|2361[eng]	269	2360	2364	2019-01-24	Yes	187001037
+11385.00	H	29500 8/9	U.K.	TV	BT Sport 2 HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	53785	2305	2307[nar]|2306[eng]	258	2305	2308	2018-12-26	No	191001001
+11385.00	H	29500 8/9	U.K.	TV	BT Sport 2 HD			Sky Digital	VideoGuard	53786	2305	2307[nar]|2306[eng]	257	2305	2308	2018-12-26	No	191001003
+11385.00	H	29500 8/9	U.K.	TV	BT Sport 1 HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	53790	2340	2342[nar]|2341[eng]	261	2340	2343	2018-12-26	No	191001005
+11385.00	H	29500 8/9	U.K.	TV	BT Sport 2 HD			Sky Digital	VideoGuard	53791	2340	2342[nar]|2341[eng]	262	2340	2343	2019-10-01	No	191001007
+11385.00	H	29500 8/9	U.K.	TV	BT Sport 3 HD			Sky Digital	VideoGuard	53792	2340	2342[nar]|2341[eng]	263	2340	2343	2019-10-04	No	191001009
+11385.00	H	29500 8/9	U.K.	TV	BT Sport / ESPN HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	53795	2330	2331[eng]|2332[nar]	268	2330	2333	2018-12-26	No	191001011
+11385.00	H	29500 8/9	U.K.	TV	BTSpt//ESPNHD			Sky Digital	VideoGuard	53796	2330	2331[eng]|2332[nar]	267	2330	2333	2018-12-26	No	191001013
+11385.00	H	29500 8/9	U.K.	TV	BT Sport Box Office HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	53797	2310	2311[eng]	256	2310	2312	2019-10-16	No	191001015
+11385.00	V	29500 8/9	U.K.	TV	BT Sport 1 HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	50660	2332	2334[nar]|2333[eng]	256	2332	2335	2019-08-04	No	195001001
+11385.00	V	29500 8/9	U.K.	TV	BT Sport 1 HD			Sky Digital	VideoGuard	50661	2332	2334[nar]|2333[eng]	257	2332	2335	2019-08-04	No	195001003
+11385.00	V	29500 8/9	U.K.	TV	50662			Sky Digital	VideoGuard	50662	2332	2334[nar]|2333[eng]	260	2332	2335	2019-08-04	No	195001005
+11385.00	V	29500 8/9	U.K.	TV	50663			Sky Digital	VideoGuard	50663	2332	2334[nar]|2333[eng]	261	2332	2335	2019-08-04	No	195001007
+11385.00	V	29500 8/9	U.K.	TV	BT Sport 3 HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	50680	2354	2356[nar]|2355[eng]	262	2354	2357	2019-08-04	No	195001009
+11385.00	V	29500 8/9	U.K.	TV	BT Sport 3 HD			Sky Digital	VideoGuard	50681	2354	2356[nar]|2355[eng]	263	2354	2357	2019-08-04	No	195001011
+11385.00	V	29500 8/9	U.K.	TV	50682			Sky Digital	VideoGuard	50682	2354	2356[nar]|2355[eng]	264	2354	2357	2019-08-04	No	195001013
+11385.00	V	29500 8/9	U.K.	TV	50683			Sky Digital	VideoGuard	50683	2354	2356[nar]|2355[eng]	265	2354	2357	2019-08-04	No	195001015
+11385.00	V	29500 8/9	U.K.	TV	Bt Sports Box Office WWE HD	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	50685	2306	2307[eng]	258	2306	2308	2020-01-21	No	195001017
+11425.00	H	27500 2/3	U.K.	TV	TRP 1 (The Racing Partnership)	Wielka Brytania	Wyścigi		Conax	10600	6001	6002[eng]	6000	6001		2018-12-25	No	199001003
+11426.00	V	29500 8/9	U.K.	TV	S4C HD	Wielka Brytania	Ogólne	Sky Digital	FTA	52565	2340	2343[nar]|2342[wel]|2341[eng]	258	2340	2344	2019-09-01	Yes	203001001
+11426.00	V	29500 8/9	U.K.	TV	France 24 HD (in English)	Francja	Informacje	Sky Digital	FTA	52570	2335	2336[eng]	260	2335		2019-08-21	Yes	203001003
+11426.00	V	29500 8/9	U.K.	TV	FreeSports HD	Wielka Brytania	Sport	Sky Digital	FTA	52575	2313	2314[eng]	259	4350		2019-08-21	Yes	203001005
+11426.00	V	29500 8/9	U.K.	TV	Quest HD	Wielka Brytania	Rozrywka	Sky Digital	FTA	52580	2305	2309[nar]|2306[eng]	257	2305	2310	2019-08-21	Yes	203001007
+11426.00	V	29500 8/9	U.K.	TV	LaLigaTV HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	52585	2307	2308[eng]	256	2307		2020-01-15	No	203001009
+11464.25	H	22000 5/6	Europe	TV	PTC Punjabi	Indie	Rozrywka	Sky Digital	FTA	54211	2312	2313[pun]	260	2312		2020-01-15	Yes	207001001
+11464.25	H	22000 5/6	Europe	TV	Samaa TV	Pakistan	Ogólne	Sky Digital	FTA	54212	2323	2322[eng]	268	2323		2019-02-26	Yes	207001003
+11464.25	H	22000 5/6	Europe	TV	Adult Channel	Wielka Brytania	Erotyka	Sky Digital	VideoGuard	54213	2314	2315[eng]	273	2314		2017-12-13	No	207001005
+11464.25	H	22000 5/6	Europe	TV	XXX College	Wielka Brytania	Erotyka	Sky Digital	VideoGuard	54215	2339	2340[eng]	270	2339		2019-11-10	No	207001007
+11464.25	H	22000 5/6	Europe	TV	XXX Public Pikups	Wielka Brytania	Erotyka	Sky Digital	VideoGuard	54216	2337	2338[eng]	267	2337		2020-02-01	No	207001009
+11464.25	H	22000 5/6	Europe	TV	XXX Girl Girl	Wielka Brytania	Erotyka	Sky Digital	VideoGuard	54218	2325	2326[eng]	274	2325		2019-11-10	No	207001011
+11464.25	H	22000 5/6	Europe	TV	News 18 India	Indie	Informacje	Sky Digital	VideoGuard	54219	2329	2330[eng]	259	2329		2019-09-20	No	207001013
+11464.25	H	22000 5/6	Europe	TV	NTV (National TV)	Bangladesz	Ogólne	Sky Digital	FTA	54221	2358	2359[ben]	256	2358		2015-07-16	Yes	207001015
+11464.25	H	22000 5/6	Europe	TV	XXX Big & Bouncy	Wielka Brytania	Erotyka	Sky Digital	VideoGuard	54222	2327	2328[eng]	263	2327		2019-11-10	No	207001017
+11464.25	H	22000 5/6	Europe	TV	BEN - Bright Entertainment Network	Wielka Brytania	Religia	Sky Digital	FTA	54223	2348	2349[eng]	258	2348		2015-07-16	Yes	207001019
+11464.25	H	22000 5/6	Europe	TV	Euronews English	Francja	Informacje	Freesat|Sky Digital	FTA	54224	2310	2311[eng]	262	2310		2017-05-27	Yes	207001021
+11464.25	H	22000 5/6	Europe	TV	British Muslim	Wielka Brytania	Religia	Sky Digital	FTA	54225	2335	2336[eng]	257	2335		2015-07-16	Yes	207001023
+11464.25	H	22000 5/6	Europe	TV	TV One UK	Wielka Brytania	Ogólne	Sky Digital	FTA	54226	2307	2308[urd]	264	2307		2016-03-04	Yes	207001025
+11464.25	H	22000 5/6	Europe	TV	Cruise First TV	Wielka Brytania	Telezakupy	Sky Digital	FTA	54228	2305	2306[eng]	266	2305		2017-07-31	Yes	207001027
+11464.25	H	22000 5/6	Europe	TV	Aastha TV International	Indie	Ogólne	Sky Digital	FTA	54229	2331	2332[eng]	269	2331		2020-01-15	Yes	207001029
+11464.25	H	22000 5/6	Europe	TV	Primal Living	Wielka Brytania	Telezakupy	Sky Digital	FTA	54230	2320	2324[eng]	272	2320		2019-07-02	Yes	207001031
+11479.00	V	22000 5/6	Europe	TV	Babes & Brazzers	Wielka Brytania	Erotyka	Sky Digital	VideoGuard	50880	2318	2319[eng]	258	2318		2017-12-13	No	211001001
+11479.00	V	22000 5/6	Europe	TV	TRT World	Turcja	Ogólne	Sky Digital	FTA	50881	2323	2324[eng]	256	2323		2017-05-04	Yes	211001003
+11479.00	V	22000 5/6	Europe	TV	CNBC Europe	Wielka Brytania	Biznes	Sky Digital	FTA	50882	2362	2363[eng]	266	2362		2015-07-26	Yes	211001005
+11479.00	V	22000 5/6	Europe	TV	Venus	Indie	Ogólne	Sky Digital	FTA	50884	2321	2322[eng]	276	2321		2015-07-26	Yes	211001007
+11479.00	V	22000 5/6	Europe	TV	Hidayat TV	Wielka Brytania	Ogólne	Sky Digital	FTA	50885	2305	2306[eng]	259	2305		2015-07-26	Yes	211001009
+11479.00	V	22000 5/6	Europe	TV	XXX Mums	Wielka Brytania	Erotyka	Sky Digital	VideoGuard	50886	2308	2309[eng]	257	2308		2019-11-10	No	211001011
+11479.00	V	22000 5/6	Europe	TV	Madani Channel	Pakistan	Religia	Sky Digital	FTA	50887	2342	2343[urd]	269	2342		2015-07-26	Yes	211001013
+11479.00	V	22000 5/6	Europe	TV	Vox Africa	Wielka Brytania	Ogólne	Sky Digital	FTA	50888	2315	2316[eng]	260	2315		2015-07-26	Yes	211001015
+11479.00	V	22000 5/6	Europe	TV	CGTN	Chiny	Informacje	Sky Digital	FTA	50889	2317	2320[eng]	267	2317		2019-04-19	Yes	211001017
+11479.00	V	22000 5/6	Europe	TV	B4U Music	Indie	Muzyka	Sky Digital	VideoGuard	50890	2313	2314[eng]	271	2313		2017-08-03	No	211001019
+11479.00	V	22000 5/6	Europe	TV	Retro Movies	Wielka Brytania	Filmy	Sky Digital	FTA	50891	2327	2328[eng]	262	2327		2019-06-14	Yes	211001021
+11479.00	V	22000 5/6	Europe	TV	London Live	Wielka Brytania	Różne	Sky Digital	VideoGuard	50892	2376	2377[eng]	263	2376		2015-07-26	No	211001023
+11479.00	V	22000 5/6	Europe	TV	Climax 3	Wielka Brytania	Erotyka	Sky Digital	VideoGuard	50894	2311	2312[eng]	261	2311		2018-07-06	No	211001025
+11479.00	V	22000 5/6	Europe	TV	TVC News	Nigeria	Informacje	Sky Digital	FTA	50895	2339	2340[eng]	264	2339		2015-11-23	Yes	211001027
+11479.00	V	22000 5/6	Europe	TV	B4U Movies	Indie	Filmy	Sky Digital	VideoGuard	50896	2307	2310[eng]	272	2307		2016-10-06	No	211001029
+11493.75	H	22000 5/6	U.K.	TV	QVC Extra	Wielka Brytania	Telezakupy	Sky Digital	FTA	22301	2307	2308[eng]	261	2307		2019-01-08	Yes	215001001
+11493.75	H	22000 5/6	U.K.	TV	QVC Style	Wielka Brytania	Telezakupy	Sky Digital	FTA	22302	2305	2306[eng]	263	2305		2017-01-21	Yes	215001003
+11493.75	H	22000 5/6	U.K.	TV	QVC Beauty	Wielka Brytania	Telezakupy	Sky Digital	FTA	22303	2309	2310[eng]	262	2309		2017-01-21	Yes	215001005
+11493.75	H	22000 5/6	U.K.	TV	QVC U.K.	Wielka Brytania	Telezakupy	Sky Digital	FTA	22304	2313	2314[eng]	257	2313		2018-11-08	Yes	215001007
+11508.50	V	23000 2/3	Europe	TV	Smithsonian Channel UK	Wielka Brytania	Ogólne	Sky Digital	FTA	55271	2309	2310[eng]	262	2309		2020-03-13	Yes	219001003
+11508.50	V	23000 2/3	Europe	TV	Racing UK HD	Wielka Brytania	Wyścigi	Sky Digital	VideoGuard	55272	2314	2315[eng]|2316[eng]	259	2314		2018-12-18	No	219001005
+11508.50	V	23000 2/3	Europe	TV	TRT World HD	Turcja	Biznes	Sky Digital	FTA	55273	2320	2322[eng]|2321[eng]	256	2320		2017-05-04	Yes	219001007
+11508.50	V	23000 2/3	Europe	TV	eir Sport 1 HD			Sky Digital	VideoGuard	55275	2305	2306[eng]	257	2305		2018-08-16	No	219001009
+11508.50	V	23000 2/3	Europe	TV	eir Sport 1 HD	Irlandia	Sport	Sky Digital	VideoGuard	55276	2305	2306[eng]	261	2305		2018-08-16	No	219001011
+11538.00	V	22000 5/6	Europe	TV	ATN Bangla	Indie	Ogólne	Sky Digital	FTA	22601	2305	2306[ben]	267	2305		2016-03-31	Yes	227001001
+11538.00	V	22000 5/6	Europe	TV	Channel S	Wielka Brytania	Ogólne	Sky Digital	FTA	22602	2344	2345[eng]	264	2344		2018-01-19	Yes	227001003
+11538.00	V	22000 5/6	Europe	TV	Ahlebait TV	Wielka Brytania	Religia	Sky Digital	FTA	22603	2309	2310[eng]	268	2309		2016-03-31	Yes	227001005
+11538.00	V	22000 5/6	Europe	TV	Xpanded TV 2	Wielka Brytania	Erotyka	Sky Digital	FTA	22604	2311	2312[eng]	272	2311		2017-06-30	Yes	227001007
+11538.00	V	22000 5/6	Europe	TV	Talking Pictures TV	Wielka Brytania	Rozrywka	Sky Digital	FTA	22606	2315	2316[eng]	270	2315	2346	2018-03-15	Yes	227001009
+11538.00	V	22000 5/6	Europe	TV	Faith Channel	Wielka Brytania	Religia	Sky Digital	FTA	22607	2324	2323[eng]	273	2324		2016-04-04	Yes	227001011
+11538.00	V	22000 5/6	Europe	TV	KICC TV	Wielka Brytania	Religia	Sky Digital	FTA	22608	2317	2318[eng]	274	2317		2016-04-04	Yes	227001013
+11538.00	V	22000 5/6	Europe	TV	Xpanded TV	Wielka Brytania	Erotyka	Sky Digital	FTA	22609	2319	2320[eng]	276	2319		2017-06-30	Yes	227001015
+11538.00	V	22000 5/6	Europe	TV	xxXpanded TV	Wielka Brytania	Erotyka	Sky Digital	FTA	22609	2319	2320[eng]	276	2319		2017-06-30	Yes	227001017
+11538.00	V	22000 5/6	Europe	TV	The Word Network	Stany Zjednoczone	Religia	Sky Digital	FTA	22610	2342	2343[eng]	295	2342		2018-01-13	Yes	227001019
+11538.00	V	22000 5/6	Europe	TV	Made in Birmingham	Wielka Brytania	Regionalne	Sky Digital	VideoGuard	22611	2326	2325[eng]	257	2326		2018-08-25	No	227001021
+11538.00	V	22000 5/6	Europe	TV	Made in Liverpool	Wielka Brytania	Regionalne	Sky Digital	VideoGuard	22612	2326	2325[eng]	256	2326		2018-08-25	No	227001023
+11538.00	V	22000 5/6	Europe	TV	Showcase	Wielka Brytania	Lifestyle	Sky Digital	FTA	22614	2307	2308[eng]	261	2307		2020-02-06	Yes	227001025
+11538.00	V	22000 5/6	Europe	TV	92 News	Pakistan	Informacje	Sky Digital	FTA	22615	2321	2322[urd]	260	2321		2017-12-13	Yes	227001027
+11538.00	V	22000 5/6	Europe	TV	iON TV	Wielka Brytania	Rozrywka	Sky Digital	FTA	22616	2333	2334[ben]	262	2333		2018-02-10	Yes	227001029
+11538.00	V	22000 5/6	Europe	TV	22617			Sky Digital	FTA	22617	2348	2349[eng]	258	2348		2020-04-08	Yes	227001031
+11538.00	V	22000 5/6	Europe	TV	Paversshoes TV	Wielka Brytania	Telezakupy	Sky Digital	FTA	22619	2330	2331[eng]	269	2330		2019-10-08	Yes	227001033
+11538.00	V	22000 5/6	Europe	TV	Channel 44 UK	Pakistan	Ogólne	Sky Digital	FTA	22620	2335	2336[urd]	259	2335		2019-11-05	Yes	227001035
+11538.00	V	22000 5/6	Europe	TV	Made In Bristol	Wielka Brytania	Regionalne	Sky Digital	VideoGuard	22622	2326	2325[eng]	275	2326		2018-08-25	No	227001037
+11538.00	V	22000 5/6	Europe	TV	Made In Cardiff	Wielka Brytania	Regionalne	Sky Digital	VideoGuard	22623	2326	2325[eng]	278	2326		2018-08-25	No	227001039
+11538.00	V	22000 5/6	Europe	TV	Made In Leeds	Wielka Brytania	Regionalne	Sky Digital	VideoGuard	22624	2326	2325[eng]	265	2326		2018-08-25	No	227001041
+11538.00	V	22000 5/6	Europe	TV	Made In Tyne & Wear	Wielka Brytania	Regionalne	Sky Digital	VideoGuard	22625	2326	2325[eng]	277	2326		2019-12-03	No	227001043
+11538.00	V	22000 5/6	Europe	R	WRN Europe			Sky Digital	FTA	22651		2339	292	2339		2018-01-13	Yes	227001045
+11538.00	V	22000 5/6	Europe	R	Desi Radio			Sky Digital	FTA	22653		2329	286	2329		2018-01-10	Yes	227001047
+11538.00	V	22000 5/6	Europe	R	GN Radio			Sky Digital	FTA	22659		2338	291	2338		2018-01-10	Yes	227001049
+11552.75	H	22000 5/6	Europe	TV	Sangat TV	Wielka Brytania	Religia	Sky Digital	FTA	9536	2330	2331[pun]	262	2330		2015-08-19	Yes	231001001
+11552.75	H	22000 5/6	Europe	TV	Hochanda	Wielka Brytania	Telezakupy	Freesat|Sky Digital	FTA	9537	2332	2333[eng]	305	2332		2015-09-01	Yes	231001003
+11552.75	H	22000 5/6	Europe	TV	High Street TV 2	Wielka Brytania	Telezakupy	Sky Digital	FTA	55102	2352	2353[eng]	273	2352		2018-02-01	Yes	231001005
+11552.75	H	22000 5/6	Europe	TV	Good News TV	Republika Południowe	Religia	Sky Digital	FTA	55103	2326	2327[eng]	284	2326		2019-05-30	Yes	231001007
+11552.75	H	22000 5/6	Europe	TV	High Street TV 4	Wielka Brytania	Telezakupy	Sky Digital	FTA	55104	2338	2339[eng]	266	2338		2018-02-01	Yes	231001009
+11552.75	H	22000 5/6	Europe	TV	Yanga!	Nigeria	Rozrywka	Sky Digital	FTA	55105	2305	2308[eng]	275	2305		2018-06-21	Yes	231001011
+11552.75	H	22000 5/6	Europe	TV	Noor TV	Wielka Brytania	Religia	Sky Digital	FTA	55109	2355	2356[eng]	264	2355		2015-08-19	Yes	231001013
+11552.75	H	22000 5/6	Europe	TV	Clubland TV	Wielka Brytania	Muzyka	Sky Digital	FTA	55113	2557	2558[eng]	256	2557		2015-08-19	Yes	231001015
+11552.75	H	22000 5/6	Europe	TV	Now 90&acute;s	Wielka Brytania	Muzyka	Sky Digital	FTA	55114	2560	2561[eng]	261	2560		2017-12-27	Yes	231001017
+11552.75	H	22000 5/6	Europe	TV	GEO Kahani	Wielka Brytania	Ogólne	Sky Digital	FTA	55115	2563	2564[urd]	257	2563		2017-08-13	Yes	231001019
+11552.75	H	22000 5/6	Europe	TV	NDTV 24x7	Indie	Informacje	Sky Digital	FTA	55116	2360	2361[eng]	269	2360		2015-08-19	Yes	231001021
+11552.75	H	22000 5/6	Europe	TV	My Channel UK	Wielka Brytania	Ogólne	Sky Digital	FTA	55118	2306	2307[eng]	274	2306		2017-08-25	Yes	231001023
+11552.75	H	22000 5/6	Europe	TV	Celebration TV	Republika Południowe	Religia	Sky Digital	FTA	55145	2340	2341[eng]	285	2340		2020-01-15	Yes	231001025
+11552.75	H	22000 5/6	Europe	TV	PTV Global	Pakistan	Ogólne	Sky Digital	FTA	55151	2335	2337[urd]	259	2335		2020-04-07	Yes	231001027
+11552.75	H	22000 5/6	Europe	TV	Live 360	Wielka Brytania	Informacje	Sky Digital	FTA	55180	2328	2329[eng]	272	2328		2019-11-28	Yes	231001029
+11552.75	H	22000 5/6	Europe	R	Capital XTRA			Freesat|Sky Digital	FTA	9549		2320[eng]	313	2320		2015-08-19	Yes	231001031
+11552.75	H	22000 5/6	Europe	R	Radio X			Freesat|Sky Digital	FTA	9559		2316[eng]	318	2316		2015-09-14	Yes	231001033
+11552.75	H	22000 5/6	Europe	R	Capital			Freesat|Sky Digital	FTA	9560		2318[eng]	319	2318		2016-09-26	Yes	231001035
+11552.75	H	22000 5/6	Europe	R	Gold			Freesat|Sky Digital	FTA	9561		2310	258	2310		2015-08-19	Yes	231001037
+11552.75	H	22000 5/6	Europe	R	Khushkhabri			Sky Digital	FTA	9563		2336	320	2336		2015-08-19	Yes	231001039
+11552.75	H	22000 5/6	Europe	R	Classic FM			Freesat|Sky Digital	FTA	9570		2344[eng]	263	2344		2015-08-19	Yes	231001041
+11552.75	H	22000 5/6	Europe	R	Planet Rock			Freesat|Sky Digital	FTA	9575		2345[eng]	268	2345		2015-08-19	Yes	231001043
+11552.75	H	22000 5/6	Europe	R	UCB Ireland			Sky Digital	FTA	55128		2309	294	2309		2015-08-19	Yes	231001045
+11552.75	H	22000 5/6	Europe	R	LBC News			Sky Digital	FTA	55131		2334	282	2334		2020-01-09	Yes	231001047
+11552.75	H	22000 5/6	Europe	R	Smooth			Sky Digital	FTA	55132		2312	270	2312		2015-08-19	Yes	231001049
+11552.75	H	22000 5/6	Europe	R	Heart Dance			Sky Digital	FTA	55133		2311[eng]	271	2311		2019-10-07	Yes	231001051
+11552.75	H	22000 5/6	Europe	R	Hits Radio			Sky Digital	FTA	55134		2313[eng]	276	2313		2018-08-23	Yes	231001053
+11552.75	H	22000 5/6	Europe	R	Virgin Radio	Włochy	Muzyka	Sky Digital	FTA	55135		2321[eng]	278	2321		2019-01-08	Yes	231001055
+11552.75	H	22000 5/6	Europe	R	TWR			Sky Digital	FTA	55136		2322	280	2322		2019-03-01	Yes	231001057
+11552.75	H	22000 5/6	Europe	R	Jazz FM			Sky Digital	FTA	55137		2324[eng]	283	2324		2019-05-01	Yes	231001059
+11552.75	H	22000 5/6	Europe	R	Scala Radio			Sky Digital	FTA	55138		2323[eng]	279	2323		2019-05-01	Yes	231001061
+11552.75	H	22000 5/6	Europe	R	Heart 90s			Sky Digital	FTA	55139		2325[eng]	265	2325		2019-11-13	Yes	231001063
+11567.50	V	22000 5/6	Europe	TV	Sony Entertainment UK	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	54101	2333	2334[eng]	264	2333	2335	2017-04-01	No	235001001
+11567.50	V	22000 5/6	Europe	TV	Dunamis TV	Republika Południowe	Religia	Sky Digital	FTA	54102	2307	2313[eng]	263	2307		2019-06-04	Yes	235001003
+11567.50	V	22000 5/6	Europe	TV	High Street TV 5	Wielka Brytania	Różne	Sky Digital	FTA	54103	2318	2319[eng]	274	2318		2019-05-10	Yes	235001005
+11567.50	V	22000 5/6	Europe	TV	SAB TV	Indie	Ogólne	Sky Digital	VideoGuard	54107	2316	2317[hin]	259	2316	2310	2017-08-03	No	235001007
+11567.50	V	22000 5/6	Europe	TV	Best Direct	Wielka Brytania	Telezakupy	Sky Digital	FTA	54112	2321	2322[eng]	256	2321		2015-08-18	Yes	235001009
+11567.50	V	22000 5/6	Europe	TV	GOD Europe	Wielka Brytania	Religia	Sky Digital	FTA	54113	2308	2309[eng]	266	2308		2018-06-02	Yes	235001011
+11567.50	V	22000 5/6	Europe	TV	Russia Today	Rosja	Informacje	Sky Digital	FTA	54115	2356	2357[eng]	262	2356		2015-08-18	Yes	235001013
+11567.50	V	22000 5/6	Europe	TV	Sony Max 2	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	54120	2359	2360[eng]	260	2359		2019-04-05	No	235001015
+11567.50	V	22000 5/6	Europe	TV	Travelxp	Wielka Brytania	Podróże	Sky Digital	FTA	54125	2326	2327[eng]	268	2326		2019-08-02	Yes	235001017
+11567.50	V	22000 5/6	Europe	TV	Republic Bharat	Indie	Informacje	Sky Digital	FTA	54146	2320	2323[hin]	271	2320		2019-08-15	Yes	235001019
+11567.50	V	22000 5/6	Europe	TV	JML Solutions	Wielka Brytania	Telezakupy	Freesat|Sky Digital	FTA	54150	2337	2338[eng]	270	2337		2015-08-18	Yes	235001021
+11567.50	V	22000 5/6	Europe	TV	Aaj Tak	Indie	Informacje	Sky Digital	FTA	54165	2314	2315[hin]	257	2314		2015-08-18	Yes	235001023
+11567.50	V	22000 5/6	Europe	TV	ABP News	Indie	Informacje	Sky Digital	FTA	54167	2353	2354[eng]	258	2353		2015-08-18	Yes	235001025
+11567.50	V	22000 5/6	Europe	TV	ROK TV	Wielka Brytania	Rozrywka	Sky Digital	FTA	54171	2324	2325[eng]	272	2324		2018-09-27	Yes	235001027
+11567.50	V	22000 5/6	Europe	TV	High Street TV	Wielka Brytania	Telezakupy	Sky Digital	FTA	54175	2344	2345[eng]	261	2344		2018-02-01	Yes	235001029
+11567.50	V	22000 5/6	Europe	TV	TV Warehouse	Wielka Brytania	Telezakupy	Sky Digital	FTA	54180	2330	2331[eng]	265	2330		2015-08-18	Yes	235001031
+11567.50	V	22000 5/6	Europe	TV	Geo TV	Pakistan	Informacje	Sky Digital	FTA	54185	2311	2312[urd]	267	2311		2015-08-18	Yes	235001033
+11582.25	H	22000 5/6	Europe	TV	Sony Max UK	Indie	Ogólne	Sky Digital	VideoGuard	52100	2331	2332[eng]	272	2331	2333	2019-12-30	No	239001003
+11582.25	H	22000 5/6	Europe	TV	Rishtey TV	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	52103	2338	2339[hin]	261	2338	2340	2019-03-22	No	239001005
+11582.25	H	22000 5/6	Europe	TV	Foodxp	Wielka Brytania	Gotowanie	Sky Digital	FTA	52104	2319	2318[eng]	257	2319		2019-08-02	Yes	239001007
+11582.25	H	22000 5/6	Europe	TV	Colors	Indie	Rozrywka	Sky Digital	VideoGuard	52105	2325	2326[eng]	263	2325	2327	2018-03-12	No	239001009
+11582.25	H	22000 5/6	Europe	TV	Kanshi TV	Wielka Brytania	Rozrywka	Sky Digital	FTA	52106	2312	2313[eng]	259	2312		2017-11-30	Yes	239001011
+11582.25	H	22000 5/6	Europe	TV	Now 70's	Wielka Brytania	Muzyka	Sky Digital	FTA	52107	707	607[eng]	268	707		2019-12-27	Yes	239001013
+11582.25	H	22000 5/6	Europe	TV	Star Plus	Indie	Ogólne	Sky Digital	VideoGuard	52108	2305	2306[eng]	265	2305	2307	2017-11-30	No	239001015
+11582.25	H	22000 5/6	Europe	TV	Babestation	Wielka Brytania	Erotyka	Sky Digital	FTA	52112	2368	2369[eng]	260	2368		2018-06-06	Yes	239001017
+11582.25	H	22000 5/6	Europe	TV	Star Gold	Indie	Filmy	Sky Digital	VideoGuard	52113	2329	2330[eng]	256	2329		2017-11-30	No	239001019
+11582.25	H	22000 5/6	Europe	TV	Eman Channel	Wielka Brytania	Religia	Sky Digital	FTA	52140	2365	2366[eng]	266	2365		2017-11-30	Yes	239001021
+11582.25	H	22000 5/6	Europe	TV	Rishtey Cineplex	Indie	Rozrywka	Sky Digital	VideoGuard	52180	2321	2322[hin]	269	2321	2323	2019-03-22	No	239001023
+11582.25	H	22000 5/6	Europe	TV	Star Bharat	Indie	Rozrywka	Sky Digital	VideoGuard	52185	2352	2353[eng]	258	2352		2017-11-30	No	239001025
+11582.25	H	22000 5/6	Europe	TV	Al Jazeera English HD	Katar	Informacje	Sky Digital	FTA	52189	2315	2317[nar]|2316[eng]	264	2315		2020-02-29	Yes	239001027
+11582.25	H	22000 5/6	Europe	R	Panjab Radio			Sky Digital	FTA	52132		2308[pun]	270	2308		2017-11-30	Yes	239001029
+11582.25	H	22000 5/6	Europe	R	Sukh Sagar			Sky Digital	FTA	52133		2310[eng]	275	2310		2017-11-30	Yes	239001031
+11582.25	H	22000 5/6	Europe	R	BFBS Radio			Sky Digital	FTA	52190		2335[eng]	288	2335		2018-04-26	Yes	239001033
+11582.25	H	22000 5/6	Europe	R	LBC			Sky Digital	FTA	52191		2343[eng]	289	2343		2018-04-26	Yes	239001035
+11582.25	H	22000 5/6	Europe	R	Heart			Sky Digital	FTA	52192		2337[eng]	287	2337		2018-04-26	Yes	239001037
+11582.25	H	22000 5/6	Europe	R	Heart 80s			Sky Digital	FTA	52193		2336[eng]	290	2336		2018-04-26	Yes	239001039
+11582.25	H	22000 5/6	Europe	R	Kiss			Sky Digital	FTA	52194		2309[eng]	278	2309		2017-11-30	Yes	239001041
+11582.25	H	22000 5/6	Europe	R	Magic			Sky Digital	FTA	52195		2311[eng]	279	2311		2017-11-30	Yes	239001043
+11582.25	H	22000 5/6	Europe	R	Absolute			Sky Digital	FTA	52196		2334[eng]	271	2334		2018-06-05	Yes	239001045
+11582.25	H	22000 5/6	Europe	R	Absolute 80s			Sky Digital	FTA	52197		2328[eng]	284	2328		2018-04-26	Yes	239001047
+11582.25	H	22000 5/6	Europe	R	Absolute 90s			Sky Digital	FTA	52198		2320[eng]	285	2320		2018-04-26	Yes	239001049
+11582.25	H	22000 5/6	Europe	R	Classic Rock			Sky Digital	FTA	52200		2324[eng]	286	2324		2018-04-26	Yes	239001051
+11597.00	V	22000 5/6	Europe	TV	Studio 66 TV 1	Wielka Brytania	Erotyka	Sky Digital	FTA	53505	2329	2330[eng]	269	2329		2019-06-28	Yes	243001001
+11597.00	V	22000 5/6	Europe	TV	Channels 24	Nigeria	Informacje	Sky Digital	FTA	53510	2307	2308[eng]	265	2307		2017-11-03	Yes	243001003
+11597.00	V	22000 5/6	Europe	TV	Meet the Babes	Wielka Brytania	Erotyka	Sky Digital	FTA	53516	2324	2327[eng]	260	2324		2019-06-03	Yes	243001005
+11597.00	V	22000 5/6	Europe	TV	Jewellery Channel	Wielka Brytania	Telezakupy	Sky Digital	FTA	53520	2320	2321[eng]	262	2320		2016-10-26	Yes	243001007
+11597.00	V	22000 5/6	Europe	TV	Channel 7 UK	Wielka Brytania	Religia	Sky Digital	FTA	53525	2305	2306[eng]	256	2305		2020-02-04	Yes	243001009
+11597.00	V	22000 5/6	Europe	TV	Thane Direct	Wielka Brytania	Telezakupy	Sky Digital	FTA	53530	2360	2361[eng]	271	2360		2016-10-26	Yes	243001011
+11597.00	V	22000 5/6	Europe	TV	Craft Extra	Wielka Brytania	Telezakupy	Sky Digital	FTA	53540	2322	2323[eng]	259	2322		2018-09-19	Yes	243001013
+11597.00	V	22000 5/6	Europe	TV	HUM Masala	Wielka Brytania	Rozrywka	Sky Digital	FTA	53546	2331	2332	258	2331		2019-10-31	Yes	243001015
+11597.00	V	22000 5/6	Europe	TV	Now 80&acute;s	Wielka Brytania	Muzyka	Sky Digital	FTA	53550	2338	2339[eng]	275	2338		2019-12-27	Yes	243001017
+11597.00	V	22000 5/6	Europe	TV	Ideal Extra	Wielka Brytania	Telezakupy	Sky Digital	FTA	53555	2325	2326[eng]	273	2325		2018-01-02	Yes	243001019
+11597.00	V	22000 5/6	Europe	TV	Takbeer TV	Wielka Brytania	Różne	Sky Digital	FTA	53558	2334	2335[eng]	277	2334		2017-12-05	Yes	243001021
+11597.00	V	22000 5/6	Europe	TV	SonLife Broadcasting Network	Wielka Brytania	Religia	Sky Digital	FTA	53560	2310	2312[esp]|2311[eng]	257	2310	2317	2018-04-30	Yes	243001023
+11597.00	V	22000 5/6	Europe	TV	HUM News	Pakistan	Informacje	Sky Digital	FTA	53566	2341	2340[urd]	261	2341		2019-10-31	Yes	243001025
+11597.00	V	22000 5/6	Europe	TV	Sky Sports Racing	Wielka Brytania	Wyścigi	Sky Digital	VideoGuard	53570	2318	2319[eng]	278	2318	2328	2019-06-27	No	243001027
+11597.00	V	22000 5/6	Europe	TV	SkySp Racing			Sky Digital	VideoGuard	53571	2318	2319[eng]	272	2318	2328	2019-10-25	No	243001029
+11597.00	V	22000 5/6	Europe	TV	Get Lucky	Wielka Brytania	Gry	Sky Digital	FTA	53575	2314	2313[eng]	268	2314		2020-02-05	Yes	243001031
+11597.00	V	22000 5/6	Europe	TV	Psychic Today	Wielka Brytania	Talk show	Sky Digital	FTA	53576	2314	2313[eng]	267	2314		2019-08-21	Yes	243001033
+11597.00	V	22000 5/6	Europe	TV	Hum Europe	Pakistan	Ogólne	Sky Digital	FTA	53580	2343	2344[urd]	264	2343		2020-03-09	Yes	243001035
+11626.50	V	22000 5/6	Europe	TV	MTV One U.K.	Wielka Brytania	Muzyka	Sky Digital	VideoGuard	6720	2309	2308[nar]|2307[eng]	269	2309	2310	2019-09-24	No	251001001
+11626.50	V	22000 5/6	Europe	TV	MTV Rocks	Wielka Brytania	Muzyka	Sky Digital	VideoGuard	6722	2320	2319[eng]	271	2320	2323	2020-01-06	No	251001003
+11626.50	V	22000 5/6	Europe	TV	MTV One +1	Wielka Brytania	Muzyka	Sky Digital	VideoGuard	6723	2324	2326[nar]|2325[eng]	274	2324	2327	2019-09-25	No	251001005
+11626.50	V	22000 5/6	Europe	TV	MTV Hits	Wielka Brytania	Muzyka	Sky Digital	VideoGuard	6724	2331	2330[eng]	273	2331	2332	2019-09-24	No	251001007
+11626.50	V	22000 5/6	Europe	TV	MTV Base	Wielka Brytania	Muzyka	Sky Digital	VideoGuard	6725	2336	2335[eng]	272	2336	2337	2019-09-24	No	251001009
+11626.50	V	22000 5/6	Europe	TV	MTV Classic	Wielka Brytania	Muzyka	Sky Digital	VideoGuard	6726	2341	2340[eng]	275	2341	2342	2020-04-01	No	251001011
+11626.50	V	22000 5/6	Europe	TV	MTV OMG	Wielka Brytania	Muzyka	Sky Digital	VideoGuard	6727	2345	2346[eng]	276	2345	2347	2019-09-26	No	251001013
+11626.50	V	22000 5/6	Europe	TV	MTV One Ireland	Irlandia	Muzyka	Sky Digital	VideoGuard	6728	2351	2350[eng]	277	2351	2352	2019-09-28	No	251001015
+11626.50	V	22000 5/6	Europe	TV	MTV Music UK	Wielka Brytania	Muzyka	Sky Digital	VideoGuard	6729	2354	2353[eng]	278	2354	2355	2019-09-27	No	251001017
+11626.50	V	22000 5/6	Europe	TV	MTV Music +1	Wielka Brytania	Muzyka	Sky Digital	VideoGuard	6730	2358	2359[eng]	279	2358	2362	2019-09-27	No	251001019
+11626.50	V	22000 5/6	Europe	TV	Club MTV	Wielka Brytania	Muzyka	Sky Digital	VideoGuard	6731	2364	2363[eng]	280	2364	2365	2019-09-27	No	251001021
+11626.50	V	22000 5/6	Europe	TV	Comedy Central Extra	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	6732	2370	2368[eng]|2371[nar]	281	2370	2369	2019-09-27	No	251001023
+11641.25	H	23000 2/3	Europe	TV	Virgin Sport HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	7102	2307	2309[eng]	263	2307		2019-09-12	No	255001001
+11641.25	H	23000 2/3	Europe	TV	Virgin Sport HD			Sky Digital	VideoGuard	7103	2307	2309[eng]	261	2307		2019-09-12	No	255001003
+11656.00	V	22000 5/6	Europe	TV	TVX Bangers	Wielka Brytania	Erotyka	Sky Digital	VideoGuard	54054	2319	2320[eng]	268	2319		2019-12-09	No	259001003
+11656.00	V	22000 5/6	Europe	TV	TVX 40+	Wielka Brytania	Erotyka	Sky Digital	VideoGuard	54055	2313	2314[eng]	267	2313		2019-12-09	No	259001005
+11656.00	V	22000 5/6	Europe	TV	Cruise Channel	Wielka Brytania	Telezakupy	Sky Digital	FTA	54056	2317	2318[eng]	270	2317		2020-04-01	Yes	259001007
+11656.00	V	22000 5/6	Europe	TV	Television X - The Fantasy Channel	Wielka Brytania	Erotyka	Sky Digital	VideoGuard	54058	2331	2332[eng]	265	2331		2019-10-16	No	259001009
+11656.00	V	22000 5/6	Europe	TV	Out TV	Wielka Brytania	Różne	Sky Digital	VideoGuard	54059	2311	2312[eng]	257	2311		2020-04-01	No	259001011
+11656.00	V	22000 5/6	Europe	TV	Akaal Channel	Wielka Brytania	Ogólne	Sky Digital	FTA	54060	2305	2306[eng]	258	2305		2019-06-23	Yes	259001013
+11656.00	V	22000 5/6	Europe	TV	Zee TV	Wielka Brytania	Ogólne	Sky Digital	VideoGuard	54061	2327	2328[eng]|2329	262	2327	2330	2017-04-03	No	259001015
+11656.00	V	22000 5/6	Europe	TV	Abu Dhabi TV Europe	Abu Zabi	Ogólne	Sky Digital	FTA	54062	2325	2326[ara]	263	2325		2019-08-28	Yes	259001017
+11671.75	H	23000 2/3	Europe	TV	Ideal World HD	Wielka Brytania	Telezakupy	Sky Digital	FTA	50240	2305	2306[eng]	257	2305		2019-09-24	Yes	263001001
+11671.75	H	23000 2/3	Europe	TV	Create & Craft HD	Wielka Brytania	Telezakupy	Sky Digital	FTA	50245	2307	2308[eng]	258	2307		2019-09-24	Yes	263001003
+11671.75	H	23000 2/3	Europe	TV	Iran International HD	nieokreślony	Ogólne	Sky Digital	FTA	50250	2309	2310[far]	263	2309		2020-01-08	Yes	263001005
+11671.75	H	23000 2/3	Europe	TV	LoveWorldSat HD	Republika Południowe	Religia	Sky Digital	FTA	50255	2311	2312[eng]	262	2311		2020-01-08	Yes	263001007
+11671.75	H	23000 2/3	Europe	TV	CNN International HD	Stany Zjednoczone	Informacje	Sky Digital	FTA	50290	2324	2326[eng]|2325[eng]	256	2324		2019-08-08	Yes	263001009
+11685.50	V	23000 2/3	Europe	TV	Colors HD	Indie	Rozrywka	Sky Digital	VideoGuard	55300	2305	2306[eng]	256	2305	2308	2017-10-29	No	267001001
+11685.50	V	23000 2/3	Europe	TV	Daystar HD	Stany Zjednoczone	Religia	Sky Digital	FTA	55305	2309	2310[eng]	257	2309		2017-10-29	Yes	267001003
+11685.50	V	23000 2/3	Europe	TV	TV Record HD	Brazylia	Ogólne	Sky Digital	FTA	55310	2311	2307[por]	257	2311		2018-11-02	Yes	267001005
+11685.50	V	23000 2/3	Europe	TV	Bloomberg UK HD	Wielka Brytania	Biznes	Sky Digital	FTA	55392	2335	2336|2337[eng]	259	2335		2017-10-29	Yes	267001007
+11719.50	H	27500 2/3	Europe	IMG	9701			Sky Digital	FTA	9701	512		256	512		2020-04-03	Yes	271001001
+11758.00	H	27500 2/3	Europe	TV	Star Gold HD	Indie	Rozrywka	Sky Digital	VideoGuard	4032	514	662[hin]	262	514		2020-01-14	No	287001003
+11758.00	H	27500 2/3	Europe	TV	5136			Sky Digital	VideoGuard	5136	515	642[nar]|641[eng]	259	515	576	2020-02-29	No	287001005
+11758.00	H	27500 2/3	Europe	TV	Ultra HD			Sky Digital	VideoGuard	9000	512	680[eng]|660[eng]	256	512	2306	2020-02-29	No	287001007
+11758.00	H	27500 2/3	Europe	TV	U1	Wielka Brytania	Prezentacje	Sky Digital	VideoGuard	9006	512	640|660[eng]	257	2304	2306	2020-01-14	No	287001009
+11758.00	H	27500 2/3	Europe	TV	9501			Sky Digital	VideoGuard	9501	512	680[eng]|660[eng]	265	512		2020-04-04	No	287001011
+11778.00	V	27500 2/3	Europe	R	TMS			Sky Digital	FTA	1052		2558[eng]	257	8191		2015-06-25	Yes	291001001
+11778.00	V	27500 2/3	Europe	R	ETBG			Sky Digital	FTA	1053		98[eng]	258	8191		2015-06-25	Yes	291001003
+11778.00	V	27500 2/3	Europe	R	IEPG data 1			Sky Digital	FTA	4189		648	86	8190		2015-06-25	Yes	291001005
+11778.00	V	27500 2/3	Europe	R	PSL			Sky Digital	FTA	7501		1001[eng]	267	8191		2015-06-25	Yes	291001007
+11778.00	V	27500 2/3	Europe	R	BEM			Sky Digital	FTA	9001		2562[eng]|2561[eng]	259	8191		2015-06-25	Yes	291001009
+11778.00	V	27500 2/3	Europe	DATA	BDL			Sky Digital	FTA	1050			261	8191		2015-09-08	Yes	291001011
+11778.00	V	27500 2/3	Europe	DATA	1051			Sky Digital	FTA	1051			273	8191		2015-09-08	Yes	291001013
+11778.00	V	27500 2/3	Europe	DATA	DCS1			Sky Digital	FTA	4190			86	8191		2015-09-08	Yes	291001015
+11798.00	H	27500 2/3	Europe	TV	Nick Jr. HD UK	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	3270	517	647[nar]|646[eng]	266	517	581	2020-01-21	No	295001001
+11798.00	H	27500 2/3	Europe	TV	Sky Sports Golf HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	3827	513	644[nar]|641[eng]|2307[eng]|2306[eng]	260	513	577	2020-03-13	No	295001003
+11798.00	H	27500 2/3	Europe	TV	Sky Sports Football HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	3843	516	643[nar]|664[eng]|2307[eng]|2306[eng]	267	516	580	2020-01-21	No	295001005
+11798.00	H	27500 2/3	Europe	TV	Sky Sports Main Events HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	3877	514	642[nar]|662[eng]|2307[eng]|2306[eng]	258	514	576	2020-01-21	No	295001007
+11798.00	H	27500 2/3	Europe	TV	Sky Sports News HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	3917	515	663[eng]|2307[eng]|2306[eng]	261	515	578	2020-01-21	No	295001009
+11798.00	H	27500 2/3	Europe	TV	Sky Sports Premier League HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	4041	512	645[nar]|640[eng]|2307[eng]|2306[eng]	271	512	579	2020-01-21	No	295001011
+11798.00	H	27500 2/3	Europe	TV	SkySp PL HD			Sky Digital	VideoGuard	4094	512	645[nar]|640[eng]|2307[eng]|2306[eng]	270	512	579	2020-01-21	No	295001013
+11836.00	H	27500 5/6	Europe	TV	SyFy UK +1	Wielka Brytania	Seriale	Sky Digital	VideoGuard	2400	514	642[eng]	267	8190	580	2019-08-30	No	303001001
+11836.00	H	27500 5/6	Europe	TV	SyFy Channel	Wielka Brytania	Seriale	Sky Digital	VideoGuard	2450	524	652[eng]	266	8190	581	2019-08-30	No	303001003
+11836.00	H	27500 5/6	Europe	TV	E! Entertainment TV	Wielka Brytania	Lifestyle	Sky Digital	VideoGuard	3191	529	659[eng]	263	8190	579	2019-08-30	No	303001005
+11836.00	H	27500 5/6	Europe	TV	5201			Sky Digital	VideoGuard	5201	526	655[nar]|654[eng]	256	8190	582	2020-03-13	No	303001007
+11836.00	H	27500 5/6	Europe	TV	5320			Sky Digital	VideoGuard	5320	530	661[eng]	258	8190		2020-03-21	No	303001009
+11836.00	H	27500 5/6	Europe	TV	History	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	5549	512	640[eng]	282	8190		2018-07-16	No	303001011
+11836.00	H	27500 5/6	Europe	TV	History +1	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	5550	513	641[eng]	283	8190		2018-07-16	No	303001013
+11836.00	H	27500 5/6	Europe	TV	H2	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	5551	515	643[eng]	284	8190		2019-02-08	No	303001015
+11836.00	H	27500 5/6	Europe	TV	National Geographic UK	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	5552	516	645[nar]|644[eng]	276	8190	576	2018-07-20	No	303001017
+11836.00	H	27500 5/6	Europe	TV	National Geographic Channel +1	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	5553	517	647[nar]|646[eng]	285	8190	577	2018-07-21	No	303001019
+11836.00	H	27500 5/6	Europe	TV	Crime & Investigation Network	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	5554	518	656[eng]	287	8190		2018-07-19	No	303001021
+11836.00	H	27500 5/6	Europe	TV	NatGeo Wild	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	5555	519	657[eng]	286	8190		2018-07-20	No	303001023
+11836.00	H	27500 5/6	Europe	TV	Zee Cinema	Wielka Brytania	Filmy	Sky Digital	VideoGuard	5559	528	658[hin]	289	8190	578	2018-07-19	No	303001025
+11836.00	H	27500 5/6	Europe	TV	Together	Wielka Brytania	Talk show	Sky Digital	FTA	5872	527	660[eng]	257	8190		2020-03-21	Yes	303001027
+11836.00	H	27500 5/6	Europe	TV	Crime & Investigation +1	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	6011	520	648[eng]	280	8190		2018-02-16	No	303001029
+11836.00	H	27500 5/6	Europe	TV	Sky Crime +1	Wielka Brytania	Seriale	Sky Digital	VideoGuard	6025	523	671[nar]|651[eng]	274	8190	587	2019-10-01	No	303001031
+11836.00	H	27500 5/6	Europe	TV	Challenge +1	Wielka Brytania	Gry	Sky Digital	FTA	6026	525	673[nar]|653[eng]	278	8190	589	2020-02-18	Yes	303001033
+11836.00	H	27500 5/6	Europe	TV	Challenge	Wielka Brytania	Gry	Sky Digital	FTA	6031	522	670[nar]|650[eng]	262	8190	586	2020-03-29	Yes	303001035
+11836.00	H	27500 5/6	Europe	TV	Forces TV	Wielka Brytania	Różne	Sky Digital	FTA	6033	521	649[eng]	272	8190		2015-06-25	Yes	303001037
+11836.00	H	27500 5/6	Europe	DATA	Elmo			Sky Digital	FTA	8010			281	8191		2016-08-27	Yes	303001039
+11856.00	V	27500 2/3	Europe	TV	Sky One HD	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	3623	517	642[nar]|640[eng]	264	517	578	2020-01-14	No	307001003
+11856.00	V	27500 2/3	Europe	TV	Sky Sports Main Events HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	3630	513	641[nar]|661[eng]|2307[eng]|2308[eng]	261	513	576	2020-01-14	No	307001005
+11856.00	V	27500 2/3	Europe	TV	Eurosport 1 HD	Francja	Sport	Sky Digital	VideoGuard	3804	514	662[eng]	260	514		2020-01-14	No	307001007
+11856.00	V	27500 2/3	Europe	TV	Sky Sports Arena HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	3858	516	644[nar]|664[eng]|2307[eng]|2308[eng]	262	516	577	2020-01-14	No	307001009
+11856.00	V	27500 2/3	Europe	TV	E4 HD	Wielka Brytania	Ogólne	Sky Digital	VideoGuard	3876	515	643[nar]|663[eng]	257	515	579	2020-01-14	No	307001011
+11856.00	V	27500 2/3	Europe	TV	Eurosport 2 HD	Francja	Sport	Sky Digital	VideoGuard	3918	512	600[eng]	258	512		2020-01-14	No	307001013
+11856.00	V	27500 2/3	Europe	TV	SkySp ArenaHD			Sky Digital	VideoGuard	3940	516	644[nar]|664[eng]|2307[eng]|2308[eng]	256	516	577	2020-01-14	No	307001015
+11914.00	H	27500 5/6	Europe	TV	Manchester United TV	Wielka Brytania	Sport	Sky Digital	VideoGuard	4081	533	640[eng]	258	8190		2019-12-22	No	319001001
+11914.00	H	27500 5/6	Europe	TV	RTÉ One	Irlandia	Ogólne	Sky Digital	VideoGuard	5537	2347	2346[iri]|2344[nar]|2343[eng]	282	2304	2345	2018-06-21	No	319001003
+11914.00	H	27500 5/6	Europe	TV	RTÉ Two	Irlandia	Ogólne	Sky Digital	VideoGuard	5538	2348	2351[nar]|2350[iri]|2349[eng]	284	2304	2352	2018-06-21	No	319001005
+11914.00	H	27500 5/6	Europe	TV	TG4	Irlandia	Ogólne	Sky Digital	VideoGuard	5539	2320	2335[eng]	283	2304	2342	2018-06-21	No	319001007
+11914.00	H	27500 5/6	Europe	TV	RTE One +1	Irlandia	Ogólne	Sky Digital	VideoGuard	5540	2358	2362[gle]|2360[nar]|2359[eng]	286	2304	2361	2018-07-02	No	319001009
+11914.00	H	27500 5/6	Europe	TV	Oireachtas TV	Irlandia	Polityka	Sky Digital	VideoGuard	5541	2363	2364[eng]	288	2304	2365	2018-07-02	No	319001011
+11914.00	H	27500 5/6	Europe	TV	RTÉ News Now	Irlandia	Informacje	Sky Digital	VideoGuard	5542	2354	2355[eng]	287	2304	2356	2018-07-02	No	319001013
+11914.00	H	27500 5/6	Europe	TV	RTÉ Jr	Irlandia	Dzieci	Sky Digital	VideoGuard	5543	2366	2369[nar]|2367[eng]	289	2304	2368	2018-07-02	No	319001015
+11914.00	H	27500 5/6	Europe	TV	Baby TV	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	6104	519	651[eng]	263	8190		2017-06-19	No	319001017
+11914.00	H	27500 5/6	Europe	TV	Disney XD UK	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	9101	2321	2323[nar]|2322[eng]	269	2321	2324	2015-04-18	No	319001019
+11914.00	H	27500 5/6	Europe	TV	Disney Channel U.K.	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	9102	2311	2313[nar]|2312[eng]	268	2311	2314	2015-04-18	No	319001021
+11914.00	H	27500 5/6	Europe	TV	Disney Junior UK	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	9103	2316	2317[eng]|2318[nar]	270	2316	2319	2015-04-18	No	319001023
+11914.00	H	27500 5/6	Europe	TV	Disney XD +1 UK	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	9104	2331	2333[nar]|2332[eng]	272	2331	2334	2018-04-30	No	319001025
+11914.00	H	27500 5/6	Europe	TV	Disney Channel +1	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	9105	2326	2327[eng]|2328[nar]	271	2326	2329	2015-04-18	No	319001027
+11914.00	H	27500 5/6	Europe	TV	Disney Junior +1 UK	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	9106	2336	2338[nar]|2337[eng]	273	2336	2339	2015-04-18	No	319001029
+11914.00	H	27500 5/6	Europe	R	RTÉ Radio 1			Sky Digital	FTA	5544		2309	266	2304		2018-06-28	Yes	319001031
+11914.00	H	27500 5/6	Europe	R	RTÉ 2FM			Sky Digital	FTA	5545		2340	275	2304		2018-06-28	Yes	319001033
+11914.00	H	27500 5/6	Europe	R	RTÉ Lyric fm			Sky Digital	FTA	5546		2341	276	2304		2018-06-28	Yes	319001035
+11914.00	H	27500 5/6	Europe	R	RTÉ R na G			Sky Digital	FTA	5547		2353	285	2304		2018-06-28	Yes	319001037
+11934.00	V	27500 5/6	Europe	TV				Sky Digital	VideoGuard	3895	528	660[nar]|659[eng]	277	8190	590	2020-04-04	No	323001001
+11934.00	V	27500 5/6	Europe	TV	Sky Star Wars (UK)	Wielka Brytania	Filmy	Sky Digital	VideoGuard	4302	519	687[nar]|647[eng]	256	8190	583	2020-03-28	No	323001003
+11934.00	V	27500 5/6	Europe	TV	Sky Comedy Cinema	Wielka Brytania	Filmy	Sky Digital	VideoGuard	4303	518	686[nar]|646[eng]	257	8190	580	2020-01-17	No	323001005
+11934.00	V	27500 5/6	Europe	TV	Sky SciFi / Horror	Wielka Brytania	Filmy	Sky Digital	VideoGuard	4304	512	680[nar]|640[eng]	258	8190	576	2020-03-26	No	323001007
+11934.00	V	27500 5/6	Europe	TV	Sky Adventure	Wielka Brytania	Filmy	Sky Digital	VideoGuard	4306	514	682[nar]|642[eng]	260	8190	582	2020-03-28	No	323001009
+11934.00	V	27500 5/6	Europe	TV	Sky Disney	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	4308	513	681[nar]|641[eng]	265	8190	586	2017-01-04	No	323001011
+11934.00	V	27500 5/6	Europe	TV	Harry Potter	Wielka Brytania	Filmy	Sky Digital	VideoGuard	4403	520	688[nar]|648[eng]	261	8190	579	2020-04-04	No	323001013
+11934.00	V	27500 5/6	Europe	TV	Sky Movies Premier	Wielka Brytania	Filmy	Sky Digital	VideoGuard	4404	517	685[nar]|645[eng]	278	8190	584	2015-06-18	No	323001015
+11934.00	V	27500 5/6	Europe	TV	Sky Movies Premier +1	Wielka Brytania	Filmy	Sky Digital	VideoGuard	4405	521	689[nar]|649[eng]	279	8190	585	2015-06-18	No	323001017
+11934.00	V	27500 5/6	Europe	TV	Sky Thriller	Wielka Brytania	Filmy	Sky Digital	VideoGuard	4406	522	690[nar]|650[eng]	280	8190	581	2019-10-07	No	323001019
+11934.00	V	27500 5/6	Europe	TV	Sky			Sky Digital	FTA	4505	523	651[eng]	268	8190		2017-01-14	Yes	323001021
+11934.00	V	27500 5/6	Europe	TV	Sky Intro	Wielka Brytania	Prezentacje	Sky Digital	FTA	4515	523	651[eng]	266	8190		2017-01-13	Yes	323001023
+11934.00	V	27500 5/6	Europe	TV	Sky Intro			Sky Digital	FTA	4525	523	651[eng]	269	8190		2017-01-14	Yes	323001025
+11934.00	V	27500 5/6	Europe	TV	Sky Intro			Sky Digital	FTA	5004	523	651[eng]	264	8190		2017-01-14	Yes	323001027
+11934.00	V	27500 5/6	Europe	TV	Sky Drama	Wielka Brytania	Filmy	Sky Digital	VideoGuard	5502	515	683[nar]|643[eng]	262	8190	577	2020-03-09	No	323001029
+11934.00	V	27500 5/6	Europe	TV	Sky Crime	Wielka Brytania	Filmy	Sky Digital	VideoGuard	5556	526	657[nar]|656[eng]	282	8190	587	2019-10-01	No	323001031
+11934.00	V	27500 5/6	Europe	TV	Sky Musicals	Wielka Brytania	Filmy	Sky Digital	VideoGuard	5650	516	684[nar]|644[eng]	267	8190	578	2020-03-27	No	323001033
+11934.00	V	27500 5/6	Europe	TV	Ginx eSports TV	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	6122	525	654[eng]	273	8190		2017-06-19	No	323001035
+11934.00	V	27500 5/6	Europe	TV	Challenge Ireland	Wielka Brytania	Gry	Sky Digital	FTA	6160	524	655[nar]|653[eng]	274	8190	588	2017-06-19	Yes	323001037
+11934.00	V	27500 5/6	Europe	R	ETFG			Sky Digital	FTA	1054		99[eng]	259	8191		2015-06-18	Yes	323001039
+11934.00	V	27500 5/6	Europe	R	Chl Line-up			Sky Digital	FTA	5007		652[eng]	270	8191		2018-06-21	Yes	323001041
+11973.00	V	31000 9/10	Europe	TV	SES 8k Test	Luksemburg	Prezentacje	Astra	FTA	7249	336	337[aac][eng]	5376	336		2020-03-22	Yes	331001001
+12012.00	V	27500 2/3	Europe	TV	Boomerang HD	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	3625	517	645[nar]|665[eng]	264	517	581	2020-03-26	No	339001001
+12012.00	V	27500 2/3	Europe	TV	Animal Planet HD	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	3626	518	646[nar]|666[eng]	265	518	582	2020-03-26	No	339001003
+12012.00	V	27500 2/3	Europe	TV	Sky Musicals HD	Wielka Brytania	Filmy	Sky Digital	VideoGuard	3815	515	643[nar]|663[eng]	256	515	578	2020-03-27	No	339001005
+12012.00	V	27500 2/3	Europe	TV	Sky Drama HD	Wielka Brytania	Filmy	Sky Digital	VideoGuard	3816	514	642[nar]|662[eng]	257	514	577	2020-03-26	No	339001007
+12012.00	V	27500 2/3	Europe	TV	Sky Scifi/Horror HD	Wielka Brytania	Filmy	Sky Digital	VideoGuard	3817	512	640[nar]|660[eng]	258	512	576	2020-03-26	No	339001009
+12012.00	V	27500 2/3	Europe	TV	Sky Comedy HD	Wielka Brytania	Filmy	Sky Digital	VideoGuard	3819	513	641[nar]|661[eng]	259	513	579	2020-03-26	No	339001011
+12012.00	V	27500 2/3	Europe	TV	Sky Disney HD	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	3900	516	644[nar]|664[eng]	261	516	580	2020-03-26	No	339001013
+12012.00	V	27500 2/3	Europe	TV	TLC HD	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	3970	519	648[nar]|647[eng]	263	519	583	2020-03-26	No	339001015
+12012.00	V	27500 2/3	Europe	TV	W HD	Wielka Brytania	Różne	Sky Digital	VideoGuard	4006	520	650[nar]|649[eng]	266	520	584	2020-03-26	No	339001017
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	1291	512	640[eng]|2573[eng]|2572[eng]	258	8190		2018-08-12	No	351001001
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	1292	513	641[eng]|2573[eng]|2572[eng]	281	8190		2018-08-12	No	351001003
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	1293	514	642[eng]|2573[eng]|2572[eng]	285	8190		2018-08-12	No	351001005
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	1294	515	643[eng]|2573[eng]|2572[eng]	287	8190		2018-08-12	No	351001007
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	1295	516	644[eng]|2573[eng]|2572[eng]	292	8190		2018-08-12	No	351001009
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	1296	517	645[eng]|2573[eng]|2572[eng]	289	8190		2018-08-12	No	351001011
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	1297	518	646[eng]|2573[eng]|2572[eng]	290	8190		2018-08-12	No	351001013
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	1298	519	647[eng]|2573[eng]|2572[eng]	288	8190		2018-08-12	No	351001015
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	1299	520	648[eng]|2573[eng]|2572[eng]	291	8190		2018-08-12	No	351001017
+12070.00	H	27500 5/6	Europe	TV	Viceland	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	4037	521	649[eng]	283	8190		2019-07-15	No	351001019
+12070.00	H	27500 5/6	Europe	TV	Virgin Two	Irlandia	Ogólne	Sky Digital	VideoGuard	4038	522	650[eng]	293	8190	576	2019-07-15	No	351001021
+12070.00	H	27500 5/6	Europe	TV	Virgin One +1	Irlandia	Ogólne	Sky Digital	VideoGuard	4039	523	651[eng]	297	8190	577	2019-07-18	No	351001023
+12070.00	H	27500 5/6	Europe	TV	Movies 24	Wielka Brytania	Filmy	Sky Digital	VideoGuard	5050	524	652[eng]	280	8190		2020-01-04	No	351001025
+12070.00	H	27500 5/6	Europe	TV	Movies 24+	Wielka Brytania	Filmy	Sky Digital	VideoGuard	5051	529	657[eng]	298	8190		2020-01-04	No	351001027
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5411	2322	2323[chi]|2321[bul]|2320[ben]|2319[ara]|2318[chi]|2317[bul]|2316[ben]|2315[ara]|2314[eng]|2569[eng]|2573[eng]|2572[eng]	256	2305		2015-05-27	No	351001029
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5421	2322	2323[chi]|2321[bul]|2320[ben]|2319[ara]|2318[chi]|2317[bul]|2316[ben]|2315[ara]|2314[eng]	259	2305		2015-04-06	No	351001031
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5422	2306	2323[chi]|2321[bul]|2320[ben]|2319[ara]|2318[chi]|2317[bul]|2316[ben]|2315[ara]|2314[eng]	260	2305		2015-04-06	No	351001033
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5423	2307	2323[chi]|2321[bul]|2320[ben]|2319[ara]|2318[chi]|2317[bul]|2316[ben]|2315[ara]|2314[eng]	261	2305		2015-04-06	No	351001035
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5424	2308	2323[chi]|2321[bul]|2320[ben]|2319[ara]|2318[chi]|2317[bul]|2316[ben]|2315[ara]|2314[eng]	262	2305		2015-04-06	No	351001037
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5425	2309	2323[chi]|2321[bul]|2320[ben]|2319[ara]|2318[chi]|2317[bul]|2316[ben]|2315[ara]|2314[eng]	263	2305		2015-04-06	No	351001039
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5426	2310	2323[chi]|2321[bul]|2320[ben]|2319[ara]|2318[chi]|2317[bul]|2316[ben]|2315[ara]|2314[eng]	264	2305		2015-04-06	No	351001041
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5427	2311	2323[chi]|2321[bul]|2320[ben]|2319[ara]|2318[chi]|2317[bul]|2316[ben]|2315[ara]|2314[eng]	265	2305		2015-04-06	No	351001043
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5428	2312	2323[chi]|2321[bul]|2320[ben]|2319[ara]|2318[chi]|2317[bul]|2316[ben]|2315[ara]|2314[eng]	266	2305		2015-04-06	No	351001045
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5429	2313	2321[bul]|2320[ben]|2319[ara]|2318[chi]|2317[bul]|2316[ben]|2315[ara]|2314[eng]|2573[eng]|2572[eng]	267	2305		2017-07-01	No	351001047
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5471	2306	2314[eng]	270	2305		2015-04-06	No	351001049
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5472	2307	2315[ara]	271	2305		2015-04-06	No	351001051
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5473	2308	2316[ben]	272	2305		2015-04-06	No	351001053
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5474	2309	2317[bul]	273	2305		2015-04-06	No	351001055
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5475	2310	2318[chi]	274	2305		2015-04-06	No	351001057
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5476	2311	2319[ara]	275	2305		2015-04-06	No	351001059
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5477	2312	2320[ben]	276	2305		2015-04-06	No	351001061
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5478	2313	2321[bul]	277	2305		2015-04-06	No	351001063
+12070.00	H	27500 5/6	Europe	TV	Sports Active			Sky Digital	VideoGuard	5479	2322	2323[chi]	278	2305		2015-04-06	No	351001065
+12070.00	H	27500 5/6	Europe	TV	Sky Arts 1	Wielka Brytania	Kultura	Sky Digital	VideoGuard	5752	526	656[nar]|659[eng]	299	8190	581	2020-03-09	No	351001067
+12070.00	H	27500 5/6	Europe	TV	Pick TV	Wielka Brytania	Rozrywka	Sky Digital	FTA	5832	527	662[nar]|661[eng]	257	8190	582	2020-03-10	Yes	351001069
+12070.00	H	27500 5/6	Europe	TV	Pick TV +1	Wielka Brytania	Rozrywka	Sky Digital	FTA	5836	528	664[nar]|663[eng]	301	8190	583	2020-03-10	Yes	351001071
+12070.00	H	27500 5/6	Europe	TV	Sky News	Wielka Brytania	Informacje	Sky Digital	FTA	6404	525	655[eng]	300	8190	580	2020-03-09	Yes	351001073
+12070.00	H	27500 5/6	Europe	R	SNR			Sky Digital	FTA	5006		660[eng]	268	660		2020-02-13	Yes	351001075
+12070.00	H	27500 5/6	Europe	DATA	DCS14			Sky Digital	FTA	5490			86	8191		2015-04-06	Yes	351001077
+12070.00	H	27500 5/6	Europe	DATA	Sports Generic Apps			Sky Digital	FTA	8191			286	8191		2017-06-10	Yes	351001079
+12090.00	V	27500 2/3	Europe	TV	Sky Sports News HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	3629	515	643[eng]	264	515	579	2020-03-26	No	355001001
+12090.00	V	27500 2/3	Europe	TV	Sky Sports Action HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	3822	513	641[nar]|661[eng]|2308[eng]|2307[eng]	260	513	577	2020-03-26	No	355001003
+12090.00	V	27500 2/3	Europe	TV	Sky Sports F1 HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	3836	512	640[nar]|660[eng]	257	512	576	2020-03-26	No	355001005
+12090.00	V	27500 2/3	Europe	TV	Sky News HD	Wielka Brytania	Informacje	Sky Digital	VideoGuard	3854	514	662[eng]	263	514	578	2020-03-26	No	355001007
+12090.00	V	27500 2/3	Europe	TV	Sky Sports Cricket HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	3878	516	642[nar]|644[eng]	265	516	580	2020-03-26	No	355001009
+12090.00	V	27500 2/3	Europe	TV	Sky Sports Mix HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	4092	517	645[nar]|646[eng]|2308[eng]|2307[eng]	267	517	581	2020-03-26	No	355001011
+12110.00	H	27500 5/6	Europe	TV	Sky Sports F1	Wielka Brytania	Sport	Sky Digital	VideoGuard	1306	520	668[eng]|648[eng]	271	8190	584	2019-11-20	No	359001001
+12110.00	H	27500 5/6	Europe	TV	SkySp F1			Sky Digital	VideoGuard	1307	520	668[nar]|648[eng]	272	8190	584	2019-11-20	No	359001003
+12110.00	H	27500 5/6	Europe	TV	Sky Sports Premier League	Wielka Brytania	Sport	Sky Digital	VideoGuard	1326	528	658[nar]|657[eng]|1057[eng]|2305[eng]	277	8190	591	2019-11-20	No	359001005
+12110.00	H	27500 5/6	Europe	TV	Sky One +1	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	1403	521	669[nar]|649[eng]	262	8190	585	2019-11-20	No	359001007
+12110.00	H	27500 5/6	Europe	TV	Sky Sports Arena	Wielka Brytania	Sport	Sky Digital	VideoGuard	3839	516	656[nar]|644[eng]|1057[eng]|2305[eng]	256	8190	580	2020-01-04	No	359001009
+12110.00	H	27500 5/6	Europe	TV	Sky Sports Arena	Wielka Brytania	Sport	Sky Digital	VideoGuard	3842	518	665[nar]|646[eng]|1057[eng]|2305[eng]	269	8190	582	2020-01-04	No	359001011
+12110.00	H	27500 5/6	Europe	TV	SkySp Arena			Sky Digital	VideoGuard	3859	516	656[nar]|644[eng]|1057[eng]|2305[eng]	261	8190	580	2020-01-04	No	359001013
+12110.00	H	27500 5/6	Europe	TV	E! Ireland	Irlandia	Rozrywka	Sky Digital	VideoGuard	4050	525	653[eng]	275	8190	592	2020-01-18	No	359001015
+12110.00	H	27500 5/6	Europe	TV	SkySp Arena			Sky Digital	VideoGuard	4205	518	665[nar]|646[eng]	285	8190	582	2020-01-04	No	359001017
+12110.00	H	27500 5/6	Europe	TV	Sky Sports Main Events	Wielka Brytania	Sport	Sky Digital	VideoGuard	4214	515	663[nar]|643[eng]|1057[eng]|2305[eng]	257	8190	579	2020-03-08	No	359001019
+12110.00	H	27500 5/6	Europe	TV	Sky Sports Main Events	Wielka Brytania	Sport	Sky Digital	VideoGuard	4216	515	663[nar]|643[eng]|1057[eng]|2305[eng]	258	8190	579	2019-11-20	No	359001021
+12110.00	H	27500 5/6	Europe	TV	Sky Sports Action	Wielka Brytania	Sport	Sky Digital	VideoGuard	4219	513	661[nar]|641[eng]|1057[eng]|2305[eng]	259	8190	577	2019-11-20	No	359001023
+12110.00	H	27500 5/6	Europe	TV	SkySp Action			Sky Digital	VideoGuard	4511	513	661[nar]|641[eng]|1057[eng]|2305[eng]	263	8190	577	2019-11-20	No	359001025
+12110.00	H	27500 5/6	Europe	TV	Sky One	Wielka Brytania	Ogólne	Sky Digital	VideoGuard	4701	522	670[nar]|650[eng]	278	8190	586	2019-11-20	No	359001027
+12110.00	H	27500 5/6	Europe	TV	Virgin One	Irlandia	Ogólne	Sky Digital	VideoGuard	4760	517	645[eng]	274	8190	581	2019-11-20	No	359001029
+12110.00	H	27500 5/6	Europe	TV	Sky Sports Mix	Wielka Brytania	Sport	Sky Digital	VideoGuard	5091	523	671[nar]|651[eng]|1057[eng]|2305[eng]	280	8190	587	2020-03-20	No	359001031
+12110.00	H	27500 5/6	Europe	TV	Sky Comedy	Wielka Brytania	Filmy	Sky Digital	VideoGuard	5177	519	659[nar]|647[eng]	265	8190	583	2020-01-28	No	359001033
+12110.00	H	27500 5/6	Europe	TV	Fox U.K.	Wielka Brytania	Seriale	Sky Digital	VideoGuard	5515	512	660[nar]|640[eng]	268	8190	576	2019-11-20	No	359001035
+12110.00	H	27500 5/6	Europe	TV	Sky Sports Premier League	Wielka Brytania	Sport	Sky Digital	VideoGuard	5557	528	658[nar]|657[eng]|1057[eng]|2305[eng]	284	8190	591	2019-11-20	No	359001037
+12110.00	H	27500 5/6	Europe	TV	Sky One	Wielka Brytania	Ogólne	Sky Digital	VideoGuard	5718	522	670[nar]|650[eng]	279	8190	586	2019-11-20	No	359001039
+12110.00	H	27500 5/6	Europe	TV	Sky Hits U.K.	Wielka Brytania	Filmy	Sky Digital	VideoGuard	5720	524	672[nar]|652[eng]	281	8190	588	2020-02-03	No	359001041
+12110.00	H	27500 5/6	Europe	TV	Sky Witness	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	6036	514	662[nar]|642[eng]	273	8190	578	2019-11-20	No	359001043
+12110.00	H	27500 5/6	Europe	TV	Sky Witness +1	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	6110	526	674[nar]|654[eng]	282	8190	590	2019-11-20	No	359001045
+12129.00	V	27500 5/6	U.K.	TV	Eden	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	6502	2317	2319[eng]|2321[nar]	260	2317	2318	2019-11-20	No	363001001
+12129.00	V	27500 5/6	U.K.	TV	GOLD	Wielka Brytania	Komedia	Sky Digital	VideoGuard	6504	2327	2329[eng]|2331[nar]	262	2327	2328	2019-11-20	No	363001003
+12129.00	V	27500 5/6	U.K.	TV	Yesterday	Wielka Brytania	Historia	Sky Digital	FTA	6505	2332	2334[eng]|2336[nar]	263	2332	2333	2019-11-20	Yes	363001005
+12129.00	V	27500 5/6	U.K.	TV	Dave	Wielka Brytania	Rozrywka	Sky Digital	FTA	6506	2308	2312[eng]|2314[nar]	264	2308	2310	2019-11-20	Yes	363001007
+12129.00	V	27500 5/6	U.K.	TV	Watch	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	6520	2363	2365[eng]|2347[nar]	270	2363	2364	2019-11-20	No	363001009
+12129.00	V	27500 5/6	U.K.	TV	Alibi	Wielka Brytania	Seriale	Sky Digital	VideoGuard	6521	2322	2324[eng]|2326[nar]	261	2322	2323	2019-11-20	No	363001011
+12129.00	V	27500 5/6	U.K.	TV	Drama	Wielka Brytania	Seriale	Sky Digital	FTA	6522	2372	2373[eng]|2374[nar]	257	2372	2375	2019-11-20	Yes	363001013
+12129.00	V	27500 5/6	U.K.	TV	GOLD +1	Wielka Brytania	Komedia	Sky Digital	VideoGuard	25101	2361	2360[nar]|2359[eng]	275	2361	2358	2019-12-06	No	363001015
+12129.00	V	27500 5/6	U.K.	TV	Eden +1	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	25103	2305	2309[nar]|2307[eng]	274	2305	2306	2019-12-06	No	363001017
+12129.00	V	27500 5/6	U.K.	TV	Watch +1	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	25110	2354	2356[nar]|2355[eng]	273	2354	2357	2019-12-10	No	363001019
+12129.00	V	27500 5/6	U.K.	TV	Drama	Wielka Brytania	Seriale	Sky Digital	FTA	25111	2348	2349[eng]|2350[nar]	266	2348	2351	2019-11-20	Yes	363001021
+12129.00	V	27500 5/6	U.K.	TV	Dave	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	25112	2553	2555[nar]|2554[eng]	276	2553	2556	2019-12-07	No	363001023
+12129.00	V	27500 5/6	U.K.	TV	Drama +1	Wielka Brytania	Seriale	Sky Digital	FTA	25113	2380	2381[eng]|2382[eng]	268	2380	2383	2019-11-20	Yes	363001025
+12129.00	V	27500 5/6	U.K.	TV	Dave Ja Vu	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	25114	2345	2343[nar]|2346[eng]	277	2345	2344	2019-12-07	No	363001027
+12129.00	V	27500 5/6	U.K.	TV	Alibi +1	Wielka Brytania	Seriale	Sky Digital	VideoGuard	25115	2366	2368[nar]|2367[eng]	278	2366	2369	2019-12-07	No	363001029
+12129.00	V	27500 5/6	U.K.	TV	Yesterday +1	Wielka Brytania	Historia	Sky Digital	VideoGuard	25116	2337	2339[eng]|2340[nar]	279	2337	2338	2019-12-10	No	363001031
+12148.00	H	27500 5/6	Europe	TV	Sky Sports Cricket	Wielka Brytania	Sport	Sky Digital	VideoGuard	1342	527	667[nar]|666[eng]	288	8190		2020-03-13	No	367001003
+12148.00	H	27500 5/6	Europe	TV	Sky Atlantic +1	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	1413	529	661[eng]|660[nar]	265	8190	593	2019-11-24	No	367001005
+12148.00	H	27500 5/6	Europe	TV	SkySp F'ball			Sky Digital	VideoGuard	3838	516	644[eng]	277	8190	589	2019-11-24	No	367001007
+12148.00	H	27500 5/6	Europe	TV	SkySp F'ball			Sky Digital	VideoGuard	3848	516	657[nar]|644[eng]|2313[eng]|2312[eng]	267	8190	589	2019-11-24	No	367001009
+12148.00	H	27500 5/6	Europe	TV	SkySp News			Sky Digital	VideoGuard	4211	512	640[eng]|2313[eng]|2312[eng]	278	8190	576	2019-11-24	No	367001011
+12148.00	H	27500 5/6	Europe	TV	Sky Sports Golf	Wielka Brytania	Sport	Sky Digital	VideoGuard	4233	525	663[nar]|654[eng]|2313[eng]|2312[eng]	286	8190	582	2020-03-13	No	367001013
+12148.00	H	27500 5/6	Europe	TV	SkySpMainEv			Sky Digital	VideoGuard	4255	515	664[nar]|643[eng]|2313[eng]|2312[eng]	269	8190	579	2019-11-24	No	367001015
+12148.00	H	27500 5/6	Europe	TV	Sky Atlantic			Sky Digital	VideoGuard	4901	521	649[nar]|650[eng]	276	8190	588	2019-11-24	No	367001017
+12148.00	H	27500 5/6	Europe	TV	Sky Sports Box Office	Wielka Brytania	Pay per View	Sky Digital	VideoGuard	4906	520	648[eng]	261	8190	584	2019-11-24	No	367001019
+12148.00	H	27500 5/6	Europe	TV	Sky Sports News	Wielka Brytania	Sport	Sky Digital	VideoGuard	4907	513	641[eng]|2313[eng]|2312[eng]	257	8190	577	2019-11-24	No	367001021
+12148.00	H	27500 5/6	Europe	TV	Sky Sports News Ireland	Wielka Brytania	Sport	Sky Digital	VideoGuard	4909	512	640[eng]	268	8190	576	2019-11-24	No	367001023
+12148.00	H	27500 5/6	Europe	TV	Sky Sports News	Wielka Brytania	Sport	Sky Digital	VideoGuard	4910	513	641[eng]|2313[eng]|2312[eng]	273	8190	577	2019-11-24	No	367001025
+12148.00	H	27500 5/6	Europe	TV	Sky Sports Main Events	Wielka Brytania	Sport	Sky Digital	VideoGuard	4914	515	664[nar]|643[eng]	259	8190	579	2019-11-24	No	367001027
+12148.00	H	27500 5/6	Europe	TV	Eurosport 2 UK	Wielka Brytania	Sport	Sky Digital	VideoGuard	5009	519	647[eng]	260	8190	583	2019-11-24	No	367001029
+12148.00	H	27500 5/6	Europe	TV	Sky Comedy	Wielka Brytania	Filmy	Sky Digital	VideoGuard	5146	526	656[nar]|655[eng]	272	8190	587	2020-01-28	No	367001031
+12148.00	H	27500 5/6	Europe	TV	Sky Sports Cricket	Wielka Brytania	Sport	Sky Digital	VideoGuard	5302	527	667[nar]|666[eng]|2313[eng]|2312[eng]	281	8190	590	2020-03-13	No	367001033
+12148.00	H	27500 5/6	Europe	TV	S2Test			Sky Digital	VideoGuard	5308	516	644[eng]|2313[eng]|2312[eng]	262	8190		2019-11-24	No	367001035
+12148.00	H	27500 5/6	Europe	TV	Fox +1 U.K.	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	5402	517	665[nar]|645[eng]	271	8190	581	2019-11-24	No	367001037
+12148.00	H	27500 5/6	Europe	TV	Sky Sports Golf	Wielka Brytania	Sport	Sky Digital	VideoGuard	5404	514	662[nar]|642[eng]|2313[eng]|2312[eng]	266	8190	578	2020-03-13	No	367001039
+12148.00	H	27500 5/6	Europe	TV	Pick TV	Wielka Brytania	Rozrywka	Sky Digital	FTA	5530	528	659[nar]|658[eng]	282	8190	592	2019-11-24	Yes	367001041
+12148.00	H	27500 5/6	Europe	TV	Sky News Arabia	Wielka Brytania	Informacje	Sky Digital	FTA	5532	518	646[ara]	283	8190		2019-11-24	Yes	367001043
+12148.00	H	27500 5/6	Europe	TV	Sky Atlantic	Wielka Brytania	Ogólne	Sky Digital	VideoGuard	5711	522	670[nar]|651[eng]	280	8190	580	2019-11-24	No	367001045
+12148.00	H	27500 5/6	Europe	TV	Sky Witness +1	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	5712	523	671[nar]|652[eng]	279	8190	585	2019-11-24	No	367001047
+12148.00	H	27500 5/6	Europe	TV	British Eurosport	Francja	Sport	Sky Digital	VideoGuard	5713	524	653[eng]	270	8190	586	2019-11-24	No	367001049
+12168.00	V	27500 2/3	Europe	TV	Harry Potter HD	Wielka Brytania	Filmy	Sky Digital	VideoGuard	3818	513	641[nar]|661[eng]	256	513	576	2020-04-04	No	371001001
+12168.00	V	27500 2/3	Europe	TV	Sky Movies Premiere HD	Wielka Brytania	Filmy	Sky Digital	VideoGuard	3821	512	640[nar]|660[eng]	263	512	579	2020-02-27	No	371001003
+12168.00	V	27500 2/3	Europe	TV	Sky Thriller HD	Wielka Brytania	Filmy	Sky Digital	VideoGuard	3862	515	643[nar]|663[eng]	261	515	577	2020-02-27	No	371001005
+12168.00	V	27500 2/3	Europe	TV	Sky Adventure HD	Wielka Brytania	Filmy	Sky Digital	VideoGuard	3901	516	644[nar]|664[eng]	259	516	578	2020-03-28	No	371001007
+12168.00	V	27500 2/3	Europe	TV	CNBC Europe HD	Stany Zjednoczone	Biznes	Sky Digital	FTA	3902	519	666[eng]	270	519		2020-02-27	Yes	371001009
+12168.00	V	27500 2/3	Europe	TV	Cartoon Network HD UK	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	4009	514	649[nar]|648[eng]	278	514	580	2020-02-27	No	371001011
+12168.00	V	27500 2/3	Europe	TV	Disney Channel HD UK	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	4010	520	651[nar]|650[eng]	280	520	583	2020-02-27	No	371001013
+12168.00	V	27500 2/3	Europe	TV	STV HD	Wielka Brytania	Ogólne	Sky Digital	VideoGuard	4068	517	645[nar]|642[eng]	262	517	581	2020-02-27	No	371001015
+12168.00	V	27500 2/3	Europe	TV	STV HD	Wielka Brytania	Ogólne	Sky Digital	VideoGuard	4071	518	647[nar]|646[eng]	274	518	582	2020-02-27	No	371001017
+12188.00	H	27500 2/3	Europe	TV	Sky Sports Box Office HD	Wielka Brytania	Pay per View	Sky Digital	VideoGuard	1035	520	652[nar]|646[eng]	261	520	584	2019-11-20	No	375001001
+12188.00	H	27500 2/3	Europe	TV	BT Sport Box Office HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	1036	521	653[eng]	264	521		2020-02-18	No	375001003
+12188.00	H	27500 2/3	Europe	TV	Bt Sports Box Office WWE HD	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	1097	521	653[eng]	268	521		2020-01-23	No	375001005
+12188.00	H	27500 2/3	Europe	TV	Discovery HD UK	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	3622	516	644[nar]|664[eng]	265	516	580	2019-11-20	No	375001007
+12188.00	H	27500 2/3	Europe	TV	Sky Atlantic HD	Wielka Brytania	Ogólne	Sky Digital	VideoGuard	3853	513	641[nar]|661[eng]	258	513	579	2019-11-20	No	375001009
+12188.00	H	27500 2/3	Europe	TV	Sky One HD	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	3861	512	640[nar]|660[eng]	257	512	576	2019-11-20	No	375001011
+12188.00	H	27500 2/3	Europe	TV	Sky One HD			Sky Digital	VideoGuard	3865	512	640[nar]|660[eng]	256	512	576	2019-11-20	No	375001013
+12188.00	H	27500 2/3	Europe	TV	Sky Witness HD	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	3928	515	643[nar]|663[eng]	262	515	577	2019-11-20	No	375001015
+12188.00	H	27500 2/3	Europe	TV	Sky News HD	Wielka Brytania	Informacje	Sky Digital	VideoGuard	3961	517	645[eng]	259	517	581	2019-11-20	No	375001017
+12188.00	H	27500 2/3	Europe	TV	Fox HD U.K.	Wielka Brytania	Seriale	Sky Digital	VideoGuard	3962	519	651[nar]|650[eng]	260	519	583	2019-11-20	No	375001019
+12188.00	H	27500 2/3	Europe	TV	Sky Hits HD U.K.	Wielka Brytania	Filmy	Sky Digital	VideoGuard	3963	518	649[nar]|648[eng]	267	518	582	2020-02-03	No	375001021
+12188.00	H	27500 2/3	Europe	TV	Sky Arts 1 HD	Wielka Brytania	Kultura	Sky Digital	VideoGuard	3964	514	647[nar]|642[eng]	266	514	578	2019-11-20	No	375001023
+12207.00	V	27500 5/6	Europe	TV	Sky Sports Premier League	Wielka Brytania	Sport	Sky Digital	VideoGuard	1312	514	663[nar]|642[eng]|2307[eng]|2308[eng]	263	8190	578	2017-07-22	No	379001001
+12207.00	V	27500 5/6	Europe	TV	Sky Sports Football	Wielka Brytania	Sport	Sky Digital	VideoGuard	3841	522	656[nar]|651[eng]|2307[eng]|2308[eng]	265	8190	579	2017-07-22	No	379001003
+12207.00	V	27500 5/6	Europe	TV	SkySp F'ball			Sky Digital	VideoGuard	3855	522	656[nar]|651[eng]|2307[eng]|2308[eng]	272	8190	579	2017-07-22	No	379001005
+12207.00	V	27500 5/6	Europe	TV	SkySp PL			Sky Digital	VideoGuard	4095	514	663[nar]|642[eng]|2307[eng]|2308[eng]	275	8190	578	2017-07-22	No	379001007
+12207.00	V	27500 5/6	Europe	TV	Sky News	Wielka Brytania	Informacje	Sky Digital	FTA	4704	512	640[eng]	256	8190		2020-03-10	Yes	379001009
+12207.00	V	27500 5/6	Europe	TV	Sky News Ireland	Wielka Brytania	Informacje	Sky Digital	FTA	4706	513	641[eng]	257	8190	577	2015-04-16	Yes	379001011
+12207.00	V	27500 5/6	Europe	TV	Sky One Ireland	Wielka Brytania	Ogólne	Sky Digital	VideoGuard	4750	520	668[nar]|648[eng]	276	8190	584	2017-10-15	No	379001013
+12207.00	V	27500 5/6	Europe	TV	Sky Two	Wielka Brytania	Ogólne	Sky Digital	VideoGuard	4752	519	667[eng]|647[eng]	273	8190	583	2017-10-15	No	379001015
+12207.00	V	27500 5/6	Europe	TV	Together	Wielka Brytania	Talk show	Sky Digital	FTA	4753	521	649[eng]	264	8190		2018-01-16	Yes	379001017
+12207.00	V	27500 5/6	Europe	TV	Sky Two	Wielka Brytania	Ogólne	Sky Digital	VideoGuard	5533	523	658[nar]|657[eng]	287	8190	586	2018-06-16	No	379001019
+12207.00	V	27500 5/6	Europe	TV	Virgin Three	Irlandia	Ogólne	Sky Digital	VideoGuard	5534	529	661[eng]	289	8190	589	2018-08-30	No	379001021
+12207.00	V	27500 5/6	Europe	TV	Sky Witness	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	5715	524	672[nar]|652[eng]	282	8190	588	2018-08-06	No	379001023
+12207.00	V	27500 5/6	Europe	TV	Lifetime	Wielka Brytania	Lifestyle	Sky Digital	VideoGuard	5716	525	653[eng]	278	8190		2015-04-24	No	379001025
+12207.00	V	27500 5/6	Europe	DATA	My Sky			Sky Digital	FTA	8040			280	8191		2019-02-08	Yes	379001027
+12207.00	V	27500 5/6	Europe	DATA	MySky Deeplink Test			Sky Digital	FTA	8041						2019-02-07	Yes	379001029
+12207.00	V	27500 5/6	Europe	DATA	Update Email Address			Sky Digital	FTA	8042			281	8191		2018-06-21	Yes	379001031
+12207.00	V	27500 5/6	Europe	DATA	SOM Test Bert/Ernie			Sky Digital	FTA	8075			267	8191		2016-02-05	Yes	379001033
+12207.00	V	27500 5/6	Europe	DATA	launchpad			Sky Digital	FTA	8144			291	8191		2015-04-16	Yes	379001035
+12207.00	V	27500 5/6	Europe	DATA	Update Email Address			Sky Digital	FTA	8550			271	8191		2018-06-21	Yes	379001037
+12226.50	H	27500 2/3	Europe	TV	Sky Crime HD	Wielka Brytania	Seriale	Sky Digital	VideoGuard	1213	520	646[nar]|645[eng]	269	520	578	2019-10-03	No	383001001
+12226.50	H	27500 2/3	Europe	TV	Virgin One HD	Irlandia	Ogólne	Sky Digital	VideoGuard	3628	518	666[eng]	263	518	582	2019-01-29	No	383001003
+12226.50	H	27500 2/3	Europe	TV	Virgin Two HD	Irlandia	Ogólne	Sky Digital	VideoGuard	4008	513	641[eng]	260	513	577	2019-06-20	No	383001005
+12226.50	H	27500 2/3	Europe	TV	Sky Comedy HD	Wielka Brytania	Filmy	Sky Digital	VideoGuard	5143	515	644[nar]|640[eng]	256	515	576	2020-01-28	No	383001007
+12226.50	H	27500 2/3	Europe	TV	Premier Sports 1 HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	5405	517	643[eng]	264	517		2019-07-31	No	383001009
+12226.50	H	27500 2/3	Europe	TV	Premier 1 HD			Sky Digital	VideoGuard	5406	517	643[eng]	258	517		2019-08-03	No	383001011
+12226.50	H	27500 2/3	Europe	TV	Premier Sports 2 HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	5407	514	642[eng]	257	514		2019-08-07	No	383001013
+12226.50	H	27500 2/3	Europe	TV	Premier 2 HD			Sky Digital	VideoGuard	5408	514	642[eng]	261	514		2019-08-04	No	383001015
+12226.50	H	27500 2/3	Europe	TV	Premier 2 HD			Sky Digital	VideoGuard	5410	514	642[eng]	262	514		2019-09-11	No	383001017
+12246.00	V	27500 2/3	Europe	TV	RTE Two HD	Irlandia	Ogólne	Sky Digital	VideoGuard	3624	518	688[gle]|648[nar]|668[eng]	264	518	578	2019-01-29	No	387001003
+12246.00	V	27500 2/3	Europe	TV	Star Plus HD	Indie	Rozrywka	Sky Digital	VideoGuard	3803	516	667[eng]	265	516		2019-01-29	No	387001005
+12246.00	V	27500 2/3	Europe	TV	Sky Star Wars HD (UK)	Wielka Brytania	Filmy	Sky Digital	VideoGuard	3814	512	640[nar]|660[eng]	256	512	576	2020-03-28	No	387001007
+12246.00	V	27500 2/3	Europe	TV	NatGeo Wild HD	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	3885	514	662[eng]	259	514		2019-01-29	No	387001009
+12246.00	V	27500 2/3	Europe	TV	History	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	3886	513	661[eng]	261	513		2019-01-29	No	387001011
+12246.00	V	27500 2/3	Europe	TV	Crime & Investigation HD	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	3888	515	663[eng]	258	515		2019-01-29	No	387001013
+12246.00	V	27500 2/3	Europe	TV	RTÉ One HD	Irlandia	Ogólne	Sky Digital	VideoGuard	3921	517	687[gle]|646[nar]|666[eng]	263	517	577	2019-01-29	No	387001015
+12246.00	V	27500 2/3	Europe	TV	Disney Junior HD UK	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	4007	519	643[nar]|642[eng]	262	519	580	2019-06-11	No	387001017
+12246.00	V	27500 2/3	Europe	TV	Sony TV HD	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	4030	520	641[eng]	266	520	579	2019-01-29	No	387001019
+12246.00	V	27500 2/3	Europe	R	Get Sky Products			Sky Digital	FTA	8459		2311	270	2311		2020-03-06	Yes	387001021
+12266.00	H	27500 2/3	Europe	TV	More 4 HD	Wielka Brytania	Filmy	Sky Digital	VideoGuard	3272	516	648[nar]|647[eng]	268	516	580	2020-01-21	No	391001001
+12266.00	H	27500 2/3	Europe	TV	Film4 HD	Wielka Brytania	Filmy	Sky Digital	VideoGuard	3634	515	644[nar]|642[eng]	264	515	578	2020-01-21	No	391001003
+12266.00	H	27500 2/3	Europe	TV	Sky Sports Ashes HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	3913	513	641[eng]	256	513	576	2020-01-21	No	391001005
+12266.00	H	27500 2/3	Europe	TV	Sky Sports Premier League HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	3929	517	646[nar]|645[eng]|2311[eng]|2310[eng]	265	517	579	2020-02-02	No	391001007
+12266.00	H	27500 2/3	Europe	TV	Sky Sports Football HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	3942	513	641[eng]	269	513	576	2020-01-21	No	391001009
+12266.00	H	27500 2/3	Europe	TV	Sky Sports Darts HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	3945	513	641[eng]	270	513	576	2020-01-21	No	391001011
+12266.00	H	27500 2/3	Europe	TV	Sky Sports Main Events HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	4003	512	640[nar]|660[eng]	259	512	577	2020-01-21	No	391001013
+12266.00	H	27500 2/3	Europe	TV	Sky Players HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	4004	513	641[eng]	258	513	576	2020-01-21	No	391001015
+12266.00	H	27500 2/3	Europe	TV	Sky Sports News HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	4036	513	641[eng]	262	513	576	2020-01-21	No	391001017
+12266.00	H	27500 2/3	Europe	TV	MUTV HD	Wielka Brytania	Sport	Sky Digital	VideoGuard	4080	514	643[eng]	267	514		2020-01-21	No	391001019
+12324.00	V	27500 2/3	Europe	TV	Sky Intro	Wielka Brytania	Prezentacje	Sky Digital	FTA	1002	513	641[eng]	261	513		2019-01-08	Yes	403001001
+12324.00	V	27500 2/3	Europe	TV	Sky Intro HD	Wielka Brytania	Prezentacje	Sky Digital	FTA	1002	513	641[eng]	261	513		2019-01-08	Yes	403001003
+12324.00	V	27500 2/3	Europe	TV	Sky Sports Racing HD	Wielka Brytania	Wyścigi	Sky Digital	VideoGuard	3932	512	640[eng]	259	512		2019-01-08	No	403001005
+12324.00	V	27500 2/3	Europe	TV	SkySp Racing HD			Sky Digital	VideoGuard	3933	512	640[eng]	256	512	576	2019-05-10	No	403001007
+12324.00	V	27500 2/3	Europe	TV	4567			Sky Digital	FTA	4567	513	641[eng]	264	513		2019-01-08	Yes	403001009
+12324.00	V	27500 2/3	Europe	TV	Ultra HD 4K	Portugalia	Prezentacje	Sky Digital	VideoGuard	9002	522	670[eng]	260	522		2020-03-08	No	403001011
+12324.00	V	27500 2/3	Europe	TV	U2MON			Sky Digital	VideoGuard	9009	522	670[eng]	262	522		2019-01-08	No	403001013
+12363.00	V	27500 2/3	Europe	TV	Disney XD HD	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	3627	518	646[nar]|666[eng]	263	518	582	2020-02-27	No	419001001
+12363.00	V	27500 2/3	Europe	TV	National Geographic HD UK	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	3832	514	642[nar]|662[eng]	259	514	578	2020-02-27	No	419001003
+12363.00	V	27500 2/3	Europe	TV	Comedy Central HD UK	Wielka Brytania	Rozrywka	Sky Digital	VideoGuard	3856	512	640[nar]|660[eng]	256	512	576	2020-02-27	No	419001005
+12363.00	V	27500 2/3	Europe	TV	Nickelodeon HD	Wielka Brytania	Dzieci	Sky Digital	VideoGuard	3869	513	641[nar]|661[eng]	257	513	577	2020-02-27	No	419001007
+12363.00	V	27500 2/3	Europe	TV	MTV HD UK	Wielka Brytania	Muzyka	Sky Digital	VideoGuard	3904	516	644[nar]|664[eng]	261	516	580	2020-02-27	No	419001009
+12363.00	V	27500 2/3	Europe	TV	Alibi HD	Wielka Brytania	Seriale	Sky Digital	VideoGuard	3923	517	645[nar]|665[eng]	260	517	581	2020-02-27	No	419001011
+12363.00	V	27500 2/3	Europe	TV	STV HD	Wielka Brytania	Ogólne	Sky Digital	VideoGuard	4070	519	648[nar]|647[eng]	274	519	583	2020-02-27	No	419001013
+12363.00	V	27500 2/3	Europe	TV	Gold HD	Wielka Brytania	Seriale	Sky Digital	VideoGuard	6513	515	643[nar]|663[eng]	264	515	579	2020-02-27	No	419001015
+12382.00	H	27500 5/6	U.K.	TV	Travel Channel	Wielka Brytania	Podróże	Sky Digital	FTA	2904	2394	2395[eng]	272	2394		2019-11-20	Yes	423001001
+12382.00	H	27500 5/6	U.K.	TV	DMAX UK +1	Wielka Brytania	Dokumenty	Sky Digital	FTA	2905	2389	2390[eng]	256	2389		2019-11-20	Yes	423001003
+12382.00	H	27500 5/6	U.K.	TV	Food Network	Wielka Brytania	Gotowanie	Sky Digital	FTA	2908	2333	2335[nar]|2334[eng]	273	2333	2336	2020-03-10	Yes	423001005
+12382.00	H	27500 5/6	U.K.	TV	Food Network	Wielka Brytania	Gotowanie	Sky Digital	FTA	2910	2352	2353[eng]	271	2352	2354	2019-12-07	Yes	423001007
+12382.00	H	27500 5/6	U.K.	TV	Food Network +1	Wielka Brytania	Gotowanie	Sky Digital	FTA	2912	2319	2320[eng]	268	2319	2321	2019-12-07	Yes	423001009
+12382.00	H	27500 5/6	U.K.	TV	DMAX UK	Wielka Brytania	Dokumenty	Sky Digital	FTA	2916	2384	2385[eng]	260	2384		2019-11-20	Yes	423001011
+12382.00	H	27500 5/6	U.K.	TV	Discovery Channel	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	6201	2305	2306[eng]|2307[eng]	269	2305	2308	2019-11-20	No	423001013
+12382.00	H	27500 5/6	U.K.	TV	Animal Planet	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	6202	2309	2310[eng]|2311[eng]	270	2309	2312	2019-11-20	No	423001015
+12382.00	H	27500 5/6	U.K.	TV	Discovery Science	Wielka Brytania	Technologia	Sky Digital	VideoGuard	6206	2325	2326[eng]|2327[eng]	274	2325	2328	2019-11-20	No	423001017
+12382.00	H	27500 5/6	U.K.	TV	Discovery Science	Wielka Brytania	Technologia	Sky Digital	VideoGuard	6206	2325	2326[eng]|2327[eng]	274	2325	2328	2019-11-20	No	423001019
+12382.00	H	27500 5/6	U.K.	TV	Discovery History	Wielka Brytania	Historia	Sky Digital	VideoGuard	6207	2329	2331[nar]|2330[eng]	275	2329	2332	2019-11-20	No	423001021
+12382.00	H	27500 5/6	U.K.	TV	Discovery Turbo UK	Wielka Brytania	Dokumenty	Sky Digital	VideoGuard	6209	2337	2339[nar]|2338[eng]	277	2337	2340	2019-11-20	No	423001023
+12382.00	H	27500 5/6	U.K.	TV	Quest Red +1	Wielka Brytania	Rozrywka	Sky Digital	FTA	6211	2323	2343[eng]|2345[nar]	259	2323	2346	2019-11-20	Yes	423001025
+12382.00	H	27500 5/6	U.K.	TV	Quest	Wielka Brytania	Rozrywka	Sky Digital	FTA	6213	2364	2367[nar]|2365[eng]	263	2364	2366	2019-11-20	Yes	423001027
+12382.00	H	27500 5/6	U.K.	TV	Quest Red	Wielka Brytania	Rozrywka	Sky Digital	FTA	6214	2356	2358[nar]|2357[eng]	265	2356	2359	2019-11-20	Yes	423001029
+12382.00	H	27500 5/6	U.K.	TV	Quest +1	Wielka Brytania	Rozrywka	Sky Digital	FTA	6215	2360	2362[nar]|2361[eng]	264	2360	2363	2019-11-20	Yes	423001031
+12382.00	H	27500 5/6	U.K.	TV	TLC Europe	nieokreślony	Dokumenty	Sky Digital	VideoGuard	6233	2313	2314[eng]|2315[nar]	257	2313	2316	2019-11-20	No	423001033
+12441.00	V	29500 8/9	Europe	TV	Astra Ultra HD Test	Luksemburg	Prezentacje	SES ASTRA	FTA	7400	210	220[aac][eng]	257	210		2017-01-14	Yes	435001003
+12441.00	V	29500 8/9	Europe	TV	Astra UHD Demo			SES ASTRA	FTA	7401	210	220[aac]	32	210		2017-01-14	Yes	435001005
+12441.00	V	29500 8/9	Europe	TV	SES UHD Demo	Luksemburg	Prezentacje	SES	FTA	7402	48	258[aac][eng]	256	48		2017-01-14	Yes	435001007

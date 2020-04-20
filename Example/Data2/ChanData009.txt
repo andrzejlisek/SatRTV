@@ -1,0 +1,417 @@
+Freq	Pol	SR	Beam	Type	Name	FTA	Encryption	SID	VPID	APID Lang	Row
+11644	H	5500-3/4	Europe Ku	R	Radio WaWa Kielce	Yes		1050		1.52[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio WaWa Kraków	Yes		1070		1072[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio WaWa Lódz	Yes		1100		1102[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio WaWa Opole	Yes		1120		1122[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio WaWa Torun	Yes		1150		1152[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio WaWa Gdansk	Yes		1170		1172[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio WaWa Wroclaw	Yes		1180		1182[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio WaWa Rzeszów	Yes		1240		1242[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio WaWa Szczecin	Yes		1260		1262[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio WaWa Nowy Sacz	Yes		1290		1292[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio WaWa Warszawa	Yes		1380		1382[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio WaWa Jelenia Gora	Yes		1480		1482[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio WaWa Trzebnica	Yes		1510		1512[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska	Yes		2000		2002[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Belchatów	Yes		2010		2012[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Bialystok	Yes		2020		2022[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Bydgoszcz	Yes		2030		2032[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Gorzów	Yes		2040		2042[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Kielce	Yes		2050		2052[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Siedlce	Yes		2060		2062[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Kraków	Yes		2070		2072[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Leszno	Yes		2080		2082[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Pila	Yes		2090		2092[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Lódz	Yes		2100		2102[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Olsztyn	Yes		2110		2112[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Opole	Yes		2120		2122[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Lublin	Yes		2130		2132[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Poznan	Yes		2140		2142[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Torun	Yes		2150		2152[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Tarnów	Yes		2160		2162[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Trójmiasto	Yes		2170		2172[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Wroclaw	Yes		2180		2182[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Zielona Góra	Yes		2190		2192[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Kalisz/Ostrów	Yes		2200		2202[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Radom	Yes		2210		2212[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Slask	Yes		2220		2222[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Zamosc	Yes		2230		2232[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Rzeszów	Yes		2240		2242[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Plock	Yes		2250		2252[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Szczecin	Yes		2260		2262[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Koszalin	Yes		2270		2272[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Beskidy	Yes		2300		2302[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Szczecinek	Yes		2310		2312[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Przemysl	Yes		2320		2322[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Malopolska/Zakopane	Yes		2330		2332[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Krasnik	Yes		2360		2362[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Starachowice	Yes		2400		2402[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Zary	Yes		2420		2422[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Elblag	Yes		2430		2432[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Ilawa	Yes		2440		2442[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Grudziadz	Yes		2450		2452[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Lomza	Yes		2460		2462[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Wroclaw JG	Yes		2480		2482[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Ostrzeszów	Yes		2500		2502[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Eska Braniewo	Yes		2520		2522[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Vox Gorzów	Yes		3040		3042[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Vox Poznan	Yes		3140		3142[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Vox Radom	Yes		3210		3212[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Vox FM	Yes		3990		3992[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Plus FM (Poland)	Yes		4000		4002[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Plus Olsztyn	Yes		4110		4112[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Plus Lublin	Yes		4130		4132[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Plus Koszalin	Yes		4270		4272[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Plus Podhale	Yes		4340		4342[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Rodzina	Yes		8010		8012[Pol]	6031
+11644	H	5500-3/4	Europe Ku	R	Radio Wielkopolska	Yes		8020		8022[Pol]	6031
+11675	V	1000-3/4	Europe Ku	R	Radio Zlote Przeboje	Yes		1000		101[Pol]	6103
+11675	V	1000-3/4	Europe Ku	R	Radio Pogoda	Yes		2000		201[Pol]	6103
+11675	V	1000-3/4	Europe Ku	R	Rock Radio (Poland)	Yes		3000		301[Pol]	6103
+11675	V	1000-3/4	Europe Ku	R	Tok FM	Yes		4000		401[Pol]	6103
+11675	V	1000-3/4	Europe Ku	R	Radio Zlote Przeboje	Yes		6000		601[Pol]	6103
+11675	V	1000-3/4	Europe Ku	R	Radio Zlote Przeboje	Yes		7000		701[Pol]	6103
+11676	V	1410-4/5	Europe Ku	R	RMF FM	Yes		11000		1101[Pol]	6110
+11676	V	1410-4/5	Europe Ku	R	RMF Classic	Yes		12000		1201[Pol]	6110
+11676	V	1410-4/5	Europe Ku	R	RMF Maxxx	Yes		13000		1301[Pol]	6110
+11676	V	1410-4/5	Europe Ku	R	RMF Maxxx	Yes		14000		1401[Pol]	6110
+11676	V	1410-4/5	Europe Ku	R	RMF Maxxx	Yes		15000		1501[Pol]	6110
+11676	V	1410-4/5	Europe Ku	R	RMF Maxxx	Yes		16000		1601[Pol]	6110
+11676	V	1410-4/5	Europe Ku	R	RMF Maxxx	Yes		17000		1701[Pol]	6110
+11678	V	2050-3/4	Europe Ku	R	RMF Maxxx	Yes		21000		2101[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	RMF Maxxx	Yes		22000		2201[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	RMF Maxxx	Yes		23000		2301[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	RMF Maxxx	Yes		24000		2.01[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	Radio Gra Wroclaw	Yes		25000		2501[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	RMF Maxxx	Yes		26000		26.1[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	RMF Maxxx	Yes		27000		2701[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	RMF Classic	Yes		28000		2801[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	RMF Maxxx	Yes		31000		3101[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	RMF Maxxx	Yes		32000		3201[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	RMF Maxxx	Yes		33000		3301[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	RMF Maxxx	Yes		34000		3401[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	RMF Maxxx	Yes		35000		3501[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	RMF Maxxx	Yes		36000		3601[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	Radio Gra Torun	Yes		37000		3701[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	RMF Maxxx	Yes		38000		3801[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	RMF Maxxx	Yes		51000		5101[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	Radio Gra Wroclaw	Yes		52000		5201[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	RMF Maxxx	Yes		53000		5301[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	RMF Maxxx	Yes		54000		5401[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	RMF Maxxx	Yes		55000		5501[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	Radio Zlote Przeboje	Yes		56000		5601[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	Radio Zlote Przeboje	Yes		57000		5701[Pol]	6119
+11678	V	2050-3/4	Europe Ku	R	RMF Maxxx	Yes		58000		5801[Pol]	6119
+11739	V	29900-2/3	Europe Wide	TV	NPO Politiek	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	6010	512	80[Dut]	7001
+11739	V	29900-2/3	Europe Wide	TV	192 TV	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	6015	513	82[Dut]	7001
+11739	V	29900-2/3	Europe Wide	TV	Fox NL	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	6030	516	88[Dut]	7001
+11739	V	29900-2/3	Europe Wide	TV	Boomerang Central & Eastern Europe	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	6035	517	90[Eng]|91[Dut]	7001
+11739	V	29900-2/3	Europe Wide	TV	Boomerang Central & Eastern Europe	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	6036	517	90[Eng]	7001
+11739	V	29900-2/3	Europe Wide	TV	Investigation Discovery Nederland	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	6045	519	94[Dut]	7001
+11739	V	29900-2/3	Europe Wide	TV	Be2Can (22-04)	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	6061	581	121[Cze]	7001
+11739	V	29900-2/3	Europe Wide	TV	Travelxp HD Europe	No	MPEG-4/HD|Irdeto|Viaccess	6062	582	122[Cze]|222[Eng]	7001
+11739	V	29900-2/3	Europe Wide	TV	Travelxp HD Europe	No	MPEG-4/HD|Mediaguard|Viaccess	6063	582	222[Eng]	7001
+11739	V	29900-2/3	Europe Wide	TV	Ceskoslovensko (04-22)	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	6064	584	124[Cze]	7001
+11739	V	29900-2/3	Europe Wide	TV	Disney Channel Nederland	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	6065	523	102[Dut]|202[Qaa]	7001
+11739	V	29900-2/3	Europe Wide	TV	ONS	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	6067	520	96[Dut]	7001
+11739	V	29900-2/3	Europe Wide	TV	Fox Sports 4 Nederland	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	6068	530	107[Dut]	7001
+11739	V	29900-2/3	Europe Wide	TV	NPO 2	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	6080	525	105[Dut]|115[Dut]	7001
+11739	V	29900-2/3	Europe Wide	TV	SBS 6	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	6090	526	106[Dut]	7001
+11739	V	29900-2/3	Europe Wide	TV	Fox Sports 1 Nederland	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	6092	528	224[Dut]	7001
+11739	V	29900-2/3	Europe Wide	TV	The Q You	No	MPEG-4/HD|Cryptoworks|Irdeto|Mediaguard|Nagravision|Viaccess	6094	534	134[Eng]	7001
+11739	V	29900-2/3	Europe Wide	TV	The Q You	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	6095	534	134[Eng]	7001
+11739	V	29900-2/3	Europe Wide	TV	Discovery Channel Nederland	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	6097	537	137[Dut]	7001
+11739	V	29900-2/3	Europe Wide	TV	Canal Digitaal informatiekanaal	Yes	MPEG-4/SD	6112	562	[Dut]	7001
+11739	V	29900-2/3	Europe Wide	TV	TV Vlaanderen informatiekanaal	Yes	MPEG-4/SD	6113	563	[Dut]	7001
+11739	V	29900-2/3	Europe Wide	TV	Cartoon Network Nederland	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	6121	571	161[Dut]	7001
+11739	V	29900-2/3	Europe Wide	TV	FightBox HD	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	6122	572	162[Eng]	7001
+11739	V	29900-2/3	Europe Wide	TV	Retro Music TV	No	MPEG-4/SD|Cryptoworks|Irdeto|Mediaguard|Viaccess	6125	575	165[Cze]	7001
+11739	V	29900-2/3	Europe Wide	TV	Adventure Czechia	No	MPEG-4/SD|Irdeto|Viaccess	6160	560	116[Cze]	7001
+11739	V	29900-2/3	Europe Wide	R	Q-music Vlaanderen	No	Mediaguard|Viaccess	6126		126[Dut]	7001
+11739	V	29900-2/3	Europe Wide	R	Joe	No	Mediaguard|Viaccess	6127		127[Dut]	7001
+11739	V	29900-2/3	Europe Wide	R	Arrow Classic Rock	Yes		6128		166[Dut]	7001
+11739	V	29900-2/3	Europe Wide	R	Classicnl	Yes		6129		167[Dut]	7001
+11739	V	29900-2/3	Europe Wide	R	Radio Veronica	Yes		6130		168[Dut]	7001
+11778	V	27500-2/3	Europe Wide	TV	Astra promo	No	HEVC/UHD 4K	5390	511	512[Eng]	7033
+11778	V	27500-2/3	Europe Wide	TV	SES Ultra HD Demo Channel	Yes	HEVC/UHD 4K	5395	257	258[Eng]	7033
+11856	V	29900-2/3	Europe Wide	TV	RTL 4	No	MPEG-4/HD|Mediaguard|Viaccess	7020	514	84[Dut]	7038
+11856	V	29900-2/3	Europe Wide	TV	RTL 5	No	MPEG-4/HD|Mediaguard|Viaccess	7023	523	83[Dut]	7038
+11856	V	29900-2/3	Europe Wide	TV	RTL 7	No	MPEG-4/HD|Mediaguard|Viaccess	7027	527	87[Dut]	7038
+11856	V	29900-2/3	Europe Wide	TV	VTM	No	MPEG-4/HD|Mediaguard|Viaccess	7030	516	88[Dut]	7038
+11856	V	29900-2/3	Europe Wide	TV	RTL 8	No	MPEG-4/HD|Mediaguard|Viaccess	7036	518	94[Dut]	7038
+11856	V	29900-2/3	Europe Wide	TV	Reality Kings TV (22-06)	No	MPEG-4/SD|Cryptoworks|Irdeto|Mediaguard|Viaccess	7040	540	114[Eng]	7038
+11856	V	29900-2/3	Europe Wide	TV	Reality Kings TV (22-06)	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	7041	540	114[Eng]	7038
+11856	V	29900-2/3	Europe Wide	TV	Q2	No	MPEG-4/HD|Mediaguard|Viaccess	7056	556	106[Dut]	7038
+11856	V	29900-2/3	Europe Wide	TV	Vier	No	MPEG-4/HD|Mediaguard|Viaccess	7057	557	107[Dut]	7038
+11856	V	29900-2/3	Europe Wide	TV	RTL Z	No	MPEG-4/SD|Mediaguard|Viaccess	7058	558	115[Dut]	7038
+11856	V	29900-2/3	Europe Wide	TV	Eurosport 2 Nederland	No	MPEG-4/SD|Mediaguard|Viaccess	7060	560	116[Dut]|136[Eng]	7038
+11856	V	29900-2/3	Europe Wide	TV	Zes	No	MPEG-4/SD|Mediaguard|Viaccess	7061	561	137[Dut]	7038
+11856	V	29900-2/3	Europe Wide	TV	Fox Sports 2 Nederland	No	MPEG-4/HD|Mediaguard|Viaccess	7164	564	164[Dut]	7038
+11856	V	29900-2/3	Europe Wide	TV	Nautical Channel	No	MPEG-4/HD|Cryptoworks|Irdeto|Mediaguard|Viaccess	7165	585	168[Eng]|266[Ger]|267[Fre]|268[Ita]|278[Rus]	7038
+11856	V	29900-2/3	Europe Wide	TV	Eurosport 1 België	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	7166	566	166[Cze]|276[Eng]|286[Hun]|296[Dut]	7038
+11856	V	29900-2/3	Europe Wide	TV	Eurosport 1 België	No	MPEG-4/HD|Mediaguard|Viaccess	7167	566	276[Eng]|296[Dut]	7038
+11856	V	29900-2/3	Europe Wide	TV	JimJam Europe	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	7169	569	169[Cze]|279[Eng]|289[Hun]	7038
+11914	H	30000-3/4	Europe Wide	TV	RTS Svet	Yes	MPEG-4/HD	20099	991	992[Srp]	7057
+11914	H	30000-3/4	Europe Wide	R	Radio Beograd 1	Yes		20820		202[Srp]	7057
+11914	H	30000-3/4	Europe Wide	R	Radio Beograd 2 (05-20)	Yes		20821		212[Srp]	7057
+11914	H	30000-3/4	Europe Wide	R	Radio Beograd 3 (20-05)	Yes		20821		212[Srp]	7057
+11914	H	30000-3/4	Europe Wide	R	Beograd 202	Yes		20822		222[Srp]	7057
+11914	H	30000-3/4	Europe Wide	R	AS FM (Serbia)	Yes		20850		502[Srp]	7057
+11914	H	30000-3/4	Europe Wide	R	Play	Yes		20851		512[Srp]	7057
+11934	V	27500-3/4	Europe Wide	TV	German Tote TV	Yes	MPEG-4/SD	14041	4110	4120[Ger]	7065
+11934	V	27500-3/4	Europe Wide	TV	FightBox HD	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14050	5010	5020[Eng]	7065
+11934	V	27500-3/4	Europe Wide	TV	DocuBox HD	No	MPEG-4/SD|Cryptoworks|Irdeto|Mediaguard|Viaccess	14051	5110	5120[Eng]	7065
+11934	V	27500-3/4	Europe Wide	TV	Prima Comedy Central	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14052	5210	5220[Cze]	7065
+11934	V	27500-3/4	Europe Wide	TV	Prima Max	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	14053	5310	5320[Cze]|5321[Cze]	7065
+11934	V	27500-3/4	Europe Wide	TV	History Benelux	No	MPEG-4/SD|Mediaguard|Viaccess	14054	5410	5420[Dut]	7065
+11934	V	27500-3/4	Europe Wide	TV	TV Oranje	No	MPEG-4/SD|Cryptoworks|Irdeto|Mediaguard|Viaccess	14055	5510	5520[Dut]	7065
+11934	V	27500-3/4	Europe Wide	TV	Prima Zoom	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	14056	5610	5620[Cze]|5621[Cze]	7065
+11934	V	27500-3/4	Europe Wide	TV	FilmBox Central Europe	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14057	5710	5720[Cze]	7065
+11934	V	27500-3/4	Europe Wide	TV	CS Film (06-24)	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14058	5810	5820[Cze]	7065
+11934	V	27500-3/4	Europe Wide	TV	CS Horror (00-06)	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14059	5910	5920[Cze]	7065
+11934	V	27500-3/4	Europe Wide	TV	Viasat History	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14060	6010	6020[Cze]|6.21[Eng]|6022[Hun]	7065
+11934	V	27500-3/4	Europe Wide	TV	Viasat Explore East	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14061	6110	6120[Cze]|6121[Eng]	7065
+11934	V	27500-3/4	Europe Wide	TV	Viasat Nature East	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14062	6210	6220[Cze]|6221[Eng]|6222[Hun]	7065
+11934	V	27500-3/4	Europe Wide	TV	Prima Love	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14063	6310	6320[Cze]	7065
+11934	V	27500-3/4	Europe Wide	TV	Nick Jr Central & Eastern Europe	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14064	6410	6420[Cze]|6421[Eng]	7065
+11934	V	27500-3/4	Europe Wide	TV	Senzi	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14065	6510	6520[Slo]	7065
+11934	V	27500-3/4	Europe Wide	TV	FilmBox Extra HD Czechia & Hungary	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	14067	6710	6720[Cze]|6721[Eng]	7065
+11934	V	27500-3/4	Europe Wide	TV	Duck TV SD	No	MPEG-4/SD|Cryptoworks|Irdeto|Mediaguard|Viaccess	14068	7710	7720	7065
+11934	V	27500-3/4	Europe Wide	TV	Cartoon Network Central & Eastern Europe	No	MPEG-4/SD|Irdeto|Viaccess	14069	6910	6920[Cze]|6921[Eng]	7065
+11934	V	27500-3/4	Europe Wide	TV	MTV NL	No	MPEG-4/SD|Irdeto|Mediaguard|Viaccess	14070	7010	7020[Dut]	7065
+11934	V	27500-3/4	Europe Wide	TV	Nickelodeon Nederland (02.30-21.00)	No	MPEG-4/SD|Irdeto|Mediaguard|Viaccess	14071	7110	7120[Dut]	7065
+11934	V	27500-3/4	Europe Wide	TV	Spike Vlaanderen (21.00-02.30)	No	MPEG-4/SD|Irdeto|Mediaguard|Viaccess	14071	7110	7120[Dut]	7065
+11934	V	27500-3/4	Europe Wide	TV	Comedy Central Nederland	No	MPEG-4/SD|Irdeto|Mediaguard|Viaccess	14072	7210	7220[Dut]	7065
+11934	V	27500-3/4	Europe Wide	TV	Spike Nederland	No	MPEG-4/SD|Mediaguard|Viaccess	14073	7310	7320[Dut]	7065
+11934	V	27500-3/4	Europe Wide	TV	Nickelodeon Nederland (02.30-21.00)	No	MPEG-4/SD|Mediaguard|Viaccess	14074	7110	7120[Dut]	7065
+11934	V	27500-3/4	Europe Wide	TV	AMC Cesko	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14075	7510	7520[Cze]|7521[Eng]	7065
+11934	V	27500-3/4	Europe Wide	TV	Disney Channel Hungary & Czechia	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14076	7610	7620[Cze]|7621[Eng]	7065
+11934	V	27500-3/4	Europe Wide	TV	TV Paprika Czech Republic	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14078	7810	7820[Cze]	7065
+11934	V	27500-3/4	Europe Wide	R	Radio POS Euro AC	Yes		-		6631[Ger]	7065
+11934	V	27500-3/4	Europe Wide	R	Radio POS Easy	Yes		-		6632[Ger]	7065
+11934	V	27500-3/4	Europe Wide	R	Radio POS Lounge	Yes		-		6633[Ger]	7065
+11934	V	27500-3/4	Europe Wide	R	Radio POS Kaufland	Yes		-		6634[Ger]	7065
+11934	V	27500-3/4	Europe Wide	R	Radio POS Easy Listening	Yes		-		6635[Ger]	7065
+11934	V	27500-3/4	Europe Wide	R	Radio POS AC International	Yes		-		6636[Ger]	7065
+11934	V	27500-3/4	Europe Wide	R	Radio POS Soft AC	Yes		-		6637[Ger]	7065
+11973	V	29900-2/3	Europe Wide	TV	Nova Sport 2	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	14110	1010	1020[Cze]|1021[Qaa]|1022[Cze]	7102
+11973	V	29900-2/3	Europe Wide	TV	Wau TV	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	14111	1110	1120[Slo]|1121[Qaa]	7102
+11973	V	29900-2/3	Europe Wide	TV	Markíza International	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14112	1210	1220[Slo]	7102
+11973	V	29900-2/3	Europe Wide	TV	Nova Gold	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14113	1310	132.[Cze]	7102
+11973	V	29900-2/3	Europe Wide	TV	Nova 2	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14114	1410	1420[Cze]	7102
+11973	V	29900-2/3	Europe Wide	TV	Joj Family	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	14115	1510	1520[Slo]|1521[Qaa]	7102
+11973	V	29900-2/3	Europe Wide	TV	Minimax Czechia (06-22)	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14116	1610	1620[Cze]	7102
+11973	V	29900-2/3	Europe Wide	TV	Leo TV (22-06)	No	MPEG-4/SD|Cryptoworks|Irdeto|Mediaguard|Viaccess	14117	1710	1720[Cze]	7102
+11973	V	29900-2/3	Europe Wide	TV	Leo TV (22-06)	No	MPEG-4/SD|Irdeto|Mediaguard|Viaccess	14118	1710	1720[Cze]	7102
+11973	V	29900-2/3	Europe Wide	TV	Penthouse Gold	No	MPEG-4/HD|Mediaguard|Viaccess	14119	1910	1920[Eng]	7102
+11973	V	29900-2/3	Europe Wide	TV	Penthouse Gold	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	14120	1910	1920[Eng]	7102
+11973	V	29900-2/3	Europe Wide	TV	Penthouse Quickies	No	MPEG-4/HD|Mediaguard|Viaccess	14121	2110	2120[Eng]	7102
+11973	V	29900-2/3	Europe Wide	TV	Penthouse Quickies	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	14122	2110	2120[Eng]	7102
+11973	V	29900-2/3	Europe Wide	TV	TV Nova +1	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	14124	2410	2420[Cze]|2421[Cze]	7102
+11973	V	29900-2/3	Europe Wide	TV	TV Markíza +1	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	14125	2510	2520[Slo]|2521[Qaa]	7102
+11973	V	29900-2/3	Europe Wide	TV	Mnam TV	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	14128	2810	2820[Cze]	7102
+11973	V	29900-2/3	Europe Wide	TV	TV Markíza	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	14129	2910	2920[Slo]|2921[Qaa]	7102
+11973	V	29900-2/3	Europe Wide	TV	TV Doma	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	14130	3010	3020[Slo]|3021[Qaa]	7102
+11973	V	29900-2/3	Europe Wide	R	Radio Proglas	Yes		14150		5020[Cze]	7102
+11973	V	29900-2/3	Europe Wide	R	NPO FunX NL	Yes		14151		5120[Dut]	7102
+11973	V	29900-2/3	Europe Wide	R	L1 Radio	Yes		14152		5220[Dut]	7102
+11973	V	29900-2/3	Europe Wide	R	Rádio 7 TWR	Yes		14153		5320[Cze]	7102
+12032	H	27500-9/10	Europe Wide	TV	Stingray Classica	No	MPEG-4/HD|Cryptoworks|Irdeto|Mediaguard|Nagravision|Viaccess	6101	511	515[Ger]	7125
+12032	H	27500-9/10	Europe Wide	TV	Stingray IConcerts	No	MPEG-4/HD|Irdeto|Mediaguard|Nagravision|Viaccess	6102	767	768[Eng]	7125
+12032	H	27500-9/10	Europe Wide	TV	Auto Motor und Sport	No	MPEG-4/HD|Cryptoworks|Irdeto|Mediaguard|Nagravision|Viaccess	6103	1013	1024[Ger]|1025[Bul]|1026[Cze]|1027[Hun]	7125
+12032	H	27500-9/10	Europe Wide	DATA	@ Astra Connect	No		6190			7125
+12070	H	27500-3/4	Europe Wide	TV	Sport 1 Czechia	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	13131	2710	2720[Cze]|2721[Slo]	7130
+12070	H	27500-3/4	Europe Wide	TV	TLC Pan Regional	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	13132	2810	2820[Cze]|2821[Eng]	7130
+12070	H	27500-3/4	Europe Wide	TV	CS Mystery	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	13133	2910	2920[Cze]	7130
+12070	H	27500-3/4	Europe Wide	TV	Slágr TV	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	13134	3010	3020[Cze]	7130
+12070	H	27500-3/4	Europe Wide	TV	Joj Cinema +1	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	13139	3510	3520[Cze]|3521[Qaa]	7130
+12070	H	27500-3/4	Europe Wide	TV	TV Joj +1	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	13144	3810	3820[Slo]|3821[Qaa]	7130
+12070	H	27500-3/4	Europe Wide	TV	Joj Cinema	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	13145	3910	3920[Slo]|3921[Qaa]	7130
+12070	H	27500-3/4	Europe Wide	TV	CS History	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	13146	4010	4020[Cze]	7130
+12070	H	27500-3/4	Europe Wide	TV	Seznam	No	MPEG-4/HD|Irdeto|Viaccess	13147	4110	4120[Cze]	7130
+12070	H	27500-3/4	Europe Wide	TV	Nickelodeon Czechia	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	13148	4210	.220[Cze]|4221[Eng]	7130
+12090	V	29900-2/3	Europe Wide	TV	National Geographic Hungary & Czechia	No	MPEG-4/HD|Irdeto	770	1501	1504[Cze]|1506[Eng]|7018[Hun]	7141
+12090	V	29900-2/3	Europe Wide	TV	National Geographic Hungary & Czechia	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	771	1501	1504[Cze]|1506[Eng]	7141
+12090	V	29900-2/3	Europe Wide	TV	Nat Geo Wild Europe	No	MPEG-4/HD|Irdeto	772	1101	1102[Eng]|1104[Cze]|7616[Rus]|7617[Dut]|7618[Hun]|7619[Heb]	7141
+12090	V	29900-2/3	Europe Wide	TV	Nat Geo Wild Europe	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	773	1101	1102[Eng]|1104[Cze]	7141
+12090	V	29900-2/3	Europe Wide	TV	Nat Geo Wild Europe	No	MPEG-4/HD|Cryptoworks|Irdeto|Mediaguard|Viaccess	774	1101	1102[Eng]|7617[Dut]	7141
+12090	V	29900-2/3	Europe Wide	TV	HBO Czechia	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	775	7111	7112[Cze]|7113[Qaa]	7141
+12090	V	29900-2/3	Europe Wide	TV	HBO 2 Central Europe	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	776	7251	7252[Cze]|7253[Qaa]	7141
+12090	V	29900-2/3	Europe Wide	TV	HBO 3 Central Europe	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	777	7121	7122[Cze]|7123[Qaa]	7141
+12090	V	29900-2/3	Europe Wide	TV	Cinemax Central Europe	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	778	7261	7262[Cze]|7263[Qaa]	7141
+12090	V	29900-2/3	Europe Wide	TV	MTV Europe	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	780	7291	7292[Cze]|7293[Eng]	7141
+12090	V	29900-2/3	Europe Wide	TV	Stingray CMusic	No	MPEG-4/SD|Irdeto|Mediaguard|Viaccess	781	7301	7302[Eng]	7141
+12090	V	29900-2/3	Europe Wide	TV	Stingray CMusic	No	MPEG-4/SD|Irdeto|Viaccess	782	7301	7302[Eng]	7141
+12090	V	29900-2/3	Europe Wide	TV	Love Nature	No	MPEG-4/HD|Irdeto|Viaccess	783	7361	7362[Eng]|7363[Cze]	7141
+12090	V	29900-2/3	Europe Wide	TV	Spektrum International	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	784	7271	7272[Cze]|7273[Hun]	7141
+12090	V	29900-2/3	Europe Wide	TV	Eurosport 2 België	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	785	7131	7132[Cze]|7133[Eng]	7141
+12090	V	29900-2/3	Europe Wide	TV	Regionální TV	Yes	MPEG-4/SD	786	7141	7142[Cze]	7141
+12090	V	29900-2/3	Europe Wide	TV	National Geographic Hungary & Czechia	No	MPEG-2/SD|Cryptoworks|Irdeto|Viaccess	787	7311	7312[Cze]|7313[Eng]|7314[Hun]	7141
+12090	V	29900-2/3	Europe Wide	TV	The Fishing & Hunting Channel	No	MPEG-4/SD|Cryptoworks|Irdeto|Mediaguard|Viaccess	788	7241	7242[Cze]|7243[Eng]	7141
+12090	V	29900-2/3	Europe Wide	TV	AXN Czech Republic	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	789	7281	7282[Cze]|7283[Eng]	7141
+12090	V	29900-2/3	Europe Wide	TV	[Rebel 2 Slusnej Kanal info card]	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	790	7211	7212[Cze]	7141
+12090	V	29900-2/3	Europe Wide	TV	The Fishing & Hunting Channel	No	MPEG-4/SD|Irdeto|Mediaguard|Viaccess	791	7241	7243[Eng]	7141
+12090	V	29900-2/3	Europe Wide	TV	Sport 2 Czechia	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	792	7161	7162[Cze]|7163[Slo]	7141
+12090	V	29900-2/3	Europe Wide	TV	Sport 5 (Czechia)	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	793	7171	7172[Cze]	7141
+12090	V	29900-2/3	Europe Wide	TV	Love Nature	No	MPEG-4/HD|Irdeto|Mediaguard|Viaccess	794	73.1	7362[Eng]|7363[Cze]|7364[Tur]	7141
+12090	V	29900-2/3	Europe Wide	TV	Love Nature	No	MPEG-4/HD|Mediaguard|Viaccess	795	7361	7362[Eng]	7141
+12129	V	29900-2/3	Europe Wide	TV	Film 1 Family	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	20910	512	80[Dut]	8000
+12129	V	29900-2/3	Europe Wide	TV	Film 1 Drama	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	20915	513	82[Dut]	8000
+12129	V	29900-2/3	Europe Wide	TV	Film 1 Action	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	20920	514	84[Dut]	8000
+12129	V	29900-2/3	Europe Wide	TV	Ziggo Sport Voetbal	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	20925	515	86[Dut]	8000
+12129	V	29900-2/3	Europe Wide	TV	Ziggo Sport Golf	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	20930	516	88[Dut]	8000
+12129	V	29900-2/3	Europe Wide	TV	SBS 9	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	20945	519	94[Dut]	8000
+12129	V	29900-2/3	Europe Wide	TV	TLC Nederland	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	20949	524	103[Dut]	8000
+12129	V	29900-2/3	Europe Wide	TV	Eclips TV	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	20954	554	154[Dut]	8000
+12129	V	29900-2/3	Europe Wide	TV	Film 1 Premiere	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	20955	521	111[Dut]	8000
+12129	V	29900-2/3	Europe Wide	TV	Ziggo Sport Select	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	20960	522	100[Dut]	8000
+12129	V	29900-2/3	Europe Wide	TV	National Geographic Nederland	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	20965	525	105[Dut]	8000
+12129	V	29900-2/3	Europe Wide	TV	Caz 2	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	21110	550	120[Dut]	8000
+12129	V	29900-2/3	Europe Wide	TV	Ketnet (06-20)	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	21112	552	122[Dut]	8000
+12129	V	29900-2/3	Europe Wide	TV	VTM Kids	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	21116	556	126[Dut]	8000
+12129	V	29900-2/3	Europe Wide	TV	Vitaya	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	21120	560	130[Dut]	8000
+12129	V	29900-2/3	Europe Wide	TV	Caz	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	21122	562	132[Dut]	8000
+12129	V	29900-2/3	Europe Wide	TV	Man-X (00-06)	No	MPEG-4/SD|Cryptoworks|Irdeto|Mediaguard|Nagravision|Viaccess	21124	564	134	8000
+12129	V	29900-2/3	Europe Wide	TV	Vijf	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	21126	566	166[Dut]	8000
+12129	V	29900-2/3	Europe Wide	TV	Eurosport 1 Nederland	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	21217	567	107[Dut]|167[Eng]	8000
+12129	V	29900-2/3	Europe Wide	TV	Film + Czechia	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	21218	569	108[Cze]	8000
+12129	V	29900-2/3	Europe Wide	TV	FilmBox Plus Hungary	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	21219	570	109[Cze]	8000
+12129	V	29900-2/3	Europe Wide	TV	FilmBox Premium Czechia	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	21220	571	110[Cze]	8000
+12129	V	29900-2/3	Europe Wide	TV	Up Network	No	MPEG-4/SD|Cryptoworks|Irdeto|Nagravision|Viaccess	21221	572	112[Cze]|212[Qaa]	8000
+12129	V	29900-2/3	Europe Wide	TV	Film Europe	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	21223	573	113[Eng]	8000
+12129	V	29900-2/3	Europe Wide	TV	Film Europe	No	MPEG-4/HD|Cryptoworks|Irdeto|Mediaguard|Nagravision|Viaccess	21224	573	113[Eng]	8000
+12129	V	29900-2/3	Europe Wide	TV	Animal Planet Europe	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	21225	575	115[Cze]|215[Eng]	8000
+12129	V	29900-2/3	Europe Wide	TV	Animal Planet Europe	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	21226	575	215[Eng]	8000
+12129	V	29900-2/3	Europe Wide	R	MNM	No	Mediaguard|Nagravision|Viaccess	21210		140[Dut]	8000
+12129	V	29900-2/3	Europe Wide	R	StuBru	No	Mediaguard|Nagravision|Viaccess	21211		141[Dut]	8000
+12129	V	29900-2/3	Europe Wide	R	Klara	No	Mediaguard|Nagravision|Viaccess	21212		142[Dut]	8000
+12129	V	29900-2/3	Europe Wide	R	Sky Radio (Netherlands)	Yes		21227		147[Dut]	8000
+12168	V	27500-3/4	Europe Wide	TV	Ócko	Yes	MPEG-4/SD	5201	54	53[Cze]	8033
+12168	V	27500-3/4	Europe Wide	TV	Ócko Star	Yes	MPEG-4/SD	5202	55	56[Cze]	8033
+12168	V	27500-3/4	Europe Wide	TV	TV Lux	Yes	MPEG-4/HD	5210	35	36[Slo]	8033
+12168	V	27500-3/4	Europe Wide	TV	Chamber TV	Yes	MPEG-4/HD	5225	51	50[Ltz]	8033
+12168	V	27500-3/4	Europe Wide	TV	RTL	Yes		5240	1141	1142[Ltz]	8033
+12168	V	27500-3/4	Europe Wide	TV	[Teleippica 1 test card]	No		5253	100	40	8033
+12168	V	27500-3/4	Europe Wide	TV	Unire TV	Yes	MPEG-4/HD	5254	38	39[Ita]	8033
+12168	V	27500-3/4	Europe Wide	R	RTL Radio Lëtzebuerg	Yes		5245		86[Ltz]	8033
+12168	V	27500-3/4	Europe Wide	R	Radio 100.7	Yes		5246		768[Ltz]	8033
+12168	V	27500-3/4	Europe Wide	R	EuroSpar Music	Yes		-		6729[Ger]	8033
+12188	H	29900-2/3	Europe Wide	TV	Net 5	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	21020	514	102[Dut]	8044
+12188	H	29900-2/3	Europe Wide	TV	Één	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	21025	515	103[Dut]	8044
+12188	H	29900-2/3	Europe Wide	TV	NPO 1	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	21029	519	99[Dut]	8044
+12188	H	29900-2/3	Europe Wide	TV	Canvas (19-14)	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	21030	516	104[Dut]	8044
+12188	H	29900-2/3	Europe Wide	TV	Ketnet Junior (14-19)	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	21030	516	104[Dut]	8044
+12188	H	29900-2/3	Europe Wide	TV	Disney XD Nederland (06-18)	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	21035	517	105[Dut]	8044
+12188	H	29900-2/3	Europe Wide	TV	Veronica (18-06)	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	21035	517	105[Dut]	8044
+12188	H	29900-2/3	Europe Wide	TV	NPO 3	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	21040	518	106[Dut]	8044
+12188	H	29900-2/3	Europe Wide	TV	24 Kitchen Nederland	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	21055	525	125[Dut]	8044
+12188	H	29900-2/3	Europe Wide	TV	Eurosport 2 België	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	21063	563	163[Dut]|263[Eng]	8044
+12188	H	29900-2/3	Europe Wide	TV	Rebel	Yes	MPEG-4/SD	21064	564	164[Cze]	8044
+12188	H	29900-2/3	Europe Wide	TV	Relax	Yes	MPEG-4/SD	21065	565	165[Cze]	8044
+12188	H	29900-2/3	Europe Wide	TV	Arena Sport 1 (Slovakia)	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	21067	567	167[Slo]	8044
+12188	H	29900-2/3	Europe Wide	TV	Discovery Showcase HD	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	21068	568	168[Cze]|268[Eng]	8044
+12188	H	29900-2/3	Europe Wide	TV	Omrop Fryslân TV	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	21069	569	269	8044
+12188	H	29900-2/3	Europe Wide	TV	TV Drenthe	Yes	MPEG-4/SD	21071	571	271[Dut]	8044
+12188	H	29900-2/3	Europe Wide	TV	TV Gelderland	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	21072	572	272[Dut]	8044
+12188	H	29900-2/3	Europe Wide	TV	TV Oost (Netherlands)	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	21074	574	274[Dut]	8044
+12188	H	29900-2/3	Europe Wide	TV	TV Noord	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	21093	593	293[Dut]	8044
+12188	H	29900-2/3	Europe Wide	TV	Omroep Brabant TV	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	21096	596	296[Dut]	8044
+12188	H	29900-2/3	Europe Wide	TV	Golf Channel Czechia	No	MPEG-4/SD|Cryptoworks|Irdeto|Viaccess	21098	598	198[Cze]|298[Qaa]	8044
+12188	H	29900-2/3	Europe Wide	TV	Discovery Showcase HD	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	21168	56.	268[Eng]	8044
+12188	H	29900-2/3	Europe Wide	R	BNR Nieuwsradio	No	Mediaguard|Nagravision|Viaccess	20177		137[Dut]	8044
+12188	H	29900-2/3	Europe Wide	R	100% NL	Yes		21075		135[Dut]	8044
+12188	H	29900-2/3	Europe Wide	R	NPO Radio 1	Yes		21080		140[Dut]	8044
+12188	H	29900-2/3	Europe Wide	R	NPO Radio 2	No	Mediaguard|Nagravision|Viaccess	21081		141[Dut]	8044
+12188	H	29900-2/3	Europe Wide	R	NPO 3FM	No	Mediaguard|Nagravision|Viaccess	21082		142[Dut]	8044
+12188	H	29900-2/3	Europe Wide	R	NPO Radio 4	No	Mediaguard|Nagravision|Viaccess	21083		143[Dut]	8044
+12188	H	29900-2/3	Europe Wide	R	NPO Radio 5	Yes		21084		144[Dut]	8044
+12188	H	29900-2/3	Europe Wide	R	Radio 10	Yes		21085		145[Dut]	8044
+12188	H	29900-2/3	Europe Wide	R	Radio Gelderland	Yes		21086		146[Dut]	8044
+12188	H	29900-2/3	Europe Wide	R	Radio Oost	Yes		21087		147[Dut]	8044
+12188	H	29900-2/3	Europe Wide	R	Radio 538	No	Mediaguard|Nagravision|Viaccess	21088		148[Dut]	8044
+12188	H	29900-2/3	Europe Wide	R	Slam!	Yes		21090		150[Dut]	8044
+12344	H	29900-2/3	Europe Wide	TV	CT 24	Yes	MPEG-4/HD	8003	1310	1320[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Radiozurnál	Yes		8051		6120[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Dvojka	Yes		8052		6220[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Vltava	Yes		8053		6320[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Plus	Yes		8054		6420[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	Radio Wave (Czechia)	Yes		8055		6520[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	Rádio Junior (Czechia)	Yes		8056		6620[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo D-dur	Yes		8057		6720[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Jazz	Yes		8058		6820[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Rádio DAB Praha	Yes		8059		6920[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Region	Yes		8060		7020[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	Radio Prague International	Yes		8061		7120[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Brno	Yes		8062		7205[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Ceské Budejovice	Yes		8063		7215[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Hradec Králové	Yes		8064		7225[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Karlovy Vary	Yes		8065		7235[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Liberec	Yes		8066		7245[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Vysocina	Yes		8067		7255[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Pardubice	Yes		8068		7265[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Plzen	Yes		8069		7275[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Olomouc	Yes		8070		7285[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Ostrava	Yes		8071		7295[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Sever	Yes		8072		7305[Cze]	8080
+12344	H	29900-2/3	Europe Wide	R	CRo Zlín	Yes		8073		7315[Cze]	8080
+12363	V	29500-3/4	Europe Wide	TV	TA 3 (Mon-Fri 06-01 & Sat-Sun 07-01)	No	MPEG-4/HD|Irdeto|Viaccess	4904	5014	5024[Slo]	8105
+12363	V	29500-3/4	Europe Wide	TV	Ring TV (Mon-Fri 01-06 & Sat-Sun 01-07)	No	MPEG-4/HD|Irdeto|Viaccess	4904	5014	5024[Slo]	8105
+12363	V	29500-3/4	Europe Wide	TV	RTVS 1	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	4905	5015	5025[Slo]|5035[Qaa]|5095[Slo]	8105
+12363	V	29500-3/4	Europe Wide	TV	RTVS 2	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	4906	5016	5026[Slo]|5036[Qaa]|5096[Slo]	8105
+12363	V	29500-3/4	Europe Wide	TV	TV Barrandov	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	4907	5017	5027[Cze]	8105
+12363	V	29500-3/4	Europe Wide	TV	Kino Barrandov	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	4908	5018	5028[Cze]	8105
+12363	V	29500-3/4	Europe Wide	TV	Barrandov Krimi	No	MPEG-4/HD|Cryptoworks|Irdeto|Viaccess	4909	5019	5029[Cze]	8105
+12363	V	29500-3/4	Europe Wide	TV	TV Noe	Yes	MPEG-4/HD	4910	5020	5030[Cze]	8105
+12363	V	29500-3/4	Europe Wide	TV	RTVS 3	No	MPEG-4/SD|Irdeto|Viaccess	4911	5540	5521[Slo]	8105
+12363	V	29500-3/4	Europe Wide	TV	TV Osem	Yes	MPEG-4/HD	4914	5514	5524[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Jazz	Yes		4919		5829[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Slovensko	Yes		4921		5881[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Regina Západ	Yes		4922		5882[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Regina Stred	Yes		4923		5883[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Regina Východ	Yes		4924		5884[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Devín	Yes		4925		5885[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio _FM	Yes		4926		5886[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Pyramída	Yes		4927		5887[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Litera	Yes		4928		5888[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Junior (Slovakia)	Yes		4929		.889[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Patria (06-18)	Yes		4930		5890[Hun]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio _FM (18-06)	Yes		4930		5890[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Patria (06-18)	Yes		4931		5901[Hun]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Devín (18-06)	Yes		4931		5901[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Slovakia International	Yes		4932		5902	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Jemné Západ	Yes		4933		5903[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Jemné Sever	Yes		4934		5904[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Jemné Východ	Yes		4935		5905[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Lumen	Yes		4936		5906[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Anténa Rock	Yes		4937		5907[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Zet	Yes		4939		5909[Cze]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Beat Cechy	Yes		4940		5920[Cze]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Beat Jizní Morava	Yes		4941		5921[Cze]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Beat Severní Morava	Yes		4942		5922[Cze]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Beat Jihozápad	Yes		4943		5923[Cze]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Beat Severovýchod	Yes		4944		5924[Cze]	8105
+12363	V	29500-3/4	Europe Wide	R	Country Radio	Yes		4945		5925[Cze]	8105
+12363	V	29500-3/4	Europe Wide	R	Country Radio Jihozápad	Yes		4946		5926[Cze]	8105
+12363	V	29500-3/4	Europe Wide	R	Country Radio Severovýchod	Yes		4947		5927[Cze]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Vlna Západ	Yes		5159		5519[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Vlna Stred	Yes		5160		5520[Slo]	8105
+12363	V	29500-3/4	Europe Wide	R	Rádio Vlna Východ	Yes		5161		5530[Slo]	8105
+12363	V	29500-3/4	Europe Wide	DATA	@ Otta	No		4918			8105
+12402	V	30000-3/4	Europe Wide	TV	Uci Doma TV 1	Yes	MPEG-4/SD	20400	4001	4002[Srp]	8150
+12402	V	30000-3/4	Europe Wide	TV	Uci Doma TV 2	Yes	MPEG-4/SD	20401	4011	4012[Srp]	8150
+12517	V	16872-3/4	Europe Ku	TV	Pro TV	No	MPEG-4/SD|Conax	7601	2011	2012[Rum]	9000
+12517	V	16872-3/4	Europe Ku	TV	Pro 2	No	MPEG-4/SD|Conax	7602	2021	2022[Rum]	9000
+12517	V	16872-3/4	Europe Ku	TV	Pro TV International	No	MPEG-4/SD|Conax	7603	2031	2032[Rum]	9000
+12517	V	16872-3/4	Europe Ku	TV	Pro Cinema	No	MPEG-4/SD|Conax	7604	2041	2042[Rum]	9000
+12517	V	16872-3/4	Europe Ku	TV	Pro X	No	MPEG-4/SD|Conax	7605	2051	2052[Rum]	9000
+12517	V	16872-3/4	Europe Ku	TV	[test card]	No	MPEG-4/SD|Conax	7606	2061	2062	9000
+12517	V	16872-3/4	Europe Ku	TV	Pro Gold	No	MPEG-4/SD|Conax	7607	2071	2072[Rum]	9000
+12639.7	V	940-1/2	Europe Ku	R	Deutschlandfunk	Yes		1000		101[Ger]	9029
+12639.7	V	940-1/2	Europe Ku	R	Deutschlandfunk Kultur	Yes		2000		201[Ger]	9029
+12642.5	V	477-1/2	Europe Ku	R	Antenne Bayern	Yes		1000		101[Ger]	9032
+12643.1	V	556-3/4	Europe Ku	R	Welle 1	Yes		100		44[Ger]	9033
+12643.1	V	556-3/4	Europe Ku	R	Welle 1 Oberland	Yes		200		41[Ger]	9033
+12643.1	V	556-3/4	Europe Ku	R	Radio Osttirol	Yes		300		42[Ger]	9033
+12643.1	V	556-3/4	Europe Ku	R	Radio POS Österreich	Yes		400		43[Ger]	9033
+12643.1	V	556-3/4	Europe Ku	R	Welle 1 Ausserfern	Yes		400		43[Ger]	9033
+12647.1	V	285-7/8	Europe Ku	R	Antenne Düsseldorf	Yes		1000		101[Ger]	9040

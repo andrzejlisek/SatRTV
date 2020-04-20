@@ -1,6 +1,14 @@
-1KR
-1L
-1L Ka-band
-1M Europe
-1M Widebeam
-1N Europe
+10-02 East hemi
+10-02 Global
+10-02 NE Zone
+10-02 SE zone
+10-02 Spot 1
+10-02 Spot 2
+10-02 Spot 3/3X
+Thor-5 T1
+Thor-5 T2
+Thor-6 K1 Nordic
+Thor-6 K2
+Thor-7
+Thor-7 Ka
+Thor-7 Ka Spot-19

@@ -1,661 +1,833 @@
-Freq	Pol	Beam	SID	Type	Name	Lang	FTA
-10719	V	HB9 Europe	4409	TV	TVP Info HD	[pol]	Yes
-10727	H	HB8 Europe	4602	TV	NASA 4K	[aac][eng]	Yes
-10758	V	HB9 Europe	17023	TV	Stars.TV	[pol]	Yes
-10758	V	HB9 Europe	17037	TV	4 Fun TV	[pol][qaa]	Yes
-10758	V	HB9 Europe	17038	TV	4FUN Gold Hits	[pol][qaa]	Yes
-10758	V	HB9 Europe	17039	TV	4FUN Dance	[pol][qaa]	Yes
-10758	V	HB9 Europe	17051	TV	ESKA TV Extra	[pol]	Yes
-10775	H	HB9 Europe	1506	TV	IRINN - Iranian News Network	[far]	Yes
-10775	H	HB9 Europe	1508	TV	IRIB Quran	[far]	Yes
-10775	H	HB9 Europe	1514	TV	iFilm		Yes
-10775	H	HB9 Europe	1520	TV	Irib Nasim	[far]	Yes
-10775	H	HB9 Europe	1521	TV	IRIB TV 1	[far]	Yes
-10775	H	HB9 Europe	1522	TV	Jaam-e-Jaam TV 2	[aac][far]	Yes
-10775	H	HB9 Europe	1523	TV	IRIB TV 3	[far]	Yes
-10775	H	HB9 Europe	1526	TV	Sahar TV Francophone	[fra]	Yes
-10775	H	HB9 Europe	1527	TV	Sahar TV Azari	[far]	Yes
-10775	H	HB9 Europe	1528	TV	Sahar Universal Network 2	[urd]	Yes
-10775	H	HB9 Europe	1529	TV	Sahar TV Kurdish	[far]	Yes
-10775	H	HB9 Europe	1530	TV	Al Kawthar	[far]	Yes
-10775	H	HB9 Europe	1531	TV	Press TV HD		Yes
-10775	H	HB9 Europe	1532	TV	Hispan TV	[far]	Yes
-10775	H	HB9 Europe	1533	TV	iFilm English	[eng][far]	Yes
-10775	H	HB9 Europe	1551	R	RADIO IRAN	[far]	Yes
-10775	H	HB9 Europe	1552	R	RADIO PAYAM	[far]	Yes
-10775	H	HB9 Europe	1553	R	RADIO JAVAN	[far]	Yes
-10775	H	HB9 Europe	1554	R	RADIO MAAREF	[far]	Yes
-10775	H	HB9 Europe	1555	R	RADIO QURAN	[far]	Yes
-10775	H	HB9 Europe	1556	R	RADIO FARHANG	[far]	Yes
-10775	H	HB9 Europe	1557	R	RADIO SALAMAT	[far]	Yes
-10775	H	HB9 Europe	1558	R	RADIO VARZESH	[far]	Yes
-10775	H	HB9 Europe	1559	R	RADIO EGHTESAD	[far]	Yes
-10775	H	HB9 Europe	1560	R	RADIO TEHRAN	[far]	Yes
-10775	H	HB9 Europe	1561	R	RADIO AVA	[far]	Yes
-10775	H	HB9 Europe	1561	R	RADIO AVA	[far]	Yes
-10775	H	HB9 Europe	1562	R	RADIO NAMAYESH	[far]	Yes
-10775	H	HB9 Europe	1563	R	RADIO SABA	[far]	Yes
-10775	H	HB9 Europe	1564	R	IRIB 07 WORLD SERVICE	[far]	Yes
-10775	H	HB9 Europe	1566	R	ARABIC RADIO WORLD SERVICE	[ara]	Yes
-10775	H	HB9 Europe	1566	R	ARABIC RADIO WORLD SERVICE	[ara]	Yes
-10775	H	HB9 Europe	1569	R	RADIO TALAVAT	[far]	Yes
-10775	H	HB9 Europe	1570	R	RADIO GOFTOGOO	[far]	Yes
-10775	H	HB9 Europe	1581	R	IRIB 01 WORLD SERVICE		Yes
-10775	H	HB9 Europe	1582	R	IRIB 02 WORLD SERVICE		Yes
-10775	H	HB9 Europe	1584	R	IRIB 04 WORLD SERVICE		Yes
-10775	H	HB9 Europe	1585	R	IRIB 05 WORLD SERVICE	[far]	Yes
-10775	H	HB9 Europe	1585	R	IRIB 05 WORLD SERVICE		Yes
-10775	H	HB9 Europe	1586	R	IRIB 06 WORLD SERVICE		Yes
-10796	V	HB9 Europe	15704	TV	TVS - TV Silesia	[pol]	Yes
-10796	V	HB9 Europe	15790	R		[pol]	Yes
-10815	H	Europe	17308	TV	VOTV	[ukr]	Yes
-10815	H	Europe	17310	R	VRT Radio1	[eng]	Yes
-10815	H	Europe	17311	TV	BVN - Beste van Vlaanderen en Nederland	[ned]	Yes
-10815	H	Europe	17312	TV	CNL Russia	[rus]	Yes
-10815	H	Europe	17315	TV	Fashion One	[eng]	Yes
-10815	H	Europe	17317	TV	TBN Russia	[rus]	Yes
-10815	H	Europe	17320	TV	Thai TV Global Network	[tha]	Yes
-10815	H	Europe	17337	TV	TVK		Yes
-10815	H	Europe	17344	R	The Overcomer	[eng]	Yes
-10815	H	Europe	17373	TV	The Word Network	[eng]	Yes
-10834	V	Europe	3509	TV	Red Carpet TV	[pol]	Yes
-10873	V	Europe	1	TV	Al Maghribia	[ara][fra]	Yes
-10873	V	Europe	2	TV	Al Aoula Laayoune	[ara][fra]	Yes
-10873	V	Europe	3	TV	Al Aoula Inter HD	[ara]	Yes
-10873	V	Europe	4	TV	Athaqafia HD	[ara]	Yes
-10873	V	Europe	5	TV	Al Aoula Inter	[ara][fra]	Yes
-10873	V	Europe	6	TV	Assadissa	[ara]	Yes
-10873	V	Europe	8	TV	Medi 1 TV	[ara][fra]	Yes
-10873	V	Europe	10	TV	Arryadia HD	[ara]	Yes
-10873	V	Europe	11	R	Radio Nationale		Yes
-10873	V	Europe	12	R	Dakhla - Radio sud	[ara]	Yes
-10873	V	Europe	14	R	Radio Inter		Yes
-10873	V	Europe	15	R	Radio Amazigh	[ber]	Yes
-10873	V	Europe	16	R	Radio Med VI		Yes
-10873	V	Europe	50	R	Agadir	[ara]	Yes
-10873	V	Europe	53	R	Oujda	[ara]	Yes
-10873	V	Europe	54	R	Casablanca	[ara]	Yes
-10873	V	Europe	60	R	Houceima	[ara]	Yes
-10873	V	Europe	70	R	Tetouan	[ara]	Yes
-10873	V	Europe	80	R	Meknes	[ara]	Yes
-10873	V	Europe	90	R	Laâyoune	[ara]	Yes
-10873	V	Europe	91	R	Dakhla	[ara]	Yes
-10873	V	Europe	129	R	Medi1 Radio	[ara][fra]	Yes
-10873	V	Europe	177	R	Tanger	[ara]	Yes
-10873	V	Europe	178	R	Fes	[ara]	Yes
-10873	V	Europe	179	R	Marrakech	[ara]	Yes
-10873	V	Europe	241	TV	Tamazight HD	[tac][tam][tar]	Yes
-10930	H	HB9 Europe	41	TV	Kazakh TV HD	[eng][kaz][kir][rus][uzb]	Yes
-10930	H	HB9 Europe	1731	TV	HSE 24 Italia	[ita]	Yes
-10930	H	HB9 Europe	16924	TV	UA TV	[ukr]	Yes
-10949	V	HB8 Europe	7402	R	Bahai Radio		Yes
-10949	V	HB8 Europe	7403	R	WRN Russkij		Yes
-10949	V	HB8 Europe	7404	R	WRN English Europe		Yes
-10949	V	HB8 Europe	7406	R	Radio Jahani		Yes
-10949	V	HB8 Europe	7407	R	EDM Events	[eng]	Yes
-10949	V	HB8 Europe	7408	R	WRN Sawt Al Alam		Yes
-10949	V	HB8 Europe	7456	TV	Al Hiwar TV	[ara]	Yes
-10949	V	HB8 Europe	7462	TV	EWTN Europe	[eng]	Yes
-10949	V	HB8 Europe	7463	TV	CNBC Europe	[eng]	Yes
-10949	V	HB8 Europe	7470	TV	Sat 7 Pars	[far]	Yes
-10992	V	Europe	8511	TV	Rai 1	[ita][vo]	Yes
-10992	V	Europe	8512	TV	Rai 2	[eng][ita][vo]	Yes
-10992	V	Europe	8513	TV	Rai 3	[ita][vo]	Yes
-10992	V	Europe	8515	R	Rai Radio Tutta Italiana	[ita]	Yes
-10992	V	Europe	8516	TV	Rai News 24	[ita]	Yes
-10992	V	Europe	8554	R	Radio OM unica	[ita]	Yes
-10992	V	Europe	8555	R	Rai Radio2 mono	[ita]	Yes
-10992	V	Europe	8556	R	Rai Radio3 mono	[ita]	Yes
-10992	V	Europe	8557	R	Rai Radio1 Sport	[ita]	Yes
-11034	V	Europe	1701	TV	Algérie 5	[ara]	Yes
-11034	V	Europe	1702	TV	Algérie 4	[ber]	Yes
-11034	V	Europe	1703	TV	TNT Comedy	[rus]	Yes
-11034	V	Europe	1704	TV	112 Ukraine HD	[ukr]	Yes
-11034	V	Europe	1705	TV	2M Monde	[fra]	Yes
-11034	V	Europe	1706	TV	CGTN	[eng]	Yes
-11034	V	Europe	1707	TV	TV Rus	[rus]	Yes
-11034	V	Europe	1707	TV	TV Rus	[rus]	Yes
-11034	V	Europe	1708	TV	RTR Planeta	[rus]	Yes
-11034	V	Europe	1709	TV	BestMarket TV	[rus]	Yes
-11034	V	Europe	1710	TV	Rossiya 24	[rus]	Yes
-11034	V	Europe	1711	R	Chaine 2		Yes
-11034	V	Europe	1713	TV	NTV Mir	[rus]	Yes
-11034	V	Europe	1717	TV	Ganj e Hozour TV	[far]	Yes
-11034	V	Europe	1718	TV	TV 8 Russia	[rus]	Yes
-11034	V	Europe	1731	R	Chaine 3	[ara]	Yes
-11034	V	Europe	1751	R	Chaine 1	[ara]	Yes
-11034	V	Europe	1755	R	Radio 2M	[ara]	Yes
-11054	H	Europe	8003	TV	Arti TV	[tur]	Yes
-11054	H	Europe	8004	TV	MC EU	[tur]	Yes
-11054	H	Europe	8011	TV	MB Sat - Test 1	[ger]	Yes
-11054	H	Europe	8011	TV	MB SAT - Test 1	[ger]	Yes
-11054	H	Europe	8025	TV	Jin TV	[kur]	Yes
-11054	H	Europe	8027	TV	Can TV	[tur]	Yes
-11054	H	Europe	8031	TV	Iran Aryaee	[far]	Yes
-11054	H	Europe	8033	TV	MB Sat - Test 2	[ger]	Yes
-11054	H	Europe	8034	TV	MB Sat - Test 3	[ger]	Yes
-11054	H	Europe	8035	TV	MB Sat - Test 4	[ger]	Yes
-11054	H	Europe	8035	TV	MB SAT - Test 4	[ger]	Yes
-11054	H	Europe	8036	TV	MB Sat - Test 5	[ger]	Yes
-11054	H	Europe	8037	TV	MB Sat - Test 6	[ger]	Yes
-11075	V	Europe	3710	TV	Aristo.TV	[ger]	Yes
-11075	V	Europe	3711	TV	Anixe TV	[ger]	Yes
-11075	V	Europe	3712	TV	Anixe HD	[ger]	Yes
-11075	V	Europe	3715	TV	TVP Polonia	[pol]	Yes
-11137	H	Europe	7302	TV	Bloomberg Europe	[eng]	Yes
-11137	H	Europe	7305	TV	Al Jazeera English	[eng]	Yes
-11137	H	Europe	7306	TV	Al Jazeera English HD	[eng]	Yes
-11137	H	Europe	7322	TV	TV5 Monde Europe	[fra]	Yes
-11137	H	Europe	7333	TV	Bartar TV	[far]	Yes
-11137	H	Europe	7355	TV	Manoto 1	[far]	Yes
-11179	H	Europe	4904	TV	Al Karma	[ara]	Yes
-11179	H	Europe	4908	TV	Fashion TV	[eng]	Yes
-11179	H	Europe	4910	TV	Juwelo TV Italia	[ita]	Yes
-11179	H	Europe	4911	TV	Juwelo TV Italia	[ita]	Yes
-11179	H	Europe	4923	TV	Coptic TV	[ara]	Yes
-11179	H	Europe	4937	TV	Marjaeyat		Yes
-11179	H	Europe	4955	TV	Radio Radio TV	[eng][ita]	Yes
-11179	H	Europe	4957	R	Radio Margherita	[ita]	Yes
-11179	H	Europe	4960	TV	Canale Italia 2	[ita]	Yes
-11179	H	Europe	4970	TV	TeleCampione	[ita]	Yes
-11179	H	Europe	4974	TV	Regal TV	[ita]	Yes
-11179	H	Europe	4993	TV	ART Invest	[ita]	Yes
-11179	H	Europe	4994	TV	Telecupole	[ita]	Yes
-11179	H	Europe	4996	TV	All Inn Channel	[ita]	Yes
-11200	V	Europe	4703	TV	Mohabat TV	[far]	Yes
-11200	V	Europe	4705	TV	.BLU	[ita]	Yes
-11200	V	Europe	4706	TV	MTA 3 Al Arabiyah	[ara]	Yes
-11200	V	Europe	4709	TV	KICC TV		Yes
-11200	V	Europe	4727	R	CRFR-NEW LIFE		Yes
-11200	V	Europe	4728	R	Bahai Radio		Yes
-11200	V	Europe	4732	R	Radio Mojdeh	[far]	Yes
-11200	V	Europe	4763	TV	Gunaz TV	[aze]	Yes
-11200	V	Europe	4764	R	VOISFARSI	[far]	Yes
-11200	V	Europe	4774	TV	!mwal3a 3lik	[ara]	Yes
-11200	V	Europe	4775	TV	Nar Elhob	[ara]	Yes
-11200	V	Europe	4776	TV	anta 7iate		Yes
-11200	V	Europe	4777	TV	lo3b whob		Yes
-11200	V	Europe	4778	TV	Arab Fun 2		Yes
-11200	V	Europe	4784	TV	Al Waad Channel	[ara]	Yes
-11200	V	Europe	4785	R	RVS Italy		Yes
-11219	H	HB9 Europe	1220	TV	Ukraine 24	[aac][ukr]	Yes
-11240	V	HB9 Europe	13930	TV	Novy Mir	[rus]	Yes
-11240	V	HB9 Europe	13931	TV	Russia Today		Yes
-11296	H	HB9 Europe	1550	R	Yemen Radio	[ara]	Yes
-11296	H	HB9 Europe	2201	TV	Freedom TV		Yes
-11296	H	HB9 Europe	2202	TV	CBC Azerbaycan	[aze]	Yes
-11296	H	HB9 Europe	2204	TV	Yemen TV		Yes
-11296	H	HB9 Europe	2207	TV	Kurdsat	[kur]	Yes
-11296	H	HB9 Europe	2208	TV	Nour TV		Yes
-11296	H	HB9 Europe	2209	TV	Ictimai TV	[eng]	Yes
-11296	H	HB9 Europe	2210	TV	STV Xezer	[tur]	Yes
-11296	H	HB9 Europe	2211	TV	Lalish TV		Yes
-11296	H	HB9 Europe	2212	TV	Kazakh TV	[eng]	Yes
-11296	H	HB9 Europe	2213	TV	Az TV 1	[aze]	Yes
-11296	H	HB9 Europe	2214	TV	Medya Haber	[eng]	Yes
-11296	H	HB9 Europe	2227	R	WELAT		Yes
-11316	V	HB9 Europe	17632	TV	Rusiya Al-Yaum	[ara]	Yes
-11316	V	HB9 Europe	17633	TV	Kentron TV	[arm]	Yes
-11316	V	HB9 Europe	17634	TV	Kalemeh TV	[eng]	Yes
-11316	V	HB9 Europe	17635	TV	Payam e Afghan		Yes
-11316	V	HB9 Europe	17636	TV	Kalsan TV	[eng]	Yes
-11316	V	HB9 Europe	17637	TV	HCTV - Horn Cable TV	[som]	Yes
-11316	V	HB9 Europe	17638	TV	Somali Cable		Yes
-11316	V	HB9 Europe	17639	TV	AssyriaSat (BET Nahrain)	[ara]	Yes
-11316	V	HB9 Europe	17640	TV	Hadi TV 3		Yes
-11334	H	HB9 Europe	4	TV	Armenia 1 TV	[arm]	Yes
-11334	H	HB9 Europe	5	R	Public Radio of Armenia	[arm]	Yes
-11334	H	HB9 Europe	6	TV	Armenia TV	[arm]	Yes
-11334	H	HB9 Europe	9	TV	SonLife Broadcasting Network	[eng][esp]	Yes
-11334	H	HB9 Europe	10	TV	RTP International	[por]	Yes
-11334	H	HB9 Europe	15	R	RDPI Radio	[por]	Yes
-11334	H	HB9 Europe	16	R	RADIO A1	[por]	Yes
-11334	H	HB9 Europe	17	TV	Hot Bird 4k Test	[aac][eng]	Yes
-11373	H	HB9 Europe	501	TV	Iran International HD	[far]	Yes
-11373	H	HB9 Europe	504	TV	Nasa TV		Yes
-11373	H	HB9 Europe	506	TV	Rudaw HD	[eng]	Yes
-11373	H	HB9 Europe	507	TV	Waar TV HD	[ara]	Yes
-11373	H	HB9 Europe	508	TV	Kurdistan 24 HD	[sor]	Yes
-11373	H	HB9 Europe	510	TV	Parole di Vita	[ita]	Yes
-11373	H	HB9 Europe	530	TV	World Fashion Channel		Yes
-11373	H	HB9 Europe	532	TV	Tesory Channel	[ita]	Yes
-11373	H	HB9 Europe	533	TV	NHK World HD	[eng]	Yes
-11373	H	HB9 Europe	534	TV	Iraqia News HD	[ara]	Yes
-11373	H	HB9 Europe	535	TV	ETV News	[eng]	Yes
-11393	V	HB9 Europe	4316	TV	Mango 24	[pol]	Yes
-11393	V	HB9 Europe	4317	TV	Nuta TV	[pol]	Yes
-11393	V	HB9 Europe	4324	TV	NTL	[pol]	Yes
-11393	V	HB9 Europe	4325	TV	Top Kids	[pol]	Yes
-11393	V	HB9 Europe	4327	TV	Power TV (Poland)	[pol]	Yes
-11393	V	HB9 Europe	4328	TV	TO!TV	[pol]	Yes
-11393	V	HB9 Europe	4348	TV	MANGO 24_	[pol]	Yes
-11411	H	HB9 Europe	14280	R			Yes
-11470	V	HB8 Europe	1	R	R Radio	[eng]	Yes
-11470	V	HB8 Europe	3	TV	Wesal Al Haq	[ara]	Yes
-11470	V	HB8 Europe	7	TV	ES TV		Yes
-11470	V	HB8 Europe	13	TV	Telefeshinka Caalamiga	[som]	Yes
-11470	V	HB8 Europe	13	TV	Universal TV	[som]	Yes
-11470	V	HB8 Europe	14	TV	Azadi Television	[far]	Yes
-11470	V	HB8 Europe	32	TV	SNTV	[som]	Yes
-11488	H	HB9 Europe	5136	R	Radio ZET	[pol]	Yes
-11488	H	HB9 Europe	5137	R	Meloradio	[pol]	Yes
-11488	H	HB9 Europe	5138	R	Chillizet	[pol]	Yes
-11488	H	HB9 Europe	5139	R	Antyradio	[pol]	Yes
-11488	H	HB9 Europe	5144	R	NC+ PR	[pr1][pr2][pr3][r24][zag]	Yes
-11488	H	HB9 Europe	5145	R	JASNA GORA	[pol]	Yes
-11488	H	HB9 Europe	5149	TV		[eng][pol]	Yes
-11488	H	HB9 Europe	5162	R	TOK FM	[pol]	Yes
-11488	H	HB9 Europe	5198	R			Yes
-11526	H	HB9 Europe	14021	R	SRF 1	[ger]	Yes
-11526	H	HB9 Europe	14022	R	SRF 2 Kultur	[ger]	Yes
-11526	H	HB9 Europe	14023	R	SRF 3	[ger]	Yes
-11526	H	HB9 Europe	14024	R	SRF Virus	[ger]	Yes
-11526	H	HB9 Europe	14025	R	SRF Musikwelle	[ger]	Yes
-11526	H	HB9 Europe	14026	R	Radio-Rumantsch	[roh]	Yes
-11526	H	HB9 Europe	14027	R	RTS-1ere	[fra]	Yes
-11526	H	HB9 Europe	14028	R	Espace 2	[fra]	Yes
-11526	H	HB9 Europe	14029	R	Couleur3	[fra]	Yes
-11526	H	HB9 Europe	14030	R	Option Musique	[fra]	Yes
-11526	H	HB9 Europe	14031	R	Rete Uno	[ita]	Yes
-11526	H	HB9 Europe	14032	R	Rete Due	[ita]	Yes
-11526	H	HB9 Europe	14033	R	Rete Tre	[ita]	Yes
-11526	H	HB9 Europe	14034	R	Swiss Classic	[ger]	Yes
-11526	H	HB9 Europe	14035	R	Swiss Pop	[ger]	Yes
-11526	H	HB9 Europe	14036	R	Swiss Jazz	[ger]	Yes
-11526	H	HB9 Europe	14037	R	SRF 4 News	[ger]	Yes
-11526	H	HB9 Europe	14039	R	Swiss Classique	[fra]	Yes
-11526	H	HB9 Europe	14040	R	SRF 1 AG SO	[ger]	Yes
-11526	H	HB9 Europe	14041	R	SRF 1 BS	[ger]	Yes
-11526	H	HB9 Europe	14042	R	SRF 1 BE FR VS	[ger]	Yes
-11526	H	HB9 Europe	14043	R	SRF 1 LU	[ger]	Yes
-11526	H	HB9 Europe	14044	R	SRF 1 SG	[ger]	Yes
-11526	H	HB9 Europe	14045	R	SRF 1 ZH SH	[ger]	Yes
-11526	H	HB9 Europe	14046	R	SRF 1 GR	[ger]	Yes
-11526	H	HB9 Europe	14047	R	Swiss Classica	[ita]	Yes
-11526	H	HB9 Europe	14054	TV	Test14054	[ger]	Yes
-11541	V	HB8 Europe	3623	TV	Simaye Azadi HD	[far]	Yes
-11541	V	HB8 Europe	3628	TV	TG Norba 24	[ita]	Yes
-11541	V	HB8 Europe	3636	R	R-BuonConsiglio	[ita]	Yes
-11565	H	HB8 Europe	798	TV	Qatar TV HD	[ara]	Yes
-11565	H	HB8 Europe	799	TV	TRT Arabi HD	[ara]	Yes
-11565	H	HB8 Europe	800	TV	Belarus 24 HD	[rus]	Yes
-11565	H	HB8 Europe	801	TV	Euronews HD	[eng]	Yes
-11565	H	HB8 Europe	802	TV	Kuwait TV	[ara]	Yes
-11565	H	HB8 Europe	803	TV	TRT World HD	[eng]	Yes
-11565	H	HB8 Europe	804	R	Kuwait Radio1	[ara]	Yes
-11565	H	HB8 Europe	805	R	Kuwait HolyQuran	[ara]	Yes
-11565	H	HB8 Europe	806	TV	Bahrain TV	[ara]	Yes
-11565	H	HB8 Europe	807	TV	France 24 HD (en Francais)	[fra]	Yes
-11565	H	HB8 Europe	808	TV	France 24 HD (in English)	[eng]	Yes
-11565	H	HB8 Europe	810	R	Radio Belarus International	[rus]	Yes
-11585	V	Europe	871	TV	CCTV 4	[chi]	Yes
-11585	V	Europe	872	TV	CGTN	[eng]	Yes
-11585	V	Europe	873	TV	CGTN Documentary	[eng]	Yes
-11585	V	Europe	874	TV	CGTN Espaňol HD	[eng]	Yes
-11585	V	Europe	875	TV	CGTN Français HD	[fra]	Yes
-11623	V	Europe	10501	R	Radio Congo	[fra]	Yes
-11623	V	Europe	10701	TV	TV Congo	[fra]	Yes
-11623	V	Europe	10715	TV	Arirang TV	[eng]	Yes
-11623	V	Europe	10723	TV	Soyuz TV	[rus]	Yes
-11623	V	Europe	10726	TV	ERT World	[gre]	Yes
-11623	V	Europe	10727	R	PROTO	[gre]	Yes
-11623	V	Europe	10728	R	DEUTERO	[gre]	Yes
-11623	V	Europe	10729	R	TRITO	[gre]	Yes
-11623	V	Europe	10730	R	ERA SPORT	[gre]	Yes
-11623	V	Europe	10731	R	VOICE OF GREECE	[gre]	Yes
-11623	V	Europe	10763	R	YAADOUT2000		Yes
-11623	V	Europe	10766	R	FRANCE MAGHREB 2	[fra]	Yes
-11623	V	Europe	10767	R	RADIO ORIENT		Yes
-11642	H	Europe	1307	TV	RTL 102.5 TV HD	[ita]	Yes
-11642	H	Europe	1308	TV	Radio Freccia HD	[ita]	Yes
-11642	H	Europe	1309	TV	i24News HD Français	[fra]	Yes
-11642	H	Europe	1310	TV	i24News HD English	[eng]	Yes
-11642	H	Europe	1311	TV	Radionorba TV	[ita]	Yes
-11642	H	Europe	1313	TV	KBS World HD	[eng]	Yes
-11642	H	Europe	1314	TV	HRT International	[cro]	Yes
-11642	H	Europe	1316	TV	Eutelsat Promo	[eng]	Yes
-11642	H	Europe	1317	TV	Kurdistan TV	[kur]	Yes
-11642	H	Europe	1318	TV	Daystar HD	[eng]	Yes
-11642	H	Europe	1319	R	VOICE OF CRO	[cro]	Yes
-11642	H	Europe	1320	TV	Bethel HD	[eng]	Yes
-11642	H	Europe	1321	TV	Zeta TV HD	[ita]	Yes
-11642	H	Europe	1323	TV	RTL 102.5 Radio Doc	[ita]	Yes
-11642	H	Europe	1328	TV	People TV	[ita]	Yes
-11662	V	Europe	16920	TV	Emilia Romagna 24	[ita]	Yes
-11662	V	Europe	16922	TV	TRM Network	[ita]	Yes
-11662	V	Europe	16925	TV	Canale Italia	[eng]	Yes
-11662	V	Europe	16937	TV	La 8	[ita]	Yes
-11662	V	Europe	16938	TV	AuroraArte	[ita]	Yes
-11662	V	Europe	16939	TV	Life 120 Channel	[ita]	Yes
-11662	V	Europe	16952	TV	Tele Padre Pio	[ita]	Yes
-11662	V	Europe	16955	TV	Tele 5 Polska	[pol]	Yes
-11662	V	Europe	16956	TV	Polonia 1	[pol]	Yes
-11662	V	Europe	16961	TV	TV Romania International	[rom]	Yes
-11662	V	Europe	16962	TV	Radio Italia TV	[ita]	Yes
-11662	V	Europe	16963	TV	Unire Sat HD		Yes
-11662	V	Europe	16964	TV	Arte Atelier	[ita]	Yes
-11662	V	Europe	16965	TV	Antichità Chiossone	[eng]	Yes
-11662	V	Europe	16966	TV	Radio Italia Trend TV  HD	[ita]	Yes
-11662	V	Europe	16967	TV	Suryoyo Sat	[eng]	Yes
-11662	V	Europe	16969	TV	Venus TV Italy	[ita]	Yes
-11662	V	Europe	16970	TV	Music Life	[ita]	Yes
-11662	V	Europe	16971	TV	Lazio Channel	[ita]	Yes
-11662	V	Europe	16973	TV	Fuego	[ita]	Yes
-11662	V	Europe	16976	TV	Radio Kiss Kiss TV	[ita]	Yes
-11662	V	Europe	16977	TV	RDS Social TV	[ita]	Yes
-11662	V	Europe	16979	TV	QVC Italia HD	[ita]	Yes
-11662	V	Europe	16980	TV	BFC	[ita]	Yes
-11662	V	Europe	16981	R	Radio Number One	[ita]	Yes
-11662	V	Europe	16982	R	Test Radio Sportiva	[ita]	Yes
-11662	V	Europe	16983	TV	CIAO	[ita]	Yes
-11662	V	Europe	16986	TV	Napoli Mia	[eng]	Yes
-11662	V	Europe	16988	TV	TVA Vicenza	[ita]	Yes
-11662	V	Europe	16992	TV	Videolina		Yes
-11662	V	Europe	16993	TV	TeleItalia	[eng]	Yes
-11662	V	Europe	16996	TV	Eursat	[ita]	Yes
-11662	V	Europe	16997	TV	La 9	[ita]	Yes
-11662	V	Europe	16998	TV	Digiquest Promo	[eng]	Yes
-11681	H	Europe	307	TV	Arte HD	[fra][ger][qaa][qad]	Yes
-11727	V	HB8 Europe	13101	TV	DW English HD	[eng]	Yes
-11727	V	HB8 Europe	13102	TV	BBC Arabic HD	[ara]	Yes
-11727	V	HB8 Europe	13103	TV	Podeba TV	[rus]	Yes
-11727	V	HB8 Europe	13121	R	DW08	[ger]	Yes
-11727	V	HB8 Europe	13122	R	DW09	[ger]	Yes
-11727	V	HB8 Europe	13123	R	DW-FM01	[ger]	Yes
-11727	V	HB8 Europe	13124	R	DW-FM02	[ger]	Yes
-11727	V	HB8 Europe	13125	R	DW-FEED1	[ger]	Yes
-11727	V	HB8 Europe	13126	R	BBC Horn of Africa		Yes
-11727	V	HB8 Europe	13127	R	BBC Arabic Radio	[ara]	Yes
-11727	V	HB8 Europe	13128	R	BBC English (Europe)	[eng]	Yes
-11727	V	HB8 Europe	13129	R	BBC English Mid_East	[eng]	Yes
-11727	V	HB8 Europe	13198	TV	Test GC 3		Yes
-11727	V	HB8 Europe	13199	TV	Test GC 4		Yes
-11747	H	HB9 Europe	9504	TV	Sharjah HD	[ara]	Yes
-11747	H	HB9 Europe	9507	TV	Dubai Sports 1 HD	[ara][eng]	Yes
-11747	H	HB9 Europe	9509	TV	Zad TV	[ara]	Yes
-11747	H	HB9 Europe	9510	TV	Al Sharqiya HD	[ara]	Yes
-11747	H	HB9 Europe	9513	TV	Al Arabiya HD	[ara]	Yes
-11747	H	HB9 Europe	9516	TV	Sky News Arabia	[ara]	Yes
-11747	H	HB9 Europe	9518	TV	Orient News	[eng]	Yes
-11747	H	HB9 Europe	9521	R	AL SHARJAH RADIO	[ara]	Yes
-11804	V	HB9 Europe	3302	TV	Camera dei Deputati	[ita]	Yes
-11804	V	HB9 Europe	3303	TV	Rai Sport	[ita]	Yes
-11804	V	HB9 Europe	3304	TV	Rai Storia	[ita]	Yes
-11804	V	HB9 Europe	3305	TV	Rai Gulp	[ita]	Yes
-11804	V	HB9 Europe	3307	TV	Rai Scuola	[ita]	Yes
-11804	V	HB9 Europe	3308	TV	Rai Nettuno Sat Uno	[ita]	Yes
-11804	V	HB9 Europe	3311	R	Rai Radio 1	[ita]	Yes
-11804	V	HB9 Europe	3312	R	Rai Radio 2	[ita]	Yes
-11804	V	HB9 Europe	3313	R	Rai Radio 3	[ita]	Yes
-11804	V	HB9 Europe	3314	TV	Senato italiano	[ita][vo]	Yes
-11804	V	HB9 Europe	3315	R	Rai Radio3 Classica	[ita]	Yes
-11804	V	HB9 Europe	3317	R	Rai GR Parlamento	[ita]	Yes
-11804	V	HB9 Europe	3318	R	Rai Isoradio	[ita]	Yes
-11804	V	HB9 Europe	3319	R	Rai Radio Techete'	[ita]	Yes
-11804	V	HB9 Europe	3320	R	Rai Radio Live	[ita]	Yes
-11804	V	HB9 Europe	3321	R	Rai Radio Kids	[ita]	Yes
-11804	V	HB9 Europe	3322	R	Rai Radio2 indie	[ita]	Yes
-11823	H	HB8 Europe	310	R	Greek Church	[gre]	Yes
-11823	H	HB8 Europe	313	R	RR3	[eng]	Yes
-11881	V	HB8 Europe	3696	R	IEPG Data		Yes
-11919	V	HB9 Europe	8	TV	TgCom24	[ita]	Yes
-11919	V	HB9 Europe	101	R	Radio R101	[ita]	Yes
-11919	V	HB9 Europe	102	R	Radio Monte Carlo	[ita]	Yes
-11919	V	HB9 Europe	103	R	RMC2	[ita]	Yes
-11919	V	HB9 Europe	104	R	Virgin radio	[ita]	Yes
-11919	V	HB9 Europe	105	R	Radio 105	[ita]	Yes
-11919	V	HB9 Europe	106	R	Radio Orbital	[por]	Yes
-12034	V	HB8 Europe	11131	R	InBlu		Yes
-12034	V	HB8 Europe	11174	R	INBLU2000		Yes
-12034	V	HB8 Europe	11180	TV	TV 2000	[ita]	Yes
-12034	V	HB8 Europe	11181	R	Radio Vaticana Europa		Yes
-12111	V	HB9 Europe	705	TV	Al Jazeera Documentary	[ara]	Yes
-12111	V	HB9 Europe	706	TV	Al Jazeera Mubasher	[ara]	Yes
-12111	V	HB9 Europe	708	TV	Al Jazeera Satellite Channel	[ara]	Yes
-12111	V	HB9 Europe	723	TV	S Neu Jerusalem	[ger]	Yes
-12111	V	HB9 Europe	724	TV	Neu Jerusalem 2	[ger]	Yes
-12111	V	HB9 Europe	727	TV	El Sharq		Yes
-12111	V	HB9 Europe	732	R	Radio Maria		Yes
-12111	V	HB9 Europe	733	R	RIK 3	[gre]	Yes
-12111	V	HB9 Europe	735	TV	Al Mayadeen	[ara]	Yes
-12111	V	HB9 Europe	736	R	RDS		Yes
-12111	V	HB9 Europe	737	R	DimSuono Roma	[ita]	Yes
-12111	V	HB9 Europe	738	R	ANNI 60		Yes
-12111	V	HB9 Europe	740	R	R. Italia S.m.i.		Yes
-12111	V	HB9 Europe	742	R	Radio Kiss Kiss	[ita]	Yes
-12111	V	HB9 Europe	744	R	Radio PadrePio	[ita]	Yes
-12111	V	HB9 Europe	749	R	R. Eurospin		Yes
-12111	V	HB9 Europe	756	TV	Canale Italia 83		Yes
-12111	V	HB9 Europe	757	TV	Canale Italia 84		Yes
-12111	V	HB9 Europe	761	R	Radio RADICALE	[ita]	Yes
-12111	V	HB9 Europe	766	R	DimSuono Soft  MI		Yes
-12111	V	HB9 Europe	767	R	DimSuono Soft RM	[ita]	Yes
-12111	V	HB9 Europe	768	R	Discoradio	[ita]	Yes
-12111	V	HB9 Europe	769	R	Radio Radio	[ita]	Yes
-12111	V	HB9 Europe	780	TV	QVC Italia		Yes
-12111	V	HB9 Europe	782	TV	RIK Sat	[gre]	Yes
-12111	V	HB9 Europe	785	TV	Mekameleen TV	[ara]	Yes
-12111	V	HB9 Europe	788	TV	MTA International	[ara][eng][fra][ger][hin]	Yes
-12149	V	HB8 Europe	3630	R	RADIO FRECCIA	[ita]	Yes
-12149	V	HB8 Europe	3631	R	Radio Margherita		Yes
-12149	V	HB8 Europe	3632	R	RADIO ITALIA s.m.i.	[ita]	Yes
-12149	V	HB8 Europe	3633	R	Radio Cusano Campus	[ita]	Yes
-12149	V	HB8 Europe	3637	R	Radio Sportiva		Yes
-12149	V	HB8 Europe	3642	R	RTL 102.5	[ita]	Yes
-12149	V	HB8 Europe	3643	R	RADIO ZETA	[ita]	Yes
-12149	V	HB8 Europe	3644	R	Radio 24	[ita]	Yes
-12149	V	HB8 Europe	3645	R	R.ONDA D'URTO	[ita]	Yes
-12149	V	HB8 Europe	3650	R	DISCORADIO	[ita]	Yes
-12149	V	HB8 Europe	3651	R	DEEJAY	[ita]	Yes
-12149	V	HB8 Europe	3652	R	CAPITAL	[ita]	Yes
-12149	V	HB8 Europe	3653	R	M DUE O	[ita]	Yes
-12149	V	HB8 Europe	3654	R	Radio Iglesias		Yes
-12149	V	HB8 Europe	3656	R	popolare	[ita]	Yes
-12149	V	HB8 Europe	7202	TV	Tunisia Nat 1	[ara]	Yes
-12149	V	HB8 Europe	7224	TV	CCTV 4	[chi]	Yes
-12149	V	HB8 Europe	7225	TV	Persian Music Channel	[far]	Yes
-12149	V	HB8 Europe	7226	TV	Al Alam	[ara]	Yes
-12149	V	HB8 Europe	7250	R	R Tunisie Nationale	[ara]	Yes
-12149	V	HB8 Europe	7251	R	R Tunisie Internatio	[fra]	Yes
-12149	V	HB8 Europe	7254	TV	SMTV San Marino HD	[ita]	Yes
-12149	V	HB8 Europe	7255	R	SMTv San Marino Radio	[ita]	Yes
-12149	V	HB8 Europe	7279	TV	Al Bayyinah TV	[ara]	Yes
-12149	V	HB8 Europe	7280	R	RADIO MATER		Yes
-12169	H	HB8 Europe	371	R	Radio1		Yes
-12169	H	HB8 Europe	384	TV	Kanali Voulis	[gre]	Yes
-12169	H	HB8 Europe	392	R	Radio3		Yes
-12169	H	HB8 Europe	393	R	Radio2		Yes
-12188	V	HB8 Europe	7309	TV	TV Okazje	[pol]	Yes
-12188	V	HB8 Europe	7319	TV	TV Okazje		Yes
-12188	V	HB8 Europe	7321	R	Muzo.fm	[pol]	Yes
-12188	V	HB8 Europe	7322	R	RMF Classic	[pol]	Yes
-12188	V	HB8 Europe	7326	R	RMF MAXXX	[pol]	Yes
-12188	V	HB8 Europe	7328	R	Zlote Przeboje	[pol]	Yes
-12188	V	HB8 Europe	7331	R	Muzo.fm		Yes
-12188	V	HB8 Europe	7332	R	RMF Classic		Yes
-12188	V	HB8 Europe	7336	R	RMF MAXXX		Yes
-12188	V	HB8 Europe	7338	R	Zlote Przeboje		Yes
-12225	V	HB8 Europe	1	TV	CurrentTime HD		Yes
-12225	V	HB8 Europe	2	TV	CurrentTime SD		Yes
-12225	V	HB8 Europe	100	TV	VOA EU HD 100		Yes
-12225	V	HB8 Europe	101	R	VOA Radio 101 (HB51-52)		Yes
-12225	V	HB8 Europe	102	R	VOA Radio 102 (HB53-56)		Yes
-12225	V	HB8 Europe	104	R	VOA Music Mix 104 (HB57-60)		Yes
-12225	V	HB8 Europe	106	R	VOA Radio 106 (HB61-64)		Yes
-12225	V	HB8 Europe	108	R	VOA Radio 108 (HB65-68)		Yes
-12225	V	HB8 Europe	110	R	VOA Radio 110 (HB69-72)		Yes
-12225	V	HB8 Europe	113	R	VOA Radio 113 (HB75-76)		Yes
-12225	V	HB8 Europe	114	R	Sawa Levant Radio 114		Yes
-12225	V	HB8 Europe	115	R	Sawa Iraq Radio 115		Yes
-12225	V	HB8 Europe	116	R	Yamal 116		Yes
-12225	V	HB8 Europe	118	R	Sawa N. Africa Radio 118		Yes
-12225	V	HB8 Europe	121	R	VOA Iraq N/S Radio 121		Yes
-12225	V	HB8 Europe	122	R	Sawa Sudan Radio 122		Yes
-12225	V	HB8 Europe	123	R	Sawa Lebanon Radio 123		Yes
-12225	V	HB8 Europe	200	TV	CurrentTime HD 200		Yes
-12225	V	HB8 Europe	201	R	Radio Svoboda RU 201		Yes
-12225	V	HB8 Europe	202	R	Radio Svoboda UA 202		Yes
-12225	V	HB8 Europe	205	R	Radio Svaboda 205		Yes
-12225	V	HB8 Europe	207	R	Azatutyun 207		Yes
-12225	V	HB8 Europe	208	R	Radio Deewa 208		Yes
-12225	V	HB8 Europe	210	R	Mashaal Radio 210		Yes
-12225	V	HB8 Europe	212	R	Ozodlik Radiosi 212		Yes
-12225	V	HB8 Europe	213	R	Azadliq Radiosu 213		Yes
-12225	V	HB8 Europe	215	R	Alhurra TV 215		Yes
-12225	V	HB8 Europe	216	R	Kabul Stream 216		Yes
-12225	V	HB8 Europe	217	R	Azatlyk Radiosy 217		Yes
-12225	V	HB8 Europe	220	R	RL North Caucasus 220		Yes
-12225	V	HB8 Europe	222	R	RSE Balkans 222		Yes
-12225	V	HB8 Europe	223	TV	Radio Farda 223		Yes
-12225	V	HB8 Europe	225	TV	VOA Persian SD 225		Yes
-12225	V	HB8 Europe	226	R	Farda TV Audio 226		Yes
-12225	V	HB8 Europe	227	R	Evropa e Lire 227		Yes
-12225	V	HB8 Europe	235	TV	VOA Persian HD 235		Yes
-12225	V	HB8 Europe	240	TV	VOA EU SD 240		Yes
-12225	V	HB8 Europe	295	R	VOA Radio 295 (HB 89 - 92)		Yes
-12225	V	HB8 Europe	308	R	Darfur/Egypt Mono 308		Yes
-12225	V	HB8 Europe	310	R	VOA Urdu Radio 310		Yes
-12225	V	HB8 Europe	340	TV	Global HD 340		Yes
-12303	V	HB8 Europe	1	TV	TV Record	[por]	Yes
-12303	V	HB8 Europe	783	TV	Telesur	[esp]	Yes
-12303	V	HB8 Europe	801	TV	TBN Europe HD	[eng]	Yes
-12303	V	HB8 Europe	802	TV	Life TV	[rus]	Yes
-12303	V	HB8 Europe	804	TV	Hillsong	[eng]	Yes
-12303	V	HB8 Europe	806	TV	Al Horreya TV	[ara]	Yes
-12303	V	HB8 Europe	807	TV	TBN Poland	[pol]	Yes
-12303	V	HB8 Europe	809	TV	Nejat TV	[eng]	Yes
-12303	V	HB8 Europe	810	TV	Al Hayat / Life Channel	[ara]	Yes
-12303	V	HB8 Europe	3203	TV	TBNE Italy (Trinity Broadcasting Network)	[ita]	Yes
-12303	V	HB8 Europe	3501	TV	TVE Internacional HD	[esp]	Yes
-12303	V	HB8 Europe	3502	TV	24 Horas HD	[esp]	Yes
-12303	V	HB8 Europe	3581	R	Radio 1	[esp]	Yes
-12303	V	HB8 Europe	3582	R	Radio Clasica	[esp]	Yes
-12303	V	HB8 Europe	3583	R	Radio 3	[esp]	Yes
-12303	V	HB8 Europe	3584	R	Radio 5	[esp]	Yes
-12303	V	HB8 Europe	3585	R	Radio Exterior	[esp]	Yes
-12303	V	HB8 Europe	3586	R	Radio 4	[esp]	Yes
-12322	H	HB8 Europe	13920	TV	Shant TV	[arm]	Yes
-12322	H	HB8 Europe	13944	TV	BBC Persian	[far]	Yes
-12322	H	HB8 Europe	14807	TV	Velayat TV		Yes
-12322	H	HB8 Europe	14810	TV	Iran International	[eng]	Yes
-12360	H	HB8 Europe	7245	TV	CNBC Europe HD	[eng]	Yes
-12380	V	HB8 Europe	1514	R	RFI Germany		Yes
-12380	V	HB8 Europe	1515	R	RFI Prague		Yes
-12380	V	HB8 Europe	1516	R	RFI Metropole		Yes
-12380	V	HB8 Europe	1520	R	RFI Bucarest		Yes
-12380	V	HB8 Europe	1523	R	RFI Erevan		Yes
-12380	V	HB8 Europe	1525	R	RFI Chisinau		Yes
-12380	V	HB8 Europe	1526	R	RFI Albania		Yes
-12380	V	HB8 Europe	1529	R	RFI Liban		Yes
-12380	V	HB8 Europe	1534	R	RFI Persian	[far]	Yes
-12380	V	HB8 Europe	1549	R	RFI Test		Yes
-12380	V	HB8 Europe	3002	R	Sout Alrayyan	[ara]	Yes
-12380	V	HB8 Europe	3012	TV	Karbala TV	[eng]	Yes
-12380	V	HB8 Europe	3013	TV	CGN TV	[kor]	Yes
-12380	V	HB8 Europe	3014	TV	Euronews Russian	[rus]	Yes
-12380	V	HB8 Europe	3015	TV	Euronews Hungarian	[hun]	Yes
-12380	V	HB8 Europe	3017	TV	Al Siera Al Nabaweia	[ara]	Yes
-12380	V	HB8 Europe	3087	R	RFI Francais	[fra]	Yes
-12380	V	HB8 Europe	3088	R	RFI Langues Est		Yes
-12380	V	HB8 Europe	3089	R	RFI Langues Div		Yes
-12380	V	HB8 Europe	3090	R	RFI Afrique		Yes
-12380	V	HB8 Europe	3091	R	RFI Divers 7		Yes
-12380	V	HB8 Europe	3092	R	RFI RMC MO		Yes
-12399	H	HB8 Europe	903	TV	Sama Dubai HD	[ara]	Yes
-12399	H	HB8 Europe	904	R	Noor Dubai Radio	[ara]	Yes
-12399	H	HB8 Europe	905	TV	Dubai TV HD	[ara]	Yes
-12399	H	HB8 Europe	906	TV	Dubai Sports 1 HD	[ara]	Yes
-12399	H	HB8 Europe	907	TV	Sudan TV		Yes
-12399	H	HB8 Europe	908	R	SUDAN R1	[ara]	Yes
-12399	H	HB8 Europe	909	R	SUDAN R2	[ara]	Yes
-12399	H	HB8 Europe	910	TV	ESC		Yes
-12399	H	HB8 Europe	911	R	ESC R1	[ara]	Yes
-12399	H	HB8 Europe	912	R	ESC R2		Yes
-12399	H	HB8 Europe	913	R	ESC R3		Yes
-12399	H	HB8 Europe	914	TV	Jordan TV		Yes
-12399	H	HB8 Europe	915	R	JORDAN R1	[ara]	Yes
-12399	H	HB8 Europe	916	TV	Libya Alwatnya	[ara]	Yes
-12399	H	HB8 Europe	920	TV	Oman TV HD		Yes
-12399	H	HB8 Europe	921	R	OMAN R1		Yes
-12399	H	HB8 Europe	922	R	OMAN R2		Yes
-12399	H	HB8 Europe	923	R	OMAN R3		Yes
-12399	H	HB8 Europe	924	R	OMAN HOLY QURAN		Yes
-12475	H	HB8 Europe	2001	TV	RT HD	[eng]	Yes
-12475	H	HB8 Europe	2002	TV	RT Doc HD	[eng]	Yes
-12475	H	HB8 Europe	2003	TV	Supertennis HD	[ita]	Yes
-12475	H	HB8 Europe	2004	TV	Telepace HD	[eng][ita]	Yes
-12475	H	HB8 Europe	2005	TV	2M Monde	[fra]	Yes
-12475	H	HB8 Europe	2017	TV	Euronews Italian	[ita]	Yes
-12475	H	HB8 Europe	2018	TV	Euronews Greek	[gre]	Yes
-12475	H	HB8 Europe	2100	TV	Al Rayyan HD Europe	[ara]	Yes
-12475	H	HB8 Europe	2101	R	SOUT AL-ISLAM FROM DOHA	[ara]	Yes
-12475	H	HB8 Europe	2104	R	Radio 2M	[ara]	Yes
-12520	V	Europe	9003	TV	Ronahi TV	[ara]	Yes
-12520	V	Europe	9004	TV	Med Music	[ara]	Yes
-12520	V	Europe	9005	TV	Fadak TV	[ara]	Yes
-12520	V	Europe	9006	TV	Alaraby 2 HD	[ara]	Yes
-12520	V	Europe	9007	TV	NetViet	[vie]	Yes
-12520	V	Europe	9009	TV	Angel TV	[eng]	Yes
-12520	V	Europe	9011	TV	Sterk TV HD		Yes
-12520	V	Europe	9012	TV	Cira TV	[ara]	Yes
-12520	V	Europe	9014	TV	Syria TV HD	[ara]	Yes
-12520	V	Europe	9016	TV	Somaliland National TV		Yes
-12520	V	Europe	9018	TV	The Kingdom Sat	[ara]	Yes
-12520	V	Europe	9056	R	Radio Hargesia		Yes
-12520	V	Europe	9057	R	Radio Quraan		Yes
-12539	H	Europe	1102	TV	Fashion 4K	[aac][eng]	Yes
-12576	H	Europe	1601	TV	Al Jazeera HD	[ara]	Yes
-12576	H	Europe	1602	TV	Fishing TV	[ita]	Yes
-12576	H	Europe	1603	TV	Wine TV	[aac]	Yes
-12576	H	Europe	1605	TV	Italia Channel		Yes
-12576	H	Europe	1607	TV	Mediatext.it		Yes
-12576	H	Europe	1608	TV	Telepiù Channel		Yes
-12576	H	Europe	1609	TV	Pianeta TV		Yes
-12576	H	Europe	1610	TV	Reality TV		Yes
-12576	H	Europe	1611	TV	Quore TV		Yes
-12576	H	Europe	1612	TV	CNC World	[eng]	Yes
-12576	H	Europe	1613	TV	MS Motor TV		Yes
-12576	H	Europe	1614	TV	MediaSport Channel		Yes
-12576	H	Europe	1615	TV	Canal Algérie	[fra]	Yes
-12576	H	Europe	1616	TV	Algerie 3 HD	[ara][fra]	Yes
-12576	H	Europe	1617	TV	TV Art Live		Yes
-12596	V	Europe	8202	R	BBC Horn of Africa	[eng]	Yes
-12596	V	Europe	8203	TV	BBC Arabic	[aac][ara]	Yes
-12596	V	Europe	8204	TV	BBC World News	[eng]	Yes
-12596	V	Europe	8205	R	BBC Arabic Radio	[ara]	Yes
-12596	V	Europe	8206	R	BBC English (Europe)	[eng]	Yes
-12596	V	Europe	8207	R	BBC English Mid-East	[eng]	Yes
-12596	V	Europe	8208	TV	Perviy Kanal Romania	[rus]	Yes
-12596	V	Europe	8213	TV	JSTV - Japan Satellite TV	[eng][jap][nat][ned]	Yes
-12596	V	Europe	8227	R	Service 8227		Yes
-12596	V	Europe	8293	TV	ORT International (Perviy kanal Vsemirnaja set)	[rus]	Yes
-12596	V	Europe	8295	TV	RT Doc	[eng]	Yes
-12616	H	HB9 Europe	11306	TV	Class TV Moda	[ita]	Yes
-12654	H	HB9 Europe	2	TV	TEST		Yes
-12654	H	HB9 Europe	3	TV	Saudi Channel 1	[ara]	Yes
-12654	H	HB9 Europe	4	TV	TEST	[eng]	Yes
-12654	H	HB9 Europe	5	TV	Iqraa TV	[ara]	Yes
-12654	H	HB9 Europe	6	TV	Sudan TV	[ara]	Yes
-12654	H	HB9 Europe	7	TV	Oman TV HD	[ara]	Yes
-12654	H	HB9 Europe	8	TV	Al Masriyah	[ara]	Yes
-12654	H	HB9 Europe	9	TV	TEST	[eng]	Yes
-12654	H	HB9 Europe	13	R	SAUDI R1	[ara]	Yes
-12654	H	HB9 Europe	16	R	SUDAN R1		Yes
-12654	H	HB9 Europe	17	R	OMAN R1		Yes
-12654	H	HB9 Europe	18	R	ESC R1	[ara]	Yes
-12654	H	HB9 Europe	23	R	SAUDI R2		Yes
-12654	H	HB9 Europe	26	R	SUDAN R2		Yes
-12654	H	HB9 Europe	27	R	OMAN R2		Yes
-12654	H	HB9 Europe	28	R	ESC R2	[ara]	Yes
-12654	H	HB9 Europe	37	R	OMAN R3		Yes
-12654	H	HB9 Europe	38	R	ESC R3	[ara]	Yes
-12654	H	HB9 Europe	40	TV	Jordan Satellite Channel	[ara]	Yes
-12654	H	HB9 Europe	42	TV	Al Haramien	[ara]	Yes
-12654	H	HB9 Europe	43	TV	Libya Alwatnya	[ara]	Yes
-12654	H	HB9 Europe	47	R	OMAN-HOLY QURAN		Yes
-12654	H	HB9 Europe	50	R	JORDAN R1		Yes
-12673	V	HB8 Europe	14547	R	Radio 105	[ita]	Yes
-12673	V	HB8 Europe	14548	R	Virgin Radio	[ita]	Yes
-12673	V	HB8 Europe	14552	R	R 101	[ita]	Yes
-12673	V	HB8 Europe	14556	R	Radio Montecarlo	[ita]	Yes
-12692	H	HB9 Europe	415	TV	BFM TV	[fra]	Yes
+No	Freq	Pol	Beam	SID	Name	Lang
+	10971	V	Super	601	TV 5 Monde (France Belgique Suisse)	[fra]
+	10971	V	Super	4099	France 3 Bordeaux	[fra][qaa][qad]
+	10971	V	Super	4101	France 3 Clermont Ferrand	[fra][qaa][qad]
+	10971	V	Super	4103	France 3 Grenoble	[fra][qaa][qad]
+	10971	V	Super	4105	France 3 Limoges	[fra][qaa][qad]
+	10971	V	Super	4112	France 3 Lyon	[fra][qaa][qad]
+	10971	V	Super	4113	France 3 Marseille	[fra][qaa][qad]
+	10971	V	Super	4114	France 3 Montpellier	[fra][qaa][qad]
+	10971	V	Super	4116	France 3 Nantes	[fra][qaa][qad]
+	10971	V	Super	4128	France 3 Rennes	[fra][qaa][qad]
+	11012	V	Transalpine	3203	Rai 3 TGR Piemonte	[ita]
+	11012	V	Transalpine	8562	Rai Sport	[eng][ita]
+	11012	V	Transalpine	8565	Rai Scuola	[ita]
+	11012	V	Transalpine	8570	Rai Radio3 Classica	[ita]
+	11012	V	Transalpine	8572	Rai GrParlamento	[ita]
+	11012	V	Transalpine	8573	Rai Isoradio	[ita]
+	11012	V	Transalpine	8576	Rai 5	[eng][ita]
+	11012	V	Transalpine	8577	Rai Storia	[ita]
+	11012	V	Transalpine	8578	Rai Radio Tutta Italiana	[ita]
+	11012	V	Transalpine	8579	Rai Radio Techetè	[ita]
+	11012	V	Transalpine	8580	Rai Radio Live	[ita]
+	11012	V	Transalpine	8589	Rai Radio Kids	[ita]
+	11012	V	Transalpine	8590	Rai Radio1 Sport	[ita]
+	11012	V	Transalpine	8591	Rai Radio2 Indie	[ita]
+	11014	H	Super	60	RCS Map Table (0x3C)	
+	11014	H	Super	900	IP/DVB Service (0x384)	
+	11017	H	Super	60	RCS Map Table (0x3C)	
+	11017	H	Super	900	IP/DVB Service (0x384)	
+	11054	V	Super	502	ETB 1	[bas]
+	11054	V	Super	503	ETB 3	[bas]
+	11054	V	Super	4097	France 3 Amiens	[fra][qaa][qad]
+	11054	V	Super	4104	France 3 Lille	[fra][qaa][qad]
+	11054	V	Super	4115	France 3 Nancy	[fra][qaa][qad]
+	11054	V	Super	4117	France 3 Nice	[fra][qaa][qad]
+	11054	V	Super	4120	France 3 Poitiers	[fra][qaa][qad]
+	11054	V	Super	4121	France 3 Reims	[fra][qaa][qad]
+	11054	V	Super	4130	France 3 Strasbourg	[fra][qaa][qad]
+	11054	V	Super	4131	France 3 Toulouse	[fra][qaa][qad]
+	11054	V	Super	4132	Via Stella	[fra][qad]
+	11096	V	Transalpine	401	TF 1	[fra][qaa][qad]
+	11096	V	Transalpine	403	M6 HD	[fra][qaa][qad]
+	11096	V	Transalpine	404	Arte HD	[fra][ger][qaa][qad]
+	11096	V	Transalpine	417	NRJ 12 HD	[fra][qaa][qad]
+	11096	V	Transalpine	419	France 5 HD	[fra][qaa][qad]
+	11096	V	Transalpine	421	W9 HD	[fra][qaa][qad]
+	11096	V	Transalpine	422	6ter	[fra][qaa][qad]
+	11096	V	Transalpine	423	TMC HD	[fra][qaa][qad]
+	11096	V	Transalpine	424	TFX	[fra][qaa]
+	11096	V	Transalpine	425	LCP HD	[fra]
+1	11096	V	Transalpine	426	Via Vosges	[fra]
+2	11096	V	Transalpine	427	KTO	[fra]
+3	11096	V	Transalpine	428	RT France	[fra]
+	11096	V	Transalpine	4133	Nouvelle Aquitaine	[fra]
+	11115	H	Super	60	Service	
+	11115	H	Super	900	Service 384	
+	11138	V	Super	1820	RMC Sport 1 HD	[fra]
+	11138	V	Super	1821	RMC Sport 4 HD	[fra]
+	11138	V	Super	1822	BFM Business HD	[fra]
+	11138	V	Super	1823	BFM Paris HD	[fra]
+	11138	V	Super	1825	RMC Sport 2 HD	[fra]
+	11138	V	Super	1826	RMC Sport 3 HD	[fra]
+	11138	V	Super	1827	RMC Sport News	[fra]
+	11138	V	Super	1828	I24 News Français	[fra]
+	11138	V	Super	1829	My Cuisine	[fra]
+	11138	V	Super	1830	Télé Mélody	[fra]
+4	11138	V	Super	1831	Label TV	[fra]
+	11138	V	Super	1880	SSU NeoPro	
+	11157	H	Super	60		
+	11157	H	Super	900		
+	11177	H	Super	60	RCS MAP TABLE:60	
+	11177	H	Super	900	IPDVB SERVICE	
+	11179	V	Transalpine	3403	Rai 3 TGR Sardegna	[ita][vo]
+	11179	V	Transalpine	3404	Rai Radio1	[ita]
+	11179	V	Transalpine	8581	Rai Premium	[ita][vo]
+	11179	V	Transalpine	8582	Rai Yoyo	[ita]
+	11179	V	Transalpine	8583	Rai 4	[ita][vo]
+	11179	V	Transalpine	8584	Rai Gulp	[ita]
+	11179	V	Transalpine	8585	Rai Movie	[ita][vo]
+	11179	V	Transalpine	8588	Rai 1 HD	[ita]
+	11179	V	Transalpine	8592	Rai 2 HD	[ita]
+	11179	V	Transalpine	8593	Rai 3 HD	[ita]
+	11179	V	Transalpine	8599	Rai Sport + HD	[ita]
+	11456	H	Transalpine	1001	SKYROCK-SAT	[fra]
+	11456	H	Transalpine	2001	NRJ IDF	[fra]
+	11456	H	Transalpine	2002	NOST IDF	[fra]
+	11456	H	Transalpine	2003	CHERIE IDF	[fra]
+	11456	H	Transalpine	2004	RIRE IDF	[fra]
+	11458	H	Transalpine	1001	NOSTALGIE	[fra]
+	11458	H	Transalpine	1002	NRJ	[fra]
+	11465	H	Transalpine	1000	ALOUETTE	[aac]
+	11465	H	Transalpine	2000	MAGIC LIMOGES	[aac]
+	11465	H	Transalpine	3000	TEMPO	[aac]
+	11465	H	Transalpine	4000	MAGIC CREUSE	[aac]
+	11468	H	Transalpine	2	Service 2	
+	11471	V	Transalpine	3000	TF1 Séries Films	[fra][qaa][qad]
+	11471	V	Transalpine	3001	L&acute;Equipe 21	[fra][qad]
+	11471	V	Transalpine	3003	RMC Story	[fra][qaa][qad]
+	11471	V	Transalpine	3004	RMC Découverte	[fra][qaa][qad]
+	11471	V	Transalpine	3005	Cherie 25	[fra][qaa][qad]
+	11471	V	Transalpine	3011	CNews HD	[fra]
+	11471	V	Transalpine	3012	BFM TV HD	[fra]
+	11471	V	Transalpine	3013	C8 HD	[fra][qaa][qad]
+	11471	V	Transalpine	3014	CStar HD	[fra][qaa]
+	11471	V	Transalpine	3015	Gulli HD	[fra][qad]
+	11471	V	Transalpine	3016	CANAL SAV	
+5	11471	V	Transalpine	3017	A La Maison	[fra][qaa]
+6	11471	V	Transalpine	3018	Dici TV	[fra]
+	11471	V	Transalpine	3020	FRANCE BLEU 107.1	
+	11471	V	Transalpine	3021	FRANCE BLEU ALSACE	
+	11471	V	Transalpine	3022	FRANCE BLEU ARMORIQUE	
+	11471	V	Transalpine	3023	FRANCE BLEU AUXERRE	
+	11471	V	Transalpine	3024	FRANCE BLEU AZUR	
+	11471	V	Transalpine	3025	FRANCE BLEU BASSE NORMANDIE	
+	11471	V	Transalpine	3026	FRANCE BLEU BEARN	
+	11471	V	Transalpine	3027	FRANCE BLEU BELFORT MONTBELIARD	
+	11471	V	Transalpine	3028	FRANCE BLEU BERRY	
+	11471	V	Transalpine	3029	FRANCE BLEU BESANCON	
+	11471	V	Transalpine	3030	FRANCE BLEU BOURGOGNE	
+	11471	V	Transalpine	3031	FRANCE BLEU BREIZH IZEL	
+	11471	V	Transalpine	3032	FRANCE BLEU CHAMPAGNE	
+	11471	V	Transalpine	3033	FRANCE BLEU COTENTIN	
+	11471	V	Transalpine	3034	FRANCE BLEU CREUSE	
+	11471	V	Transalpine	3035	FRANCE BLEU DROME ARDECHE	
+	11471	V	Transalpine	3036	FRANCE BLEU FREQUENZA MORA	
+	11471	V	Transalpine	3037	FRANCE BLEU GARD LOZERE	
+	11471	V	Transalpine	3038	FRANCE BLEU GASCOGNE	
+	11471	V	Transalpine	3039	FRANCE BLEU GIRONDE	
+	11471	V	Transalpine	3040	FRANCE BLEU HAUTE NORMANDIE	
+	11471	V	Transalpine	3041	FRANCE BLEU HERAULT	
+	11471	V	Transalpine	3042	FRANCE BLEU ISERE	
+	11471	V	Transalpine	3043	FRANCE BLEU LA ROCHELLE	
+	11471	V	Transalpine	3044	FRANCE BLEU LIMOUSIN	
+	11471	V	Transalpine	3045	FRANCE BLEU LOIRE OCEAN	
+	11471	V	Transalpine	3046	FRANCE BLEU LORRAINE NORD	
+	11471	V	Transalpine	3047	FRANCE BLEU MAINE	
+	11471	V	Transalpine	3048	FRANCE BLEU MAYENNE	
+	11471	V	Transalpine	3049	FRANCE BLEU NORD	
+	11471	V	Transalpine	3050	FRANCE BLEU ORLEANS	
+	11471	V	Transalpine	3051	FRANCE BLEU PAYS BASQUE	
+	11471	V	Transalpine	3052	FRANCE BLEU PAYS D'AUVERGNE	
+	11471	V	Transalpine	3053	FRANCE BLEU PAYS DE SAVOIE	
+	11471	V	Transalpine	3054	FRANCE BLEU PERIGORD	
+	11471	V	Transalpine	3055	FRANCE BLEU PICARDIE	
+	11471	V	Transalpine	3056	FRANCE BLEU POITOU	
+	11471	V	Transalpine	3057	FRANCE BLEU PROVENCE	
+	11471	V	Transalpine	3058	FRANCE BLEU ROUSSILLON	
+	11471	V	Transalpine	3059	FRANCE BLEU SAINT ETIENNE	
+	11471	V	Transalpine	3060	FRANCE BLEU SUD LORRAINE	
+	11471	V	Transalpine	3061	FRANCE BLEU TOULOUSE	
+	11471	V	Transalpine	3062	FRANCE BLEU TOURAINE	
+	11471	V	Transalpine	3063	FRANCE BLEU VAUCLUSE	
+	11471	V	Transalpine	3064	FRANCE INTER	
+	11471	V	Transalpine	3065	FRANCE CULTURE	
+	11471	V	Transalpine	3066	FRANCE MUSIQUE	
+	11471	V	Transalpine	3067	FIP	
+	11471	V	Transalpine	3068	FRANCE INFO	
+	11471	V	Transalpine	3069	LE MOUV	
+	11471	V	Transalpine	3070	BFM	
+	11471	V	Transalpine	3071	RMC	
+	11471	V	Transalpine	3072	NOSTALGIE	[fra]
+	11471	V	Transalpine	3073	NRJ	[fra]
+	11471	V	Transalpine	3074	RIRE ET CHANSONS	[fra]
+	11471	V	Transalpine	3075	CHERIE FM	[fra]
+	11471	V	Transalpine	3076	EUROPE 1	
+	11471	V	Transalpine	3077	VIRGIN RADIO	
+	11471	V	Transalpine	3078	RFM	
+	11471	V	Transalpine	3079	RADIO AFRICA N01	[fra]
+	11471	V	Transalpine	3080	NOVA	
+	11472	H	Transalpine	100	France Bleu 107.1	
+	11472	H	Transalpine	101	France Bleu Alsace	
+	11472	H	Transalpine	102	France Bleu Armorique	
+	11472	H	Transalpine	103	France Bleu Auxerre	
+	11472	H	Transalpine	104	France Bleu Azur	
+	11472	H	Transalpine	105	France Bleu Basse Normandie	
+	11472	H	Transalpine	106	France Bleu Bearn	
+	11472	H	Transalpine	107	France Bleu Belfort Montbeliard	
+	11472	H	Transalpine	108	France Bleu Berry	
+	11472	H	Transalpine	109	France Bleu Besancon	
+	11472	H	Transalpine	110	France Bleu Bourgogne	
+	11472	H	Transalpine	111	France Bleu Breizh Izel	
+	11472	H	Transalpine	112	France Bleu Champagne	
+	11472	H	Transalpine	113	France Bleu Cotentin	
+	11472	H	Transalpine	114	France Bleu Creuse	
+	11472	H	Transalpine	115	France Bleu Drome Ardeche	
+	11472	H	Transalpine	116	France Bleu Frequenza Mora	
+	11472	H	Transalpine	117	France Bleu Gard Lozere	
+	11472	H	Transalpine	118	France Bleu Gascogne	
+	11472	H	Transalpine	119	France Bleu Gironde	
+	11472	H	Transalpine	120	France Bleu Haute Normandie	
+	11472	H	Transalpine	121	France Bleu Herault	
+	11472	H	Transalpine	122	France Bleu Isere	
+	11472	H	Transalpine	123	France Bleu La Rochelle	
+	11472	H	Transalpine	124	France Bleu Limousin	
+	11472	H	Transalpine	125	France Bleu Loire Ocean	
+	11472	H	Transalpine	126	France Bleu Lorraine Nord	
+	11472	H	Transalpine	127	France Bleu Maine	
+	11472	H	Transalpine	128	France Bleu Mayenne	
+	11472	H	Transalpine	129	France Bleu Natio	
+	11472	H	Transalpine	130	France Bleu Nord	
+	11472	H	Transalpine	131	France Bleu Orleans	
+	11472	H	Transalpine	132	France Bleu Pays Basque	
+	11472	H	Transalpine	133	France Bleu Pays d Auvergne	
+	11472	H	Transalpine	134	France Bleu Pays de Savoie	
+	11472	H	Transalpine	135	France Bleu Perigord	
+	11472	H	Transalpine	136	France Bleu Picardie	
+	11472	H	Transalpine	137	France Bleu Poitou	
+	11472	H	Transalpine	138	France Bleu Provence	
+	11472	H	Transalpine	139	France Bleu Roussillon	
+	11472	H	Transalpine	140	France Bleu Saint Etienne	
+	11472	H	Transalpine	141	France Bleu Sud Lorraine	
+	11472	H	Transalpine	142	France Bleu Toulouse	
+	11472	H	Transalpine	143	France Bleu Touraine	
+	11472	H	Transalpine	144	France Bleu Vaucluse	
+	11472	H	Transalpine	150	RCF	[fra]
+	11472	H	Transalpine	151	RCF Pays de l'Ain	[fra]
+	11472	H	Transalpine	152	RCF Allier	[fra]
+	11472	H	Transalpine	153	RCF Hautes-Alpes	[fra]
+	11472	H	Transalpine	154	RCF Aube Haute-Marne	[fra]
+	11472	H	Transalpine	155	RCF Pays d'Aude	[fra]
+	11472	H	Transalpine	156	RCF en Berry	[fra]
+	11472	H	Transalpine	157	RCF en Bourgogne	[fra]
+	11472	H	Transalpine	158	RCF Franche-Comté	[fra]
+	11472	H	Transalpine	159	RCF Drôme-Ardèche	[fra]
+	11472	H	Transalpine	160	RCF Bordeaux	[fra]
+	11472	H	Transalpine	161	RCF Alpha Rennes	[fra]
+	11472	H	Transalpine	162	RCF Touraine	[fra]
+	11472	H	Transalpine	163	RCF Isère	[fra]
+	11472	H	Transalpine	164	RCF Loir et Cher	[fra]
+	11472	H	Transalpine	165	RCF Haute-Loire	[fra]
+	11472	H	Transalpine	166	RCF Anjou	[fra]
+	11472	H	Transalpine	167	RCF Coeur de Champagne	[fra]
+	11472	H	Transalpine	168	RCF Reims-Ardennes	[fra]
+	11472	H	Transalpine	169	RCF Lyon	[fra]
+	11472	H	Transalpine	170	RCF Savoie	[fra]
+	11472	H	Transalpine	171	RCF Haute-Savoie	[fra]
+	11472	H	Transalpine	172	RCF Haute-Normandie	[fra]
+	11472	H	Transalpine	173	RCF Vaucluse	[fra]
+	11472	H	Transalpine	174	RCF Vendée	[fra]
+	11472	H	Transalpine	175	RCF Poitou	[fra]
+	11472	H	Transalpine	176	RCF Limousin	[fra]
+	11472	H	Transalpine	177	RCF Corrèze	[fra]
+	11472	H	Transalpine	178	RCF Jerico-Moselle	[fra]
+	11472	H	Transalpine	180	RCF Contribution	[fra]
+	11472	H	Transalpine	190	AFP	
+	11472	H	Transalpine	191	FIP Region	
+	11472	H	Transalpine	192	RDS TDF	
+	11472	H	Transalpine	193	RF Contrib	
+	11472	H	Transalpine	194	Radio Esperance	[fra]
+	11472	H	Transalpine	196	VEOA-B Occasion	[fra]
+	11480	H	Transalpine	100	TDF-RDS1	
+	11480	H	Transalpine	200	TDF-RDS2	
+	11480	H	Transalpine	300	Tiers-RDS	
+	11480	H	Transalpine	500	Sec TDF1	[aac][fra]
+	11480	H	Transalpine	600	Sec TDF2	[aac][fra]
+	11480	H	Transalpine	700	Sec TDF3	[fra]
+	11480	H	Transalpine	900	TWC-SIRC	
+	11480	H	Transalpine	1100	RTL	[fra]
+	11480	H	Transalpine	1200	RTL2	[fra]
+	11480	H	Transalpine	1300	FUN	[fra]
+	11480	H	Transalpine	2100	Radio Classique	[fra]
+	11480	H	Transalpine	3100	Europe1	[fra]
+	11480	H	Transalpine	3200	Virgin	[fra]
+	11480	H	Transalpine	3300	RFM	[fra]
+	11480	H	Transalpine	4100	RMC	[fra]
+	11480	H	Transalpine	4200	BFM	[fra]
+	11480	H	Transalpine	5100	France Inter	[fra]
+	11480	H	Transalpine	5200	France Culture	[fra]
+	11480	H	Transalpine	5300	France Musique	[fra]
+	11480	H	Transalpine	5400	FIP	[fra]
+	11480	H	Transalpine	5600	France Info	[fra]
+	11480	H	Transalpine	5800	Le Mouv'	[fra]
+	11480	H	Transalpine	6100	MFM	[fra]
+	11480	H	Transalpine	7100	Sud Radio	[fra]
+	11509	H	Transalpine	257	France 2 HD	[fra][qaa][qad]
+	11509	H	Transalpine	260	France 4 HD	[fra][qaa][qad]
+	11509	H	Transalpine	261	France Ô	[fra][qad]
+	11509	H	Transalpine	262	franceinfo:	[fra]
+	11509	H	Transalpine	272	France 3 Sat HD	[fra][qad]
+	11509	H	Transalpine	1025	M6 HD	[fra][qaa][qad]
+	11509	H	Transalpine	1026	W9 HD	[fra][qaa][qad]
+	11509	H	Transalpine	1031	Arte HD	[fra][ger][qaa][qad]
+	11509	H	Transalpine	1045	France 5 HD	[fra][qad]
+	11509	H	Transalpine	1046	6ter	[fra][qaa][qad]
+	11509	H	Transalpine	1537	TF 1	[fra][qaa][qad]
+	11509	H	Transalpine	1538	NRJ 12 HD	[fra][qaa][qad]
+	11509	H	Transalpine	1542	TMC HD	[fra][qaa][qad]
+	11509	H	Transalpine	1544	TFX	[fra][qaa]
+	11509	H	Transalpine	1545	LCP HD	[fra]
+	11512	V	Super	201	RTL 9	[fra][qaa]
+	11512	V	Super	202	Mangas	[fra][qaa]
+	11512	V	Super	203	AB 1	[fra][qaa]
+	11512	V	Super	204	Automoto La Chaine	[fra]
+	11512	V	Super	205	Golf Channel France	[fra]
+	11512	V	Super	206	Ushuaia TV	[fra]
+	11512	V	Super	207	Trek	[fra]
+	11512	V	Super	208	Animaux	[eng][fra]
+	11512	V	Super	209	Science et Vie	[fra]
+	11512	V	Super	210	Toute l´Histoire	[fra]
+	11512	V	Super	211	Chasse et Pêche	[fra]
+	11512	V	Super	212	Action	[fra][qaa]
+7	11512	V	Super	213	Bis Télévisions Promo	[fra]
+	11512	V	Super	214	TV Breizh	[aac][fra][qaa]
+	11512	V	Super	215	Crime District	[fra][qaa]
+	11512	V	Super	216	XXL	[fra]
+	11512	V	Super	217	Dorcel TV	[fra]
+	11512	V	Super	219	Téva	[aac][fra][qaa]
+	11512	V	Super	220	Equidia Live	[fra]
+	11512	V	Super	229	G2157A	
+	11554	V	Transalpine	301	France 2 HD	[fra][qaa][qad]
+	11554	V	Transalpine	302	France 3 Sat HD	[fra][qad]
+	11554	V	Transalpine	303	France 4 HD	[fra][qaa][qad]
+	11554	V	Transalpine	304	France Ô	[fra][qad]
+	11554	V	Transalpine	305	franceinfo:	[fra]
+	11554	V	Transalpine	306	Canal+ HD	[fra][qaa]
+	11554	V	Transalpine	307	LCI HD	[fra]
+	11554	V	Transalpine	309	OCS City HD	[eng][fra]
+	11554	V	Transalpine	310	OCS Choc HD	[eng][fra]
+	11554	V	Transalpine	311	OCS Géants HD	[eng][fra]
+	11554	V	Transalpine	312	OCS Max HD	[eng][fra]
+8	11554	V	Transalpine	322	Fransat Info HD	[fra]
+	11554	V	Transalpine	894	SSU vEOXHD	
+	11554	V	Transalpine	895	SSU FR1000	
+	11554	V	Transalpine	900	SSU DSR3031	
+	11554	V	Transalpine	901	SSU S9540HD	
+	11554	V	Transalpine	902	SSU Veox 2VA	
+	11554	V	Transalpine	904	SSU Sirius	
+	11554	V	Transalpine	907	SSU Meosat DSR	
+	11554	V	Transalpine	908	SSU S9640HD	
+	11554	V	Transalpine	911	SSU Neo13	
+	11554	V	Transalpine	914	SSU Sirius HD	
+	11554	V	Transalpine	916	SSU 8600	
+	11554	V	Transalpine	918	SSU Maya Xena	
+	11554	V	Transalpine	923	SSU SRT7405	
+	11595	V	Super	1410	CANAL SAV	
+9	11595	V	Super	1412	RT France	[fra]
+	11595	V	Super	1413	Fransat UHD HDR Demo	[aac][fra]
+	11595	V	Super	1416	RMC Sport UHD	[fra]
+	11637	V	Transalpine	3401	Rai 1	[ita][vo]
+	11637	V	Transalpine	3402	Rai 2	[ita][vo]
+	11637	V	Transalpine	3403	Rai 3	[ita][vo]
+	11637	V	Transalpine	3403	Rai 3 TGR Toscana	[ita][vo]
+	11637	V	Transalpine	3403	Rai 3 TGR Umbria	[ita][vo]
+	11637	V	Transalpine	3403	Rai 3 TGR Lazio	[ita][vo]
+	11637	V	Transalpine	3403	Rai 3 TGR Marche	[ita][vo]
+	11637	V	Transalpine	3403	Rai 3 TGR Liguria	[ita][vo]
+	11637	V	Transalpine	3404	Rai Radio1	
+	11637	V	Transalpine	3405	Rai Radio2	
+	11637	V	Transalpine	3406	Rai Radio3	
+	11637	V	Transalpine	3410	Test HEVC main10	
+	11637	V	Transalpine	3411	Rai News 24	[ita]
+	11676	H	Transalpine	3401	Rai 1	
+	11676	H	Transalpine	3401	Rai 1	
+	11676	H	Transalpine	3401	Rai 1	
+	11676	H	Transalpine	3401	Rai 1	
+	11676	H	Transalpine	3401	Rai 1	
+	11676	H	Transalpine	3401	Rai 1	
+	11676	H	Transalpine	3401	Rai 1	
+	11676	H	Transalpine	3401	Rai 1	
+	11676	H	Transalpine	3401	Rai 1	
+	11676	H	Transalpine	3401	Rai 1	
+	11676	H	Transalpine	3402	Rai 2	
+	11676	H	Transalpine	3402	Rai 2	
+	11676	H	Transalpine	3402	Rai 2	
+	11676	H	Transalpine	3402	Rai 2	
+	11676	H	Transalpine	3402	Rai 2	
+	11676	H	Transalpine	3402	Rai 2	
+	11676	H	Transalpine	3402	Rai 2	
+	11676	H	Transalpine	3402	Rai 2	
+	11676	H	Transalpine	3402	Rai 2	
+	11676	H	Transalpine	3402	Rai 2	
+	11676	H	Transalpine	3403	Rai 3 TGR Lombardia	[ita][vo]
+	11676	H	Transalpine	3403	Rai 3 TGR Puglia	[ita][vo]
+	11676	H	Transalpine	3403	Rai 3 TGR Emilia Romagna	[ita][vo]
+	11676	H	Transalpine	3403	Rai 3 TGR Molise	[ita][vo]
+	11676	H	Transalpine	3403	Rai 3 TGR Calabria	[ita][vo]
+	11676	H	Transalpine	3403	Rai 3 TGR Veneto	[ita][vo]
+	11676	H	Transalpine	3403	Rai 3 TGR Piemonte	[ita][vo]
+	11676	H	Transalpine	3403	Rai 3 TGR Sicilia	[ita][vo]
+	11676	H	Transalpine	3403	Rai 3 TGR Basilicata	[ita][vo]
+	11676	H	Transalpine	3403	Rai 3 TGR Abruzzo	[ita][vo]
+	11676	H	Transalpine	3404	Rai Radio1	
+	11676	H	Transalpine	3404	Rai Radio1	
+	11676	H	Transalpine	3404	Rai Radio1	
+	11676	H	Transalpine	3404	Rai Radio1	
+	11676	H	Transalpine	3404	Rai Radio1	
+	11676	H	Transalpine	3404	Rai Radio1	
+	11676	H	Transalpine	3404	Rai Radio1	
+	11676	H	Transalpine	3404	Rai Radio1	
+	11676	H	Transalpine	3404	Rai Radio1	
+	11676	H	Transalpine	3404	Rai Radio1	
+	11676	H	Transalpine	3405	Rai Radio2	
+	11676	H	Transalpine	3405	Rai Radio2	
+	11676	H	Transalpine	3405	Rai Radio2	
+	11676	H	Transalpine	3405	Rai Radio2	
+	11676	H	Transalpine	3405	Rai Radio2	
+	11676	H	Transalpine	3405	Rai Radio2	
+	11676	H	Transalpine	3405	Rai Radio2	
+	11676	H	Transalpine	3405	Rai Radio2	
+	11676	H	Transalpine	3405	Rai Radio2	
+	11676	H	Transalpine	3405	Rai Radio2	
+	11676	H	Transalpine	3406	Rai Radio3	
+	11676	H	Transalpine	3406	Rai Radio3	
+	11676	H	Transalpine	3406	Rai Radio3	
+	11676	H	Transalpine	3406	Rai Radio3	
+	11676	H	Transalpine	3406	Rai Radio3	
+	11676	H	Transalpine	3406	Rai Radio3	
+	11676	H	Transalpine	3406	Rai Radio3	
+	11676	H	Transalpine	3406	Rai Radio3	
+	11676	H	Transalpine	3406	Rai Radio3	
+	11676	H	Transalpine	3406	Rai Radio3	
+	11676	H	Transalpine	3411	Rai News 24	
+	11676	H	Transalpine	3411	Rai News 24	
+	11676	H	Transalpine	3411	Rai News 24	
+	11676	H	Transalpine	3411	Rai News 24	
+	11676	H	Transalpine	3411	Rai News 24	
+	11676	H	Transalpine	3411	Rai News 24	
+	11676	H	Transalpine	3411	Rai News 24	
+	11676	H	Transalpine	3411	Rai News 24	
+	11676	H	Transalpine	3411	Rai News 24	
+	11676	H	Transalpine	3411	Rai News 24	
+	11679	V	Super	3	France 3 Sat	[fra][qaa][qad]
+	11679	V	Super	800	RMC Sport UHD	[fra]
+10	11679	V	Super	801	Opsis TV	
+11	11679	V	Super	802	...	
+12	11679	V	Super	803	....	
+	11679	V	Super	4098	France 3 Besançon	[fra][qaa][qad]
+	11679	V	Super	4100	France 3 Caen	[fra][qaa][qad]
+	11679	V	Super	4102	France 3 Dijon	[fra][qaa][qad]
+	11679	V	Super	4118	France 3 Orléans	[fra][qaa][qad]
+	11679	V	Super	4119	France 3 Paris Ile-de-France	[fra][qaa][qad]
+	11679	V	Super	4129	France 3 Rouen	[fra][qaa][qad]
+	12522	V	Transalpine	33	Servizio 33	[eng]
+	12522	V	Transalpine	145	Boing	[ita]
+	12522	V	Transalpine	147	Cartoonito Italy	[ita]
+	12522	V	Transalpine	2019	20 Mediaset	[eng][ita]
+	12522	V	Transalpine	2020	20 Mediaset	[eng][ita]
+	12522	V	Transalpine	2120	20 Mediaset	[eng][ita]
+	12522	V	Transalpine	2121	TOPcrime	[eng][ita]
+	12522	V	Transalpine	2122	Focus	[eng][ita]
+	12522	V	Transalpine	2123	Cine34	[ita]
+	12522	V	Transalpine	2148	Food Network Italia	[ita]
+	12522	V	Transalpine	2149	QVC Italia	[ita]
+	12522	V	Transalpine	2150	TOPcrime	[eng][ita]
+	12522	V	Transalpine	2151	Focus	[eng][ita]
+	12522	V	Transalpine	2152	Cine34	[ita]
+	12522	V	Transalpine	3004	Rete 4 HD	[eng][ita]
+	12522	V	Transalpine	3005	Canale 5 HD	[eng][ita]
+	12522	V	Transalpine	3006	Italia 1 HD	[eng][ita]
+	12522	V	Transalpine	3100	Radio 105	[ita]
+	12522	V	Transalpine	3101	R101 TV	[ita]
+	12522	V	Transalpine	3102	Virgin Radio	[ita]
+	12522	V	Transalpine	3104	Rete4 HD	[eng][ita]
+	12522	V	Transalpine	3105	Canale5 HD	[eng][ita]
+	12522	V	Transalpine	3106	Italia1 HD	[eng][ita]
+	12543	H	Transalpine	1	Nove	[ita]
+	12543	H	Transalpine	2	Cielo	[eng][ita]
+	12543	H	Transalpine	3	Paramount Channel Italy	[eng][ita]
+	12543	H	Transalpine	5	Sky TG24	[eng][ita]
+	12543	H	Transalpine	9	Radio Deejay	[ita]
+	12543	H	Transalpine	10	Radio Capital	[ita]
+	12543	H	Transalpine	11	Radio m2o	[ita]
+	12543	H	Transalpine	12	Radio Maria	[ita]
+	12543	H	Transalpine	13	R Italia SMI	[ita]
+	12543	H	Transalpine	14	R Italia SMI	[ita]
+	12543	H	Transalpine	16	Giallo	[ita]
+	12543	H	Transalpine	20	NOVE	[ita]
+	12543	H	Transalpine	21	RTL 102.5	[ita]
+	12543	H	Transalpine	22	HSE 24 Italia	[ita]
+	12543	H	Transalpine	23	HSE24 HD	[ita]
+	12543	H	Transalpine	25	HGTV Italy	[ita]
+	12543	H	Transalpine	29	Nove	[ita]
+	12543	H	Transalpine	30	Mediaset Extra	[ita]
+	12543	H	Transalpine	30	Boing Plus	[ita]
+	12543	H	Transalpine	40	Deejay TV	[ita]
+	12543	H	Transalpine	40	Super Tennis	[ita]
+	12543	H	Transalpine	41	Deejay TV HD	[ita]
+	12543	H	Transalpine	44	Discovery Real Time Italia	[ita]
+	12543	H	Transalpine	50	Motor Trend	[ita]
+	12543	H	Transalpine	50	Spike Italia	[eng][ita]
+	12543	H	Transalpine	50	DMAX Italia	[ita]
+	12543	H	Transalpine	60	Radio Italia TV	[ita]
+	12543	H	Transalpine	60	Canale 65	[ita]
+	12543	H	Transalpine	65	BOM Channel	[ita]
+	12543	H	Transalpine	90	Entertainment Fact	
+	12543	H	Transalpine	100	TV 2000	[ita]
+	12543	H	Transalpine	105	RADIO VATICANA ITALIA	[ita]
+	12543	H	Transalpine	106	Super!	[ita]
+	12543	H	Transalpine	110	Sfera TV	[ita]
+	12543	H	Transalpine	115	Radio Cusano Campus	[ita]
+	12543	H	Transalpine	120	VH-1 Italy	[ita]
+	12543	H	Transalpine	120	Radio Kiss Kiss TV	[ita]
+	12543	H	Transalpine	121	VH1	[ita]
+	12543	H	Transalpine	125	Parole di Vita	[ita]
+	12543	H	Transalpine	130	Radio Zeta	[ita]
+	12543	H	Transalpine	135	Babel-Romit TV	[rom]
+	12543	H	Transalpine	146	Frisbee	[ita]
+	12543	H	Transalpine	150	TV8 (Italy)	[eng][ita]
+	12543	H	Transalpine	151	K2 (Italy)	[ita]
+	12543	H	Transalpine	161	Zelig Sport	[ita]
+	12543	H	Transalpine	218	Radio Freccia	[ita]
+	12543	H	Transalpine	219	RTL 102.5 HD	[ita]
+	12543	H	Transalpine	220	RADIOFRECCIA HD	[ita]
+	12543	H	Transalpine	221	RTL 102.5	[ita]
+	12543	H	Transalpine	222	RTL 102.5 VIARADIO DIGITAL	[ita]
+	12543	H	Transalpine	223	FRECCIA	[ita]
+	12543	H	Transalpine	614	TV8	[eng][ita]
+	12543	H	Transalpine	615	TV8	[eng][ita]
+	12543	H	Transalpine	625	TV8 News On Demand	
+	12543	H	Transalpine	626	TV8 On Demand	
+	12543	H	Transalpine	629	VH1 On Demand	
+	12543	H	Transalpine	630	VH1 On Demand	
+	12564	V	Super	2898	BeIN Sport 1 HD	[fra]
+	12564	V	Super	2899	beIN Sport 2 HD	[fra]
+	12564	V	Super	2900	FRANCE BLEU 107.1	
+	12564	V	Super	2901	FRANCE BLEU Alsace	
+	12564	V	Super	2902	FRANCE BLEU Armorique	
+	12564	V	Super	2903	FRANCE BLEU Auxerre	
+	12564	V	Super	2904	FRANCE BLEU Azur	
+	12564	V	Super	2905	FRANCE BLEU Basse Normandie	
+	12564	V	Super	2906	FRANCE BLEU Bearn	
+	12564	V	Super	2907	FRANCE BLEU Belfort Montbeliard	
+	12564	V	Super	2908	FRANCE BLEU Berry	
+	12564	V	Super	2909	FRANCE BLEU Besancon	
+	12564	V	Super	2910	FRANCE BLEU Bourgogne	
+	12564	V	Super	2911	FRANCE BLEU Breizh Izel	
+	12564	V	Super	2912	FRANCE BLEU Champagne	
+	12564	V	Super	2913	FRANCE BLEU Cotentin	
+	12564	V	Super	2914	FRANCE BLEU Creuse	
+	12564	V	Super	2915	FRANCE BLEU Drome Ardeche	
+	12564	V	Super	2916	FRANCE BLEU Frequenza Mora	
+	12564	V	Super	2917	FRANCE BLEU Gard Lozere	
+	12564	V	Super	2918	FRANCE BLEU Gascogne	
+	12564	V	Super	2919	FRANCE BLEU Gironde	
+	12564	V	Super	2920	FRANCE BLEU Haute Normandie	
+	12564	V	Super	2921	FRANCE BLEU Herault	
+	12564	V	Super	2922	FRANCE BLEU Isere	
+	12564	V	Super	2923	FRANCE BLEU La Rochelle	
+	12564	V	Super	2924	FRANCE BLEU Limousin	
+	12564	V	Super	2925	FRANCE BLEU Loire Ocean	
+	12564	V	Super	2926	FRANCE BLEU Lorraine Nord	
+	12564	V	Super	2927	FRANCE BLEU Maine	
+	12564	V	Super	2928	FRANCE BLEU Mayenne	[fra]
+	12564	V	Super	2929	FRANCE BLEU Nord	
+	12564	V	Super	2930	FRANCE BLEU Orleans	
+	12564	V	Super	2931	FRANCE BLEU Pays Basque	
+	12564	V	Super	2932	FRANCE BLEU Pays d'Auvergne	
+	12564	V	Super	2933	FRANCE BLEU Pays de Savoie	
+	12564	V	Super	2934	FRANCE BLEU Perigord	
+	12564	V	Super	2935	FRANCE BLEU Picardie	
+	12564	V	Super	2936	FRANCE BLEU Poitou	
+	12564	V	Super	2937	FRANCE BLEU Provence	
+	12564	V	Super	2938	FRANCE BLEU Roussillon	
+	12564	V	Super	2939	FRANCE BLEU Saint Etienne	[fra]
+	12564	V	Super	2940	FRANCE BLEU Sud Lorraine	
+	12564	V	Super	2941	FRANCE BLEU Toulouse	
+	12564	V	Super	2942	FRANCE BLEU Touraine	
+	12564	V	Super	2943	FRANCE BLEU Vaucluse	
+	12564	V	Super	2945	beIN Sports 3 HD	[fra]
+13	12564	V	Super	2947	Via Vosges	[fra]
+14	12564	V	Super	2949	KTO	[fra]
+	12564	V	Super	2953	Mont Blanc Live	[fra]
+	12564	V	Super	2955	France Inter	[fra]
+	12564	V	Super	2956	France Culture	[fra]
+	12564	V	Super	2957	France Musique	
+	12564	V	Super	2958	FIP	
+	12564	V	Super	2959	France Info	
+	12564	V	Super	2960	Le Mouv	
+	12564	V	Super	2961	BFM	
+	12564	V	Super	2962	RMC	
+	12564	V	Super	2963	Nostalgie	[fra]
+	12564	V	Super	2964	NRJ	[fra]
+	12564	V	Super	2965	Rire et Chansons	[fra]
+	12564	V	Super	2966	Cherie FM	[fra]
+	12564	V	Super	2967	Europe 1	
+	12564	V	Super	2968	Virgin Radio	
+	12564	V	Super	2969	RFM	
+	12564	V	Super	2970	Radio Africa N01	[fra]
+	12564	V	Super	2976	NOVA	[fra]
+	12564	V	Super	2977	Télé Mélody	[fra]
+16	12564	V	Super	2980	Opsis TV	
+17	12564	V	Super	2981	...	
+18	12564	V	Super	2982	....	
+	12585	H	Transalpine	1	Servizio OTA1	
+	12585	H	Transalpine	2	Servizio OTA2	
+	12585	H	Transalpine	3	Servizio 3	
+	12585	H	Transalpine	4	Servizio 4	
+	12585	H	Transalpine	5	Servizio 5	
+	12585	H	Transalpine	6	Servizio 6	
+	12585	H	Transalpine	12	Servizio 12	
+	12585	H	Transalpine	13	Servizio 13	
+	12585	H	Transalpine	99	Ghost	
+	12585	H	Transalpine	99	Ghost	
+	12585	H	Transalpine	140	Sky Atlantic Italia	[eng][ita]
+	12585	H	Transalpine	141	Fox Italia	[eng][ita]
+	12585	H	Transalpine	142	National Geographic Italy	[eng][ita]
+	12585	H	Transalpine	172	Premium Stories	[eng][ita]
+	12585	H	Transalpine	173	Premium Crime	[eng][ita]
+	12585	H	Transalpine	193	#IoRestoACasa 2	[eng][ita]
+	12585	H	Transalpine	194	#IoRestoACasa 1	[eng][ita]
+	12585	H	Transalpine	197	Premium Emotion	[eng][ita]
+	12585	H	Transalpine	401	Premium Sport 4K	[aac][ita]
+	12585	H	Transalpine	5001	Servizio 1 OTA	
+	12585	H	Transalpine	5002	Servizio 2 OTA	
+	12585	H	Transalpine	5003	Servizio 3	
+	12585	H	Transalpine	5004	Servizio 4	
+	12585	H	Transalpine	5005	Servizio 5	
+	12585	H	Transalpine	5006	Servizio 6	
+	12585	H	Transalpine	5007	Servizio 7	
+	12585	H	Transalpine	5008	Servizio 8	
+	12585	H	Transalpine	5145	Sky Sport Serie A	[ita]
+	12585	H	Transalpine	5146	Canale di Servizio	
+	12585	H	Transalpine	5147	Canale di Servizio	
+	12585	H	Transalpine	5148	Premium Action	[eng][ita]
+	12585	H	Transalpine	5174	Canale di Servizio	
+	12585	H	Transalpine	5177	Sky Sport Uno	[ita]
+	12585	H	Transalpine	5178	Sky Sport Uno HD	[ita]
+	12585	H	Transalpine	5179	Sky Sport 24	
+	12585	H	Transalpine	5180	Sky Uno	[eng][ita]
+	12606	V	Transalpine	70	Servizio 70	
+	12606	V	Transalpine	71	Servizio 71	
+	12606	V	Transalpine	72	Servizio 72	
+	12606	V	Transalpine	73	Servizio 73	
+	12606	V	Transalpine	74	Servizio 74	
+	12606	V	Transalpine	75	Servizio 75	
+	12606	V	Transalpine	76	Servizio 76	
+	12606	V	Transalpine	77	Servizio 77	
+	12606	V	Transalpine	78	Servizio 78	
+	12606	V	Transalpine	79	Servizio 79	
+	12606	V	Transalpine	99	Ghost	
+	12606	V	Transalpine	711	La 7	[ita]
+	12606	V	Transalpine	712	La 7 d	[ita]
+	12606	V	Transalpine	721	LA7	[ita]
+	12606	V	Transalpine	722	LA7d	[ita]
+	12606	V	Transalpine	751	La 7 HD	[ita]
+	12606	V	Transalpine	752	La 7 d	[ita]
+	12606	V	Transalpine	761	LA7 TEST	
+	12606	V	Transalpine	762	LA7 Servizi on demand	
+	12606	V	Transalpine	763	LA7 TEST	
+	12606	V	Transalpine	764	LA7 TEST	
+	12606	V	Transalpine	765	LA7 TEST	
+	12606	V	Transalpine	790	LA7 on demand	[ita]
+	12606	V	Transalpine	791	LA7d on demand	
+	12606	V	Transalpine	7066	Mediaset Italia Due	[eng][ita]
+	12606	V	Transalpine	7102	Radio R101	[ita]
+	12606	V	Transalpine	7103	RADIO 105	[ita]
+	12606	V	Transalpine	7104	VIRGIN RADIO	[ita]
+	12606	V	Transalpine	7105	Radio Monte Carlo	[ita]
+	12606	V	Transalpine	7122	Premium Cinema	[eng][ita]
+	12606	V	Transalpine	7123	Premium Energy	[eng][ita]
+	12606	V	Transalpine	7125	Premium Comedy	[eng][ita]
+	12606	V	Transalpine	7166	Mediaset Italia Due	[eng][ita]
+	12606	V	Transalpine	7180	TV 243	
+	12606	V	Transalpine	7190	TV 153	
+	12606	V	Transalpine	7191	Sport Italia	[ita]
+	12606	V	Transalpine	7192	Tele Padre Pio	[ita]
+	12606	V	Transalpine	8015	HUMAX DOWNLOAD SVC	
+	12648	V	Transalpine	513	C8 HD	[fra][qaa][qad]
+	12648	V	Transalpine	515	BFM TV HD	[fra]
+	12648	V	Transalpine	516	CNews HD	[fra]
+	12648	V	Transalpine	517	CStar HD	[fra][qaa]
+	12648	V	Transalpine	518	Gulli HD	[fra][qaa][qad]
+	12648	V	Transalpine	769	Canal+ crypté	[fra]
+	12648	V	Transalpine	770	Canal+ Cinéma HD	[fra][qaa]
+	12648	V	Transalpine	771	Canal+ Sport HD	[fra][qaa]
+	12648	V	Transalpine	772	Planète+ HD	[fra]
+	12648	V	Transalpine	776	LCI - La Chaîne Info	[fra]
+	12648	V	Transalpine	777	Paris Première	[fra][qaa][qad]
+	12648	V	Transalpine	778	Canal+ HD	[eng][fra][qad]
+	12648	V	Transalpine	1013	DATASYSTEM R7	
+	12648	V	Transalpine	2561	TF1 Séries Films	[fra][qaa][qad]
+	12648	V	Transalpine	2562	L&acute;Equipe 21	[fra]
+	12648	V	Transalpine	2563	Cherie 25	[fra][qaa][qad]
+	12648	V	Transalpine	2564	RMC Découverte	[fra][qaa][qad]
+	12648	V	Transalpine	2565	RMC Story	[fra][qaa][qad]
+	12669	H	Transalpine	1	Servizio OTA	
+	12669	H	Transalpine	99	Ghost	
+	12669	H	Transalpine	145	Boing	[ita]
+	12669	H	Transalpine	147	Cartoonito	[ita]
+	12669	H	Transalpine	1004	Servizio4	
+	12669	H	Transalpine	1005	Servizio5	
+	12669	H	Transalpine	1006	Servizio6	
+	12669	H	Transalpine	1007	Servizio7	
+	12669	H	Transalpine	1008	Servizio8	
+	12669	H	Transalpine	1009	Servizio9	
+	12669	H	Transalpine	1010	Servizio10	
+	12669	H	Transalpine	1011	Servizio11	
+	12669	H	Transalpine	1012	Servizio12	
+	12669	H	Transalpine	2019	20 Mediaset	[eng][ita]
+	12669	H	Transalpine	2020	20 Mediaset	[eng][ita]
+	12669	H	Transalpine	2120	20 Mediaset	[eng][ita]
+	12669	H	Transalpine	2121	TOPcrime	[eng][ita]
+	12669	H	Transalpine	2122	Focus	[eng][ita]
+	12669	H	Transalpine	2123	Cine34	[ita]
+	12669	H	Transalpine	2148	Food Network Italia	[ita]
+	12669	H	Transalpine	2149	QVC Italia	[ita]
+	12669	H	Transalpine	2150	TOPcrime	[eng][ita]
+	12669	H	Transalpine	2151	Focus	[eng][ita]
+	12669	H	Transalpine	2152	Cine34	[ita]
+	12669	H	Transalpine	4004	Rete 4	[eng][ita]
+	12669	H	Transalpine	4005	Canale 5	[eng][ita]
+	12669	H	Transalpine	4006	Italia Uno	[eng][ita]
+	12669	H	Transalpine	4013	La5	[eng][ita]
+	12669	H	Transalpine	4014	TgCom24	[ita]
+	12669	H	Transalpine	4015	Iris	[eng][ita]
+	12669	H	Transalpine	4024	Rete4	[eng][ita]
+	12669	H	Transalpine	4025	Canale5	[eng][ita]
+	12669	H	Transalpine	4026	Italia1	[eng][ita]
+	12669	H	Transalpine	4105	Mediaset Play	
+	12669	H	Transalpine	4113	La 5	[eng][ita]
+	12669	H	Transalpine	4114	TGCOM24	[ita]
+	12669	H	Transalpine	4115	Iris	[eng][ita]
+	12669	H	Transalpine	4199	Infinity	
+	12669	H	Transalpine	4200	Test HEVC Main10	
+	12690	V	Super	1101	VEOA Occasion	[fra]
+19	12690	V	Super	1102	Label TV	[fra]
+	12690	V	Super	1117	RCF Limousin	[fra]
+	12690	V	Super	1118	RCF Anjou	[fra]
+	12690	V	Super	1119	RCF Jerico-Moselle	[fra]
+	12690	V	Super	1120	France Bleu 107.1	
+	12690	V	Super	1121	France Bleu Alsace	
+	12690	V	Super	1122	France Bleu Armorique	
+	12690	V	Super	1123	France Bleu Auxerre	
+	12690	V	Super	1124	France Bleu Azur	
+	12690	V	Super	1125	France Bleu Basse Normandie	
+	12690	V	Super	1126	France Bleu Bearn	
+	12690	V	Super	1127	France Bleu Belfort Montbeliard	
+	12690	V	Super	1128	France Bleu Berry	
+	12690	V	Super	1129	France Bleu Besancon	
+	12690	V	Super	1130	France Bleu Bourgogne	
+	12690	V	Super	1131	France Bleu Breizh Izel	
+	12690	V	Super	1132	France Bleu Champagne	
+	12690	V	Super	1133	France Bleu Cotentin	
+	12690	V	Super	1134	France Bleu Creuse	
+	12690	V	Super	1135	France Bleu Drome Ardeche	
+	12690	V	Super	1136	France Bleu Frequenza Mora	
+	12690	V	Super	1137	France Bleu Gard Lozere	
+	12690	V	Super	1138	France Bleu Gascogne	
+	12690	V	Super	1139	France Bleu Gironde	
+	12690	V	Super	1140	France Bleu Haute Normandie	
+	12690	V	Super	1141	France Bleu Herault	
+	12690	V	Super	1142	France Bleu Isere	
+	12690	V	Super	1143	France Bleu La Rochelle	
+	12690	V	Super	1144	France Bleu Limousin	
+	12690	V	Super	1145	France Bleu Loire Ocean	
+	12690	V	Super	1146	France Bleu Lorraine Nord	
+	12690	V	Super	1147	France Bleu Maine	
+	12690	V	Super	1148	France Bleu Mayenne	
+	12690	V	Super	1149	France Bleu Nord	
+	12690	V	Super	1150	France Bleu Orleans	
+	12690	V	Super	1151	France Bleu Pays Basque	
+	12690	V	Super	1152	France Bleu Pays d Auvergne	
+	12690	V	Super	1153	France Bleu Pays de Savoie	
+	12690	V	Super	1154	France Bleu Perigord	
+	12690	V	Super	1155	France Bleu Picardie	
+	12690	V	Super	1156	France Bleu Poitou	
+	12690	V	Super	1157	France Bleu Provence	
+	12690	V	Super	1158	France Bleu Roussillon	
+	12690	V	Super	1159	France Bleu Saint Etienne	
+	12690	V	Super	1160	France Bleu Sud Lorraine	
+	12690	V	Super	1161	France Bleu Toulouse	
+	12690	V	Super	1162	France Bleu Touraine	
+	12690	V	Super	1163	France Bleu Vaucluse	
+	12690	V	Super	1167	FIP Region	
+	12690	V	Super	1168	RF Contrib	
+	12690	V	Super	1169	France Bleu Natio	
+	12690	V	Super	1171	Radio Esperance	[fra]
+	12690	V	Super	1172	RCF Alpha Rennes	[fra]
+	12690	V	Super	1173	RCF Pays de l'Ain	[fra]
+	12690	V	Super	1174	RCF Contribution	[fra]
+	12690	V	Super	1175	RCF Pays d'Aude	[fra]
+	12690	V	Super	1176	RCF en Berry	[fra]
+	12690	V	Super	1177	RCF Corrèze	[fra]
+	12690	V	Super	1178	RCF Drôme-Ardèche	[fra]
+	12690	V	Super	1179	RCF Loir et Cher	[fra]
+	12690	V	Super	1180	RCF Savoie	[fra]
+	12690	V	Super	1181	RCF Isère	[fra]
+	12690	V	Super	1182	RCF Vendée	[fra]
+	12690	V	Super	1183	RCF	[fra]
+	12690	V	Super	1184	RCF Lyon	[fra]
+	12690	V	Super	1185	RCF Haute-Loire	[fra]
+	12690	V	Super	1186	RCF Vaucluse	[fra]
+	12690	V	Super	1187	RCF en Bourgogne	[fra]
+	12690	V	Super	1188	RCF Touraine	[fra]
+	12690	V	Super	1189	RCF Coeur de Champagne	[fra]
+	12690	V	Super	1190	RCF Haute-Normandie	[fra]
+	12690	V	Super	1191	RCF Haute-Savoie	[fra]
+	12690	V	Super	1192	RCF Allier	[fra]
+	12690	V	Super	1193	RCF Bordeaux	[fra]
+	12690	V	Super	1194	RCF Hautes-Alpes	[fra]
+	12690	V	Super	1195	RCF Franche-Comté	[fra]
+	12690	V	Super	1196	RCF Aube Haute-Marne	[fra]
+	12690	V	Super	1197	RCF Poitou	[fra]
+	12690	V	Super	1198	RCF Reims-Ardennes	[fra]
+	12690	V	Super	1200	AFP	
+	12690	V	Super	1201	RDS TDF	
+	12699	H	Transalpine	7	iLIKE.TV	[ita]
+	12699	H	Transalpine	8	Canale 162	[ita]
+	12699	H	Transalpine	15	Juwelo TV Italia	[ita]
+	12699	H	Transalpine	23	Channel 24	[ita]
+	12699	H	Transalpine	30	HSE24 Donna	[ita]
+	12699	H	Transalpine	31	Rete Italia	[ita]
+	12699	H	Transalpine	32	La 4 Italia	[ita]
+	12699	H	Transalpine	33	Gold TV Italia	[ita]
+	12699	H	Transalpine	34	Linea GEM	[ita]
+	12699	H	Transalpine	35	Linea Italia	[ita]
+	12699	H	Transalpine	36	Orler TV	[ita]
+	12699	H	Transalpine	37	Air Italia	[ita]
+	12699	H	Transalpine	38	HSE24 Beauty	[ita]
+	12699	H	Transalpine	39	Donna Sport TV	[ita]
+	12699	H	Transalpine	45	Canale 165	[ita]
+	12699	H	Transalpine	46	RCT - Rainbow Channel TV	[ita]
+	12699	H	Transalpine	95	Fire TV Italy	[ita]
+	12699	H	Transalpine	96	Canale 61	[ita]
+	12699	H	Transalpine	97	Mondo Calcio	[ita]
+	12699	H	Transalpine	98	Canale 232	[ita]
+	12699	H	Transalpine	99	Canale 259	[ita]
+	12699	H	Transalpine	110	Mediatext.it	[ita]
+	12699	H	Transalpine	111	Italia Channel	[ita]
+	12699	H	Transalpine	112	Pianeta TV	[ita]
+	12732	V	Super	1702	NASA TV UHD	
+	12732	V	Super	1703	Canal J HD	[fra]
+	12732	V	Super	1704	TiJi HD	[fra]
+	12732	V	Super	1705	Boing HD France	[fra][qaa]
+	12732	V	Super	1706	Boomerang France HD	[fra][qaa]
+	12732	V	Super	1707	Toonami France HD	[fra][qaa]
+	12732	V	Super	1708	BeIN Sport Max 4	[fra]
+	12732	V	Super	1709	BeIN Sport Max 5	[fra]
+	12732	V	Super	1710	BeIN Sport Max 6	[fra]
+	12732	V	Super	1711	BeIN Sport Max 7	[fra]
+	12732	V	Super	1712	BeIN Sport Max 8	[fra]
+	12732	V	Super	1713	BeIN Sport Max 9	[fra]
+	12732	V	Super	1714	BeIN Sport Max 10	[fra]

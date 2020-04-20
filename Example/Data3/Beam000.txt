@@ -1,3 +1,5 @@
-HB-13B
-HB-13C
-HB-13E
+E5WA C-Band
+E5WA Steerable
+E5WA Super
+E5WA Wide
+E5WB Transalpine

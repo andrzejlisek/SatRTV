@@ -1,84 +1,95 @@
 Freq	Pol	SR	FEC	Sat	Beam	Mod	Format	Info	Row
-10720	H	27500	3/4	Eutelsat 16A (16&deg; E)	EuropeB	QPSK	DVB-S	OiV (366/20100),	0
-10762	H	30000	3/5	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	DigitAlb (366/20300),	4
-10804	H	30000	2/3	Eutelsat 16A (16&deg; E)	SEAfrica	8PSK	DVB-S2		34
-10804	H	29950	2/3	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	DigitAlb (366/20500),	108
-10845	H	30000	3/5	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	DigitAlb (366/20700),	148
-10887	H	27500	5/6	Eutelsat 16A (16&deg; E)	SEAfrica	QPSK	DVB-S	CanalSat Réunion,	178
-10887	H	30000	3/5	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	DigitAlb (366/20900),	190
-10928	H	30000	3/4	Eutelsat 16A (16&deg; E)	SEAfrica	QPSK	DVB-S	Parabole Océan Indien,	228
-10928	H	30000	3/5	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	TAG Broadcasting (366/21100),	278
-10972	V	27500	3/5	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	Total TV (366/30203),	308
-10977	H	24114	3/4	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	See Afrika,	340
-11001	H	8332	5/6	Eutelsat 16A (16&deg; E)	EuropeA	QPSK	DVB-S2		384
-11011	V	27500	3/5	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	Total TV,	406
-11040	H	4166	5/6	Eutelsat 16A (16&deg; E)	SubSaharan	QPSK	DVB-S2		424
-11046	H	(SR)	None	Eutelsat 16A (16&deg; E)	EuropeA	QPSK	DVB-S		436
-11056	V	27500	4/5	Eutelsat 16A (16&deg; E)	EuropeB	QPSK	DVB-S2	TAG Broadcasting (366/30400),	440
-11070	H	334	1/2	Eutelsat 16A (16&deg; E)	EuropeA	QPSK	DVB-S	(1/0),	464
-11073	H	1000	3/4	Eutelsat 16A (16&deg; E)	EuropeA	QPSK	DVB-S	Elpitel,	468
-11092	V	27500	4/5	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	AntikSat (366/30401),	474
-11131	V	16593	2/3	Eutelsat 16A (16&deg; E)	EuropeB	QPSK	DVB-S	FreeSat Romania (65535/101),	510
-11139	H	30000	3/5	Eutelsat 16A (16&deg; E)	EuropeB	QPSK	DVB-S	Tring Digital,	526
-11151	V	13268	2/3	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S	Pink,	568
-11178	V	30000	3/5	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	Pink Media Group (366/52011),	602
-11188	H	6600	5/6	Eutelsat 16A (16&deg; E)	EuropeA	QPSK	DVB-S		660
-11221	H	30000	3/5	Eutelsat 16A (16&deg; E)	EuropeA	8PSK	DVB-S2	Total TV (366/40100),	664
-11231	V	42000	4/5	Eutelsat 16A (16&deg; E)	EuropeA	QPSK	DVB-S	Total TV (366/40200),	692
-11262	H	30000	2/3	Eutelsat 16A (16&deg; E)	EuropeB	QPSK	DVB-S	(366/1),	736
-11283	V	30000	2/3	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	Mtel,	750
-11304	H	30000	2/3	Eutelsat 16A (16&deg; E)	EuropeA	8PSK	DVB-S2	team sat (366/2),	796
-11324	V	30000	2/3	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	OrangeSat SK,	814
-11345	H	30000	3/4	Eutelsat 16A (16&deg; E)	EuropeB	QPSK	DVB-S	STN,	840
-11356	H	45000	3/4	Eutelsat 16A (16&deg; E)	SubSaharan	8PSK	DVB-S2		850
-11365	V	30000	3/4	Eutelsat 16A (16&deg; E)	EuropeA	QPSK	DVB-S	STN (366/24100),	862
-11366	V	30000	2/3	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	OrangeSat SK,	928
-11387	H	30000	3/5	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S	Tring TV (366/40900),	962
-11426	V	27500	2/3	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	Tring TV (366/360),	1008
-11471	V	30000	5/6	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	Mtel (366/50200),	1078
-11471	H	30000	3/4	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	Total TV,	1108
-11512	H	30000	3/4	Eutelsat 16A (16&deg; E)	SEAfrica	QPSK	DVB-S	CanalSat Réunion,	1162
-11512	V	29950	2/3	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	FreeSat Romania (1/200),	1210
-11512	H	30000	3/4	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	T-HT (64/1),	1226
-11553	H	30000	3/4	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	Total TV (366/50500),	1272
-11554	V	30000	5/6	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	A1 Hrvatska (366/50600),	1312
-11595	H	30000	3/4	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	T-HT (64/2),	1382
-11595	V	30000	5/6	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	AntikSat (366/50800),	1438
-11596	H	29950	3/4	Eutelsat 16A (16&deg; E)	SEAfrica	QPSK	DVB-S	Parabole Océan Indien,	1460
-11637	H	30000	5/6	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	A1 Hrvatska (366/50900),	1510
-11637	V	30000	2/3	Eutelsat 16A (16&deg; E)	EuropeA	8PSK	DVB-S2	OiV (366/51000),	1572
-11678	H	30000	3/4	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	T-HT (64/3),	1608
-12524	H	5632	3/4	Eutelsat 16A (16&deg; E)	EuropeA	QPSK	DVB-S		1660
-12540	V	19970	3/4	Eutelsat 16A (16&deg; E)	EuropeB	QPSK	DVB-S2	(1/1),	1664
-12562	H	30000	3/4	Eutelsat 16A (16&deg; E)	EuropeA	8PSK	DVB-S2		1680
-12565	V	3616	3/4	Eutelsat 16A (16&deg; E)	EuropeB	QPSK	DVB-S		1748
-12569	H	3703	7/8	Eutelsat 16A (16&deg; E)	EuropeB	QPSK	DVB-S		1752
-12572	V	8670	3/4	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	(2702/1907),	1756
-12593	V	2500	2/3	Eutelsat 16A (16&deg; E)	EuropeB	QPSK	DVB-S	DM-SAT (1/2680),	1762
-12597	V	2848	3/4	Eutelsat 16A (16&deg; E)	EuropeB	QPSK	DVB-S		1766
-12605	H	30000	3/4	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	Orange Slovensko,	1770
-12639	H	10830	3/5	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	RTSH,	1822
-12643	V	12500	3/4	Eutelsat 16A (16&deg; E)	EuropeB	QPSK	DVB-S2	FreeSat Romania (5/500),	1836
-12654	H	11111	2/3	Eutelsat 16A (16&deg; E)	EuropeB	QPSK	DVB-S	Unire (5/500),	1852
-12660	H	2220	4/5	Eutelsat 16A (16&deg; E)	EuropeB	QPSK	DVB-S		1860
-12688	V	2815	3/4	Eutelsat 16A (16&deg; E)	EuropeA	QPSK	DVB-S		1866
-12690	V	2815	3/4	Eutelsat 16A (16&deg; E)	EuropeA	QPSK	DVB-S		1870
-12693	V	2816	3/4	Eutelsat 16A (16&deg; E)	EuropeA	QPSK	DVB-S		1874
-12694	H	2300	5/6	Eutelsat 16A (16&deg; E)	EuropeB	8PSK	DVB-S2	Unire,	1878
-12701	H	9880	1/2	Eutelsat 16A (16&deg; E)	EuropeB	QPSK	DVB-S	Unire,	1884
-12717	H	7500	3/4	Eutelsat 16A (16&deg; E)	EuropeA	QPSK	DVB-S2	Centrul National Media,	1894
-12726	V	30000	5/6	Eutelsat 16A (16&deg; E)	EuropeA	QPSK	DVB-S		1904
-12734	V	5632	3/4	Eutelsat 16A (16&deg; E)	EuropeA	QPSK	DVB-S		1932
-12737	H	4500	3/4	Eutelsat 16A (16&deg; E)	EuropeB	QPSK	DVB-S	FreeSat Romania,	1936
-21534	H	1123	3/5	Eutelsat 16A (16&deg; E)	EuropeC	8PSK	DVB-S2		1944
-21536	H	1100	4/5	Eutelsat 16A (16&deg; E)	EuropeC	QPSK	DVB-S		1948
-21538	H	1054	3/4	Eutelsat 16A (16&deg; E)	EuropeC	8PSK	DVB-S2		1952
-21540	H	1071	3/4	Eutelsat 16A (16&deg; E)	EuropeA	8PSK	DVB-S2		1956
-21542	H	1070	3/4	Eutelsat 16A (16&deg; E)	EuropeC	8PSK	DVB-S2		1960
-21543	H	1100	3/4	Eutelsat 16A (16&deg; E)	EuropeA	8PSK	DVB-S2		1964
-21545	H	2143	5/6	Eutelsat 16A (16&deg; E)	EuropeA	8PSK	DVB-S2		1968
-21547	H	1237	5/6	Eutelsat 16A (16&deg; E)	EuropeA	8PSK	DVB-S2		1974
-21562	H	1010	2/3	Eutelsat 16A (16&deg; E)	EuropeA	8PSK	DVB-S2		1978
-21571	H	2900	5/6	Eutelsat 16A (16&deg; E)	EuropeC	8PSK	DVB-S2		1982
-21577	H	5000	3/4	Eutelsat 16A (16&deg; E)	EuropeC	8PSK	DVB-S2	Canal 2,	1990
-21607	H	7706	2/3	Eutelsat 16A (16&deg; E)	EuropeA	8PSK	DVB-S2		2004
+10722	V	30000	2/3	Amos 3 (4&deg; W)	EUV3	8PSK	DVB-S2	T-Home (100/1),	0
+10722	V	27500	5/6	Amos 3 (4&deg; W)	MEV3	QPSK	DVB-S	Yes,	52
+10758	V	30000	3/4	Amos 3 (4&deg; W)	EUV3	8PSK	DVB-S2	T-Home (100/2),	92
+10758	V	27500	5/6	Amos 3 (4&deg; W)	MEV3	QPSK	DVB-S	Yes,	148
+10806	V	27500	3/4	Amos 3 (4&deg; W)	MEV3	QPSK	DVB-S	Yes (100/8),	192
+10806	V	30000	3/4	Amos 3 (4&deg; W)	EUV3	8PSK	DVB-S2	T-Home (100/5),	226
+10842	V	30000	2/3	Amos 3 (4&deg; W)	MEV3	8PSK	DVB-S2	Yes (171/5),	274
+10842	V	27500	3/4	Amos 3 (4&deg; W)	MEV3	QPSK	DVB-S	Yes (171/6),	302
+10842	V	30000	3/4	Amos 3 (4&deg; W)	EUV3	8PSK	DVB-S2	T-Home (100/3),	328
+10925	V	27500	3/4	Amos 3 (4&deg; W)	MEV3	QPSK	DVB-S	Yes (0/5),	352
+10972	V	30000	2/3	Amos 3 (4&deg; W)	MEV3	8PSK	DVB-S2	Yes,	398
+10997	V	15000	2/3	Amos 7 (4&deg; W)	ME	8PSK	DVB-S2	Yes,	432
+11030	V	27500	3/4	Amos 7 (4&deg; W)	ME	QPSK	DVB-S	Yes,	440
+11031	V	27500	5/6	Amos 7 (4&deg; W)	ME	QPSK	DVB-S	Yes,	478
+11033	H	3000	2/3	Amos 7 (4&deg; W)	ME	QPSK	DVB-S		508
+11057	V	13750	5/6	Amos 7 (4&deg; W)	ME	QPSK	DVB-S	Yes,	512
+11062	H	4500	4/5	Amos 7 (4&deg; W)	ME	QPSK	DVB-S		524
+11077	V	10416	3/4	Amos 7 (4&deg; W)	ME	8PSK	DVB-S	Yes,	530
+11080	V	9546	5/6	Amos 7 (4&deg; W)	ME	QPSK	DVB-S	Yes,	534
+11095	H	11480	2/3	Amos 7 (4&deg; W)	ME	QPSK	DVB-S	Rashut 2,	546
+11100	H	2100	3/4	Amos 3 (4&deg; W)	EUH3	QPSK	DVB-S		552
+11103	V	30000	2/3	Amos 7 (4&deg; W)	ME	8PSK	DVB-S2	Yes,	556
+11113	H	8518	3/4	Amos 7 (4&deg; W)	ME	QPSK	DVB-S	KAN,	562
+11140	H	30000	3/4	Amos 3 (4&deg; W)	EUH3	QPSK	DVB-S	STB (1/4),	584
+11175	H	30000	3/4	Amos 3 (4&deg; W)	EUH3	QPSK	DVB-S	STB (1/3),	624
+11222	H	30000	3/4	Amos 3 (4&deg; W)	EUH3	8PSK	DVB-S2	T-Home,	654
+11258	H	30000	3/4	Amos 3 (4&deg; W)	EUH3	8PSK	DVB-S2	T-Home,	684
+11304	H	8888	3/4	Amos 3 (4&deg; W)	EUH3	QPSK	DVB-S	Antenna Hungária (1/1),	706
+11321	H	4800	3/4	Amos 3 (4&deg; W)	EUH3	8PSK	DVB-S2		714
+11322	H	7200	3/4	Amos 3 (4&deg; W)	EUH3	8PSK	DVB-S2		718
+11323	H	2400	3/4	Amos 3 (4&deg; W)	EUH3	8PSK	DVB-S2		722
+11324	H	3200	3/4	Amos 3 (4&deg; W)	EUH3	8PSK	DVB-S2		726
+11325	H	2400	3/4	Amos 3 (4&deg; W)	EUH3	8PSK	DVB-S2		730
+11327	H	3200	2/3	Amos 3 (4&deg; W)	EUH3	8PSK	DVB-S2		734
+11333	H	8000	3/4	Amos 3 (4&deg; W)	EUH3	QPSK	DVB-S2		738
+11340	H	3000	4/5	Amos 3 (4&deg; W)	EUH3	16APSK	DVB-S2		744
+11346	H	2929	3/4	Amos 3 (4&deg; W)	EUH3	32APSK	DVB-S2		748
+11350	H	17333	2/3	Amos 3 (4&deg; W)	EUH3	8PSK	DVB-S2	HDT,	752
+11351	H	1250	5/6	Amos 3 (4&deg; W)	EUH3	QPSK	DVB-S2		768
+11373	H	5450	4/5	Amos 3 (4&deg; W)	EUH3	16APSK	DVB-S2		774
+11374	V	5231	1/2	Amos 3 (4&deg; W)	MEV3	QPSK	DVB-S2		778
+11378	H	3200	3/4	Amos 3 (4&deg; W)	EUH3	QPSK	DVB-S		782
+11382	H	3200	3/4	Amos 3 (4&deg; W)	EUH3	QPSK	DVB-S		786
+11385	H	2400	3/4	Amos 3 (4&deg; W)	EUH3	8PSK	DVB-S2		790
+11386	H	3200	3/4	Amos 3 (4&deg; W)	EUH3	8PSK	DVB-S2		794
+11387	V	2000	7/8	Amos 3 (4&deg; W)	MEV3	8PSK	DVB-S2		798
+11389	H	30000	3/4	Amos 3 (4&deg; W)	EUH3	8PSK	DVB-S2	T-Home,	802
+11391	H	3200	3/4	Amos 3 (4&deg; W)	EUH3	8PSK	DVB-S2		816
+11392	H	2400	2/3	Amos 3 (4&deg; W)	EUH3	8PSK	DVB-S2		820
+11395	H	2400	3/4	Amos 3 (4&deg; W)	EUH3	QPSK	DVB-S2		824
+11396	H	3200	2/3	Amos 3 (4&deg; W)	EUH3	QPSK	DVB-S2		828
+11426	H	30000	3/4	Amos 3 (4&deg; W)	EUH3	8PSK	DVB-S2	T-Home,	832
+11436	V	2999	1/2	Amos 3 (4&deg; W)	MEV3	QPSK	DVB-S2		868
+11449	H	1704	5/6	Amos 3 (4&deg; W)	EUH3	8PSK	DVB-S2		872
+11468	H	2222	5/6	Amos 7 (4&deg; W)	PanEuropean	QPSK	DVB-S		876
+11474	V	27500	5/6	Amos 3 (4&deg; W)	MEV3	QPSK	DVB-S	Yes (171/1),	880
+11476	H	2300	5/6	Amos 7 (4&deg; W)	PanEuropean	8PSK	DVB-S2		920
+11500	H	23994	1/2	Amos 7 (4&deg; W)	PanEuropean	DVB-S2		EIRP	924
+11501	V	13750	5/6	Amos 3 (4&deg; W)	MEV3	QPSK	DVB-S	Yes,	928
+11530	H	5450	4/5	Amos 7 (4&deg; W)	PanEuropean	16APSK	DVB-S2		946
+11544	H	3333	5/6	Amos 7 (4&deg; W)	PanEuropean	QPSK	DVB-S		950
+11551	H	5454	2/3	Amos 7 (4&deg; W)	PanEuropean	16APSK	DVB-S2		954
+11552	V	27500	3/4	Amos 3 (4&deg; W)	MEV3	QPSK	DVB-S	Yes,	958
+11553	V	27500	3/4	Amos 3 (4&deg; W)	MEV3	QPSK	DVB-S	Yes,	990
+11554	V	27500	5/6	Amos 3 (4&deg; W)	MEV3	QPSK	DVB-S	Yes (171/12),	1034
+11568	H	15000	2/3	Amos 7 (4&deg; W)	PanEuropean	8PSK	DVB-S2	HDT,	1082
+11580	V	1222	7/8	Amos 3 (4&deg; W)	MEV3	QPSK	DVB-S		1096
+11585	H	2604	5/6	Amos 7 (4&deg; W)	PanEuropean	QPSK	DVB-S		1100
+11590	H	3700	3/4	Amos 3 (4&deg; W)	EUH3	QPSK	DVB-S		1104
+11596	H	7200	3/4	Amos 7 (4&deg; W)	PanEuropean	8PSK	DVB-S2		1110
+11636	H	26000	2/3	Amos 7 (4&deg; W)	PanEuropean	8PSK	DVB-S2		1114
+11645	H	4231	5/6	Amos 7 (4&deg; W)	PanEuropean	QPSK	DVB-S		1118
+11646	H	5000	5/6	Amos 7 (4&deg; W)	PanEuropean	16APSK	DVB-S2		1122
+11654	H	3333	5/6	Amos 7 (4&deg; W)	PanEuropean	QPSK	DVB-S		1126
+11655	H	6545	2/3	Amos 7 (4&deg; W)	PanEuropean	16APSK	DVB-S2		1130
+11727	V	27500	5/6	Thor 3 (4&deg; W)	ME	32APSK	DVB-S2		1134
+11747	H	27500	5/6	Thor 3 (4&deg; W)	ME	16APSK	DVB-S2		1138
+11823	H	27500	9/10	Thor 3 (4&deg; W)	ME	32APSK	DVB-S2		1142
+12149	V	27500	9/10	Thor 3 (4&deg; W)	ME	32APSK	DVB-S2		1146
+12169	H	27500	3/4	Thor 3 (4&deg; W)	ME	8PSK	DVB-S2		1150
+12226	V	27500	8/9	Thor 3 (4&deg; W)	ME	32APSK	DVB-S2		1154
+12297	H	45000	2/3	Thor 3 (4&deg; W)	ME	8PSK	DVB-S2	Star Light Media,	1158
+12303	V	31420	4/5	Thor 3 (4&deg; W)	ME	16APSK	DVB-S2		1176
+12340	H	17900	3/4	Amos 7 (4&deg; W)	CEE	8PSK	DVB-S2	Ukrkosmos,	1182
+12364	H	13333	3/4	Amos 7 (4&deg; W)	CEE	8PSK	DVB-S2	Ukrkosmos (42/2),	1198
+12374	H	4800	3/4	Amos 7 (4&deg; W)	CEE	8PSK	DVB-S2		1208
+12377	H	3200	3/4	Amos 7 (4&deg; W)	CEE	8PSK	DVB-S2		1212
+12380	V	30000	8/9	Thor 3 (4&deg; W)	ME	16APSK	DVB-S2		1216
+12391	H	3200	3/4	Amos 7 (4&deg; W)	CEE	QPSK	DVB-S		1220
+12395	H	3200	3/4	Amos 7 (4&deg; W)	CEE	QPSK	DVB-S		1224
+12399	H	27500	2/3	Thor 3 (4&deg; W)	ME	8PSK	DVB-S2		1228
+12410	H	20833	7/8	Amos 7 (4&deg; W)	CEE	QPSK	DVB-S	Ukrkosmos (42/1),	1232
+12456	V	31420	5/6	Thor 3 (4&deg; W)	ME	16APSK	DVB-S2		1262
+12476	H	27500	9/10	Thor 3 (4&deg; W)	ME	32APSK	DVB-S2		1268

@@ -1,584 +1,332 @@
-Freq	Pol	Beam	SID	Type	Name	Lang	FTA
-10758	V	Europe8	17038	TV	4fun Gold Hits	[pol]	Yes
-10758	V	Europe8	17039	TV	4fun Dance	[pol]	Yes
-10758	V	Europe8	17048	TV	Vox Music TV Polska	[pol]	Yes
-10758	V	Europe8	17049	TV	Eska Rock TV	[pol]	Yes
-10758	V	Europe8	17050	TV	Polo TV	[pol]	Yes
-10758	V	Europe8	17051	TV	Eska TV Extra	[pol]	Yes
-10775	H	Wide	1506	TV	IRINN	[per]	Yes
-10775	H	Wide	1508	TV	IRIB Quran	[per]	Yes
-10775	H	Wide	1514	TV	iFilm TV	[ara][per]	Yes
-10775	H	Wide	1520	TV	IRIB Nasim	[per]	Yes
-10775	H	Wide	1521	TV	Jame-Jam TV Network	[per]	Yes
-10775	H	Wide	1522	TV	Jame-Jam TV 2	[per]	Yes
-10775	H	Wide	1523	TV	Jame-Jam TV 3	[per]	Yes
-10775	H	Wide	1526	TV	Sahar Balkan (Bosanski)	[bos]	Yes
-10775	H	Wide	1527	TV	Sahar Azeri	[aze]	Yes
-10775	H	Wide	1528	TV	Sahar Urdu	[urd]	Yes
-10775	H	Wide	1529	TV	Sahar Kurdi	[kur]	Yes
-10775	H	Wide	1530	TV	Alkawthar TV	[ara]	Yes
-10775	H	Wide	1531	TV	Press TV HD	[eng]	Yes
-10775	H	Wide	1532	TV	Hispan TV	[spa]	Yes
-10775	H	Wide	1533	TV	iFilm English	[eng][per]	Yes
-10796	V	Europe9	15703	TV	Vox Music TV Polska	[pol]	Yes
-10796	V	Europe9	15704	TV	TV Silesia	[pol]	Yes
-10796	V	Europe9	15715	TV	Eska Rock TV	[pol]	Yes
-10815	H	Europe8	17308	TV	Vozrojdenie.tv	[eng][ukr]	Yes
-10815	H	Europe8	17311	TV	BVN	[dut]	Yes
-10815	H	Europe8	17312	TV	CNL	[rus]	Yes
-10815	H	Europe8	17317	TV	TBN Rossiya	[rus]	Yes
-10815	H	Europe8	17320	TV	Thai TV Global Network	[tha]	Yes
-10815	H	Europe8	17344	R	The Overcomer Ministry	[eng]	Yes
-10815	H	Europe8	17373	TV	The Word Network	[eng]	Yes
-10873	V	Europe9	1	TV	Al Maghribya	[ara]	Yes
-10873	V	Europe9	2	TV	Al Aoula Laayoune	[ara]	Yes
-10873	V	Europe9	3	TV	Al Aoula Inter HD	[ara]	Yes
-10873	V	Europe9	4	TV	Arrabiâ	[ara]	Yes
-10873	V	Europe9	5	TV	Al Aoula Inter	[ara]	Yes
-10873	V	Europe9	6	TV	Assadissa	[ara]	Yes
-10873	V	Europe9	8	TV	Medi 1 TV	[ara]	Yes
-10873	V	Europe9	10	TV	Arryadia	[ara]	Yes
-10873	V	Europe9	11	R	Chaîne Nationale	[ara]	Yes
-10873	V	Europe9	12	R	Radio Régional de Dakhla	[ara]	Yes
-10873	V	Europe9	14	R	Chaîne Inter	[fre]	Yes
-10873	V	Europe9	15	R	Radio Amazigh	[ara]	Yes
-10873	V	Europe9	16	R	Radio Mohammed VI du Saint Coran	[ara]	Yes
-10873	V	Europe9	31	TV	Arryadia HD (3)	[ara]	Yes
-10873	V	Europe9	50	R	Radio Plus Agadir	[ara]	Yes
-10873	V	Europe9	60	R	Radio Al Houceima	[ara]	Yes
-10873	V	Europe9	70	R	Radio Tetouan	[ara]	Yes
-10873	V	Europe9	80	R	Radio Meknes	[ara]	Yes
-10873	V	Europe9	129	R	Radio Méditerranée International	[fre]	Yes
-10873	V	Europe9	177	R	Radio Tanger	[ara]	Yes
-10873	V	Europe9	178	R	Radio Fes	[ara]	Yes
-10873	V	Europe9	179	R	Radio Marrakech (Alwatania)	[ara]	Yes
-10873	V	Europe9	241	TV	Tamazight HD	[ber]	Yes
-10930	H	Europe9	51	TV	Shant Music HD	[arm]	Yes
-10930	H	Europe9	16924	TV	UA TV	[ukr]	Yes
-10949	V	Europe8	7403	R	WRN Russkij	[rus]	Yes
-10949	V	Europe8	7404	R	WRN English Europe	[eng]	Yes
-10949	V	Europe8	7406	R	Radio Jahani	[ara]	Yes
-10949	V	Europe8	7407	R	Babcock Events	[eng]	Yes
-10949	V	Europe8	7408	R	Babcock Sawt Al Alam	[ara]	Yes
-10949	V	Europe8	7456	TV	Al Hiwar HD	[ara]	Yes
-10949	V	Europe8	7462	TV	EWTN UK & Ireland	[eng]	Yes
-10949	V	Europe8	7463	TV	CNBC Europe	[eng]	Yes
-10949	V	Europe8	7466	TV	Imam Hussein TV 3	[eng]	Yes
-10949	V	Europe8	7469	R	RFI Persian	[per]	Yes
-10949	V	Europe8	7470	TV	Sat-7 Pars (11-21 & 23-09)	[per]	Yes
-10949	V	Europe8	7470	TV	Türk-7 (09-11 & 21-23)	[tur]	Yes
-10949	V	Europe8	7471	TV	Velayat TV	[per]	Yes
-10949	V	Europe8	7475	TV	Imam Hussein 1	[per]	Yes
-10992	V	Wide	8511	TV	Rai 1	[ita]	Yes
-10992	V	Wide	8512	TV	Rai 2	[ita]	Yes
-10992	V	Wide	8513	TV	Rai 3	[ita]	Yes
-10992	V	Wide	8515	R	RAI Radio Tutta Italiana	[ita]	Yes
-10992	V	Wide	8516	TV	Rai News 24	[ita]	Yes
-10992	V	Wide	8554	R	Radio OM unica (Rai Radio 1)	[ita]	Yes
-10992	V	Wide	8555	R	Rai Radio 2 mono	[ita]	Yes
-10992	V	Wide	8556	R	Rai Radio 3 mono	[ita]	Yes
-11034	V	Europe9	1701	TV	Algérie 5 (TV Coran)	[ara]	Yes
-11034	V	Europe9	1702	TV	Algérie 4 (TV Tamazight)	[ber]	Yes
-11034	V	Europe9	1703	TV	TNT International	[rus]	Yes
-11034	V	Europe9	1704	TV	Shanson TV International	[rus]	Yes
-11034	V	Europe9	1706	TV	CGTN	[eng]	Yes
-11034	V	Europe9	1707	TV	STS International	[rus]	Yes
-11034	V	Europe9	1708	TV	RTR Planeta	[rus]	Yes
-11034	V	Europe9	1709	TV	Boutique TV	[rus]	Yes
-11034	V	Europe9	1710	TV	Rossiya 24	[rus]	Yes
-11034	V	Europe9	1711	R	Chaîne 2	[ber]	Yes
-11034	V	Europe9	1712	TV	TV Rus	[rus]	Yes
-11034	V	Europe9	1713	TV	NTV Mir	[rus]	Yes
-11034	V	Europe9	1717	TV	Ganj e Hozour TV	[per]	Yes
-11034	V	Europe9	1718	TV	8 Kanal International	[rus]	Yes
-11034	V	Europe9	1731	R	Chaîne 3	[ara]	Yes
-11034	V	Europe9	1751	R	Chaîne 1	[ara]	Yes
-11034	V	Europe9	1755	R	Radio 2M	[ara]	Yes
-11054	H	Europe8	607	TV	DW (English)	[eng]	Yes
-11054	H	Europe8	3550	R	DW-FM02	[ger]	Yes
-11054	H	Europe8	3580	R	DW08	[ger]	Yes
-11054	H	Europe8	3590	R	DW09	[ger]	Yes
-11054	H	Europe8	3610	R	DW-FM01	[ger]	Yes
-11054	H	Europe8	3660	R	DW-Feed1	[ger]	Yes
-11054	H	Europe8	8003	TV	ARTI TV	[tur]	Yes
-11054	H	Europe8	8004	TV	MC EU	[tur]	Yes
-11054	H	Europe8	8021	TV	Persian Star 2	[per]	Yes
-11054	H	Europe8	8033	TV	CNL	[rus]	Yes
-11075	V	Europe8	3710	TV	Aristo TV	[ger]	Yes
-11075	V	Europe8	3711	TV	Anixe Plus HD	[ger]	Yes
-11075	V	Europe8	3712	TV	Anixe HD Serie	[ger]	Yes
-11075	V	Europe8	3715	TV	TVP Polonia	[pol]	Yes
-11137	H	Europe9	7302	TV	Bloomberg Europe	[eng]	Yes
-11137	H	Europe9	7305	TV	Al Jazeera English	[eng]	Yes
-11137	H	Europe9	7306	TV	Al Jazeera English HD	[eng]	Yes
-11137	H	Europe9	7322	TV	TV 5 Monde Europe	[fre]	Yes
-11137	H	Europe9	7355	TV	Manoto TV	[per]	Yes
-11179	H	Europe9	4902	TV	Marcopolo	[ita]	Yes
-11179	H	Europe9	4904	TV	Alkarma TV Middle East	[ara]	Yes
-11179	H	Europe9	4907	TV	TVP Polonia	[pol]	Yes
-11179	H	Europe9	4910	TV	Juwelo TV Italia	[ita]	Yes
-11179	H	Europe9	4923	TV	C TV	[ara]	Yes
-11179	H	Europe9	4950	TV	Horn Cable TV	[som]	Yes
-11179	H	Europe9	4955	TV	Radio Radio TV	[ita]	Yes
-11179	H	Europe9	4970	TV	TLC Telecampione	[ita]	Yes
-11179	H	Europe9	4978	TV	Almagd TV	[ara]	Yes
-11179	H	Europe9	4993	TV	Arte Investimenti	[ita]	Yes
-11179	H	Europe9	4994	TV	Telecupole	[ita]	Yes
-11179	H	Europe9	4996	TV	All In Channel	[ita]	Yes
-11200	V	Wide	7	TV	RT Arabic	[ara]	Yes
-11200	V	Wide	33	TV	Alsharqiya News HD	[ara]	Yes
-11200	V	Wide	41	TV	SMN-ETH (Sidaamu Miidiy Networke)	[amh]	Yes
-11200	V	Wide	42	TV	Telekanal Vozrojdenie	[ukr]	Yes
-11200	V	Wide	43	TV	The Word Network	[eng]	Yes
-11200	V	Wide	44	TV	SBN Global	[eng]	Yes
-11200	V	Wide	45	TV	LoveWorld Mena	[ara][eng]	Yes
-11200	V	Wide	46	TV	C Sat TV (Coptic Sat TV)	[ara]	Yes
-11200	V	Wide	4703	TV	Mohabat TV	[per]	Yes
-11200	V	Wide	4708	TV	Towheed	[per]	Yes
-11200	V	Wide	4709	TV	KICC TV	[eng]	Yes
-11200	V	Wide	4762	TV	Universal Somali TV	[som]	Yes
-11200	V	Wide	4763	TV	GünAz TV	[aze]	Yes
-11200	V	Wide	4782	TV	Orient News	[ara]	Yes
-11200	V	Wide	4783	TV	WRM TV	[eng]	Yes
-11200	V	Wide	4784	TV	Umut (time sharing)	[tur]	Yes
-11200	V	Wide	4784	TV	Al Waad Channel	[ara]	Yes
-11200	V	Wide	4790	TV	Russian Music Box	[rus]	Yes
-11200	V	Wide	4791	TV	NetViet (VTC10)	[vie]	Yes
-11200	V	Wide	4792	TV	TVK	[kha]	Yes
-11200	V	Wide	4793	TV	Thai TV Global Network	[tha]	Yes
-11200	V	Wide	4794	TV	VTV 4	[vie]	Yes
-11200	V	Wide	4795	TV	BVN TV Europa	[dut]	Yes
-11200	V	Wide	17303	TV	KlikSat	[kur]	Yes
-11240	V	Europe9	13930	TV	Noviy Mir	[rus]	Yes
-11240	V	Europe9	13931	TV	RT English	[eng]	Yes
-11296	H	Europe9	2201	TV	Aryen TV	[kur]	Yes
-11296	H	Europe9	2202	TV	CBC (Caspian Broadcasting Company)	[aze]	Yes
-11296	H	Europe9	2203	TV	Kurdsat	[kur]	Yes
-11296	H	Europe9	2204	TV	Yemen TV	[ara]	Yes
-11296	H	Europe9	2207	TV	Kurdsat News	[kur]	Yes
-11296	H	Europe9	2209	TV	Gali Kurdistan TV	[kur]	Yes
-11296	H	Europe9	2210	TV	RTVi Archive	[rus]	Yes
-11296	H	Europe9	2211	TV	Lalish TV	[fas]	Yes
-11296	H	Europe9	2212	TV	Kazakh TV	[eng][kaz]	Yes
-11296	H	Europe9	2213	TV	Radio Javan HD	[per]	Yes
-11296	H	Europe9	2215	TV	Suroyo	[ara]	Yes
-11317	V	Europe9	17627	TV	Rudaw	[kur]	Yes
-11317	V	Europe9	17632	TV	RT Arabic	[ara]	Yes
-11317	V	Europe9	17634	TV	Kalemeh TV	[per]	Yes
-11317	V	Europe9	17638	TV	Somali Cable	[som]	Yes
-11334	H	Europe9	4	TV	Armenia 1 TV	[arm]	Yes
-11334	H	Europe9	6	TV	Armenia TV	[arm]	Yes
-11334	H	Europe9	9	TV	SBN	[eng]	Yes
-11334	H	Europe9	10	TV	RTP Internacional Europa	[por]	Yes
-11334	H	Europe9	12	TV	Daystar	[eng][usa]	Yes
-11373	H	Europe9	501	TV	Iran International	[per]	Yes
-11373	H	Europe9	502	TV	SCT Promo	[ita]	Yes
-11373	H	Europe9	504	TV	NASA TV HD	[eng]	Yes
-11373	H	Europe9	505	TV	NASA TV UHD	[eng]	Yes
-11373	H	Europe9	506	TV	Rûdaw HD	[kur]	Yes
-11373	H	Europe9	507	TV	Waar TV HD	[ara]	Yes
-11373	H	Europe9	508	TV	Kurdistan 24 HD	[kur]	Yes
-11373	H	Europe9	532	TV	Tesory Channel	[ita]	Yes
-11393	V	Europe9	4314	TV	Polo TV	[pol]	Yes
-11393	V	Europe9	4316	TV	Mango 24	[pol]	Yes
-11393	V	Europe9	4317	TV	Nuta TV	[pol]	Yes
-11393	V	Europe9	4321	TV	Fokus TV promo	[pol]	Yes
-11393	V	Europe9	4324	TV	NTL Radomsko	[pol]	Yes
-11393	V	Europe9	4325	TV	Top Kids	[pol]	Yes
-11393	V	Europe9	4326	TV	Eska TV	[pol]	Yes
-11393	V	Europe9	4327	TV	Power TV	[pol]	Yes
-11393	V	Europe9	4328	TV	To!TV	[pol]	Yes
-11470	V	Europe9	4	TV	Kalsan TV	[som]	Yes
-11470	V	Europe9	6	TV	Rang A Rang TV	[per]	Yes
-11470	V	Europe9	7	TV	ESTV	[amh]	Yes
-11470	V	Europe9	9	TV	Somali Cable	[som]	Yes
-11470	V	Europe9	10	TV	Towheed	[per]	Yes
-11470	V	Europe9	32	TV	Somali National TV	[som]	Yes
-11508	V	Europe9	15832	TV	Travel Channel HD	[000][pol]	Yes
-11526	H	Europe9	14021	R	SRF 1	[ger]	Yes
-11526	H	Europe9	14022	R	SRF 2 Kultur	[ger]	Yes
-11526	H	Europe9	14023	R	SRF 3	[ger]	Yes
-11526	H	Europe9	14024	R	SRF Virus	[ger]	Yes
-11526	H	Europe9	14025	R	SRF Musikwelle	[ger]	Yes
-11526	H	Europe9	14026	R	Radio Rumantsch	[roh]	Yes
-11526	H	Europe9	14027	R	RSR La 1ère	[fre]	Yes
-11526	H	Europe9	14028	R	RSR Espace 2	[fre]	Yes
-11526	H	Europe9	14029	R	Couleur 3	[fre]	Yes
-11526	H	Europe9	14030	R	RSR Option Musique	[fre]	Yes
-11526	H	Europe9	14031	R	RSI Rete Uno	[ita]	Yes
-11526	H	Europe9	14032	R	RSI Rete Due	[ita]	Yes
-11526	H	Europe9	14033	R	RSI Rete Tre	[ita]	Yes
-11526	H	Europe9	14034	R	Swiss Classic	[ger]	Yes
-11526	H	Europe9	14035	R	Swiss Pop	[ger]	Yes
-11526	H	Europe9	14036	R	Swiss Jazz	[ger]	Yes
-11526	H	Europe9	14037	R	SRF 4 News	[ger]	Yes
-11526	H	Europe9	14039	R	Radio Suisse Classique	[fre]	Yes
-11526	H	Europe9	14053	TV	SRF info HD	[eng][ger]	Yes
-11526	H	Europe9	14054	TV	Test14054	[eng][ger]	Yes
-11541	V	Europe8	3621	TV	QVC Italia	[ita]	Yes
-11541	V	Europe8	3622	TV	Das Erste	[ger]	Yes
-11541	V	Europe8	3623	TV	Simaye Azadi Iran National TV	[per]	Yes
-11541	V	Europe8	3628	TV	TG Norba 24	[ita]	Yes
-11541	V	Europe8	3633	R	Virgin Radio Italia	[ita]	Yes
-11541	V	Europe8	3635	R	Radio Cuore	[ita]	Yes
-11541	V	Europe8	3636	R	Radio Buon Consiglio	[ita]	Yes
-11541	V	Europe8	3637	R	Radio Cuore 2	[ita]	Yes
-11541	V	Europe8	3638	R	Radio Kiss Kiss	[ita]	Yes
-11541	V	Europe8	3639	R	Radio Millennium	[ita]	Yes
-11541	V	Europe8	3640	R	Radio Sacra Famiglia InBlu	[ita]	Yes
-11541	V	Europe8	3641	R	LifeGate Radio	[ita]	Yes
-11541	V	Europe8	3642	R	Radio Padre Pio	[ita]	Yes
-11541	V	Europe8	3643	R	Radio Centro 95	[ita]	Yes
-11541	V	Europe8	3644	R	Radio 24	[ita]	Yes
-11541	V	Europe8	3645	R	Radio Onda d'Urto	[ita]	Yes
-11541	V	Europe8	3647	R	R101	[ita]	Yes
-11541	V	Europe8	3648	R	Radio Kolbe	[ita]	Yes
-11541	V	Europe8	3650	R	DiscoRadio	[ita]	Yes
-11541	V	Europe8	3651	R	Radio Deejay	[ita]	Yes
-11541	V	Europe8	3652	R	Radio Capital	[ita]	Yes
-11541	V	Europe8	3653	R	M2o	[ita]	Yes
-11541	V	Europe8	3654	R	Radio Iglesias	[ita]	Yes
-11566	H	Europe8	798	TV	Qatar TV	[ara]	Yes
-11566	H	Europe8	799	TV	TRT Arabi	[ara]	Yes
-11566	H	Europe8	800	TV	Belarus 24	[rus]	Yes
-11566	H	Europe8	801	TV	EuroNews HD	[eng]	Yes
-11566	H	Europe8	802	TV	Kuwait TV 1 HD	[ara]	Yes
-11566	H	Europe8	803	TV	TRT World HD	[eng]	Yes
-11566	H	Europe8	807	TV	France 24 Français HD	[fre]	Yes
-11566	H	Europe8	808	TV	France 24 English HD	[fre]	Yes
-11585	V	Europe9	871	TV	CCTV 4 Europe HD	[chi]	Yes
-11585	V	Europe9	872	TV	CGTN HD	[eng]	Yes
-11585	V	Europe9	873	TV	CGTN Documentary	[eng]	Yes
-11585	V	Europe9	874	TV	CGTN Español HD	[spa]	Yes
-11585	V	Europe9	875	TV	CGTN Français HD	[fre]	Yes
-11604	H	Europe8	637	TV	TV Rus	[rus]	Yes
-11604	H	Europe8	638	TV	Juwelo TV Italia	[ita]	Yes
-11604	H	Europe8	660	TV	Iran AS Movie	[per]	Yes
-11604	H	Europe8	662	TV	IR.ICE TV	[per]	Yes
-11604	H	Europe8	664	TV	IR.Pixel TV	[per]	Yes
-11604	H	Europe8	3510	R	DW-Radio 1	[ger]	Yes
-11604	H	Europe8	3520	R	DW-Radio 2	[eng]	Yes
-11604	H	Europe8	3670	R	RNW 1	[dut]	Yes
-11623	V	Wide	10701	TV	Tele Congo	[fre]	Yes
-11623	V	Wide	10705	TV	Canal Algérie	[fre]	Yes
-11623	V	Wide	10714	R	ARTE Radio	[fre]	Yes
-11623	V	Wide	10720	TV	Al-Zahra TV info card	[ara]	Yes
-11623	V	Wide	10723	TV	Soyuz	[rus]	Yes
-11623	V	Wide	10726	TV	ERT World Europe	[gre]	Yes
-11623	V	Wide	10729	R	Tamil Alai	[tai]	Yes
-11623	V	Wide	10750	R	RTL 102.5 FM	[ita]	Yes
-11623	V	Wide	10751	R	România în direct	[rum]	Yes
-11623	V	Wide	10753	R	RadioClassica	[ita]	Yes
-11623	V	Wide	10754	R	RTL 102.5 Groove	[ita]	Yes
-11623	V	Wide	10755	R	RTL 102.5 Italian Style	[ita]	Yes
-11623	V	Wide	10756	R	RTL 102.5 Radio Guardia Costiera	[ita]	Yes
-11623	V	Wide	10757	R	RTL 102.5 Classic	[ita]	Yes
-11642	H	Wide	1306	TV	Winga TV	[ita]	Yes
-11642	H	Wide	1307	TV	RTL 102.5 TV HD	[ita]	Yes
-11642	H	Wide	1308	TV	Radio Freccia HD	[ita]	Yes
-11642	H	Wide	1309	TV	I24 News HD (French)	[eng]	Yes
-11642	H	Wide	1310	TV	I24 News HD (English)	[fre]	Yes
-11642	H	Wide	1311	TV	Radionorba TV	[ita]	Yes
-11642	H	Wide	1313	TV	KBS World HD	[kor]	Yes
-11642	H	Wide	1317	TV	Kurdistan TV HD	[kur]	Yes
-11642	H	Wide	1320	TV	Bethel TV (Peru)	[sp]	Yes
-11642	H	Wide	1321	TV	Zeta TV	[ita]	Yes
-11642	H	Wide	1328	TV	People TV / Rete 7	[ita]	Yes
-11662	V	Wide	16920	TV	Emilia Romagna 24	[ita]	Yes
-11662	V	Wide	16922	TV	TRM h24	[ita]	Yes
-11662	V	Wide	16925	TV	Canale Italia	[ita]	Yes
-11662	V	Wide	16937	TV	Tele Moda	[ita]	Yes
-11662	V	Wide	16938	TV	Aurora Arte	[ita]	Yes
-11662	V	Wide	16945	TV	GoldBet 1	[ita]	Yes
-11662	V	Wide	16946	TV	GoldBet 2	[ita]	Yes
-11662	V	Wide	16952	TV	Tele Padre Pio	[000][ita]	Yes
-11662	V	Wide	16953	TV	Record TV Europa	[por]	Yes
-11662	V	Wide	16955	TV	Tele 5	[pol]	Yes
-11662	V	Wide	16956	TV	Polonia 1	[pol]	Yes
-11662	V	Wide	16961	TV	TVR International	[rum]	Yes
-11662	V	Wide	16962	TV	Radio Italia TV HD	[ita]	Yes
-11662	V	Wide	16963	TV	UnireSat by Teleippica HD test card	[ita]	Yes
-11662	V	Wide	16966	TV	Radio Italia Trend TV HD	[ita]	Yes
-11662	V	Wide	16975	TV	TeF Channel	[ita]	Yes
-11662	V	Wide	16976	TV	Kiss Kiss TV	[ita]	Yes
-11662	V	Wide	16977	TV	RDS Social TV HD	[ita]	Yes
-11662	V	Wide	16979	TV	QVC Italia	[ita]	Yes
-11662	V	Wide	16980	TV	RetEconomy	[ita]	Yes
-11662	V	Wide	16988	TV	TVA Vicenza	[ita]	Yes
-11662	V	Wide	16990	TV	Power TV	[pol]	Yes
-11662	V	Wide	16992	TV	VideoLina	[ita]	Yes
-11681	H	Wide	307	TV	Arte Français HD	[000][fre][ger]	Yes
-11727	V	Europe8	13101	TV	DW English HD	[eng]	Yes
-11727	V	Europe8	13102	TV	BBC Arabic HD	[eng]	Yes
-11747	H	Europe9	9503	TV	Sama Dubai	[ara]	Yes
-11747	H	Europe9	9504	TV	Sharjah TV	[ara]	Yes
-11747	H	Europe9	9507	TV	Abu Dhabi Sports 1	[ara]	Yes
-11747	H	Europe9	9508	TV	Yas Sports	[ara]	Yes
-11747	H	Europe9	9509	TV	ZAD TV	[ara]	Yes
-11747	H	Europe9	9512	TV	Al Baghdadia	[ara]	Yes
-11747	H	Europe9	9513	TV	Al Arabiya	[ara]	Yes
-11747	H	Europe9	9513	R	MBC FM	[ara]	Yes
-11747	H	Europe9	9515	TV	MBC Maghreb Al-Arabia	[ara]	Yes
-11747	H	Europe9	9516	TV	Sky News Arabia	[ara]	Yes
-11747	H	Europe9	9517	TV	Al Ghad Al Araby	[ara]	Yes
-11766	V	Europe9	3314	R	Filodiffusione 4	[ita]	Yes
-11766	V	Europe9	3319	R	Rai Notturno Italiano	[ita]	Yes
-11766	V	Europe9	3319	R	Filodiffusione 4	[ita]	Yes
-11766	V	Europe9	3406	TV	Rai Scuola	[ita]	Yes
-11804	V	Europe9	3302	TV	Camera dei Deputati	[ita]	Yes
-11804	V	Europe9	3303	TV	Rai Sport	[ita]	Yes
-11804	V	Europe9	3304	TV	Rai Storia	[ita]	Yes
-11804	V	Europe9	3305	TV	Rai Gulp	[ita]	Yes
-11804	V	Europe9	3307	TV	Rai Scuola	[ita]	Yes
-11804	V	Europe9	3308	TV	Rai Nettuno Sat Uno	[ita]	Yes
-11804	V	Europe9	3311	R	Rai Radio 1	[ita]	Yes
-11804	V	Europe9	3312	R	Rai Radio 2	[ita]	Yes
-11804	V	Europe9	3313	R	Rai Radio 3	[ita]	Yes
-11804	V	Europe9	3315	R	Filodiffusione 5	[ita]	Yes
-11804	V	Europe9	3316	R	Radio InBlu	[ita]	Yes
-11804	V	Europe9	3317	R	GR Parlamento	[ita]	Yes
-11804	V	Europe9	3318	R	Isoradio	[ita]	Yes
-11862	H	Europe8	4324	TV	Real Time Italia	[eng][ita]	Yes
-11919	V	Europe9	4	TV	Iris	[ita]	Yes
-11919	V	Europe9	5	TV	Canale 5	[ita]	Yes
-11919	V	Europe9	8	TV	TgCom24	[ita]	Yes
-11958	V	Europe8	10901	TV	Real Time	[000][ita]	Yes
-11996	V	Europe8	4213	TV	TV 2000 (some programs are encrypted)	[ita]	Yes
-12034	V	Europe8	11113	TV	Sky Assist	[ita]	Yes
-12034	V	Europe8	11180	TV	TV 2000	[ita]	Yes
-12054	H	Europe8	11720	TV	VenetoLink	[ita]	Yes
-12054	H	Europe8	11753	TV	.BLU	[ita]	Yes
-12054	H	Europe8	11754	TV	La Nuova TV	[ita]	Yes
-12111	V	Europe9	705	TV	Al Jazeera Documentary	[ara]	Yes
-12111	V	Europe9	706	TV	Al Jazeera Mobasher	[ara]	Yes
-12111	V	Europe9	708	TV	Al Jazeera Channel	[ara]	Yes
-12111	V	Europe9	712	TV	Radio Italia TV	[ita]	Yes
-12111	V	Europe9	722	R	CRC FM	[ita]	Yes
-12111	V	Europe9	723	TV	Sender Neu Jerusalem	[ger]	Yes
-12111	V	Europe9	732	R	Radio Maria Italia	[ita]	Yes
-12111	V	Europe9	733	R	Vietnamese Public Radio 1	[vie]	Yes
-12111	V	Europe9	735	TV	Al Mayadeen TV Network	[ara]	Yes
-12111	V	Europe9	736	R	Radio Dimensione Suono	[ita]	Yes
-12111	V	Europe9	737	R	Dimensione Suono Roma	[ita]	Yes
-12111	V	Europe9	738	R	Radio Italia Anni 60	[ita]	Yes
-12111	V	Europe9	740	R	Radio Italia	[ita]	Yes
-12111	V	Europe9	743	R	Radio Popolare	[ita]	Yes
-12111	V	Europe9	749	R	Radio EuroSpin	[ita]	Yes
-12111	V	Europe9	756	TV	Canale Italia 83	[ita]	Yes
-12111	V	Europe9	756	R	Radio Zeta	[ita]	Yes
-12111	V	Europe9	757	TV	Canale Italia 84	[ita]	Yes
-12111	V	Europe9	760	R	Radio Padania Libera	[ita]	Yes
-12111	V	Europe9	761	R	Radio Radicale	[ita]	Yes
-12111	V	Europe9	782	TV	RIK Sat	[gre]	Yes
-12111	V	Europe9	785	TV	Mekameleen TV	[ara]	Yes
-12111	V	Europe9	788	TV	MTA International	[ara][eng][fre][ger][hin]	Yes
-12149	V	Europe8	7202	TV	Tunisie National TV	[ara]	Yes
-12149	V	Europe8	7211	R	MR 1 Kossuth	[hun]	Yes
-12149	V	Europe8	7212	R	MR 2 Petöfi	[hun]	Yes
-12149	V	Europe8	7213	R	Radio Città Futura	[ita]	Yes
-12149	V	Europe8	7214	R	Rete Sport	[ita]	Yes
-12149	V	Europe8	7215	R	Radio 6	[ita]	Yes
-12149	V	Europe8	7218	R	Radio Culture	[ara]	Yes
-12149	V	Europe8	7219	R	MR 5 Parlamenti adások	[hun]	Yes
-12149	V	Europe8	7222	TV	Lider TV	[aze]	Yes
-12149	V	Europe8	7222	R	Lider Jazz Radio	[aze]	Yes
-12149	V	Europe8	7224	TV	CCTV 4 Europe	[chi]	Yes
-12149	V	Europe8	7250	R	Radio Tunis	[ara]	Yes
-12149	V	Europe8	7256	TV	People TV	[ita]	Yes
-12149	V	Europe8	7257	TV	CNC World English	[eng]	Yes
-12149	V	Europe8	7259	TV	Bahrain International	[ara]	Yes
-12149	V	Europe8	7262	TV	Caliente TV	[ita]	Yes
-12149	V	Europe8	7275	TV	BBC Persian	[per]	Yes
-12149	V	Europe8	7276	TV	Bethel TV	[spa]	Yes
-12149	V	Europe8	7277	TV	Kurdistan TV	[kur]	Yes
-12149	V	Europe8	7279	TV	IranAS Movie	[per]	Yes
-12149	V	Europe8	7280	TV	CATV	[per]	Yes
-12149	V	Europe8	7281	TV	Khane Film	[ara]	Yes
-12149	V	Europe8	7282	TV	TG Norba 24	[ita]	Yes
-12188	V	Europe8	7309	TV	tvo	[pol]	Yes
-12226	V	Europe8	0	TV	RFE / RL Russian HD test card	[eng]	Yes
-12226	V	Europe8	1	TV	Nastoyashcheye Vremya	[rus]	Yes
-12226	V	Europe8	2	TV	Nastoyashcheye Vremya	[rus]	Yes
-12226	V	Europe8	100	TV	VoA TV	[eng]	Yes
-12226	V	Europe8	101	R	RFE/Radio Liberty	[rus]	Yes
-12226	V	Europe8	102	R	Voice of America	[ukr]	Yes
-12226	V	Europe8	102	R	RFE/Radio Liberty	[arm]	Yes
-12226	V	Europe8	103	R	Voice of America	[geo]	Yes
-12226	V	Europe8	103	R	RFE/Radio Liberty	[bel]	Yes
-12226	V	Europe8	104	R	VoA Music Mix	[eng]	Yes
-12226	V	Europe8	105	R	Voice of America	[bul]	Yes
-12226	V	Europe8	105	R	RFE/Radio Liberty	[bul]	Yes
-12226	V	Europe8	107	R	VoA News Now	[eng]	Yes
-12226	V	Europe8	108	R	Radio Farda	[per]	Yes
-12226	V	Europe8	109	R	Voice of America	[alb]	Yes
-12226	V	Europe8	109	R	RFE/Radio Liberty	[tuk]	Yes
-12226	V	Europe8	110	R	Voice of America	[kir]	Yes
-12226	V	Europe8	110	R	RFE/Radio Liberty	[kir]	Yes
-12226	V	Europe8	111	R	VoA Eastern Europe	[kaz]	Yes
-12226	V	Europe8	111	R	RFE/Radio Liberty	[kaz]	Yes
-12226	V	Europe8	114	R	Radio Sawa Levant	[ara]	Yes
-12226	V	Europe8	115	R	Radio Sawa Iraq	[ara]	Yes
-12226	V	Europe8	116	R	Radio Sawa Egypt	[ara]	Yes
-12226	V	Europe8	117	R	Radio Sawa The Gulf	[ara]	Yes
-12226	V	Europe8	118	R	Radio Sawa Morocco	[ara]	Yes
-12226	V	Europe8	119	R	Radio Farda	[per]	Yes
-12226	V	Europe8	121	R	Voice of America	[ara]	Yes
-12226	V	Europe8	122	R	Radio Sawa Sudan	[ara]	Yes
-12226	V	Europe8	123	R	Radio Sawa Lebanon	[ara]	Yes
-12226	V	Europe8	190	TV	Test Card	[ara]	Yes
-12226	V	Europe8	225	TV	VoA TV Persian	[per]	Yes
-12226	V	Europe8	310	R	Voice of America	[urd]	Yes
-12226	V	Europe8	340	TV	VoA TV Global	[eng]	Yes
-12226	V	Europe8	500	TV	Alhurra HD	[eng]	Yes
-12284	H	Europe8	10503	R	Planeta FM	[pol]	Yes
-12284	H	Europe8	10526	R	RMF Classic	[pol]	Yes
-12284	H	Europe8	10527	R	Radio PIN	[pol]	Yes
-12284	H	Europe8	10530	R	Radio Zet	[pol]	Yes
-12284	H	Europe8	10543	R	RMF Maxxx	[pol]	Yes
-12303	V	Europe8	801	TV	TBN Europe	[eng]	Yes
-12303	V	Europe8	802	TV	Life TV Estonia	[rus]	Yes
-12303	V	Europe8	803	TV	TCI	[ita]	Yes
-12303	V	Europe8	804	TV	Hillsong Channel	[eng]	Yes
-12303	V	Europe8	805	TV	Juce TV/Soac (Smile of a Child TV)	[eng]	Yes
-12303	V	Europe8	806	TV	Al Horreya TV (TBN Arabic)	[ara]	Yes
-12303	V	Europe8	807	TV	TBN Polska	[pol]	Yes
-12303	V	Europe8	809	TV	Nejat TV	[per]	Yes
-12303	V	Europe8	810	TV	Kanal Hayat (Turk Hristiyan TV)	[tur]	Yes
-12303	V	Europe8	3501	TV	TVE Internacional Europa HD	[spa]	Yes
-12303	V	Europe8	3502	TV	Canal 24 Horas HD	[spa]	Yes
-12322	H	Europe8	7560	R	Radio Dijla	[ara]	Yes
-12322	H	Europe8	13920	TV	Shant News	[arm]	Yes
-12322	H	Europe8	13940	TV	Gala TV	[per]	Yes
-12322	H	Europe8	13944	TV	BBC Persian	[fao]	Yes
-12322	H	Europe8	14801	TV	Pars TV	[per]	Yes
-12322	H	Europe8	14805	TV	Channel Yek	[per]	Yes
-12322	H	Europe8	14814	R	Radio Grand	[srp]	Yes
-12322	H	Europe8	14819	R	Radio Lijepa Nasa	[hrv]	Yes
-12322	H	Europe8	14823	R	Radio Srna Bosanka	[bos]	Yes
-12322	H	Europe8	14824	R	Radio Svet Plus	[srp]	Yes
-12322	H	Europe8	14826	R	Tref Radio	[srp]	Yes
-12322	H	Europe8	14829	R	Peiraiki Ekklisia 91.2 FM	[gre]	Yes
-12322	H	Europe8	14858	R	Megaradio	[srp]	Yes
-12322	H	Europe8	14859	TV	TG Norba 24	[ita]	Yes
-12322	H	Europe8	14860	TV	Radionorba TV	[ita]	Yes
-12322	H	Europe8	14861	TV	VTC10 (NETVIET)	[vie]	Yes
-12322	H	Europe8	14862	TV	Kurdistan 24 promo	[kur]	Yes
-12322	H	Europe8	14999	TV	Canale Aste	[ita]	Yes
-12380	V	Europe8	3003	TV	Sat 7 Plus	[ara]	Yes
-12380	V	Europe8	3005	TV	Al-Iraqiya TV	[ara]	Yes
-12380	V	Europe8	3011	TV	Holy God	[tai]	Yes
-12380	V	Europe8	3012	TV	Al Hajj HD test card	[ara]	Yes
-12380	V	Europe8	3012	TV	Karbala Satellite Channel	[ara]	Yes
-12380	V	Europe8	3013	TV	Alsharqiya News	[ara]	Yes
-12380	V	Europe8	3017	TV	Al Sunnah Al Nabawiyah TV	[ara]	Yes
-12380	V	Europe8	3026	TV	Quran Hedayah Albanian test card	[alb]	Yes
-12380	V	Europe8	3082	R	Radio Sout Al-Shbab	[ara]	Yes
-12380	V	Europe8	3083	R	Emarat FM	[ara]	Yes
-12380	V	Europe8	3084	R	Radio Maria France	[fre]	Yes
-12380	V	Europe8	3086	R	Radio Sout Al-Sha'ab	[ara]	Yes
-12380	V	Europe8	3087	R	RFI Français	[fre]	Yes
-12380	V	Europe8	3088	R	Radio Crne Gore	[srp]	Yes
-12380	V	Europe8	3089	R	El-Bernameg Al-Aam	[ara]	Yes
-12380	V	Europe8	3091	R	Sana'a Radio	[ara]	Yes
-12380	V	Europe8	3092	R	Aden Radio	[ara]	Yes
-12399	H	Europe8	903	TV	Sama Dubai HD	[ara]	Yes
-12399	H	Europe8	905	TV	Dubai TV HD	[ara]	Yes
-12399	H	Europe8	906	TV	Dubai Sports 1 HD	[ara]	Yes
-12399	H	Europe8	907	TV	Sudan TV	[ara]	Yes
-12399	H	Europe8	914	TV	Al Ordoni TV (Jordan TV)	[ara]	Yes
-12399	H	Europe8	916	TV	Libya Al Watanya	[ara]	Yes
-12399	H	Europe8	921	R	DRS 1	[ger]	Yes
-12399	H	Europe8	922	R	DRS 2	[ger]	Yes
-12399	H	Europe8	923	R	DRS 3	[ger]	Yes
-12399	H	Europe8	924	R	Virus	[ger]	Yes
-12399	H	Europe8	925	R	DRS Musikwelle	[ger]	Yes
-12399	H	Europe8	926	R	Radio Rumantsch	[011]	Yes
-12399	H	Europe8	934	R	Radio Swiss Classic	[ger]	Yes
-12399	H	Europe8	935	R	Radio Swiss Pop	[ger]	Yes
-12399	H	Europe8	936	R	Radio Swiss Jazz	[ger]	Yes
-12399	H	Europe8	937	R	DRS 4 News	[ger]	Yes
-12476	H	Europe8	2001	TV	RT News HD promo	[eng]	Yes
-12476	H	Europe8	2002	TV	RT Doc HD promo	[eng]	Yes
-12476	H	Europe8	2003	TV	Super Tennis HD	[ita]	Yes
-12476	H	Europe8	2004	TV	CTV HD	[eng][ita]	Yes
-12476	H	Europe8	2005	TV	2M Monde	[ara]	Yes
-12476	H	Europe8	2007	TV	KBS World HD	[eng]	Yes
-12476	H	Europe8	2098	TV	Abu Dhabi Al Oula HD	[ara]	Yes
-12476	H	Europe8	2100	TV	Alrayyan 2 HD	[ara]	Yes
-12520	V	Wide	3203	TV	TV Koper Capodistria	[ita]	Yes
-12520	V	Wide	9003	TV	Ronahi TV	[kur]	Yes
-12520	V	Wide	9004	TV	Med Music	[kur]	Yes
-12520	V	Wide	9005	TV	Fadak TV	[ara]	Yes
-12520	V	Wide	9006	TV	Al Araby 2 HD	[ara]	Yes
-12520	V	Wide	9007	TV	Kentron TV	[arm]	Yes
-12520	V	Wide	9008	TV	Stêrk TV	[kur]	Yes
-12520	V	Wide	9009	TV	Angel TV Europe	[eng]	Yes
-12520	V	Wide	9012	TV	Çira TV info card	[kur]	Yes
-12520	V	Wide	9013	TV	Pars TV	[per]	Yes
-12520	V	Wide	9014	TV	Syria TV	[ara]	Yes
-12520	V	Wide	9016	TV	Somaliland National TV	[som]	Yes
-12520	V	Wide	9018	TV	STN promo	[eng]	Yes
-12539	H	Europe9	1102	TV	Hot Bird 4K 2 HDR	[eng]	Yes
-12577	H	Europe9	1601	TV	Al Jazeera Channel HD	[ara]	Yes
-12577	H	Europe9	1602	TV	Italian Fishing TV	[ita]	Yes
-12577	H	Europe9	1603	TV	Wine TV	[ita]	Yes
-12577	H	Europe9	1605	TV	Italia Channel 123	[ita]	Yes
-12577	H	Europe9	1606	TV	E TV Emilia Romagna	[ita]	Yes
-12577	H	Europe9	1607	TV	Media Text.it	[ita]	Yes
-12577	H	Europe9	1608	TV	Telepiu Channel	[ita]	Yes
-12577	H	Europe9	1609	TV	Pianeta TV	[ita]	Yes
-12577	H	Europe9	1610	TV	Reality TV	[ita]	Yes
-12577	H	Europe9	1611	TV	Quore TV	[ita]	Yes
-12577	H	Europe9	1612	TV	CNC World English HD	[eng]	Yes
-12577	H	Europe9	1613	TV	Automoto TV	[ita]	Yes
-12577	H	Europe9	1614	TV	MediaSport Channel	[ita]	Yes
-12577	H	Europe9	1615	TV	Canal Algérie HD	[ara]	Yes
-12577	H	Europe9	1616	TV	Algérie 3 HD (Thalitha TV)	[ara]	Yes
-12577	H	Europe9	1617	TV	TV Art Live	[ita]	Yes
-12597	V	Wide	8203	TV	BBC Arabic	[ara]	Yes
-12597	V	Wide	8204	TV	BBC World News	[eng]	Yes
-12597	V	Wide	8205	R	Public Radio of Armenia	[arm]	Yes
-12597	V	Wide	8208	TV	1TVRUS Romania	[rus]	Yes
-12597	V	Wide	8209	TV	CNN International Europe	[eng]	Yes
-12597	V	Wide	8211	TV	EuroNews	[eng]	Yes
-12597	V	Wide	8215	R	WRN Russkij	[rus]	Yes
-12597	V	Wide	8216	R	WRN English Europe	[eng]	Yes
-12597	V	Wide	8217	R	WRN Deutsch	[ger]	Yes
-12597	V	Wide	8218	R	WRN Français	[fre]	Yes
-12597	V	Wide	8222	R	RCI 2	[fre]	Yes
-12597	V	Wide	8223	R	RCI 1	[eng]	Yes
-12597	V	Wide	8224	R	RTÉ Radio 1	[eng]	Yes
-12597	V	Wide	8225	R	IBC Tamil Radio	[tai]	Yes
-12597	V	Wide	8226	R	Radio Sedaye Iran	[per]	Yes
-12597	V	Wide	8228	R	CVC The Voice Asia	[hin]	Yes
-12597	V	Wide	8240	R	Sawt Al Alam	[ara]	Yes
-12597	V	Wide	8295	TV	RT Doc	[eng]	Yes
-12654	H	Europe9	2	TV	Qatar TV	[ara]	Yes
-12654	H	Europe9	3	TV	Saudi Arabian TV 1	[ara]	Yes
-12654	H	Europe9	4	TV	Kuwait Space Channel	[ara]	Yes
-12654	H	Europe9	5	TV	Iqraa Arabic	[ara]	Yes
-12654	H	Europe9	6	TV	Sudan TV	[ara]	Yes
-12654	H	Europe9	7	TV	Oman TV Satellite	[ara]	Yes
-12654	H	Europe9	8	TV	Al Masriyah	[ara]	Yes
-12654	H	Europe9	11	R	Sharjah FM	[ara]	Yes
-12654	H	Europe9	12	R	Qatar Radio	[ara]	Yes
-12654	H	Europe9	13	R	Program One	[ara]	Yes
-12654	H	Europe9	14	R	Radio Kuwait Main	[ara]	Yes
-12654	H	Europe9	16	R	Umdurman Radio	[ara]	Yes
-12654	H	Europe9	17	R	Radio Oman	[ara]	Yes
-12654	H	Europe9	18	R	Sout Al-Arab	[ara]	Yes
-12654	H	Europe9	19	R	Republic of Iraq Radio	[ara]	Yes
-12654	H	Europe9	23	R	Radio Quran	[ara]	Yes
-12654	H	Europe9	24	R	Holy Quran	[ara]	Yes
-12654	H	Europe9	26	R	Radio Umdurman Holy Koran	[ara]	Yes
-12654	H	Europe9	27	R	Radio Oman FM	[eng]	Yes
-12654	H	Europe9	28	R	El-Bernameg Al-Aam	[ara]	Yes
-12654	H	Europe9	29	R	Iza'at Al-Quran Al-Kareem wa al Barameg Al-Deeniyah	[ara]	Yes
-12654	H	Europe9	37	R	Al-Shabab	[ara]	Yes
-12654	H	Europe9	38	R	El-Quran El-Karim	[ara]	Yes
-12654	H	Europe9	40	TV	Al Ordoniyah	[ara]	Yes
-12654	H	Europe9	41	TV	Saudi Sport 2 (Al Riyadiya 2)	[per]	Yes
-12654	H	Europe9	43	TV	Libya Al Watanya	[ara]	Yes
-12654	H	Europe9	47	R	Holy Quran Radio	[ara]	Yes
-12654	H	Europe9	50	R	Radio Jordan General Channel	[ara]	Yes
-12654	H	Europe9	3001	TV	Palestinian Satellite Channel	[ara]	Yes
+No	Freq	Pol	Beam	SID	Name	Lang
+	10972	V	West	600	RMC Découverte	[fre]
+	10972	V	West	601	TV 5 Monde FBS	[fre]
+	10972	V	West	603	L Équipe 21	[fre]
+	10972	V	West	2608	HD1 info card	[fre]
+	10972	V	West	2609	6ter info card	[fre]
+	10972	V	West	2610	Numéro 23 info card	[fre]
+	10972	V	West	2611	Cherie25 info card	[fre]
+	10972	V	West	2612	Fransat Info HD	[fre]
+	10972	V	West	2613	QVC	[fre]
+	10972	V	West	2614	BFM Business	[fre]
+	10972	V	West	4103	France 3 Grenoble	[fre]
+	10972	V	West	4112	France 3 Lyon	[fre]
+	10972	V	West	4113	France 3 Marseille	[fre]
+	10972	V	West	4133	TeleGrenoble Isere	[fre]
+	11054	V	West	504	ETB1	[baq]
+	11054	V	West	507	Fransat Info	[fre]
+	11054	V	West	508	beIN Sport 1	[fre]
+	11054	V	West	4096	France 3 Sat	[fre]
+	11096	V	West	0	PR 405	
+	11096	V	West	401	TF 1 HD	
+	11096	V	West	402	France 2 HD	
+	11096	V	West	403	M6 HD	
+	11096	V	West	404	Arte Français HD	[fre][ger]
+	11096	V	West	417	NRJ 12 HD	[000][fre]
+	11096	V	West	419	FRANCE O	
+1	11096	V	West	426	Via Vosges	[fre]
+2	11096	V	West	427	KTO TV Catholique	[fre]
+3	11096	V	West	1412	RT France	[fre]
+	11096	V	West	1831	Label TV	[fre]
+	11096	V	West	4133	France 3 Nouvelle-Aquitaine HD	[fre]
+	11138	V	West	1820	RMC Sport 1 HD	[fre]
+	11138	V	West	1821	RMC Sport 4 HD	[fre]
+	11138	V	West	1822	BFM Business HD	[fre]
+	11138	V	West	1823	BFM Paris HD	[fre]
+	11138	V	West	1825	RMC Sport 2 HD	[fre]
+	11138	V	West	1826	RMC Sport 3 HD	[fre]
+	11138	V	West	1827	RMC Sport Sport News HD	[fre]
+	11138	V	West	1828	i24News HD	[fre]
+	11138	V	West	1829	My Cuisine HD	[fre]
+	11138	V	West	1830	Melody HD	[fre]
+	11179	V	West	3303	Rai 3 Campania	[ita]
+	11179	V	West	8581	Rai Premium	[eng][ita]
+	11179	V	West	8582	Rai YoYo	[ita]
+	11179	V	West	8583	Rai 4	[eng][ita]
+	11179	V	West	8584	Rai Gulp	[ita]
+	11179	V	West	8585	Rai Movie	[000][ita]
+	11179	V	West	8586	Rai Scuola	[ita]
+	11179	V	West	8595	Rai 2 HD	[ita]
+	11179	V	West	8599	Rai Sport 1 HD	[ita]
+	11196	V	West	0	feeds	
+	11452	H	Wide	0	Data	
+	11471	V	West	3000	HD1	[000][fre]
+	11471	V	West	3001	L Equipe 21 HD	[000][fre]
+	11471	V	West	3002	6ter HD	[000][fre]
+	11471	V	West	3003	Numéro 23 HD	[000][fre]
+	11471	V	West	3004	RMC Decouverte HD	[000][fre]
+	11471	V	West	3005	Cherie25 HD	[000][fre]
+6	11471	V	West	3008	D!CI TV	[fre]
+	11471	V	West	3009	TMC HD	[000][fre]
+	11471	V	West	3010	NT1 HD	[000][fre]
+	11471	V	West	3013	C8 HD	[eng][fre]
+	11471	V	West	3014	CStar HD	[000][fre]
+	11471	V	West	3015	Gulli HD	[000][fre]
+	11471	V	West	3016	Canal+ France HD	[fre]
+	11471	V	West	3018	LCI	[fre]
+	11494	H	Wide	0	feeds	
+	11505	H	Wide	0	feeds	
+	11509	H	Wide	257	France 2	[fre]
+	11509	H	Wide	260	France 4	[fre]
+	11509	H	Wide	261	France Ô	[fre]
+	11509	H	Wide	272	France 3 Sat	[fre]
+	11509	H	Wide	1025	M6	[fre]
+	11509	H	Wide	1026	W9	[fre]
+	11509	H	Wide	1031	Arte Français	[fre]
+	11509	H	Wide	1045	France 5	[fre]
+	11509	H	Wide	1046	6ter	[fre]
+	11509	H	Wide	1537	TF-1	[fre]
+	11509	H	Wide	1538	NRJ 12	[fre]
+	11509	H	Wide	1542	TMC	[fre]
+	11509	H	Wide	1544	NT1	[fre]
+	11509	H	Wide	1546	LCP	[fre]
+	11512	V	West	201	RTL 9	[fre]
+	11512	V	West	202	Mangas	[fre]
+	11512	V	West	203	AB 1	[fre]
+	11512	V	West	204	AB Moteurs	[fre]
+	11512	V	West	205	Golf Channel France	[fre]
+	11512	V	West	206	Game One	[fre]
+	11512	V	West	207	Trek	[fre]
+	11512	V	West	208	Animaux	[fre]
+	11512	V	West	209	Encyclopedia	[fre]
+	11512	V	West	210	Toute L Histoire	[fre]
+	11512	V	West	211	Chasse et Peche	[fre]
+	11512	V	West	212	Action	[fre]
+7	11512	V	West	213	Offre	[fre]
+	11512	V	West	214	Ciné FX	[fre]
+	11512	V	West	215	Ciné Polar	[fre]
+	11512	V	West	216	XXL	[fre]
+	11512	V	West	217	Dorcel TV	[eng][fre][ger]
+	11512	V	West	219	Téva	[eng][fre]
+	11512	V	West	220	Equidia	[fre][zxx]
+	11512	V	West	227	LCI	[fre]
+	11513	H	Wide	0	feeds	
+	11522	H	Wide	0	feeds	
+	11578	H	Wide	0	feeds	
+	11586	H	Wide	0	feeds	
+	11595	V	Wide	1400	SFR Sport 3	[fre]
+	11595	V	Wide	1401	SFR Sport 5	[fre]
+	11596	V	Wide	1413	Fransat UHD Demo	[fre]
+	11596	V	Wide	1415	TF1 4K	[fre]
+	11596	V	Wide	1416	RMC Sport 1 UHD	[fre]
+	11628	H	West	0	feeds	
+	11634	H	West	125	FTV Sport UHD 1	[fre]
+	11637	V	West	3401	Rai 1	[ita]
+	11637	V	West	3403	Rai 3 TGR Liguria	[ita]
+	11637	V	West	3403	Rai 3 TGR Toscana	[000][ita]
+	11637	V	West	3403	Rai 3 Nazionale	[ita]
+	11637	V	West	3403	Rai 3 Liguria	[000][ita]
+	11637	V	West	3403	Rai 3 TGR Abruzzo	[ita]
+	11637	V	West	3411	RAI News 24	[ita]
+	11675	H	West	3403	Rai 3 Sicilia	[ita]
+	11679	V	West	800	RMC Sport 1 UHD	[fre]
+	11679	V	West	4099	France 3 Bordeaux	[fre]
+	11679	V	West	4100	France 3 Caen	[fre]
+	11679	V	West	4102	France 3 Dijon	[fre]
+	11679	V	West	4104	France 3 Lille	[fre]
+	11679	V	West	4105	France 3 Limoges	[fre]
+	11679	V	West	4116	France 3 Nantes	[fre]
+	11679	V	West	4118	France 3 Orléans	[fre]
+	11679	V	West	4119	France 3 Paris	[fre]
+	11679	V	West	4121	France 3 Reims	[fre]
+	11679	V	West	4128	France 3 Rennes	[fre]
+	11679	V	West	4129	France 3 Rouen	[fre]
+	11683	H	Wide	0	feeds	
+	11689	H	Wide	0	feeds	
+	12132	V	West	3403	Rai 3 Liguria	[000][eng][ita]
+	12522	V	West	3100	Radio 105 TV	[ita]
+	12522	V	West	8100	Virgin Radio TV	[ita]
+	12522	V	West	8101	R101 TV	[ita]
+	12522	V	West	8106	Italia 1 HD info card	[ita]
+	12522	V	West	8120	Mediaset Italia 2	[000][ita]
+	12542	H	West	502	Mediadix 1	[fre]
+	12542	H	West	503	Mediadix 2	[fre]
+	12542	H	West	504	SPAR Live	
+	12542	H	West	505	Radio Soleil	[fre]
+	12542	H	West	507	Lloyds Live	
+	12542	H	West	508	Mediadix 3	
+	12542	H	West	509	Capytol	[fre]
+	12542	H	West	551	RCF01 PAYS DE L AIN	[fre]
+	12542	H	West	552	RCF07 VIVARAIS	[fre]
+	12542	H	West	553	RCF11 PAYS D AUDE	[fre]
+	12542	H	West	554	RCF18 BERRY	[fre]
+	12542	H	West	555	RCF19 CORREZE	[fre]
+	12542	H	West	556	RCF26	[fre]
+	12542	H	West	557	RCF41	[fre]
+	12542	H	West	558	RCF73 SAVOIE	[fre]
+	12542	H	West	559	RCF	[fre]
+	12542	H	West	560	RCF69 LYON FOURVIERE	[fre]
+	12542	H	West	561	RCF43 LE PUY EN VELAY	[fre]
+	12542	H	West	562	RCF84 LUMIERES	[fre]
+	12542	H	West	563	RCF21 PARABOLE DIJON	[fre]
+	12542	H	West	564	RCF37 SAINT-MARTIN	[fre]
+	12542	H	West	565	RCF51 REIMS ARDENNES	[fre]
+	12542	H	West	566	RCF76 HAUTE NORMANDIE	[fre]
+	12542	H	West	567	RCF74 HAUTE SAVOIE	[fre]
+	12542	H	West	568	RCF54 JERICO NANCY	[fre]
+	12542	H	West	569	RCF33 BORDEAUX	[fre]
+	12542	H	West	570	RCF05 HAUTES ALPES	[fre]
+	12542	H	West	571	RCF25 BESANCON	[fre]
+	12542	H	West	914	EPG	
+	12542	H	West	1104	Berbére Radio	[ber]
+	12542	H	West	1107	Antinea Radio	[fre]
+	12542	H	West	1502	Guide TV	
+	12542	H	West	1511	01 03 07 31	
+	12542	H	West	1515	01 02 12 94	
+	12542	H	West	3001	France Bleu Modulation	[fre]
+	12542	H	West	3002	FIP Region	[fre]
+	12542	H	West	3003	France Bleu (RF Contribution)	[fre]
+	12542	H	West	3004	France Bleu Frequenza Mora	[fre]
+	12542	H	West	3005	France Bleu Île de France	[fre]
+	12543	H	Wide	1	Nove	[ita]
+	12543	H	Wide	2	Cielo	[ita]
+	12543	H	Wide	3	Paramount Channel Italia	[eng][ita]
+	12543	H	Wide	5	Sky TG 24	[eng][ita]
+	12543	H	Wide	16	Giallo	[ita]
+	12543	H	Wide	21	Nove HD	[eng][ita]
+	12543	H	Wide	21	RTL 102.5 RadioVisione	[ita]
+	12543	H	Wide	22	HSE 24 Italia	[ita]
+	12543	H	Wide	25	Motor Trend	[ita]
+	12543	H	Wide	25	Motor Trend	[ita]
+	12543	H	Wide	30	Cine Sony Italia	[ita]
+	12543	H	Wide	40	Deejay TV HD	[ita]
+	12543	H	Wide	40	Super Tennis	[ita]
+	12543	H	Wide	44	Real Time Italia	[ita]
+	12543	H	Wide	50	Spike TV Italia	[ita]
+	12543	H	Wide	50	DMAX Italia	[ita]
+	12543	H	Wide	50	Alpha TV	[ita]
+	12543	H	Wide	60	iBOX 65	[ita]
+	12543	H	Wide	60	Radio Italia TV	[ita]
+	12543	H	Wide	65	BOM Channel	[ita]
+	12543	H	Wide	75	Case Design Stili	[ita]
+	12543	H	Wide	100	TV 2000	[ita]
+	12543	H	Wide	106	Super!	[ita]
+	12543	H	Wide	111	Italia Channel	[ita]
+	12543	H	Wide	112	Pianeta TV	[ita]
+	12543	H	Wide	120	Radio Kiss Kiss TV	[ita]
+	12543	H	Wide	146	-Frisbee-	[ita]
+	12543	H	Wide	150	TV8	[ita]
+	12543	H	Wide	151	K-2 Italia	[ita]
+	12543	H	Wide	161	Zelig Sport	[ita]
+	12543	H	Wide	219	RTL 102.5 TV HD	[ita]
+	12543	H	Wide	220	Radio Freccia TV HD	[ita]
+	12543	H	Wide	222	Radio Zeta	[ita]
+	12543	H	Wide	222	Zeta LItaliana	[ita]
+	12543	H	Wide	256	PopEconomy	
+	12543	H	Wide	623	La7 On Demand	
+	12564	V	West	0	OCS Choc promo	
+	12564	V	West	0	OCS Géants promo	
+	12564	V	West	0	OCS Max promo	
+	12564	V	West	0	OCS City promo	
+	12564	V	West	2898	beIN Sports 1 HD	[fre]
+	12564	V	West	2899	beIN Sports 2 HD	[fre]
+13	12564	V	West	2947	Vosges Télévision	[fre]
+14	12564	V	West	2949	KTO TV Catholique	[fre]
+	12564	V	West	2953	TV8 Mont Blanc	[fre][ita]
+	12564	V	West	2977	Télé Melody	[fre]
+	12585	H	West	0	Premium Cinema	[ita][qaa]
+	12585	H	West	0	Premium Cinema Energy	[ita][qaa]
+	12585	H	West	0	Premium Cinema Comedy	[ita][qaa]
+	12585	H	West	0	Premium Cinema Emotion	[ita][qaa]
+	12585	H	West	0	Investigation Discovery Italia info card	[ita]
+	12585	H	West	20	test	[ita]
+	12585	H	West	120	Premium Sport	[ger][ita]
+	12585	H	West	122	Premium Cinema 2 +24	[ita]
+	12585	H	West	150	Premium Cinema Comedy	[ita]
+	12585	H	West	157	Cartoon Network Italia	[ita]
+	12585	H	West	158	Disney Junior Italia	[ita]
+	12585	H	West	179	Premium Calcio 7	[ita]
+	12585	H	West	189	Sky Sport 24 HD	[ita]
+	12585	H	West	401	Premium Sport 4K	[ita]
+	12585	H	West	5112	Premium Stories	[eng][ita]
+	12585	H	West	5113	Studio Universal Italia	[ita]
+	12585	H	West	5114	BBC Knowledge Italia	[eng]
+	12585	H	West	5115	Premium Cinema +24	[eng][ita]
+	12585	H	West	5116	Premium Crime +24	[eng][ita]
+	12585	H	West	5131	Premium Cinema Emotion	[eng][ita]
+	12585	H	West	5132	Premium Cinema Energy	[eng][ita]
+	12585	H	West	5133	Premium Crime	[ita]
+	12585	H	West	5134	Discovery World Premium	[ita]
+	12585	H	West	5172	Sky Sport 24	[ita]
+	12585	H	West	5173	Sky Sport Info	[ita]
+	12585	H	West	5175	Sky Sport Uno	[ita]
+	12585	H	West	5176	Sky Sport Uno HD	[ita]
+	12615	H	West	0	data	
+	12627	H	West	8100	Virgin Radio TV	[ita]
+	12648	V	West	0	VF_CH_02_10	
+	12648	V	West	0	VF_CH_03_15	
+	12648	V	West	0	VF_CH_04_13	
+	12648	V	West	0	VF_CH_05_16	
+	12648	V	West	0	VF_CH_06_14	
+	12648	V	West	0	VF_CH_07_12	
+	12648	V	West	0	VF_CH_08_11	
+	12648	V	West	0	VF_EMM	
+	12648	V	West	0	VF_ESG	
+	12648	V	West	0	VF_CH_01	
+	12648	V	West	1	Int Table	
+	12648	V	West	513	D8 HD	[eng][fre][qaa]
+	12648	V	West	515	BFM TV HD	[fre]
+	12648	V	West	516	I>Télé HD	[fre]
+	12648	V	West	517	D17 HD	[fre][qaa]
+	12648	V	West	518	Gulli HD	[eng][fre][qad]
+	12648	V	West	769	Canal+ France HD	[fre][qaa][qad]
+	12648	V	West	770	Canal+ Cinéma France HD	[fre][qaa][qad]
+	12648	V	West	771	Canal+ Sport France HD	[fre][qaa]
+	12648	V	West	772	Planète + HD	[fre][qaa]
+	12648	V	West	776	LCI HD	[fre]
+	12648	V	West	777	Paris Première HD	[fre][qaa][qad]
+	12648	V	West	2561	HD1	[000][duo][fre]
+	12648	V	West	2562	LÉquipe 21 HD	[000][duo][fre]
+	12648	V	West	2563	Chérie 25 HD	[000][duo][fre]
+	12648	V	West	2564	RMC Découverte HD	[000][duo][fre]
+	12648	V	West	2565	Numéro 23 HD	[000][duo][fre]
+	12669	H	West	0	Driver	
+	12669	H	West	2104	Rete 4 HD	[ita]
+	12669	H	West	2120	Mediaset Venti promo	[ita]
+	12669	H	West	2151	Mediaset Italia 2	[eng][ita]
+	12669	H	West	4004	Rete 4	[000][ita]
+	12669	H	West	4005	Canale 5	[000][ita]
+	12669	H	West	4006	Italia 1	[000][ita]
+	12669	H	West	4013	La 5	[000][ita]
+	12669	H	West	4014	TgCom24	[ita]
+	12669	H	West	4015	Iris	[000][ita]
+	12690	V	West	30	Radio Berbere	[fre]
+	12690	V	West	31	Radio Antinea	[fre]
+	12690	V	West	1103	NRJ UHD 25 promo	[fre]
+	12690	V	West	1104	NRJ HD+ 6 promo	[fre]
+	12690	V	West	1105	NRJ HD+ 4 promo	
+	12690	V	West	1109	Sikka TV	[fre]
+	12700	H	Wide	0	Fire TV	[ita]
+	12700	H	Wide	7	iLike TV	[ita]
+	12700	H	Wide	8	Canale 162	[ita]
+	12700	H	Wide	15	Juwelo TV Italia	[ita]
+	12700	H	Wide	23	Channel 24	[ita]
+	12700	H	Wide	30	HSE 24 Italia	[ita]
+	12700	H	Wide	31	Rete Italia	[ita]
+	12700	H	Wide	32	La4 Italia	[ita]
+	12700	H	Wide	33	Gold TV Italia	[ita]
+	12700	H	Wide	34	Lineagem	[ita]
+	12700	H	Wide	35	Linea Italia	[ita]
+	12700	H	Wide	36	Orler TV	[ita]
+	12700	H	Wide	37	Air Italia	[ita]
+	12700	H	Wide	38	Canale 237	[ita]
+	12700	H	Wide	45	Canale 165	
+	12700	H	Wide	96	Life 120 Channel	[ita]
+	12700	H	Wide	97	Mondo Calcio (Top Calcio)	[ita]
+	12700	H	Wide	98	Canale 232	[ita]
+	12700	H	Wide	110	Italia Channel	[ita]
+	12700	H	Wide	111	Media Text.it	[ita]
+	12700	H	Wide	112	Pianeta TV	[ita]
+	12711	H	Wide	99	@Ghost	
+	12732	V	West	1702	NASA UHD	[eng]
+	12732	V	West	1703	Canal J HD	[fre]
+	12732	V	West	1704	TiJi France HD	[fre]
+	12732	V	West	1705	Boing France HD	[fre][qaa]
+	12732	V	West	1706	Boomerang France HD	[fre][qaa]
+	12732	V	West	1708	BeIN Sport Max 4	[fre]
+	12732	V	West	1709	BeIN Sport Max 5	[fre]
+	12732	V	West	1710	BeIN Sport Max 6	[fre]
+	12732	V	West	1711	BeIN Sport Max 7	[fre]
+	12732	V	West	1712	BeIN Sport Max 8	[fre]
+	12732	V	West	1713	BeIN Sport Max 9	[fre]
+	12732	V	West	1714	BeIN Sport Max 10	[fre]

@@ -1,212 +1,543 @@
-Freq	Pol	Beam	SID	Type	Name	Lang	FTA
-10720	H	EuropeB	911	TV	HRTInt.	[hrv]	Yes
-10762	H	EuropeB	1000	TV	RTK-1	[alb]	Yes
-10762	H	EuropeB	1020	TV	Top News	[000][alb]	Yes
-10762	H	EuropeB	1300	TV	BCTV Europe	[alb]	Yes
-10804	H	SEAfrica	7	TV	AB 3	[fre]	Yes
-10804	H	SEAfrica	10	TV	AB Moteurs	[fre]	Yes
-10804	H	SEAfrica	11	TV	AB 1	[fre]	Yes
-10804	H	SEAfrica	13	TV	Toute l Histoire	[fre]	Yes
-10804	H	SEAfrica	15	TV	Animaux	[fre]	Yes
-10804	H	SEAfrica	18	TV	Ciné Polar	[fre]	Yes
-10804	H	SEAfrica	25	TV	Setanta Africa	[eng][fre]	Yes
-10804	H	SEAfrica	26	TV	KTO	[fre]	Yes
-10804	H	SEAfrica	101	TV	Vision 4	[fre]	Yes
-10804	H	SEAfrica	102	TV	2S TV	[fre]	Yes
-10804	H	SEAfrica	103	TV	RDV	[fre]	Yes
-10804	H	SEAfrica	107	TV	Emirem TV (Eglise Missionnaire du Réveil Mondial)	[fre]	Yes
-10804	H	SEAfrica	108	TV	CRTV News	[fre]	Yes
-10804	H	SEAfrica	112	TV	Wisal Hausa TV	[hau]	Yes
-10804	H	SEAfrica	113	TV	Label TV	[fre]	Yes
-10804	H	SEAfrica	114	TV	TV Colombe	[fre]	Yes
-10804	H	SEAfrica	117	TV	Vision 4 RCA	[fre]	Yes
-10804	H	SEAfrica	118	TV	CRTV Sports and Entertainment	[fre]	Yes
-10804	H	SEAfrica	121	TV	LMTV	[fre]	Yes
-10804	H	SEAfrica	201	TV	ORTB TV Benin	[fre]	Yes
-10804	H	SEAfrica	204	TV	Golfe TV International	[fre]	Yes
-10804	H	SEAfrica	206	TV	Asonga Telévision	[spa]	Yes
-10804	H	SEAfrica	341	TV	CRTV	[fre]	Yes
-10804	H	SEAfrica	342	TV	Afrique Média	[fre]	Yes
-10804	H	SEAfrica	343	TV	Equinoxe TV	[fre]	Yes
-10804	H	SEAfrica	345	TV	Canal 2 International	[fre]	Yes
-10804	H	SEAfrica	346	TV	Canal 2 infos	[fre]	Yes
-10804	H	SEAfrica	348	TV	Equinoxe TV	[fre]	Yes
-10804	H	SEAfrica	349	TV	CamNews 24	[fre]	Yes
-10804	H	SEAfrica	352	TV	STV 2	[fre]	Yes
-10804	H	SEAfrica	382	TV	DRTV International	[fre]	Yes
-10804	H	SEAfrica	441	TV	Mboa TV	[fre]	Yes
-10804	H	SEAfrica	442	TV	France 24 Français	[fre]	Yes
-10804	H	SEAfrica	505	TV	UbizNews	[fre]	Yes
-10804	H	SEAfrica	650	TV	Eden TV	[fre]	Yes
-10804	H	SEAfrica	670	TV	TVC Benin	[fre]	Yes
-10845	H	EuropeB	1003	TV	Family Channel HD	[000][alb]	Yes
-10845	H	EuropeB	1028	TV	Ndihma e Klientit	[alb]	Yes
-10928	H	EuropeB	1102	TV	Wness TV	[bul][eng][ukr]	Yes
-10977	H	EuropeB	101	TV	Canal 3 Benin	[fre]	Yes
-10977	H	EuropeB	108	TV	Kombat Sport	[fre]	Yes
-10977	H	EuropeB	114	TV	Canal 3 Niger	[fre]	Yes
-10977	H	EuropeB	120	TV	Télé Sahel	[fre]	Yes
-10977	H	EuropeB	123	TV	Sunna TV Savana	[hau]	Yes
-10977	H	EuropeB	124	TV	EGTA TV	[hau]	Yes
-10977	H	EuropeB	125	TV	Sunna TV Yoruba	[yor]	Yes
-10977	H	EuropeB	127	TV	Al Fayda TV	[fre]	Yes
-10977	H	EuropeB	127	TV	UCAB TV	[fre]	Yes
-10977	H	EuropeB	128	TV	Manara TV	[ara]	Yes
-10977	H	EuropeB	130	TV	Evangelique TV	[fre]	Yes
-10977	H	EuropeB	131	TV	Alléluia World TV	[fre]	Yes
-10977	H	EuropeB	132	TV	Canal 3 Cedeao	[fre]	Yes
-11001	H	EuropeA	1	TV	Afrique Média	[fre]	Yes
-11001	H	EuropeA	2	TV	ABK TV	[fre]	Yes
-11001	H	EuropeA	3	TV	Solution TV	[fre]	Yes
-11001	H	EuropeA	4	TV	KingShip TV	[fre]	Yes
-11001	H	EuropeA	5	TV	LTM TV	[fre]	Yes
-11001	H	EuropeA	6	TV	Liberty TV Cameroon	[eng]	Yes
-11001	H	EuropeA	7	TV	Misericorde TV	[fre]	Yes
-11001	H	EuropeA	8	TV	West Africa TV	[fre]	Yes
-11001	H	EuropeA	9	TV	Flamme TV	[fre]	Yes
-11001	H	EuropeA	10	TV	Revival Channel	[fre]	Yes
-11040	H	SubSaharan	1	TV	Divine TV	[fre]	Yes
-11040	H	SubSaharan	2	TV	Zoe Channel	[fre]	Yes
-11040	H	SubSaharan	3	TV	African Movie Star	[fre]	Yes
-11040	H	SubSaharan	4	TV	7News	[fre]	Yes
-11040	H	SubSaharan	5	TV	Glory Christ Channel	[fre]	Yes
-11056	V	EuropeB	1154	TV	CT 24 HD	[cze]	Yes
-11070	H	EuropeA	21418	R	Radio 538	[dut]	Yes
-11073	H	EuropeA	10	R	Radio Città Futura	[ita]	Yes
-11073	H	EuropeA	11	R	Ecoradio	[ita]	Yes
-11131	V	EuropeB	3	TV	Antena 3	[rum]	Yes
-11131	V	EuropeB	55	R	Radio Zu	[rum]	Yes
-11131	V	EuropeB	56	R	Romantic FM	[rum]	Yes
-11139	H	EuropeB	135	TV	RTK 1	[alb]	Yes
-11139	H	EuropeB	4915	TV	ArtDoku 2	[alb]	Yes
-11139	H	EuropeB	5000	TV	Top Channel	[alb]	Yes
-11139	H	EuropeB	5010	TV	Top News	[alb]	Yes
-11178	V	EuropeB	24	R	Radio Index	[srp]	Yes
-11231	V	EuropeA	753	TV	Sport Klub 3 Slovenia	[slv]	Yes
-11262	H	EuropeB	4	TV	BN TV Satelitski	[srp]	Yes
-11262	H	EuropeB	5	TV	BN Music	[srp]	Yes
-11262	H	EuropeB	7	TV	RTRS	[srp]	Yes
-11262	H	EuropeB	17	TV	RTRS TV	[srp]	Yes
-11283	V	EuropeB	2710	TV	FilmBox HD	[eng]	Yes
-11304	H	EuropeA	1	TV	Al Jazeera Balkans HD	[bos]	Yes
-11304	H	EuropeA	6	TV	Yu Planet Bec	[srp]	Yes
-11304	H	EuropeA	9	TV	Pro TV International	[rum]	Yes
-11345	H	EuropeB	1001	TV	OTV Valentino	[bos]	Yes
-11345	H	EuropeB	1004	TV	K::CN Svet + 3	[srp]	Yes
-11345	H	EuropeB	1017	TV	K::CN Music 2	[srp]	Yes
-11356	H	SubSaharan	3102	TV	Télé Tchad	[ara]	Yes
-11356	H	SubSaharan	3103	TV	Equinoxe TV	[fre]	Yes
-11356	H	SubSaharan	3104	TV	Alwilayah TV Hausa	[hau]	Yes
-11356	H	SubSaharan	3107	TV	TVT	[fre]	Yes
-11356	H	SubSaharan	3110	TV	Liberty TV	[eng]	Yes
-11365	V	EuropeA	11	R	Oldies Rádió	[hun]	Yes
-11365	V	EuropeA	12	R	Vikom Radio	[srp]	Yes
-11365	V	EuropeA	13	R	Radio 1	[slv]	Yes
-11365	V	EuropeA	51	R	Kiss Rom Radio	[srp]	Yes
-11365	V	EuropeA	52	R	Kiss Radio	[srp]	Yes
-11365	V	EuropeA	53	R	Radio Grand	[srp]	Yes
-11365	V	EuropeA	54	R	Doina Radio	[srp]	Yes
-11365	V	EuropeA	55	R	Radio Brod	[hrv]	Yes
-11365	V	EuropeA	56	R	Pink Sat	[srp]	Yes
-11365	V	EuropeA	57	R	VIP Radio	[srp]	Yes
-11365	V	EuropeA	58	R	Tref Radio Plus	[srp]	Yes
-11365	V	EuropeA	59	R	Valentino BH	[bos]	Yes
-11365	V	EuropeA	60	R	Radio Glas Drine	[bos]	Yes
-11365	V	EuropeA	61	R	Radio Fenomen	[srp]	Yes
-11365	V	EuropeA	63	R	Yu Planet Radio	[srp]	Yes
-11365	V	EuropeA	64	R	Radio Svet Plus	[srp]	Yes
-11365	V	EuropeA	65	R	Radio Velkaton	[bos]	Yes
-11365	V	EuropeA	69	R	Radio S	[srp]	Yes
-11365	V	EuropeA	70	R	Radio Koktel	[bos]	Yes
-11365	V	EuropeA	75	R	Top 3 Radio	[srp]	Yes
-11365	V	EuropeA	77	R	Radio Posavina	[hrv]	Yes
-11365	V	EuropeA	80	R	Radio Izvor	[bos]	Yes
-11365	V	EuropeA	82	R	Radio Plehan	[hrv]	Yes
-11365	V	EuropeA	85	R	Vulkanradio	[srp]	Yes
-11365	V	EuropeA	86	R	Radio Bezlja	[bos]	Yes
-11365	V	EuropeA	87	R	Kiss Modus	[srp]	Yes
-11365	V	EuropeA	88	R	Radio Svetigora	[srp]	Yes
-11365	V	EuropeA	1017	TV	Kopernikus Music	[srp]	Yes
-11365	V	EuropeA	4110	TV	Yu Planet Music	[srp]	Yes
-11366	V	EuropeB	108	TV	Discovery Channel	[cze][eng][hun]	Yes
-11426	V	EuropeB	1	TV	Vizion Plus HD	[alb]	Yes
-11426	V	EuropeB	125	TV	Folk +	[alb]	Yes
-11426	V	EuropeB	151	TV	Tring International HD	[alb]	Yes
-11426	V	EuropeB	801	TV	Sofia	[alb]	Yes
-11426	V	EuropeB	999	TV	Kanali 7	[alb]	Yes
-11471	V	EuropeB	649	TV	Nat Geo Wild Europe	[cze][eng]	Yes
-11512	H	SEAfrica	217	TV	Arena Sport 4 HD	[hrv]	Yes
-11512	V	EuropeB	3	TV	TVR 3	[rum]	Yes
-11512	V	EuropeB	6	TV	TVR Int	[rum]	Yes
-11553	H	EuropeB	1752	TV	RTS 2 Serbia	[srp]	Yes
-11553	H	EuropeB	1766	TV	Grand TV	[srp]	Yes
-11595	H	EuropeB	103	TV	Z1	[hrv]	Yes
-11595	H	EuropeB	155	TV	TVCG Sat.	[srp]	Yes
-11595	V	EuropeB	906	TV	Magic UK	[eng]	Yes
-11596	H	SEAfrica	0	TV	Kanal Austral	[fre]	Yes
-11637	H	EuropeB	1923	TV	In LIFE TV	[bul]	Yes
-11637	V	EuropeA	3404	TV	HRT-TV4 HD	[hrv]	Yes
-11637	V	EuropeA	3405	TV	HRTInt.	[hrv]	Yes
-11637	V	EuropeA	3411	R	HRT-HR1	[hrv]	Yes
-11637	V	EuropeA	3412	R	HRT-HR2	[hrv]	Yes
-11637	V	EuropeA	3413	R	HRT-HR3	[hrv]	Yes
-11637	V	EuropeA	3414	R	VOICE OF CRO	[hrv]	Yes
-11637	V	EuropeA	3416	R	HKR	[hrv]	Yes
-11637	V	EuropeA	3434	R	RASLO PRVI	[slv]	Yes
-11637	V	EuropeA	3435	R	RASLO VAL 202	[slv]	Yes
-11637	V	EuropeA	3436	R	RASLO ARS	[slv]	Yes
-11637	V	EuropeA	3437	R	RASLO RADIO SI	[slv]	Yes
-11678	H	EuropeB	132	TV	PosavinaTV.	[bos]	Yes
-12562	H	EuropeA	0	TV	Casarhema TV	[fre]	Yes
-12562	H	EuropeA	201	TV	TFM Senegal	[fre]	Yes
-12562	H	EuropeA	202	TV	Olé TFM	[fre]	Yes
-12562	H	EuropeA	203	TV	TFM Religions	[fre]	Yes
-12562	H	EuropeA	205	TV	New World Sport 1	[fre]	Yes
-12562	H	EuropeA	206	TV	TVT	[fre]	Yes
-12562	H	EuropeA	207	TV	New World Info Fr	[fre]	Yes
-12562	H	EuropeA	208	TV	New World Cinema	[fre]	Yes
-12562	H	EuropeA	211	TV	Info TV Cameroun	[fre]	Yes
-12562	H	EuropeA	212	TV	DBS TV	[fre]	Yes
-12562	H	EuropeA	213	TV	LoveWorld Plus	[eng]	Yes
-12562	H	EuropeA	214	TV	Dieu TV	[fre]	Yes
-12562	H	EuropeA	216	TV	BFI TV	[fre]	Yes
-12562	H	EuropeA	217	TV	Cash Chrono	[fre]	Yes
-12562	H	EuropeA	219	TV	New World Magazine	[fre]	Yes
-12562	H	EuropeA	223	TV	QTV Gambia	[fre]	Yes
-12562	H	EuropeA	228	TV	BB24 (Bénin Business 24)	[fre]	Yes
-12562	H	EuropeA	230	TV	BFM Paris	[fre]	Yes
-12562	H	EuropeA	231	TV	BFM Business	[fre]	Yes
-12562	H	EuropeA	232	TV	Kombat Sport	[fre]	Yes
-12562	H	EuropeA	233	TV	SFR Sport 4	[fre]	Yes
-12562	H	EuropeA	234	TV	BFM TV	[fre]	Yes
-12562	H	EuropeA	236	TV	SMTV	[eng]	Yes
-12562	H	EuropeA	237	TV	New World Info	[eng]	Yes
-12562	H	EuropeA	238	TV	A12 TV	[fre]	Yes
-12562	H	EuropeA	242	TV	Jesus Christ TV	[fre]	Yes
-12562	H	EuropeA	243	TV	EMCI TV	[fre]	Yes
-12562	H	EuropeA	244	TV	Miracle TV	[fre]	Yes
-12562	H	EuropeA	245	TV	Distinction TV	[fre]	Yes
-12562	H	EuropeA	246	TV	Chandelier TV	[fre]	Yes
-12565	V	EuropeB	1	TV	Kanal D Romania	[rum]	Yes
-12569	H	EuropeB	1	TV	SIC Internacional	[por]	Yes
-12572	V	EuropeB	10	TV	Est TV	[rum]	Yes
-12572	V	EuropeB	11	TV	TNT Bravo	[rus]	Yes
-12593	V	EuropeB	2680	TV	DM-SAT	[srp]	Yes
-12639	H	EuropeB	110	TV	RTSH 1 HD	[alb]	Yes
-12639	H	EuropeB	120	TV	RTSH 3 HD	[alb]	Yes
-12639	H	EuropeB	130	TV	RTSH Plus	[alb]	Yes
-12639	H	EuropeB	140	TV	RTSH 24	[alb]	Yes
-12639	H	EuropeB	150	TV	RTSH Shqip	[alb]	Yes
-12639	H	EuropeB	160	TV	RTSH Muzike	[alb]	Yes
-12643	V	EuropeB	11	TV	Digi 24	[rum]	Yes
-12643	V	EuropeB	12	TV	Neptun TV	[rum]	Yes
-12643	V	EuropeB	21	TV	TVR Cluj	[rum]	Yes
-12643	V	EuropeB	22	TV	TVR Craiova	[rum]	Yes
-12643	V	EuropeB	23	TV	TVR Iasi	[rum]	Yes
-12643	V	EuropeB	24	TV	TVR Timisoara	[rum]	Yes
-12643	V	EuropeB	25	TV	TVR Tirgu-Mures	[rum]	Yes
-12717	H	EuropeA	32	TV	Favorit TV	[rum]	Yes
-12717	H	EuropeA	88	TV	Alpha Omega TV	[rum]	Yes
-12737	H	EuropeB	100	TV	Realitatea TV	[rum]	Yes
-12737	H	EuropeB	500	TV	The Money Channel	[rum]	Yes
-12737	H	EuropeB	900	TV	Realitatea Plus	[rum]	Yes
+No	Freq	Pol	Beam	SID	Name	Lang
+	10722	V	EUV3	4	M2.	[000][hun]
+	10722	V	EUV3	5	Spektrum Home	[hun]
+	10722	V	EUV3	6	TVPaprika	[hun]
+	10722	V	EUV3	10	MTV	[eng]
+	10722	V	EUV3	12	ATV	[hun]
+	10722	V	EUV3	17	RTL II.	[eng][hun]
+	10722	V	EUV3	18	RTL GOLD	[hun]
+	10722	V	EUV3	19	COOL	[eng][hun]
+	10722	V	EUV3	20	RTL +	[eng][hun]
+	10722	V	EUV3	21	Sorozat+	[eng][hun]
+	10722	V	EUV3	22	Film+	[eng][hun]
+	10722	V	EUV3	23	Fishing&Hunting	[hun]
+	10722	V	EUV3	26	DoQ	[hun]
+	10722	V	EUV3	28	Life TV	[eng][hun]
+	10722	V	EUV3	29	Ozone TV	[eng][hun]
+	10722	V	EUV3	30	Hír TV	[hun]
+	10722	V	EUV3	1101	Eurosport	[hun]
+	10722	V	EUV3	1107	M3.	[eng][hun]
+	10722	V	EUV3	1108	ATV Spirit	[hun][mul]
+	10722	V	EUV3	1111	Spíller TV.	[hun]
+	10722	V	EUV3	1114	STORY5	[hun]
+	10722	V	EUV3	1116	STORY4	[hun]
+	10722	V	EUV3	1125	GALAXY4	[hun]
+	10722	V	EUV3	1128	CH-1128	[eng][hun]
+	10722	V	EUV3	1131	Muzsika Tv	[hun]
+	10722	V	MEV3	1301	TVCi	[rus]
+	10722	V	MEV3	1302	Bloomberg Europe	[eng]
+	10722	V	MEV3	1303	Yes Bollywood	[heb]
+	10722	V	MEV3	1304	Vremya	[rus]
+	10722	V	MEV3	1305	Karusel International	[rus]
+	10722	V	MEV3	1307	JimJam Europe	[eng][rus]
+	10722	V	MEV3	1308	MTV Music 24	[eng]
+	10722	V	MEV3	1309	EuroStar	[tur]
+	10722	V	MEV3	1310	Viva	[heb]
+	10722	V	MEV3	1311	Eurosport 2	[rus]
+	10722	V	MEV3	1312	CGTN	[eng]
+	10722	V	MEV3	1313	Disney Channel Israel	[heb]
+	10722	V	MEV3	1314	Health Channel	[heb]
+	10722	V	MEV3	1315	Telecafé	[rus]
+	10722	V	MEV3	1316	1+1 International	[ukr]
+	10722	V	MEV3	1318	France 2	[fre]
+	10722	V	MEV3	1319	Pro TV International	[rum]
+	10722	V	MEV3	1322	Shanson TV	[rus]
+	10722	V	MEV3	1323	Nick Jr Israel	[heb]
+	10758	V	EUV3	201	MR 1 Kossuth	[hun]
+	10758	V	EUV3	202	MR 2 Petöfi	[hun]
+	10758	V	EUV3	203	MR 3 Bartók	[hun]
+	10758	V	EUV3	1201	RTL Klub.	[eng][hun]
+	10758	V	EUV3	1202	TV2	[eng][hun]
+	10758	V	EUV3	1203	Viasat 3	[eng][hun]
+	10758	V	EUV3	1204	PRIME	[hun]
+	10758	V	EUV3	1205	Nickelodeon	[eng][hun]
+	10758	V	EUV3	1206	Duna Tv	[000][hun]
+	10758	V	EUV3	1207	Hustler TV Europe (23-05)	[eng]
+	10758	V	EUV3	1208	SuperTV2	[hun]
+	10758	V	EUV3	1209	M1.	[000][hun]
+	10758	V	EUV3	1210	Blue Hustler Europe (23-05)	[eng]
+	10758	V	EUV3	1211	Humor+.	[hun]
+1	10758	V	EUV3	1212	Teszt V	[zxx]
+	10758	V	EUV3	1213	Izaura TV.	[hun]
+	10758	V	EUV3	1214	Spektrum	[hun]
+	10758	V	EUV3	1215	Viasat Explore (05-00)	[eng][hun]
+	10758	V	EUV3	1216	Mediaset	[ita]
+	10758	V	EUV3	1217	JimJam	[eng][hun]
+	10758	V	EUV3	1218	Mozi+	[hun]
+	10758	V	EUV3	1221	Discovery Channel	[eng][hun]
+	10758	V	EUV3	1222	Duna World	[hun]
+	10758	V	EUV3	1224	ORF 1	[ger]
+	10758	V	EUV3	1225	Comedy Central Family	[hun]
+	10758	V	EUV3	1226	Travel Channel Europe	[eng]
+	10758	V	EUV3	1228	Dorcel TV	[eng]
+	10758	V	MEV3	1401	IETV	[heb]
+	10758	V	MEV3	1404	France 24 English	[eng]
+	10758	V	MEV3	1405	TVE Internacional Europa	[spa]
+	10758	V	MEV3	1406	TV 5 Monde Europe	[fre]
+	10758	V	MEV3	1407	Junior	[heb]
+	10758	V	MEV3	1408	Animal Planet	[rus]
+	10758	V	MEV3	1409	Investigation Discovery Xtra	[rus]
+	10758	V	MEV3	1410	TLC	[rus]
+	10758	V	MEV3	1411	ARTE Français	[fre]
+	10758	V	MEV3	1412	METV Middle East TV	[heb]
+	10758	V	MEV3	1413	TVR International	[rum]
+	10758	V	MEV3	1414	CGTN	[eng]
+	10758	V	MEV3	1415	RTVi Israel	[rus]
+	10758	V	MEV3	1416	Rodnoe Kino	[rus]
+	10758	V	MEV3	1418	Eurosport 1	[eng][rus]
+	10758	V	MEV3	1419	Fashion TV Europe	[eng]
+	10758	V	MEV3	1420	Rotana Music	[ara]
+	10758	V	MEV3	1421	RTL Deutschland	[ger]
+	10758	V	MEV3	1422	Woman	
+	10758	V	MEV3	1422	Lifetime Israel	[eng]
+	10758	V	MEV3	1423	Home Plus	[eng]
+	10806	V	EUV3	1501	Filmcafé	[hun]
+	10806	V	EUV3	1502	MTV Hits	[eng]
+	10806	V	EUV3	1503	Disney Channel Hungary & Czechia	[eng][hun]
+	10806	V	EUV3	1504	National Geographic Hungary HD	[eng][hun]
+	10806	V	EUV3	1505	Nat Geo Wild Hungary	[hun]
+	10806	V	EUV3	1507	Sport 1 Hungary	[hun]
+	10806	V	EUV3	1508	Sport 2 Hungary	[hun]
+	10806	V	EUV3	1510	M4 Sport	[eng][hun]
+	10806	V	EUV3	1511	BBC Earth	[eng][hun]
+	10806	V	EUV3	1512	H2	[eng][hun]
+	10806	V	EUV3	1513	RTL Spike	[hun]
+	10806	V	EUV3	1514	Animal Planet	[eng][hun]
+	10806	V	EUV3	1515	National Geographic Channel	[eng][hun]
+	10806	V	EUV3	1516	M5	[eng][hun]
+	10806	V	EUV3	1517	FEM3	[hun]
+	10806	V	EUV3	1518	ID Europe	[eng][hun]
+	10806	V	EUV3	1519	Viasat 6	[eng][hun]
+	10806	V	EUV3	1521	Zenebutik	[hun]
+	10806	V	EUV3	1522	VH1 Europe	[eng]
+	10806	V	EUV3	1524	FOX+	[hun]
+	10806	V	EUV3	1525	Paramount Channel Hungary	[eng][hun]
+	10806	V	EUV3	1526	Sláger TV	[hun]
+	10806	V	EUV3	1528	Cartoon Network Hungary	[eng][hun]
+	10806	V	MEV3	801	Kan 11	[heb]
+	10806	V	MEV3	802	Keshet	[000][heb]
+	10806	V	MEV3	803	Channel 14	[000][heb]
+	10806	V	MEV3	804	Yes Action	[heb]
+	10806	V	MEV3	805	Yes Drama	[heb]
+	10806	V	MEV3	806	Yes Docu	[eng][heb]
+	10806	V	MEV3	807	Game of Thrones	[heb]
+	10806	V	MEV3	808	Sport 5+	[heb]
+	10806	V	MEV3	809	Reshet TV	[heb]
+	10806	V	MEV3	810	Yes Comedy	
+	10806	V	MEV3	811	Sport 5	[heb]
+	10806	V	MEV3	812	Channel 9 Israel	[rus]
+	10806	V	MEV3	813	National Geographic Channel Israel	[heb]
+	10806	V	MEV3	817	Sport 3	[heb]
+	10806	V	MEV3	818	Yes Edge	[heb]
+	10806	V	MEV3	819	One Sport Israel	[heb]
+	10842	V	EUV3	1303	Super TV 2 HD	[hun]
+	10842	V	EUV3	1304	RTL Klub HD	[000][hun]
+	10842	V	EUV3	1305	Sport 1 Hungary HD	[hun]
+	10842	V	EUV3	1306	Spektrum TV HD	[hun]
+	10842	V	EUV3	1307	AXN Czech Republic HD	[cze][eng][hun]
+	10842	V	EUV3	1308	Duna World HD	[000][hun]
+	10842	V	EUV3	1309	Eurosport 2 HD	[eng][hun][slo]
+	10842	V	EUV3	1310	Magyar ATV HD	[hun]
+	10842	V	EUV3	1311	M5 HD	[hun]
+	10842	V	EUV3	1312	HBO Hungary HD	[eng][hun]
+	10842	V	EUV3	1313	FEM3	[hun]
+	10842	V	MEV3	501	Yes 1 HD	[heb]
+	10842	V	MEV3	502	Yes 5 HD	[eng]
+	10842	V	MEV3	504	Sport 5+ Live HD	[heb]
+	10842	V	MEV3	505	Sport 1 HD	[heb]
+	10842	V	MEV3	506	Sport 5 HD	
+	10842	V	MEV3	510	Yes 3 HD	[heb]
+	10842	V	MEV3	512	Disney Channel Israel HD	[heb]
+	10842	V	MEV3	512	Disney Channel Israel HD	[heb]
+	10842	V	MEV3	513	Kan 11 HD	[heb]
+	10842	V	MEV3	517	Yes 2 HD	[heb]
+	10842	V	MEV3	518	Nat Geo Wild Israel HD	[heb]
+	10842	V	MEV3	519	Channel 10 (Channel 14) HD	[heb]
+	10842	V	MEV3	521	5 Stars HD	[heb]
+	10842	V	MEV3	1004	Yes 4	[heb][rus]
+	10842	V	MEV3	1006	Ego Total	[heb]
+	10842	V	MEV3	1007	Sport 1	[heb]
+	10842	V	MEV3	1008	Hop!	
+	10842	V	MEV3	1009	Disney Channel Israel	[heb]
+	10842	V	MEV3	1010	Good Life TV Network	[heb]
+	10842	V	MEV3	1012	Zoom	[heb]
+	10842	V	MEV3	1014	Channel 20	[heb]
+	10842	V	MEV3	1015	Yes 5	[heb][rus]
+	10842	V	MEV3	1016	Yes DVDbox	[heb]
+	10842	V	MEV3	1017	Yes Israeli Cinema	[heb]
+	10842	V	MEV3	1018	History Channel Israel	[heb]
+	10925	V	MEV3	1201	Russian Music Box	[rus]
+	10925	V	MEV3	1202	Middle East TV	[heb]
+	10925	V	MEV3	1203	Dom Kino	[rus]
+	10925	V	MEV3	1204	Eurosport	[heb]
+	10925	V	MEV3	1205	Knesset Channel	[heb]
+	10925	V	MEV3	1206	VH1 Classic Europe	[eng]
+	10925	V	MEV3	1207	Yam Tichoni 25	
+	10925	V	MEV3	1208	Perviy kanal Europa	[rus]
+	10925	V	MEV3	1209	Dozhd	[rus]
+	10925	V	MEV3	1210	NTV Mir	[rus]
+	10925	V	MEV3	1211	Viva Plus	
+	10925	V	MEV3	1213	Music 24 Israel	[heb]
+	10925	V	MEV3	1214	Mezzo	[fre]
+	10925	V	MEV3	1215	Hala TV	[ara]
+	10925	V	MEV3	1216	Extreme Sports Channel	[eng]
+	10925	V	MEV3	1217	Eurosport 2	[heb]
+	10925	V	MEV3	1218	Discovery Channel Middle East & Africa	
+	10925	V	MEV3	1219	CNN International Europe	[eng]
+	10925	V	MEV3	1220	Sky News International	[eng]
+	10925	V	MEV3	1221	Education 23	[heb]
+	10925	V	MEV3	1222	Fox News Channel	[eng]
+	10925	V	MEV3	1223	Food Channel	[eng]
+	10972	V	MEV3	101	Yes Drama HD	[heb]
+	10972	V	MEV3	102	Sport 4 HD Israel	[heb]
+	10972	V	MEV3	103	Fox Sports Israel HD	[heb]
+	10972	V	MEV3	104	One Sport Israel HD	[heb]
+	10972	V	MEV3	105	MTV Live HD	[eng]
+	10972	V	MEV3	106	Yes Docu HD	[heb]
+	10972	V	MEV3	110	Yes Comedy HD	[heb]
+	10972	V	MEV3	111	History Channel Israel HD	[heb]
+	10972	V	MEV3	112	Eurosport 1 HD	[eng][rus]
+	10972	V	MEV3	113	The Big Brother Israel HD	[heb]
+	10972	V	MEV3	114	Sport 3 HD Israel	[heb]
+	10972	V	MEV3	117	Yes Action HD	[heb]
+	10972	V	MEV3	118	Channel 12 (Keshet) HD	[heb]
+	10972	V	MEV3	119	Sport 2 HD Israel	[heb]
+	10972	V	MEV3	120	KAN 11 HD	[000][heb]
+	10972	V	MEV3	121	Discovery Channel Russia HD	[eng][rus]
+	10997	V	ME	701	Classica HD	
+	10997	V	ME	702	One 2 HD	[eng]
+	10997	V	ME	703	Channel 13 (Reshet 13) HD	[heb]
+	11030	V	ME	1001	Yes 1	[heb]
+	11030	V	ME	1002	Yes 2	[heb]
+	11030	V	ME	1003	Yes 3	[heb]
+	11030	V	ME	1004	Yes 4	[heb]
+	11030	V	ME	1005	Sport 4 Israel	[heb]
+	11030	V	ME	1006	The Big Brother Israel	[heb]
+	11030	V	ME	1007	Nat Geo Wild Israel	[eng][rus]
+	11030	V	ME	1008	Hop!	
+	11030	V	ME	1009	Disney Channel Israel	[heb]
+	11030	V	ME	1010	Good Life TV Network	[heb]
+	11030	V	ME	1011	5 Stars	[heb]
+	11030	V	ME	1012	Zoom Israel	[heb]
+	11030	V	ME	1013	Sport 2 Israel	[heb]
+	11030	V	ME	1014	Channel 20	
+	11030	V	ME	1015	Yes 5	[heb][rus]
+	11030	V	ME	1016	Classica	
+	11030	V	ME	1017	Yes Israeli Cinema	[heb]
+	11030	V	ME	1018	History Channel Israel	[heb]
+	11031	V	ME	401	RTR Planeta	[rus]
+	11031	V	ME	402	Makan 33	[heb]
+	11031	V	ME	403	Fox Sports Israel	[eng]
+	11031	V	ME	405	TeenNick	[eng]
+	11031	V	ME	406	AMC Israel	[heb]
+	11031	V	ME	407	Yes News	[heb]
+	11031	V	ME	408	Stars Channel	[heb]
+	11031	V	ME	409	Yes DVDbox	[heb]
+	11031	V	ME	410	Viva Plus	[heb]
+	11031	V	ME	413	THT	[rus]
+	11031	V	ME	414	Yes DVDbox	[heb]
+	11031	V	ME	415	Russkiy Bestseller	[rus]
+	11031	V	ME	416	MTV Dance	[eng]
+	11031	V	ME	418	KVN	[rus]
+	11033	H	ME	1	Knesset Channel	[heb]
+	11057	V	ME	201	MBC 1	[ara]
+	11057	V	ME	203	3sat	[ger]
+	11057	V	ME	204	Sat.1 Deutschland	[ger]
+	11057	V	ME	206	CBS Reality	[eng]
+	11057	V	ME	207	Trace Israel	[eng]
+	11062	H	ME	3	METV	[eng]
+	11062	H	ME	4	ISN	[eng]
+	11077	V	ME	901	One 4K	[heb]
+	11080	V	ME	402	Kan 33 (Makan TV)	[heb]
+	11080	V	ME	407	Yes News	[heb]
+	11080	V	ME	409	Yes DVDbox	[heb]
+	11080	V	ME	414	Yes DVDbox	[heb]
+	11080	V	ME	415	Yes DVDbox	[heb]
+	11095	H	ME	10	Keshet 12	[heb]
+	11095	H	ME	20	Channel 10	[heb]
+	11100	H	EUH3	0	feed	
+	11103	V	ME	557	DU3 Total 2	
+	11103	V	ME	558	DU4 Quattro	
+	11113	H	ME	1	KAN 11	[heb]
+	11113	H	ME	2	Makan TV	[ara]
+	11113	H	ME	3	Kehuna Tarbut	[heb]
+	11113	H	ME	4	KAN Culture	[heb]
+	11113	H	ME	5	KAN Reshet Gimmel	[heb]
+	11113	H	ME	6	KAN Reshet Dalet	[ara]
+	11113	H	ME	7	KAN Kol Hamusica	[heb]
+	11113	H	ME	8	Radio Reka	[heb]
+	11113	H	ME	9	KAN Kol Haderech	[per]
+	11113	H	ME	10	Reshet Hey	[heb]
+	11140	H	EUH3	1	XSport	[ukr]
+2	11140	H	EUH3	2	Pershiy Diloviy	[ukr]
+3	11140	H	EUH3	3	UA:Zakarpattya	[ukr]
+	11140	H	EUH3	3	Tysa FM	[ukr]
+4	11140	H	EUH3	4	112 Ukraine SD	[ukr]
+5	11140	H	EUH3	6	Pryamiy HD	[ukr]
+6	11140	H	EUH3	7	News One	[ukr]
+	11140	H	EUH3	9	UA: Kultura	[ukr]
+7	11140	H	EUH3	10	UA: Donbass	[ukr]
+8	11140	H	EUH3	11	ZIK	[ukr]
+9	11140	H	EUH3	12	112 Ukraine HD	[ukr]
+	11140	H	EUH3	14	UR 1	[ukr]
+	11140	H	EUH3	15	UR 2	[ukr]
+	11140	H	EUH3	16	UR 3	[ukr]
+	11140	H	EUH3	17	Golos Donbasu	[ukr]
+	11140	H	EUH3	18	Radio Ukraine International	[ukr]
+	11140	H	EUH3	21	Telekanal STB	[ukr]
+	11140	H	EUH3	22	ICTV	[ukr]
+	11140	H	EUH3	23	Novy Kanal	[ukr]
+	11175	H	EUH3	1	Telekanal STB	[ukr]
+	11175	H	EUH3	2	M1 Ukraine	[ukr]
+10	11175	H	EUH3	3	Milady Television	[ukr]
+	11175	H	EUH3	4	Novy Kanal	[ukr]
+11	11175	H	EUH3	5	ICTV	[ukr]
+	11175	H	EUH3	6	M2 Estrada	[ukr]
+12	11175	H	EUH3	8	News 24	[rus][ukr]
+	11175	H	EUH3	8	Lux FM	[ukr]
+	11175	H	EUH3	8	Radio Maximum	[ukr]
+13	11175	H	EUH3	9	ECO TV	[ukr]
+14	11175	H	EUH3	10	Pryamiy	[ukr]
+	11175	H	EUH3	11	OCE	[ukr]
+	11175	H	EUH3	13	UA:Pershiy	[ukr]
+15	11175	H	EUH3	14	UA:Crimea	[ukr]
+	11222	H	EUH3	1301	M1 HD (Magyar 1)	[000][hun]
+	11222	H	EUH3	1302	M2 HD (Magyar 2)	[000][hun]
+	11222	H	EUH3	1303	STV 2 HD	[eng]
+	11222	H	EUH3	1304	RTL Klub HD	[eng][hun]
+	11222	H	EUH3	1305	Sport 1 Hungary HD	[hun]
+	11222	H	EUH3	1306	Cinemax 2 Central Europe	[000][hun]
+	11222	H	EUH3	1307	AXN Central Europe HD	[eng][hun]
+	11222	H	EUH3	1308	Duna World HD	[000][hun]
+	11222	H	EUH3	1310	Magyar ATV HD	[hun]
+	11222	H	EUH3	1311	HBO 2 Central Europe	[000][eng][hun]
+	11222	H	EUH3	1312	HBO HD Hungary	[eng][hun]
+	11222	H	EUH3	1313	Cinemax Central Europe	[eng][hun]
+	11222	H	EUH3	1314	FilmBox Plus	[hun]
+	11222	H	EUH3	1315	FilmBox Family	[eng]
+	11258	H	EUH3	1401	Duna HD	[hun][mul]
+	11258	H	EUH3	1402	M4 Sport HD	[hun][mul]
+	11258	H	EUH3	1403	M5 HD (Magyar 5)	[hun][mul]
+	11258	H	EUH3	1404	Film+ Hungary HD	[eng][hun]
+	11258	H	EUH3	1405	Sport 2 Hungary HD	[hun]
+	11258	H	EUH3	1406	Spektrum TV HD	[hun]
+	11258	H	EUH3	1407	Cool TV Hungary HD	[hun]
+	11258	H	EUH3	1408	RTL II HD	[hun]
+	11258	H	EUH3	1409	Spíler 2 HD	[hun]
+	11258	H	EUH3	1411	TV 2 Hungary HD	[hun][mul]
+	11304	H	EUH3	2	Hír TV	[hun]
+	11304	H	EUH3	9	Da Vinci Learning	[000][hun][pol][rus][ukr]
+	11304	H	EUH3	10	Lánchíd Rádió	[hun]
+	11321	H	EUH3	0	feeds	
+	11322	H	EUH3	0	feeds	
+	11323	H	EUH3	0	feeds	
+	11324	H	EUH3	0	feeds	
+	11325	H	EUH3	0	feed	
+	11327	H	EUH3	0	feeds	
+	11333	H	EUH3	20500	AOL	
+	11333	H	EUH3	40000	AOL	
+	11340	H	EUH3	0	Data	
+	11346	H	EUH3	0	Data	
+	11350	H	EUH3	1	Tippmix élo 1	[hun]
+	11350	H	EUH3	2	Tippmix élo 2	[hun]
+	11350	H	EUH3	3	Tippmix élo 3	[hun]
+	11350	H	EUH3	4	Tippmix élo 4	[hun]
+	11350	H	EUH3	5	Tippmix élo 5	[hun]
+	11350	H	EUH3	20500	AOL	
+	11350	H	EUH3	40000	AOL	
+	11351	H	EUH3	20500	AOL	
+	11351	H	EUH3	40000	AOL	
+	11373	H	EUH3	0	feed	
+	11374	V	MEV3	0	Data	
+	11378	H	EUH3	0	feeds	
+	11382	H	EUH3	0	feeds	
+	11385	H	EUH3	0	feed	
+	11386	H	EUH3	0	feeds	
+	11387	V	MEV3	0	Data	
+	11389	H	EUH3	1701	Discovery Channel Hungary HD	[eng][hun]
+	11389	H	EUH3	1702	Spíler TV HD	[hun]
+	11389	H	EUH3	1703	Heti TV	[hun]
+	11389	H	EUH3	1704	Animal Planet HD	[eng][hun]
+	11389	H	EUH3	1705	FilmBox Extra HD	[eng][hun]
+	11389	H	EUH3	1706	BBC Earth HD	[eng][hun]
+	11391	H	EUH3	0	feeds	
+	11392	H	EUH3	0	feed	
+	11395	H	EUH3	0	feed	
+	11396	H	EUH3	0	feed	
+16	11426	H	EUH3	1800	Teszt	[hun]
+	11426	H	EUH3	1801	History	[eng][hun]
+	11426	H	EUH3	1802	Fix TV	[hun]
+	11426	H	EUH3	1803	Fit	[hun]
+	11426	H	EUH3	1804	Hatoscsatorna	[hun]
+	11426	H	EUH3	1805	Bónum	[hun]
+	11426	H	EUH3	1806	SportM	[hun]
+	11426	H	EUH3	1807	HBO Hungary HD	[eng][hun]
+	11426	H	EUH3	1808	Eurosport 1 HD	[eng][hun]
+	11426	H	EUH3	1809	History HD	[eng][hun]
+	11426	H	EUH3	1810	Travel Channel Europe HD	[eng][hun]
+	11426	H	EUH3	1811	Animal Planet Europe	[eng][hun]
+	11426	H	EUH3	1812	MTV Rocks	[eng]
+	11426	H	EUH3	1813	ID Xtra Hungary	[eng][hun]
+	11426	H	EUH3	1814	Viasat 6	[hun]
+	11426	H	EUH3	1815	English Club TV	[eng]
+	11426	H	EUH3	1817	Viasat History	[eng][hun]
+	11436	V	MEV3	0	Data	
+	11449	H	EUH3	0	feed	
+	11468	H	PanEuropean	0	feed	
+	11474	V	MEV3	301	Current Time	[rus]
+	11474	V	MEV3	303	MyTV	[heb]
+	11474	V	MEV3	304	Wiz Kids	[heb]
+	11474	V	MEV3	370	Galaz	[heb]
+	11474	V	MEV3	371	Gal Galaz	[heb]
+	11474	V	MEV3	372	KAN Culture	[heb]
+	11474	V	MEV3	373	KAN Kol HaMusica	[heb]
+	11474	V	MEV3	374	KAN Reshet Gimmel	[heb]
+	11474	V	MEV3	375	100 FM	[heb]
+	11474	V	MEV3	376	102 FM	[heb]
+	11474	V	MEV3	377	103 FM	[heb]
+	11474	V	MEV3	378	Eco 99 FM	[heb]
+	11474	V	MEV3	379	Radio Lev Hamedina 91 FM	[heb]
+	11474	V	MEV3	380	KAN 88 FM	[heb]
+	11474	V	MEV3	381	KAN Reka Network	[heb]
+	11474	V	MEV3	382	Radio Darom	[heb]
+	11474	V	MEV3	383	Kol Hacampus	[heb]
+	11474	V	MEV3	384	Radio Darom 101.5	[heb]
+	11474	V	MEV3	386	Radio Essence of Life	[heb]
+	11476	H	PanEuropean	0	feed	
+	11500	H	PanEuropean	0	feed	
+	11501	V	MEV3	601	Abu Dhabi TV	[ara]
+	11501	V	MEV3	602	LBC Sat	[ara]
+	11501	V	MEV3	603	RTM	
+	11501	V	MEV3	604	Touch	
+	11501	V	MEV3	605	Yeslipstar	[heb]
+	11501	V	MEV3	606	Daystar TV	
+	11501	V	MEV3	607	NHK World TV	[heb]
+	11501	V	MEV3	608	Channel 13 (Reshet 13)	[heb]
+	11530	H	PanEuropean	0	M4 Sport HD feed	
+	11544	H	PanEuropean	0	feed	
+	11551	H	PanEuropean	0	feed	
+	11552	V	MEV3	1001	Yes 1	[heb][rus]
+	11552	V	MEV3	1002	Yes 2	[heb][rus]
+	11552	V	MEV3	1003	Yes 3	[heb][rus]
+	11552	V	MEV3	1004	Yes 4	[heb][rus]
+	11552	V	MEV3	1005	Sport 4	[heb]
+	11552	V	MEV3	1006	Ego Total	[heb]
+	11552	V	MEV3	1007	Sport 1	[heb]
+	11552	V	MEV3	1008	Hop!	[heb]
+	11552	V	MEV3	1009	Disney Channel Israel	[heb]
+	11552	V	MEV3	1010	Good Life TV Network	[heb]
+	11552	V	MEV3	1012	Zoom Channel	[heb]
+	11552	V	MEV3	1014	Channel 20	[heb]
+	11552	V	MEV3	1015	Yes 5	[heb][rus]
+	11552	V	MEV3	1016	Yes DVDbox	[heb]
+	11552	V	MEV3	1017	Yes Israeli Cinema	[heb]
+	11553	V	MEV3	1102	Nickelodeon Israel	[heb]
+	11553	V	MEV3	1103	REN TV	[rus]
+	11553	V	MEV3	1104	Hidabroot	[heb]
+	11553	V	MEV3	1105	Sport 5 Live	[heb]
+	11553	V	MEV3	1106	Discovery Science	[rus]
+	11553	V	MEV3	1107	CBS Reality	[eng][rus]
+	11553	V	MEV3	1108	Ego Total	[heb]
+	11553	V	MEV3	1109	MTV Europe	[eng]
+	11553	V	MEV3	1111	RTR Planeta	[rus]
+	11553	V	MEV3	1112	VH1 Europe	[eng]
+	11553	V	MEV3	1113	Disney Junior Israel	[heb]
+	11553	V	MEV3	1114	GTV	[heb]
+	11553	V	MEV3	1115	In Memoriam	[heb]
+	11553	V	MEV3	1116	TeenNick	[eng]
+	11553	V	MEV3	1117	TV1000 Russkoe Kino	[rus]
+	11553	V	MEV3	1118	Sport 5 Gold	[heb]
+	11553	V	MEV3	1118	Style Russia	[rus]
+	11553	V	MEV3	1120	Yes Kidz	[heb]
+	11553	V	MEV3	1121	TNT Russia	[rus]
+	11553	V	MEV3	1121	Zee TV Russia	[hin]
+	11553	V	MEV3	1122	MTV Dance	[eng]
+	11554	V	MEV3	1201	Russian Music Box	[rus]
+	11554	V	MEV3	1202	METV	[heb]
+	11554	V	MEV3	1203	Dom Kino	[rus]
+	11554	V	MEV3	1204	Mediaset Italia	[ita]
+	11554	V	MEV3	1205	Knesset Channel	[heb]
+	11554	V	MEV3	1206	VH1 Classic Europe	[eng]
+	11554	V	MEV3	1207	Yam Tichoni 25	
+	11554	V	MEV3	1208	Pro TV International	[rum]
+	11554	V	MEV3	1209	Dozhd	[rus]
+	11554	V	MEV3	1210	GTV	[geo]
+	11554	V	MEV3	1211	Viva Plus	[heb]
+	11554	V	MEV3	1212	Al Jazeera Channel	[ara]
+	11554	V	MEV3	1213	Music 24 Israel	[heb]
+	11554	V	MEV3	1214	Mezzo	[fre]
+	11554	V	MEV3	1215	Hala TV	[ara]
+	11554	V	MEV3	1216	Extreme Sports Channel	[eng]
+	11554	V	MEV3	1217	Yes Bollywood	
+	11554	V	MEV3	1218	Discovery Channel Middle East & Africa	
+	11554	V	MEV3	1219	CNNi Europe	[eng]
+	11554	V	MEV3	1220	Sky News International	[eng]
+	11554	V	MEV3	1221	Education 23	[heb]
+	11554	V	MEV3	1222	Fox News Channel	[eng]
+	11554	V	MEV3	1223	Food Channel	[eng]
+	11568	H	PanEuropean	1	Tippmix info 1	[hun]
+	11568	H	PanEuropean	2	Tippmix info 2	[hun]
+	11568	H	PanEuropean	3	Tippmix info 3	[hun]
+	11568	H	PanEuropean	4	Tippmix info 4	[hun]
+	11568	H	PanEuropean	5	Tippmix élo 1 HD	[hun]
+	11568	H	PanEuropean	6	Tippmix élo 2	[hun]
+	11580	V	MEV3	0	feeds	
+	11585	H	PanEuropean	0	feed	
+	11590	H	EUH3	1	TVH	[rum]
+	11590	H	EUH3	2	HFM	[rum]
+	11596	H	PanEuropean	0	feed	
+	11636	H	PanEuropean	0	Multimedia Fusion Extension	
+	11645	H	PanEuropean	0	feed	
+	11646	H	PanEuropean	0	feed	
+	11654	H	PanEuropean	0	feed	
+	11655	H	PanEuropean	0	M4 Sport HD feed	
+	11727	V	ME	0	Data	
+	11747	H	ME	0	Data	
+	11823	H	ME	0	Data	
+	12149	V	ME	0	Data	
+	12169	H	ME	0	Data	
+	12226	V	ME	0	Data	
+	12297	H	ME	1	Telekanal STB	[ukr]
+	12297	H	ME	2	ICTV HD	[ukr]
+	12297	H	ME	3	Novy Kanal HD	[ukr]
+	12297	H	ME	4	M1 HD Ukraine	[ukr]
+	12297	H	ME	5	M2 Estrada HD	[ukr]
+	12297	H	ME	6	Oce	
+	12297	H	ME	7	Telekanal STB	[ukr]
+	12297	H	ME	12	Telekanal OTSE	[ukr]
+	12303	V	ME	0	IDM International	
+	12303	V	ME	0	Actel Middle East	
+	12340	H	CEE	1	Setanta Sports Ukraine	[rus][ukr]
+	12340	H	CEE	3	Obozrevatel TV	[ukr]
+	12340	H	CEE	5	TVA	[ukr]
+	12340	H	CEE	6	12 kanal (Lutsk)	[ukr]
+	12340	H	CEE	7	ATR HD	[ukr]
+	12340	H	CEE	8	ATR	[ukr]
+	12340	H	CEE	9	Lale	[ukr]
+	12364	H	CEE	1	EU Music HD	[ukr]
+	12364	H	CEE	2	NIKI Junior HD	[ukr]
+	12364	H	CEE	3	NIKI Kids HD	[ukr]
+	12364	H	CEE	4	4ever Music HD	[ukr]
+	12374	H	CEE	0	feed	
+	12377	H	CEE	0	Rou-Tele-M feed	
+	12380	V	ME	0	Telenor	
+	12391	H	CEE	0	Rou-Tele-M feed	
+	12395	H	CEE	0	Rou-Tele-M feed	
+	12399	H	ME	0	Data	
+	12410	H	CEE	1	Pershiy Zaxidniy	[ukr]
+	12410	H	CEE	2	Vozrozhdenie TV	[rus]
+	12410	H	CEE	3	4 Kanal Ukraine	[ukr]
+	12410	H	CEE	3	Pravda Tut	[ukr]
+	12410	H	CEE	4	Boutique TV	[ukr]
+	12410	H	CEE	5	ChePe.info	[ukr]
+	12410	H	CEE	6	Black Sea TV	[ukr]
+	12410	H	CEE	7	Malyatko TV	[ukr]
+	12410	H	CEE	8	Televsesvit	[ukr]
+	12410	H	CEE	9	Galychyna	[ukr]
+	12410	H	CEE	10	Donechchyna TV	[ukr]
+	12410	H	CEE	11	Oboz TV	[ukr]
+	12410	H	CEE	12	8 Channel	[ukr]
+	12410	H	CEE	13	Genuine TV	
+	12456	V	ME	0	IDM International	
+	12456	V	ME	0	Actel Middle East	
+	12476	H	ME	0	Data	

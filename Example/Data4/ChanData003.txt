@@ -1,0 +1,725 @@
+Freq	Pol	SR	Beam	Type	Channel	T	Encryption	FTA	Package	Res	Compression	V_PID	A_PID	SID	Owner	Date	Row
+3693	L	1682	WH	TV	MFM TV	TV	FTA	Yes		SD	MPEG-4	33	34[eng]	1	Tanea	25-Jul-16	2	
+3697	L	1514	WH	TV	WAP TV	TV	FTA	Yes		SD	MPEG-4	100	110[eng]	1	Tanea	25-Jul-16	6	
+3702	L	5000	WH	TV	TVC Entertainment	TV	FTA	Yes		SD	MPEG-4	713	6112[eng]	2	Tanea	20-Mar-16	10	
+3702	L	5000	WH	TV	TVC News Nigeria	TV	FTA	Yes		SD	MPEG-4	613	5112[eng]	2	Tanea	20-Mar-16	12	
+3800	L	27500	WH	TV	AFN Prime Atlantic	TV	PowerVu|Verimatrix	No		HD	MPEG-4	1265	1225|1225[eng]	102	Tanea	4-Oct-18	16	
+3800	L	27500	WH	TV	AFN News	TV	PowerVu|Verimatrix	No		HD	MPEG-4	1565	1525|1525[eng]	103	Tanea	4-Oct-18	18	
+3800	L	27500	WH	TV	AFN Sports	TV	PowerVu|Verimatrix	No		HD	MPEG-4	1165	1125|1125[eng]	104	Tanea	4-Oct-18	20	
+3800	L	27500	WH	TV	AFN Prime Pacific	TV	PowerVu|Verimatrix	No		HD	MPEG-4	1465	1425|1425[eng]	105	Tanea	4-Oct-18	22	
+3800	L	27500	WH	TV	AFN Spectrum	TV	PowerVu|Verimatrix	No		HD	MPEG-4	1365	1325|1325[eng]	106	Tanea	4-Oct-18	24	
+3800	L	27500	WH	TV	AFN Sports 2	TV	PowerVu|Verimatrix	No		HD	MPEG-4	1665	1625[eng]	107	Tanea	4-Oct-18	26	
+3800	L	27500	WH	TV	AFN Family	TV	PowerVu|Verimatrix	No		HD	MPEG-4	1965	1925|1925[eng]	108	Tanea	4-Oct-18	28	
+3800	L	27500	WH	TV	AFN Movie	TV	PowerVu|Verimatrix	No		HD	MPEG-4	1065	1025|1025[eng]	109	Tanea	4-Oct-18	30	
+3843	R	1055	WH	TV	African Health TV	TV	FTA	Yes		SD	MPEG-2	256	512[eng]	1	Tanea	30-Jun-15	34	
+3844	R	1160	WH	TV	Liberty TV Kaduna	TV	FTA	Yes		SD	MPEG-4	256	512[eng]	1	Vadim	3-Oct-16	38	
+3853	R	1130	WH	TV	Western TV	TV	FTA	Yes		SD	MPEG-2	308	256[eng]	1	Tanea	28-Dec-18	42	
+3855	R	1290	WH	R	Label TV	TV	FTA	Yes		SD	MPEG-2	0	296[fre]	1	Tanea	16-Jan-18	46	
+3857	R	1520	WH	TV	Galaxy TV Lagos	TV	FTA	Yes		SD	MPEG-2	512	4112[eng]	1	Vadim	4-Oct-16	50	
+3858	R	1055	WH	TV	Rave TV	TV	FTA	Yes		SD	MPEG-2	512	4112[eng]	1	Vadim	13-Jul-17	54	
+3860	R	1300	WH	TV	Core TV News	TV	FTA	Yes		SD	MPEG-4	4113	4352[eng]	1	Vadim	4-Oct-16	58	
+3862	R	1134	WH	TV	Quest TV	TV	FTA	Yes		SD	MPEG-4	256	512[eng]	257	Tanea	2-Oct-18	62	
+3868	R	1203	WH	TV	R2 TV	TV	FTA	Yes		SD	MPEG-4	8190	4112[eng]	1	Vadim	4-Oct-16	66	
+3869	R	1260	WH	TV	Label TV	TV	FTA	Yes		SD	MPEG-4	308	256[eng]	1	Vadim	4-Oct-16	70	
+3870	R	1550	WH	TV	SES Demo	TV	FTA	Yes		SD	MPEG-4	255	256[eng]	1	Vadim	4-Oct-16	74	
+3877	R	1134	WH	TV	CRBC TV	TV	FTA	Yes		SD	MPEG-4	512	4112[eng]	1	Tanea	4-Oct-18	78	
+3892	R	6058	WH	TV	Spiritus TV	TV	FTA	Yes		SD	MPEG-4	512	258[eng]	1	Tanea	24-Dec-18	82	
+3892	R	6058	WH	TV	Our TV	TV	FTA	Yes		SD	MPEG-4	288	304[eng]	2	Tanea	2-Oct-18	84	
+3892	R	6058	WH	TV	Wise TV	TV	FTA	Yes		SD	MPEG-4	68	70[eng]	4	Tanea	2-Oct-18	86	
+3892	R	6058	WH	TV	AB TV	TV	FTA	Yes		SD	MPEG-4	2159	3159|3159[eng]	5	Tanea	24-Dec-18	88	
+3892	R	6058	WH	TV	Ohemaa TV	TV	FTA	Yes		SD	MPEG-4	612	611[eng]	6	Tanea	24-Dec-18	90	
+3990	L	47000	WH	DATA	Data	@	FTA	Yes				0		0	Vadim	6-Oct-16	94	
+3992	R	3574	WH	TV	AIT News	TV	FTA	Yes		SD	MPEG-4	512	4112[eng]	1	Tanea	2-Oct-18	98	
+3992	R	3574	WH	R	Ray Power 106.5 FM	R	FTA	Yes				0	1065[eng]	2	Vadim	5-Oct-16	100	
+3996	R	3574	WH	R	Ray Power 106.5 FM	R	FTA	Yes				0	1065[eng]	2	Vadim	5-Oct-16	104	
+4001	R	3574	WH	TV	AIT National	TV	FTA	Yes		SD	MPEG-4	512	1062[eng]	1	Vadim	5-Oct-16	108	
+4001	R	3574	WH	R	Ray Power 106.5 FM	R	FTA	Yes				0	4114[eng]	2	Vadim	5-Oct-16	110	
+4003	R	1700	WH	TV	AIT International	TV	FTA	Yes		SD	MPEG-2	4194	4195[eng]	1	Tanea	11-Feb-18	114	
+4028	R	10000	Global	DATA	Data	@	FTA	Yes				0		0	Vadim	6-Oct-16	118	
+4049	L	47000	WH	DATA	Data	@	FTA	Yes				0		0	Vadim	6-Oct-16	122	
+4050	R	1666	Global	DATA	Data	@	FTA	Yes				0		0	Vadim	18-Dec-16	126	
+4057	R	4104	Global	DATA	Data	@	FTA	Yes				0		0	Vadim	21-Jul-17	130	
+11265	H	30000	Nordic	TV	Viasat History HD	TV	Videoguard	No	Viasat	HD	MPEG-4	2601	2602[swe]|2603[nor]|2604[dan]|2605[rus]|2606[eng]|2607[tur]	2600	alexfloresaf38	3-Feb-18	134	
+11265	H	30000	Nordic	TV	Comedy Central Sverige	TV	Videoguard	No	Viasat	SD	MPEG-4	801	802[swe]	2605	Tanea	6-Mar-18	136	
+11265	H	30000	Nordic	TV	TV6 HD Sweden	TV	Videoguard	No	Viasat	HD	MPEG-4	2611	2612[swe]|2613[swe]	2610	alexfloresaf38	3-Feb-18	138	
+11265	H	30000	Nordic	TV	E!	TV	Videoguard	No	Viasat	SD	MPEG-4	811	812[eng]	2615	alexfloresaf38	3-Feb-18	140	
+11265	H	30000	Nordic	TV	Viasat Explore HD	TV	Videoguard	No	Viasat	HD	MPEG-4	2621	2622[swe]|2623[nor]|2624[dan]|2625[eng]|2626[rus]	2620	Vadim	6-Oct-16	142	
+11265	H	30000	Nordic	TV	MTV Nordic	TV	Videoguard	No	Viasat	SD	MPEG-4	821	822[eng]	2625	Tanea	7-Feb-19	144	
+11265	H	30000	Nordic	TV	Viasat 4 HD	TV	Videoguard	No	Viasat	HD	MPEG-4	2631	2632[nor]	2630	alexfloresaf38	3-Feb-18	146	
+11265	H	30000	Nordic	TV	Viasat Nature HD	TV	Videoguard	No	Viasat	HD	MPEG-4	2641	2642[swe]|2643[nor]|2644[dan]	2640	Vadim	18-Dec-16	148	
+11265	H	30000	Nordic	TV	TV3 HD Danmark	TV	Videoguard	No	Viasat	HD	MPEG-4	2651	2652[dan]|2653[dan]	2650	alexfloresaf38	3-Feb-18	150	
+11265	H	30000	Nordic	IMG	MTV Hits	TV	Videoguard	No	Viasat	SD	MPEG-4	2661		2660	alexfloresaf38	28-Jan-18	152	
+11265	H	30000	Nordic	TV	Nick DK	TV	Videoguard	No	Viasat	SD	MPEG-4	2661	2662[dan]	2665	alexfloresaf38	28-Jan-18	154	
+11265	H	30000	Nordic	TV	Nickelodeon Norge	TV	Videoguard	No	Viasat	SD	MPEG-4	2671	2672[nor]	2670	alexfloresaf38	28-Jan-18	156	
+11265	H	30000	Nordic	TV	VH1 Classic	TV	Videoguard	No	Viasat	SD	MPEG-4	2671	2672[eng]	2675	alexfloresaf38	28-Jan-18	158	
+11265	H	30000	Nordic	TV	MTV DK	TV	Videoguard	No	Viasat	SD	MPEG-4	2681	2682[dan]	2680	alexfloresaf38	1-Feb-18	160	
+11265	H	30000	Nordic	TV	VH1	TV	Videoguard	No	Viasat	SD	MPEG-4	2686	2687[swe]|2688[dan]|2689[nor]|2691[fin]|2692[rus]|2693[eng]	2685	alexfloresaf38	1-Feb-18	162	
+11265	H	30000	Nordic	TV	Nick JR	TV	Videoguard	No	Viasat	SD	MPEG-4	2686	2687[swe]|2688[dan]|2689[nor]|2691[fin]|2692[rus]|2693[eng]	2690	alexfloresaf38	1-Feb-18	164	
+11265	H	30000	Nordic	TV	Nick Toons	TV	Videoguard	No	Viasat	SD	MPEG-4	891	892[rus]|893[eng]|894[swe]|895[dan]|897[nor]	2695	alexfloresaf38	1-Feb-18	166	
+11266	V	30000	Nordic	TV	Disney Channel NO	TV	Videoguard	No	Viasat	SD	MPEG-4	2201	2202[nor]	2200	alexfloresaf38	3-Feb-18	170	
+11266	V	30000	Nordic	TV	TV 2 Fri	TV	Videoguard	No	Viasat	SD	MPEG-4	831	832[dan]	2205	alexfloresaf38	2-Feb-18	172	
+11266	V	30000	Nordic	TV	Disney Channel SE	TV	Videoguard	No	Viasat	SD	MPEG-4	2211	2212[swe]|2213[fin]|2214[eng]|2215[rus]	2210	Vadim	3-Feb-18	174	
+11266	V	30000	Nordic	TV	TV2 Charlie	TV	Videoguard	No	Viasat	SD	MPEG-4	811	812[dan]	2215	alexfloresaf38	2-Feb-18	176	
+11266	V	30000	Nordic	TV	Disney XD	TV	FTA	Yes	Viasat	SD	MPEG-4	2221	2224[eng]|2225[rus]|2223[fin]|2222[swe]|2226[nor]|2228[dan]	2220	alexfloresaf38	2-Feb-18	178	
+11266	V	30000	Nordic	TV	TV2 NEWS	TV	Videoguard	No	Viasat	SD	MPEG-4	821	822[dan]	2225	alexfloresaf38	2-Feb-18	180	
+11266	V	30000	Nordic	TV	Nickelodeon SE	TV	Videoguard	No	Viasat	SD	MPEG-4	2231	2232[swe]	2230	Vadim	3-Feb-18	182	
+11266	V	30000	Nordic	TV	National Geographic Denmark	TV	Videoguard	No	Viasat	SD	MPEG-4	2234	834[dan]	2233	Tanea	6-Mar-18	184	
+11266	V	30000	Nordic	TV	Eurosport DK	TV	Videoguard	No	Viasat	SD	MPEG-4	2236	2237[dan]	2235	alexfloresaf38	2-Feb-18	186	
+11266	V	30000	Nordic	TV	CANAL9	TV	Videoguard	No	Viasat	SD	MPEG-4	2241	2242[dan]	2240	alexfloresaf38	2-Feb-18	188	
+11266	V	30000	Nordic	TV	Disney JR	TV	Videoguard	No	Viasat	SD	MPEG-4	841	842[swe]|843[nor]|844[dan]|845[fin]|847[eng]|848[rus]	2245	alexfloresaf38	2-Feb-18	190	
+11266	V	30000	Nordic	TV	TV6 (N)	TV	Videoguard	No	Viasat	SD	MPEG-4	2251	2252[nor]	2250	alexfloresaf38	2-Feb-18	192	
+11266	V	30000	Nordic	TV	TV2 Zulu	TV	Videoguard	No	Viasat	SD	MPEG-4	2256	2257[dan]	2255	alexfloresaf38	2-Feb-18	194	
+11266	V	30000	Nordic	TV	Comedy Central Norway	TV	Videoguard	No	Viasat	SD	MPEG-4	2261	2262[nor]	2260	Tanea	3-Feb-18	196	
+11266	V	30000	Nordic	TV	DK4	TV	Videoguard	No	Viasat	SD	MPEG-4	2266	2267[dan]	2265	alexfloresaf38	2-Feb-18	198	
+11266	V	30000	Nordic	TV	Nat Geo Norway	TV	Videoguard	No	Viasat	SD	MPEG-4	2271	2272[nor]	2270	Tanea	3-Feb-18	200	
+11266	V	30000	Nordic	TV	Disney Channel (D)	TV	Videoguard	No	Viasat	SD	MPEG-4	871	872[dan]	2275	alexfloresaf38	2-Feb-18	202	
+11266	V	30000	Nordic	TV	TV 2 Livsstil	TV	Videoguard	No	Viasat	SD	MPEG-4	2281	2282[nor]	2280	Tanea	14-Sep-16	204	
+11266	V	30000	Nordic	TV	Kanal 4 (D)	TV	Videoguard	No	Viasat	SD	MPEG-4	2286	2287[dan]	2285	alexfloresaf38	2-Feb-18	206	
+11266	V	30000	Nordic	TV	Fox Swe	TV	Videoguard	No	Viasat	SD	MPEG-4	2291	2292[swe]	2290	Tanea	3-Feb-18	208	
+11266	V	30000	Nordic	TV	BBC World	TV	Videoguard	No	Viasat	SD	MPEG-4	2294	891[eng]	2293	alexfloresaf38	3-Feb-18	210	
+11266	V	30000	Nordic	TV	Kanal 5 DK	TV	Videoguard	No	Viasat	SD	MPEG-4	2296	2297[dan]	2295	alexfloresaf38	3-Feb-18	212	
+11305	V	30000	Nordic	TV	VFActionHD	TV	Videoguard	No	Viasat	HD	MPEG-4	1401	808[swe]|814[nor]|815[dan]|816[fin]	1400	alexfloresaf38	4-Feb-18	216	
+11305	V	30000	Nordic	TV	VFilm Hits HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1411	844[swe]|845[nor]|846[dan]|847[fin]	1410	alexfloresaf38	4-Feb-18	218	
+11305	V	30000	Nordic	TV	Viasat Series HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1421	834[swe]|835[nor]|836[dan]|837[fin]	1420	alexfloresaf38	4-Feb-18	220	
+11305	V	30000	Nordic	TV	TV3 HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1431	1432[swe]|1433[swe]	1430	alexfloresaf38	4-Feb-18	222	
+11305	V	30000	Nordic	TV	Viasat Motor HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1441	1443[nor]|1442[swe]|1444[est]	1440	alexfloresaf38	4-Feb-18	224	
+11305	V	30000	Nordic	TV	Kanal 5 HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1451	1452[swe]	1450	alexfloresaf38	4-Feb-18	226	
+11305	V	30000	Nordic	TV	TV3 HD NO	TV	Videoguard	No	Viasat	HD	MPEG-4	1471	1472[nor]	1470	alexfloresaf38	4-Feb-18	228	
+11305	V	30000	Nordic	TV	Eurosport Norge HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1481	1482[nor]	1480	Vadim	4-Feb-18	230	
+11306	H	30000	Nordic	TV	Viasat Sport HD	TV	Videoguard	No	Viasat	HD	MPEG-4	2701	2702[swe]|2703[fin]	2700	alexfloresaf38	4-Feb-18	234	
+11306	H	30000	Nordic	TV	HISTORY	TV	Videoguard	No	Viasat	SD	MPEG-4	2706	2707[swe]	2705	alexfloresaf38	4-Feb-18	236	
+11306	H	30000	Nordic	TV	Viasat Hockey HD	TV	Videoguard	No	Viasat	HD	MPEG-4	2711	2712[swe]|2713[fin]|2714[nor]	2710	alexfloresaf38	4-Feb-18	238	
+11306	H	30000	Nordic	TV	Viasport 1	TV	Videoguard	No	Viasat	HD	MPEG-4	2721	2722[nor]	2720	alexfloresaf38	4-Feb-18	240	
+11306	H	30000	Nordic	TV	TV2 Sport HD	TV	Videoguard	No	Viasat	HD	MPEG-4	2731	2732[dan]	2730	alexfloresaf38	4-Feb-18	242	
+11306	H	30000	Nordic	TV	DR1 HD	TV	Videoguard	No	Viasat	HD	MPEG-4	2741	2742[dan]|2743[dan]	2740	alexfloresaf38	4-Feb-18	244	
+11306	H	30000	Nordic	TV	ESPORTSTV	TV	Videoguard	No	Viasat	HD	MPEG-4	2751	2752[eng]	2750	alexfloresaf38	4-Feb-18	246	
+11306	H	30000	Nordic	TV	TV3 Sport HD	TV	Videoguard	No	Viasat	HD	MPEG-4	2771	2772[dan]	2770	alexfloresaf38	4-Feb-18	248	
+11306	H	30000	Nordic	TV	Eurosport 1	TV	Videoguard	No	Viasat	SD	MPEG-4	2781	2782[dan]	2780	Vadim	4-Feb-18	250	
+11306	H	30000	Nordic	TV	Discovery Channel NO	TV	Videoguard	No	Viasat	SD	MPEG-4	2791	2792[nor]	2790	alexfloresaf38	4-Feb-18	252	
+11345	V	30000	Nordic	TV	Viasat Golf HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1701	1702[swe]|1703[nor]|1704[dan]|1705[eng]|1706[000]	1700	alexfloresaf38	4-Feb-18	256	
+11345	V	30000	Nordic	TV	Discovery Channel SE	TV	Videoguard	No	Viasat	SD	MPEG-4	1711	1712[swe]	1710	Vadim	1-Dec-16	258	
+11345	V	30000	Nordic	TV	TV3 SPORT 1 HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1721	1728[dan]	1720	alexfloresaf38	4-Feb-18	260	
+11345	V	30000	Nordic	TV	TV2 HD Lorry	TV	Videoguard	No	Viasat	HD	MPEG-4	1731	1732[dan]	1730	alexfloresaf38	4-Feb-18	262	
+11345	V	30000	Nordic	TV	DR3	TV	Videoguard	No	Viasat	HD	MPEG-4	1741	1742[dan]|1743[dan]	1740	alexfloresaf38	4-Feb-18	264	
+11345	V	30000	Nordic	TV	TV3 MAX	TV	Videoguard	No	Viasat	HD	MPEG-4	1751	1752[dan]	1750	alexfloresaf38	4-Feb-18	266	
+11345	V	30000	Nordic	TV	FEM	TV	Videoguard	No	Viasat	SD	MPEG-4	1761	1762[nor]	1760	Vadim	9-Oct-16	268	
+11345	V	30000	Nordic	TV	C More Hockey HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1771	1772[swe]	1770	Tanea	26-Sep-18	270	
+11345	V	30000	Nordic	TV	Viasat test	TV	Videoguard	No	Viasat	SD	MPEG-4	7801	7802[fin]	7800	Vadim	9-Oct-16	272	
+11345	V	30000	Nordic	TV	Viasat Xtra 2	TV	Videoguard	No	Viasat	SD	MPEG-4	8031	8032|8032[swe]|8033|8033[000]	8030	Tanea	29-Nov-15	274	
+11345	V	30000	Nordic	TV	Viasat Xtra 3	TV	Videoguard	No	Viasat	SD	MPEG-4	8041	8042|8042[swe]|8043[000]	8040	Tanea	17-Nov-15	276	
+11345	V	30000	Nordic	TV	Viasat Xtra 5	TV	Videoguard	No	Viasat	SD	MPEG-4	8051	8052[swe]	8050	Tanea	17-Nov-15	278	
+11345	V	30000	Nordic	TV	Viasat Xtra 4	TV	Videoguard	No	Viasat	SD	MPEG-4	8081	8082|8082[swe]|8083|8083[000]	8080	Tanea	17-Nov-15	280	
+11345	V	30000	Nordic	TV	VSS Test	TV	Videoguard	No	Viasat	SD	MPEG-4	8121	8122[nor]	8120	Vadim	21-Jul-17	282	
+11345	H	30000	Nordic	TV	Sportkanalen HD	TV	Videoguard	No	Viasat	HD	MPEG-4	2801	2802[swe]	2800	Tanea	6-Jan-18	286	
+11345	H	30000	Nordic	TV	Nat Geo Wild	TV	Videoguard	No	Viasat	SD	MPEG-4	2806	2807[eng]|2808[rus]	2805	alexfloresaf38	4-Feb-18	288	
+11345	H	30000	Nordic	TV	Viasport 2	TV	Videoguard	No	Viasat	HD	MPEG-4	2811	2812[000]|2813[nor]	2810	alexfloresaf38	4-Feb-18	290	
+11345	H	30000	Nordic	TV	TV Norge HD	TV	Videoguard	No	Viasat	HD	MPEG-4	2821	2822[nor]	2820	Vadim	10-Oct-16	292	
+11345	H	30000	Nordic	TV	Viasport+	TV	Videoguard	No	Viasat	HD	MPEG-4	2831	2832[nor]	2830	alexfloresaf38	4-Feb-18	294	
+11345	H	30000	Nordic	TV	Viasat Fotboll HD	TV	Videoguard	No	Viasat	HD	MPEG-4	2841	2842[swe]|2843	2840	alexfloresaf38	4-Feb-18	296	
+11345	H	30000	Nordic	TV	Viasport 3	TV	Videoguard	No	Viasat	HD	MPEG-4	2851	2852[000]|2853[nor]	2850	alexfloresaf38	4-Feb-18	298	
+11345	H	30000	Nordic	TV	SBN	TV	FTA	Yes	Viasat	SD	MPEG-4	2876	2877[eng]|2878[spa]	2875	alexfloresaf38	4-Feb-18	300	
+11345	H	30000	Nordic	TV	Cartoon Network	TV	Videoguard	No	Viasat	SD	MPEG-4	2881	2882[eng]|2883[swe]|2884[dan]|2887[nor]	2880	alexfloresaf38	4-Feb-18	302	
+11345	H	30000	Nordic	TV	Boomerang	TV	Videoguard	No	Viasat	SD	MPEG-4	881	882[fin]|883[swe]|884[dan]|885[nor]	2885	alexfloresaf38	4-Feb-18	304	
+11345	H	30000	Nordic	TV	NHK World TV	TV	Videoguard	No	Viasat	SD	MPEG-4	2896	2897[eng]	2895	alexfloresaf38	4-Feb-18	306	
+11385	V	30000	Nordic	TV	TV 2 Nyhetskanalen HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1301	1302[nor]	1300	Vadim	10-Oct-16	310	
+11385	V	30000	Nordic	TV	TV2 Zebra HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1321	1322[nor]	1320	Vadim	10-Oct-16	312	
+11385	V	30000	Nordic	TV	TV2 Sport Premium 1	TV	Videoguard	No	Viasat	HD	MPEG-4	1331	1335[nor]	1330	alexfloresaf38	4-Feb-18	314	
+11385	V	30000	Nordic	TV	TV2 Sport Premium 2	TV	Videoguard	No	Viasat	HD	MPEG-4	1341	1345[nor]	1340	alexfloresaf38	4-Feb-18	316	
+11385	V	30000	Nordic	TV	TV2 Sport 1 HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1351	1355[nor]	1350	Tanea	19-Sep-18	318	
+11385	V	30000	Nordic	TV	TV2 Sport 2 HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1361	1362[nor]	1360	Tanea	19-Sep-18	320	
+11385	V	30000	Nordic	TV	TV2 HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1371	1372[nor]	1370	Tanea	4-Feb-18	322	
+11385	V	30000	Nordic	TV	6`eren HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1381	1382[dan]	1380	Tanea	1-Dec-16	324	
+11385	H	30000	Nordic	TV	U test 27	TV	Videoguard	No	Viasat	UHD	HEVC (H.265)	3001	3002[swe]|3003[nor]|3004[dan]|3006[fin]	3000	alexfloresaf38	4-Feb-18	328	
+11385	H	30000	Nordic	TV	Astra Ultra HD Demo	TV	FTA	Yes	Viasat	UHD	HEVC (H.265)	3011	3012[eng]	3010	EnoSat	7-May-17	330	
+11385	H	30000	Nordic	TV	Cmore Sport HD	TV	Videoguard	No	Viasat	HD	MPEG-4	3021	3022[swe]	3020	alexfloresaf38	4-Feb-18	332	
+11385	H	30000	Nordic	TV	Cmore Hockey HD	TV	Videoguard	No	Viasat	HD	MPEG-4	3031	3032[swe]	3030	alexfloresaf38	4-Feb-18	334	
+11385	H	30000	Nordic	TV	Cmore Fotboll HD	TV	Videoguard	No	Viasat	HD	MPEG-4	3041	3042[swe]	3040	alexfloresaf38	4-Feb-18	336	
+11385	H	30000	Nordic	TV	Viasat Sport Extra HD	TV	Videoguard|Viaccess	No	Viasat	HD	MPEG-4	3061	3062[swe]	3060	Tanea	6-Dec-19	338	
+11385	H	30000	Nordic	TV	Cmore Live HD	TV	Videoguard	No	Viasat	HD	MPEG-4	3071	3072[swe]	3070	alexfloresaf38	4-Feb-18	340	
+11385	H	30000	Nordic	TV	TV12 HD	TV	Videoguard	No	Viasat	HD	MPEG-4	3081	3083[swe]	3080	alexfloresaf38	4-Feb-18	342	
+11385	H	30000	Nordic	IMG	data	@	FTA	Yes				85		901	EnoSat	7-May-17	344	
+11727	H	27500	SSA	R	Nation FM	R	Verimatrix	No	Zuku			0	1821[eng]	903	Vadim	12-Nov-16	348	
+11727	H	27500	SSA	R	QFM	R	Verimatrix	No	Zuku			0	1831[swa]	904	Vadim	12-Nov-16	350	
+11727	H	27500	SSA	R	Clouds FM	R	Verimatrix	No	Zuku			0	1911[eng]	905	Vadim	12-Nov-16	352	
+11727	H	27500	SSA	R	BBC World Service English	R	Verimatrix	No	Zuku			0	2001[eng]	906	Vadim	12-Nov-16	354	
+11727	H	27500	SSA	R	BBC World Service Swahili	R	Verimatrix	No	Zuku			0	7001[swa]	907	Vadim	12-Nov-16	356	
+11727	H	27500	SSA	R	DW-Radio	R	Verimatrix	No	Zuku			0	7011[eng]	908	Vadim	12-Nov-16	358	
+11727	H	27500	SSA	R	Total Hits UK	R	Verimatrix	No	Zuku			0	1411[eng]	909	Vadim	13-Nov-16	360	
+11727	H	27500	SSA	R	2000s	R	Verimatrix	No	Zuku			0	1421[eng]	910	Vadim	13-Nov-16	362	
+11727	H	27500	SSA	R	Hip Hop	R	Verimatrix	No	Zuku			0	1431[eng]	911	Vadim	13-Nov-16	364	
+11727	H	27500	SSA	R	Urban	R	Verimatrix	No	Zuku			0	1441[eng]	912	Vadim	13-Nov-16	366	
+11727	H	27500	SSA	R	Classic RnB and Soul	R	Verimatrix	No	Zuku			0	1451[eng]	913	Vadim	14-Nov-16	368	
+11747	V	27500	SSA	R	BBC World News	TV	FTA	Yes	StarSat	SD	MPEG-4	0	510[Eng]	0	Cycunio1996	19-Jul-18	372	
+11747	V	27500	SSA	R	TVP Polonia	TV	FTA	Yes	StarSat	SD	MPEG-4	0	540[Eng]|540[Pol]	0	Cycunio1996	19-Jul-18	374	
+11747	V	27500	SSA	DATA	NTA News 24	TV	FTA	Yes	StarSat	SD	MPEG-4	0		0	Cycunio1996	19-Jul-18	376	
+11747	V	27500	SSA	DATA	Polsat 2	TV	FTA	Yes		SD	MPEG-4	0		0	Cycunio1996	19-Jul-18	378	
+11747	V	27500	SSA	DATA	Polsat News	TV	FTA	Yes	Orange|Cyfrowy Polsat|Cyfra +|nc+|StarSat	SD	MPEG-4	0		0	Cycunio1996	3-Jan-19	380	
+11747	V	27500	SSA	DATA	NTA Sports 24	TV	FTA	Yes	StarSat	SD	MPEG-4	0		0	Cycunio1996	19-Jul-18	382	
+11747	V	27500	SSA	DATA	Silverbird TV	TV	FTA	Yes	StarSat	SD	MPEG-4	0		0	Cycunio1996	19-Jul-18	384	
+11747	V	27500	SSA	TV	Bukedde TV 1	TV	Verimatrix	No	Zuku	SD	MPEG-4	7250	7251[swa]	30	Vadim	13-Nov-16	386	
+11747	V	27500	SSA	TV	Inooro TV	TV	Conax|Verimatrix	No	Zuku|StarSat	SD	MPEG-4	2640	2641[eng]	40	Vadim	14-Nov-16	388	
+11747	V	27500	SSA	TV	African Movie Channel	TV	Verimatrix	No	Zuku	SD	MPEG-4	2120	2121[eng]	230	Vadim	14-Nov-16	390	
+11747	V	27500	SSA	TV	CGTN Documentary	TV	Verimatrix	No	Zuku	SD	MPEG-4	2660	2661[eng]	416	Vadim	17-Oct-17	392	
+11747	V	27500	SSA	TV	BBC World News Africa	TV	Verimatrix	No	Zuku	SD	MPEG-4	2240	2241[eng]	510	Vadim	14-Nov-16	394	
+11747	V	27500	SSA	TV	MSNBC	TV	Verimatrix	No	Zuku	SD	MPEG-4	1230	1231[eng]	540	Vadim	14-Nov-16	396	
+11747	V	27500	SSA	IMG	MSNBC	TV	FTA	Yes	StarSat	SD	MPEG-4	1230		540	Cycunio1996	19-Jul-18	398	
+11747	V	27500	SSA	TV	CCTV News	TV	Viaccess|Verimatrix	No	Zuku	SD	MPEG-4	2670	2671[eng]	567	Vadim	14-Nov-16	400	
+11747	V	27500	SSA	TV	JimJam Europe	TV	Verimatrix	No	Zuku	SD	MPEG-4	1250	1251[eng]	620	Vadim	14-Nov-16	402	
+11747	V	27500	SSA	TV	Magic TV	TV	Verimatrix	No	Zuku	SD	MPEG-4	2250	2251[eng]	750	Vadim	14-Nov-16	404	
+11747	V	27500	SSA	TV	Kiss TV	TV	Verimatrix	No	Zuku	SD	MPEG-4	2260	2261[eng]	751	Vadim	15-Nov-16	406	
+11747	V	27500	SSA	TV	Kerrang!	TV	Verimatrix	No	Zuku	SD	MPEG-4	2270	2271[eng]	752	Vadim	15-Nov-16	408	
+11747	V	27500	SSA	TV	The Box Africa	TV	Verimatrix	No	Zuku	SD	MPEG-4	2290	2291[eng]	754	Vadim	15-Nov-16	410	
+11747	V	27500	SSA	TV	CCTV 4 Europe	TV	Verimatrix	No	Zuku	SD	MPEG-4	2650	2651[chi]	828	Vadim	15-Nov-16	412	
+11747	V	27500	SSA	TV	Star Plus	TV	Verimatrix	No	Zuku	SD	MPEG-4	1360	1361[hin]	901	Vadim	15-Nov-16	414	
+11747	V	27500	SSA	TV	Star Gold	TV	Verimatrix	No	Zuku	SD	MPEG-4	1340	1341[hin]	909	Vadim	15-Nov-16	416	
+11747	V	27500	SSA	TV	Zing	TV	Verimatrix	No	Zuku	SD	MPEG-4	1330	1331[hin]	930	Vadim	15-Nov-16	418	
+11747	V	27500	SSA	R	Capital FM	R	Verimatrix	No	Zuku			0	7021[eng]	957	Vadim	15-Nov-16	420	
+11747	V	27500	SSA	R	Jazz Classics	R	Verimatrix	No	Zuku			0	1711[eng]	960	Vadim	15-Nov-16	422	
+11747	V	27500	SSA	R	Cool Jazz	R	Verimatrix	No	Zuku			0	1721[eng]	961	Vadim	15-Nov-16	424	
+11747	V	30000	EuropeBSS	TV	Tellytrack	TV	Compel	No		SD	MPEG-4	100	256[eng]	7605	Vadim	21-Jul-17	428	
+11747	V	30000	EuropeBSS	TV	ZIK HD	TV	FTA	Yes		HD	MPEG-4	7611	7612[ukr]	7610	Vadim	26-Jul-17	430	
+11747	V	30000	EuropeBSS	TV	5 Kanal Ukraine	TV	FTA	Yes		HD	MPEG-4	7626	7627[ukr]	7625	Vadim	24-Dec-19	432	
+11747	V	30000	EuropeBSS	TV	4 Kanal	TV	FTA	Yes		SD	MPEG-4	7641	7642[ukr]	7640	Vadim	13-Dec-18	434	
+11747	V	30000	EuropeBSS	IMG	ERC	TV	Conax	No		SD	HEVC (H.265)	7651		7650	Tanea	6-Sep-18	436	
+11747	V	30000	EuropeBSS	TV	TV5 Zaporizhya	TV	FTA	Yes		SD	MPEG-4	7666	7667[ukr]	7665	Vadim	12-Dec-18	438	
+11747	V	30000	EuropeBSS	TV	36.6	TV	FTA	Yes		SD	MPEG-4	7676	7677[ukr]	7675	Vadim	4-Dec-18	440	
+11747	V	30000	EuropeBSS	TV	English Club	TV	Videoguard|Conax|Viaccess 4.0	No	Viasat Ukraina|XTRA TV	HD	MPEG-4	7691	7692[rus]|7693[eng]	7690	Vadim	4-Dec-18	442	
+11766	H	27500	EuropeBSS	TV	1+1	TV	Videoguard|Verimatrix	No		SD	MPEG-4	1001	1002[ukr]	6100	alexfloresaf38	24-Feb-20	446	
+11766	H	27500	EuropeBSS	TV	1+1 HD	TV	Verimatrix	No		HD	MPEG-4	1011	1012[ukr]	6101	Tanea	21-Feb-20	448	
+11766	H	27500	EuropeBSS	TV	Kvartal TV	TV	Videoguard|Verimatrix	No		SD	MPEG-4	1081	1082[ukr]|1083[rus]	6108	alexfloresaf38	24-Feb-20	450	
+11766	H	27500	EuropeBSS	TV	TET	TV	Videoguard|Verimatrix	No		SD	MPEG-4	1101	1102[ukr]	6110	alexfloresaf38	24-Feb-20	452	
+11766	H	27500	EuropeBSS	TV	Plus Plus	TV	Videoguard|Verimatrix	No		SD	MPEG-4	1121	1122[ukr]	6112	alexfloresaf38	24-Feb-20	454	
+11766	H	27500	EuropeBSS	TV	Bigudi	TV	Videoguard|Verimatrix	No		SD	MPEG-4	1141	1142[ukr]	6114	alexfloresaf38	24-Feb-20	456	
+11766	H	27500	EuropeBSS	IMG	Test1	TV	BISS	No		SD	MPEG-2	1181		6118	alexfloresaf38	24-Feb-20	458	
+11766	H	27500	EuropeBSS	TV	2+2	TV	Videoguard|Verimatrix	No		SD	MPEG-4	1201	1202[ukr]	6120	alexfloresaf38	24-Feb-20	460	
+11766	H	27500	EuropeBSS	TV	1+1 International	TV	BISS	No		SD	MPEG-4	1251	1252[ukr]	6125	alexfloresaf38	24-Feb-20	462	
+11766	H	27500	EuropeBSS	TV	Paramount Comedy	TV	Videoguard|Verimatrix	No		SD	MPEG-4	1301	1302[ukr]	6130	alexfloresaf38	24-Feb-20	464	
+11766	H	27500	EuropeBSS	TV	Dacha	TV	FTA	Yes		SD	MPEG-4	1321	1322[ukr]	6132	Tanea	21-Feb-20	466	
+11766	H	27500	EuropeBSS	TV	Spike	TV	Videoguard|Verimatrix	No		SD	MPEG-4	1501	1502[rus]|1503[eng]	6150	alexfloresaf38	24-Feb-20	468	
+11766	H	27500	EuropeBSS	TV	FilmUADrama	TV	Videoguard|Verimatrix	No		SD	MPEG-4	1521	1522[ukr]|1523[rus]	6152	alexfloresaf38	24-Feb-20	470	
+11766	H	27500	EuropeBSS	TV	36.6 TV	TV	FTA	Yes		SD	MPEG-4	1541	1542[ukr]	6154	Tanea	21-Feb-20	472	
+11766	H	27500	EuropeBSS	TV	Paramount Channel	TV	Verimatrix	No		SD	MPEG-4	1561	1562[rus]|1563[eng]	6156	alexfloresaf38	24-Feb-20	474	
+11766	H	27500	EuropeBSS	TV	Nicktoons	TV	Verimatrix	No		SD	MPEG-4	1581	1582[rus]|1583[eng]	6158	alexfloresaf38	24-Feb-20	476	
+11766	H	27500	EuropeBSS	TV	Epoque	TV	FTA	Yes		SD	MPEG-4	1621	1622[ukr]	6162	Tanea	21-Feb-20	478	
+11766	H	27500	EuropeBSS	TV	AVERS	TV	FTA	Yes		SD	MPEG-4	1651	1652[ukr]	6165	alexfloresaf38	1-Mar-20	480	
+11766	H	27500	EuropeBSS	TV	Music Box	TV	FTA	Yes		SD	MPEG-4	1751	1752[ukr]	6175	alexfloresaf38	1-Mar-20	482	
+11766	H	27500	EuropeBSS	IMG	TEST 2	TV	Verimatrix	No		SD	MPEG-4	1771		6177	alexfloresaf38	1-Mar-20	484	
+11766	H	27500	EuropeBSS	TV	Plus Plus	TV	Videoguard|Verimatrix	No		SD	MPEG-4	1121	1122[ukr]	6188	alexfloresaf38	1-Mar-20	486	
+11766	H	27500	EuropeBSS	TV	Paramount Comedy	TV	Videoguard|Verimatrix	No		SD	MPEG-4	1301	1302[ukr]	6189	alexfloresaf38	1-Mar-20	488	
+11766	H	27500	EuropeBSS	TV	O-TV	TV	FTA	Yes		SD	MPEG-4	1901	1902[ukr]	6190	alexfloresaf38	1-Mar-20	490	
+11766	H	27500	EuropeBSS	TV	Unian TV	TV	FTA	Yes		SD	MPEG-4	6161	6162[ukr]	6193	alexfloresaf38	1-Mar-20	492	
+11766	H	27500	EuropeBSS	TV	Kus-Kus	TV	FTA	Yes		SD	MPEG-4	1941	1942[ukr]	6194	alexfloresaf38	1-Mar-20	494	
+11785	V	27500	NordicBSS	TV	LTV1	TV	Videoguard	No	Home3	SD	MPEG-4	4101	4102[lav]	10100	alexfloresaf38	30-Dec-19	498	
+11785	V	27500	NordicBSS	TV	LTV7	TV	Videoguard	No	Home3	SD	MPEG-4	4121	4122[lav]	10105	alexfloresaf38	30-Dec-19	500	
+11785	V	27500	NordicBSS	TV	TV3 (LV)	TV	Videoguard	No	Home3	SD	MPEG-4	4141	4142[lav]|4143[eng]	10110	alexfloresaf38	30-Dec-19	502	
+11785	V	27500	NordicBSS	TV	TV3 Life	TV	Videoguard	No	Home3	SD	MPEG-4	4161	4162[lav]	10115	alexfloresaf38	1-Mar-20	504	
+11785	V	27500	NordicBSS	TV	TV6 (LV)	TV	Videoguard	No	Home3	SD	MPEG-4	4181	4182[lav]|4183[eng]	10120	alexfloresaf38	30-Dec-19	506	
+11785	V	27500	NordicBSS	TV	TV3 Mini	TV	Videoguard	No	Home3	SD	MPEG-4	4201	4202[lav]	10125	alexfloresaf38	1-Mar-20	508	
+11785	V	27500	NordicBSS	TV	3+	TV	Videoguard	No	Home3	SD	MPEG-4	4221	4222[rus]	10130	alexfloresaf38	30-Dec-19	510	
+11785	V	27500	NordicBSS	TV	TV8	TV	Videoguard	No	Home3	SD	MPEG-4	4241	4242[lit]	10135	alexfloresaf38	30-Dec-19	512	
+11785	V	27500	NordicBSS	TV	LNK	TV	Videoguard	No	Home3	SD	MPEG-4	4261	4262[lit]	10140	alexfloresaf38	30-Dec-19	514	
+11785	V	27500	NordicBSS	TV	BTV	TV	Videoguard	No	Home3	SD	MPEG-4	4281	4282[lit]	10145	alexfloresaf38	30-Dec-19	516	
+11785	V	27500	NordicBSS	TV	TV1 (LT)	TV	Videoguard	No	Home3	SD	MPEG-4	4301	4302[lit]	10150	alexfloresaf38	30-Dec-19	518	
+11785	V	27500	NordicBSS	TV	CTC Baltic	TV	Videoguard	No	Home3	SD	MPEG-4	4321	4322[rus]	10155	alexfloresaf38	30-Dec-19	520	
+11785	V	27500	NordicBSS	TV	TV3 Film	TV	Videoguard	No	Home3	SD	MPEG-4	4341	4342[lit]|4343[lav]|4344[est]|4345[rus]	10160	alexfloresaf38	30-Dec-19	522	
+11785	V	27500	NordicBSS	TV	TV3 Sport	TV	Videoguard	No	Home3	SD	MPEG-4	4361	4362[est]|4363[lav]|4364[lit]	10165	alexfloresaf38	30-Dec-19	524	
+11785	V	27500	NordicBSS	TV	TV1000	TV	Videoguard	No	Home3	SD	MPEG-4	4381	4382[rus]|4383[eng]	10170	alexfloresaf38	30-Dec-19	526	
+11785	V	27500	NordicBSS	TV	TV1000 Russkoe Kino	TV	Videoguard	No	Home3	SD	MPEG-4	4401	4402[rus]	10175	alexfloresaf38	30-Dec-19	528	
+11785	V	27500	NordicBSS	TV	National Geographic HD	TV	Videoguard	No	Home3	HD	MPEG-4	4421	4422[rus]|4423[eng]	10180	alexfloresaf38	30-Dec-19	530	
+11785	V	27500	NordicBSS	TV	Viasat Explore HD	TV	Videoguard	No	Home3	HD	MPEG-4	4441	4442[eng]|4443[rus]	10185	alexfloresaf38	30-Dec-19	532	
+11785	V	27500	NordicBSS	TV	Viasat History HD	TV	Videoguard	No	Home3	HD	MPEG-4	4461	4462[rus]|4463[eng]	10190	alexfloresaf38	30-Dec-19	534	
+11785	V	27500	NordicBSS	TV	MTV Hits	TV	Videoguard	No	Home3	SD	MPEG-4	4501	4502[eng]	10200	alexfloresaf38	30-Dec-19	536	
+11785	V	27500	NordicBSS	TV	Kidzone+	TV	Videoguard	No	Home3	SD	MPEG-4	4521	4522[eng]|4523[lav]|4524[lit]|4525[rus]	10205	Tanea	7-Jan-20	538	
+11785	V	27500	NordicBSS	TV	Kanal 12	TV	Videoguard	No	Home3	SD	MPEG-4	4541	4542[est]	10210	alexfloresaf38	30-Dec-19	540	
+11785	V	27500	NordicBSS	TV	FOX	TV	Videoguard	No	Home3	SD	MPEG-4	4561	4562[rus]|4563[eng]	10215	alexfloresaf38	30-Dec-19	542	
+11785	V	27500	NordicBSS	TV	Sony Channel	TV	Videoguard	No	Home3	SD	MPEG-4	4581	4582[lit]|4583[rus]|4584[est]|4585[lav]	10220	alexfloresaf38	30-Dec-19	544	
+11804	H	27500	SSA	DATA	[Zuku TV]	TV	Verimatrix	No	Zuku	SD	MPEG-4	0		0	Frocus	9-Nov-16	548	
+11823	V	27500	SSA	DATA	[Zuku TV]	TV	Verimatrix	No	Zuku	SD	MPEG-4	0		0	Frocus	9-Nov-16	552	
+11823	V	27500	NordicBSS	TV	Viasat Film Premiere HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1601	714[nor]|715[dan]|716[fin]|1608[swe]	1600	alexfloresaf38	31-Dec-19	556	
+11823	V	27500	NordicBSS	TV	SVT 1 HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1611	1615[swe]	1610	alexfloresaf38	31-Dec-19	558	
+11823	V	27500	NordicBSS	TV	SVT 1 HD talande text	TV	Videoguard	No	Viasat	HD	MPEG-4	1611	1613[swe]	1612	alexfloresaf38	31-Dec-19	560	
+11823	V	27500	NordicBSS	IMG	VOX	TV	Videoguard	No	Viasat	HD	MPEG-4	1621		1620	alexfloresaf38	31-Dec-19	562	
+11823	V	27500	NordicBSS	TV	TV3+ HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1631	1633[dan]|1635[dan]	1630	alexfloresaf38	31-Dec-19	564	
+11823	V	27500	NordicBSS	TV	SVT 2 HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1641	1645[swe]	1640	alexfloresaf38	31-Dec-19	566	
+11823	V	27500	NordicBSS	TV	SVT 2 HD talande text	TV	Videoguard	No	Viasat	HD	MPEG-4	1641	1643[swe]	1642	alexfloresaf38	31-Dec-19	568	
+11823	V	27500	NordicBSS	TV	MAX HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1661	1662[nor]	1660	alexfloresaf38	31-Dec-19	570	
+11823	V	27500	NordicBSS	TV	NatGeo HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1671	1674[eng]	1670	alexfloresaf38	31-Dec-19	572	
+11823	V	27500	NordicBSS	TV	Viasat Urheilu	TV	Videoguard	No	Viasat	SD	MPEG-4	1681	1682[fin]|1683[000]	1680	alexfloresaf38	31-Dec-19	574	
+11823	V	27500	NordicBSS	IMG	Cmore Live HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1691		1690	alexfloresaf38	31-Dec-19	576	
+11881	H	28000	NordicBSS	TV	C More Fotboll HD	TV	Videoguard	No	Viasat	HD	MPEG-4	5001	5002[swe]	5000	Tanea	26-Sep-18	580	
+11881	H	28000	NordicBSS	TV	NHK World TV	TV	Videoguard	No	Viasat	SD	MPEG-2	5011	5012[eng]	5010	Tanea	16-May-14	582	
+11881	H	28000	NordicBSS	TV	TV 2 Nord	TV	Videoguard	No	Viasat	SD	MPEG-4	5016	5017[dan]	5015	Tanea	15-Mar-18	584	
+11881	H	28000	NordicBSS	TV	TV 2 Midt-Vest	TV	Videoguard	No	Viasat	SD	MPEG-4	5021	5022[dan]	5020	Tanea	15-Mar-18	586	
+11881	H	28000	NordicBSS	TV	TV 2 Østjylland	TV	Videoguard	No	Viasat	SD	MPEG-4	5026	5027[dan]	5025	Tanea	15-Mar-18	588	
+11881	H	28000	NordicBSS	TV	TV 2 Syd	TV	Videoguard	No	Viasat	SD	MPEG-4	5031	5032[dan]	5030	Tanea	15-Mar-18	590	
+11881	H	28000	NordicBSS	TV	TV 2 Fyn	TV	Videoguard	No	Viasat	SD	MPEG-4	5036	5037[dan]	5035	Tanea	15-Mar-18	592	
+11881	H	28000	NordicBSS	TV	TV 2 Øst	TV	Videoguard	No	Viasat	SD	MPEG-4	5041	5042[dan]	5040	Tanea	15-Mar-18	594	
+11881	H	28000	NordicBSS	TV	TV 2 Bornholm	TV	Videoguard	No	Viasat	SD	MPEG-4	5046	5047[dan]	5045	Tanea	15-Mar-18	596	
+11881	H	28000	NordicBSS	TV	DR 2	TV	Videoguard	No	Viasat	SD	MPEG-4	5051	5052[dan]|5053[syn]	5050	Tanea	15-Mar-18	598	
+11881	H	28000	NordicBSS	TV	DR Ultra	TV	Videoguard	No	Viasat	SD	MPEG-4	5056	5057[dan]	5055	Tanea	15-Mar-18	600	
+11881	H	28000	NordicBSS	TV	DR K	TV	Videoguard	No	Viasat	SD	MPEG-4	5061	5062[dan]	5060	Tanea	15-Mar-18	602	
+11881	H	28000	NordicBSS	TV	DR Ramasjang	TV	Videoguard	No	Viasat	SD	MPEG-4	5066	5067|5067[dan]	5065	Tanea	15-Mar-18	604	
+11881	H	28000	NordicBSS	TV	Nat Geo Wild Europe	TV	Videoguard	No	Viasat	SD	MPEG-2	5081	5082[eng]	5080	Vadim	23-Oct-16	606	
+11881	H	28000	NordicBSS	TV	Kanal 5 Danmark	TV	Videoguard	No	Viasat	SD	MPEG-2	5091	5092[dan]	5090	Vadim	23-Oct-16	608	
+11881	H	28000	NordicBSS	TV	Eurosport 1 Danmark	TV	Videoguard	No	Viasat	SD	MPEG-2	5096	5097[dut]	5095	Vadim	24-Oct-16	610	
+11900	V	27500	SSA	DATA	[Zuku TV]	TV	Verimatrix	No	Zuku	SD	MPEG-4	0		0	Frocus	9-Nov-16	614	
+11919	H	27500	SSA	IMG	Source Africa TV	TV	FTA	Yes		SD	MPEG-4	2001		1	Frocus	9-Nov-16	618	
+11919	H	27500	SSA	IMG	Transformers TV	TV	FTA	Yes		SD	MPEG-2	2002		2	Frocus	9-Nov-16	620	
+11919	H	27500	SSA	TV	Salvation TV	TV	FTA	Yes		SD	MPEG-4	2003	3003[eng]	3	Frocus	10-Nov-16	622	
+11919	H	27500	SSA	IMG	Lifestyle Africa	TV	FTA	Yes		SD	MPEG-4	2004		4	Frocus	10-Nov-16	624	
+11919	H	27500	SSA	IMG	ABK	TV	FTA	Yes		SD	MPEG-2	2005		5	Frocus	10-Nov-16	626	
+11919	H	27500	SSA	IMG	Ark Of God TV	TV	FTA	Yes		SD	MPEG-2	2006		6	Frocus	10-Nov-16	628	
+11919	H	27500	SSA	IMG	African Movie Net	TV	FTA	Yes		SD	MPEG-2	2007		7	Frocus	10-Nov-16	630	
+11919	H	27500	SSA	TV	DieuTV	TV	FTA	Yes		SD	MPEG-2	2008	3008[fre]	8	Frocus	10-Nov-16	632	
+11919	H	27500	SSA	TV	Winners Chapel International	TV	FTA	Yes		SD	MPEG-2	2009	3009[eng]	9	Frocus	10-Nov-16	634	
+11919	H	27500	SSA	TV	RTV (Resurrection TV)	TV	FTA	Yes		SD	MPEG-2	2010	3010[eng]	10	Frocus	10-Nov-16	636	
+11919	H	27500	SSA	IMG	Virtual Games	TV	Nagravision	No		SD	MPEG-4	2011		11	Frocus	9-Nov-16	638	
+11919	H	27500	SSA	IMG	C TV Coptic Channel	TV	FTA	Yes		SD	MPEG-2	2012		12	Frocus	10-Nov-16	640	
+11919	H	27500	SSA	IMG	Apostolic Church	TV	FTA	Yes		SD	MPEG-4	2013		13	Frocus	10-Nov-16	642	
+11919	H	27500	SSA	DATA	49JA	TV	FTA	Yes		SD	MPEG-4	0		14	Frocus	10-Nov-16	644	
+11919	H	27500	SSA	TV	Bet9JA Dog Racing	TV	FTA	Yes		SD	MPEG-4	2015	0[eng]	15	Frocus	10-Nov-16	646	
+11919	H	27500	SSA	TV	Bet9JA Football	TV	FTA	Yes		SD	MPEG-4	2016	0[eng]	16	Frocus	10-Nov-16	648	
+11919	H	27500	SSA	IMG	LTM TV	TV	FTA	Yes		SD	MPEG-4	2019		19	Frocus	10-Nov-16	650	
+11919	H	27500	SSA	IMG	MacroView	TV	FTA	Yes		SD	MPEG-2	2021		21	Frocus	10-Nov-16	652	
+11919	H	27500	SSA	IMG	Africa USA-TV	TV	FTA	Yes		SD	MPEG-2	2022		22	Frocus	10-Nov-16	654	
+11919	H	27500	SSA	IMG	KingShip TV	TV	FTA	Yes		SD	MPEG-2	2023		27	Frocus	10-Nov-16	656	
+11919	H	27500	SSA	IMG	Noma TV	TV	FTA	Yes		SD	MPEG-4	2028		28	Frocus	10-Nov-16	658	
+11919	H	27500	SSA	IMG	Rayuwa TV	TV	FTA	Yes		SD	MPEG-4	2029		29	Frocus	10-Nov-16	660	
+11919	H	27500	SSA	TV	VoA TV Africa	TV	FTA	Yes		HD	MPEG-4	2061	3061[eng]	61	Tanea	23-Feb-20	662	
+11919	H	27500	SSA	TV	VoA TV Global	TV	FTA	Yes		HD	MPEG-4	2069	3069[eng]	69	Tanea	23-Feb-20	664	
+11919	H	28000	NordicBSS	TV	TV 3 Puls HD	TV	Videoguard	No	Viasat	HD	MPEG-4	4404	4405[dan]	4403	Tanea	24-Feb-18	668	
+11919	H	28000	NordicBSS	TV	TV 10 Sweden	TV	Videoguard	No	Viasat	SD	MPEG-2	4407	700[syn]|4408[swe]	4406	Tanea	24-Feb-18	670	
+11919	H	28000	NordicBSS	TV	TV 8 Sweden	TV	Videoguard	No	Viasat	SD	MPEG-2	4410	710[syn]|4411[swe]	4409	Tanea	24-Feb-18	672	
+11919	H	28000	NordicBSS	TV	Kunskapskanalen	TV	Videoguard	No	Viasat	SD	MPEG-4	4413	4414[swe]	4412	Tanea	10-Mar-18	674	
+11919	H	28000	NordicBSS	TV	SVTB	TV	Videoguard	No	Viasat	SD	MPEG-4	4416	4417[swe]	4415	Tanea	10-Mar-18	676	
+11919	H	28000	NordicBSS	TV	SVT24	TV	Videoguard	No	Viasat	SD	MPEG-4	4416	4417[swe]	4418	Tanea	10-Mar-18	678	
+11919	H	28000	NordicBSS	TV	SVT 1 Norrbotten	TV	Videoguard	No	Viasat	SD	MPEG-4	4425	4426[swe]	4427	Tanea	7-Feb-18	680	
+11919	H	28000	NordicBSS	TV	SVT 1 Norrbotten	TV	Videoguard	No	Viasat	SD	MPEG-4	4425	4426[swe]	4427	Tanea	7-Feb-18	682	
+11919	H	28000	NordicBSS	TV	SVT 1 Västerbotten	TV	Videoguard	No	Viasat	SD	MPEG-4	4425	4426[swe]	4430	Tanea	7-Feb-18	684	
+11919	H	28000	NordicBSS	TV	SVT 1 Dalarna	TV	Videoguard	No	Viasat	SD	MPEG-4	4425	4426[swe]	4433	Tanea	7-Feb-18	686	
+11919	H	28000	NordicBSS	TV	SVT 1 Värmland	TV	Videoguard	No	Viasat	SD	MPEG-4	4425	4426[swe]	4436	Tanea	7-Feb-18	688	
+11919	H	28000	NordicBSS	TV	SVT 1 Västernorrland	TV	Videoguard	No	Viasat	SD	MPEG-4	4425	4426[swe]	4439	Tanea	7-Feb-18	690	
+11919	H	28000	NordicBSS	TV	SVT 1 Örebro	TV	Videoguard	No	Viasat	SD	MPEG-4	4425	4426[swe]	4442	Tanea	7-Feb-18	692	
+11919	H	28000	NordicBSS	TV	SVT 1 Öst	TV	Videoguard	No	Viasat	SD	MPEG-4	4425	4426[swe]	4448	Tanea	7-Feb-18	694	
+11919	H	28000	NordicBSS	TV	SVT 1 Väst	TV	Videoguard	No	Viasat	SD	MPEG-4	4425	4426[swe]	4451	Tanea	7-Feb-18	696	
+11919	H	28000	NordicBSS	TV	SVT 1 Småland	TV	Videoguard	No	Viasat	SD	MPEG-4	4425	4426[swe]	4454	Tanea	7-Feb-18	698	
+11919	H	28000	NordicBSS	TV	SVT 1 Skåne	TV	Videoguard	No	Viasat	SD	MPEG-4	4425	4426|4426[swe]	4457	Tanea	7-Feb-18	700	
+11919	H	28000	NordicBSS	TV	SVT 2 Norrbotten	TV	Videoguard	No	Viasat	SD	MPEG-4	4461	4462|4462[swe]	4463	Tanea	7-Feb-18	702	
+11919	H	28000	NordicBSS	TV	SVT 2 Norrbotten	TV	Videoguard	No	Viasat	SD	MPEG-4	4461	4462|4462[swe]	4463	Tanea	7-Feb-18	704	
+11919	H	28000	NordicBSS	TV	SVT 2 Västerbotten	TV	Videoguard	No	Viasat	SD	MPEG-4	4461	4462|4462[swe]	4466	Tanea	7-Feb-18	706	
+11919	H	28000	NordicBSS	TV	SVT 2 Dalarna	TV	Videoguard	No	Viasat	SD	MPEG-4	4461	4462|4462[swe]	4469	Tanea	7-Feb-18	708	
+11919	H	28000	NordicBSS	TV	SVT 2 Värmland	TV	Videoguard	No	Viasat	SD	MPEG-4	4461	4462|4462[swe]	4472	Tanea	7-Feb-18	710	
+11919	H	28000	NordicBSS	TV	SVT 2 Västernorrland	TV	Videoguard	No	Viasat	SD	MPEG-4	4461	4462|4462[swe]	4475	Tanea	7-Feb-18	712	
+11919	H	28000	NordicBSS	TV	SVT 2 Örebro	TV	Videoguard	No	Viasat	SD	MPEG-4	4461	4462|4462[swe]	4478	Tanea	7-Feb-18	714	
+11919	H	28000	NordicBSS	TV	Disney Channel XD Danmark & Nordic	TV	Videoguard	No	Viasat	SD	MPEG-2	4481	4482[dan]|4483[nor]|4484[eng]	4480	Vadim	26-Oct-16	716	
+11919	H	28000	NordicBSS	TV	SVT 2 Öst	TV	Videoguard	No	Viasat	SD	MPEG-4	4461	4462|4462[swe]	4484	Tanea	7-Feb-18	718	
+11919	H	28000	NordicBSS	TV	SVT 2 Väst	TV	Videoguard	No	Viasat	SD	MPEG-4	4461	4462|4462[swe]	4487	Tanea	7-Feb-18	720	
+11919	H	28000	NordicBSS	TV	SVT 2 Småland	TV	Videoguard	No	Viasat	SD	MPEG-4	4461	4462[swe]	4490	Tanea	7-Feb-18	722	
+11919	H	28000	NordicBSS	TV	SVT 2 Skåne	TV	Videoguard	No	Viasat	SD	MPEG-4	4461	4462[swe]	4493	Tanea	7-Feb-18	724	
+11938	V	27500	NordicBSS	TV	TV3 (LT)	TV	Videoguard	No	Home3	SD	MPEG-4	5301	5302[lit]	10500	alexfloresaf38	31-Dec-19	728	
+11938	V	27500	NordicBSS	TV	LRT Televizija	TV	Videoguard	No	Home3	SD	MPEG-4	5321	5322[lit]|5323[lit]	10505	alexfloresaf38	31-Dec-19	730	
+11938	V	27500	NordicBSS	TV	LRT Lituanica	TV	FTA	Yes		SD	MPEG-4	5341	5342[lit]	10510	alexfloresaf38	31-Dec-19	732	
+11938	V	27500	NordicBSS	TV	Lietuvos Rytas TV	TV	Videoguard	No	Home3	SD	MPEG-4	5361	5362[lit]	10515	alexfloresaf38	31-Dec-19	734	
+11938	V	27500	NordicBSS	TV	ETV2	TV	Videoguard	No	Home3	SD	MPEG-4	5381	5382[est]	10520	alexfloresaf38	31-Dec-19	736	
+11938	V	27500	NordicBSS	TV	NTV Mir Baltic	TV	Videoguard	No	Home3	SD	MPEG-4	5401	5402[rus]	10525	alexfloresaf38	31-Dec-19	738	
+11938	V	27500	NordicBSS	TV	PBK Baltic	TV	Videoguard	No	Home3	SD	MPEG-4	5421	5422[rus]|5423[lav]	10530	alexfloresaf38	31-Dec-19	740	
+11938	V	27500	NordicBSS	TV	Ren TV Baltic	TV	Videoguard	No	Home3	SD	MPEG-4	5441	5442[rus]	10535	alexfloresaf38	31-Dec-19	742	
+11938	V	27500	NordicBSS	TV	Viasat Explore	TV	Videoguard	No	Home3	SD	MPEG-4	5461	5462[eng]|5463[rus]	10540	alexfloresaf38	31-Dec-19	744	
+11938	V	27500	NordicBSS	TV	Viasat History	TV	Videoguard	No	Home3	SD	MPEG-4	5481	5482[eng]|5483[rus]	10545	alexfloresaf38	31-Dec-19	746	
+11938	V	27500	NordicBSS	TV	Viasat Nature	TV	Videoguard	No	Home3	SD	MPEG-4	5501	5502[eng]|5503[rus]	10550	alexfloresaf38	31-Dec-19	748	
+11938	V	27500	NordicBSS	TV	TV3 Film HD	TV	Videoguard	No	Home3	HD	MPEG-4	5541	5542[lit]|5543[lav]|5544[est]|5545[rus]	10560	alexfloresaf38	31-Dec-19	750	
+11938	V	27500	NordicBSS	TV	TV3 Sport HD	TV	Videoguard	No	Home3	HD	MPEG-4	5561	5562[est]|5563[lav]|5564[lit]	10565	alexfloresaf38	31-Dec-19	752	
+11938	V	27500	NordicBSS	TV	Epic Drama HD	TV	Videoguard	No	Home3	HD	MPEG-4	5581	5582|5582[eng]|5583[lit]|5584[rus]	10570	alexfloresaf38	31-Dec-19	754	
+11938	V	27500	NordicBSS	TV	TV3 Estonia HD	TV	Videoguard	No	Home3	HD	MPEG-4	5601	5602|5602[est]	10575	alexfloresaf38	31-Dec-19	756	
+11938	V	27500	NordicBSS	TV	TV3 Latvia HD	TV	Videoguard	No	Home3	HD	MPEG-4	5621	5622|5622[lav]	10580	alexfloresaf38	31-Dec-19	758	
+11938	V	27500	NordicBSS	TV	TV3 Lithuania HD	TV	Videoguard	No	Home3	HD	MPEG-4	5641	5642|5642[lit]	10585	alexfloresaf38	31-Dec-19	760	
+11938	V	27500	NordicBSS	TV	TV3 Sport 3	TV	Videoguard	No	Home3	SD	MPEG-4	5681	5682[est]|5683[lav]|5684[lit]	10595	alexfloresaf38	31-Dec-19	762	
+11938	V	27500	NordicBSS	TV	ETV+	TV	Videoguard	No	Home3	SD	MPEG-4	5701	5702[rus]|5703[est]	10600	alexfloresaf38	31-Dec-19	764	
+11938	V	27500	NordicBSS	TV	Sony Turbo	TV	Videoguard	No	Home3	SD	MPEG-4	5721	5722[est]|5723[lav]|5724[lit]|5725[rus]	10605	alexfloresaf38	31-Dec-19	766	
+11958	H	27500	NordicBSS	TV	TV6 (LT)	TV	Videoguard	No	Home3	SD	MPEG-4	4701	4702[lit]	10300	alexfloresaf38	31-Dec-19	770	
+11958	H	27500	NordicBSS	TV	TV3	TV	Videoguard	No	Home3	SD	MPEG-4	4721	4722[est]	10305	alexfloresaf38	31-Dec-19	772	
+11958	H	27500	NordicBSS	TV	TV6	TV	Videoguard	No	Home3	SD	MPEG-4	4741	4742[est]	10310	alexfloresaf38	31-Dec-19	774	
+11958	H	27500	NordicBSS	TV	ETV	TV	Videoguard	No	Home3	SD	MPEG-4	4761	4762[est]	10315	alexfloresaf38	31-Dec-19	776	
+11958	H	27500	NordicBSS	TV	Kanal 2	TV	Videoguard	No	Home3	SD	MPEG-4	4781	4782[est]	10320	alexfloresaf38	31-Dec-19	778	
+11958	H	27500	NordicBSS	TV	Kanal 11	TV	Videoguard	No	Home3	SD	MPEG-4	4801	4802[est]	10325	alexfloresaf38	31-Dec-19	780	
+11958	H	27500	NordicBSS	TV	TV1000 Action	TV	Videoguard	No	Home3	SD	MPEG-4	4841	4842[rus]|4843[eng]	10335	alexfloresaf38	31-Dec-19	782	
+11958	H	27500	NordicBSS	TV	Ohota i Rybalka	TV	Videoguard	No	Home3	SD	MPEG-4	4861	4862[rus]	10340	alexfloresaf38	31-Dec-19	784	
+11958	H	27500	NordicBSS	TV	Setanta Sport	TV	Videoguard	No	Home3	SD	MPEG-4	4881	4882[rus]|4883[eng]	10345	alexfloresaf38	31-Dec-19	786	
+11958	H	27500	NordicBSS	TV	Disney Channel	TV	Videoguard	No	Home3	SD	MPEG-4	4921	4922[eng]|4923[rus]	10355	alexfloresaf38	31-Dec-19	788	
+11958	H	27500	NordicBSS	TV	Disney Junior	TV	Videoguard	No	Home3	SD	MPEG-4	4941	4942[rus]|4943[eng]	10360	alexfloresaf38	31-Dec-19	790	
+11958	H	27500	NordicBSS	TV	Disney XD	TV	Videoguard	No	Home3	SD	MPEG-4	4961	4962[eng]|4963[rus]	10365	alexfloresaf38	31-Dec-19	792	
+11958	H	27500	NordicBSS	TV	CNN	TV	Videoguard	No	Home3	SD	MPEG-4	4981	4982[eng]	10370	alexfloresaf38	31-Dec-19	794	
+11958	H	27500	NordicBSS	TV	Nickelodeon	TV	Videoguard	No	Home3	SD	MPEG-4	5001	5002[eng]|5003[rus]|5004[est]|5005[lit]|5006[lav]	10375	alexfloresaf38	31-Dec-19	796	
+11958	H	27500	NordicBSS	TV	Nick JR	TV	Videoguard	No	Home3	SD	MPEG-4	5021	5022[eng]|5023[rus]	10380	alexfloresaf38	31-Dec-19	798	
+11958	H	27500	NordicBSS	TV	Nicktoons	TV	Videoguard	No	Home3	SD	MPEG-4	5041	5042[rus]|5043[eng]	10385	alexfloresaf38	31-Dec-19	800	
+11958	H	27500	NordicBSS	TV	BBC World News	TV	Videoguard	No	Home3	SD	MPEG-4	5081	5082[eng]	10395	alexfloresaf38	31-Dec-19	802	
+11958	H	27500	NordicBSS	TV	Brazzers TV	TV	Videoguard	No	Home3	SD	MPEG-4	5101	5102[eng]|5103[fre]	10400	alexfloresaf38	31-Dec-19	804	
+11958	H	27500	NordicBSS	TV	TV3 Sport 2 HD	TV	Videoguard	No	Home3	HD	MPEG-4	5121	5122[est]|5123[lav]|5124[lit]	10405	Tanea	31-Dec-19	806	
+11958	H	27500	NordicBSS	TV	VH1	TV	Videoguard	No	Home3	SD	MPEG-4	5141	5142[eng]	10410	alexfloresaf38	31-Dec-19	808	
+11958	H	27500	NordicBSS	TV	Playboy TV	TV	Videoguard	No	Home3	SD	MPEG-4	5161	5162[eng]|5163[fre]	10415	alexfloresaf38	31-Dec-19	810	
+11958	H	27500	NordicBSS	TV	NHK World Japan	TV	Videoguard	No	Home3	SD	MPEG-4	5181	5182[eng]	10420	alexfloresaf38	31-Dec-19	812	
+11958	H	27500	NordicBSS	TV	NBA TV	TV	Videoguard	No	Home3	HD	MPEG-4	5201	5202[eng]	10440	alexfloresaf38	31-Dec-19	814	
+11996	H	27500	NordicBSS	TV	TV Chile	TV	Videoguard	No	Viasat	SD	MPEG-2	4001	4002[spa]	4000	Frocus	8-Mar-10	818	
+11996	H	27500	NordicBSS	TV	Visjon Norge	TV	FTA	Yes	Viasat	SD	MPEG-2	4011	4012[nor]	4010	Vadim	30-Oct-16	820	
+11996	H	27500	NordicBSS	TV	RTR Planeta Baltia	TV	Videoguard|Viaccess	No	Viasat	SD	MPEG-2	4031	4032|4032[rus]	4030	Vadim	29-Oct-16	822	
+11996	H	27500	NordicBSS	TV	Kanal 10	TV	FTA	Yes	Viasat	SD	MPEG-2	4051	4052[swe]	4050	Vadim	30-Oct-16	824	
+11996	H	27500	NordicBSS	TV	God TV Europe	TV	FTA	Yes	Viasat	SD	MPEG-2	4061	4062[eng]	4060	Vadim	30-Oct-16	826	
+11996	H	27500	NordicBSS	TV	RT English	TV	FTA	Yes	Viasat	SD	MPEG-2	4081	4082[eng]	4080	Vadim	30-Oct-16	828	
+11996	H	27500	NordicBSS	TV	Vision Sverige	TV	FTA	Yes	Viasat	SD	MPEG-2	4091	4092[swe]	4090	Vadim	30-Oct-16	830	
+11996	H	27500	NordicBSS	TV	TBN Nordic	TV	FTA	Yes		SD	MPEG-2	4096	4097[swe]	4095	Tanea	7-Sep-18	832	
+11997	H	27500	SSA	TV	Openview HD promo	TV	FTA	Yes		SD	MPEG-4	1100	1101[eng]	8800	Tanea	11-Nov-16	836	
+12015	V	29950	SSA	R	LM TV	TV	FTA	Yes		SD	MPEG-2	0	0[fre]	0	Tanea	11-Nov-16	840	
+12015	V	29950	SSA	R	France 24 Français	TV	FTA	Yes		SD	MPEG-2	0	0[fre]	0	Tanea	11-Nov-16	842	
+12015	V	29950	SSA	R	France 24 English	TV	FTA	Yes		SD	MPEG-2	0	0[eng]	0	Tanea	11-Nov-16	844	
+12015	V	29950	SSA	R	BVN TV Europa	TV	FTA	Yes		SD	MPEG-2	0	0[dut]	0	Tanea	11-Nov-16	846	
+12015	V	29950	SSA	R	The Israeli Network	TV	Viaccess 4.0	No		SD	MPEG-4	0	0[heb]	0	Tanea	11-Nov-16	848	
+12015	V	29950	SSA	R	TV 5 Monde Afrique	TV	FTA	Yes		SD	MPEG-2	0	0[fre]	0	Tanea	11-Nov-16	850	
+12015	V	29950	SSA	R	DW	TV	FTA	Yes		SD	MPEG-2	0	0[eng]	0	Tanea	11-Nov-16	852	
+12015	V	29950	SSA	R	Canal 3 Monde	TV	FTA	Yes		SD	MPEG-2	0	0[fre]	0	Tanea	11-Nov-16	854	
+12015	V	27500	NordicBSS	TV	NRK 1 HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1065	3175[nor]|4035[nor]	1039	Vadim	16-Nov-16	858	
+12015	V	27500	NordicBSS	TV	NRK 2	TV	Videoguard	No	Viasat	SD	MPEG-4	1117	3112[nor]|4116[nor]	1040	Vadim	16-Nov-16	860	
+12015	V	27500	NordicBSS	TV	NRK 3 (19-07)	TV	Videoguard	No	Viasat	SD	MPEG-4	1118	3113[nor]|4124[nor]	1041	Vadim	16-Nov-16	862	
+12015	V	27500	NordicBSS	TV	NRK Super (07-19)	TV	Videoguard	No	Viasat	SD	MPEG-4	1118	3113[nor]|4124[nor]	1041	Vadim	16-Nov-16	864	
+12015	V	27500	NordicBSS	TV	NRK 1 Nordnytt	TV	Videoguard	No	Viasat	SD	MPEG-4	1856	3856[nor]	7856	Vadim	16-Nov-16	866	
+12015	V	27500	NordicBSS	TV	NRK 1 Nordland	TV	Videoguard	No	Viasat	SD	MPEG-4	1857	3857[nor]	7857	Vadim	16-Nov-16	868	
+12015	V	27500	NordicBSS	TV	NRK 1 Midtnytt	TV	Videoguard	No	Viasat	SD	MPEG-4	1858	3858[nor]	7858	Vadim	16-Nov-16	870	
+12015	V	27500	NordicBSS	TV	NRK 1 Møre og Romsdal	TV	Videoguard	No	Viasat	SD	MPEG-4	1859	3859[nor]	7859	Vadim	16-Nov-16	872	
+12015	V	27500	NordicBSS	TV	NRK 1 Vestlandsrevyen	TV	Videoguard	No	Viasat	SD	MPEG-4	1860	3860[nor]	7860	Vadim	16-Nov-16	874	
+12015	V	27500	NordicBSS	TV	NRK 1 Rogaland	TV	Videoguard	No	Viasat	SD	MPEG-4	1861	3861[nor]	7861	Vadim	16-Nov-16	876	
+12015	V	27500	NordicBSS	TV	NRK 1 Sørlandet	TV	Videoguard	No	Viasat	SD	MPEG-4	1862	3862[nor]	7862	Vadim	16-Nov-16	878	
+12015	V	27500	NordicBSS	TV	NRK 1 Tegnspråk	TV	Videoguard	No	Viasat	SD	MPEG-4	1866	3866[nor]	7866	Vadim	17-Nov-16	880	
+12015	V	27500	NordicBSS	TV	Fox Norge	TV	Videoguard	No	Viasat	SD	MPEG-4	7001	7002[nor]	7899	Tanea	17-Jan-17	882	
+12015	V	27500	NordicBSS	TV	NRK 1 Lydtekst	TV	Videoguard	No	Viasat	SD	MPEG-4	1065	4412[nor]	18012	Vadim	17-Nov-16	884	
+12015	V	27500	NordicBSS	TV	NRK 2 Lydtekst	TV	Videoguard	No	Viasat	SD	MPEG-4	1117	4413[nor]	18013	Vadim	17-Nov-16	886	
+12015	V	27500	NordicBSS	TV	NRK Super / NRK 3 Lydtekst	TV	Videoguard	No	Viasat	SD	MPEG-4	1118	4414[nor]	18014	Vadim	17-Nov-16	888	
+12015	V	27500	NordicBSS	R	NRK P1 Oslo	R	FTA	Yes	Viasat			0	3867[nor]	7867	Vadim	17-Nov-16	890	
+12015	V	27500	NordicBSS	R	NRK P1 Troms	R	FTA	Yes	Viasat			0	3868[nor]	7868	Vadim	17-Nov-16	892	
+12015	V	27500	NordicBSS	R	NRK P1 Finnmark	R	FTA	Yes	Viasat			0	3869[nor]	7869	Vadim	17-Nov-16	894	
+12015	V	27500	NordicBSS	R	NRK P1 Nordland	R	FTA	Yes	Viasat			0	3870[nor]	7870	Vadim	17-Nov-16	896	
+12015	V	27500	NordicBSS	R	NRK P1 Trøndelag	R	FTA	Yes	Viasat			0	3871[nor]	7871	Vadim	18-Nov-16	898	
+12015	V	27500	NordicBSS	R	NRK P1 Møre og Romsdal	R	FTA	Yes	Viasat			0	3872[nor]	7872	Vadim	18-Nov-16	900	
+12015	V	27500	NordicBSS	R	NRK P1 Sogn og Fjordane	R	FTA	Yes	Viasat			0	3873[nor]	7873	Vadim	18-Nov-16	902	
+12015	V	27500	NordicBSS	R	NRK P1 Hordaland	R	FTA	Yes	Viasat			0	3874[nor]	7874	Vadim	18-Nov-16	904	
+12015	V	27500	NordicBSS	R	NRK P1 Rogaland	R	FTA	Yes	Viasat			0	3875[nor]	7875	Vadim	18-Nov-16	906	
+12015	V	27500	NordicBSS	R	NRK P1 Sørlandet	R	FTA	Yes	Viasat			0	3876[nor]	7876	Vadim	18-Nov-16	908	
+12015	V	27500	NordicBSS	R	NRK P1 Telemark	R	FTA	Yes	Viasat			0	3877[nor]	7877	Vadim	18-Nov-16	910	
+12015	V	27500	NordicBSS	R	NRK P1 Buskerud	R	FTA	Yes	Viasat			0	3879[swe]	7879	Vadim	18-Nov-16	912	
+12015	V	27500	NordicBSS	R	NRK P1 Hedmark og Oppland	R	FTA	Yes	Viasat			0	3880[nor]	7880	Vadim	18-Nov-16	914	
+12015	V	27500	NordicBSS	R	NRK P2	R	FTA	Yes	Viasat			0	3882[nor]	7882	Vadim	18-Nov-16	916	
+12015	V	27500	NordicBSS	R	NRK P3	R	FTA	Yes	Viasat			0	3883[nor]	7883	Vadim	19-Nov-16	918	
+12015	V	27500	NordicBSS	R	NRK Klassisk	R	FTA	Yes	Viasat			0	3884[nor]	7884	Vadim	19-Nov-16	920	
+12015	V	27500	NordicBSS	R	NRK Sámi Radio	R	FTA	Yes	Viasat			0	3885[nor]	7885	Vadim	19-Nov-16	922	
+12015	V	27500	NordicBSS	R	NRK mP3	R	FTA	Yes	Viasat			0	3886[nor]	7886	Vadim	19-Nov-16	924	
+12015	V	27500	NordicBSS	R	NRK Alltid Nyheter	R	FTA	Yes	Viasat			0	3887[nor]	7887	Vadim	19-Nov-16	926	
+12015	V	27500	NordicBSS	R	NRK P13	R	FTA	Yes	Viasat			0	3888[nor]	7888	Vadim	19-Nov-16	928	
+12015	V	27500	NordicBSS	R	NRK Været til sjøs	R	FTA	Yes	Viasat			0	3889[nor]	7889	Vadim	19-Nov-16	930	
+12015	V	27500	NordicBSS	R	NRK Super	R	FTA	Yes	Viasat			0	3890[nor]	7890	Vadim	19-Nov-16	932	
+12015	V	27500	NordicBSS	R	NRK P1+	R	FTA	Yes	Viasat			0	3891[nor]	7891	Vadim	19-Nov-16	934	
+12015	V	27500	NordicBSS	R	NRK Jazz	R	FTA	Yes	Viasat			0	3892[nor]	7892	Vadim	19-Nov-16	936	
+12015	V	27500	NordicBSS	R	NRK Sport	R	FTA	Yes	Viasat			0	3893[nor]	7893	Vadim	20-Nov-16	938	
+12015	V	27500	NordicBSS	R	NRK Folkemusikk	R	FTA	Yes	Viasat			0	3894[nor]	7894	Vadim	20-Nov-16	940	
+12034	H	27500	SSA	DATA	SES Ultra HD Demo	TV	FTA	Yes		UHD	Other	0		0	Tanea	11-Nov-16	944	
+12034	H	27500	SSA	IMG	SES Demo	TV	FTA	Yes		SD	MPEG-2	255		8001	Tanea	15-Nov-19	946	
+12034	H	27500	SSA	TV	Gabriele TV Africa	TV	FTA	Yes		SD	MPEG-4	611	131[ger]	8005	Tanea	15-Nov-19	948	
+12034	H	27500	SSA	TV	DW English	TV	FTA	Yes		SD	MPEG-2	101	102[eng]	8010	Tanea	15-Nov-19	950	
+12034	H	27500	SSA	TV	DW English	TV	FTA	Yes		SD	MPEG-4	811	818[eng]	8020	Tanea	15-Nov-19	952	
+12034	H	27500	SSA	TV	CCTV 4 Europe	TV	FTA	Yes		SD	MPEG-2	105	305[chi]	8031	Tanea	15-Nov-19	954	
+12034	H	27500	SSA	TV	CGTN Documentary	TV	FTA	Yes		SD	MPEG-2	107	307[eng]	8032	Tanea	15-Nov-19	956	
+12034	H	27500	SSA	TV	CGTN Français	TV	FTA	Yes		SD	MPEG-2	110	310[fre]	8033	Tanea	15-Nov-19	958	
+12034	H	27500	SSA	TV	CGTN	TV	FTA	Yes		SD	MPEG-2	111	311[fre]	8034	Tanea	15-Nov-19	960	
+12034	H	27500	SSA	TV	MTA Africa	TV	FTA	Yes		SD	MPEG-2	1219	1319[eng]|1419[fre]|1519[urd]|1619[swe]|1719[yor]	8036	Tanea	15-Nov-19	962	
+12034	H	27500	SSA	TV	Madani Channel	TV	FTA	Yes		SD	MPEG-4	2342	2343[eng]	8037	Tanea	15-Nov-19	964	
+12034	H	27500	SSA	TV	NHK World Japan	TV	FTA	Yes		SD	MPEG-2	1160	1120[eng]	8040	Tanea	15-Nov-19	966	
+12034	H	27500	SSA	TV	BVN TV Europa	TV	FTA	Yes		SD	MPEG-2	525	122[dut]	8060	Tanea	15-Nov-19	968	
+12053	V	30000	SSA	R	Nay TV	TV	FTA	Yes		SD	MPEG-2	0	0[ara]	0	Tanea	27-Aug-17	972	
+12054	V	30000	SSA	TV	JamboBet Dog	TV	FTA	Yes		SD	MPEG-2	33	34[eng]	5900	Tanea	22-Feb-20	976	
+12054	V	30000	SSA	TV	Bet 9JA	TV	FTA	Yes		SD	MPEG-2	53	54[eng]	5904	Tanea	22-Feb-20	978	
+12054	V	30000	SSA	TV	Bet 9JA Racing	TV	FTA	Yes		SD	MPEG-2	55	56[eng]	5905	Tanea	22-Feb-20	980	
+12054	V	30000	SSA	TV	Bet 9JA Football	TV	FTA	Yes		SD	MPEG-2	57	58[eng]	5906	Tanea	22-Feb-20	982	
+12054	V	30000	SSA	TV	TVGE Internacional	TV	FTA	Yes		SD	MPEG-2	49	50[spa]	5907	Tanea	22-Feb-20	984	
+12054	V	30000	SSA	TV	Afrique Média	TV	FTA	Yes		SD	MPEG-2	60	61[fre]	5908	Tanea	22-Feb-20	986	
+12054	V	30000	SSA	TV	JamboBet EPL	TV	FTA	Yes		SD	MPEG-2	62	70[eng]	5909	Tanea	22-Feb-20	988	
+12054	V	30000	SSA	TV	Kiron Fast League	TV	FTA	Yes		SD	MPEG-2	63	64[eng]	5910	Tanea	22-Feb-20	990	
+12054	V	30000	SSA	TV	Shekinah TV	TV	FTA	Yes		SD	MPEG-2	65	66[eng]	5911	Tanea	22-Feb-20	992	
+12054	V	30000	SSA	TV	Label TV	TV	FTA	Yes		SD	MPEG-2	308	128[eng]	5912	Tanea	22-Feb-20	994	
+12054	V	30000	SSA	TV	Bet 9JA Gamble	TV	FTA	Yes		SD	MPEG-2	2004	3004[eng]	5913	Tanea	22-Feb-20	996	
+12054	V	30000	SSA	TV	Tivi 5 Monde	TV	FTA	Yes		SD	MPEG-2	304	314[fre]	5920	Tanea	22-Feb-20	998	
+12054	V	30000	SSA	R	TV 5 Monde Style HD	TV	FTA	Yes		HD	MPEG-2	0	1325[fre]	5921	Tanea	22-Feb-20	1000	
+12054	V	30000	SSA	TV	TV 5 Monde Afrique	TV	FTA	Yes		SD	MPEG-2	1226	1326[fre]	5922	Tanea	22-Feb-20	1002	
+12054	V	27500	NordicBSS	DATA	CORE SI	@	FTA	Yes				0		933	alexfloresaf38	31-Dec-19	1006	
+12055	V	29950	SSA	R	CCTV News	TV	FTA	Yes		SD	MPEG-2	0	0[eng]	0	Tanea	11-Nov-16	1010	
+12055	V	29950	SSA	R	CCTV Français	TV	FTA	Yes		SD	MPEG-2	0	0[fre]	0	Tanea	11-Nov-16	1012	
+12055	V	29950	SSA	R	CCTV 9 Documentary	TV	FTA	Yes		SD	MPEG-2	0	0[eng]	0	Tanea	11-Nov-16	1014	
+12055	V	29950	SSA	R	CCTV 4 Europe	TV	FTA	Yes		SD	MPEG-2	0	0[chi]	0	Tanea	11-Nov-16	1016	
+12055	V	29950	SSA	TV	Tele Congo	TV	FTA	Yes		SD	MPEG-2	101	301[fre]	5951	Tanea	11-Nov-16	1018	
+12055	V	29950	SSA	TV	RT English	TV	FTA	Yes		SD	MPEG-2	102	302[eng]	5952	Tanea	11-Nov-16	1020	
+12055	V	29950	SSA	TV	Canal 3 Benin	TV	FTA	Yes		SD	MPEG-2	104	304[fre]	5954	Tanea	11-Nov-16	1022	
+12055	V	29950	SSA	IMG	GlobeCast promo	TV	FTA	Yes		SD	MPEG-2	299		5970	Tanea	11-Nov-16	1024	
+12073	H	27500	EuropeBSS	TV	New Christian	TV	FTA	Yes		SD	MPEG-4	6506	6507[rus]	6505	Vadim	4-Dec-18	1028	
+12073	H	27500	EuropeBSS	TV	News One	TV	FTA	Yes		SD	MPEG-2	6511	6512[ukr]	6510	Vadim	25-Sep-16	1030	
+12073	H	27500	EuropeBSS	TV	Espreso TV	TV	FTA	Yes		SD	MPEG-2	6521	6522[ukr]	6520	Vadim	3-Feb-17	1032	
+12073	H	27500	EuropeBSS	TV	Glas	TV	FTA	Yes		SD	MPEG-2	6531	6532[ukr]|6533[rus]	6530	Vadim	28-Nov-16	1034	
+12073	H	27500	EuropeBSS	TV	Svarogichi	TV	FTA	Yes		SD	MPEG-2	6541	6542[ukr]	6540	Tanea	16-Nov-19	1036	
+12073	H	27500	EuropeBSS	TV	Karavan	TV	FTA	Yes		SD	MPEG-2	6546	6547[ukr]	6545	Vadim	23-Jul-17	1038	
+12073	H	27500	EuropeBSS	TV	Hromadske	TV	FTA	Yes		SD	MPEG-2	6551	6552[ukr]	6550	Vadim	28-Jan-17	1040	
+12073	H	27500	EuropeBSS	TV	Pershij Nezalezhnij	TV	FTA	Yes		SD	MPEG-2	6566	6567[ukr]	6565	Tanea	28-Jan-20	1042	
+12073	H	27500	EuropeBSS	TV	RADA	TV	FTA	Yes		SD	MPEG-2	6571	6572[ukr]	6570	Vadim	3-Feb-17	1044	
+12073	H	27500	EuropeBSS	TV	UKRAINA-SD	TV	BISS	No		SD	MPEG-2	6576	6577[ukr]	6575	Vadim	3-Feb-17	1046	
+12073	H	27500	EuropeBSS	TV	English Club TV	TV	Videoguard|Conax|Viaccess 4.0|Verimatrix	No	Viasat Ukraina|XTRA TV	SD	MPEG-2	6581	6582[rus]|6583[eng]	6580	Vadim	23-Jul-17	1048	
+12073	H	27500	EuropeBSS	TV	Natali	TV	FTA	Yes		SD	MPEG-2	6591	6592[ukr]	6590	Vadim	4-Dec-18	1050	
+12073	H	27500	EuropeBSS	R	Emmanuel svitle radio	R	FTA	Yes				0	6501[ukr]	6500	dreambox	18-Jun-09	1052	
+12073	H	27500	EuropeBSS	R	Radio NV	R	FTA	Yes				0	6504[ukr]	6503	Vadim	4-Dec-18	1054	
+12073	H	27500	EuropeBSS	R	Hromadske Radio	R	FTA	Yes				0	6509[ukr]	6508	Vadim	4-Dec-18	1056	
+12092	V	30000	EuropeBSS	TV	TV1000 East	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2751	2752[rus]	2750	Vadim	3-Aug-17	1060	
+12092	V	30000	EuropeBSS	TV	Playboy TV	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2761	2762[eng]	2760	Vadim	3-Aug-17	1062	
+12092	V	30000	EuropeBSS	TV	Viasat Explore	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2771	2772[rus]|2773[eng]	2770	Vadim	3-Aug-17	1064	
+12092	V	30000	EuropeBSS	TV	TV1000 Action	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2791	2792[rus]|2793[eng]	2790	Vadim	3-Aug-17	1066	
+12092	V	30000	EuropeBSS	TV	TV1000 World Kino	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2811	2812[rus]	2810	Vadim	3-Aug-17	1068	
+12092	V	30000	EuropeBSS	TV	Viasat Nature HD (07-19)	TV	Videoguard	No	Viasat Ukraina	HD	MPEG-4	3031	3032[rus]|3033[eng]	3030	Vadim	3-Aug-17	1070	
+12092	V	30000	EuropeBSS	TV	Viasat History HD (19-07)	TV	Videoguard	No	Viasat Ukraina	HD	MPEG-4	3031	3032[rus]|3033[eng]	3030	Vadim	3-Aug-17	1072	
+12092	V	30000	EuropeBSS	TV	Fine Living	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	3081	3082[rus]|3083[eng]	3080	Vadim	3-Aug-17	1074	
+12092	V	30000	EuropeBSS	TV	TV1000 Premium SD	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	4101	4102[rus]	4100	Vadim	3-Aug-17	1076	
+12092	V	30000	EuropeBSS	TV	VIP Megahit SD	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	4111	4112[rus]	4110	Vadim	5-Dec-18	1078	
+12092	V	30000	EuropeBSS	TV	VIP Comedy SD	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	4121	4122[rus]	4120	Vadim	5-Dec-18	1080	
+12092	V	30000	EuropeBSS	TV	Viasat Sport SD	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	4131	4132[rus]|4133[eng]	4130	Vadim	5-Aug-17	1082	
+12092	V	30000	EuropeBSS	TV	VIP Premiere HD	TV	Videoguard	No	Viasat Ukraina	HD	MPEG-4	4201	4202[rus]|4203[eng]	4200	Vadim	5-Dec-18	1084	
+12092	V	30000	EuropeBSS	TV	VIP Megahit HD	TV	Videoguard	No	Viasat Ukraina	HD	MPEG-4	4211	4212[rus]|4213[eng]	4210	Vadim	5-Dec-18	1086	
+12092	V	30000	EuropeBSS	TV	VIP Comedy HD	TV	Videoguard	No	Viasat Ukraina	HD	MPEG-4	4221	4222[rus]|4223[eng]	4220	Vadim	5-Dec-18	1088	
+12092	V	30000	EuropeBSS	TV	Viasat Sport HD	TV	Videoguard	No	Viasat Ukraina	HD	MPEG-4	4231	4232[rus]|4233[eng]	4230	Vadim	5-Aug-17	1090	
+12130	V	27500	EuropeBSS	TV	Unian TV	TV	FTA	Yes		SD	MPEG-2	6611	6612[ukr]	6610	alexfloresaf38	1-Mar-20	1094	
+12130	V	27500	EuropeBSS	TV	FOOTBALL 1 HD	TV	Verimatrix	No	XTRA TV	HD	MPEG-4	6621	6622[ukr]	6620	alexfloresaf38	1-Mar-20	1096	
+12130	V	27500	EuropeBSS	TV	FOOTBALL 2 HD	TV	Verimatrix	No	XTRA TV	HD	MPEG-4	6641	6642[ukr]	6640	Frocus	1-Mar-20	1098	
+12130	V	27500	EuropeBSS	TV	Donbass	TV	FTA	Yes		SD	MPEG-4	6651	6652[ukr]|6653[ukr]	6650	EnoSat	7-May-17	1100	
+12130	V	27500	EuropeBSS	TV	34 Telekanal	TV	BISS	No		SD	MPEG-4	6671	6672[ukr]	6670	EnoSat	7-May-17	1102	
+12130	V	27500	EuropeBSS	TV	1+1 International	TV	FTA	Yes		SD	MPEG-2	6681	6682[ukr]	6680	alexfloresaf38	1-Mar-20	1104	
+12130	V	27500	EuropeBSS	TV	test1	TV	Videoguard	No		SD	MPEG-2	6961	6962[ukr]	6696	alexfloresaf38	1-Mar-20	1106	
+12130	V	27500	EuropeBSS	TV	test2	TV	Videoguard	No		SD	MPEG-2	6971	6972[ukr]	6697	alexfloresaf38	1-Mar-20	1108	
+12130	V	27500	EuropeBSS	TV	test3	TV	Videoguard	No		SD	MPEG-2	6981	6982[ukr]	6698	alexfloresaf38	1-Mar-20	1110	
+12130	V	27500	EuropeBSS	DATA	SW NeotionCI+	F	FTA	Yes				0		6606	alexfloresaf38	1-Mar-20	1112	
+12188	H	30000	EuropeBSS	TV	Inter	TV	FTA	Yes	ZeonBud	SD	MPEG-4	1101	1102[ukr]	11	EnoSat	3-Mar-18	1116	
+12188	H	30000	EuropeBSS	TV	Ukraina	TV	FTA	Yes	ZeonBud	SD	MPEG-4	1201	1202[ukr]	12	EnoSat	3-Mar-18	1118	
+12188	H	30000	EuropeBSS	TV	1+1	TV	FTA	Yes	ZeonBud	SD	MPEG-4	1301	1302[ukr]	13	EnoSat	3-Mar-18	1120	
+12188	H	30000	EuropeBSS	TV	NTN	TV	FTA	Yes	ZeonBud	SD	MPEG-4	1401	1402[ukr]	14	EnoSat	3-Mar-18	1122	
+12188	H	30000	EuropeBSS	TV	K1	TV	FTA	Yes	ZeonBud	SD	MPEG-4	1501	1502[ukr]	15	EnoSat	3-Mar-18	1124	
+12188	H	30000	EuropeBSS	TV	UA:Pershiy	TV	FTA	Yes	ZeonBud	SD	MPEG-4	1601	1602[ukr]	16	EnoSat	3-Mar-18	1126	
+12188	H	30000	EuropeBSS	TV	ICTV	TV	FTA	Yes	ZeonBud	SD	MPEG-4	1701	1702[ukr]	17	EnoSat	3-Mar-18	1128	
+12188	H	30000	EuropeBSS	TV	Enter Film	TV	FTA	Yes	ZeonBud	SD	MPEG-4	1801	1802[ukr]	18	EnoSat	3-Mar-18	1130	
+12188	H	30000	EuropeBSS	DATA	T2MI_pid_4096	@	FTA	Yes			Other	0		0	EnoSat	3-Mar-18	1132	
+12188	H	30000	EuropeBSS	TV	Zoom	TV	FTA	Yes	ZeonBud	SD	MPEG-4	2101	2102[ukr]	21	Vadim	2-Aug-17	1136	
+12188	H	30000	EuropeBSS	TV	Indigo TV	TV	FTA	Yes	ZeonBud	SD	MPEG-4	2201	2202[ukr]	22	EnoSat	3-Mar-18	1138	
+12188	H	30000	EuropeBSS	TV	STB	TV	FTA	Yes	ZeonBud	SD	MPEG-4	2301	2302[ukr]	23	Vadim	2-Aug-17	1140	
+12188	H	30000	EuropeBSS	TV	TET	TV	FTA	Yes	ZeonBud	SD	MPEG-4	2401	2402[ukr]	24	Vadim	2-Aug-17	1142	
+12188	H	30000	EuropeBSS	TV	K2	TV	FTA	Yes	ZeonBud	SD	MPEG-4	2501	2502[ukr]	25	Vadim	2-Aug-17	1144	
+12188	H	30000	EuropeBSS	TV	Novy Kanal	TV	FTA	Yes	ZeonBud	SD	MPEG-4	2601	2602[ukr]	26	Vadim	2-Aug-17	1146	
+12188	H	30000	EuropeBSS	TV	M1	TV	FTA	Yes	ZeonBud	SD	MPEG-4	2701	2702[ukr]	27	Vadim	2-Aug-17	1148	
+12188	H	30000	EuropeBSS	TV	5 Kanal	TV	FTA	Yes	ZeonBud	SD	MPEG-4	2801	2802[ukr]	28	Vadim	2-Aug-17	1150	
+12188	H	30000	EuropeBSS	DATA	T2MI_pid_4096	@	FTA	Yes			Other	0		0	EnoSat	3-Mar-18	1152	
+12207	V	30000	EuropeBSS	TV	Sony Sci-Fi	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2501	2502[rus]	2500	Vadim	5-Aug-17	1156	
+12207	V	30000	EuropeBSS	TV	Animal Planet	TV	Videoguard|Verimatrix	No	Viasat Ukraina	SD	MPEG-4	2511	2512[rus]	2510	Vadim	5-Dec-18	1158	
+12207	V	30000	EuropeBSS	TV	TLC	TV	Videoguard|Verimatrix	No	Viasat Ukraina	SD	MPEG-4	2521	2522[rus]	2520	Vadim	5-Dec-18	1160	
+12207	V	30000	EuropeBSS	TV	Discovery Channel	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2531	2532[rus]|2533[eng]	2530	Vadim	5-Aug-17	1162	
+12207	V	30000	EuropeBSS	TV	Sony Turbo	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2551	2552[rus]	2550	Vadim	6-Aug-17	1164	
+12207	V	30000	EuropeBSS	TV	Discovery Science	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2571	2572[rus]|2573[eng]	2570	Vadim	6-Aug-17	1166	
+12207	V	30000	EuropeBSS	TV	Fox	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2581	2582[rus]|2583[eng]	2580	Vadim	6-Aug-17	1168	
+12207	V	30000	EuropeBSS	TV	Viasat History	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2591	2592[rus]|2593[eng]	2590	Vadim	6-Aug-17	1170	
+12207	V	30000	EuropeBSS	TV	Erox HD	TV	Videoguard	No	Viasat Ukraina	HD	MPEG-4	2601	2602[eng]	2600	Vadim	6-Aug-17	1172	
+12207	V	30000	EuropeBSS	TV	Erotica TV	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2611	2612[fre]|2613[eng]	2610	Vadim	6-Aug-17	1174	
+12207	V	30000	EuropeBSS	TV	National Geographic	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2621	2622[rus]|2623[eng]	2620	Vadim	6-Aug-17	1176	
+12207	V	30000	EuropeBSS	TV	Outdoor Channel International	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2631	2632[rus]	2630	Vadim	8-Aug-17	1178	
+12207	V	30000	EuropeBSS	TV	Nickelodeon HD	TV	Videoguard|Verimatrix	No	Viasat Ukraina	HD	MPEG-4	2141	2145[rus]	2650	Frocus	23-Feb-18	1180	
+12207	V	30000	EuropeBSS	TV	Nick Jr.	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2661	2662[rus]	2660	Vadim	6-Aug-17	1182	
+12207	V	30000	EuropeBSS	TV	Eurokino	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2681	2682[rus]	2680	Vadim	6-Aug-17	1184	
+12207	V	30000	EuropeBSS	TV	MTV Live HD	TV	Videoguard|Verimatrix	No	Viasat Ukraina	HD	MPEG-4	1011	1012[eng]	2690	Frocus	23-Feb-18	1186	
+12207	V	30000	EuropeBSS	TV	Sony Channel	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2711	2712[rus]	2710	Vadim	7-Aug-17	1188	
+12207	V	30000	EuropeBSS	TV	Nickelodeon	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2721	2722[rus]	2720	Vadim	7-Aug-17	1190	
+12207	V	30000	EuropeBSS	TV	Food Network	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2731	2732[rus]	2730	Vadim	7-Aug-17	1192	
+12207	V	30000	EuropeBSS	TV	Viasat Nature	TV	Videoguard	No	Viasat Ukraina	SD	MPEG-4	2741	2742[rus]	2740	Vadim	7-Aug-17	1194	
+12245	V	30000	EuropeBSS	TV	Ukraine XD HD	TV	Betacrypt|Verimatrix	No		HD	MPEG-4	101	102[ukr]	2910	Tanea	20-Apr-19	1198	
+12245	V	30000	EuropeBSS	TV	NLO XD HD	TV	Betacrypt|Verimatrix	No		HD	MPEG-4	111	112[ukr]	2911	Tanea	20-Apr-19	1200	
+12245	V	30000	EuropeBSS	TV	Ukraina 24 HD	TV	FTA	Yes		HD	MPEG-4	131	132[ukr]	2913	Tanea	20-Jan-20	1202	
+12245	V	30000	EuropeBSS	TV	Football 1 HD	TV	Betacrypt	No		HD	MPEG-4	141	142[ukr]	2914	Tanea	20-Jan-20	1204	
+12245	V	30000	EuropeBSS	TV	Football 1	TV	Betacrypt	No		SD	MPEG-4	151	152[ukr]|153[ukr]	2915	Tanea	20-Jan-20	1206	
+12245	V	30000	EuropeBSS	TV	Football 2 HD	TV	Betacrypt	No		HD	MPEG-4	161	162[ukr]	2916	Tanea	20-Jan-20	1208	
+12245	V	30000	EuropeBSS	TV	Football 2	TV	Betacrypt	No		SD	MPEG-4	171	172[ukr]|173[ukr]	2917	Tanea	20-Jan-20	1210	
+12245	V	30000	EuropeBSS	TV	Donbass	TV	FTA	Yes		SD	MPEG-4	181	182[ukr]|183[ukr]	2918	Tanea	20-Jan-20	1212	
+12245	V	30000	EuropeBSS	TV	34 Telekanal	TV	BISS	No		SD	MPEG-4	191	192[ukr]	2919	Tanea	20-Jan-20	1214	
+12245	V	30000	EuropeBSS	TV	1+1 XD HD	TV	FTA	Yes		HD	MPEG-4	201	202[ukr]	2920	Tanea	20-Apr-19	1216	
+12245	V	30000	EuropeBSS	TV	Ohota i Rybalka	TV	Betacrypt	No		SD	MPEG-4	301	302[ukr]	2930	Tanea	20-Nov-19	1218	
+12245	V	30000	EuropeBSS	TV	Football 3 HD	TV	Betacrypt	No		HD	MPEG-4	311	312[ukr]	2931	Tanea	20-Jan-20	1220	
+12265	H	30000	EuropeBSS	TV	1+1.	TV	Videoguard|Verimatrix	No		SD	MPEG-4	7011	7012[ukr]	7701	alexfloresaf38	1-Mar-20	1224	
+12265	H	30000	EuropeBSS	TV	TET.	TV	Videoguard|Verimatrix	No		SD	MPEG-4	7021	7022[ukr]	7702	alexfloresaf38	1-Mar-20	1226	
+12265	H	30000	EuropeBSS	TV	2+2.	TV	Videoguard|Verimatrix	No		SD	MPEG-4	7031	7032[ukr]	7703	alexfloresaf38	1-Mar-20	1228	
+12265	H	30000	EuropeBSS	IMG	ParamountChannel	TV	Verimatrix	No		SD	MPEG-4	7051		7705	vodias	1-Mar-20	1230	
+12265	H	30000	EuropeBSS	IMG	NicktoonsChannel	TV	Videoguard|Verimatrix	No		SD	MPEG-4	7061		7706	vodias	1-Mar-20	1232	
+12265	H	30000	EuropeBSS	TV	Plus Plus.	TV	Videoguard|Verimatrix	No		SD	MPEG-4	7071	7072[ukr]	7707	alexfloresaf38	1-Mar-20	1234	
+12265	H	30000	EuropeBSS	TV	Bigudi.	TV	Videoguard|Verimatrix	No		SD	MPEG-4	7081	7082[ukr]	7708	alexfloresaf38	1-Mar-20	1236	
+12265	H	30000	EuropeBSS	TV	Unian TV.	TV	FTA	Yes		SD	MPEG-4	7091	7092[ukr]	7709	alexfloresaf38	1-Mar-20	1238	
+12265	H	30000	EuropeBSS	TV	Trofey.	TV	FTA	Yes		SD	MPEG-4	7111	7112[ukr]|7113[rus]	7711	Vadim	8-Dec-18	1240	
+12265	H	30000	EuropeBSS	TV	Dacha	TV	BISS	No		SD	MPEG-4	7121	7122[ukr]|7123[rus]	7712	Vadim	8-Dec-18	1242	
+12265	H	30000	EuropeBSS	TV	EPOQUE	TV	BISS	No		SD	MPEG-4	7131	7132[ukr]|7133[rus]	7713	Vadim	8-Dec-18	1244	
+12265	H	30000	EuropeBSS	TV	Terra	TV	FTA	Yes		SD	MPEG-4	7141	7142[ukr]|7143[rus]	7714	Vadim	8-Dec-18	1246	
+12265	H	30000	EuropeBSS	TV	Nauka	TV	FTA	Yes		SD	MPEG-4	7151	7152[ukr]|7153[rus]	7715	Vadim	8-Dec-18	1248	
+12265	H	30000	EuropeBSS	TV	Fauna	TV	FTA	Yes		SD	MPEG-4	7161	7162[ukr]|7163[rus]	7716	Vadim	8-Dec-18	1250	
+12265	H	30000	EuropeBSS	TV	FILMUADRAMA	TV	BISS	No		SD	MPEG-4	7171	7172[ukr]|7173[rus]	7717	Vadim	8-Dec-18	1252	
+12265	H	30000	EuropeBSS	TV	BOLT	TV	Verimatrix	No		SD	MPEG-4	7181	7182[ukr]|7183[rus]	7718	Vadim	9-Dec-18	1254	
+12265	H	30000	EuropeBSS	TV	36.6 TV	TV	FTA	Yes		SD	MPEG-4	7191	7192[ukr]	7719	Vadim	4-Dec-18	1256	
+12265	H	30000	EuropeBSS	TV	Kyiv TV	TV	FTA	Yes		SD	MPEG-2	7211	7212[ukr]	7721	Vadim	9-Dec-18	1258	
+12266	H	27500	SSA	R	Afro Music Channel	TV	FTA	Yes		SD	MPEG-2	0	0[por]	0	Tanea	11-Nov-16	1262	
+12266	H	27500	SSA	DATA	SONY SAB	TV	FTA	Yes		SD	MPEG-2	0		0	Tanea	11-Nov-16	1264	
+12266	H	27500	SSA	DATA	RTS Sat	TV	FTA	Yes	MultiChoice Africa|Dolce|ITV Partner|Total TV|Cyfra +|Zuku|eutelsat|RTS|Cyfrovy Polsat	SD	MPEG-4	0		0	Cycunio1996	3-Jan-19	1266	
+12266	H	27500	SSA	TV	AMC Portugal	TV	FTA	Yes		SD	MPEG-2	287	272[por]	117	Tanea	11-Nov-16	1268	
+12284	V	27500	EuropeBSS	TV	News Network	TV	FTA	Yes		SD	MPEG-2	6911	6912[rus]	6910	Vadim	26-Jul-17	1272	
+12284	V	27500	EuropeBSS	TV	Nadiya	TV	FTA	Yes		SD	MPEG-4	6916	6917[ukr]	6915	Vadim	28-Jul-17	1274	
+12284	V	27500	EuropeBSS	TV	Sonce UA	TV	FTA	Yes		SD	MPEG-2	6921	6922[ukr]	6920	Tanea	17-Feb-13	1276	
+12284	V	27500	EuropeBSS	TV	5 Kanal (Ukraine)	TV	FTA	Yes		SD	MPEG-2	6931	6932[ukr]	6930	Frocus	30-Jun-12	1278	
+12284	V	27500	EuropeBSS	TV	KRT	TV	FTA	Yes		SD	MPEG-2	6941	6942[ukr]	6940	Frocus	30-Jun-12	1280	
+12284	V	27500	EuropeBSS	TV	Vintage TV	TV	FTA	Yes		SD	MPEG-2	6946	6947[ukr]	6945	Vadim	23-Aug-17	1282	
+12284	V	27500	EuropeBSS	TV	ATR	TV	FTA	Yes		SD	MPEG-2	6951	6952[ukr]	6950	Tanea	18-Jun-15	1284	
+12284	V	27500	EuropeBSS	TV	Lale	TV	FTA	Yes		SD	MPEG-2	6971	6972[crh]	6970	Vadim	26-Jul-17	1286	
+12284	V	27500	EuropeBSS	TV	Nash	TV	FTA	Yes		SD	MPEG-2	6981	6982[ukr]	6980	Vadim	9-Dec-18	1288	
+12284	V	27500	EuropeBSS	R	Army FM	R	FTA	Yes				0	6901[ukr]	6900	Vadim	26-Jul-17	1290	
+12284	V	27500	EuropeBSS	R	Meydan FM	R	FTA	Yes				0	6903[ukr]	6902	Vadim	28-Jul-17	1292	
+12284	V	27500	EuropeBSS	R	Golos Nadii	R	FTA	Yes				0	6918[ukr]	6915	Vadim	28-Jul-17	1294	
+12284	V	27500	EuropeBSS	R	Stilnoe Radio "Perec FM"	R	FTA	Yes				0	6963[ukr]	6945	Vadim	23-Aug-17	1296	
+12303	H	25550	EuropeBSS	IMG	Bootstrap Master	TV	PowerVu	No		SD	MPEG-2	3160		1	alexfloresaf38	3-Jan-20	1300	
+12303	H	25550	EuropeBSS	IMG	Software Update	TV	PowerVu	No		SD	MPEG-2	3160		5	alexfloresaf38	3-Jan-20	1302	
+12303	H	25550	EuropeBSS	TV	Diva Romania	TV	PowerVu	No		SD	MPEG-2	3160	3120[000]|3121[rum]	501	alexfloresaf38	3-Jan-20	1304	
+12303	H	25550	EuropeBSS	TV	Universal HUNGARY	TV	PowerVu	No		SD	MPEG-2	3260	3222[hun]	502	alexfloresaf38	3-Jan-20	1306	
+12303	H	25550	EuropeBSS	TV	Diva Romania	TV	PowerVu	No		SD	MPEG-2	3160	3121[rum]|3122[eng]	610	alexfloresaf38	3-Jan-20	1308	
+12303	H	25550	EuropeBSS	TV	Diva Balkans	TV	PowerVu	No		SD	MPEG-2	3260	3220[eng]	620	Vadim	29-Jul-17	1310	
+12303	H	25550	EuropeBSS	TV	Universal HUNGARY	TV	PowerVu	No		SD	MPEG-2	3260	3222[hun]	621	alexfloresaf38	3-Jan-20	1312	
+12303	H	25550	EuropeBSS	TV	Universal HUNGARY	TV	PowerVu	No		SD	MPEG-2	3260	3220[eng]|3222[hun]	623	Vadim	3-Jan-20	1314	
+12303	H	25550	EuropeBSS	TV	Belsat TV	TV	FTA	Yes		SD	MPEG-2	2601	2602[bel]	1291	Vadim	3-Jan-20	1316	
+12303	H	25550	EuropeBSS	R	Premier Radio 96k	R	FTA	Yes				0	1323[eng]	212	dreambox	3-Jan-20	1318	
+12303	H	25550	EuropeBSS	R	Absolute Radio	R	FTA	Yes				0	1215[eng]	1006	Vadim	29-Jul-17	1320	
+12303	H	25550	EuropeBSS	DATA	IRN	R	FTA	Yes				0		1283	alexfloresaf38	3-Jan-20	1322	
+12322	V	27500	EuropeBSS	TV	Animal Planet Europe	TV	PowerVu	No		SD	MPEG-4	100	101[eng]|102[cze]|103[rus]|104[hun]	100	alexfloresaf38	3-Jan-20	1326	
+12322	V	27500	EuropeBSS	TV	Animal Planet Europe	TV	PowerVu	No		SD	MPEG-4	100	101[eng]|105[tur]	101	alexfloresaf38	3-Jan-20	1328	
+12322	V	27500	EuropeBSS	TV	Animal Planet Europe	TV	PowerVu	No		SD	MPEG-4	100	101[eng]	102	alexfloresaf38	3-Jan-20	1330	
+12322	V	27500	EuropeBSS	TV	Discovery Central Europe	TV	PowerVu	No		SD	MPEG-4	200	201[eng]|202[rus]|203[cze]|204[hun]	200	alexfloresaf38	3-Jan-20	1332	
+12322	V	27500	EuropeBSS	TV	Discovery Central Europe	TV	PowerVu	No		SD	MPEG-4	200	201[eng]|205[bul]	201	alexfloresaf38	3-Jan-20	1334	
+12322	V	27500	EuropeBSS	TV	ID Xtra Europe	TV	PowerVu	No		SD	MPEG-4	400	401[eng]|402[hun]|403[rus]|405[cze]	400	alexfloresaf38	3-Jan-20	1336	
+12322	V	27500	EuropeBSS	TV	Discovery Channel Central Europe	TV	PowerVu	No	Discovery Europe	SD	MPEG-4	500	501[eng]|502[rus]	500	Vadim	16-Aug-17	1338	
+12322	V	27500	EuropeBSS	TV	Discovery Science Europe	TV	PowerVu	No	Discovery Europe	SD	MPEG-4	900	901[eng]|902[hun]|904[cze]|905[bul]|903[tur]	900	Vadim	15-Aug-17	1340	
+12322	V	27500	EuropeBSS	TV	Discovery World	TV	PowerVu	No	Discovery Europe	SD	MPEG-4	1000	1001[eng]|1002[hun]|1003[tur]|1004[rus]|1005[cze]	1000	Vadim	15-Aug-17	1342	
+12322	V	27500	EuropeBSS	TV	Discovery Channel Türkiye HD	TV	PowerVu	No	Discovery Europe	HD	MPEG-4	1100	1101[tur]|1102[eng]|1103[tur]	1100	Vadim	15-Aug-17	1344	
+12322	V	27500	EuropeBSS	TV	Animal Planet Türkiye HD	TV	PowerVu	No	Discovery Europe	HD	MPEG-4	1300	1301[tur]|1302[eng]|1303[tur]	1300	Vadim	16-Aug-17	1346	
+12322	V	27500	EuropeBSS	TV	Discovery Science Türkiye HD	TV	PowerVu	No	Discovery Europe	HD	MPEG-4	1500	1501[tur]|1502[eng]|1503[tur]	1500	Vadim	15-Aug-17	1348	
+12322	V	27500	EuropeBSS	TV	Eurosport2 Poland	TV	Viaccess 2.5|Viaccess 3.0|Viaccess 4.0|Viaccess 5.0	No		SD	MPEG-2	4100	4101[pol]|4102[eng]	4100	alexfloresaf38	6-Feb-18	1350	
+12322	V	27500	EuropeBSS	TV	ESP2 Clean DE	TV	Viaccess 5.0	No		SD	MPEG-4	4200	4201[ger]	4200	alexfloresaf38	6-Feb-18	1352	
+12322	V	27500	EuropeBSS	TV	ESP1 Clean DE	TV	Viaccess 5.0	No		SD	MPEG-4	4300	4301[ger]	4300	alexfloresaf38	6-Feb-18	1354	
+12322	V	27500	EuropeBSS	TV	Eurosport 1	TV	Viaccess 5.0	No	Discovery Europe	SD	MPEG-4	4400	4401[eng]|4402[rum]|4403[cze]|4404[hun]	4400	Vadim	15-Aug-17	1356	
+12322	V	27500	EuropeBSS	TV	Eurosport 2	TV	Viaccess 5.0	No		SD	MPEG-4	4500	4501[eng]	4500	alexfloresaf38	29-May-17	1358	
+12322	V	27500	EuropeBSS	TV	Eurosport 2 Belgium	TV	Viaccess 5.0	No		SD	MPEG-4	4600	4601[eng]	4600	alexfloresaf38	29-May-17	1360	
+12341	H	30000	EuropeBSS	TV	112 Ukraine HD	TV	FTA	Yes	ZeonBud	HD	MPEG-4	6101	6102[ukr]	1	EnoSat	3-Mar-18	1364	
+12341	H	30000	EuropeBSS	TV	34 Telekanal	TV	FTA	Yes	ZeonBud	SD	MPEG-4	6201	6202[ukr]	2	Vadim	13-Dec-18	1366	
+12341	H	30000	EuropeBSS	TV	Pryamiy	TV	FTA	Yes	ZeonBud	HD	MPEG-4	4101	4102[ukr]	41	Vadim	13-Dec-18	1368	
+12341	H	30000	EuropeBSS	TV	UA: Kultura	TV	FTA	Yes	ZeonBud	SD	MPEG-4	4201	4202|4202[ukr]	42	Vadim	12-Dec-18	1370	
+12341	H	30000	EuropeBSS	TV	Rada	TV	FTA	Yes	ZeonBud	SD	MPEG-4	4301	4302|4302[ukr]	43	Vadim	12-Dec-18	1372	
+12341	H	30000	EuropeBSS	TV	Ukraina 24 test card	TV	Irdeto 2	No	ZeonBud	SD	MPEG-4	4401	4402[ukr]	44	Tanea	2-Dec-19	1374	
+12341	H	30000	EuropeBSS	TV	test card	TV	FTA	Yes	ZeonBud	SD	MPEG-4	5401	5402[zxx]	800	EnoSat	3-Mar-18	1376	
+12341	H	30000	EuropeBSS	TV	Mega	TV	FTA	Yes	ZeonBud	SD	MPEG-4	3101	3102|3102[ukr]	31	EnoSat	3-Mar-18	1380	
+12341	H	30000	EuropeBSS	TV	Pixel	TV	FTA	Yes	ZeonBud	SD	MPEG-4	3201	3202|3202[ukr]	32	EnoSat	3-Mar-18	1382	
+12341	H	30000	EuropeBSS	TV	XSport	TV	FTA	Yes	ZeonBud	SD	MPEG-4	3301	3302|3302[ukr]	33	EnoSat	3-Mar-18	1384	
+12341	H	30000	EuropeBSS	TV	NLO TV	TV	FTA	Yes	ZeonBud	SD	MPEG-4	3401	3402[ukr]	34	EnoSat	3-Mar-18	1386	
+12341	H	30000	EuropeBSS	TV	2+2	TV	FTA	Yes	ZeonBud	SD	MPEG-4	3501	3502|3502[ukr]	35	EnoSat	3-Mar-18	1388	
+12341	H	30000	EuropeBSS	TV	ZIK	TV	FTA	Yes	ZeonBud	SD	MPEG-4	3601	3602[ukr]	36	EnoSat	3-Mar-18	1390	
+12341	H	30000	EuropeBSS	TV	Espreso TV	TV	FTA	Yes	ZeonBud	SD	MPEG-4	3701	3702[ukr]	37	EnoSat	3-Mar-18	1392	
+12341	H	30000	EuropeBSS	IMG	test card	TV	FTA	Yes	ZeonBud	SD	MPEG-4	3801		38	EnoSat	3-Mar-18	1394	
+12341	H	30000	EuropeBSS	DATA	T2MI_pid_4096	@	FTA	Yes			Other	0		0	EnoSat	3-Mar-18	1396	
+12342	H	27500	SSA	DATA	StarSat	TV	Videoguard	No		SD	MPEG-4	0		0	Tanea	11-Nov-16	1400	
+12360	V	27500	EuropeBSS	TV	HGTV Pan Regional HD	TV	PowerVu	No		HD	MPEG-4	300	301[eng]	300	Tanea	12-Dec-19	1404	
+12360	V	27500	EuropeBSS	TV	Discovery Turbo Xtra Poland	TV	PowerVu	No	Discovery Europe	SD	MPEG-4	600	601|601[pol]|602[000]|603[pol]|604[pol]	600	Vadim	16-Aug-17	1406	
+12360	V	27500	EuropeBSS	TV	Discovery Channel Bulgaria	TV	PowerVu	No	Discovery Europe	SD	MPEG-4	700	701|701[bul]|702[eng]	700	Vadim	16-Aug-17	1408	
+12360	V	27500	EuropeBSS	TV	TLC Balkans	TV	PowerVu	No	Discovery Europe	SD	MPEG-4	800	801|801[eng]|802[eng]	800	Vadim	16-Aug-17	1410	
+12360	V	27500	EuropeBSS	TV	TLC Hungary	TV	PowerVu	No	Discovery Europe	SD	MPEG-4	1000	1001[hun]|1002[eng]|1003[cze]	1000	Vadim	16-Aug-17	1412	
+12360	V	27500	EuropeBSS	TV	Investigation Discovery Sverige	TV	PowerVu	No	Discovery Europe	SD	MPEG-4	1600	1601[swe]	1600	Vadim	16-Aug-17	1414	
+12360	V	27500	EuropeBSS	TV	Animal Planet Poland HD	TV	PowerVu	No	Discovery Europe	HD	MPEG-4	1700	1701[pol]|1702[eng]	1700	Vadim	16-Aug-17	1416	
+12360	V	27500	EuropeBSS	TV	Discovery Science Poland HD	TV	PowerVu	No	Discovery Europe	HD	MPEG-4	1800	1801[pol]|1802[eng]|1803[pol]	1800	Vadim	17-Aug-17	1418	
+12360	V	27500	EuropeBSS	TV	Investigation Discovery Poland	TV	PowerVu	No	Discovery Europe	SD	MPEG-4	2100	2102[eng]|2101[pol]	2100	Vadim	17-Aug-17	1420	
+12360	V	27500	EuropeBSS	TV	Discovery Channel Sweden	TV	PowerVu	No	Discovery Europe	SD	MPEG-4	2200	2201[swe]|2202[eng]	2200	Vadim	17-Aug-17	1422	
+12360	V	27500	EuropeBSS	TV	TLC Poland HD	TV	PowerVu	No	Discovery Europe	HD	MPEG-4	3100	3101[pol]|3102[eng]	3100	Vadim	17-Aug-17	1424	
+12360	V	27500	EuropeBSS	TV	TLC Pan Regional	TV	PowerVu	No	Discovery Europe	SD	MPEG-4	3300	3301|3301[eng]|3302[hun]|3303[rus]|3304[cze]|3306[por]	3300	Vadim	17-Aug-17	1426	
+12360	V	27500	EuropeBSS	TV	Eurosport 2 PAN HD	TV	Viaccess 5.0	No	Discovery Europe	HD	MPEG-4	4700	4701[gre]|4702[rus]|4703[por]|4704[tur]|4705[srp]|4707[ita]|4708[eng]|4709[spa]|4710[cze]	4700	Vadim	17-Aug-17	1428	
+12380	H	27500	EuropeBSS	TV	TVGE Internacional	TV	FTA	Yes		SD	MPEG-2	201	202[spa]	200	Vadim	10-Aug-17	1432	
+12380	H	27500	EuropeBSS	TV	ATG Live	TV	Compel	No		SD	MPEG-2	4130	4131[swe]|4132[eng]|4135[eng]	210	Vadim	10-Aug-17	1434	
+12380	H	27500	EuropeBSS	TV	RTVi Europe	TV	Viaccess	No		SD	MPEG-2	221	222[rus]	220	Tanea	20-Apr-19	1436	
+12380	H	27500	EuropeBSS	TV	LTV World	TV	FTA	Yes		SD	MPEG-2	241	242[lit]	240	Vadim	10-Aug-17	1438	
+12380	H	27500	EuropeBSS	TV	Kanal 75 International	TV	Compel	No		SD	MPEG-2	4141	4142[eng]|4143[ger]|4144[pol]	260	Vadim	10-Aug-17	1440	
+12380	H	27500	EuropeBSS	TV	TBN Ukraine	TV	FTA	Yes		SD	MPEG-2	271	272[ukr]	270	Tanea	26-Mar-19	1442	
+12380	H	27500	EuropeBSS	TV	DW Deutsch	TV	FTA	Yes		SD	MPEG-2	291	292[ger]	290	Vadim	8-Aug-17	1444	
+12380	H	27500	EuropeBSS	R	Eurapeiskae Radie dlja Belarus	R	FTA	Yes				0	231[bel]	230	dreambox	18-Jun-09	1446	
+12381	H	27500	SSA	DATA	StarSat	TV	FTA	Yes		SD	MPEG-4	0		0	Tanea	11-Nov-16	1450	
+12399	V	27500	EuropeBSS	TV	Inter info card	TV	FTA	Yes		SD	MPEG-2	7311	0[ukr]	7310	Tanea	29-Jan-20	1454	
+12399	V	27500	EuropeBSS	TV	Black Sea TV	TV	FTA	Yes		SD	MPEG-2	7316	7317[ukr]	7315	Tanea	26-Feb-15	1456	
+12399	V	27500	EuropeBSS	TV	NTN info card	TV	FTA	Yes		SD	MPEG-2	7311	0[ukr]	7320	Tanea	29-Jan-20	1458	
+12399	V	27500	EuropeBSS	TV	Svarozhichi	TV	FTA	Yes		SD	MPEG-2	7331	7332[ukr]	7330	Vadim	13-Dec-18	1460	
+12399	V	27500	EuropeBSS	TV	Mega info card	TV	FTA	Yes		SD	MPEG-2	7311	0[ukr]	7340	Tanea	29-Jan-20	1462	
+12399	V	27500	EuropeBSS	TV	K1 info card	TV	FTA	Yes		SD	MPEG-2	7311	0[ukr]	7350	Tanea	29-Jan-20	1464	
+12399	V	27500	EuropeBSS	TV	K2 info card	TV	FTA	Yes		SD	MPEG-2	7311	0[ukr]	7355	Tanea	29-Jan-20	1466	
+12399	V	27500	EuropeBSS	TV	Zoom info card	TV	FTA	Yes		SD	MPEG-2	7311	0[ukr]	7360	Tanea	29-Jan-20	1468	
+12399	V	27500	EuropeBSS	TV	Pixel info card	TV	FTA	Yes		SD	MPEG-2	7311	0[ukr]	7365	Tanea	29-Jan-20	1470	
+12399	V	27500	EuropeBSS	TV	Enter Film info card	TV	FTA	Yes		SD	MPEG-2	7311	0[ukr]	7370	Tanea	29-Jan-20	1472	
+12399	V	27500	EuropeBSS	TV	Inter+ info card	TV	FTA	Yes		SD	MPEG-4	7311	0[ukr]	7390	Tanea	29-Jan-20	1474	
+12418	H	27500	EuropeBSS	TV	Betfred SIS - Cisco 1	TV	PowerVu	No		SD	MPEG-2	100	110[eng]	11	Vadim	17-Aug-17	1478	
+12418	H	27500	EuropeBSS	TV	SIS Racing Service William Hill	TV	PowerVu	No		SD	MPEG-2	600	610[eng]	53	Vadim	17-Aug-17	1480	
+12418	H	27500	EuropeBSS	TV	SIS Euro Racing	TV	PowerVu	No		SD	MPEG-2	200	210[eng]	90	ade3661	22-Dec-16	1482	
+12418	H	27500	EuropeBSS	TV	Racing TVi promo	TV	PowerVu	No		SD	MPEG-2	700	710[eng]	95	Tanea	9-Nov-18	1484	
+12418	H	27500	EuropeBSS	TV	Betfred Tog - Cisco 3	TV	PowerVu	No		SD	MPEG-2	300	310[eng]	160	Vadim	18-Aug-17	1486	
+12418	H	27500	EuropeBSS	TV	Betfred TTV - Cisco 4	TV	PowerVu	No		SD	MPEG-2	400	410[eng]	162	Vadim	18-Aug-17	1488	
+12418	H	27500	EuropeBSS	TV	Betfred Virtual - Cisco 5	TV	PowerVu	No		SD	MPEG-2	500	510[eng]	163	Vadim	18-Aug-17	1490	
+12418	H	27500	EuropeBSS	TV	MCUK Test	TV	PowerVu	No		SD	MPEG-2	900	910[eng]|912[eng]	200	Vadim	18-Aug-17	1492	
+12419	H	27500	SSA	DATA	StarSat	TV	FTA	Yes		SD	MPEG-4	0		0	Tanea	11-Nov-16	1496	
+12437	V	30000	EuropeBSS	TV	Inter	TV	FTA	Yes		SD	MPEG-2	7101	7102[ukr]	7910	Tanea	12-Dec-19	1500	
+12437	V	30000	EuropeBSS	TV	NTN	TV	FTA	Yes		SD	MPEG-2	7121	7122[ukr]	7912	Tanea	12-Dec-19	1502	
+12437	V	30000	EuropeBSS	TV	Mega	TV	FTA	Yes		SD	MPEG-2	7141	7142[ukr]	7914	Tanea	12-Dec-19	1504	
+12437	V	30000	EuropeBSS	TV	K1	TV	FTA	Yes		SD	MPEG-2	7161	7162[ukr]	7916	Tanea	12-Dec-19	1506	
+12437	V	30000	EuropeBSS	TV	K2	TV	FTA	Yes		SD	MPEG-2	7181	7182[ukr]	7918	Tanea	12-Dec-19	1508	
+12437	V	30000	EuropeBSS	TV	Zoom	TV	FTA	Yes		SD	MPEG-2	7201	7202[ukr]	7920	Tanea	12-Dec-19	1510	
+12437	V	30000	EuropeBSS	TV	Pixel	TV	FTA	Yes		SD	MPEG-2	7221	7222[ukr]	7922	Tanea	12-Dec-19	1512	
+12437	V	30000	EuropeBSS	TV	Enter Film	TV	FTA	Yes		SD	MPEG-2	7241	7242[ukr]	7924	Tanea	12-Dec-19	1514	
+12437	V	30000	EuropeBSS	TV	Inter+	TV	BISS	No		SD	MPEG-4	7261	7262[ukr]	7926	Tanea	12-Dec-19	1516	
+12456	H	27000	EuropeBSS	DATA	AOL	@	FTA	Yes				0		0	Vadim	21-Aug-17	1520	
+12476	V	27500	NordicBSS	R	Bandit Rock 106.3	R	Videoguard	No	Viasat			0	4691[swe]	4690	Vadim	8-Nov-16	1524	
+12476	V	27500	NordicBSS	R	Rix FM	R	Videoguard	No	Viasat			0	4693[swe]	4692	dreambox	18-Jun-09	1526	
+12476	V	27500	NordicBSS	R	P4	R	Videoguard	No	Viasat			0	4695[nor]	4694	Vadim	8-Nov-16	1528	
+12476	V	27500	NordicBSS	R	Lugna Favoriter	R	Videoguard	No	Viasat			0	4697[swe]	4696	dreambox	18-Jun-09	1530	
+12512	H	3500	NordicFSS	DATA	feed	F	FTA	Yes				0		0	Vadim	23-Aug-17	1534	
+12582	H	1608	NordicFSS	TV	EURO 90	TV	FTA	Yes		SD	MPEG-2	1608	53[eng]	1	ttalex	22-Feb-19	1538	
+12602	V	6111	NordicFSS	DATA	feeds	F	FTA	Yes				0		0	dreambox	18-Jun-09	1542	
+12608	H	27500	EuropeFSS	TV	TV 1000 Ru Kino FSS	TV	Videoguard	No	Viasat	SD	MPEG-2	1911	1912[rus]	1910	Vadim	10-Feb-18	1546	
+12608	H	27500	EuropeFSS	TV	TV1000 East FSS	TV	Videoguard	No	Viasat	SD	MPEG-2	1921	1922[rus]|1923[eng]	1920	alexfloresaf38	10-Feb-18	1548	
+12608	H	27500	EuropeFSS	TV	TV1000 Action East FSS	TV	Videoguard	No	Viasat	SD	MPEG-2	1951	1952[rus]|1953[eng]	1950	Vadim	3-Jan-20	1550	
+12608	H	27500	EuropeFSS	TV	Viasat Nature East FSS	TV	Videoguard	No	Viasat	SD	MPEG-2	1961	1962[rus]|1966[hun]|1965[eng]|1964[cze]	1960	alexfloresaf38	3-Jan-20	1552	
+12608	H	27500	EuropeFSS	TV	Viasat Nature/History HD	TV	Videoguard	No	Viasat	HD	MPEG-4	1971	1972[eng]|1973[rus]|1974[pol]|1975[hun]|1976[cze]|1977[tur]	1970	Vadim	10-Feb-18	1554	
+12608	H	27500	EuropeFSS	TV	Viasat Feed	F	Videoguard	No	Viasat	SD	MPEG-2	1901	1902[rus]|1903[eng]	1900	Frocus	23-May-13	1556	
+12611	V	1000	NordicFSS	DATA	Data	@	FTA	Yes				0		0	Vadim	21-Aug-17	1560	
+12616	V	2230	NordicFSS	DATA	Data	@	FTA	Yes				0		0	Vadim	21-Aug-17	1564	
+12630	V	12295	NordicFSS	DATA	Data	@	FTA	Yes				0		0	Vadim	21-Aug-17	1568	
+12637	H	14470	EuropeFSS	TV	Explore (FSS)	TV	Videoguard	No	Viasat	SD	MPEG-2	6051	6053[tur]|6052[rus]|6056[hun]|6054[eng]|6055[cze]|6057[bul]	6410	alexfloresaf38	3-Jan-20	1572	
+12637	H	14470	EuropeFSS	TV	TV1000 Balkan FSS	TV	Videoguard	No	Viasat	SD	MPEG-2	6421	6422[eng]	6420	Vadim	10-Feb-18	1574	
+12637	H	14470	EuropeFSS	TV	TV1000 Russian Kino	TV	Videoguard	No	Viasat	SD	MPEG-2	6441	6442[rus]	6440	Vadim	10-Feb-18	1576	
+12637	H	14470	EuropeFSS	TV	Viasat History (FSS)	TV	Videoguard	No	Viasat	SD	MPEG-2	6491	6492[rus]|6495[hun]|6494[eng]|6496[cze]	6490	alexfloresaf38	10-Feb-18	1578	
+12642	V	1350	NordicFSS	DATA	Data	@	FTA	Yes				0		0	Vadim	21-Aug-17	1582	
+12645	V	30000	Africa	TV	1960 Bet Virtual Football League	TV	FTA	Yes		SD	MPEG-4	7291	7.92|7.92[eng]	0	Tanea	22-Apr-19	1586	
+12645	V	30000	Africa	TV	1960 Bet Dog Racing	TV	FTA	Yes		SD	MPEG-4	7301	7302|7302[eng]	0	Tanea	22-Apr-19	1588	
+12645	V	30000	Africa	TV	1960 Bet Racing	LyngSat Free TV	TV	FTA	Yes		SD	MPEG-4	7311	7312|7312[eng]	0	Tanea	22-Apr-19	1590	
+12645	V	30000	Africa	TV	1960 Bet Keno	TV	FTA	Yes		SD	MPEG-4	7321	7322|7322[eng]	0	Tanea	22-Apr-19	1592	
+12645	V	30000	Africa	TV	Gibet EPL	TV	FTA	Yes		SD	MPEG-4	7501	7502|7502[eng]	0	Tanea	22-Apr-19	1594	
+12645	V	30000	Africa	TV	Gibet Dog Racing	TV	FTA	Yes		SD	MPEG-4	7511	7512|7512[eng]	0	Tanea	22-Apr-19	1596	
+12645	V	30000	Africa	TV	Gibet Keno	LyngSat Free	TV	FTA	Yes		SD	MPEG-4	7521	7522|7522[eng]	0	Tanea	22-Apr-19	1598	
+12645	V	30000	Africa	TV	Gibet La Liga	TV	FTA	Yes		SD	MPEG-4	7531	7532|7532[eng]	0	Tanea	22-Apr-19	1600	
+12645	V	30000	Africa	TV	Gibet Bingo	TV	FTA	Yes		SD	MPEG-4	7541	7542|7542[eng]	0	Tanea	22-Apr-19	1602	
+12645	V	30000	Africa	TV	Bet 9JA	TV	FTA	Yes		SD	MPEG-4	7611	7612[eng]	0	Tanea	22-Apr-19	1604	
+12645	V	30000	Africa	TV	Bet 9JA Racing	TV	FTA	Yes		SD	MPEG-4	7621	7622|7622[eng]	0	Tanea	22-Apr-19	1606	
+12645	V	30000	Africa	TV	Bet 9JA Gamble	TV	FTA	Yes		SD	MPEG-4	7631	7632|7632[eng]	0	Tanea	22-Apr-19	1608	
+12645	V	30000	Africa	TV	Surebet 247 Num Games	TV	FTA	Yes		SD	MPEG-4	7681	7682|7682[eng]	0	Tanea	22-Apr-19	1610	
+12645	V	30000	Africa	TV	Surebet 247 Horse Racing	TV	FTA	Yes		SD	MPEG-4	7691	7692|7692[eng]	0	Tanea	22-Apr-19	1612	
+12645	V	30000	Africa	R	Surebet 247 Dog Racing	TV	FTA	Yes		SD	MPEG-4	0	7702|7702[eng]	7701	Tanea	22-Apr-19	1614	
+12645	V	256	EuropeFSS	R	Radio NRJ (Finland)	R	FTA	Yes				0	64[fin]	161	Vadim	8-Aug-17	1618	
+12699	H	12934	EuropeFSS	R	Radio Beograd 1	R	FTA	Yes	RTS			0	1102[srp]	110	Vadim	8-Aug-17	1622	
+12699	H	12934	EuropeFSS	R	Radio Beograd 2	R	FTA	Yes				0	1112[srp]	111	alexfloresaf38	10-Feb-18	1624	
+12699	H	12934	EuropeFSS	R	Radio 202	R	FTA	Yes				0	1122[srp]	112	alexfloresaf38	10-Feb-18	1626	
+12734	H	3333	EuropeFSS	TV	Jurnal TV Moldova	TV	FTA	Yes		SD	MPEG-4	101	102[rum]	1	Vadim	7-Aug-17	1630	
+12734	H	3333	EuropeFSS	R	Jurnal FM	R	FTA	Yes				0	302[rum]	3	Vadim	7-Aug-17	1632	
+12734	H	3333	EuropeFSS	R	Radio Micul Samaritean Moldova	R	FTA	Yes				0	502[rum]	5	Vadim	7-Aug-17	1634	

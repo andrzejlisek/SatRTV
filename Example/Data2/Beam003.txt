@@ -1,0 +1,8 @@
+Europe BSS
+Europe FSS
+Europe Interconnect
+Hemi
+Nordic
+Nordic BSS
+Nordic FSS
+Sub Saharan Africa

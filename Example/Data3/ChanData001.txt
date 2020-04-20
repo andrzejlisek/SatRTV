@@ -1,344 +1,93 @@
 Freq	Pol	SR	Beam	Type	Channel Name	FTA	V.PID	A.PID	SID	Row
-10762	H	30000 3/5	E16A Europe B	TV	Top News	Yes	1711	1712[Alb]	902	1
-10762	H	30000 3/5	E16A Europe B	TV	BCTV Europe	Yes	1301	1302[Alb]	1300	1
-10762	H	30000 3/5	E16A Europe B	R	-R- Top Albania Radio	No		5001[Alb]	920	1
-10762	H	30000 3/5	E16A Europe B	R	-R- Top Gold	No		1713[Alb]	1510	1
-10762	H	30000 3/5	E16A Europe B	R	-R- Top Gold	No		1024[Alb]		1
-10804	H	29950 2/3	E16A Europe B	TV	Euronews Albania HD	Yes	2001	2002[Alb]	2000	7
-10804	H	29950 2/3	E16A Europe B	R	-R- My Music Radio	No		2243[Alb]	921	7
-10804	H	29950 2/3	E16A Europe B	R	-R- NRG Radio	No		2764	2411	7
-10804	H	29950 2/3	E16A Europe B	R	-R- Radio	No		5001[Alb]	NO-SID	7
-10804	H	30000 3/4	E16A Africa	TV	Vision 4	Yes	1011	1012[Fre]	101	12
-10804	H	30000 3/4	E16A Africa	TV	2S TV	Yes	1021	1022[Fre]	102	12
-10804	H	30000 3/4	E16A Africa	TV	Alwilayah TV Hausa	Yes	1031	1032[Hau]	103	12
-10804	H	30000 3/4	E16A Africa	TV	CRTV	Yes	1041	1042[Fre]	104	12
-10804	H	30000 3/4	E16A Africa	TV	Hadi TV 5	Yes	1051	1052[Hau]	105	12
-10804	H	30000 3/4	E16A Africa	TV	Emirem TV (Eglise Missionnaire du Réveil Mondial)	Yes	1071	1072[Fre]	107	12
-10804	H	30000 3/4	E16A Africa	TV	CRTV News	Yes	1081	1082[Fre]	108	12
-10804	H	30000 3/4	E16A Africa	TV	Canal 2 English	Yes	1111	1112[Eng]	111	12
-10804	H	30000 3/4	E16A Africa	TV	Wisal Hausa TV	Yes	1121	1122[Hau]	112	12
-10804	H	30000 3/4	E16A Africa	TV	Label TV	Yes	1131	1132[Fre]	113	12
-10804	H	30000 3/4	E16A Africa	TV	Christ Live	Yes	1141	1142[Fre]	114	12
-10804	H	30000 3/4	E16A Africa	TV	RTB TV	Yes	1151	1152[Fre]	115	12
-10804	H	30000 3/4	E16A Africa	TV	Vision 4 RCA	Yes	1171	1172[Fre]	117	12
-10804	H	30000 3/4	E16A Africa	TV	LMTV (Lumiere du Monde TV)	Yes	1211	1212[Fre]	121	12
-10804	H	30000 3/4	E16A Africa	TV	Arewa24	Yes	1311	1312[Hau]	131	12
-10804	H	30000 3/4	E16A Africa	TV	Burkina Info TV	Yes	1321	1322[Fre]	132	12
-10804	H	30000 3/4	E16A Africa	TV	ORTB TV Benin	Yes	2011	2012[Fre]	201	12
-10804	H	30000 3/4	E16A Africa	TV	Golfe TV International	Yes	2041	2042[Fre]	204	12
-10804	H	30000 3/4	E16A Africa	TV	France 24 Français	Yes	2051	2052[Fre]	205	12
-10804	H	30000 3/4	E16A Africa	TV	Asonga Telévision	Yes	2061	2062[Spa]	206	12
-10804	H	30000 3/4	E16A Africa	TV	Equinoxe TV	Yes	3431	3432[Fre]	343	12
-10804	H	30000 3/4	E16A Africa	TV	Canal 2 International	Yes	3451	3452[Fre]	345	12
-10804	H	30000 3/4	E16A Africa	TV	Sweet Radio Vision	Yes	3461	3462[Fre]	346	12
-10804	H	30000 3/4	E16A Africa	TV	ImpactTV	Yes	3611	3612[Fre]	361	12
-10804	H	30000 3/4	E16A Africa	TV	Boom TV	Yes	3711	3712[Fre]	371	12
-10804	H	30000 3/4	E16A Africa	TV	STV	Yes	3721	3722[Fre]	372	12
-10804	H	30000 3/4	E16A Africa	TV	Amen TV Congo-Kinshasa	Yes	4701	4702[Fre]	470	12
-10804	H	30000 3/4	E16A Africa	TV	Power TV Benin	Yes	4821	4822[Fre]	482	12
-10804	H	30000 3/4	E16A Africa	TV	Canal 2 Movies	Yes	5021	5022[Fre]	502	12
-10804	H	30000 3/4	E16A Africa	TV	UbizNews	Yes	5051	5052[Fre]	505	12
-10804	H	30000 3/4	E16A Africa	TV	New Africa TV Hausa	Yes	6011	6012[Hau]	601	12
-10804	H	30000 3/4	E16A Africa	TV	Stad'Afric	Yes	6201	6202[Fre]	620	12
-10804	H	30000 3/4	E16A Africa	TV	Voxafrica Afrique	Yes	6401	6402[Fre]	640	12
-10804	H	30000 3/4	E16A Africa	TV	Eden TV	Yes	6511	6512[Fre]	650	12
-10804	H	30000 3/4	E16A Africa	TV	TVC Benin	Yes	6701	6702[Fre]	670	12
-10804	H	30000 3/4	E16A Africa	R	-R- CRTV Radio	No		1043[Fre]	104	12
-10804	H	30000 3/4	E16A Africa	R	-R- Golfe FM	No		1062[Fre]	106	12
-10804	H	30000 3/4	E16A Africa	R	-R- 2STV Radio	No		1102[Fre]	110	12
-10804	H	30000 3/4	E16A Africa	R	-R- RTB Radio	No		1162[Fre]	116	12
-10804	H	30000 3/4	E16A Africa	R	-R- Radio Kara	No		1132[Fre]	130	12
-10804	H	30000 3/4	E16A Africa	R	-R- RFI Afrique	No		2102[Fre]	210	12
-10804	H	30000 3/4	E16A Africa	R	-R- Radio Immaculée Concepción	No		3472[Fre]	347	12
-10804	H	30000 3/4	E16A Africa	R	-R- Radio Biafra	No		3732[Fre]	373	12
-10804	H	30000 3/4	E16A Africa	R	-R- Diaspora FM	No		6612[Fre]	660	12
-10845	H	30000 3/5	E16A Europe B	TV	Ndihma e Klientit	No	320	321[Alb]	1028	57
-10928	H	30000 3/5	E16A Europe B	TV	Wness TV	Yes	1201	1202[Bul]	1102	62
-10972	V	27500 3/5	E16A Europe B	R	-R- Radio Studio B	No		3711[Srp]	1371	65
-10972	V	27500 3/5	E16A Europe B	R	-R- HIT Music FM Radio Beograd	No		3721[Srp]	1372	65
-11002	H	8332 5/6	E16A Africa	TV	Afrique Média	Yes	260	261[Fre]	1	70
-11002	H	8332 5/6	E16A Africa	TV	Hope TV Benin	Yes	113	114[Fre]	2	70
-11002	H	8332 5/6	E16A Africa	TV	Solution TV	Yes	1293	1299[Fre]	3	70
-11002	H	8332 5/6	E16A Africa	TV	Liberty TV Cameroon	Yes	123	124[Fre]	4	70
-11002	H	8332 5/6	E16A Africa	TV	LTM TV	Yes	233	234[Fre]	5	70
-11002	H	8332 5/6	E16A Africa	TV	Jesus Savior TV	Yes	3711	3712	6	70
-11002	H	8332 5/6	E16A Africa	TV	Misericorde TV	Yes	372	371[Fre]	7	70
-11002	H	8332 5/6	E16A Africa	TV	Hausa 7 TV	No	133	134[Hau]	8	70
-11002	H	8332 5/6	E16A Africa	TV	Transformers TV	Yes	129	130[Fre]	9	70
-11002	H	8332 5/6	E16A Africa	TV	Revival Channel	Yes	502	521[Fre]	11	70
-11024	H	3333 5/6	E16A Africa	R	-R- Radio Madagasikara	No		211		83
-11040	H	4166 5/6	E16A Africa	TV	Divine TV	Yes	128	141[Eng]	1	85
-11040	H	4166 5/6	E16A Africa	TV	Zoe Channel	Yes	129	145[Fre]	2	85
-11040	H	4166 5/6	E16A Africa	TV	African Movie Star	Yes	130	146[Fre]	3	85
-11040	H	4166 5/6	E16A Africa	TV	Capital Santé TV	Yes	131	147[Fre]	4	85
-11040	H	4166 5/6	E16A Africa	TV	Nour TV Gabon	Yes	113	114[Fre]	5	85
-11055	V	27500 4/5	E16A Europe B	TV	CT 24 HD	Yes	1401	1402[Cze]	1154	91
-11069.3	H	354 2/3	E16A Europe A	R	-R- Radio 10	No		201[Dut]	1010	93
-11069.3	H	354 2/3	E16A Europe A	R	-R- Radio 538	No		101[Dut]	5380	93
-11069.8	H	376 3/5	E16A Europe A	R	-R- Sky Radio (Netherlands)	No		161[Dut]		96
-11069.8	H	376 3/5	E16A Europe A	R	-R- Radio Veronica	No		162[Dut]		96
-11070.2	H	274 1/2	E16A Europe A	R	-R- Slam! FM	No		64[Dut]	17168	99
-11070.6	H	274 1/2	E16A Europe A	R	-R- 100% NL	No		64[Dut]	170	101
-11131	V	16593 2/3	E16A Europe B	TV	Antena 1	No	1110	1211[Rum]	1	106
-11131	V	16593 2/3	E16A Europe B	TV	Antena Stars	No	2110	2211[Rum]	2	106
-11131	V	16593 2/3	E16A Europe B	TV	Antena 3	No	3110	3211[Rum]	3	106
-11131	V	16593 2/3	E16A Europe B	TV	Happy Channel	No	4110	4221[Rom]	4	106
-11131	V	16593 2/3	E16A Europe B	TV	Zu TV	No	5120	5221[Rum]	5	106
-11131	V	16593 2/3	E16A Europe B	TV	Antena International	No	6120	6221[Rum]|6223[Rum]	6	106
-11131	V	16593 2/3	E16A Europe B	TV	Antena HD	No	7120	7221[Rum]	7	106
-11131	V	16593 2/3	E16A Europe B	R	-R- Radio ZU	No		1213[Rum]	55	106
-11131	V	16593 2/3	E16A Europe B	R	-R- Romantic FM	No		3213[Rum]	56	106
-11139	H	30000 3/5	E16A Europe B	TV	T7 (Televizioni T7)	No	73	74[Alb]	4721	116
-11139	H	30000 3/5	E16A Europe B	TV	Top Channel	Yes	101	102[Alb]	5000	116
-11139	H	30000 3/5	E16A Europe B	TV	Top News	Yes	6841	6844[Alb]	5010	116
-11151	V	14375 3/5	E16A Europe B	TV	Pink Thriller	No	552	652[Srp]	52	120
-11151	V	14375 3/5	E16A Europe B	TV	Pink Crime & Mystery	No	553	653[Srp]	53	120
-11151	V	14375 3/5	E16A Europe B	TV	Pink Romance	No	554	654[Srp]	54	120
-11151	V	14375 3/5	E16A Europe B	TV	Pink Sci-Fi & Fantasy	No	555	655[Srp]	55	120
-11151	V	14375 3/5	E16A Europe B	TV	Pink Reality	No	556	656[Srp]	56	120
-11151	V	14375 3/5	E16A Europe B	TV	Pink Premium	No	557	657[Srp]	57	120
-11151	V	14375 3/5	E16A Europe B	TV	Pink Soap	No	558	658[Srp]	58	120
-11151	V	14375 3/5	E16A Europe B	TV	Pink World	No	559	659[Srp]	59	120
-11151	V	14375 3/5	E16A Europe B	TV	Pink Zabava	No	560	660[Srp]	60	120
-11151	V	14375 3/5	E16A Europe B	TV	Pink Pedia	No	561	661[Srp]	61	120
-11151	V	14375 3/5	E16A Europe B	TV	Pink Hits 2	No	562	662[Srp]	62	120
-11151	V	14375 3/5	E16A Europe B	TV	Pink Koncert	No	563	663[Srp]	63	120
-11151	V	14375 3/5	E16A Europe B	TV	Pink Folk 1	Yes	564	664[Srp]	64	120
-11151	V	14375 3/5	E16A Europe B	TV	Pink Comedy	No	565	665[Srp]	65	120
-11151	V	14375 3/5	E16A Europe B	TV	Pink Horror	No	567	667[Srp]	67	120
-11151	V	14375 3/5	E16A Europe B	TV	Pink Folk 2	No	568	668[Srp]	68	120
-11178	V	30000 3/5	E16A Europe B	R	-R- Radio Pink	No		661[Srp]	3	137
-11178	V	30000 3/5	E16A Europe B	R	-R- Radio Sport FM	No		662[Srp]	13	137
-11221	H	30000 3/5	E16A Europe A	R	-R- Radio Kanal 77	No		3652[Mac]	4466	140
-11231	V	42000 4/5	E16A Europe A	R	-R- Play Radio	No		3731[Srp]	773	142
-11262	H	30000 2/3	E16A Europe B	TV	BN TV Satelitski HD	No	93	95[Srp]	4	144
-11262	H	30000 2/3	E16A Europe B	TV	BN Music HD	Yes	109	111[Srp]	5	144
-11262	H	30000 2/3	E16A Europe B	TV	RTRS (sometimes VideoGuard)	Yes	141	143[Ser]	7	144
-11262	H	30000 2/3	E16A Europe B	TV	BN TV Zemaljski HD	No	221	223[Ser]	12	144
-11262	H	30000 2/3	E16A Europe B	TV	RTRS Plus (sometimes VideoGuard)	Yes	301	303[Ser]	17	144
-11262	H	30000 2/3	E16A Europe B	R	-R- Radio Stari Grad	No		159[Bos]	8	144
-11262	H	30000 2/3	E16A Europe B	R	-R- Kalman Radio	No		175[Bos]	9	144
-11262	H	30000 2/3	E16A Europe B	R	-R- VIP Radio Serbia	No		132[Srp]	10	144
-11262	H	30000 2/3	E16A Europe B	R	-R- Radio BIR	No		207[Bos]	11	144
-11262	H	30000 2/3	E16A Europe B	R	-R- Radio BN	No		239[Srp]	13	144
-11262	H	30000 2/3	E16A Europe B	R	-R- Radio Mix	No		255[Bos]	14	144
-11262	H	30000 2/3	E16A Europe B	R	-R- Fles Radio	No		271[Srp]	15	144
-11262	H	30000 2/3	E16A Europe B	R	-R- Radio Curak	No		287[Cro]	16	144
-11262	H	30000 2/3	E16A Europe B	R	-R- Radio Republike Srpske	No		304[Srp]	18	144
-11262	H	30000 2/3	E16A Europe B	R	-R- Radio Mir Medjugorje	No		288[Hrv]	19	144
-11262	H	30000 2/3	E16A Europe B	R	-R- Radio Bobar	No		256	22	144
-11303	H	30000 2/3	E16A Europe A	TV	Al Jazeera Balkans HD	Yes	49	51[Bos]	1	163
-11303	H	30000 2/3	E16A Europe A	TV	Minimax Serbia	No	81	83[Srp]|84[Slv]	3	163
-11303	H	30000 2/3	E16A Europe A	TV	Eurochannel HD	No	97	99[Org]|100[Pol]|101[Rus]	4	163
-11303	H	30000 2/3	E16A Europe A	TV	Yu Planet Bec	Yes	129	131[Srp]	6	163
-11303	H	30000 2/3	E16A Europe A	TV	OBN Open Broadcast Network	Yes	145	147[Bos]	7	163
-11303	H	30000 2/3	E16A Europe A	TV	Aurora TV	No	161	163	8	163
-11303	H	30000 2/3	E16A Europe A	TV	Pro TV International	Yes	177	179[Rum]	9	163
-11303	H	30000 2/3	E16A Europe A	TV	Fashion TV HD Europe	Yes	273	275[Eng]	15	163
-11303	H	30000 2/3	E16A Europe A	TV	TV Duga Plus	Yes	289	291[Srp]	16	163
-11303	H	30000 2/3	E16A Europe A	TV	DM Sat HD	No	305	307[Srp]	17	163
-11303	H	30000 2/3	E16A Europe A	TV	AMC Balkan	No	321	323[Eng]	18	163
-11303	H	30000 2/3	E16A Europe A	TV	Televizija K3 Prnjavor	No	369	371[Bos]	21	163
-11303	H	30000 2/3	E16A Europe A	R	-R- Nezavisni Radio Studio 99	No		68[Bos]	2	163
-11303	H	30000 2/3	E16A Europe A	R	-R- Radio Serbia	No		415[Hrv]	24	163
-11303	H	30000 2/3	E16A Europe A	R	-R- Radio Maria Serbia (Hu)	No		431[Hun]	25	163
-11303	H	30000 2/3	E16A Europe A	R	-R- Radio Maria Romania	No		447[Rum]	26	163
-11303	H	30000 2/3	E16A Europe A	R	-R- Radio Maria Romania (Hu)	No		463[Hun]	27	163
-11303	H	30000 2/3	E16A Europe A	R	-R- Radio Maria Albania	No		479[Alb]	28	163
-11303	H	30000 2/3	E16A Europe A	R	-R- Radio Maria Bosnia Herzegovina	No		495[Bos]	29	163
-11303	H	30000 2/3	E16A Europe A	R	-R- Radio Maria Hungary	No		543[Hun]	32	163
-11345	H	30000 3/4	E16A Europe A	TV	OTV Valentino	Yes	102	103[Bos]	1001	185
-11345	H	30000 3/4	E16A Europe A	TV	K::CN Svet + 3	Yes	402	403[Srp]	1004	185
-11345	H	30000 3/4	E16A Europe A	TV	K::CN Kopernikus 1	Yes	702	703	1007	185
-11345	H	30000 3/4	E16A Europe A	TV	K::CN Music 2	Yes	1702	1703[Srp]	1017	185
-11345	H	30000 3/4	E16A Europe A	TV	feed HNL (not 24/7, only during match)	No	1802	1803[Cro]|1804[Eng]	1018	185
-11345	H	30000 3/4	E16A Europe A	TV	feed HNL HD (not 24/7, only during match)	No	1902	1903[Cro]|1904[Eng]	1019	185
-11345	H	30000 3/4	E16A Europe A	R	-R- Radio 1	No		3102[Slo]	3001	185
-11345	H	30000 3/4	E16A Europe A	R	-R- Radio Ognjisce Slovenia	No		3202[Slv]	3002	185
-11345	H	30000 3/4	E16A Europe A	R	-R- Radio Valentino	No		3402[Bos]	3004	185
-11356	H	45000 3/5	E16A Africa	TV	RTS 1	Yes	1012	1013[Fre]	3101	195
-11356	H	45000 3/5	E16A Africa	TV	Télé Tchad	Yes	1021	1022[Ara]	3102	195
-11356	H	45000 3/5	E16A Africa	TV	Equinoxe TV	Yes	1031	1032[Fre]	3103	195
-11356	H	45000 3/5	E16A Africa	TV	Alwilayah TV Hausa	Yes	1041	1042[Hau]	3104	195
-11356	H	45000 3/5	E16A Africa	TV	Divin Amour TV Cote d'Ivoire	Yes	1061	1062[Fre]	3106	195
-11356	H	45000 3/5	E16A Africa	TV	Sikka TV	Yes	1131	1132[Fre]	3113	195
-11356	H	45000 3/5	E16A Africa	TV	Nina Sat	No	1141	1142[Fre]	3114	195
-11356	H	45000 3/5	E16A Africa	R	-R- Tchad Radio	No		1052[Ara]	3105	195
-11426	V	27500 2/3	E16A Europe B	TV	Fax News	Yes	3504	3505[Alb]	128	207
-11426	V	27500 2/3	E16A Europe B	TV	Kanali 7	Yes	3010	3020[Alb]	999	207
-11426	V	27500 2/3	E16A Europe B	R	-R- Radio Klan	No		2304[Alb]	7000	207
-11471	V	30000 5/6	E16A Europe B	TV	Arena HD	No	1401	1402[Ger]	604	213
-11512	V	29950 2/3	E16A Europe B	TV	TVR 1	No	100	110[Rum]	1	217
-11512	V	29950 2/3	E16A Europe B	TV	TVR 2	No	200	210[Rum]	2	217
-11512	V	29950 2/3	E16A Europe B	TV	TVR 3	No	300	310[Rum]	3	217
-11512	V	29950 2/3	E16A Europe B	TV	TVR Moldova	No	400	410[Rum]	4	217
-11512	V	29950 2/3	E16A Europe B	TV	TVR Int	Yes	600	610[Rum]	6	217
-11512	V	29950 2/3	E16A Europe B	TV	TVR 1 HD	No	1500	1510[Rum]	15	217
-11512	V	29950 2/3	E16A Europe B	TV	TVR 2 HD	No	1700	1710[Rum]	17	217
-11512	V	29950 2/3	E16A Europe B	R	-R- Radio România Actualitati	No		2110[Rum]	21	217
-11512	V	29950 2/3	E16A Europe B	R	-R- Radio România Cultural	No		2210[Rum]	22	217
-11512	V	29950 2/3	E16A Europe B	R	-R- Radio România Muzical	No		2310[Rum]	23	217
-11512	V	29950 2/3	E16A Europe B	R	-R- Radio România Antena Satelor	No		2410[Rum]	24	217
-11512	V	29950 2/3	E16A Europe B	R	-R- Radio România International 1	No		2510[Rum]	25	217
-11512	V	29950 2/3	E16A Europe B	R	-R- Radio România International 2	No		2610[Rum]	26	217
-11512	V	29950 2/3	E16A Europe B	R	-R- Radio România International 3	No		2710[Rum]	27	217
-11595	H	30000 3/4	E16A Europe B	TV	Z1 (TV Sljeme)	Yes	2834	2610[Hrv]	103	235
-11595	H	30000 3/4	E16A Europe B	TV	TVCG Sat HD	Yes	2896	2640[Srp]	155	235
-11595	H	30000 3/4	E16A Europe B	R	-R- Radio Montenegro	No		2641[Srp]	156	235
-11595	H	30000 3/4	E16A Europe B	R	-R- Otvoreni	No		2572[Hrv]	201	235
-11595	H	30000 3/4	E16A Europe B	R	-R- Narodni Radio	No		2573[Hrv]	202	235
-11595	H	30000 3/4	E16A Europe B	R	-R- Antena Zagreb	No		2574[Hrv]	203	235
-11595	H	30000 3/4	E16A Europe B	R	-R- Radio Marija	No		2582[Hrv]	211	235
-11595	H	30000 3/4	E16A Europe B	R	-R- Gold FM	No		2583[Hrv]	212	235
-11595	H	30000 3/4	E16A Europe B	R	-R- Radio Mediaservis	No		2586[Hrv]	218	235
-11595	H	30000 3/4	E16A Europe B	R	-R- Enter ZG	No		2587[Hrv]	219	235
-11595	V	30000 5/6	E16A Europe B	TV	Fashion Television HD	No	3501	3502[Eng]	952	246
-11637	H	30000 5/6	E16A Europe B	TV	TV Bulgare	Yes	3301	3302[Bul]	1923	249
-11637	V	30000 2/3	E16A Europe A	TV	HRT 1 HD	No	111	112[Hrv]	3401	252
-11637	V	30000 2/3	E16A Europe A	TV	HRT 2 HD	No	121	122[Hrv]	3402	252
-11637	V	30000 2/3	E16A Europe A	TV	HRT 3 HD	No	131	132[Hrv]	3403	252
-11637	V	30000 2/3	E16A Europe A	TV	HRT 4 HD	Yes	141	142[Hrv]	3404	252
-11637	V	30000 2/3	E16A Europe A	TV	HRT Int	Yes	151	152[Hrv]	3405	252
-11637	V	30000 2/3	E16A Europe A	TV	TV Slovenija 1 HD (sometimes encrypted)	Yes	411	412[Slv]	3431	252
-11637	V	30000 2/3	E16A Europe A	TV	TV Slovenija 2 HD (sometimes encrypted)	Yes	421	422[Slv]	3432	252
-11637	V	30000 2/3	E16A Europe A	TV	TV Slovenija 3 HD (sometimes encrypted)	Yes	431	432[Slv]	3433	252
-11637	V	30000 2/3	E16A Europe A	R	-R- HR 1	No		212[Hrv]	3411	252
-11637	V	30000 2/3	E16A Europe A	R	-R- HR 2	No		222[Hrv]	3412	252
-11637	V	30000 2/3	E16A Europe A	R	-R- HR 3	No		232[Hrv]	3413	252
-11637	V	30000 2/3	E16A Europe A	R	-R- Voice of Croatia	No		242[Hrv]	3414	252
-11637	V	30000 2/3	E16A Europe A	R	-R- Hrvatski Katolicki Radio	No		262[Hrv]	3416	252
-11637	V	30000 2/3	E16A Europe A	R	-R- Ra Slo 1	No		452[Slv]	3434	252
-11637	V	30000 2/3	E16A Europe A	R	-R- Val 202	No		462[Slv]	3435	252
-11637	V	30000 2/3	E16A Europe A	R	-R- Ra Slo 3	No		472[Slv]	3436	252
-11637	V	30000 2/3	E16A Europe A	R	-R- Radio Slovenija International	No		492[Slv]	3437	252
-11678	H	30000 3/4	E16A Europe B	TV	SPTV (Sportska Televizija)	No	32	33[Hrv]	85	270
-11678	H	30000 3/4	E16A Europe B	TV	Nova 24 TV	Yes	2822	2566[Slv]	87	270
-11678	H	30000 3/4	E16A Europe B	TV	Posavina TV	Yes	2817	2561[Bos]	132	270
-11678	H	30000 3/4	E16A Europe B	TV	Laudato TV	Yes	2840	2584[Hrv]	215	270
-12543	V	19970 3/4	E16A Europe B	TV	KTV Kohavision HD	No	257	258[Alb]	1	278
-12543	V	19970 3/4	E16A Europe B	TV	Klan Kosova HD	No	300	301[Alb]	2	278
-12543	V	19970 3/4	E16A Europe B	TV	TV Dukagjini HD	No	900	901[Alb]	4	278
-12543	V	19970 3/4	E16A Europe B	TV	FirstChannel	No	920	921[Alb]	6	278
-12543	V	19970 3/4	E16A Europe B	TV	Arta	No	700	701[Alb]	7	278
-12543	V	19970 3/4	E16A Europe B	TV	T7	No	611	631[Alb]	8	278
-12543	V	19970 3/4	E16A Europe B	TV	Zico TV	Yes	930	931[Alb]	9	278
-12543	V	19970 3/4	E16A Europe B	TV	RTV 21 Macedonia (TV21 Maqedoni)	Yes	513	514[Alb]	10	278
-12543	V	19970 3/4	E16A Europe B	R	-R- Radio 21	No		771[Alb]	11	278
-12543	V	19970 3/4	E16A Europe B	R	-R- Radio Dukagjini	No		259[Alb]	12	278
-12562	H	30000 2/3	E16A Africa	TV	TFM Senegal	Yes	2012	2013[Fre]	201	289
-12562	H	30000 2/3	E16A Africa	TV	L'Obs TV	Yes	2022	2023[Fre]	202	289
-12562	H	30000 2/3	E16A Africa	TV	TFM Religions	Yes	2032	2033[Fre]	203	289
-12562	H	30000 2/3	E16A Africa	TV	New World Sport 1	Yes	2051	2052[Fre]	205	289
-12562	H	30000 2/3	E16A Africa	TV	TVT	Yes	2061	2062[Fre]	206	289
-12562	H	30000 2/3	E16A Africa	TV	New World Info Fr	Yes	2071	2072[Fre]	207	289
-12562	H	30000 2/3	E16A Africa	TV	New World Cinema	Yes	2081	2082[Fre]	208	289
-12562	H	30000 2/3	E16A Africa	TV	Info TV Cameroun	Yes	2111	2112[Fre]	211	289
-12562	H	30000 2/3	E16A Africa	TV	DBS TV	Yes	2121	2122[Fre]	212	289
-12562	H	30000 2/3	E16A Africa	TV	LoveWorld Plus	Yes	2131	2132[Eng]	213	289
-12562	H	30000 2/3	E16A Africa	TV	Dieu TV	Yes	2141	2142[Fre]	214	289
-12562	H	30000 2/3	E16A Africa	TV	BFI TV	Yes	2161	2162[Fre]	216	289
-12562	H	30000 2/3	E16A Africa	TV	Cash Chrono	Yes	2171	2172[Fre]	217	289
-12562	H	30000 2/3	E16A Africa	TV	New World Magazine	Yes	2191	2192[Fre]	219	289
-12562	H	30000 2/3	E16A Africa	TV	Unafrica TV	Yes	2201	2202[Fre]	220	289
-12562	H	30000 2/3	E16A Africa	TV	La Beninoise TV	Yes	2211	2212	221	289
-12562	H	30000 2/3	E16A Africa	TV	La Chreteinne TV	Yes	2221	2222[Fre]	222	289
-12562	H	30000 2/3	E16A Africa	TV	QTV Gambia	Yes	2231	2232[Fre]	223	289
-12562	H	30000 2/3	E16A Africa	TV	BB24 (Bénin Business 24)	Yes	2281	2282[Fre]	228	289
-12562	H	30000 2/3	E16A Africa	TV	BFM Paris	Yes	2301	2302[Fre]	230	289
-12562	H	30000 2/3	E16A Africa	TV	BFM Business	Yes	2311	2312[Fre]	231	289
-12562	H	30000 2/3	E16A Africa	TV	Kombat Sport	Yes	2321	2322[Fre]	232	289
-12562	H	30000 2/3	E16A Africa	TV	SFR Sport 4	Yes	2331	2332[Fre]	233	289
-12562	H	30000 2/3	E16A Africa	TV	BFM TV	Yes	2341	2342[Fre]	234	289
-12562	H	30000 2/3	E16A Africa	TV	SMTV	Yes	2361	2362[Eng]	236	289
-12562	H	30000 2/3	E16A Africa	TV	New World Info En	Yes	2371	2372[Eng]	237	289
-12562	H	30000 2/3	E16A Africa	TV	A12 TV	Yes	2381	2382[Fre]	238	289
-12562	H	30000 2/3	E16A Africa	TV	New World Transnat	Yes	2391	2392	239	289
-12562	H	30000 2/3	E16A Africa	TV	New World Muzik	Yes	2401	2402	240	289
-12562	H	30000 2/3	E16A Africa	TV	New World Sport 2	Yes	2411	2412	241	289
-12562	H	30000 2/3	E16A Africa	TV	Jesus Christ TV	No	2421	2422[Fre]	242	289
-12562	H	30000 2/3	E16A Africa	TV	EMCI TV	Yes	2431	2432[Fre]	243	289
-12562	H	30000 2/3	E16A Africa	TV	Miracle TV Ivory Coast	Yes	2441	2442[Fre]	244	289
-12562	H	30000 2/3	E16A Africa	TV	Distinction TV	Yes	2451	2452[Fre]	245	289
-12562	H	30000 2/3	E16A Africa	TV	Chandelier TV	Yes	2461	2462[Fre]	246	289
-12562	H	30000 2/3	E16A Africa	TV	TNC	No	2471	2472[Fre]	247	289
-12562	H	30000 2/3	E16A Africa	TV	Casarhema TV	Yes	3641	3642[Fre]	250	289
-12562	H	30000 2/3	E16A Africa	R	-R- RFM Senegal	No		2043[Fre]	204	289
-12562	H	30000 2/3	E16A Africa	R	-R- Radio Kara	No		2092[Fre]	209	289
-12562	H	30000 2/3	E16A Africa	R	-R- Radio Lomé	No		2102[Fre]	210	289
-12604	H	30000 2/3	E16A Africa	TV	TV-Sat Africa promo	No	411	412[Fre]	31	333
-12604	H	30000 2/3	E16A Africa	R	-R- RTL	No		442[Fre]	34	333
-12604	H	30000 2/3	E16A Africa	R	-R- RFM	No		452[Fre]	35	333
-12604	H	30000 2/3	E16A Africa	R	-R- Virgin Radio	No		462[Fre]	36	333
-12604	H	30000 2/3	E16A Africa	R	-R- SkyRock	No		472[Fre]	37	333
-12604	H	30000 2/3	E16A Africa	R	-R- France Inter	No		482[Fre]	38	333
-12604	H	30000 2/3	E16A Africa	R	-R- A+	No		492[Fre]	39	333
-12604	H	30000 2/3	E16A Africa	R	-R- Fun Radio	No		502[Fre]	40	333
-12604	H	30000 2/3	E16A Africa	R	-R- RMC	No		512[Fre]	41	333
-12604	H	30000 2/3	E16A Africa	R	-R- Europe 1	No		522[Fre]	42	333
-12605	H	30000 3/4	E16A Europe B	TV	Orange Info	No	3001	3002[Slo]	4520	344
-12639	H	10833 3/5	E16A Europe B	TV	RTSH Sat HD	Yes	111	112[Alb]	110	347
-12639	H	10833 3/5	E16A Europe B	TV	RTSH 3	Yes	121	122[Alb]	120	347
-12639	H	10833 3/5	E16A Europe B	TV	RTSH Plus	Yes	131	132[Alb]	130	347
-12639	H	10833 3/5	E16A Europe B	TV	RTSH 24 HD	Yes	141	142[Alb]	140	347
-12639	H	10833 3/5	E16A Europe B	TV	RTSH Shqip	Yes	151	152[Alb]	150	347
-12639	H	10833 3/5	E16A Europe B	TV	RTSH Muzike	Yes	161	162[Alb]	160	347
-12639	H	10833 3/5	E16A Europe B	R	-R- Radio Tirana 1	No		172[Alb]	170	347
-12639	H	10833 3/5	E16A Europe B	R	-R- Radio Tirana 2	No		182[Alb]	180	347
-12639	H	10833 3/5	E16A Europe B	R	-R- Radio Tirana International	No		192[Eng]	190	347
-12639	H	10833 3/5	E16A Europe B	R	-R- Radio Tirana Klasik	No		202[Eng]	200	347
-12639	H	10833 3/5	E16A Europe B	R	-R- Tirana Jazz Radio	No		222[Eng]	220	347
-12643	V	27500 2/3	E16A Europe B	TV	Digi 24	Yes	1100	1110[Rum]	11	359
-12643	V	27500 2/3	E16A Europe B	TV	Etno TV	Yes	1200	1210[Rum]	12	359
-12643	V	27500 2/3	E16A Europe B	TV	TVR Cluj	Yes	2100	2110[Rum]	21	359
-12643	V	27500 2/3	E16A Europe B	TV	TVR Craiova	Yes	2200	2210[Rum]	22	359
-12643	V	27500 2/3	E16A Europe B	TV	TVR Iasi	Yes	2300	2310[Rum]	23	359
-12643	V	27500 2/3	E16A Europe B	TV	TVR Timisoara	Yes	2400	2410[Rum]	24	359
-12643	V	27500 2/3	E16A Europe B	TV	TVR Tirgu-Mures	Yes	2500	2510[Rum]	25	359
-12643	V	27500 2/3	E16A Europe B	TV	SRTV HD feed	No	512	4112[Rum]|4128	200	359
-12643	V	27500 2/3	E16A Europe B	R	-R- Radio Trinitas	No		1001[Rum]	101	359
-12643	V	27500 2/3	E16A Europe B	R	-R- Radio Reintregirea	No		1002[Rum]	102	359
-12654	H	11111 2/3	E16A Europe B	TV	Unire TV 1	No	110	100[Ita]|102[Ita]	1	370
-12654	H	11111 2/3	E16A Europe B	TV	Unire TV 2	No	210	200[Ita]	2	370
-12654	H	11111 2/3	E16A Europe B	TV	Unire Blu	No	310	300[Ita]	10	370
-12660	H	2220 5/6	E16A Europe B	TV	Snai Live	No	512	4112[Ita]	1	374
-12660	H	2220 5/6	E16A Europe B	TV	Snai Tech HD	Yes	513	[Ita]	2	374
-12693	H	2222 3/4	E16A Europe B	TV	SNAI Quad Race	Yes	512	4112[Ita]	1	380
-12693	H	2222 3/4	E16A Europe B	TV	SNAI Quad Race HD	No	512	4112[Ita]	1	380
-12699	H	9880 2/3	E16A Europe B	TV	SNAI Sport Virtuali 1	No	410	400[Ita]|402[Ita]	57	383
-12699	H	9880 2/3	E16A Europe B	TV	SNAI Sport Virtuali 2 HD	Yes	510	500[Ita]	5	383
-12699	H	9880 2/3	E16A Europe B	TV	SNAI Sport Virtuali 3 HD	Yes	810	800[Ita]	55	383
-12699	H	9880 2/3	E16A Europe B	TV	SNAI Virtuali 1	Yes	910	901[Ita]	57	383
-12699	H	9880 2/3	E16A Europe B	TV	test card	No	710	700[Ita]	100	383
-12699	H	9880 2/3	E16A Europe B	R	-R- Radio Unico	No		600[Ita]	77	383
-12717	H	7500 3/4	E16A Europe B	TV	National TV	No	257	258[Rum]	10	390
-12717	H	7500 3/4	E16A Europe B	TV	Național 24 Plus	No	513	514[Rum]	22	390
-12717	H	7500 3/4	E16A Europe B	TV	Favorit TV	Yes	772	773[Rum]	32	390
-12717	H	7500 3/4	E16A Europe B	TV	Alpha Omega TV	Yes	802	803[Rom]	88	390
-12717	H	7500 3/4	E16A Europe B	R	-R- National FM	No		516[Rum]	15	390
-12717	H	7500 3/4	E16A Europe B	R	-R- RFI România	No		515[Rum]	16	390
-12717	H	7500 3/4	E16A Europe B	R	-R- Favorit FM	No		530[Rum]	23	390
-21545	H	2143 5/6	E16A Europe C	TV	Boom TV	Yes	101	102[Fre]	1	406
-21545	H	2143 5/6	E16A Europe C	TV	STV	Yes	201	202[Fre]	2	406
-21547	H	1237 5/6	E16A Europe C	R	-R- Golfe FM	No		4114[Fre]	2	409
-21564	H	128 3/4	E16A Europe C	R	-R- Radio IMMAC (Radio Immaculée Conception)	No		101[Fre]	1000	413
-21571	H	2900 5/6	E16A Europe C	TV	TFM Senegal	Yes	611	631[Fre]	1	416
-21571	H	2900 5/6	E16A Europe C	TV	L´Obs TV	Yes	811	831[Fre]	3	416
-21571	H	2900 5/6	E16A Europe C	TV	TFM Religions	Yes	911	931[Fre]	4	416
-21576	H	3674 5/6	E16A Europe C	TV	Canal 2 International HD	Yes	81	82[Fre]	1	420
-21576	H	3674 5/6	E16A Europe C	TV	Canal 2 Movies	Yes	129	130[Fre]	4	420
-21600	H	5206 2/3	E16A Europe C	TV	Zoe Channel	Yes	128	144[Fre]	1	424
-21600	H	5206 2/3	E16A Europe C	TV	MIPC TV	Yes	129	145[Fre]	2	424
-21600	H	5206 2/3	E16A Europe C	TV	Afrique Média	Yes	130	146[Fre]	3	424
-21600	H	5206 2/3	E16A Europe C	TV	Jes TV Noumonvi	Yes	131	147[Fre]	4	424
-21600	H	5206 2/3	E16A Europe C	TV	Capital Santé TV	Yes	97	98[Fre]	5	424
-21600	H	5206 2/3	E16A Europe C	TV	Hope World	Yes	6079	6072[Fre]	7	424
-21607	H	7706 2/3	E16A Europe C	TV	Hope TV Benin	Yes	130	146[Fre]	2	431
-21607	H	7706 2/3	E16A Europe C	TV	Solution TV	Yes	97	98[Fre]	3	431
-21607	H	7706 2/3	E16A Europe C	TV	Liberty TV Cameroon	Yes	256	257[Fre]	4	431
-21607	H	7706 2/3	E16A Europe C	TV	LTM TV	Yes	132	148[Fre]	5	431
-21607	H	7706 2/3	E16A Europe C	TV	JSTV	Yes	133	149[Fre]	6	431
-21607	H	7706 2/3	E16A Europe C	TV	Misericorde TV	Yes	102	103[Eng]	7	431
-21607	H	7706 2/3	E16A Europe C	TV	Hausa 7 TV	Yes	131	147[Hau]	8	431
-21607	H	7706 2/3	E16A Europe C	TV	Transformers TV	Yes	90	91[Fre]	9	431
-21607	H	7706 2/3	E16A Europe C	TV	Revival Channel	Yes	113	114[Fre]	10	431
-21607	H	7706 2/3	E16A Europe C	TV	Porte TV	Yes	128	144[Fre]	11	431
+10758	V	30000 3/4	Amos 3 Europe	TV	T-Home test card	No	481	482[Hun]	1212	3
+10925	V	27500 5/6	Amos 3 MiddleEast	TV	The Shopping Channel Israel	Yes	513	661[Heb]	1202	9
+10925	V	27500 5/6	Amos 3 MiddleEast	TV	Knesset Channel	Yes	516	664[Heb]	1205	9
+10925	V	27500 5/6	Amos 3 MiddleEast	TV	Hala TV	Yes	526	674[Ara]	1215	9
+11052	H	8520 2/3	Amos 7 MiddleEast	TV	Channel 12 (Keshet 12)	Yes	257	258[Heb]	10	18
+11052	H	8520 2/3	Amos 7 MiddleEast	TV	Channel 13 (Reshet 13)	Yes	513	514[Heb]	20	18
+11061	H	4500 1/2	Amos 7 MiddleEast	TV	METV (Middle East TV)	Yes	1160	1120[Eng]	3	22
+11061	H	4500 1/2	Amos 7 MiddleEast	TV	ISN (It's Supernatural! Network)	No	69	71[Eng]	4	22
+11113	H	8518 3/4	Amos 7 MiddleEast	TV	Kan 11	Yes	1025	1040[Heb]	1	31
+11113	H	8518 3/4	Amos 7 MiddleEast	TV	Kan 33 (Makan TV)	Yes	1026	1056[Ara]	2	31
+11113	H	8518 3/4	Amos 7 MiddleEast	R	-R- KAN Tarbut	No		4112[Heb]	3	31
+11113	H	8518 3/4	Amos 7 MiddleEast	R	-R- KAN Bet	No		4113[Heb]	4	31
+11113	H	8518 3/4	Amos 7 MiddleEast	R	-R- KAN Gimmel	No		4114[Heb]	5	31
+11113	H	8518 3/4	Amos 7 MiddleEast	R	-R- KAN Makan	No		4115[Ara]	6	31
+11113	H	8518 3/4	Amos 7 MiddleEast	R	-R- KAN Kol HaMusica	No		4116[Heb]	7	31
+11113	H	8518 3/4	Amos 7 MiddleEast	R	-R- KAN Reka	No		4117[Heb]	8	31
+11113	H	8518 3/4	Amos 7 MiddleEast	R	-R- KAN 88	No		4118[Heb]	9	31
+11113	H	8518 3/4	Amos 7 MiddleEast	R	-R- KAN Farsi	No		4119[Far]	10	31
+11113	H	8518 3/4	Amos 7 MiddleEast	R	-R- KAN Moreshet	No		4120[Heb]	11	31
+11140	H	30000 3/4	Amos 3 Europe	TV	XSport	Yes	257	258[Ukr]	1	44
+11140	H	30000 3/4	Amos 3 Europe	TV	Pershiy Diloviy (First Business Channel)	Yes	513	514[Ukr]	2	44
+11140	H	30000 3/4	Amos 3 Europe	TV	UA: Zakarpattya	Yes	769	770[Ukr]	3	44
+11140	H	30000 3/4	Amos 3 Europe	TV	112 Ukraine	Yes	1025	1026[Ukr]	4	44
+11140	H	30000 3/4	Amos 3 Europe	TV	Pryamiy HD	Yes	1537	1538[Ukr]	6	44
+11140	H	30000 3/4	Amos 3 Europe	TV	News One	Yes	33	34[Ukr]	7	44
+11140	H	30000 3/4	Amos 3 Europe	TV	Kultura Ukraine	Yes	2305	2306[Ukr]	9	44
+11140	H	30000 3/4	Amos 3 Europe	TV	UA: Donbass	Yes	4097	4098	10	44
+11140	H	30000 3/4	Amos 3 Europe	TV	ZIK	Yes	4353	4354[Ukr]	11	44
+11140	H	30000 3/4	Amos 3 Europe	TV	112 Ukraine HD	Yes	4609	4610[Ukr]	12	44
+11140	H	30000 3/4	Amos 3 Europe	TV	Telekanal STB	No	337	338[Ukr]	21	44
+11140	H	30000 3/4	Amos 3 Europe	TV	ICTV	No	353	354[Ukr]	22	44
+11140	H	30000 3/4	Amos 3 Europe	TV	Novy Kanal	No	369	370[Ukr]	23	44
+11140	H	30000 3/4	Amos 3 Europe	R	-R- Tysa FM	No		771[Ukr]	3	44
+11140	H	30000 3/4	Amos 3 Europe	R	-R- UR 1	No		38[Ukr]	14	44
+11140	H	30000 3/4	Amos 3 Europe	R	-R- Radio Promin	No		40[Ukr]	15	44
+11140	H	30000 3/4	Amos 3 Europe	R	-R- UR 3	No		42[Ukr]	16	44
+11140	H	30000 3/4	Amos 3 Europe	R	-R- Golos Donbassa	No		48[Ukr]	17	44
+11140	H	30000 3/4	Amos 3 Europe	R	-R- Radio Ukraine international	No		44[Ukr]	18	44
+11175	H	30000 3/4	Amos 3 Europe	TV	Telekanal STB	No	33	34[Ukr]	1	64
+11175	H	30000 3/4	Amos 3 Europe	TV	M1 Ukraine	No	49	50[Ukr]	2	64
+11175	H	30000 3/4	Amos 3 Europe	TV	Milady Television	No	65	66	3	64
+11175	H	30000 3/4	Amos 3 Europe	TV	Novy Kanal	No	81	82[Ukr]	4	64
+11175	H	30000 3/4	Amos 3 Europe	TV	ICTV UA	No	97	98[Ukr]	5	64
+11175	H	30000 3/4	Amos 3 Europe	TV	M2 Estrada	No	113	114[Ukr]	6	64
+11175	H	30000 3/4	Amos 3 Europe	TV	ICTV	No	71	72[Ukr]	7	64
+11175	H	30000 3/4	Amos 3 Europe	TV	24 Ukraine	Yes	4194	4195[Ukr]|4196[Ukr]	8	64
+11175	H	30000 3/4	Amos 3 Europe	TV	Eko TV	Yes	42	2306[Ukr]	9	64
+11175	H	30000 3/4	Amos 3 Europe	TV	Pryamiy	Yes	4097	4098[Ukr]	10	64
+11175	H	30000 3/4	Amos 3 Europe	TV	Telekanal OTSE	No	129	130[Ukr]	11	64
+11175	H	30000 3/4	Amos 3 Europe	TV	Pershiy Nacionalniy (UA)	Yes	305	306[Ukr]	13	64
+11175	H	30000 3/4	Amos 3 Europe	TV	UA Krym	Yes	321	322[Ukr]	14	64
+11175	H	30000 3/4	Amos 3 Europe	R	-R- Lux FM	No		4197[Ukr]	8	64
+11175	H	30000 3/4	Amos 3 Europe	R	-R- Radio Maximum	No		4199[Ukr]	8	64
+11304	H	8888 3/4	Amos 3 Europe	TV	Hír TV	No	200	201[Hun]	2	84
+11304	H	8888 3/4	Amos 3 Europe	TV	Da Vinci	No	900	901[Pol]|902[Org]|903[Hun]|904[Ukr]|905[Rus]	9	84
+11304	H	8888 3/4	Amos 3 Europe	R	-R- Karc FM 105,9	No		1001[Hun]	10	84
+11350	H	17333 2/3	Amos 3 Europe	TV	Tippmix élo 1	No	101	102[Hun]	1	92
+11350	H	17333 2/3	Amos 3 Europe	TV	Tippmix élo 2	No	201	202[Hun]	2	92
+11350	H	17333 2/3	Amos 3 Europe	TV	Tippmix élo 3	No	301	302[Hun]	3	92
+11350	H	17333 2/3	Amos 3 Europe	TV	Tippmix élo 4	No	401	402[Hun]	4	92
+11350	H	17333 2/3	Amos 3 Europe	TV	Tippmix élo 5	No	501	502[Hun]	5	92
+11425	H	30000 3/4	Amos 3 Europe	TV	Teszt	No	481	482[Hun]	1800	99
+11541	H	3703 3/4	Amos 7 MiddleEast	TV	SBN International	No	2001	3001[Eng]	1	108
+11541	H	3703 3/4	Amos 7 MiddleEast	TV	TBN Shalom (TBN Rossiya)	Yes	2002	3002[Rus]	2	108
+11541	H	3703 3/4	Amos 7 MiddleEast	TV	The Word Network	No	2004	3004[Eng]	4	108
+12297	H	45000 2/3	Amos 7 CEE	TV	Telekanal STB HD	No	3111	3112[Ukr]	1	129
+12297	H	45000 2/3	Amos 7 CEE	TV	ICTV HD	No	3121	3122[Ukr]|3123[Ukr]	2	129
+12297	H	45000 2/3	Amos 7 CEE	TV	Novy Kanal HD	No	3131	3132[Ukr]	3	129
+12297	H	45000 2/3	Amos 7 CEE	TV	M1 HD Ukraine	No	3141	3142[Ukr]|3143[Ukr]	4	129
+12297	H	45000 2/3	Amos 7 CEE	TV	M2 Estrada HD	No	3151	3152[Ukr]	5	129
+12297	H	45000 2/3	Amos 7 CEE	TV	Telekanal OTSE HD	No	3161	3162[Ukr]	6	129
+12340	H	17900 3/4	Amos 7 CEE	TV	Setanta Sports Ukraine HD	No	4113	4114[Ukr]|4117[Rus]	1	136
+12340	H	17900 3/4	Amos 7 CEE	TV	12 kanal (Lutsk)	Yes	4193	4194[Ukr]	6	136
+12340	H	17900 3/4	Amos 7 CEE	TV	ATR HD	Yes	4209	4210[Ukr]	7	136
+12340	H	17900 3/4	Amos 7 CEE	TV	ATR	Yes	4225	4226[Ukr]	8	136
+12340	H	17900 3/4	Amos 7 CEE	TV	Lale	Yes	4241	4242[Ukr]	9	136
+12340	H	17900 3/4	Amos 7 CEE	R	-R- Meydan FM	No		6673[Ukr]	101	136
+12340	H	17900 3/4	Amos 7 CEE	TV	DiogeneHendrik20.09.2018	No	3333 3/4	Romania[TV]		136
+12410	H	20833 7/8	Amos 7 CEE	TV	Pershiy Zaxidniy	Yes	4113	4114[Ukr]	1	149
+12410	H	20833 7/8	Amos 7 CEE	TV	Telekanal Vozrojdenie	Yes	4129	4130[Ukr]	2	149
+12410	H	20833 7/8	Amos 7 CEE	TV	4 Kanal Ukraine	Yes	4145	4146[Ukr]	3	149
+12410	H	20833 7/8	Amos 7 CEE	TV	Boutique TV	Yes	4161	4162[Ukr]	4	149
+12410	H	20833 7/8	Amos 7 CEE	TV	ChePe.info	Yes	4177	4178[Ukr]	5	149
+12410	H	20833 7/8	Amos 7 CEE	TV	Black Sea TV	Yes	4193	4194[Ukr]	6	149
+12410	H	20833 7/8	Amos 7 CEE	TV	Malyatko TV	Yes	4209	4210[Ukr]	7	149
+12410	H	20833 7/8	Amos 7 CEE	TV	Televsesvit	Yes	4225	4226[Ukr]	8	149
+12410	H	20833 7/8	Amos 7 CEE	TV	Galychyna	Yes	4241	4242[Ukr]	9	149
+12410	H	20833 7/8	Amos 7 CEE	TV	Donechchina TV	Yes	4353	4354[Ukr]	10	149
+12410	H	20833 7/8	Amos 7 CEE	TV	Pravda Tyt	Yes	4369	4370[Ukr]	11	149
+12410	H	20833 7/8	Amos 7 CEE	TV	8 Kanal Ukraine	Yes	4385	4386[Ukr]	12	149
+12410	H	20833 7/8	Amos 7 CEE	TV	Genuine TV	No	4401	4402	13	149
+12515	H	1667 3/4	Amos 7 CEE	R	-R- RASD Radio	No		514[Ara]	2	163

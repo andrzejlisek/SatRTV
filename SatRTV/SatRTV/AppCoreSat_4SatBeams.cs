@@ -151,8 +151,11 @@ namespace SatRTV
             					for (int ii = 0; ii < InfoText.Count; ii++)
             					{
             						InfoText[ii] = LangRemCodec(InfoText[ii], "AAC");
-            						InfoText[ii] = LangRemCodec(InfoText[ii], "AC3");
-            						InfoText[ii] = LangRemCodec(InfoText[ii], "DD");
+                                    InfoText[ii] = LangRemCodec(InfoText[ii], "AC3+");
+                                    InfoText[ii] = LangRemCodec(InfoText[ii], "AС3+");
+                                    InfoText[ii] = LangRemCodec(InfoText[ii], "AC3");
+                                    InfoText[ii] = LangRemCodec(InfoText[ii], "AС3");
+                                    InfoText[ii] = LangRemCodec(InfoText[ii], "DD");
             						InfoText[ii] = LangRemCodec(InfoText[ii], "(E-AC3)");
             					}
             					List<string> InfoTextX = new List<string>();
@@ -279,11 +282,11 @@ namespace SatRTV
         
         string LangRemCodec(string LangTag, string CodecInfo)
         {
-        	if (LangTag.StartsWith(CodecInfo))
+        	if (LangTag.StartsWith(CodecInfo, StringComparison.InvariantCulture))
         	{
         		LangTag = LangTag.Substring(CodecInfo.Length);
         	}
-        	if (LangTag.EndsWith(CodecInfo))
+        	if (LangTag.EndsWith(CodecInfo, StringComparison.InvariantCulture))
         	{
         		LangTag = LangTag.Substring(0, LangTag.Length - CodecInfo.Length);
         	}

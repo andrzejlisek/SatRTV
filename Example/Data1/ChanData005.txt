@@ -1,0 +1,604 @@
+Freq	Pol	SR	Beam	Type	Name	Country	Category	Packages	Encryption	SID	VPID	Audio	PMT	PCR	TXT	Last updated	FTA	Row
+11727.00	V	30000 3/4	Europe	TV	Ziggo Sport Select HD	Holandia	Sport	Joyne	Conax	802	1201	1202[ned]|1203[ina]	1200	1201		2018-07-23	No	35001001
+11727.00	V	30000 3/4	Europe	TV	VTM HD	Belgia	Ogólne	Joyne	Conax	804	1401	1402[ned]	1400	1401	1431	2018-07-26	No	35001003
+11727.00	V	30000 3/4	Europe	TV	Vier HD	Belgia	Ogólne	Joyne	Conax	805	1501	1502[ned]	1500	1501	1531	2018-08-01	No	35001005
+11727.00	V	30000 3/4	Europe	TV	VIJF HD	Belgia	Rozrywka	Joyne	Conax	806	1601	1602[ned]	1600	1601	1631	2018-08-02	No	35001007
+11727.00	V	30000 3/4	Europe	TV	ZES HD	Belgia	Rozrywka	Joyne	Conax	807	1701	1702[ned]	1700	1701		2018-08-02	No	35001009
+11727.00	V	30000 3/4	Europe	TV	Vitaya	Belgia	Ogólne	Joyne	Conax	808	1801	1802[ned]	1800	1801	1831	2018-07-26	No	35001011
+11727.00	V	30000 3/4	Europe	TV	Caz	Belgia	Rozrywka	Joyne	Conax	809	1901	1902[ned]	1900	1901		2018-07-26	No	35001013
+11727.00	V	30000 3/4	Europe	TV	Q2	Belgia	Rozrywka	Joyne	Conax	810	2001	2002[ned]	2000	2001	2031	2018-07-26	No	35001015
+11727.00	V	30000 3/4	Europe	TV	Ment	Belgia	Muzyka	Joyne	Conax	811	2101	2102[ned]	2100	2101		2019-01-06	No	35001017
+11727.00	V	30000 3/4	Europe	TV	VTM Kids	Belgia	Dzieci	Joyne	Conax	812	2201	2202[ned]	2200	2201		2019-01-06	No	35001019
+11727.00	V	30000 3/4	Europe	TV	CAZ2	Belgia	Dzieci	Joyne	Conax	813	2301	2302[ned]	2300	2301		2020-04-01	No	35001021
+11727.00	V	30000 3/4	Europe	TV	Ziggo Voetbal HD	Belgia	Sport	Joyne	Conax	814	2401	2402[eng]|2403[ina]	2400	2401		2019-01-06	No	35001023
+11727.00	V	30000 3/4	Europe	TV	Ziggo Racing HD	Belgia	Wyścigi	Joyne	Conax	815	2501	2502[ned]|2503[ina]	2500	2501		2019-12-08	No	35001025
+11727.00	V	30000 3/4	Europe	TV	Ziggo Golf HD	Belgia	Sport	Joyne	Conax	816	2601	2602[ned]|2603[ina]	2600	2601		2019-12-08	No	35001027
+11727.00	V	30000 3/4	Europe	TV	Museum France HD	Francja	Kultura	Antik Sat	Conax	867	7701	7702[fra]|7703[eng]	7700	7701		2020-02-19	No	35001029
+11727.00	V	30000 3/4	Europe	TV	TIN - The Israeli Network	Izrael	Ogólne	Antik Sat	FTA	868	7801	7802[heb]	7800	7801		2020-03-31	Yes	35001031
+11727.00	V	30000 3/4	Europe	R	VRT Radio 1			Joyne	FTA	817		2702[ned]	2700	2702		2019-12-19	Yes	35001033
+11727.00	V	30000 3/4	Europe	R	VRT Radio 2			Joyne	FTA	818		2802[ned]	2800	2802		2019-12-19	Yes	35001035
+11727.00	V	30000 3/4	Europe	R	VRT NMS			Joyne	FTA	819		2902[ned]	2900	2902		2019-12-19	Yes	35001037
+11727.00	V	30000 3/4	Europe	R	MNM			Joyne	FTA	820		3002[ned]	3000	3002		2019-12-19	Yes	35001039
+11727.00	V	30000 3/4	Europe	R	MNM Hits			Joyne	FTA	821		3102[ned]	3100	3102		2019-12-19	Yes	35001041
+11727.00	V	30000 3/4	Europe	R	Studio Brussel			Joyne	FTA	822		3202[ned]	3200	3202		2019-12-19	Yes	35001043
+11727.00	V	30000 3/4	Europe	R	Klara			Joyne	FTA	823		3302[ned]	3300	3302		2019-12-19	Yes	35001045
+11727.00	V	30000 3/4	Europe	R	Klara Continuo			Joyne	FTA	824		3402[ned]	3400	3402		2019-12-19	Yes	35001047
+11727.00	V	30000 3/4	Europe	R	Sporza			Joyne	FTA	825		3502[ned]	3500	3502		2019-12-19	Yes	35001049
+11727.00	V	30000 3/4	Europe	R	Q Music			Joyne	FTA	826		3602[ned]	3600	3602		2019-12-19	Yes	35001051
+11727.00	V	30000 3/4	Europe	R	Joe			Joyne	FTA	827		3702[ned]	3700	3702		2019-12-19	Yes	35001053
+11727.00	V	30000 3/4	Europe	R	Nostalgie			Joyne	FTA	828		3802[ned]	3800	3802		2019-12-19	Yes	35001055
+11727.00	V	30000 3/4	Europe	R	Radio Continu			Joyne	FTA	829		3902[ned]	3900	3902		2018-09-05	Yes	35001057
+11727.00	V	30000 3/4	Europe	R	Groot nieuws Radio			Joyne	FTA	830		4002[ned]	4000	4002		2018-09-17	Yes	35001059
+11727.00	V	30000 3/4	Europe	R	TRT tamil			Antik Sat	FTA	866		7602[tam]	7600	7602		2019-11-13	Yes	35001061
+11747.00	H	30000 3/4	Europe	TV	NPO 1 HD	Holandia	Ogólne	Joyne	Conax	501	1101	1102[ned]	1100	1101	1131	2017-08-11	No	39001001
+11747.00	H	30000 3/4	Europe	TV	NPO 2 HD	Holandia	Ogólne	Joyne	Conax	502	1201	1202[ned]	1200	1201	1231	2017-08-11	No	39001003
+11747.00	H	30000 3/4	Europe	TV	NPO 3 HD	Holandia	Ogólne	Joyne	Conax	503	1301	1302[ned]	1300	1301	1331	2017-08-11	No	39001005
+11747.00	H	30000 3/4	Europe	TV	RTL 4 HD	Holandia	Ogólne	Joyne	Conax	504	1401	1402[ned]	1400	1401	1431	2017-08-11	No	39001007
+11747.00	H	30000 3/4	Europe	TV	RTL 5 HD	Holandia	Ogólne	Joyne	Conax	505	1501	1502[ned]	1500	1501	1531	2017-08-11	No	39001009
+11747.00	H	30000 3/4	Europe	TV	SBS 6 HD	Holandia	Ogólne	Joyne	Conax	506	1601	1602[ned]	1600	1601	1631	2017-08-19	No	39001011
+11747.00	H	30000 3/4	Europe	TV	RTL 7 HD	Holandia	Ogólne	Joyne	Conax	507	1701	1702[ned]	1700	1701	1731	2017-08-11	No	39001013
+11747.00	H	30000 3/4	Europe	TV	Veronica HD	Holandia	Ogólne	Joyne	Conax	508	1801	1802[ned]	1800	1801	1831	2017-08-11	No	39001015
+11747.00	H	30000 3/4	Europe	TV	Net 5 HD	Holandia	Ogólne	Joyne	Conax	509	1901	1902[ned]	1900	1901	1931	2017-08-11	No	39001017
+11747.00	H	30000 3/4	Europe	TV	RTL 8 HD	Holandia	Ogólne	Joyne	Conax	510	2001	2002[ned]	2000	2001	2031	2017-08-11	No	39001019
+11747.00	H	30000 3/4	Europe	TV	RTL Z HD	Holandia	Informacje	Joyne	Conax	511	2101	2102[ned]	2100	2101	2131	2017-08-11	No	39001021
+11747.00	H	30000 3/4	Europe	TV	SBS 9 HD	Holandia	Różne	Joyne	Conax	512	2201	2202[ned]	2200	2201	2231	2017-08-14	No	39001023
+11747.00	H	30000 3/4	Europe	TV	Comedy Central Nederland	Holandia	Komedia	Joyne	Conax	513	2301	2302[ned]	2300	2301	2331	2017-08-11	No	39001025
+11747.00	H	30000 3/4	Europe	TV	Spike 24	Holandia	Seriale	Joyne	Conax	514	2401	2402[ned]	2400	2401	2431	2017-08-11	No	39001027
+11747.00	H	30000 3/4	Europe	TV	TV 538 HD	Holandia	Rozrywka	Joyne	Conax	516	2601	2602[ned]	2600	2601		2018-10-31	No	39001029
+11747.00	H	30000 3/4	Europe	TV	National Geographic Benelux	Holandia	Dokumenty	Joyne	Conax	518	3401	3402[ned]	3400	3401		2017-09-14	No	39001031
+11747.00	H	30000 3/4	Europe	TV	Secret Circle	Holandia	Seriale	Joyne	Conax	519	2801	2802[ned]	2800	2801		2017-09-12	No	39001033
+11747.00	H	30000 3/4	Europe	TV	Meiden van Holland	Holandia	Porno	Joyne	Conax	520	2901	2902[ned]	2900	2901		2018-02-10	No	39001035
+11747.00	H	30000 3/4	Europe	TV	BBC First Holland HD	Holandia	Rozrywka	Joyne	Conax	521	3001	3002[ned]	3000	3001		2019-12-29	No	39001037
+11747.00	H	30000 3/4	Europe	TV	Penthouse Gold	Stany Zjednoczone	Porno	Joyne	Conax	523	3201	3202[ned]	3200	3201		2019-12-03	No	39001039
+11747.00	H	30000 3/4	Europe	TV	Penthouse Quickies	Stany Zjednoczone	Porno	Joyne	Conax	524	3301	3302[eng]	3300	3301		2019-12-03	No	39001041
+11747.00	H	30000 3/4	Europe	TV	24 Kitchen	Portugalia	Gotowanie	Joyne	Conax	525	3501	3502[ned]	3500	3501		2017-09-14	No	39001043
+11785.00	H	27500 2/3	Germany	TV	ProSieben MAXX HD	Niemcy	Rozrywka	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	201	2011	2012[ger]	2010	2011	2014	2016-03-10	No	47001001
+11785.00	H	27500 2/3	Germany	TV	MTV HD Germany	Niemcy	Muzyka	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	202	2031	2032[ger]	2030	2031		2016-03-10	No	47001003
+11785.00	H	27500 2/3	Germany	TV	Welt HD	Niemcy	Informacje	Kabelkiosk	Conax|VideoGuard	203	2051	2052[ger]	2035	2051	2054	2018-01-18	No	47001005
+11785.00	H	27500 2/3	Germany	TV	Channel 21	Niemcy	Telezakupy	BASIS 1	FTA	204	2081	2082[ger]	2080	2081	2104	2016-03-10	Yes	47001007
+11785.00	H	27500 2/3	Germany	TV	Eurosport 1 HD	Francja	Sport	Kabelkiosk	Conax|VideoGuard	205	2101	2102[ger]	2100	2101		2017-11-06	No	47001009
+11785.00	H	27500 2/3	Germany	TV	MTV+ Germany	Niemcy	Rozrywka	BASIS 1	FTA	213	2145	2146[ger]|2148[eng]	2144	2145	2168	2018-11-01	Yes	47001011
+11785.00	H	27500 2/3	Germany	TV	Nickelodeon Germany	Niemcy	Dzieci	BASIS 1	FTA	213	2145	2146[ger]|2148[eng]	2144	2145	2168	2016-03-10	Yes	47001013
+11785.00	H	27500 2/3	Germany	TV	Comedy Central Germany	Niemcy	Komedia	BASIS 1	FTA	216	2209	2210[ger]	2208	2209	2232	2019-01-11	Yes	47001015
+11785.00	H	27500 2/3	Germany	TV	HSE24 Extra	Niemcy	Telezakupy	BASIS 1	FTA	228	2593	2594[ger]	2592	2593	2616	2016-03-10	Yes	47001017
+11785.00	H	27500 2/3	Germany	TV	BBC World News	Wielka Brytania	Informacje	BASIS 1	FTA	240	2071	2072[eng]	2070	2071		2016-03-10	Yes	47001019
+11785.00	H	27500 2/3	Germany	TV	Bloomberg Europe	Wielka Brytania	Biznes	BASIS 1	FTA	241	2091	2092[eng]	2090	2091		2016-03-10	Yes	47001021
+11785.00	H	27500 2/3	Germany	TV	Deutsches Musik Fernsehen	Niemcy	Muzyka	BASIS 1	FTA	243	2131	2132[ger]	2130	2131	2133	2016-03-10	Yes	47001023
+11785.00	H	27500 2/3	Germany	TV	Servus TV Deutschland	Austria	Ogólne	BASIS 1	FTA	245	2171	2172[ger]|2173[eng]	2170	2171	2174	2016-03-10	Yes	47001025
+11785.00	H	27500 2/3	Germany	TV	Deluxe Music	Niemcy	Muzyka	BASIS 1	FTA	246	2181	2182[ger]	2180	2181		2016-03-10	Yes	47001027
+11785.00	H	27500 2/3	Germany	DATA	TC ATV 1				FTA	60000			6000	8191		2017-10-03	Yes	47001029
+11804.00	V	27500 2/3	Europe	TV	AFN Prime Atlantic Benelux	Stany Zjednoczone	Ogólne		PowerVu|VeriMatrix	102	1265	1225[eng]	5102	1265		2020-03-20	No	51001003
+11804.00	V	27500 2/3	Europe	TV	AFN News	Stany Zjednoczone	Informacje		PowerVu|VeriMatrix	103	1565	1525[eng]	5103	1565		2020-03-20	No	51001005
+11804.00	V	27500 2/3	Europe	TV	AFN Sports	Stany Zjednoczone	Sport		PowerVu|VeriMatrix	104	1165	1125[eng]	5104	1165		2020-03-20	No	51001007
+11804.00	V	27500 2/3	Europe	TV	AFN Prime Pacific	Stany Zjednoczone	Rozrywka		PowerVu|VeriMatrix	105	1465	1425[eng]	5105	1465		2020-03-20	No	51001009
+11804.00	V	27500 2/3	Europe	TV	AFN Spectrum	Stany Zjednoczone	Ogólne		PowerVu|VeriMatrix	106	1365	1325[eng]	5106	1365		2020-03-20	No	51001011
+11804.00	V	27500 2/3	Europe	TV	AFN Sports 2	Stany Zjednoczone	Sport		PowerVu|VeriMatrix	107	1665	1625[eng]	5107	1665		2020-03-20	No	51001013
+11804.00	V	27500 2/3	Europe	TV	AFN Family	Stany Zjednoczone	Ogólne		PowerVu|VeriMatrix	108	1965	1925[eng]	5108	1965		2020-03-20	No	51001015
+11804.00	V	27500 2/3	Europe	TV	AFN Movie Channel	Stany Zjednoczone	Filmy		PowerVu|VeriMatrix	109	1065	1025[eng]	5109	1065		2020-03-20	No	51001017
+11804.00	V	27500 2/3	Europe	TV	Reaper (EPG Video)				FTA	401	1760	1720	5401	1760		2020-03-20	Yes	51001019
+11804.00	V	27500 2/3	Europe	TV	Bars & Tone				FTA	402	1860	1820	5402	1860		2017-12-12	Yes	51001021
+11804.00	V	27500 2/3	Europe	R	AFN Atlantic	Stany Zjednoczone	Ogólne		PowerVu|VeriMatrix	120		1737	5120	1737		2020-03-20	No	51001023
+11804.00	V	27500 2/3	Europe	R	The Voice				PowerVu|VeriMatrix	121		1337	5121	1337		2020-03-20	No	51001025
+11804.00	V	27500 2/3	Europe	R	Power Talk				PowerVu|VeriMatrix	122		1730	5122	1730		2020-03-20	No	51001027
+11804.00	V	27500 2/3	Europe	R	Clutch Sports Radio				PowerVu|VeriMatrix	123		1127	5123	1127		2020-03-20	No	51001029
+11804.00	V	27500 2/3	Europe	R	AFN Fans				PowerVu|VeriMatrix	124		1135	5124	1135		2020-03-20	No	51001031
+11804.00	V	27500 2/3	Europe	R	AFN Hot AC				PowerVu|VeriMatrix	125		1727	5125	1727		2020-03-20	No	51001033
+11804.00	V	27500 2/3	Europe	R	AFN Legacy				PowerVu|VeriMatrix	126		1427	5126	1427		2020-03-20	No	51001035
+11804.00	V	27500 2/3	Europe	R	AFN Joe FM				PowerVu|VeriMatrix	127		1537	5127	1537		2020-03-20	No	51001037
+11804.00	V	27500 2/3	Europe	R	AFN Gravity				PowerVu|VeriMatrix	128		1327	5128	1327		2020-03-20	No	51001039
+11804.00	V	27500 2/3	Europe	R	AFN Country				PowerVu|VeriMatrix	129		1535	5129	1535		2020-03-20	No	51001041
+11804.00	V	27500 2/3	Europe	R	NPR International				PowerVu|VeriMatrix	130		1237	5130	1237		2020-03-20	No	51001043
+11804.00	V	27500 2/3	Europe	R	AFN Seasonal				PowerVu|VeriMatrix	131		1726	5131	1726		2020-03-20	No	51001045
+11804.00	V	27500 2/3	Europe	R	AFN Contingency				PowerVu|VeriMatrix	132		1402	5132	1402		2020-03-20	No	51001047
+11804.00	V	27500 2/3	Europe	R	Freedom Radio				PowerVu|VeriMatrix	133		1527	5133	1527		2020-03-20	No	51001049
+11804.00	V	27500 2/3	Europe	R	Aviano Eagle				PowerVu|VeriMatrix	135		1927[aac]	5135	1927		2020-03-20	No	51001051
+11804.00	V	27500 2/3	Europe	R	Bavaria Eagle				PowerVu|VeriMatrix	136		1830	5136	1830		2020-03-20	No	51001053
+11804.00	V	27500 2/3	Europe	R	Benelux Eagle				PowerVu|VeriMatrix	137		1235	5137	1235		2020-03-20	No	51001055
+11804.00	V	27500 2/3	Europe	R	Incirlik Eagle				PowerVu|VeriMatrix	138		1627[aac]	5138	1627		2020-03-20	No	51001057
+11804.00	V	27500 2/3	Europe	R	Kaiserslautern Eagle				PowerVu|VeriMatrix	139		1832	5139	1832		2020-03-20	No	51001059
+11804.00	V	27500 2/3	Europe	R	Naples Eagle				PowerVu|VeriMatrix	140		1437	5140	1437		2020-03-20	No	51001061
+11804.00	V	27500 2/3	Europe	R	Rota Eagle				PowerVu|VeriMatrix	141		1435	5141	1435		2020-03-20	No	51001063
+11804.00	V	27500 2/3	Europe	R	Souda Bay Eagle				PowerVu|VeriMatrix	142		1227	5142	1227		2020-03-20	No	51001065
+11804.00	V	27500 2/3	Europe	R	Spangdahlem Eagle				PowerVu|VeriMatrix	143		1027	5143	1027		2020-03-20	No	51001067
+11804.00	V	27500 2/3	Europe	R	Stuttgart Eagle				PowerVu|VeriMatrix	144		1937[aac]	5144	1937		2020-03-20	No	51001069
+11804.00	V	27500 2/3	Europe	R	Vicenza Eagle				PowerVu|VeriMatrix	145		1032	5145	1032		2020-03-20	No	51001071
+11804.00	V	27500 2/3	Europe	R	Weisbaden Eagle				PowerVu|VeriMatrix	146		1930	5146	1930		2020-03-20	No	51001073
+11804.00	V	27500 2/3	Europe	R	Bahrain				PowerVu|VeriMatrix	147		1977	5147	1977		2020-03-20	No	51001075
+11804.00	V	27500 2/3	Europe	R	Sembach Afternoon Radio				PowerVu|VeriMatrix	148		1940	5148	1940		2020-03-20	No	51001077
+11804.00	V	27500 2/3	Europe	DATA	INV1-afnatl			Inview Ltd	FTA	3075			4189	8191		2017-12-12	Yes	51001079
+11823.00	H	27500 3/4	Europe	TV	Sisal TV	Włochy	Ogólne		Xcrypt	1810	1811	1812[ita]	1810	1811		2016-03-09	No	55001001
+11823.00	H	27500 3/4	Europe	TV	Sisal TV	Włochy	Ogólne	Eutelsat	Xcrypt	1820	1821	1822[ita]	1820	1821		2016-03-09	No	55001003
+11823.00	H	27500 3/4	Europe	TV	Sisal TV	Włochy	Ogólne	Eutelsat	Xcrypt	1830	1831	1832[ita]	1830	1831		2017-05-28	No	55001005
+11823.00	H	27500 3/4	Europe	TV	Sisal TV	Włochy	Ogólne	Eutelsat	Xcrypt	1840	1841	1842[ita]	1840	1841		2017-03-15	No	55001007
+11823.00	H	27500 3/4	Europe	TV	Sisal TV	Włochy	Ogólne	Eutelsat	Xcrypt	1850	1851	1852[ita]	1850	1851		2019-04-12	No	55001009
+11823.00	H	27500 3/4	Europe	TV	NLM TV	nieokreślony	Ogólne		FTA	1860	1861	1862	1860	1861		2020-04-02	Yes	55001011
+11823.00	H	27500 3/4	Europe	TV	Italy Service 3	Włochy	Gry		FTA	1870	1871	1872[aac]	1870	1871		2020-04-02	Yes	55001013
+11823.00	H	27500 3/4	Europe	TV	Italy Service 5	Włochy	Gry		FTA	1890	1891	1892[aac]	1890	1891		2020-04-02	Yes	55001015
+11823.00	H	27500 3/4	Europe	R	Ros * Ros			Eutelsat	FTA	1610		1612	1610	1612		2016-03-09	Yes	55001017
+11823.00	H	27500 3/4	Europe	R	Ros * Ros Selex			Eutelsat	FTA	1620		1622	1620	1622		2016-03-09	Yes	55001019
+11823.00	H	27500 3/4	Europe	R	Carrefour Iper			Eutelsat	FTA	1630		1632	1630	1632		2016-03-09	Yes	55001021
+11823.00	H	27500 3/4	Europe	R	Carrefour Market			Eutelsat	FTA	1640		1642	1640	1642		2016-03-09	Yes	55001023
+11823.00	H	27500 3/4	Europe	R	Radio CHINA FM				FTA	1700		1701	1700	1701		2020-01-09	Yes	55001025
+11823.00	H	27500 3/4	Europe	R	Radio WE 2020				FTA	1880		1881	1880	1881		2020-01-09	Yes	55001027
+11843.00	V	27500 3/5	Europe	TV	iConcert	Francja	Muzyka	Cosmote	VideoGuard	1013	413	513[eng]	313	413		2017-02-15	No	59001001
+11843.00	V	27500 3/5	Europe	TV	Kriti TV Satelite	Grecja	Regionalne	Cosmote	VideoGuard	1021	421	521[gre]	321	421		2017-02-15	No	59001003
+11843.00	V	27500 3/5	Europe	TV	Luxe TV	Francja	Lifestyle	Cosmote	VideoGuard	1031	431	531[eng]	331	431		2017-02-15	No	59001005
+11843.00	V	27500 3/5	Europe	TV	C-Music	Niemcy	Muzyka	Cosmote	VideoGuard	1053	453	553[eng]	353	453		2019-01-06	No	59001007
+11843.00	V	27500 3/5	Europe	TV	Star Central Greece	Grecja	Różne	Cosmote	VideoGuard	1079	479	579[gre]	379	479		2017-02-15	No	59001009
+11843.00	V	27500 3/5	Europe	TV	France 24 (en Français)	Francja	Informacje	Cosmote	VideoGuard	1083	483	583[fra]	383	483		2017-02-15	No	59001011
+11843.00	V	27500 3/5	Europe	TV	CNBC Europe	Wielka Brytania	Biznes	Cosmote	VideoGuard	1085	485	585[eng]	385	485		2017-02-15	No	59001013
+11843.00	V	27500 3/5	Europe	TV	BBC World News	Wielka Brytania	Informacje	Cosmote	VideoGuard	1088	488	588[eng]	388	488		2017-02-15	No	59001015
+11843.00	V	27500 3/5	Europe	TV	Mezzo	Francja	Muzyka	Cosmote	VideoGuard	1097	497	597[eng]	397	497		2017-02-15	No	59001017
+11843.00	V	27500 3/5	Europe	TV	E! HD	Wielka Brytania	Rozrywka	Cosmote	VideoGuard	1106	4106	5106[eng]	3106	4106		2017-02-15	No	59001019
+11843.00	V	27500 3/5	Europe	TV	Ginx HD	nieokreślony	Dzieci	Cosmote	VideoGuard	1108	4108	5108[eng]	3108	4108		2017-11-23	No	59001021
+11843.00	V	27500 3/5	Europe	TV	MTV Live HD	Wielka Brytania	Muzyka	Cosmote	VideoGuard	1114	4114	5114[eng]	3114	4114		2017-02-15	No	59001023
+11862.00	H	27500 2/3	Germany	TV	Kabel 1 HD	Niemcy	Ogólne	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	230	1511	1512[ger]	1510	1511	1514	2016-03-10	No	63001001
+11862.00	H	27500 2/3	Germany	TV	DMAX HD	Niemcy	Lifestyle	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	231	1531	1532[ger]	1530	1531	1534	2016-03-10	No	63001003
+11862.00	H	27500 2/3	Germany	TV	Tele 5 HD	Niemcy	Rozrywka	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	232	1551	1552[ger]	1550	1551	1554	2016-03-10	No	63001005
+11862.00	H	27500 2/3	Germany	TV	MTV+ HD Germany	Niemcy	Rozrywka	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	233	1571	1572[ger]|1573[eng]	1570	1571		2018-11-01	No	63001007
+11862.00	H	27500 2/3	Germany	TV	Nick HD Germany	Niemcy	Dzieci	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	233	1571	1572[ger]|1573[eng]	1570	1571		2016-03-10	No	63001009
+11862.00	H	27500 2/3	Germany	TV	Sport 1 HD (Germany)	Niemcy	Sport	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	234	1409	1410[ger]	1408	1409		2016-03-10	No	63001011
+11862.00	H	27500 2/3	Germany	TV	TLC HD	Wielka Brytania	Dokumenty	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	235	1591	1592[ger]	1590	1591	1594	2016-03-10	No	63001013
+11881.00	V	27500 2/3	Europe	TV	RAI Africa	Włochy	Ogólne	Eutelsat	Irdeto 2	3503	2003	3003[ita]	1003	2003		2017-10-30	No	67001001
+11881.00	V	27500 2/3	Europe	TV	RTI La Première	Wybrzeże Kości Słoni	Ogólne		FTA	3509	1009	2009[fra]|3009[fra]	1010	1009		2017-12-24	Yes	67001003
+11881.00	V	27500 2/3	Europe	TV	Eurobet 11	Wielka Brytania	Gry	encoder	BISS	3511	2011	3011[eng]	1011	2011		2020-03-07	No	67001005
+11881.00	V	27500 2/3	Europe	TV	Eurobet 12	Wielka Brytania	Gry	encoder	BISS	3512	2012	3012[eng]	1012	2012		2017-11-02	No	67001007
+11881.00	V	27500 2/3	Europe	TV	Eurobet 13	Wielka Brytania	Gry	encoder	BISS	3513	2013	3013[eng]	1013	2013		2017-11-02	No	67001009
+11881.00	V	27500 2/3	Europe	TV	Eurobet 14	Wielka Brytania	Gry	encoder	BISS	3514	2014	3014[eng]	1014	2014		2017-10-30	No	67001011
+11881.00	V	27500 2/3	Europe	TV	ORTB	Benin	Ogólne		FTA	3515	2015	3015[fra]	1015	2015		2019-07-09	Yes	67001013
+11881.00	V	27500 2/3	Europe	TV	RTS 1 Senegal	Senegal	Ogólne	Scopus Network Technologies	FTA	3519	2019	3019[fra]	1019	2019	4019	2018-03-05	Yes	67001015
+11881.00	V	27500 2/3	Europe	TV	OPAP VG1			encoder	Cryptoguard	3521	2021	3021[eng]	1021	2021		2018-09-07	No	67001017
+11881.00	V	27500 2/3	Europe	TV	OPAP MG			encoder	Cryptoguard	3522	2022	3022[eng]	1022	2022		2018-09-07	No	67001019
+11881.00	V	27500 2/3	Europe	TV	OPAP Horse Races	Grecja	Wyścigi	Encoder	FTA	3523	2023	3023[gre]	1023	2023		2020-03-06	Yes	67001021
+11881.00	V	27500 2/3	Europe	TV	MCM Top	Francja	Muzyka	PBS	Viaccess 6.0	3525	2025	3025	1025	2025	4025	2019-06-18	No	67001023
+11881.00	V	27500 2/3	Europe	R	RSI			Scopus Network Technologies	FTA	3520		3020	1020	8191		2018-02-07	Yes	67001025
+11900.00	H	27500 2/3	Europe	TV	Trace Sports International HD	Francja	Sport		Viaccess 2.6	14	612	632[eng]|633[fra]|634[eng]|636[rus]	181	612		2019-07-07	No	71001003
+11900.00	H	27500 2/3	Europe	TV	Trace Urban International HD	Francja	Muzyka	TRACE	Viaccess 2.6	15	711	731[eng]	182	711		2018-02-09	No	71001005
+11900.00	H	27500 2/3	Europe	TV	TVT International	Togo	Ogólne	TVT	FTA	20	101	103[fr]	100	102		2019-07-08	Yes	71001007
+11900.00	H	27500 2/3	Europe	TV	RTB	Burkina Faso	Ogólne		FTA	23	33	34[fra]	32	33		2019-07-09	Yes	71001009
+11900.00	H	27500 2/3	Europe	TV	RTS 2 Senegal	Senegal	Ogólne	aCAN Group	FTA	101	1011	1012[fra]	1010	1019		2019-07-09	Yes	71001011
+11900.00	H	27500 2/3	Europe	TV	Better 1	nieokreślony	Gry	encoder	Cryptoguard	111	1111	1112[eng]	1110	1111		2019-04-06	No	71001013
+11900.00	H	27500 2/3	Europe	TV	Better 2	nieokreślony	Gry	encoder	FTA|Cryptoguard	112	1121	1122[eng]	1120	1121		2019-10-26	Yes	71001015
+11900.00	H	27500 2/3	Europe	TV	Better 3	nieokreślony	Gry	encoder	Cryptoguard	113	1131	1132[eng]	1130	1131		2019-04-06	No	71001017
+11900.00	H	27500 2/3	Europe	TV	Better 4	nieokreślony	Różne	encoder	Cryptoguard	114	1141	1142[eng]	1140	1141		2019-04-06	No	71001019
+11900.00	H	27500 2/3	Europe	TV	EBS - Europe by Satellite	Belgia	Informacje		FTA	233	200	201[qaa]|202[eng]|203[fra]|204[ger]|205[ita]|206[esp]|207[gre]|208[por]|209[ned]|210[den]|211[fin]|212[swe]|213[cze]|214[est]|215[lav]|216[lit]|217[hun]|218[mlt]|219[pol]|220[slk]|221[slo]|222[bul]|223[rom]|224[gle]|225[mis]	233	200		2016-03-10	Yes	71001021
+11900.00	H	27500 2/3	Europe	TV	EBS - Europe by Satellite	Belgia	Informacje		FTA	433	400	401[qaa]|402[eng]|403[fra]|404[ger]|405[ita]|406[esp]|407[gre]|408[por]|409[ned]|410[den]|411[fin]|412[swe]|413[cze]|414[est]|415[lav]|416[lit]|417[hun]|418[mlt]|419[pol]|420[slk]|421[slo]|422[bul]|423[rom]|424[gle]|425[mis]	433	400		2016-03-10	Yes	71001023
+11900.00	H	27500 2/3	Europe	TV	MyZen.tv	Francja	Lifestyle	Eutelsat	Viaccess 2.6|Viaccess 5.0	1650	1651	1652[esp]|1653[rus]|1654[eng]|1655[fra]|1656[qaa]	1650	1651		2019-05-11	No	71001025
+11900.00	H	27500 2/3	Europe	R	TVT Radio 1 (Radio Lome)				FTA	21		113[fra]	110	8191		2019-12-12	Yes	71001027
+11900.00	H	27500 2/3	Europe	R	TVT Radio 2 (Radio Kara)				FTA	22		123[fra]	120	8191		2019-12-12	Yes	71001029
+11900.00	H	27500 2/3	Europe	R	RTB Radio			SBT	FTA	24		35[fra]	48	49		2019-05-23	Yes	71001031
+11919.00	V	27500 3/4	Europe	TV	NLM TV	nieokreślony	Ogólne	RRSat	FTA	17	2017	3017[tam]	1017	2017		2016-03-09	Yes	75001001
+11919.00	V	27500 3/4	Europe	TV	Italy Service 3	Włochy	Gry	RRSat	FTA	58	2058	3058	1058	2058		2019-06-23	Yes	75001003
+11919.00	V	27500 3/4	Europe	TV	Italy Service 5	Włochy	Gry	RRsat	FTA	60	2060	3060	1060	2060		2019-06-21	Yes	75001005
+11938.00	H	27500 2/3	Europe	TV	ERT 3	Grecja	Ogólne	Cosmote	VideoGuard	1002	402	502[gre]	302	402		2019-08-09	No	79001001
+11938.00	H	27500 2/3	Europe	TV	Village Cinema HD	Grecja	Filmy	Cosmote	VideoGuard	1016	416	516[eng]	316	416		2019-08-06	No	79001003
+11938.00	H	27500 2/3	Europe	TV	Vergina TV	Grecja	Rozrywka	Cosmote	VideoGuard	1017	417	517[gre]	317	417		2019-08-06	No	79001005
+11938.00	H	27500 2/3	Europe	TV	Atlas TV	Francja	Różne	Cosmote	VideoGuard	1033	433	533[gre]	333	433		2019-07-24	No	79001007
+11938.00	H	27500 2/3	Europe	TV	CNN International Europe	Wielka Brytania	Informacje	Cosmote	VideoGuard	1040	440	540[eng]	340	440		2019-07-24	No	79001009
+11938.00	H	27500 2/3	Europe	TV	TCM HD Greece	Grecja	Filmy	Cosmote	VideoGuard	1044	444	544[eng]	344	444		2019-08-06	No	79001011
+11938.00	H	27500 2/3	Europe	TV	TEST 2 SD			Cosmote	VideoGuard	1065	465	565[eng]	365	465		2019-07-07	No	79001013
+11938.00	H	27500 2/3	Europe	TV	ERT Sports HD	Grecja	Sport	Cosmote	VideoGuard	1105	4105	5105[gre]	3105	4105		2019-08-06	No	79001015
+11938.00	H	27500 2/3	Europe	TV	National Geographic HD Greece	Grecja	Dokumenty	Cosmote	VideoGuard	1107	4107	5107[eng]	3107	4107		2019-09-30	No	79001017
+11938.00	H	27500 2/3	Europe	TV	ERT 2	Grecja	Ogólne	Cosmote	VideoGuard	1113	4113	5113[gre]	3113	4113		2019-08-09	No	79001019
+11938.00	H	27500 2/3	Europe	TV	Cosmote Cinema 2 HD	Grecja	Filmy	Cosmote	VideoGuard	1120	4120	5120[eng]	3120	4120		2019-08-06	No	79001021
+11938.00	H	27500 2/3	Europe	TV	Fox Life Greece HD	Grecja	Rozrywka	Cosmote	VideoGuard	1121	4121	5121[eng]	3121	4121		2019-08-12	No	79001023
+11938.00	H	27500 2/3	Europe	TV	TEST 81			Cosmote	VideoGuard	1138	4138	5138[eng]	3138	4138		2019-05-29	No	79001025
+11938.00	H	27500 2/3	Europe	TV	TEST - 3			Cosmote	VideoGuard	1139	4139	5139[eng]	3139	4139		2019-07-17	No	79001027
+11958.00	V	27500 2/3	Europe	TV	M1 HD			AustriaSat Magyarország	FTA	101	1101	1201[hun]|1301[mul]	1701	1101	1501	2019-08-07	Yes	83001001
+11958.00	V	27500 2/3	Europe	TV	M2 HD			AustriaSat Magyarország	FTA	102	1102	1202[hun]|1302[mul]	1702	1102	1510	2018-11-17	Yes	83001003
+11958.00	V	27500 2/3	Europe	TV	Duna HD			AustriaSat Magyarország	FTA	103	1103	1203[hun]|1303[mul]	1703	1103	1501	2019-06-09	Yes	83001005
+11958.00	V	27500 2/3	Europe	TV	M4 Sport HD			AustriaSat Magyarország	FTA|Conax	104	1104	1204[hun]|1304[mul]	1704	1104	1501	2017-08-19	Yes	83001007
+11958.00	V	27500 2/3	Europe	TV	Duna World	Węgry	Ogólne	AustriaSat Magyarország	FTA	105	1105	1205[hun]|1305[mul]	1705	1105	1501	2019-02-25	Yes	83001009
+11958.00	V	27500 2/3	Europe	TV	M5 HD			MTVA	FTA	106	1106	1206[hun]|1306[mul]	1706	1106	1510	2016-11-25	Yes	83001011
+11958.00	V	27500 2/3	Europe	TV	M3	Węgry	Ogólne	AustriaSat Magyarország	Conax|Irdeto 2	110	1110	1210[hun]|1310[mul]	1710	1110	1510	2016-04-26	No	83001013
+11958.00	V	27500 2/3	Europe	TV	M1 HD	Węgry	Ogólne	MTVA	FTA	111	1101	1201[hun]	1711	1101	1501	2016-03-10	Yes	83001015
+11958.00	V	27500 2/3	Europe	TV	M2 HD	Węgry	Ogólne	MTVA	FTA	112	1102	1202[hun]	1712	1102	1510	2016-03-10	Yes	83001017
+11958.00	V	27500 2/3	Europe	TV	Duna 1 HD	Węgry	Ogólne	MTVA	FTA	113	1103	1203[hun]	1713	1103	1501	2016-03-10	Yes	83001019
+11958.00	V	27500 2/3	Europe	TV	M4 Sport HD	Węgry	Sport	MTVA	FTA	114	1104	1204[hun]	1714	1104	1501	2016-03-10	Yes	83001021
+11958.00	V	27500 2/3	Europe	TV	M5 HD	Węgry	Ogólne	MTVA	FTA	116	1106	1206[hun]	1716	1106	1510	2016-07-14	Yes	83001023
+11958.00	V	27500 2/3	Europe	R	Kossuth Radio (AAC)			MTVA	FTA	151		1251[hun]	1751	1251		2016-03-10	Yes	83001025
+11958.00	V	27500 2/3	Europe	R	Petofi Radio (AAC)			MTVA	FTA	152		1252[hun]	1752	1252		2016-03-10	Yes	83001027
+11958.00	V	27500 2/3	Europe	R	Bartok Radio (AAC)			MTVA	FTA	153		1253[hun]	1753	1253		2016-03-10	Yes	83001029
+11958.00	V	27500 2/3	Europe	R	Nemzetisegi Radio (AAC)			MTVA	FTA	154		1254[hun]	1754	1254		2016-03-10	Yes	83001031
+11958.00	V	27500 2/3	Europe	R	Parlamenti Radio (AAC)			MTVA	FTA	155		1255[hun]	1755	1255		2016-03-10	Yes	83001033
+11958.00	V	27500 2/3	Europe	R	Danko Radio (AAC)			MTVA	FTA	156		1256[hun]	1756	1256		2016-03-10	Yes	83001035
+11958.00	V	27500 2/3	Europe	R	Duna World Radio (AAC)			MTVA	FTA	157		1257[hun]	1757	1257		2016-08-04	Yes	83001037
+11958.00	V	27500 2/3	Europe	R	Katolikus Radio (AAC)			Katolikus Radio	FTA	158		1258[hun]	1758	1258		2016-09-03	Yes	83001039
+11958.00	V	27500 2/3	Europe	R	Kossuth Radio (L2)			MTVA	FTA	161		1261[hun]	1761	1261		2016-03-10	Yes	83001041
+11958.00	V	27500 2/3	Europe	R	Petofi Radio (L2)			MTVA	FTA	162		1262[hun]	1762	1262		2016-03-10	Yes	83001043
+11958.00	V	27500 2/3	Europe	R	Bartok Radio (L2)			MTVA	FTA	163		1263[hun]	1763	1263		2016-03-10	Yes	83001045
+11958.00	V	27500 2/3	Europe	R	Danko Radio (L2)			MTVA	FTA	166		1266[hun]	1766	1266		2016-03-10	Yes	83001047
+11958.00	V	27500 2/3	Europe	R	K192ser			MTVA	FTA	167		1267[hun]	1767	1267		2016-03-10	Yes	83001049
+11958.00	V	27500 2/3	Europe	R	D192ser			MTVA	FTA	168		1268[hun]	1768	1268		2016-03-10	Yes	83001051
+11977.00	H	27500 2/3	Germany	TV	Mediaset Italia	Włochy	Ogólne	Kabelkiosk	Conax|VideoGuard	501	1511	1512[ita]	1501	1511		2016-03-10	No	87001001
+11977.00	H	27500 2/3	Germany	TV	Playboy TV	Wielka Brytania	Erotyka	Kabelkiosk	Conax|VideoGuard	502	1521	1522[eng]|1523[fra]	1502	1521		2018-04-11	No	87001003
+11977.00	H	27500 2/3	Germany	TV	TVN International Europe	Polska	Ogólne	Kabelkiosk	Conax|VideoGuard	503	1531	1532[pol]	1503	1531	1533	2016-03-10	No	87001005
+11977.00	H	27500 2/3	Germany	TV	Auto Motor Sport	Niemcy	Sport	Kabelkiosk	Conax|VideoGuard	504	1541	1542[ger]|1543[bul]|1544[cze]|1545[hun]	1504	1541		2016-03-10	No	87001007
+11977.00	H	27500 2/3	Germany	TV	Fuel HD	Stany Zjednoczone	Rozrywka	Kabelkiosk	Conax|VideoGuard	505	1551	1552[eng]	1505	1551		2016-03-10	No	87001009
+11977.00	H	27500 2/3	Germany	TV	Fix & Foxi	Niemcy	Dzieci	Kabelkiosk	Conax|VideoGuard	506	1561	1562[ger]|1563[bul]|1564[rom]	1506	1561		2016-03-10	No	87001011
+11977.00	H	27500 2/3	Germany	TV	Penthouse Passion	Stany Zjednoczone	Porno	Kabelkiosk	Conax|VideoGuard	507	1571	1572[eng]	1507	1571		2019-04-02	No	87001013
+11977.00	H	27500 2/3	Germany	TV	Mezzo Live HD	Francja	Muzyka	Kabelkiosk	Conax|VideoGuard	509	1591	1592[fra]	1509	1591		2016-03-10	No	87001015
+11977.00	H	27500 2/3	Germany	TV	RTVD OstWest	Rosja	Ogólne	Kabelkiosk	Conax|VideoGuard	510	1601	1602[rus]	1600	1601		2018-05-09	No	87001017
+11977.00	H	27500 2/3	Germany	TV	Kinomir	Rosja	Filmy	Kabelkiosk	Conax|VideoGuard	511	1611	1612[rus]	1610	1611		2016-05-07	No	87001019
+11977.00	H	27500 2/3	Germany	TV	TeleBom/TeleDom	Rosja	Różne	Kabelkiosk	Conax|VideoGuard	512	1621	1622[rus]	1620	1621		2016-05-07	No	87001021
+11977.00	H	27500 2/3	Germany	TV	Penthouse Passion (20-06)			Kabelkiosk	FTA	513	1571	1572[eng]	1630	1571		2020-04-10	Yes	87001023
+11977.00	H	27500 2/3	Germany	TV	Playboy TV SD (20-06)			Kabelkiosk	FTA	515	1521	1522[eng]|1523[fra]	1655	1521		2020-04-10	Yes	87001025
+11977.00	H	27500 2/3	Germany	TV	Love Nature HD	nieokreślony	Dokumenty	BASIS 1	FTA	516	1661	1662[tur]	1660	1661		2019-08-29	Yes	87001027
+11996.00	V	27500 3/4	Europe	TV	CCTV 4	Chiny	Ogólne	Globecast	FTA	619	3901	3911[chi]	3998	3999		2016-03-09	Yes	91001003
+11996.00	V	27500 3/4	Europe	TV	CCTV E	Chiny	Ogólne	Globecast	FTA	620	4001	4011[esp]	4098	4099		2017-01-29	Yes	91001005
+11996.00	V	27500 3/4	Europe	TV	CCTV-R	Chiny	Ogólne	Globecast	FTA	621	4101	4111[rus]	4198	4199		2017-01-29	Yes	91001007
+11996.00	V	27500 3/4	Europe	TV	CGTN-A	Chiny	Ogólne	Globecast	FTA	622	4201	4211[ara]	4298	4299		2018-02-10	Yes	91001009
+11996.00	V	27500 3/4	Europe	TV	CGTN Documentary	Chiny	Dokumenty	Globecast	FTA	623	4301	4311	4398	4399		2018-04-03	Yes	91001011
+11996.00	V	27500 3/4	Europe	TV	CBS Reality EMEA	Wielka Brytania	Real TV	Globecast	Irdeto 2	627	4701	4711[eng]	4798	4701		2019-12-04	No	91001013
+11996.00	V	27500 3/4	Europe	TV	JimJam PE			Globecast	Irdeto 2	628	4801	4811	4898	4801		2019-12-03	No	91001015
+11996.00	V	27500 3/4	Europe	TV	JimJam ME			Globecast	Irdeto 2	629	4901	4911	4998	4901		2019-12-04	No	91001017
+11996.00	V	27500 3/4	Europe	TV	Extreme Sports	Holandia	Sport	Harmonic	Irdeto 2	630	5001	5011[eng]|5012[ger]|5013[fra]|5014[hun]|5015[tur]|5016[rus]	5098	5001	5021	2019-12-12	No	91001019
+11996.00	V	27500 3/4	Europe	R	EDM FM			Globecast	FTA	631		5111[eng]	5198	5111		2019-12-11	Yes	91001021
+12015.00	H	27500 2/3	Germany	TV	Super RTL HD	Niemcy	Rozrywka	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	406	1693	1694[ger]	1692	1693	1696	2020-03-07	No	95001001
+12015.00	H	27500 2/3	Germany	TV	Sixx HD	Niemcy	Ogólne	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	416	2017	2018[ger]	2016	2017	2019	2020-03-07	No	95001003
+12015.00	H	27500 2/3	Germany	TV	RTL 2 HD	Niemcy	Rozrywka	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	417	2027	2028[ger]	2026	2027	2029	2020-03-07	No	95001005
+12015.00	H	27500 2/3	Germany	TV	Deluxe Music HD	Niemcy	Muzyka	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	418	2051	2052[ger]	2050	2051		2020-03-07	No	95001007
+12015.00	H	27500 2/3	Germany	TV	Comedy Central HD Germany	Niemcy	Komedia	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	419	2071	2072[ger]|2073[ger]	2070	2071		2020-03-01	No	95001009
+12015.00	H	27500 2/3	Germany	TV	Disney Channel HD Germany	Niemcy	Dzieci	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	420	2091	2092[ger]	2090	2091	2094	2020-03-07	No	95001011
+12034.00	V	27500 3/4	Europe	TV	M6 HD	Francja	Ogólne	GLOBECAST	FTA	202	2020	2021[fra]|2022[qad]	5202	2020		2017-04-30	Yes	99001001
+12034.00	V	27500 3/4	Europe	TV	6ter	Francja	Ogólne	GLOBECAST	FTA	204	2040	2041[fra]|2042[qad]	5204	2040		2017-04-30	Yes	99001003
+12034.00	V	27500 3/4	Europe	TV	W9 Suisse HD	Francja	Ogólne	GLOBECAST	FTA	205	2050	2051[fra]|2052[qad]	5205	2050		2017-04-30	Yes	99001005
+12034.00	V	27500 3/4	Europe	TV	RTG International	Rosja	Podróże	GLOBECAST	FTA	352	3521	3522[rus]|3523[eng]|3524[tur]	256	3521		2017-04-30	Yes	99001007
+12034.00	V	27500 3/4	Europe	TV	PCNE - Phoenix Chinese News & Entertainment	Wielka Brytania	Ogólne	GLOBECAST	FTA	353	3531	3532[chi]	257	3531		2018-04-26	Yes	99001009
+12034.00	V	27500 3/4	Europe	TV	ORTM	Mali	Ogólne	GLOBECAST	FTA	354	3541	3542[eng]|3543[eng]	258	8190		2019-11-21	Yes	99001011
+12034.00	V	27500 3/4	Europe	TV	Télé Sahel	Niger	Ogólne	GLOBECAST	FTA	355	3551	3552[fra]	259	3551		2019-04-13	Yes	99001013
+12034.00	V	27500 3/4	Europe	TV	BBC Entertainment Europe	Wielka Brytania	Ogólne	Globecast	Irdeto 2	357	3570	3571[eng]	270	3570		2018-04-26	No	99001015
+12034.00	V	27500 3/4	Europe	TV	Disney Channel Middle-East & Africa	Dubaj	Dzieci	ARC/DCM2 TSOIP	Irdeto 2	358	3580	3581[ara]|3582[gre]|3583[eng]	280	3580		2018-06-01	No	99001017
+12034.00	V	27500 3/4	Europe	TV	Karusel Int	Rosja	Dzieci	GLOBECAST	FTA	360	3600	3601[rus]	273	3600		2017-12-15	Yes	99001019
+12034.00	V	27500 3/4	Europe	TV	MST International	nieokreślony	Wyścigi	GLOBECAST	Conax	361	3611	3612[aac][ita]	261	3611		2020-01-24	No	99001021
+12034.00	V	27500 3/4	Europe	TV	Outdoor HD			GLOBECAST	Irdeto 2	362	3620	3621	262	3620		2019-12-04	No	99001023
+12034.00	V	27500 3/4	Europe	R	La Voix Du Sahel			GLOBECAST	FTA	356		3561[fra]	260	3562		2019-04-11	Yes	99001025
+12054.00	H	27500 2/3	Europe	TV	ERT 1	Grecja	Ogólne	Cosmote	VideoGuard	1001	401	501[gre]	301	401		2016-03-09	No	103001001
+12054.00	H	27500 2/3	Europe	TV	Cosmote Sport 6 HD	Grecja	Sport	Cosmote	VideoGuard	1003	403	503[gre]|603[eng]	303	403		2019-08-12	No	103001003
+12054.00	H	27500 2/3	Europe	TV	Kanali Voulis	Grecja	Informacje	OTE	FTA	1005	405	505[gre]	305	405		2016-03-09	Yes	103001005
+12054.00	H	27500 2/3	Europe	TV	4E Hellas Orthodox	Grecja	Religia	OTE	FTA	1012	412	512[gre]	312	412		2016-03-09	Yes	103001007
+12054.00	H	27500 2/3	Europe	TV	ANT 1	Grecja	Ogólne	Cosmote	VideoGuard	1030	430	530[gre]	330	430		2019-01-12	No	103001009
+12054.00	H	27500 2/3	Europe	TV	Cosmote Sport 4 HD	Grecja	Sport	Cosmote	VideoGuard	1039	439	539[gre]|639[eng]	339	439		2017-01-16	No	103001011
+12054.00	H	27500 2/3	Europe	TV	One Channel HD	Grecja	Różne	Cosmote	VideoGuard	1045	445	545[gre]	345	445		2019-05-24	No	103001013
+12054.00	H	27500 2/3	Europe	TV	NatGeo Wild HD	Wielka Brytania	Dokumenty	Cosmote	VideoGuard	1050	450	550[eng]	350	450		2019-10-12	No	103001015
+12054.00	H	27500 2/3	Europe	TV	Fashion TV	Francja	Lifestyle	Cosmote	VideoGuard	1062	462	562[eng]	362	462		2016-03-09	No	103001017
+12054.00	H	27500 2/3	Europe	TV	Ant1 Europe	Grecja	Ogólne	Arabesque	Viaccess 2.5	1069	469	569	369	469		2016-03-09	No	103001019
+12054.00	H	27500 2/3	Europe	TV	Baby TV	Wielka Brytania	Dzieci	Cosmote	VideoGuard	1072	472	572[gre]|672[eng]	372	472		2016-03-09	No	103001021
+12054.00	H	27500 2/3	Europe	TV	Euronews Greek	Francja	Informacje	Cosmote	VideoGuard	1080	480	580[gre]	380	480		2017-05-13	No	103001023
+12054.00	H	27500 2/3	Europe	TV	Cosmote Sport 7 HD	Grecja	Sport	Cosmote	VideoGuard	1091	491	591[gre]|691[eng]	391	491		2017-01-16	No	103001025
+12054.00	H	27500 2/3	Europe	TV	Macedonia TV HD	Grecja	Ogólne	Cosmote	VideoGuard	1098	498	598[gre]	398	498		2019-07-10	No	103001027
+12073.00	V	30000 3/4	Europe	TV	Nickelodeon Nederland	Holandia	Dzieci	Joyne	Conax	401	1101	1102[ned]	1100	1101	1131	2017-08-11	No	107001001
+12073.00	V	30000 3/4	Europe	TV	Discovery Channel HD Netherlands	Wielka Brytania	Dokumenty	Joyne	Conax	402	1201	1202[ned]|1221[ned]	1200	1201	1231	2017-08-19	No	107001003
+12073.00	V	30000 3/4	Europe	TV	Investigation Discovery HD	Wielka Brytania	Dokumenty	Joyne	Conax	403	1301	1302[ned]|1303[ned]|1321[ned]	1300	1301		2017-08-19	No	107001005
+12073.00	V	30000 3/4	Europe	TV	Eurosport 1 HD	Francja	Sport	Joyne	Conax	404	1401	1402[nld]|1403[eng]	1400	1401		2017-08-11	No	107001007
+12073.00	V	30000 3/4	Europe	TV	Eurosport 2 HD	Francja	Sport	Joyne	Conax	405	1501	1502[ned]|1503[eng]	1500	1501		2017-08-11	No	107001009
+12073.00	V	30000 3/4	Europe	TV	TLC Netherlands	Holandia	Dokumenty	Joyne	Conax	406	1601	1602[ned]|1603[ned]	1600	1601	1631	2017-08-11	No	107001011
+12073.00	V	30000 3/4	Europe	TV	Xite	Holandia	Rozrywka	Joyne	Conax	407	1701	1702[ned]	1700	1701		2017-08-11	No	107001013
+12073.00	V	30000 3/4	Europe	TV	MTV Nederland	Holandia	Muzyka	Joyne	Conax	408	1801	1802[ned]	1800	1801		2017-08-11	No	107001015
+12073.00	V	30000 3/4	Europe	TV	TV Oranje	Holandia	Muzyka	Joyne	FTA	409	1901	1902[ned]	1900	1901		2017-08-11	Yes	107001017
+12073.00	V	30000 3/4	Europe	TV	Schlager TV	Holandia	Muzyka	Joyne	FTA	410	2001	2002[ger]	2000	2001		2017-08-11	Yes	107001019
+12073.00	V	30000 3/4	Europe	TV	Nashville TV	Holandia	Muzyka	Joyne	FTA	411	2101	2102[eng]	2100	2101		2017-08-11	Yes	107001021
+12073.00	V	30000 3/4	Europe	TV	192TV	Holandia	Muzyka	Joyne	Conax	412	2201	2202[ned]	2200	2201		2017-08-11	No	107001023
+12073.00	V	30000 3/4	Europe	TV	NL Provinciaal 1	Holandia	Regionalne	Joyne	FTA	413	2301	2302[ned]	2300	2301		2019-01-06	Yes	107001025
+12073.00	V	30000 3/4	Europe	TV	NL Provinciaal 2	Holandia	Regionalne	Joyne	FTA	414	2401	2402[ned]	2400	2401		2019-01-06	Yes	107001027
+12073.00	V	30000 3/4	Europe	TV	één HD	Belgia	Ogólne	Joyne	Conax	415	2501	2502[ned]|2503[eng]	2500	2501	2531	2019-05-30	No	107001029
+12073.00	V	30000 3/4	Europe	TV	Canvas HD	Belgia	Ogólne	Joyne	Conax	416	2601	2602[ned]|2603[eng]	2600	2601	2631	2018-07-24	No	107001031
+12073.00	V	30000 3/4	Europe	TV	Ketnet HD	Belgia	Dzieci	Joyne	Conax	417	2701	2702[ned]	2700	2701	2731	2018-07-24	No	107001033
+12073.00	V	30000 3/4	Europe	TV	History HD Europe	Wielka Brytania	Historia	Joyne	Conax	418	2801	2802[ned]	2800	2801		2017-08-11	No	107001035
+12073.00	V	30000 3/4	Europe	TV	Crime & Investigation Network	Wielka Brytania	Dokumenty	Joyne	Conax	420	3001	3002[ned]	3000	3001	3031	2017-09-12	No	107001037
+12073.00	V	30000 3/4	Europe	TV	Family 7	Holandia	Rozrywka	Joyne	Conax	422	3201	3202[ned]	3200	3201		2018-01-05	No	107001039
+12073.00	V	30000 3/4	Europe	TV	Fox Channel Netherlands	Holandia	Rozrywka	Joyne	Conax	423	3301	3302[ned]	3300	3301		2017-08-11	No	107001041
+12073.00	V	30000 3/4	Europe	TV	Fox Sports Eredivisie 1 HD	Holandia	Sport	Joyne	Conax	424	3401	3402[ned]	3400	3401	3431	2018-04-15	No	107001043
+12073.00	V	30000 3/4	Europe	TV	Fox Sports 2 HD	Holandia	Sport	Joyne	Conax	425	3501	3502[ned]	3500	3501		2020-01-25	No	107001045
+12073.00	V	30000 3/4	Europe	TV	Fox Sports 3 HD	Holandia	Sport	Joyne	Conax	426	3601	3602[ned]	3600	3601		2020-01-25	No	107001047
+12073.00	V	30000 3/4	Europe	TV	TravelXP HD	nieokreślony	Dokumenty	Joyne	Conax	431	4101	4102[ned]	4100	4101		2017-09-12	No	107001049
+12073.00	V	30000 3/4	Europe	TV	Joyne	Holandia	Prezentacje	Joyne	FTA	432	4201	4202	4200	4201		2019-07-29	Yes	107001051
+12073.00	V	30000 3/4	Europe	TV	Dusk International	nieokreślony	Różne	Joyne	Conax	445	5501	5502[ned]	5500	5501		2018-05-20	No	107001053
+12073.00	V	30000 3/4	Europe	R	NPO Radio 1			Joyne	FTA	433		4302[ned]	4300	4302		2017-08-11	Yes	107001055
+12073.00	V	30000 3/4	Europe	R	NPO Radio 2			Joyne	FTA	434		4402[ned]	4400	4402		2017-08-11	Yes	107001057
+12073.00	V	30000 3/4	Europe	R	NPO Radio 3			Joyne	FTA	435		4502[ned]	4500	4502		2017-08-11	Yes	107001059
+12073.00	V	30000 3/4	Europe	R	NPO Radio 4			Joyne	FTA	436		4602[ned]	4600	4602		2017-08-11	Yes	107001061
+12073.00	V	30000 3/4	Europe	R	NPO Radio 5			Joyne	FTA	437		4702[ned]	4700	4702		2017-08-11	Yes	107001063
+12073.00	V	30000 3/4	Europe	R	Radio NL			Joyne	FTA	438		4802[ned]	4800	4802		2017-08-11	Yes	107001065
+12073.00	V	30000 3/4	Europe	R	100% NL			Joyne	FTA	439		4902[ned]	4900	4902		2017-08-11	Yes	107001067
+12073.00	V	30000 3/4	Europe	R	Sky Radio			Joyne	FTA	440		5002[ned]	5000	5002		2017-08-11	Yes	107001069
+12073.00	V	30000 3/4	Europe	R	Radio 538			Joyne	FTA	441		5102[ned]	5100	5102		2017-08-11	Yes	107001071
+12073.00	V	30000 3/4	Europe	R	Veronica			Joyne	FTA	442		5202[ned]	5200	5202		2018-03-03	Yes	107001073
+12092.00	H	27500 3/4	Europe	TV	Disney Junior Middle-East & Africa	Wielka Brytania	Dzieci	Arqiva	Viaccess 4.0|Viaccess 5.0	1105	1101	1102[eng]|1103[tur]|1104[pol]|1105[rom]|1106[gre]|1108[ara]	256	1101	1121	2018-05-20	No	111001003
+12092.00	H	27500 3/4	Europe	TV	Luxe TV	Francja	Lifestyle	Arqiva	Viaccess 4.0	1110	1201	1202[fra]|1203[eng]|1205[aac][cmn]|1206[rus]	257	1201		2019-07-01	No	111001005
+12092.00	H	27500 3/4	Europe	TV	NTD TV (New Tang Dynasty TV)	Stany Zjednoczone	Ogólne	ARQIVA	FTA	1120	1401	1402[chi]	261	1401		2017-06-30	Yes	111001007
+12092.00	H	27500 3/4	Europe	TV	PTV Global	Pakistan	Ogólne	Arqiva	FTA	1130	1601	1602[eng]	262	1601		2020-03-02	Yes	111001009
+12092.00	H	27500 3/4	Europe	TV	E! HD	Wielka Brytania	Rozrywka	Arqiva	Viaccess 4.0|Viaccess 5.0	1145	1901	1902[eng]|1903[ger]|1905[fra]|1906[pol]|1907[tur]|1914[cze]|1915[hun]|1908[eng]|1909[ger]|1911[fra]|1912[pol]|1913[tur]|1916[cze]|1917[hun]	265	1901	1921	2016-08-26	No	111001011
+12111.00	V	31400 2/3	Italy	TV	Boing	Włochy	Dzieci		FTA	145	1680	1681[ita]	245	1680		2020-01-11	Yes	115001001
+12111.00	V	31400 2/3	Italy	TV	Cartoonito Italy	Włochy	Dzieci		FTA	147	1820	1821[ita]	247	1820		2020-01-11	Yes	115001003
+12111.00	V	31400 2/3	Italy	TV	20 Mediaset	Włochy	Różne		FTA	2019	620	621[ita]|622[eng]	219	620		2020-01-11	Yes	115001005
+12111.00	V	31400 2/3	Italy	TV	20 Mediaset				FTA	2020	620	621[ita]|622[eng]	220	620		2020-01-11	Yes	115001007
+12111.00	V	31400 2/3	Italy	TV	20 Mediaset				FTA	2120	620	621[ita]|622[eng]	204	620		2020-01-11	Yes	115001009
+12111.00	V	31400 2/3	Italy	TV	TOPcrime	Włochy	Seriale		FTA	2121	1770	1771[ita]|1772[eng]	221	1770	1779	2020-01-11	Yes	115001011
+12111.00	V	31400 2/3	Italy	TV	Focus	Włochy	Ogólne		FTA	2122	1780	1781[ita]|1782[eng]	222	1780		2020-01-11	Yes	115001013
+12111.00	V	31400 2/3	Italy	TV	Cine34	Włochy	Filmy		FTA	2123	1760	1761[ita]	223	1760		2020-01-18	Yes	115001015
+12111.00	V	31400 2/3	Italy	TV	Food Network Italia	Włochy	Gotowanie		FTA	2148	1030	1031[ita]	248	1030		2020-01-11	Yes	115001017
+12111.00	V	31400 2/3	Italy	TV	QVC Italia	Włochy	Telezakupy		FTA	2149	100	101[ita]	249	100		2020-01-11	Yes	115001019
+12111.00	V	31400 2/3	Italy	TV	TOPcrime				FTA	2150	1770	1771[ita]|1772[eng]	250	1770	1779	2020-01-11	Yes	115001021
+12111.00	V	31400 2/3	Italy	TV	Focus				FTA	2151	1780	1781[ita]|1782[eng]	251	1780		2020-01-11	Yes	115001023
+12111.00	V	31400 2/3	Italy	TV	Cine34				FTA	2152	1760	1761[ita]	252	1760		2020-01-18	Yes	115001025
+12111.00	V	31400 2/3	Italy	TV	Boing	Włochy	Dzieci		FTA	145	1680	1681[ita]	245	1680		2020-01-11	Yes	119001001
+12111.00	V	31400 2/3	Italy	TV	Cartoonito Italy	Włochy	Dzieci		FTA	147	1820	1821[ita]	247	1820		2020-01-11	Yes	119001003
+12111.00	V	31400 2/3	Italy	TV	20 Mediaset	Włochy	Różne		FTA	2019	620	621[ita]|622[eng]	219	620		2020-01-11	Yes	119001005
+12111.00	V	31400 2/3	Italy	TV	20 Mediaset				FTA	2020	620	621[ita]|622[eng]	220	620		2020-01-11	Yes	119001007
+12111.00	V	31400 2/3	Italy	TV	20 Mediaset				FTA	2120	620	621[ita]|622[eng]	204	620		2020-01-11	Yes	119001009
+12111.00	V	31400 2/3	Italy	TV	TOPcrime	Włochy	Seriale		FTA	2121	1770	1771[ita]|1772[eng]	221	1770	1779	2020-01-11	Yes	119001011
+12111.00	V	31400 2/3	Italy	TV	Focus	Włochy	Ogólne		FTA	2122	1780	1781[ita]|1782[eng]	222	1780		2020-01-11	Yes	119001013
+12111.00	V	31400 2/3	Italy	TV	Cine34	Włochy	Filmy		FTA	2123	1760	1761[ita]	223	1760		2020-01-18	Yes	119001015
+12111.00	V	31400 2/3	Italy	TV	Food Network	Wielka Brytania	Gotowanie		FTA	2148	1030	1031[ita]	248	1030		2020-01-11	Yes	119001017
+12111.00	V	31400 2/3	Italy	TV	QVC Italia	Włochy	Telezakupy		FTA	2149	100	101[ita]	249	100		2020-01-11	Yes	119001019
+12111.00	V	31400 2/3	Italy	TV	TOPcrime				FTA	2150	1770	1771[ita]|1772[eng]	250	1770	1779	2020-01-11	Yes	119001021
+12111.00	V	31400 2/3	Italy	TV	Focus				FTA	2151	1780	1781[ita]|1782[eng]	251	1780		2020-01-11	Yes	119001023
+12111.00	V	31400 2/3	Italy	TV	Cine34				FTA	2152	1760	1761[ita]	252	1760		2020-01-18	Yes	119001025
+12130.00	H	27500 2/3	Germany	TV	Euro Star	Turcja	Ogólne	Kabelkiosk	Conax|VideoGuard	2500	2501	2502[tur]	39	2501		2020-03-07	No	123001001
+12130.00	H	27500 2/3	Germany	TV	RTR Planeta	Rosja	Ogólne	Kabelkiosk	Conax|VideoGuard	2550	2551	2552[rus]	38	2551		2020-03-07	No	123001003
+12130.00	H	27500 2/3	Germany	TV	Euronews French	Francja	Informacje	Kabelkiosk	Conax|VideoGuard	2720	664	658[fra]	173	664		2020-03-07	No	123001005
+12130.00	H	27500 2/3	Germany	TV	Marco Polo TV Germany	Niemcy	Podróże	Kabelkiosk	Conax|VideoGuard	2750	2751	2752[ger]	113	2751		2020-03-07	No	123001007
+12130.00	H	27500 2/3	Germany	TV	TNT (Russia)	Rosja	Ogólne	Kabelkiosk	Conax|VideoGuard	2850	2851	2852[rus]	132	2851		2020-03-07	No	123001009
+12130.00	H	27500 2/3	Germany	TV	Pro7 Fun HD	Niemcy	Rozrywka	Kabelkiosk	Conax|VideoGuard	2900	2901	2902[ger]|2903[eng]	160	2901		2020-03-04	No	123001011
+12130.00	H	27500 2/3	Germany	TV	Kinowelt TV	Niemcy	Filmy	Kabelkiosk	Conax|VideoGuard	2950	2951	2952[ger]	93	2951		2020-03-07	No	123001013
+12130.00	H	27500 2/3	Germany	TV	Bon Gusto	Niemcy	Gotowanie	Kabelkiosk	Conax|VideoGuard	3000	3001	3002[ger]	41	3001		2020-03-07	No	123001015
+12130.00	H	27500 2/3	Germany	TV	Heimatkanal	Niemcy	Seriale	Kabelkiosk	Conax|VideoGuard	3050	3051	3052[ger]	114	3051		2020-03-07	No	123001017
+12130.00	H	27500 2/3	Germany	TV	Silverline	Niemcy	Filmy	Kabelkiosk	Conax|VideoGuard	4000	4001	4002[ger]	180	4001		2020-03-07	No	123001019
+12130.00	H	27500 2/3	Germany	TV	Sony Entertainment TV HD Germany	Niemcy	Rozrywka	Kabelkiosk	Conax|VideoGuard	4010	4011	4012[ger]|4013[eng]	181	4011		2020-03-07	No	123001021
+12168.00	H	27500 2/3	Europe	TV	Cosmote Promo	Grecja	Prezentacje	Cosmote	FTA	1019	419	519[gre]	319	419		2020-03-01	Yes	135001001
+12168.00	H	27500 2/3	Europe	TV	FOX Greece HD	Grecja	Rozrywka	Cosmote	VideoGuard	1038	438	538[eng]	338	438		2020-03-01	No	135001003
+12168.00	H	27500 2/3	Europe	TV	Cosmote Cinema Disney Princess HD	Grecja	Dzieci	Cosmote	VideoGuard	1052	452	552[eng][gre]	352	452		2020-03-21	No	135001005
+12168.00	H	27500 2/3	Europe	TV	Cosmote Sport 5 HD	Grecja	Sport	Cosmote	VideoGuard	1109	4109	5109[gre]|6109[eng]	3109	4109		2020-03-01	No	135001007
+12168.00	H	27500 2/3	Europe	TV	NEA TV	Grecja	Ogólne	Cosmote	VideoGuard	1123	4123	5123[gre]	3123	4123		2020-03-01	No	135001009
+12168.00	H	27500 2/3	Europe	TV	Action 24	Grecja	Filmy	Cosmote	VideoGuard	1124	4124	5124[gre]	3124	4124		2020-03-01	No	135001011
+12168.00	H	27500 2/3	Europe	TV	Euronews English	Francja	Informacje	Cosmote	VideoGuard	1125	4125	5125[eng]	3125	4125		2020-03-01	No	135001013
+12168.00	H	27500 2/3	Europe	TV	Cosmote Sport 9 HD	Grecja	Sport	Cosmote	VideoGuard	1126	4126	5126[gre]|6126[eng]	3126	4126		2020-03-01	No	135001015
+12168.00	H	27500 2/3	Europe	TV	BBC Earth HD	Polska	Dokumenty	Cosmote	VideoGuard	1127	4127	5127[eng]	3127	4127		2020-03-01	No	135001017
+12168.00	H	27500 2/3	Europe	TV	Fox Sports HD Europe	Turcja	Sport	Cosmote	VideoGuard	1129	4129	5129[eng]	3129	4129		2020-03-01	No	135001019
+12168.00	H	27500 2/3	Europe	TV	CBS Reality	Wielka Brytania	Dokumenty	Cosmote	VideoGuard	1131	4131	5131[eng]	3131	4131		2020-03-01	No	135001021
+12168.00	H	27500 2/3	Europe	TV	Viasat Nature CEE	Szwecja	Dokumenty	Cosmote	VideoGuard	1132	4132	5132[eng]	3132	4132		2020-03-01	No	135001023
+12168.00	H	27500 2/3	Europe	TV	Viasat Explore	Szwecja	Dokumenty	Cosmote	VideoGuard	1133	4133	5133[eng]	3133	4133		2020-03-01	No	135001025
+12168.00	H	27500 2/3	Europe	TV	Crime & Investigation Network	Wielka Brytania	Dokumenty	Cosmote	VideoGuard	1134	4134	5134[eng]	3134	4134		2020-03-01	No	135001027
+12188.00	V	31400 2/3	Italy	TV	Rete 4	Włochy	Ogólne		FTA	4004	1630	1631[ita]|1632[eng]	204	1630	1619	2020-01-11	Yes	139001001
+12188.00	V	31400 2/3	Italy	TV	Canale 5	Włochy	Ogólne		FTA	4005	1610	1611[ita]|1612[eng]	205	1610	1619	2020-01-11	Yes	139001003
+12188.00	V	31400 2/3	Italy	TV	Italia1				FTA	4006	1620	1621[ita]|1622[eng]	206	1620	1619	2020-01-11	Yes	139001005
+12188.00	V	31400 2/3	Italy	TV	La5	Włochy	Lifestyle		FTA	4013	1730	1731[ita]|1732[eng]	213	1730	1739	2020-01-11	Yes	139001007
+12188.00	V	31400 2/3	Italy	TV	TgCom24	Włochy	Informacje		FTA	4014	1810	1811[ita]	214	1810	1619	2020-01-11	Yes	139001009
+12188.00	V	31400 2/3	Italy	TV	Iris	Włochy	Ogólne		FTA	4015	1670	1671[ita]|1672[eng]	215	1670	1619	2020-01-11	Yes	139001011
+12188.00	V	31400 2/3	Italy	TV	Rete4				FTA	4024	1630	1631[ita]|1632[eng]	224	1630	1619	2020-01-11	Yes	139001013
+12188.00	V	31400 2/3	Italy	TV	Canale5				FTA	4025	1610	1611[ita]|1612[eng]	225	1610	1619	2020-01-11	Yes	139001015
+12188.00	V	31400 2/3	Italy	TV	Italia Uno	Włochy	Ogólne		FTA	4026	1620	1621[ita]|1622[eng]	226	1620	1619	2020-01-11	Yes	139001017
+12188.00	V	31400 2/3	Italy	TV	La5	Włochy	Lifestyle		FTA	4113	1730	1731[ita]|1732[eng]	253	1730	1739	2020-01-19	Yes	139001019
+12188.00	V	31400 2/3	Italy	TV	TgCom24	Włochy	Informacje		FTA	4114	1810	1811[ita]	254	1810	1619	2020-01-11	Yes	139001021
+12188.00	V	31400 2/3	Italy	TV	Iris	Włochy	Ogólne		FTA	4115	1670	1671[ita]|1672[eng]	255	1670	1619	2020-01-11	Yes	139001023
+12188.00	V	31400 2/3	Italy	IMG	Test HEVC Main10				FTA	4200	2031		200	2031		2020-01-18	Yes	139001025
+12188.00	V	31400 2/3	Italy	TV	Sky Sport Serie A	Włochy	Sport		Nagravision 3	5145	5591	5592[ita]	245	5591		2020-01-11	No	143001001
+12188.00	V	31400 2/3	Italy	IMG	Canale di Servizio				FTA	5146	5521		246	5521		2020-04-04	Yes	143001003
+12188.00	V	31400 2/3	Italy	IMG	Canale di Servizio				FTA	5147	5531		247	5531		2020-04-04	Yes	143001005
+12188.00	V	31400 2/3	Italy	TV	Premium Action	Włochy	Filmy		Nagravision 3|VideoGuard	5148	440	441[ita]|442[eng]	248	440		2020-01-11	No	143001007
+12188.00	V	31400 2/3	Italy	IMG	Canale di Servizio				FTA	5174	5571		274	5571		2020-04-04	Yes	143001009
+12188.00	V	31400 2/3	Italy	TV	Sky Sport 1 Italia	Włochy	Sport		Nagravision 3	5177	5581	5582[ita]	277	5581		2020-01-11	No	143001011
+12188.00	V	31400 2/3	Italy	TV	Sky Sport 1 HD Italia	Włochy	Sport		Nagravision 3	5178	5601	5602[ita]	278	5601		2020-01-11	No	143001013
+12188.00	V	31400 2/3	Italy	TV	Sky Sport 24	Włochy	Sport		Nagravision 3	5179	5561	5562[ita]	279	5561		2020-01-11	No	143001015
+12188.00	V	31400 2/3	Italy	TV	Sky Uno	Włochy	Rozrywka		Nagravision 3	5180	5511	5512[ita]|5513[eng]	280	5511		2020-01-11	No	143001017
+12207.00	H	27500 2/3	Europe	TV	Motorvision HD	Zjednoczone Emiraty	Sport	Cosmote	VideoGuard	1025	425	525[eng]|625[fra]	325	425		2016-09-18	No	147001001
+12207.00	H	27500 2/3	Europe	TV	History HD Europe	Wielka Brytania	Historia	Cosmote	VideoGuard	1032	432	532[eng]	332	432		2018-02-14	No	147001003
+12207.00	H	27500 2/3	Europe	TV	Smile TV (Greece)	Grecja	Różne	Cosmote	VideoGuard	1036	436	536[gre]	336	436		2016-10-07	No	147001005
+12207.00	H	27500 2/3	Europe	TV	Alpha TV Greece	Grecja	Ogólne	Cosmote	VideoGuard	1043	443	543[gre]	343	443		2019-01-12	No	147001007
+12207.00	H	27500 2/3	Europe	TV	COSMOTE Series HD	Grecja	Seriale	Cosmote	VideoGuard	1046	446	546[eng]	346	446		2019-09-02	No	147001009
+12207.00	H	27500 2/3	Europe	TV	VH-1 (Video Hits One)	Wielka Brytania	Muzyka	Cosmote	VideoGuard	1051	451	551[eng]	351	451		2016-03-09	No	147001011
+12207.00	H	27500 2/3	Europe	TV	Disney Channel Greece	Grecja	Dzieci	Cosmote	VideoGuard	1070	470	570[gre]|670[eng]	370	470		2016-03-09	No	147001013
+12207.00	H	27500 2/3	Europe	TV	Cosmote Sport Highlights HD	Grecja	Sport	Cosmote	VideoGuard	1071	471	571[gre]|671[eng]	371	471		2017-01-16	No	147001015
+12207.00	H	27500 2/3	Europe	TV	Skai	Grecja	Ogólne	Cosmote	VideoGuard	1089	489	589[gre]	389	489		2019-01-12	No	147001017
+12207.00	H	27500 2/3	Europe	TV	Star	Republika Południowe	Rozrywka	Cosmote	VideoGuard	1099	499	599[gre]	399	499		2019-01-12	No	147001019
+12207.00	H	27500 2/3	Europe	TV	Viasat History	Szwecja	Historia	Cosmote	VideoGuard	1115	4115	5115[eng]	3115	4115		2016-03-09	No	147001021
+12245.00	H	27500 2/3	Germany	TV	RTL HD	Niemcy	Ogólne	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	301	2561	2562[ger]	2560	2561	2584	2016-03-09	No	159001003
+12245.00	H	27500 2/3	Germany	TV	Vox HD	Niemcy	Ogólne	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	302	2593	2594[ger]	2592	2593	2616	2016-03-09	No	159001005
+12245.00	H	27500 2/3	Germany	TV	Sat 1 HD	Niemcy	Ogólne	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	303	2625	2626[ger]	2624	2625	2648	2016-03-09	No	159001007
+12245.00	H	27500 2/3	Germany	TV	Prosieben HD	Niemcy	Ogólne	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	304	2689	2690[ger]	2688	2689	2712	2020-03-04	No	159001009
+12245.00	H	27500 2/3	Germany	TV	RTL Nitro HD	Niemcy	Rozrywka	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	306	2751	2752[ger]	2750	2751	2754	2017-08-01	No	159001011
+12245.00	H	27500 2/3	Germany	TV	n-tv HD	Niemcy	Informacje	Kabelkiosk|Sky Deutschland	Conax|VideoGuard	307	2771	2772[ger]|2773[mul]	2770	2771	2774	2018-05-20	No	159001013
+12257.00	V	14302 3/5	Italy	TV	iLIKE.TV	Włochy	Różne	Persidera	FTA	7	8004	515[ita]	8023	8004		2020-01-18	Yes	163001001
+12257.00	V	14302 3/5	Italy	TV	Canale 162	Włochy	Ogólne	Persidera	FTA	8	8009	8010[ita]	8025	8009		2020-01-18	Yes	163001003
+12257.00	V	14302 3/5	Italy	TV	Juwelo TV Italia	Włochy	Telezakupy	Persidera	FTA	15	234	235[ita]	233	234		2020-01-18	Yes	163001005
+12257.00	V	14302 3/5	Italy	TV	Channel 24	Włochy	Różne	Persidera	FTA	23	231	232[ita]	230	231		2020-01-18	Yes	163001007
+12257.00	V	14302 3/5	Italy	TV	HSE24 Donna	Włochy	Telezakupy	Persidera	FTA	30	311	411[ita]	831	311		2020-01-18	Yes	163001009
+12257.00	V	14302 3/5	Italy	TV	Rete Italia	Włochy	Różne	Persidera	FTA	31	301	401[ita]	821	301		2020-01-18	Yes	163001011
+12257.00	V	14302 3/5	Italy	TV	La 4 Italia	Włochy	Ogólne	Persidera	FTA	32	302	402[ita]	822	302		2020-01-18	Yes	163001013
+12257.00	V	14302 3/5	Italy	TV	Gold TV Italia	Włochy	Telezakupy	Persidera	FTA	33	303	403[ita]	823	303		2020-01-18	Yes	163001015
+12257.00	V	14302 3/5	Italy	TV	Linea GEM	Włochy	Telezakupy	Persidera	FTA	34	304	404[ita]	824	304		2020-01-18	Yes	163001017
+12257.00	V	14302 3/5	Italy	TV	Linea Italia	Włochy	Różne	Persidera	FTA	35	305	405[ita]	825	305		2020-01-18	Yes	163001019
+12257.00	V	14302 3/5	Italy	TV	Orler TV	Włochy	Różne	Persidera	FTA	36	306	406[ita]	826	306		2020-01-18	Yes	163001021
+12257.00	V	14302 3/5	Italy	TV	Air Italia	Włochy	Różne	Persidera	FTA	37	307	407[ita]	827	307		2020-01-18	Yes	163001023
+12257.00	V	14302 3/5	Italy	TV	HSE24 Beauty	Włochy	Telezakupy	Persidera	FTA	38	312	412[ita]	828	312		2020-01-18	Yes	163001025
+12257.00	V	14302 3/5	Italy	TV	Donna Sport TV	Włochy	Sport	Persidera	FTA	39	310	410[ita]	830	310		2020-01-18	Yes	163001027
+12257.00	V	14302 3/5	Italy	TV	Canale 165	Włochy	Telezakupy	Persidera	FTA	45	315	415[ita]	835	315		2020-01-18	Yes	163001029
+12257.00	V	14302 3/5	Italy	TV	RCT - Rainbow Channel TV	Włochy	Porno	Persidera	FTA	46	316	416[ita]	836	316		2020-01-18	Yes	163001031
+12257.00	V	14302 3/5	Italy	TV	Fire TV Italy	Włochy	Różne	Persidera	FTA	95	308	408[ita]	820	308		2020-01-18	Yes	163001033
+12257.00	V	14302 3/5	Italy	TV	Canale 61	Włochy	Sport	Persidera	FTA	96	309	409[ita]	829	309		2020-03-20	Yes	163001035
+12257.00	V	14302 3/5	Italy	TV	Mondo Calcio	Włochy	Sport	Persidera	FTA	97	313	413[ita]	833	313		2020-01-18	Yes	163001037
+12257.00	V	14302 3/5	Italy	TV	Canale 232	Włochy	Rozrywka	Persidera	FTA	98	314	414[ita]	834	314		2020-01-18	Yes	163001039
+12257.00	V	14302 3/5	Italy	TV	Canale 259	Włochy	Różne	Persidera	FTA	99	314	414[ita]	832	314		2020-01-18	Yes	163001041
+12257.00	V	14302 3/5	Italy	TV	Mediatext.it	Włochy	Różne	Persidera	FTA	110	226	246[ita]	320	226		2020-01-18	Yes	163001043
+12257.00	V	14302 3/5	Italy	TV	Italia Channel	Włochy	Ogólne	Persidera	FTA	111	226	246[ita]	321	226		2020-01-18	Yes	163001045
+12257.00	V	14302 3/5	Italy	TV	Pianeta TV	Włochy	Telezakupy	Persidera	FTA	112	226	246[ita]	322	226		2020-01-18	Yes	163001047
+12284.00	H	27500 2/3	Europe	TV	Sirina TV HD	Grecja	Porno	Cosmote	VideoGuard	1004	404	504[eng]	304	404		2020-03-01	No	167001001
+12284.00	H	27500 2/3	Europe	TV	E TV	Grecja	Ogólne	Cosmote	VideoGuard	1007	407	507[gre]	307	407		2020-03-01	No	167001003
+12284.00	H	27500 2/3	Europe	TV	Cosmote Cinema 1 HD	Grecja	Filmy	Cosmote	VideoGuard	1008	408	508[eng]	308	408		2020-03-01	No	167001005
+12284.00	H	27500 2/3	Europe	TV	HD CinemaOnDemand	Grecja	Pay per View	Cosmote	VideoGuard	1022	422	522[eng]	322	422		2020-03-01	No	167001007
+12284.00	H	27500 2/3	Europe	TV	CinemaOnDemand 2	Grecja	Pay per View	Cosmote	VideoGuard	1023	423	523[eng]	323	423		2020-03-01	No	167001009
+12284.00	H	27500 2/3	Europe	TV	Open Beyond TV	Grecja	Różne	Cosmote	VideoGuard	1029	429	529[gre]	329	429		2020-03-01	No	167001011
+12284.00	H	27500 2/3	Europe	TV	Hustler HD	Włochy	Prezentacje	Cosmote	VideoGuard	1041	441	541[eng]	341	441		2020-03-01	No	167001013
+12284.00	H	27500 2/3	Europe	TV	Creta TV	Grecja	Regionalne	Cosmote	VideoGuard	1055	455	555[gre]	355	455		2020-03-01	No	167001015
+12284.00	H	27500 2/3	Europe	TV	Penthouse Gold	Stany Zjednoczone	Porno	Cosmote	VideoGuard	1061	461	561[eng]	361	461		2020-03-01	No	167001017
+12284.00	H	27500 2/3	Europe	TV	TEST 1			Cosmote	VideoGuard	1076	476	576[eng]	376	476		2020-03-15	No	167001019
+12284.00	H	27500 2/3	Europe	TV	ENA Channel	Grecja	Różne	Cosmote	VideoGuard	1078	478	578[gre]	378	478		2020-03-01	No	167001021
+12284.00	H	27500 2/3	Europe	TV	Blue Hustler	Wielka Brytania	Erotyka	Cosmote	VideoGuard	1090	490	590[eng]	390	490		2020-03-01	No	167001023
+12284.00	H	27500 2/3	Europe	TV	Cosmote Sport 1 HD	Grecja	Sport	Cosmote	VideoGuard	1095	495	595[gre]|695[eng]	395	495		2020-03-01	No	167001025
+12284.00	H	27500 2/3	Europe	TV	Private TV	nieokreślony	Porno	Cosmote	VideoGuard	1110	4110	5110[eng]	3110	4110		2020-03-01	No	167001027
+12322.00	H	27500 2/3	Germany	TV	Show Türk	Turcja	Ogólne	Kabelkiosk	Conax|VideoGuard	1050	1051	1052[tur]	55	1051		2016-03-09	No	175001001
+12322.00	H	27500 2/3	Germany	TV	CNN Türk	Turcja	Informacje	Kabelkiosk	Conax|VideoGuard	1100	1101	1102[tur]	56	1101		2017-07-31	No	175001003
+12322.00	H	27500 2/3	Germany	TV	Kanal 7 Avrupa	Turcja	Ogólne	Kabelkiosk	Conax|VideoGuard	1150	1151	1152[tur]	79	1151		2017-07-31	No	175001005
+12322.00	H	27500 2/3	Germany	TV	Euro D	Turcja	Ogólne	Kabelkiosk	Conax|VideoGuard	1200	1201	1202[tur]	52	1201		2016-03-09	No	175001007
+12322.00	H	27500 2/3	Germany	TV	TV 8 Turkey	Turcja	Ogólne	Kabelkiosk	Conax|VideoGuard	1250	1251	1252[tur]	77	1251		2016-03-09	No	175001009
+12322.00	H	27500 2/3	Germany	TV	Rai 1	Włochy	Ogólne	Kabelkiosk	Conax|VideoGuard	1300	1301	1302[ita]	76	1301	1303	2016-03-09	No	175001011
+12322.00	H	27500 2/3	Germany	TV	ATV Avrupa	Turcja	Ogólne	Kabelkiosk	Conax|VideoGuard	1350	1351	1352[tur]	75	1351		2016-11-03	No	175001013
+12322.00	H	27500 2/3	Germany	TV	Rai 3	Włochy	Ogólne	Kabelkiosk	Conax|VideoGuard	1400	1401	1402[ita]	74	1401	1403	2016-03-09	No	175001015
+12322.00	H	27500 2/3	Germany	TV	TVP Polonia	Polska	Ogólne	Kabelkiosk	Conax|VideoGuard	1500	1501	1502[pol]	73	1501	1503	2017-02-22	No	175001017
+12322.00	H	27500 2/3	Germany	TV	TRT Türk	Turcja	Ogólne	Kabelkiosk	Conax|VideoGuard	1550	1551	1552[tur]	34	1551	1553	2016-03-09	No	175001019
+12322.00	H	27500 2/3	Germany	TV	Deutsches Wetterfernsehen	Niemcy	Pogoda	Kabelkiosk	Conax|VideoGuard	1600	1601	1602[ger]	80	1601		2016-03-09	No	175001021
+12322.00	H	27500 2/3	Germany	TV	Animal Planet HD	Wielka Brytania	Dokumenty	Kabelkiosk	Conax|VideoGuard	1650	1611	1612[ger]|1613[ger]	81	1611		2016-03-09	No	175001023
+12322.00	H	27500 2/3	Germany	TV	MTV Live HD	Wielka Brytania	Muzyka	Kabelkiosk	Conax|VideoGuard	1700	1701	1702[eng]|1703[eng]	82	1701		2016-12-01	No	175001025
+12341.00	V	31400 5/6	Italy	TV	La 7	Włochy	Ogólne		FTA	711	970	971[ita]	111	970		2018-01-03	Yes	179001003
+12341.00	V	31400 5/6	Italy	TV	La 7 d	Włochy	Ogólne		FTA	712	990	991[ita]	112	990		2018-01-03	Yes	179001005
+12341.00	V	31400 5/6	Italy	TV	LA7				FTA	721	970	971[ita]	121	970		2018-01-03	Yes	179001007
+12341.00	V	31400 5/6	Italy	TV	LA7d				FTA	722	990	991[ita]	122	990		2018-01-03	Yes	179001009
+12341.00	V	31400 5/6	Italy	TV	La 7 HD	Włochy	Ogólne		FTA	751	1530	1532[ita]	151	1530		2018-01-03	Yes	179001011
+12341.00	V	31400 5/6	Italy	TV	La7d HD	Włochy	Ogólne		FTA	752	1540	1542[ita]	152	1540		2018-05-20	Yes	179001013
+12341.00	V	31400 5/6	Italy	TV	LA7 on demand				FTA	790	970	971[ita]	190	970		2018-11-20	Yes	179001015
+12341.00	V	31400 5/6	Italy	DATA	Servizio 70				FTA	70			70	8191		2018-01-03	Yes	179001017
+12341.00	V	31400 5/6	Italy	DATA	Servizio 71				FTA	71			71	8191		2018-01-03	Yes	179001019
+12341.00	V	31400 5/6	Italy	DATA	Servizio 72				FTA	72			72	8191		2018-01-03	Yes	179001021
+12341.00	V	31400 5/6	Italy	DATA	Servizio 73				FTA	73			73	8191		2018-01-03	Yes	179001023
+12341.00	V	31400 5/6	Italy	DATA	Servizio 74				FTA	74			74	8191		2018-01-03	Yes	179001025
+12341.00	V	31400 5/6	Italy	DATA	Servizio 75				FTA	75			75	8191		2018-01-03	Yes	179001027
+12341.00	V	31400 5/6	Italy	DATA	Servizio 76				FTA	76			76	8191		2018-01-03	Yes	179001029
+12341.00	V	31400 5/6	Italy	DATA	Servizio 77				FTA	77			77	8191		2018-01-03	Yes	179001031
+12341.00	V	31400 5/6	Italy	DATA	Servizio 78				FTA	78			78	8191		2018-01-03	Yes	179001033
+12341.00	V	31400 5/6	Italy	DATA	Servizio 79				FTA	79			79	8191		2018-01-03	Yes	179001035
+12341.00	V	31400 5/6	Italy	DATA	Ghost				FTA	99			99	8191		2018-01-03	Yes	179001037
+12341.00	V	31400 5/6	Italy	DATA	LA7 TEST				FTA	761			161	8191		2018-01-03	Yes	179001039
+12341.00	V	31400 5/6	Italy	DATA	LA7 Servizi on demand				FTA	762			162	8191		2018-01-03	Yes	179001041
+12341.00	V	31400 5/6	Italy	DATA	LA7 TEST				FTA	763			163	8191		2018-01-03	Yes	179001043
+12341.00	V	31400 5/6	Italy	DATA	LA7 TEST				FTA	764			164	8191		2018-01-03	Yes	179001045
+12341.00	V	31400 5/6	Italy	DATA	LA7 TEST				FTA	765			165	8191		2018-01-03	Yes	179001047
+12341.00	V	31400 5/6	Italy	DATA	LA7d on demand				FTA	791			191	8191		2018-01-03	Yes	179001049
+12341.00	V	31400 5/6	Italy	TV	Mediaset Italia Due	Włochy	Rozrywka		FTA	7066	440	441[ita]|442[eng]	266	440		2019-07-09	Yes	187001001
+12341.00	V	31400 5/6	Italy	TV	Premium Cinema	Włochy	Filmy		Nagravision 3|VideoGuard	7122	640	641[ita]|642[eng]	222	640		2019-07-06	No	187001003
+12341.00	V	31400 5/6	Italy	TV	Premium Energy	Włochy	Filmy		Nagravision 3|VideoGuard	7123	460	461[ita]|462[eng]	223	460		2019-07-06	No	187001005
+12341.00	V	31400 5/6	Italy	TV	Premium Comedy	Włochy	Filmy		Nagravision 3|VideoGuard	7125	420	421[ita]|422[eng]	225	420		2019-07-06	No	187001007
+12341.00	V	31400 5/6	Italy	TV	Mediaset Italia Due				FTA	7166	440	441[ita]|442[eng]	267	440		2019-07-15	Yes	187001009
+12341.00	V	31400 5/6	Italy	TV	TV 243	Włochy	Telezakupy		FTA	7180	3050	3051	280	3050		2019-07-06	Yes	187001011
+12341.00	V	31400 5/6	Italy	TV	TV 153	Włochy	Telezakupy		FTA	7190	3690	3691	290	3690		2019-07-06	Yes	187001013
+12341.00	V	31400 5/6	Italy	TV	Sport Italia	Włochy	Sport		FTA	7191	1690	1691[ita]	291	1690		2019-07-06	Yes	187001015
+12341.00	V	31400 5/6	Italy	TV	Tele Padre Pio	Włochy	Religia		FTA	7192	650	651[ita]	292	650		2019-07-06	Yes	187001017
+12341.00	V	31400 5/6	Italy	R	Radio R101				FTA	7102		962[ita]	202	962		2019-11-24	Yes	187001019
+12341.00	V	31400 5/6	Italy	R	RADIO 105				FTA	7103		961[ita]	203	961		2019-11-24	Yes	187001021
+12341.00	V	31400 5/6	Italy	R	VIRGIN RADIO				FTA	7104		965[ita]	204	965		2019-11-24	Yes	187001023
+12341.00	V	31400 5/6	Italy	R	Radio Monte Carlo				FTA	7105		963[ita]	205	963		2019-11-24	Yes	187001025
+12341.00	V	31400 5/6	Italy	TV	Boing	Włochy	Dzieci		FTA	145	1680	1681[ita]	245	1680		2020-01-11	Yes	191001001
+12341.00	V	31400 5/6	Italy	TV	Cartoonito Italy	Włochy	Dzieci		FTA	147	1820	1821[ita]	247	1820		2020-01-11	Yes	191001003
+12341.00	V	31400 5/6	Italy	TV	20 Mediaset	Włochy	Różne		FTA	2019	620	621[ita]|622[eng]	219	620		2020-01-11	Yes	191001005
+12341.00	V	31400 5/6	Italy	TV	20 Mediaset				FTA	2020	620	621[ita]|622[eng]	220	620		2020-01-11	Yes	191001007
+12341.00	V	31400 5/6	Italy	TV	20 Mediaset				FTA	2120	620	621[ita]|622[eng]	204	620		2020-01-11	Yes	191001009
+12341.00	V	31400 5/6	Italy	TV	TOPcrime	Włochy	Seriale		FTA	2121	1770	1771[ita]|1772[eng]	221	1770	1779	2020-01-11	Yes	191001011
+12341.00	V	31400 5/6	Italy	TV	Focus	Włochy	Ogólne		FTA	2122	1780	1781[ita]|1782[eng]	222	1780		2020-01-11	Yes	191001013
+12341.00	V	31400 5/6	Italy	TV	Cine34	Włochy	Filmy		FTA	2123	1760	1761[ita]	223	1760		2020-01-18	Yes	191001015
+12341.00	V	31400 5/6	Italy	TV	Food Network Italia	Włochy	Gotowanie		FTA	2148	1030	1031[ita]	248	1030		2020-01-11	Yes	191001017
+12341.00	V	31400 5/6	Italy	TV	QVC Italia	Włochy	Telezakupy		FTA	2149	100	101[ita]	249	100		2020-01-11	Yes	191001019
+12341.00	V	31400 5/6	Italy	TV	TOPcrime				FTA	2150	1770	1771[ita]|1772[eng]	250	1770	1779	2020-01-11	Yes	191001021
+12341.00	V	31400 5/6	Italy	TV	Focus				FTA	2151	1780	1781[ita]|1782[eng]	251	1780		2020-01-11	Yes	191001023
+12341.00	V	31400 5/6	Italy	TV	Cine34				FTA	2152	1760	1761[ita]	252	1760		2020-01-18	Yes	191001025
+12360.00	H	27500 2/3	Germany	TV	Nick Junior Germany	Niemcy	Dzieci	Kabelkiosk	Conax|VideoGuard	615	1151	1152[ger]|1153[eng]	2015	1151		2017-10-04	No	195001001
+12360.00	H	27500 2/3	Germany	TV	Spiegel TV Wissen HD	Niemcy	Kultura	Kabelkiosk	Conax|VideoGuard	616	1161	1162[ger]	2016	1161		2018-05-20	No	195001003
+12360.00	H	27500 2/3	Germany	TV	History Channel Germany	Niemcy	Historia	Kabelkiosk	Conax|VideoGuard	617	1171	1172[ger]|1173[eng]	2017	1171		2016-03-09	No	195001005
+12360.00	H	27500 2/3	Germany	TV	Crime + Investigation HD Germany	Niemcy	Dokumenty	Kabelkiosk	Conax|VideoGuard	618	1181	1182[ger]|1183[eng]	2018	1181		2019-07-02	No	195001007
+12360.00	H	27500 2/3	Germany	TV	13th Street HD	Niemcy	Seriale	Kabelkiosk	Conax|VideoGuard	620	1201	1202[ger]|1203[eng]	2020	1201		2016-03-09	No	195001009
+12360.00	H	27500 2/3	Germany	TV	SyFy HD Deutschland	Niemcy	Rozrywka	Kabelkiosk	Conax|VideoGuard	621	1211	1212[ger]|1213[eng]	2021	1211		2016-03-09	No	195001011
+12360.00	H	27500 2/3	Germany	TV	National Geographic HD Germany	Niemcy	Dokumenty	Kabelkiosk	Conax|VideoGuard	622	1221	1222[ger]|1223[eng]	2022	1221		2016-03-09	No	195001013
+12360.00	H	27500 2/3	Germany	TV	Sport1 US HD	Niemcy	Sport	Kabelkiosk	Conax|VideoGuard	623	1231	1232[ger]	2023	1231		2019-04-06	No	195001015
+12399.00	H	27500 2/3	Europe	TV	Cosmote Sport 2 HD	Grecja	Sport	Cosmote	VideoGuard	1015	415	515[gre]|615[eng]	315	415		2017-01-16	No	203001001
+12399.00	H	27500 2/3	Europe	TV	Mega HD	Grecja	Ogólne	Cosmote	VideoGuard	1024	424	524[gre]	324	424		2020-02-15	No	203001003
+12399.00	H	27500 2/3	Europe	TV	Disney Junior Middle-East & Africa	Wielka Brytania	Dzieci	Cosmote	VideoGuard	1027	427	527[gre]|627[eng]	327	427		2016-03-09	No	203001005
+12399.00	H	27500 2/3	Europe	TV	Cosmote Sport 3 HD	Grecja	Sport	Cosmote	VideoGuard	1028	428	528[gre]|628[eng]	328	428		2017-01-16	No	203001007
+12399.00	H	27500 2/3	Europe	TV	Travel Channel HD	Wielka Brytania	Podróże	Cosmote	VideoGuard	1037	437	537[eng]	337	437		2016-03-09	No	203001009
+12399.00	H	27500 2/3	Europe	TV	Body In Balance	Niemcy	Lifestyle	Cosmote	VideoGuard	1048	448	548[gre]	348	448		2016-03-09	No	203001011
+12399.00	H	27500 2/3	Europe	TV	National Geographic +	Grecja	Dokumenty	Cosmote	VideoGuard	1049	449	549[eng]	349	449		2019-05-28	No	203001013
+12399.00	H	27500 2/3	Europe	TV	Mad TV	Grecja	Muzyka	Cosmote	VideoGuard	1056	456	556[gre]	356	456		2016-03-09	No	203001015
+12399.00	H	27500 2/3	Europe	TV	Disney XD Greece	Grecja	Dzieci	Cosmote	VideoGuard	1075	475	575[gre]|675[eng]	375	475		2016-03-09	No	203001017
+12399.00	H	27500 2/3	Europe	TV	France 24 (in English)	Francja	Informacje	Cosmote	VideoGuard	1082	482	582[eng]	382	482		2016-03-09	No	203001019
+12399.00	H	27500 2/3	Europe	TV	Nickelodeon HD	Wielka Brytania	Dzieci	Cosmote	VideoGuard	1093	493	593[gre]	393	493		2016-03-09	No	203001021
+12399.00	H	27500 2/3	Europe	TV	Cosmote Cinema 3	Grecja	Filmy	Cosmote	VideoGuard	1094	494	594[gre]	394	494		2017-01-16	No	203001023
+12399.00	H	27500 2/3	Europe	TV	Cosmote Sport 8 HD	Grecja	Sport	Cosmote	VideoGuard	1101	4101	5101[gre]|6101[eng]	3101	4101		2017-01-16	No	203001025
+12399.00	H	27500 2/3	Europe	TV	Egean TV	Grecja	Regionalne	Cosmote	VideoGuard	1104	4104	5104[gre]	3104	4104		2016-03-09	No	203001027
+12399.00	H	27500 2/3	Europe	R	ΠΕΙΡΑΙΚΗ ΕΚΚΛΗΣΙΑ			ΟΤΕ	FTA	1064		564[gre]	364	132		2016-03-09	Yes	203001029
+12399.00	H	27500 2/3	Europe	R	OICHALIA - CHRISTIANITY RADIO			OTE	FTA	1074		574[gre]	374	132		2016-03-09	Yes	203001031
+12437.00	H	27500 2/3	Germany	TV	Romance TV	Niemcy	Seriale	Kabelkiosk	Conax|VideoGuard	20202	513	514[ger]	512	513		2017-07-18	No	211001001
+12437.00	H	27500 2/3	Germany	TV	Sony AXN HD	Niemcy	Seriale	Kabelkiosk	Conax|VideoGuard	20203	1025	1026[ger]|1027[eng]	1024	1025		2019-10-23	No	211001003
+12437.00	H	27500 2/3	Germany	TV	E! Germany	Niemcy	Rozrywka	Kabelkiosk	Conax|VideoGuard	20205	1281	1282[ger]|1285[eng]	1280	1281		2017-07-18	No	211001005
+12437.00	H	27500 2/3	Germany	TV	Duck TV	Słowacja	Dzieci	Kabelkiosk	Conax|VideoGuard	20206	1291	1292[hun]	1290	1291		2018-12-14	No	211001007
+12437.00	H	27500 2/3	Germany	TV	Sport Digital Fussball	Niemcy	Sport	Kabelkiosk	Conax|VideoGuard	20207	1793	1794[ger]|1795[qaa]	1792	1793		2019-08-27	No	211001009
+12437.00	H	27500 2/3	Germany	TV	Eurosport 2 Germany	Niemcy	Sport	Kabelkiosk	Conax|VideoGuard	20209	2351	2352[ger]|2353[eng]	2350	2351		2017-07-31	No	211001011
+12437.00	H	27500 2/3	Germany	TV	Gute Laune TV	Niemcy	Komedia	Kabelkiosk	Conax|VideoGuard	20210	2561	2562[ger]	2560	2561		2017-07-18	No	211001013
+12437.00	H	27500 2/3	Germany	TV	Discovery HD Deutschland	Niemcy	Dokumenty	Kabelkiosk	Conax|VideoGuard	20211	2817	2818[ger]|2819[eng]	2816	2817		2018-05-20	No	211001015
+12437.00	H	27500 2/3	Germany	TV	Fox HD Germany	Niemcy	Rozrywka	Kabelkiosk	Conax|VideoGuard	20214	3401	3402[ger]|3403[eng]	3400	3401		2017-07-18	No	211001017
+12466.00	V	41940 3/4	Italy	TV	Giallo	Włochy	Rozrywka	Persidera	FTA	16	981	982[ita]	980	981	984	2020-01-11	Yes	215001001
+12466.00	V	41940 3/4	Italy	TV	RTL 102.5	Włochy	Muzyka	Persidera	FTA	21	790	791[ita]	290	790		2020-01-11	Yes	215001003
+12466.00	V	41940 3/4	Italy	TV	HSE24			Persidera	FTA	22	780	781[ita]	280	780		2020-01-11	Yes	215001005
+12466.00	V	41940 3/4	Italy	TV	HSE 24 Italia	Włochy	Telezakupy	Persidera	FTA	23	780	781[ita]	281	780		2020-01-11	Yes	215001007
+12466.00	V	41940 3/4	Italy	TV	Discovery Real Time Italia	Włochy	Dokumenty	Persidera	FTA	44	2462	2463[ita]	2461	2462	2464	2020-01-11	Yes	215001009
+12466.00	V	41940 3/4	Italy	TV	DMAX Italia	Włochy	Lifestyle	Persidera	FTA	50	1200	1201[ita]	250	1200	1211	2020-01-11	Yes	215001011
+12466.00	V	41940 3/4	Italy	TV	Super!	Włochy	Dzieci	Persidera	FTA	106	556	557[ita]	307	556		2020-01-11	Yes	215001013
+12466.00	V	41940 3/4	Italy	TV	Radio Freccia	Włochy	Rozrywka	Persidera	FTA	218	800	801[ita]	291	800		2020-01-11	Yes	215001015
+12466.00	V	41940 3/4	Italy	TV	RTL 102.5 HD			Persidera	FTA	219	790	791[ita]	292	790		2020-01-11	Yes	215001017
+12466.00	V	41940 3/4	Italy	TV	RADIOFRECCIA HD			Persidera	FTA	220	800	801[ita]	293	800		2020-01-11	Yes	215001019
+12466.00	V	41940 3/4	Italy	R	Radio Deejay			Persidera	FTA	9		514[ita]	528	514		2020-01-11	Yes	215001021
+12466.00	V	41940 3/4	Italy	R	Radio Capital			Persidera	FTA	10		520[ita]	529	520		2020-01-11	Yes	215001023
+12466.00	V	41940 3/4	Italy	R	Radio m2o			Persidera	FTA	11		516[ita]	530	516		2020-01-11	Yes	215001025
+12466.00	V	41940 3/4	Italy	R	RTL 102.5			Persidera	FTA	221		792[ita]	490	792		2020-01-11	Yes	215001027
+12466.00	V	41940 3/4	Italy	R	RTL 102.5 VIARADIO DIGITAL			Persidera	FTA	222		794[ita]	300	793		2020-03-04	Yes	215001029
+12466.00	V	41940 3/4	Italy	R	FRECCIA			Persidera	FTA	223		802[ita]	294	802		2020-01-11	Yes	215001031
+12466.00	V	41940 3/4	Italy	DATA	Entertainment Fact			Persidera	FTA	90			990	8191		2020-01-11	Yes	215001033
+12466.00	V	41940 3/4	Europe	TV	Motor Trend	Włochy	Sport	Persidera	FTA	50	201	202[ita]	200	201	204	2020-01-11	Yes	219001003
+12466.00	V	41940 3/4	Europe	TV	Canale 65	Włochy	Różne	Persidera	FTA	60	301	302[ita]	300	301		2020-01-11	Yes	219001005
+12466.00	V	41940 3/4	Europe	TV	BOM Channel	Włochy	Różne	Persidera	FTA	65	401	402[ita]	400	401		2020-02-12	Yes	219001007
+12466.00	V	41940 3/4	Europe	TV	TV 2000	Włochy	Religia	Persidera	FTA	100	510	610[ita]	310	510		2020-01-11	Yes	219001009
+12466.00	V	41940 3/4	Europe	TV	Sfera TV	Włochy	Różne	Persidera	FTA	110	501	502[ita]	500	501		2020-01-11	Yes	219001011
+12466.00	V	41940 3/4	Europe	TV	Radio Cusano Campus	Włochy	Różne	Persidera	FTA	115	601	602[ita]	600	601		2020-01-11	Yes	219001013
+12466.00	V	41940 3/4	Europe	TV	Radio Kiss Kiss TV	Włochy	Rozrywka	Persidera	FTA	120	701	702[ita]	700	701		2020-01-11	Yes	219001015
+12466.00	V	41940 3/4	Europe	TV	Parole di Vita	Włochy	Różne	Persidera	FTA	125	801	802[ita]	800	801		2020-01-11	Yes	219001017
+12466.00	V	41940 3/4	Europe	TV	Radio Zeta	Włochy	Muzyka	Persidera	FTA	130	901	902[ita]	900	901		2020-03-31	Yes	219001019
+12466.00	V	41940 3/4	Europe	TV	Babel-Romit TV	Rumunia	Ogólne	Persidera	FTA	135	911	912[rom]	910	911		2020-04-10	Yes	219001021
+12466.00	V	41940 3/4	Europe	R	RADIO VATICANA ITALIA			Persidera	FTA	105		615[ita]	315	615		2020-01-11	Yes	219001023
+12466.00	V	41940 3/4	Europe	TV	Boing Plus	Włochy	Dzieci	Persidera	FTA	30	301	302[ita]	300	301		2020-01-11	Yes	223001001
+12466.00	V	41940 3/4	Europe	TV	Super Tennis	Włochy	Sport	Persidera	FTA	40	101	102[ita]	100	101		2020-01-11	Yes	223001003
+12466.00	V	41940 3/4	Europe	TV	Spike Italia	Włochy	Rozrywka	Persidera	FTA	50	201	202[ita]|203[eng]	200	201		2020-01-11	Yes	223001005
+12466.00	V	41940 3/4	Europe	TV	Radio Italia TV	Włochy	Muzyka	Persidera	FTA	60	245	246[ita]	224	245		2020-01-11	Yes	223001007
+12466.00	V	41940 3/4	Europe	TV	VH1			Persidera	FTA	120	6132	6133[ita]	6131	6132		2020-01-11	Yes	223001009
+12466.00	V	41940 3/4	Europe	TV	VH-1 Italy	Włochy	Muzyka	Persidera	FTA	121	6132	6133[ita]	6141	6132		2020-01-11	Yes	223001011
+12466.00	V	41940 3/4	Europe	TV	Frisbee	Włochy	Dzieci	Persidera	FTA	146	1457	1458[ita]	1456	1457	1460	2020-01-11	Yes	223001013
+12466.00	V	41940 3/4	Europe	TV	TV8			Persidera	FTA	150	6117	6118[ita]|6119[eng]	6160	6117		2020-01-11	Yes	223001015
+12466.00	V	41940 3/4	Europe	TV	K2 (Italy)	Włochy	Dzieci	Persidera	FTA	151	981	982[ita]	980	981	984	2020-01-11	Yes	223001017
+12466.00	V	41940 3/4	Europe	TV	TV8			Persidera	FTA	614	6117	6118[ita]|6119[eng]	6116	6117		2020-01-11	Yes	223001019
+12466.00	V	41940 3/4	Europe	TV	TV8 (Italy)	Włochy	Ogólne	Persidera	FTA	615	6117	6118[ita]|6119[eng]	6161	6117		2020-01-11	Yes	223001021
+12466.00	V	41940 3/4	Europe	R	R Italia SMI			Persidera	FTA	13		8005[ita]	521	8005		2020-01-11	Yes	223001023
+12466.00	V	41940 3/4	Europe	R	R Italia SMI			Persidera	FTA	14		8005[ita]	522	8005		2020-01-11	Yes	223001025
+12466.00	V	41940 3/4	Europe	DATA	TV8 News On Demand			Persidera	FTA	625			1516	8191		2020-01-11	Yes	223001027
+12466.00	V	41940 3/4	Europe	DATA	TV8 On Demand			Persidera	FTA	626			1521	8191		2020-01-11	Yes	223001029
+12466.00	V	41940 3/4	Europe	DATA	VH1 On Demand			Persidera	FTA	629			1536	8191		2020-01-11	Yes	223001031
+12466.00	V	41940 3/4	Europe	DATA	VH1 On Demand			Persidera	FTA	630			1541	8191		2020-01-11	Yes	223001033
+12466.00	V	41940 3/4	Europe	TV	Nove	Włochy	Ogólne	Persidera	FTA	1	8000	137[ita]	8020	8000	139	2020-01-11	Yes	227001001
+12466.00	V	41940 3/4	Europe	TV	Cielo	Włochy	Różne	Persidera	FTA	2	166	414[ita]|415[eng]	1110	166	476	2020-01-11	Yes	227001003
+12466.00	V	41940 3/4	Europe	TV	Paramount Channel Italy	Włochy	Filmy	Persidera	FTA	3	301	302[ita]|303[eng]	300	301	304	2020-01-11	Yes	227001005
+12466.00	V	41940 3/4	Europe	TV	Sky TG24	Włochy	Informacje	Persidera	FTA	5	8002	8003[ita]|8030[eng]	8022	8002	8031	2020-01-11	Yes	227001007
+12466.00	V	41940 3/4	Europe	TV	NOVE			Persidera	FTA	20	8000	137[ita]	8025	8000	139	2020-01-11	Yes	227001009
+12466.00	V	41940 3/4	Europe	TV	HGTV Italy	Włochy	Dokumenty	Persidera	FTA	25	8010	8011[ita]	8026	8010	8021	2020-02-02	Yes	227001011
+12466.00	V	41940 3/4	Europe	TV	NOVE			Persidera	FTA	29	8000	137[ita]	8029	8000	139	2020-01-11	Yes	227001013
+12466.00	V	41940 3/4	Europe	TV	Mediaset Extra	Włochy	Ogólne	Persidera	FTA	30	8051	8052[ita]	8050	8051		2020-01-18	Yes	227001015
+12466.00	V	41940 3/4	Europe	TV	Deejay TV	Włochy	Muzyka	Persidera	FTA	40	401	402[ita]	400	401		2020-01-11	Yes	227001017
+12466.00	V	41940 3/4	Europe	TV	Deejay TV HD			Persidera	FTA	41	401	402[ita]	410	401		2020-01-11	Yes	227001019
+12466.00	V	41940 3/4	Europe	TV	Zelig Sport	Włochy	Sport	Persidera	FTA	161	1611	1612[ita]	1610	1611		2020-01-11	Yes	227001021
+12466.00	V	41940 3/4	Europe	R	Radio Maria			Persidera	FTA	12		517[ita]	531	517		2020-01-11	Yes	227001023
+12475.50	H	27500 2/3	Europe	TV	Center TV	Grecja	Różne	Cosmote	VideoGuard	1034	434	534[gre]	334	434		2019-08-09	No	231001001
+12475.50	H	27500 2/3	Europe	TV	MAD Viral HD	Grecja	Rozrywka	Cosmote	VideoGuard	1063	463	563[gre]	363	463		2019-12-10	No	231001003
+12475.50	H	27500 2/3	Europe	TV	DW-TV (Deutsche Welle)	Niemcy	Informacje	Cosmote	VideoGuard	1081	481	581[eng]	381	481		2019-07-25	No	231001005
+12475.50	H	27500 2/3	Europe	TV	Al Jazeera English	Katar	Informacje	Cosmote	VideoGuard	1084	484	584[eng]	384	484		2019-07-25	No	231001007
+12475.50	H	27500 2/3	Europe	TV	Russia Today	Rosja	Informacje	Cosmote	VideoGuard	1086	486	586[eng]	386	486		2019-08-09	No	231001009
+12475.50	H	27500 2/3	Europe	TV	Bloomberg Europe	Wielka Brytania	Biznes	Cosmote	VideoGuard	1087	487	587[eng]	387	487		2019-08-09	No	231001011
+12475.50	H	27500 2/3	Europe	TV	Edge Sport HD Greece	Grecja	Sport	Cosmote	VideoGuard	1092	492	592[eng]	392	492		2019-08-09	No	231001013
+12475.50	H	27500 2/3	Europe	TV	MTV Europe	Wielka Brytania	Muzyka	Cosmote	VideoGuard	1116	4116	5116[eng]	3116	4116		2019-08-09	No	231001015
+12475.50	H	27500 2/3	Europe	TV	The Food Network EMEA HD	Wielka Brytania	Gotowanie	Cosmote	VideoGuard	1130	4130	5130[eng]	3130	4130		2019-08-12	No	231001017
+12475.50	H	27500 2/3	Europe	TV	Outdoor Channel EMEA HD	Stany Zjednoczone	Rozrywka	Cosmote	VideoGuard	1135	4135	5135[eng]	3135	4135		2019-07-25	No	231001019
+12475.50	H	27500 2/3	Europe	TV	Fine Living HD	Wielka Brytania	Lifestyle	Cosmote	VideoGuard	1136	4136	5136[eng]	3136	4136		2019-08-12	No	231001021
+12475.50	H	27500 2/3	Europe	TV	Nautical HD	nieokreślony	Sport	Cosmote	VideoGuard	1137	4137	5137[eng]	3137	4137		2019-08-12	No	231001023

@@ -3,34 +3,110 @@ SetBand2=1
 SetBand3=0
 SetTypeR=1
 SetTypeTV=1
-SetTypeIMG=0
-SetTypeDATA=0
-SetFTA=1
+SetTypeIMG=1
+SetTypeDATA=1
+SetFTA=0
 SetTransWithChan=1
 
-SetTransFields=Freq|Pol|SR|FEC|Txp|Beam|R|TV|IMG|DATA|TOTAL
-SetChanFields=Freq|Pol|Beam|SID|Type|Name|Lang|FTA
+SetTransFields=No|Freq|Pol|SR|FEC|Txp|Beam|R|TV|IMG|DATA|TOTAL
+SetChanFields=No|Freq|Pol|Beam|SID|Name|Lang
 
-Sat0Name=13.0E - Hot Bird 13B/13C/13E
-Sat0KingOfSat=https://en.kingofsat.net/pos-13E.php
-Sat0LyngSat=https://www.lyngsat.com/Hotbird-13B-13C-13E.html
-Sat0FlySat=https://www.flysat.com/hotbird.php
-Sat0SatBeams=https://www.satbeams.com/channels?position=13
+SetTransNoListFields=No|Freq|Pol|SR|FEC
+SetTransNoListMode=0|0|0|1|1
+SetChanNoListFields=No|Name|Lang
+SetChanNoListMode=0|1|2
+
+Sat0Name=5.0W - Eutelsat 5 West
+Sat0KingOfSat=https://pl.kingofsat.net/pos-5W.php
+Sat0LyngSat=https://www.lyngsat.com/Eutelsat-5-West-A-B.html
+Sat0FlySat=https://www.flysat.com/e5wab.php
+Sat0SatBeams=https://www.satbeams.com/channels?position=355
 Sat0Selected=1
 
-Sat1Name=16.0E - Eutelsat 16A
-Sat1KingOfSat=https://en.kingofsat.net/pos-16E.php
-Sat1LyngSat=https://www.lyngsat.com/Eutelsat-16A.html
-Sat1FlySat=https://www.flysat.com/e16a.php
-Sat1SatBeams=https://www.satbeams.com/channels?position=16
+Sat0FlySatRowSpan0Row=122
+Sat0FlySatRowSpan0Val=-2
+Sat0FlySatRowSpan1Row=413
+Sat0FlySatRowSpan1Val=1
+
+Sat1Name=4.0W - Amos
+Sat1KingOfSat=https://pl.kingofsat.net/pos-4W.php
+Sat1LyngSat=https://www.lyngsat.com/Amos-3-7.html
+Sat1FlySat=https://www.flysat.com/amos.php
+Sat1SatBeams=https://www.satbeams.com/channels?position=356
 Sat1Selected=1
 
-Sat1FlySatRowSpan0Row=270
-Sat1FlySatRowSpan0Val=-1
+Sat1FlySatRowSpan0Row=149
+Sat1FlySatRowSpan0Val=1
 
-Sat2Name=19.2E - Astra 1KR/1L/1M/1N
-Sat2KingOfSat=https://en.kingofsat.net/pos-19.2E.php
-Sat2LyngSat=https://www.lyngsat.com/Astra-1KR-1L-1M-1N.html
-Sat2FlySat=https://www.flysat.com/astra19.php
-Sat2SatBeams=https://www.satbeams.com/channels?position=19
+Sat2Name=0.8W - Thor
+Sat2KingOfSat=https://pl.kingofsat.net/pos-0.8W.php
+Sat2LyngSat=https://www.lyngsat.com/Thor-5-6-7-and-Intelsat-10-02.html
+Sat2FlySat=https://www.flysat.com/1west.php
+Sat2SatBeams=https://www.satbeams.com/channels?position=359
 Sat2Selected=1
+
+Sat2FlySatRowSpan0Row=196
+Sat2FlySatRowSpan0Val=1
+
+Sat3Name=4.8E - Astra 4
+Sat3KingOfSat=https://pl.kingofsat.net/pos-4.8E.php
+Sat3LyngSat=https://www.lyngsat.com/Astra-4A-and-SES-5.html
+Sat3FlySat=https://www.flysat.com/astra4a-ses5.php
+Sat3SatBeams=https://www.satbeams.com/channels?position=5
+Sat3Selected=1
+
+Sat3FlySatRowSpan0Row=311
+Sat3FlySatRowSpan0Val=-4
+
+Sat4Name=7.0E - Eutelsat 7
+Sat4KingOfSat=https://pl.kingofsat.net/pos-7E.php
+Sat4LyngSat=https://www.lyngsat.com/Eutelsat-7B-7C.html
+Sat4FlySat=https://www.flysat.com/e7.php
+Sat4SatBeams=https://www.satbeams.com/channels?position=7
+Sat4Selected=1
+
+Sat5Name=9.0E - Eutelsat 9
+Sat5KingOfSat=https://pl.kingofsat.net/pos-9E.php
+Sat5LyngSat=https://www.lyngsat.com/Eutelsat-9B-and-Ka-Sat-9A.html
+Sat5FlySat=https://www.flysat.com/e9b.php
+Sat5SatBeams=https://www.satbeams.com/channels?position=9
+Sat5Selected=1
+
+Sat6Name=13.0E - Hot Bird
+Sat6KingOfSat=https://pl.kingofsat.net/pos-13E.php
+Sat6LyngSat=https://www.lyngsat.com/Hotbird-13B-13C-13E.html
+Sat6FlySat=https://www.flysat.com/hotbird.php
+Sat6SatBeams=https://www.satbeams.com/channels?position=13
+Sat6Selected=1
+
+Sat7Name=16.0E - Eutelsat 16
+Sat7KingOfSat=https://pl.kingofsat.net/pos-16E.php
+Sat7LyngSat=https://www.lyngsat.com/Eutelsat-16A.html
+Sat7FlySat=https://www.flysat.com/e16a.php
+Sat7SatBeams=https://www.satbeams.com/channels?position=16
+Sat7Selected=1
+
+Sat7FlySatRowSpan0Row=272
+Sat7FlySatRowSpan0Val=-1
+
+Sat8Name=19.2E - Astra 1
+Sat8KingOfSat=https://pl.kingofsat.net/pos-19.2E.php
+Sat8LyngSat=https://www.lyngsat.com/Astra-1KR-1L-1M-1N.html
+Sat8FlySat=https://www.flysat.com/astra19.php
+Sat8SatBeams=https://www.satbeams.com/channels?position=19
+Sat8Selected=1
+
+Sat9Name=23.5E - Astra 3
+Sat9KingOfSat=https://pl.kingofsat.net/pos-23.5E.php
+Sat9LyngSat=https://www.lyngsat.com/Astra-3B.html
+Sat9FlySat=https://www.flysat.com/astra3b.php
+Sat9SatBeams=https://www.satbeams.com/channels?position=23
+Sat9Selected=1
+
+Sat10Name=28.2E - Astra 2
+Sat10KingOfSat=https://pl.kingofsat.net/pos-28.2E.php
+Sat10LyngSat=https://www.lyngsat.com/Astra-2E-2F-2G.html
+Sat10FlySat=https://www.flysat.com/astra28.php
+Sat10SatBeams=https://www.satbeams.com/channels?position=28
+Sat10Selected=1
+

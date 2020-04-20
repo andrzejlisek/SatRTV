@@ -1,0 +1,39 @@
+Freq	Pol	SR	FEC	Sat	Beam	Mod	Format	Info	Row
+11727	V	30000	3/4	Eutelsat 9B (9&deg; E)	Wide	8PSK	DVB-S2	Joyne (158/50010),	0
+11747	H	30000	3/4	Eutelsat 9B (9&deg; E)	Wide	8PSK	DVB-S2	Joyne (158/50020),	62
+11785	H	27500	2/3	Eutelsat 9B (9&deg; E)	Wide	8PSK	DVB-S2	KabelKiosk (156/5300),	108
+11804	V	27500	2/3	Eutelsat 9B (9&deg; E)	Wide	8PSK	DVB-S2	American Forces Network (18/101),	136
+11823	H	27500	3/4	Eutelsat 9B (9&deg; E)	Wide	QPSK	DVB-S	Skylogic (1325/1),	158
+11843	V	27500	3/5	Eutelsat 9B (9&deg; E)	Wide	8PSK	DVB-S2	OTE (170/1),	182
+11862	H	27500	2/3	Eutelsat 9B (9&deg; E)	Wide	8PSK	DVB-S2	KabelKiosk,	206
+11881	V	27500	2/3	Eutelsat 9B (9&deg; E)	Wide	8PSK	DVB-S2	RRSat (156/5800),	222
+11900	H	27500	2/3	Eutelsat 9B (9&deg; E)	Wide	8PSK	DVB-S2	EBS (158/5900),	240
+11919	V	27500	3/4	Eutelsat 9B (9&deg; E)	Wide	QPSK	DVB-S	MX1 (100/6000),	264
+11938	H	27500	2/3	Eutelsat 9B (9&deg; E)	Wide	8PSK	DVB-S2	Cosmote TV (158/6100),	294
+11958	V	27500	2/3	Eutelsat 9B (9&deg; E)	Wide	8PSK	DVB-S2	Magyar Televizio (158/6200),	316
+11977	H	27500	2/3	Eutelsat 9B (9&deg; E)	Wide	QPSK	DVB-S	KabelKiosk (156/8500),	362
+11996	V	27500	3/4	Eutelsat 9B (9&deg; E)	Wide	QPSK	DVB-S	GlobeCast (156/6400),	388
+12015	H	27500	2/3	Eutelsat 9B (9&deg; E)	Wide	8PSK	DVB-S2	KabelKiosk (156/6500),	412
+12034	V	27500	3/4	Eutelsat 9B (9&deg; E)	Wide	8PSK	DVB-S2	GlobeCast (158/6600),	426
+12054	H	27500	2/3	Eutelsat 9B (9&deg; E)	Greece	8PSK	DVB-S2	Cosmote TV (170/2),	454
+12073	V	30000	3/4	Eutelsat 9B (9&deg; E)	Wide	8PSK	DVB-S2	Joyne (158/50190),	490
+12092	H	27500	3/4	Eutelsat 9B (9&deg; E)	Wide	8PSK	DVB-S2	Arqiva (158/6900),	568
+12111	V	27500	5/6	Eutelsat 9B (9&deg; E)	NordicEE	8PSK	DVB-S2	XtraTV,	582
+12111	V	31400	2/3	Eutelsat 9B (9&deg; E)	Italy	8PSK	DVB-S2	Mediaset,	628
+12111	V	27500	5/6	Eutelsat 9B (9&deg; E)	Italy	8PSK	DVB-S2	XtraTV,	632
+12130	H	27500	2/3	Eutelsat 9B (9&deg; E)	GermanyA	QPSK	DVB-S	KabelKiosk (156/7100),	636
+12149	V	31400	2/3	Eutelsat 9B (9&deg; E)	Italy	8PSK	DVB-S2	Mediaset,	658
+12149	V	27500	5/6	Eutelsat 9B (9&deg; E)	NordicEE	8PSK	DVB-S2	XtraTV UA,	696
+12169	H	27500	2/3	Eutelsat 9B (9&deg; E)	Italy	8PSK	DVB-S2	Cosmote TV,	730
+12170	H	27500	2/3	Eutelsat 9B (9&deg; E)	Greece	8PSK	DVB-S2	Cosmote TV,	766
+12188	V	27500	5/6	Eutelsat 9B (9&deg; E)	Wide	8PSK	DVB-S2	XtraTV,	778
+12188	V	31400	2/3	Eutelsat 9B (9&deg; E)	Greece	8PSK	DVB-S2	Mediaset,	818
+12207	H	27500	2/3	Eutelsat 9B (9&deg; E)	Greece	8PSK	DVB-S2	Cosmote TV (170/4),	854
+12245	H	27500	2/3	Eutelsat 9B (9&deg; E)	GermanyA	8PSK	DVB-S2	KabelKiosk,	886
+12284	H	27500	2/3	Eutelsat 9B (9&deg; E)	Greece	8PSK	DVB-S2	OTE,	900
+12322	H	27500	2/3	Eutelsat 9B (9&deg; E)	GermanyA	8PSK	DVB-S2	KabelKiosk,	936
+12360	H	27500	2/3	Eutelsat 9B (9&deg; E)	GermanyA	8PSK	DVB-S2	KabelKiosk (156/8300),	964
+12399	H	27500	2/3	Eutelsat 9B (9&deg; E)	Greece	8PSK	DVB-S2	Cosmote TV (170/6),	984
+12437	H	27500	2/3	Eutelsat 9B (9&deg; E)	GermanyA	8PSK	DVB-S2	KabelKiosk (156/8700),	1022
+12466	V	41950	3/4	Eutelsat 9B (9&deg; E)	Italy	8PSK	DVB-S2	Persidera Network,	1048
+12476	H	27500	2/3	Eutelsat 9B (9&deg; E)	Greece	8PSK	DVB-S2	OTE (6/301),	1108

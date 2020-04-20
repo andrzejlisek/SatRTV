@@ -1,0 +1,930 @@
+Freq	Pol	SR	Beam	Type	Channel	T	Encryption	FTA	Package	Res	Compression	V_PID	A_PID	SID	Owner	Date	Row
+10720	H	27500	EuropeB	TV	HRTInt.	TV	FTA	Yes		SD	MPEG-4	211	212[hrv]	911	ade3661	12-Dec-19	2	
+10762	H	30000	EuropeB	TV	RTK-1	TV	FTA	Yes		SD	MPEG-4	1001	1002[alb]	1000	ade3661	12-Dec-19	6	
+10762	H	30000	EuropeB	TV	Top News	TV	FTA	Yes		SD	MPEG-4	1021	1022[alb]|1023[000]	1020	ade3661	12-Dec-19	8	
+10762	H	30000	EuropeB	TV	Bang Bang	TV	Conax	No	DigitAlb	SD	MPEG-4	1041	1042[alb]|1043[eng]	1040	ade3661	12-Dec-19	10	
+10762	H	30000	EuropeB	TV	Explorer Shkencë	TV	Conax	No	DigitAlb	SD	MPEG-4	1061	1062[alb]|1063[eng]	1060	ade3661	5-Dec-16	12	
+10762	H	30000	EuropeB	TV	Film Komedi	TV	Conax	No	DigitAlb	SD	MPEG-4	1101	1102[eng]	1100	ade3661	5-Dec-16	14	
+10762	H	30000	EuropeB	TV	Stinet	TV	Conax	No	DigitAlb	SD	MPEG-4	1161	1162[alb]	1160	alexfloresaf38	12-Dec-19	16	
+10762	H	30000	EuropeB	TV	Ora News	TV	Conax	No	DigitAlb	SD	MPEG-4	1181	1182[alb]|1183[alb]	1180	Tanea	16-Sep-19	18	
+10762	H	30000	EuropeB	TV	News 24 Albania	TV	Conax	No	DigitAlb	SD	MPEG-4	1241	1242[alb]	1240	ade3661	5-Dec-16	20	
+10762	H	30000	EuropeB	TV	X1	TV	Conax	No	DigitAlb	SD	MPEG-4	1261	1262[alb]	1260	ade3661	5-Dec-16	22	
+10762	H	30000	EuropeB	TV	ALBUK	TV	Conax	No	DigitAlb	SD	MPEG-4	1281	1282[alb]	1280	Tanea	12-Dec-19	24	
+10762	H	30000	EuropeB	TV	BCTV Europe	TV	FTA	Yes		SD	MPEG-4	1301	1302[alb]	1300	Tanea	12-Dec-19	26	
+10762	H	30000	EuropeB	TV	T HD	TV	Conax	No	DigitAlb	HD	MPEG-4	1401	1402[alb]	1400	Tanea	30-Apr-15	28	
+10762	H	30000	EuropeB	TV	SuperSport HD 7	TV	Conax	No	DigitAlb	HD	MPEG-4	1421	1422[alb]|1423[eng]	1420	Tanea	29-Sep-15	30	
+10762	H	30000	EuropeB	TV	RTV Ora HD	TV	Conax	No		HD	MPEG-4	1441	1442[ara]	1440	Tanea	16-Sep-19	32	
+10804	H	30000	SEAfrica	TV	AB 3	TV	FTA	Yes		SD	MPEG-4	171	172[fre]	7	Frocus	10-Mar-13	36	
+10804	H	30000	SEAfrica	TV	AB Moteurs	TV	FTA	Yes		SD	MPEG-4	201	202[fre]	10	Frocus	10-Mar-13	38	
+10804	H	30000	SEAfrica	TV	AB 1	TV	FTA	Yes		SD	MPEG-4	211	212[fre]	11	Frocus	10-Mar-13	40	
+10804	H	30000	SEAfrica	TV	Toute l Histoire	TV	FTA	Yes		SD	MPEG-4	231	232[fre]	13	Frocus	10-Mar-13	42	
+10804	H	30000	SEAfrica	TV	Animaux	TV	FTA	Yes		SD	MPEG-4	251	252[fre]	15	Frocus	10-Mar-13	44	
+10804	H	30000	SEAfrica	TV	Ciné Polar	TV	FTA	Yes		SD	MPEG-4	281	282[fre]	18	Frocus	10-Mar-13	46	
+10804	H	30000	SEAfrica	TV	Setanta Africa	TV	FTA	Yes		SD	MPEG-4	351	352[fre]|353[eng]	25	Frocus	10-Mar-13	48	
+10804	H	30000	SEAfrica	TV	KTO	TV	FTA	Yes		SD	MPEG-4	361	362[fre]	26	Frocus	10-Mar-13	50	
+10804	H	30000	SEAfrica	TV	Vision 4	TV	FTA	Yes		SD	MPEG-4	1011	1012[fre]	101	Tanea	24-Jul-18	52	
+10804	H	30000	SEAfrica	TV	2S TV	TV	FTA	Yes		SD	MPEG-4	1021	1022[fre]	102	Frocus	10-Mar-13	54	
+10804	H	30000	SEAfrica	TV	RDV	TV	FTA	Yes		SD	MPEG-4	1031	1032[fre]	103	Frocus	10-Mar-13	56	
+10804	H	30000	SEAfrica	TV	Emirem TV (Eglise Missionnaire du Réveil Mondial)	TV	FTA	Yes		SD	MPEG-4	1071	1072[fre]	107	Tanea	24-Jul-18	58	
+10804	H	30000	SEAfrica	TV	CRTV News	TV	FTA	Yes		SD	MPEG-4	1081	1082[fre]	108	Tanea	24-Jul-18	60	
+10804	H	30000	SEAfrica	TV	Wisal Hausa TV	TV	FTA	Yes		SD	MPEG-4	1121	1122[hau]	112	Tanea	24-Jul-18	62	
+10804	H	30000	SEAfrica	TV	Label TV	TV	FTA	Yes		SD	MPEG-4	1131	1132[fre]	113	Tanea	24-Jul-18	64	
+10804	H	30000	SEAfrica	TV	TV Colombe	TV	FTA	Yes		SD	MPEG-4	1141	1142[fre]	114	Tanea	24-Jul-18	66	
+10804	H	30000	SEAfrica	TV	Vision 4 RCA	TV	FTA	Yes		SD	MPEG-4	1171	1172[fre]	117	Tanea	24-Jul-18	68	
+10804	H	30000	SEAfrica	TV	CRTV Sports and Entertainment	TV	FTA	Yes		SD	MPEG-4	1181	1182[fre]	118	Tanea	13-Jun-19	70	
+10804	H	30000	SEAfrica	TV	LMTV	TV	FTA	Yes		SD	MPEG-4	1211	1212[fre]	121	Tanea	24-Jul-18	72	
+10804	H	30000	SEAfrica	TV	ORTB TV Benin	TV	FTA	Yes		SD	MPEG-4	2011	2012[fre]	201	Frocus	10-Mar-13	74	
+10804	H	30000	SEAfrica	TV	Golfe TV International	TV	FTA	Yes		SD	MPEG-4	2041	2042[fre]	204	Frocus	10-Mar-13	76	
+10804	H	30000	SEAfrica	TV	Asonga Telévision	TV	FTA	Yes		SD	MPEG-4	2061	2062[spa]	206	Tanea	18-Jul-17	78	
+10804	H	30000	SEAfrica	TV	CRTV	TV	FTA	Yes		SD	MPEG-4	3411	3412[fre]	341	Frocus	10-Mar-13	80	
+10804	H	30000	SEAfrica	TV	Afrique Média	TV	FTA	Yes		SD	MPEG-4	3421	3422[fre]	342	Frocus	10-Mar-13	82	
+10804	H	30000	SEAfrica	TV	Equinoxe TV	TV	FTA	Yes		SD	MPEG-4	3431	3432[fre]	343	Frocus	10-Mar-13	84	
+10804	H	30000	SEAfrica	TV	Canal 2 International	TV	FTA	Yes		SD	MPEG-4	3451	3452[fre]	345	Frocus	11-Feb-13	86	
+10804	H	30000	SEAfrica	TV	Canal 2 infos	TV	FTA	Yes		SD	MPEG-4	3461	3462[fre]	346	Frocus	30-Jun-12	88	
+10804	H	30000	SEAfrica	TV	Equinoxe TV	TV	FTA	Yes		SD	MPEG-4	3481	3482[fre]	348	Frocus	30-Jun-12	90	
+10804	H	30000	SEAfrica	TV	CamNews 24	TV	FTA	Yes		SD	MPEG-4	3491	3492[fre]	349	Frocus	30-Jun-12	92	
+10804	H	30000	SEAfrica	TV	STV 2	TV	FTA	Yes		SD	MPEG-4	3721	3722[fre]	352	Frocus	30-Jun-12	94	
+10804	H	30000	SEAfrica	TV	DRTV International	TV	FTA	Yes		SD	MPEG-4	3821	3822[fre]	382	Frocus	30-Jun-12	96	
+10804	H	30000	SEAfrica	TV	Mboa TV	TV	FTA	Yes		SD	MPEG-4	4411	4412[fre]	441	Frocus	24-Aug-12	98	
+10804	H	30000	SEAfrica	TV	France 24 Français	TV	FTA	Yes		SD	MPEG-4	4421	4422[fre]	442	Frocus	30-Jun-12	100	
+10804	H	30000	SEAfrica	TV	UbizNews	TV	FTA	Yes		SD	MPEG-4	5051	5052[fre]	505	Tanea	18-Jul-17	102	
+10804	H	30000	SEAfrica	TV	Eden TV	TV	FTA	Yes		SD	MPEG-4	6511	6512[fre]	650	Tanea	24-Jul-18	104	
+10804	H	30000	SEAfrica	TV	TVC Benin	TV	FTA	Yes		SD	MPEG-4	6701	6702[fre]	670	Tanea	18-Jul-17	106	
+10804	H	29950	EuropeB	TV	Service IPKO	TV	Conax	No	DigitAlb	SD	MPEG-4	1091	1093|1093[alb]|1094[eng]|1095[ita]|1096[fre]|1744[pol]|1964[mac]|1984[hun]|2104[rum]|2174[ger]|2194[bul]	1150	Tanea	2-Sep-14	110	
+10804	H	29950	EuropeB	TV	Top Channel HD	TV	Conax	No	DigitAlb	HD	MPEG-4	2001	2002[alb]	2000	ade3661	5-Dec-16	112	
+10804	H	29950	EuropeB	TV	Klan HD	TV	Conax	No	DigitAlb	HD	MPEG-4	2011	2012[alb]	2010	Frocus	2-Jul-13	114	
+10804	H	29950	EuropeB	TV	SuperSport HD 5	TV	Conax	No	DigitAlb	HD	MPEG-4	2021	2022[alb]|2023[eng]	2020	Frocus	19-Jan-18	116	
+10804	H	29950	EuropeB	TV	Junior TV	TV	Conax	No	DigitAlb	HD	MPEG-4	2101	2102[alb]|2103[eng]	2100	Frocus	19-Jan-18	118	
+10804	H	29950	EuropeB	TV	Çufo TV	TV	Conax	No	DigitAlb	SD	MPEG-4	2111	2112[alb]|2113[eng]	2110	Tanea	26-Dec-13	120	
+10804	H	29950	EuropeB	TV	My Music	TV	Conax	No	DigitAlb	SD	MPEG-4	2121	2122[alb]	2120	ade3661	5-Dec-16	122	
+10804	H	29950	EuropeB	TV	Explorer Natyrë	TV	Conax	No	DigitAlb	SD	MPEG-4	2131	2132[alb]|2133[eng]	2130	ade3661	5-Dec-16	124	
+10804	H	29950	EuropeB	TV	Explorer Histori	TV	Conax	No	DigitAlb	SD	MPEG-4	2141	2142[alb]|2143[000]	2140	Tanea	26-Dec-13	126	
+10804	H	29950	EuropeB	TV	Tema TV	TV	Conax	No	DigitAlb	SD	MPEG-4	2151	2152[alb]	2150	Frocus	19-Jan-18	128	
+10804	H	29950	EuropeB	TV	EuroFilm	TV	Conax	No	DigitAlb	SD	MPEG-4	2161	2162[eng]	2160	Tanea	18-Jan-18	130	
+10804	H	29950	EuropeB	TV	Film Autor	TV	Conax	No	DigitAlb	SD	MPEG-4	2171	2172[eng]|2173[ita]	2170	Tanea	26-Dec-13	132	
+10804	H	29950	EuropeB	TV	SuperSport Service 1	TV	BISS	No	DigitAlb	SD	MPEG-4	2181	2182[alb]|2183[eng]	2180	Tanea	8-Oct-19	134	
+10804	H	29950	EuropeB	TV	Film Thiller	TV	Conax	No	DigitAlb	SD	MPEG-4	2191	2192[alb]|2193[eng]	2190	ade3661	5-Dec-16	136	
+10804	H	29950	EuropeB	TV	Film Dramë	TV	Conax	No	DigitAlb	SD	MPEG-4	2201	2202[eng]|2203[ita]	2200	ade3661	5-Dec-16	138	
+10804	H	29950	EuropeB	TV	SuperSport Service 2	TV	BISS	No	DigitAlb	SD	MPEG-4	2211	2212[alb]|2213[eng]	2210	Tanea	24-Dec-19	140	
+10804	H	29950	EuropeB	TV	ABC News Albania	TV	Conax	No	DigitAlb	SD	MPEG-4	2221	2222[alb]	2220	Tanea	26-Dec-13	142	
+10804	H	29950	EuropeB	TV	MusicAl	TV	Conax	No	DigitAlb	SD	MPEG-4	2241	2242[alb]	2240	Tanea	26-Dec-13	144	
+10804	H	29950	EuropeB	TV	SuperSport Service	TV	Conax	No	DigitAlb	HD	MPEG-4	3301	3302[alb]|3303[eng]	3300	Tanea	13-Mar-15	146	
+10845	H	30000	EuropeB	TV	Film Një HD	TV	Conax	No	DigitAlb	HD	MPEG-4	1011	1012[alb]|1013[000]	1001	Frocus	13-Jun-14	150	
+10845	H	30000	EuropeB	TV	Film Dy HD	TV	Conax	No	DigitAlb	HD	MPEG-4	1021	1022[alb]|1023[000]	1002	Frocus	13-Jun-14	152	
+10845	H	30000	EuropeB	TV	Family Channel HD	TV	FTA	Yes		HD	MPEG-4	1031	1032[alb]|1033[000]	1003	Tanea	17-Jul-19	154	
+10845	H	30000	EuropeB	TV	SuperSport HD 1	TV	Conax	No	DigitAlb	HD	MPEG-4	1041	1042[alb]|1043[000]	1004	Frocus	13-Jun-14	156	
+10845	H	30000	EuropeB	TV	SuperSport HD 2	TV	Conax	No	DigitAlb	HD	MPEG-4	1051	1052[alb]|1053[000]	1005	sldvaa	13-Jun-14	158	
+10845	H	30000	EuropeB	TV	SuperSport HD 3	TV	Conax	No	DigitAlb	HD	MPEG-4	1061	1062[eng]|1063[alb]	1006	Albi75	13-Jun-14	160	
+10845	H	30000	EuropeB	TV	SuperSport HD 4	TV	Conax	No	DigitAlb	HD	MPEG-4	2161	2162[alb]|2163[eng]	1007	Tanea	15-Jul-14	162	
+10845	H	30000	EuropeB	TV	Travel Channel HD	TV	Conax	No	DigitAlb	HD	MPEG-4	2121	2122[eng]	1009	Tanea	13-Jun-14	164	
+10845	H	30000	EuropeB	TV	Rrokum TV	TV	Conax	No	DigitAlb	SD	MPEG-4	300	301[alb]	1021	Tanea	11-Apr-16	166	
+10845	H	30000	EuropeB	TV	Scan TV	TV	Conax	No	DigitAlb	SD	MPEG-2	340	341[alb]	1023	Frocus	13-Jun-14	168	
+10845	H	30000	EuropeB	TV	baby TV	TV	Conax	No	DigitAlb	SD	MPEG-4	350	351[alb]	1024	ade3661	5-Dec-16	170	
+10845	H	30000	EuropeB	TV	Ndihma e Klientit	TV	FTA	Yes		SD	MPEG-4	320	321[alb]	1028	Tanea	23-Oct-16	172	
+10845	H	30000	EuropeB	TV	IN TV	TV	Conax	No	DigitAlb	SD	MPEG-2	370	371[alb]	1034	Tanea	29-Dec-15	174	
+10845	H	30000	EuropeB	TV	UTV News	TV	Conax	No	DigitAlb	SD	MPEG-4	230	231[alb]	1035	ade3661	5-Dec-16	176	
+10887	H	27500	SEAfrica	TV	National Geographic Channel France	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	161	84[fre]	0	dm800	18-Jun-09	180	
+10887	H	27500	SEAfrica	TV	+ de Sport	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	162	88[fre]	0	ttalex	4-Feb-10	182	
+10887	H	27500	SEAfrica	TV	Private Spice	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	163	92[eng]	0	dm800	18-Jun-09	184	
+10887	H	27500	SEAfrica	IMG	Extreme Sports Channel	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	164		0	dm800	18-Jun-09	186	
+10887	H	27500	SEAfrica	TV	Ushuaïa TV	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	165	100[fre]	0	dm800	18-Jun-09	188	
+10887	H	30000	EuropeB	TV	National Geographic Channel HD Europe	TV	Videoguard|Conax	No	DigitAlb	HD	MPEG-4	1001	1002[eng]|1003[000]	1001	Frocus	30-Jun-12	192	
+10887	H	30000	EuropeB	TV	Discovery HD Showcase	TV	Conax	No	DigitAlb	HD	MPEG-4	1091	1093[alb]|1092[eng]	1002	Frocus	30-Jun-12	194	
+10887	H	30000	EuropeB	TV	STV Folk	TV	Conax	No		SD	MPEG-4	2171	2172[alb]	1003	ade3661	3-Sep-16	196	
+10887	H	30000	EuropeB	TV	Dorcel XXX HD	TV	Conax	No	DigitAlb	HD	MPEG-4	2141	2142[eng]	1007	Frocus	30-Jun-12	198	
+10887	H	30000	EuropeB	TV	StarsXXX	TV	Conax	No		SD	MPEG-4	2151	2152[eng]	1008	ade3661	3-Sep-16	200	
+10887	H	30000	EuropeB	TV	24 kitchen	TV	Conax	No		SD	MPEG-4	200	201[eng]	1021	ade3661	3-Sep-16	202	
+10887	H	30000	EuropeB	TV	Fox Channel	TV	Conax	No	DigitAlb	SD	MPEG-2	210	211[eng]	1022	Tanea	26-Dec-13	204	
+10887	H	30000	EuropeB	TV	DTX (Discovery Turbo Xtra)	TV	Conax	No	DigitAlb	SD	MPEG-4	220	221[eng]	1023	Tanea	14-Apr-16	206	
+10887	H	30000	EuropeB	TV	Fox Life Regional	TV	Conax	No	DigitAlb	SD	MPEG-4	240	241[eng]	1025	Frocus	30-Jun-12	208	
+10887	H	30000	EuropeB	TV	Fox Crime Regional	TV	Conax	No	DigitAlb	SD	MPEG-4	250	251[eng]	1026	Frocus	30-Jun-12	210	
+10887	H	30000	EuropeB	TV	Disney Channel Albania	TV	Conax	No	DigitAlb	SD	MPEG-2	260	261[eng]	1027	turkfatih	30-Jun-12	212	
+10887	H	30000	EuropeB	TV	AlSat M	TV	Conax	No		SD	MPEG-4	360	361[alb]	1029	ade3661	3-Sep-16	214	
+10887	H	30000	EuropeB	TV	SuperSonic TV	TV	Conax	No	DigitAlb	SD	MPEG-2	310	311[alb]	1030	turkfatih	30-Jun-12	216	
+10887	H	30000	EuropeB	TV	A1 Report	TV	Conax	No	DigitAlb	SD	MPEG-4	270	271[eng]	1031	Frocus	26-Dec-13	218	
+10887	H	30000	EuropeB	TV	Folklorit	TV	Conax	No	DigitAlb	SD	MPEG-4	380	381[alb]	1033	Tanea	27-Dec-13	220	
+10887	H	30000	EuropeB	TV	1 First	TV	Conax	No	DigitAlb	SD	MPEG-2	390	391[alb]	1034	Tanea	26-Dec-13	222	
+10887	H	30000	EuropeB	TV	TV ART	TV	Conax	No	DigitAlb	SD	MPEG-4	400	401[alb]	1036	Tanea	4-Feb-16	224	
+10887	H	30000	EuropeB	TV	X3	TV	Conax	No		SD	MPEG-4	280	281[eng]	1041	ade3661	3-Sep-16	226	
+10928	H	30000	SEAfrica	TV	M6	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	120	137[fre]	0	dm800	7-May-14	230	
+10928	H	30000	SEAfrica	TV	TF 6	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	122	139[fre]	0	dm800	7-May-14	232	
+10928	H	30000	SEAfrica	TV	Piwi	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	126	162[fre]	0	dm800	7-May-14	234	
+10928	H	30000	SEAfrica	TV	Cinecinema Star	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	126	162[fre]	0	dm800	7-May-14	236	
+10928	H	30000	SEAfrica	TV	Série Club	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	129	146[fre]	0	dm800	7-May-14	238	
+10928	H	30000	SEAfrica	TV	Téva	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	130	147[fre]	0	dm800	7-May-14	240	
+10928	H	30000	SEAfrica	TV	Eurêka!	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	131	148[fre]	0	dm800	7-May-14	242	
+10928	H	30000	SEAfrica	TV	Antenne Réunion	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	135	152[fre]	0	dm800	7-May-14	244	
+10928	H	30000	SEAfrica	TV	Cinecinema Premier	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	167	184[fre]	0	dm800	7-May-14	246	
+10928	H	30000	SEAfrica	TV	Cinecinema Classic	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	169	186[fre]	0	dm800	7-May-14	248	
+10928	H	30000	SEAfrica	TV	TPS Star	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	170	187[fre]	0	dm800	7-May-14	250	
+10928	H	30000	SEAfrica	TV	Cinecinema Émotion	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	512	612[fre]	0	dm800	7-May-14	252	
+10928	H	30000	SEAfrica	TV	Chasse & Pêche	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	683	700[fre]	0	dm800	7-May-14	254	
+10928	H	30000	SEAfrica	TV	RTL 9	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	683	700[fre]	0	dm800	7-May-14	256	
+10928	H	30000	SEAfrica	TV	SuperSport 3 Africa	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	689	690[eng]	0	dm800	7-May-14	258	
+10928	H	30000	SEAfrica	TV	Discovery Channel France	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	692	693[fre]	0	dm800	7-May-14	260	
+10928	H	30000	SEAfrica	TV	Télé Réunion	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	977	978[fre]	0	dm800	7-May-14	262	
+10928	H	30000	SEAfrica	TV	RFO Tempo	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	1250	1251[fre]	0	dm800	7-May-14	264	
+10928	H	30000	SEAfrica	R	NRJ Réunion	R	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien			0	597[fre]	0	dreambox	7-May-14	266	
+10928	H	30000	SEAfrica	R	Radio One	R	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien			0	680[fre]	0	dreambox	7-May-14	268	
+10928	H	30000	SEAfrica	R	Radio Classique	R	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien			0	681[fre]	0	dreambox	7-May-14	270	
+10928	H	30000	SEAfrica	R	RCF	R	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien			0	683[fre]	0	dreambox	7-May-14	272	
+10928	H	30000	SEAfrica	R	Exo FM	R	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien			0	685[fre]	0	dreambox	7-May-14	274	
+10928	H	30000	SEAfrica	R	Chérie FM	R	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien			0	691[fre]	0	ttalex	7-May-14	276	
+10928	H	30000	EuropeB	TV	Ginx	TV	Conax	No		SD	MPEG-4	1101	1102[eng]	1101	alexfloresaf38	4-Oct-17	280	
+10928	H	30000	EuropeB	TV	Wness TV	TV	FTA	Yes		SD	MPEG-4	1201	1202[bul]|1203[eng]|1204[ukr]	1102	alexfloresaf38	12-Dec-19	282	
+10928	H	30000	EuropeB	TV	RiC	TV	Conax	No		SD	MPEG-4	1501	1502[eng]|1503[ger]	1105	Tanea	12-Dec-19	284	
+10928	H	30000	EuropeB	TV	Kerrang!	TV	Conax	No		SD	MPEG-4	1701	1702[eng]	1107	Tanea	10-Sep-17	286	
+10928	H	30000	EuropeB	TV	Kiss	TV	Conax	No		SD	MPEG-4	1801	1802[eng]	1108	Tanea	10-Sep-17	288	
+10928	H	30000	EuropeB	TV	Magic UK	TV	Conax	No		SD	MPEG-4	1901	1902[eng]	1109	Tanea	10-Sep-17	290	
+10928	H	30000	EuropeB	TV	BoxHits	TV	Conax	No		SD	MPEG-4	2001	2002[eng]	1110	alexfloresaf38	13-Feb-18	292	
+10928	H	30000	EuropeB	TV	BoxAfrica	TV	Conax	No		SD	MPEG-4	2101	2102[eng]	1111	Tanea	13-Feb-18	294	
+10928	H	30000	EuropeB	TV	Epic Drama	TV	Videoguard|Conax|Irdeto	No	Total TV|Antik Sat|Orange Slovakia	HD	MPEG-4	2201	2202[000]|2203[lit]|2204[bul]|2205[tur]|2206[cze]|2207[hun]|2208[rus]	1112	alexfloresaf38	12-Dec-19	296	
+10928	H	30000	EuropeB	TV	Evil Angel HD	TV	Conax	No	Antik Sat	HD	MPEG-4	2301	2302[eng]	1113	alexfloresaf38	12-Dec-19	298	
+10928	H	30000	EuropeB	TV	Viasat Nature CEE HD	TV	Videoguard|Conax|Irdeto	No	Total TV|Antik Sat|Orange Slovakia	HD	MPEG-4	2401	2402[000]|2403[rus]|2404[cze]|2405[hun]	1114	Tanea	12-Dec-19	300	
+10928	H	30000	EuropeB	TV	Viasat Explore CEE HD	TV	Videoguard|Conax|Irdeto	No	Total TV|Antik Sat|Orange Slovakia	HD	MPEG-4	2501	2502[000]|2503[rus]|2504[tur]|2505[cze]|2506[hun]|2507[bul]	1115	Tanea	12-Dec-19	302	
+10928	H	30000	EuropeB	TV	Viasat History HD	TV	Videoguard|Conax|Irdeto	No	Total TV|Antik Sat|Orange Slovakia	HD	MPEG-4	2601	2602[000]|2603[swe]|2604[nor]|2605[dan]|2606[cze]|2607[rus]|2608[tur]|2609[hun]	1116	Tanea	12-Dec-19	304	
+10928	H	30000	EuropeB	TV	Body In Balance	TV	Conax|Irdeto	No	Antik Sat|Orange Slovakia	SD	MPEG-4	3801	3802[eng]	1128	alexfloresaf38	12-Dec-19	306	
+10972	V	27500	EuropeB	TV	Nova RS	TV	Videoguard	No	Total TV	SD	MPEG-4	251	3511[srp]	1351	ade3661	31-Oct-16	310	
+10972	V	27500	EuropeB	TV	TV Palma Plus	TV	Videoguard	No	Total TV	SD	MPEG-4	252	3521[srp]	1352	ade3661	31-Oct-16	312	
+10972	V	27500	EuropeB	TV	TV Alfa Sarajevo	TV	Videoguard	No	Total TV	SD	MPEG-4	254	37[bos]	1354	ade3661	31-Oct-16	314	
+10972	V	27500	EuropeB	TV	Televizija 24	TV	Videoguard	No	Total TV	SD	MPEG-4	256	3561[mac]	1356	Tanea	29-Jul-19	316	
+10972	V	27500	EuropeB	TV	Telma	TV	Videoguard	No	Total TV	SD	MPEG-4	257	3571[mac]	1357	Tanea	6-May-17	318	
+10972	V	27500	EuropeB	TV	Sitel 3	TV	Videoguard	No	Total TV	SD	MPEG-4	258	3581[mac]	1358	ade3661	31-Oct-16	320	
+10972	V	27500	EuropeB	TV	Comedy Central Croatia	TV	Videoguard	No	Total TV	SD	MPEG-4	260	3601[eng]	1360	ade3661	31-Oct-16	322	
+10972	V	27500	EuropeB	TV	Cinestar TV	TV	Videoguard	No	Total TV	SD	MPEG-4	261	3611[hrv]	1361	ade3661	31-Oct-16	324	
+10972	V	27500	EuropeB	IMG	Travel Channel Europe	TV	Videoguard	No	Total TV	SD	MPEG-4	262		1362	Tanea	30-Sep-17	326	
+10972	V	27500	EuropeB	TV	CBS Drama	TV	Videoguard|Conax	No	Total TV	SD	MPEG-4	263	3631[eng]	1363	ade3661	5-Dec-16	328	
+10972	V	27500	EuropeB	TV	Nick Jr	TV	Videoguard	No	Total TV	SD	MPEG-4	263	3631[srp]|3632[hrv]|3633[eng]|3634[hun]	1363	Tanea	31-Aug-18	330	
+10972	V	27500	EuropeB	TV	CineStar Premiere 1 HD	TV	Videoguard	No	Total TV	HD	MPEG-4	264	3641[eng]|3642[eng]	1364	Tanea	1-Sep-16	332	
+10972	V	27500	EuropeB	TV	Ginx	TV	Videoguard	No	Total TV	SD	MPEG-4	265	3651[eng]|3653[pol]	1365	ade3661	31-Oct-16	334	
+10972	V	27500	EuropeB	TV	CineStar Premiere 2 HD	TV	Videoguard	No	Total TV	HD	MPEG-4	266	3661[eng]|3662[eng]	1366	Tanea	1-Sep-16	336	
+10972	V	27500	EuropeB	TV	Dusk International	TV	Videoguard	No	Total TV	SD	MPEG-4	268	3681[eng]	1368	ade3661	31-Oct-16	338	
+10977	H	24114	EuropeB	TV	Canal 3 Benin	TV	FTA	Yes		SD	MPEG-4	1011	1012[fre]	101	Tanea	13-Jun-19	342	
+10977	H	24114	EuropeB	TV	Canal 3 Cinema	TV	Videoguard	No		SD	MPEG-4	1021	1022[fre]	102	Tanea	13-Jun-19	344	
+10977	H	24114	EuropeB	IMG	Canal 3 Mboa	TV	Videoguard	No		SD	MPEG-4	1031		103	Tanea	13-Jun-19	346	
+10977	H	24114	EuropeB	TV	Kombat Sport	TV	FTA	Yes		SD	MPEG-4	1081	1082[fre]	108	Tanea	18-Jul-17	348	
+10977	H	24114	EuropeB	TV	Tivi 5 Monde	  Fre	TV	FTA	Yes		SD	MPEG-4	1121	1122[fre]	112	Tanea	13-Jun-19	350	
+10977	H	24114	EuropeB	TV	Canal 3 Niger	TV	FTA	Yes		SD	MPEG-4	1141	1142[fre]	114	Tanea	13-Jun-19	352	
+10977	H	24114	EuropeB	IMG	Canal 3 Fongbe	TV	FTA	Yes		SD	MPEG-4	1151		115	Tanea	13-Jun-19	354	
+10977	H	24114	EuropeB	TV	West Africa TV	TV	Videoguard	No		SD	MPEG-4	1171	1172[fre]	117	Tanea	13-Jun-19	356	
+10977	H	24114	EuropeB	TV	Télé Sahel	TV	FTA	Yes		SD	MPEG-4	1201	1202[fre]	120	Tanea	13-Jun-19	358	
+10977	H	24114	EuropeB	IMG	Sunna TV	TV	FTA	Yes		SD	MPEG-4	1211		121	Tanea	13-Jun-19	360	
+10977	H	24114	EuropeB	IMG	Sunna TV 2	TV	FTA	Yes		SD	MPEG-4	1221		122	Tanea	13-Jun-19	362	
+10977	H	24114	EuropeB	TV	Sunna TV Savana	TV	FTA	Yes		SD	MPEG-4	1231	1232[hau]	123	Tanea	13-Jun-19	364	
+10977	H	24114	EuropeB	TV	EGTA TV	TV	FTA	Yes		SD	MPEG-4	1241	1242[hau]	124	Tanea	13-Jun-19	366	
+10977	H	24114	EuropeB	TV	Sunna TV Yoruba	TV	FTA	Yes		SD	MPEG-4	1251	1252[yor]	125	Tanea	13-Jun-19	368	
+10977	H	24114	EuropeB	IMG	Tauraruwa TV	TV	FTA	Yes		SD	MPEG-4	1261		126	Tanea	28-Jul-18	370	
+10977	H	24114	EuropeB	TV	UCAB TV	TV	FTA	Yes		SD	MPEG-4	1271	1272[fre]	127	Tanea	18-Jul-17	372	
+10977	H	24114	EuropeB	TV	Al Fayda TV	TV	FTA	Yes		SD	MPEG-4	1271	1272[fre]	127	Tanea	28-Jul-18	374	
+10977	H	24114	EuropeB	TV	Manara TV	TV	FTA	Yes		SD	MPEG-4	1281	1282[ara]	128	Tanea	18-Jul-17	376	
+10977	H	24114	EuropeB	TV	Evangelique TV	TV	FTA	Yes		SD	MPEG-4	1301	1302[fre]	130	Tanea	13-Jun-19	378	
+10977	H	24114	EuropeB	TV	Alléluia World TV	TV	FTA	Yes		SD	MPEG-4	1311	1312[fre]	131	Tanea	13-Jun-19	380	
+10977	H	24114	EuropeB	TV	Canal 3 Cedeao	TV	FTA	Yes		SD	MPEG-4	1321	1322[fre]	132	Tanea	28-Jul-18	382	
+11001	H	8332	EuropeA	TV	Afrique Média	TV	FTA	Yes		SD	MPEG-4	260	261[fre]	1	Tanea	16-Aug-18	386	
+11001	H	8332	EuropeA	TV	ABK TV	TV	FTA	Yes		SD	MPEG-4	113	114[fre]	2	Tanea	16-Aug-18	388	
+11001	H	8332	EuropeA	TV	Solution TV	TV	FTA	Yes		SD	MPEG-4	1293	1299[fre]	3	Tanea	16-Aug-18	390	
+11001	H	8332	EuropeA	TV	KingShip TV	TV	FTA	Yes		SD	MPEG-4	123	124[fre]	4	Tanea	16-Aug-18	392	
+11001	H	8332	EuropeA	TV	LTM TV	TV	FTA	Yes		SD	MPEG-4	233	234[fre]	5	Tanea	16-Aug-18	394	
+11001	H	8332	EuropeA	TV	Liberty TV Cameroon	TV	FTA	Yes		SD	MPEG-4	3711	3712[eng]	6	Tanea	16-Aug-18	396	
+11001	H	8332	EuropeA	TV	Misericorde TV	TV	FTA	Yes		SD	MPEG-4	372	371[fre]	7	Tanea	6-Dec-18	398	
+11001	H	8332	EuropeA	TV	West Africa TV	TV	FTA	Yes		SD	MPEG-4	133	134[fre]	8	Tanea	6-Dec-18	400	
+11001	H	8332	EuropeA	TV	Flamme TV	TV	FTA	Yes		SD	MPEG-4	129	130[fre]	9	Tanea	6-Dec-18	402	
+11001	H	8332	EuropeA	TV	Revival Channel	TV	FTA	Yes		SD	MPEG-4	502	521[fre]	10	Tanea	16-Aug-18	404	
+11011	V	27500	EuropeB	TV	SportKlub 1 HD	TV	Videoguard	No	Total TV	HD	MPEG-4	251	3511[srp]	1451	Tanea	11-May-16	408	
+11011	V	27500	EuropeB	TV	SportKlub 2 HD	TV	Videoguard	No	Total TV	HD	MPEG-4	252	3521[srp]	1452	Tanea	11-May-16	410	
+11011	V	27500	EuropeB	TV	SportKlub 1 Crna Gora HD	TV	Videoguard	No	Total TV	HD	MPEG-4	253	3531[srp]	1453	Tanea	11-May-16	412	
+11011	V	27500	EuropeB	TV	HBO Adria HD	TV	Videoguard	No	Total TV	HD	MPEG-4	254	3541[srp]|3542[hrv]|3543[slo]|3544[eng]	1454	Tanea	11-May-16	414	
+11011	V	27500	EuropeB	TV	HBO 2 HD	TV	Videoguard	No	Total TV	HD	MPEG-4	255	3551[cze]|3552[slv]|3553[srp]	1455	Tanea	11-May-16	416	
+11011	V	27500	EuropeB	TV	Discovery HD Showcase	TV	Videoguard	No	Total TV	HD	MPEG-4	256	3561[eng]	1456	Tanea	11-May-16	418	
+11011	V	27500	EuropeB	TV	Fox Movies HD	TV	Videoguard	No	Total TV	HD	MPEG-4	257	3571[eng]	1457	Tanea	11-May-16	420	
+11011	V	27500	EuropeB	TV	Animal Planet HD	TV	Videoguard	No	Total TV	HD	MPEG-4	258	3581[eng]	1458	Tanea	11-May-16	422	
+11040	H	4166	SubSaharan	TV	Divine TV	TV	FTA	Yes		SD	MPEG-4	128	141[fre]	1	Tanea	6-Dec-18	426	
+11040	H	4166	SubSaharan	TV	Zoe Channel	TV	FTA	Yes		SD	MPEG-4	129	145[fre]	2	Tanea	6-Dec-18	428	
+11040	H	4166	SubSaharan	TV	African Movie Star	TV	FTA	Yes		SD	MPEG-4	130	146|146[fre]	3	Tanea	6-Dec-18	430	
+11040	H	4166	SubSaharan	TV	7News	TV	FTA	Yes		SD	MPEG-4	131	147[fre]	4	Tanea	6-Dec-18	432	
+11040	H	4166	SubSaharan	TV	Glory Christ Channel	TV	FTA	Yes		SD	MPEG-4	113	114[fre]	5	Tanea	6-Dec-18	434	
+11046	H	(SR)	EuropeA	DATA	no chanel	TV	FTA	Yes		SD	MPEG-2	0		0	yzelec	1-May-16	438	
+11056	V	27500	EuropeB	TV	TV Barrandov HD	TV	Conax|Irdeto	No	Antik Sat|Orange Slovakia	HD	MPEG-4	1201	1202[cze]	1152	alexfloresaf38	12-Dec-19	442	
+11056	V	27500	EuropeB	TV	CT 1 HD	TV	Conax|Irdeto	No	Antik Sat|Orange Slovakia	HD	MPEG-4	1301	1302[cze]|1321[cze]	1153	alexfloresaf38	12-Dec-19	444	
+11056	V	27500	EuropeB	TV	CT 24 HD	TV	FTA	Yes		HD	MPEG-4	1401	1402[cze]	1154	alexfloresaf38	12-Dec-19	446	
+11056	V	27500	EuropeB	TV	Prima Krimi	TV	Conax|Irdeto	No	Antik Sat|Orange Slovakia	SD	MPEG-4	1501	1502[cze]	1155	alexfloresaf38	12-Dec-19	448	
+11056	V	27500	EuropeB	TV	CT 2 HD	TV	Conax|Irdeto	No	Antik Sat|Orange Slovakia	HD	MPEG-4	1601	1602[cze]	1156	alexfloresaf38	12-Dec-19	450	
+11056	V	27500	EuropeB	TV	CT D/ art	TV	Conax|Irdeto	No	Antik Sat|Orange Slovakia	SD	HEVC (H.265)	1901	1902[slo]	1159	alexfloresaf38	12-Dec-19	452	
+11056	V	27500	EuropeB	TV	CT Sport HD	TV	Conax|Irdeto	No	Antik Sat|Orange Slovakia	HD	MPEG-4	2001	2002[cze]|2003[cze]|2021[cze]	1160	alexfloresaf38	12-Dec-19	454	
+11056	V	27500	EuropeB	TV	Prima Cool HD	TV	Conax|Irdeto	No	Antik Sat|Orange Slovakia	HD	MPEG-4	2101	2102[cze]	1161	alexfloresaf38	12-Dec-19	456	
+11056	V	27500	EuropeB	TV	Prima Love	TV	Conax|Irdeto	No	Antik Sat|Orange Slovakia	SD	MPEG-4	2201	2202[cze]	1162	alexfloresaf38	12-Dec-19	458	
+11056	V	27500	EuropeB	TV	Prima MAX HD	TV	Conax	No		HD	MPEG-4	2401	2402[cze]	1164	Tanea	7-Aug-18	460	
+11056	V	27500	EuropeB	TV	Prima ZOOM HD	TV	Conax	No		HD	MPEG-4	3101	3102[cze]	1171	Tanea	7-Aug-18	462	
+11070	H	334	EuropeA	R	Radio 538	R	FTA	Yes				0	101[dut]	21418	Frocus	19-Dec-11	466	
+11073	H	1000	EuropeA	R	Radio Città Futura	R	FTA	Yes			MPEG-2	0	773[ita]	10	turkfatih	11-Dec-11	470	
+11073	H	1000	EuropeA	R	Ecoradio	R	FTA	Yes			MPEG-2	0	774[ita]	11	turkfatih	11-Dec-11	472	
+11092	V	27500	EuropeB	TV	Eurosport 2 HD	TV	Conax	No		HD	HEVC (H.265)	1101	1102[cze]|1103[eng]	1201	alexfloresaf38	15-Feb-18	476	
+11092	V	27500	EuropeB	TV	Nova International HD	TV	Conax	No		HD	MPEG-4	1301	1302[cze]	1203	Tanea	15-Nov-19	478	
+11092	V	27500	EuropeB	TV	CS Horror (00-06 Cet)	TV	Conax	No		SD	HEVC (H.265)	1401	1402[cze]	1204	Tanea	6-Dec-19	480	
+11092	V	27500	EuropeB	TV	The Fishing and Hunting Channel	TV	Conax	No		SD	HEVC (H.265)	1501	1502[cze]|1503[hun]|1504[rum]|1505[bul]	1205	Tanea	15-Nov-19	482	
+11092	V	27500	EuropeB	TV	Mnam TV	TV	Conax	No		SD	HEVC (H.265)	1601	1602[cze]	1206	Tanea	15-Nov-19	484	
+11092	V	27500	EuropeB	TV	Film Europe	TV	Conax	No		SD	HEVC (H.265)	1701	1702[mul]	1207	alexfloresaf38	15-Feb-18	486	
+11092	V	27500	EuropeB	TV	Kinosvet	TV	Conax	No		SD	HEVC (H.265)	1801	1802[cze]	1208	alexfloresaf38	15-Feb-18	488	
+11092	V	27500	EuropeB	TV	Arena Sport 2 Slovakia	TV	Conax	No		SD	HEVC (H.265)	2001	2002[slo]	1210	Tanea	15-Nov-19	490	
+11092	V	27500	EuropeB	TV	Nova Gold	TV	Conax	No		SD	HEVC (H.265)	2501	2502[cze]	1215	alexfloresaf38	15-Feb-18	492	
+11092	V	27500	EuropeB	TV	JimJam Europe	TV	Videoguard|Conax|Irdeto	No		SD	MPEG-4	4101	4102[cze]|4103[eng]|4104[hun]	1231	Tanea	15-Nov-19	494	
+11092	V	27500	EuropeB	TV	Nova Action	TV	Conax	No		SD	HEVC (H.265)	6201	6202[cze]	1252	alexfloresaf38	20-Feb-18	496	
+11092	V	27500	EuropeB	TV	Nova Cinema	TV	Conax	No		SD	HEVC (H.265)	6301	6302[cze]	1253	alexfloresaf38	20-Feb-18	498	
+11092	V	27500	EuropeB	TV	Nova Sport 1 HD	TV	Conax	No		HD	HEVC (H.265)	6501	6502[cze]|6503[eng]	1255	alexfloresaf38	20-Feb-18	500	
+11092	V	27500	EuropeB	TV	Nova Sport 2 HD	TV	Conax	No		HD	HEVC (H.265)	6601	6602[cze]|6603[eng]|6621[cze]	1256	alexfloresaf38	20-Feb-18	502	
+11092	V	27500	EuropeB	TV	AXN	TV	Conax	No		SD	HEVC (H.265)	6801	6802[cze]|6803[eng]	1258	alexfloresaf38	20-Feb-18	504	
+11092	V	27500	EuropeB	TV	CT D/ art	TV	Conax	No		SD	HEVC (H.265)	7001	7002[cze]	1260	alexfloresaf38	20-Feb-18	506	
+11092	V	27500	EuropeB	TV	Prima Max	TV	Conax	No		SD	HEVC (H.265)	7101	7102[cze]	1261	alexfloresaf38	20-Feb-18	508	
+11131	V	16593	EuropeB	TV	Antena 1	TV	PowerVu	No		SD	MPEG-2	1110	1211[rum]	1	Frocus	9-Oct-09	512	
+11131	V	16593	EuropeB	TV	Antena 3	TV	FTA	Yes		SD	MPEG-2	3110	3211[rum]	3	Frocus	5-Aug-10	514	
+11131	V	16593	EuropeB	TV	Zu TV	TV	Conax	No		SD	MPEG-4	5120	5221[rum]	5	Tanea	7-Apr-14	516	
+11131	V	16593	EuropeB	TV	Antena International	TV	Conax	No		SD	MPEG-4	6120	6221[rum]|6223[rum]	6	Tanea	19-Mar-14	518	
+11131	V	16593	EuropeB	TV	Antena HD	TV	Conax	No		HD	MPEG-4	7120	7221[rum]	7	Tanea	19-Mar-14	520	
+11131	V	16593	EuropeB	R	Radio Zu	R	FTA	Yes				0	1213[rum]	55	dreambox	18-Jun-09	522	
+11131	V	16593	EuropeB	R	Romantic FM	R	FTA	Yes				0	3213[rum]	56	dreambox	18-Jun-09	524	
+11139	H	30000	EuropeB	TV	ABC News Albania	TV	Conax	No		SD	MPEG-4	2518	2519[alb]	15	Tanea	25-Jan-20	528	
+11139	H	30000	EuropeB	TV	Tring History	TV	Conax	No		SD	MPEG-4	1512	1513[alb]	70	Tanea	25-Jan-20	530	
+11139	H	30000	EuropeB	TV	RTK 1	TV	FTA	Yes		SD	MPEG-4	1111	1121[alb]	135	Tanea	25-Jan-20	532	
+11139	H	30000	EuropeB	TV	Tring Kids	TV	Conax	No		SD	MPEG-4	2775	2749[alb]	801	Tanea	25-Jan-20	534	
+11139	H	30000	EuropeB	TV	Elrodi TV	TV	Conax	No		SD	MPEG-4	513	640[alb]	1225	Tanea	25-Jan-20	536	
+11139	H	30000	EuropeB	TV	BB	TV	Conax	No		SD	MPEG-2	2831	3224[alb]	2830	Tanea	25-Jan-20	538	
+11139	H	30000	EuropeB	TV	Prime	TV	Conax	No		SD	MPEG-4	49	50[alb]	3718	Tanea	25-Jan-20	540	
+11139	H	30000	EuropeB	TV	T7 (Televizioni T7)	TV	Conax	No		SD	MPEG-4	73	74[alb]	4721	Tanea	25-Jan-20	542	
+11139	H	30000	EuropeB	IMG	Artkino 1	TV	Conax	No		SD	MPEG-4	66		4911	Tanea	25-Jan-20	544	
+11139	H	30000	EuropeB	TV	Artkino 2	TV	Conax	No		SD	MPEG-4	130	131[alb]	4912	Tanea	25-Jan-20	546	
+11139	H	30000	EuropeB	TV	Artkino 3	TV	Conax	No		SD	MPEG-4	1940	1950[alb]	4913	Tanea	25-Jan-20	548	
+11139	H	30000	EuropeB	TV	ArtDoku 1	TV	Conax	No		SD	MPEG-4	2580	2590[alb]	4914	Tanea	25-Jan-20	550	
+11139	H	30000	EuropeB	TV	ArtDoku 2	TV	FTA	Yes		SD	MPEG-2	37	38[alb]	4915	Tanea	25-Jan-20	552	
+11139	H	30000	EuropeB	IMG	Episode	TV	Conax	No		SD	MPEG-4	194		4917	Tanea	25-Jan-20	554	
+11139	H	30000	EuropeB	IMG	Prince Kids	TV	Conax	No		SD	MPEG-4	258		4918	Tanea	25-Jan-20	556	
+11139	H	30000	EuropeB	TV	Top Channel	TV	FTA	Yes		SD	MPEG-4	101	102[alb]	5000	Tanea	8-Feb-20	558	
+11139	H	30000	EuropeB	TV	Top News	TV	FTA	Yes		SD	MPEG-4	6841	6844[alb]	5010	Tanea	8-Feb-20	560	
+11139	H	30000	EuropeB	TV	Dukagjini	TV	Conax	No		SD	MPEG-4	6312	6313[alb]	6011	Tanea	25-Jan-20	562	
+11139	H	30000	EuropeB	TV	Alsat-M	TV	Conax	No		SD	MPEG-4	6366	5052[alb]	6032	Tanea	25-Jan-20	564	
+11139	H	30000	EuropeB	IMG	Gurmania Channel	TV	FTA	Yes		SD	MPEG-4	52		62175	Tanea	25-Jan-20	566	
+11151	V	13268	EuropeB	TV	Pink Thriller	TV	Irdeto 2	No		SD	MPEG-4	552	652[srp]	52	Tanea	21-Apr-15	570	
+11151	V	13268	EuropeB	TV	Pink Crime & Mystery	TV	Irdeto 2	No		SD	MPEG-4	553	653[srp]	53	Tanea	21-Apr-15	572	
+11151	V	13268	EuropeB	TV	Pink Romance	TV	Irdeto 2	No		SD	MPEG-4	554	654[srp]	54	Tanea	21-Apr-15	574	
+11151	V	13268	EuropeB	TV	Pink Sci-Fi & Fantasy	TV	Irdeto 2	No		SD	MPEG-4	555	655[srp]	55	Tanea	21-Apr-15	576	
+11151	V	13268	EuropeB	TV	Pink Reality	TV	Irdeto 2	No		SD	MPEG-4	556	656[srp]	56	Tanea	3-May-13	578	
+11151	V	13268	EuropeB	TV	Pink Premium	TV	Irdeto 2	No		SD	MPEG-4	557	657[srp]	57	Tanea	3-May-13	580	
+11151	V	13268	EuropeB	TV	Pink Soap	TV	Irdeto 2	No		SD	MPEG-4	558	658[srp]	58	Tanea	3-May-13	582	
+11151	V	13268	EuropeB	TV	Pink World	TV	Irdeto 2	No		SD	MPEG-4	559	659[srp]	59	Tanea	3-May-13	584	
+11151	V	13268	EuropeB	TV	Pink Zabava	TV	Irdeto 2	No		SD	MPEG-4	560	660[srp]	60	Tanea	3-May-13	586	
+11151	V	13268	EuropeB	TV	Pink Pedia	TV	Irdeto 2	No		SD	MPEG-4	561	661[srp]	61	Tanea	4-Dec-13	588	
+11151	V	13268	EuropeB	TV	Pink Hits 2	TV	Irdeto 2	No		SD	MPEG-4	562	662[srp]	62	Tanea	21-Apr-15	590	
+11151	V	13268	EuropeB	TV	Pink Koncert	TV	Irdeto 2	No		SD	MPEG-4	563	663[srp]	63	Tanea	21-Apr-15	592	
+11151	V	13268	EuropeB	TV	Pink Folk 2	TV	Irdeto 2	No		SD	MPEG-4	564	664[srp]	64	Tanea	3-May-13	594	
+11151	V	13268	EuropeB	TV	Pink Comedy	TV	Irdeto 2	No		SD	MPEG-4	565	665[srp]	65	Tanea	4-Dec-13	596	
+11151	V	13268	EuropeB	TV	Pink and Roll	TV	Irdeto 2	No		SD	MPEG-4	566	666[srp]	66	Tanea	3-May-13	598	
+11151	V	13268	EuropeB	TV	Pink Horror	TV	Irdeto 2	No		SD	MPEG-4	567	667[srp]	67	Tanea	4-Dec-13	600	
+11178	V	30000	EuropeB	TV	Pink Plus	TV	Videoguard	No	Total TV	SD	MPEG-2	512	640[srp]	1	Frocus	11-Aug-10	604	
+11178	V	30000	EuropeB	TV	Pink Extra	TV	Videoguard	No	Total TV	SD	MPEG-2	513	641[srp]	2	Frocus	11-Aug-10	606	
+11178	V	30000	EuropeB	TV	Pink BH	TV	Videoguard	No	Total TV	SD	MPEG-2	514	642[srp]	4	Frocus	11-Aug-10	608	
+11178	V	30000	EuropeB	TV	Pink M	TV	Videoguard	No	Total TV	SD	MPEG-2	515	643[srp]	5	Frocus	11-Aug-10	610	
+11178	V	30000	EuropeB	TV	Pink Srbija	TV	Videoguard	No	Total TV	SD	MPEG-2	516	644[srp]	6	Frocus	11-Aug-10	612	
+11178	V	30000	EuropeB	TV	Pink Action	TV	Videoguard	No	Total TV	SD	MPEG-2	517	645[srp]	7	Frocus	11-Aug-10	614	
+11178	V	30000	EuropeB	TV	Pink Movies	TV	Videoguard	No	Total TV	SD	MPEG-2	518	646[srp]	8	Frocus	11-Aug-10	616	
+11178	V	30000	EuropeB	TV	Pink Film	TV	Videoguard	No	Total TV	SD	MPEG-2	519	647[srp]	9	Frocus	11-Aug-10	618	
+11178	V	30000	EuropeB	TV	Pink Music	TV	Videoguard	No	Total TV	SD	MPEG-2	520	648[srp]	10	Frocus	11-Aug-10	620	
+11178	V	30000	EuropeB	TV	Pink 3 Info	TV	Videoguard	No	Total TV	SD	MPEG-2	521	649[srp]	11	Tanea	21-Apr-15	622	
+11178	V	30000	EuropeB	TV	Pink Family	TV	Videoguard	No	Total TV	SD	MPEG-2	522	650[srp]	12	Frocus	11-Aug-10	624	
+11178	V	30000	EuropeB	TV	Pink Fashion	TV	Videoguard|Irdeto 2	No	Total TV	SD	MPEG-4	582	682|682[srp]	82	Tanea	11-Jan-18	626	
+11178	V	30000	EuropeB	TV	Pink Music 2	TV	Videoguard|Irdeto 2	No	Total TV	SD	MPEG-4	583	683|683[srp]	83	Tanea	11-Jan-18	628	
+11178	V	30000	EuropeB	TV	Pink Hits 1	TV	Videoguard|Irdeto 2	No	Total TV	SD	MPEG-4	584	684|684[srp]	84	Tanea	11-Jan-18	630	
+11178	V	30000	EuropeB	TV	City Play	TV	Videoguard|Irdeto 2	No	Total TV	SD	MPEG-4	585	685[srp]	85	Tanea	11-Jan-18	632	
+11178	V	30000	EuropeB	TV	Pink Western	TV	Videoguard|Irdeto 2	No	Total TV	SD	MPEG-4	590	690|690[srp]	90	Tanea	11-Jan-18	634	
+11178	V	30000	EuropeB	TV	Pink Classic	TV	Videoguard|Irdeto 2	No	Total TV	SD	MPEG-4	591	691|691[srp]	91	Tanea	11-Jan-18	636	
+11178	V	30000	EuropeB	TV	Pink Style	TV	Videoguard|Irdeto 2	No	Total TV	SD	MPEG-4	592	692|692[srp]	92	Tanea	11-Jan-18	638	
+11178	V	30000	EuropeB	TV	Bravo Music	TV	Videoguard|Irdeto 2	No	Total TV	SD	MPEG-4	593	693|693[srp]	93	Tanea	11-Jan-18	640	
+11178	V	30000	EuropeB	TV	Pink Serije	TV	Videoguard|Irdeto 2	No	Total TV	SD	MPEG-4	598	698|698[srp]	98	Tanea	11-Jan-18	642	
+11178	V	30000	EuropeB	TV	Pink World Cinema	TV	Videoguard|Irdeto 2	No	Total TV	SD	MPEG-4	599	699[srp]	99	Tanea	11-Jan-18	644	
+11178	V	30000	EuropeB	TV	Pink Show	TV	Videoguard|Irdeto 2	No	Total TV	SD	MPEG-4	600	700|700[srp]	100	Tanea	11-Jan-18	646	
+11178	V	30000	EuropeB	TV	Pink Kuvar	TV	Videoguard|Irdeto 2	No	Total TV	SD	MPEG-4	601	701|701[srp]	101	Tanea	11-Jan-18	648	
+11178	V	30000	EuropeB	TV	Pink Super Kids	TV	Videoguard|Irdeto 2	No	Total TV	SD	MPEG-4	602	702|702[srp]	102	Tanea	11-Jan-18	650	
+11178	V	30000	EuropeB	TV	HA HA	TV	Videoguard|Irdeto 2	No	Total TV	SD	MPEG-4	603	703|703[srp]	103	Tanea	11-Jan-18	652	
+11178	V	30000	EuropeB	TV	LOL	TV	Videoguard|Irdeto 2	No	Total TV	SD	MPEG-4	604	704|704[srp]	104	Tanea	11-Jan-18	654	
+11178	V	30000	EuropeB	R	Pink Radio	R	Videoguard	No				0	661[srp]	3	Frocus	12-Nov-11	656	
+11178	V	30000	EuropeB	R	Radio Index	R	FTA	Yes				0	665[srp]	24	dreambox	18-Jun-09	658	
+11188	H	6600	EuropeA	DATA	Sky News feed	F	FTA	Yes				0		0	Frocus	22-Nov-11	662	
+11221	H	30000	EuropeA	TV	Planet TV	TV	Videoguard	No		SD	MPEG-4	251	2511[srp]	4451	ade3661	22-Sep-16	666	
+11221	H	30000	EuropeA	TV	Hema TV	TV	Videoguard	No		SD	MPEG-4	253	3531[bos]	4453	ade3661	22-Sep-16	668	
+11221	H	30000	EuropeA	TV	Brainz	TV	Videoguard	No	Total TV	SD	MPEG-4	253	3531[srp]	4453	Tanea	18-Dec-18	670	
+11221	H	30000	EuropeA	TV	Oto	TV	Videoguard	No		SD	MPEG-4	255	3551[slv]	4455	ade3661	22-Sep-16	672	
+11221	H	30000	EuropeA	TV	Croatian Music Channel	TV	Videoguard	No		SD	MPEG-4	2848	2592[hrv]	4456	ade3661	2-Jan-17	674	
+11221	H	30000	EuropeA	TV	SK HD	TV	Videoguard	No		HD	MPEG-4	257	3571[srp]|3572[hrv]|3573[slv]	4457	ade3661	22-Sep-16	676	
+11221	H	30000	EuropeA	TV	Sport Klub 3 HD	TV	Videoguard	No		HD	MPEG-4	258	3581[srp]|3582[hrv]|3583[slv]	4458	ade3661	22-Sep-16	678	
+11221	H	30000	EuropeA	TV	N1 Serbia HD	TV	Videoguard	No		HD	MPEG-4	259	3591[srp]	4459	ade3661	27-Sep-16	680	
+11221	H	30000	EuropeA	TV	Fox HD Serbia	TV	Videoguard	No		HD	MPEG-4	260	3601[srp]	4460	ade3661	27-Sep-16	682	
+11221	H	30000	EuropeA	TV	Fox Life HD Serbia	TV	Videoguard	No		HD	MPEG-4	261	3611[srp]	4461	ade3661	27-Sep-16	684	
+11221	H	30000	EuropeA	TV	Viasat Nature / Crime HD	TV	Videoguard|Conax	No		HD	MPEG-4	262	3621[eng]	4462	ade3661	27-Sep-16	686	
+11221	H	30000	EuropeA	TV	Hustler TV	TV	Videoguard	No		SD	MPEG-4	264	3641[eng]	4464	ade3661	27-Sep-16	688	
+11221	H	30000	EuropeA	TV	Sci-Fi Eastern Europe	TV	Videoguard	No		SD	MPEG-4	265	3651[eng]	4465	ade3661	27-Sep-16	690	
+11231	V	42000	EuropeA	TV	TV 1 (Bosnia)	TV	Videoguard	No	Total TV	SD	MPEG-4	251	3511[bos]	751	ade3661	27-Sep-16	694	
+11231	V	42000	EuropeA	TV	Nickelodeon	TV	Videoguard	No	Total TV	SD	MPEG-4	252	3521[srp]|3522[hrv]|3523[eng]|3524[slv]	752	ade3661	27-Sep-16	696	
+11231	V	42000	EuropeA	TV	Sport Klub 3 Slovenia	TV	FTA	Yes		SD	MPEG-4	253	3531[slv]	753	ade3661	27-Sep-16	698	
+11231	V	42000	EuropeA	TV	Viasat Nature CEE	TV	Videoguard|Conax	No		SD	MPEG-4	256	3561[eng]	756	ade3661	27-Sep-16	700	
+11231	V	42000	EuropeA	TV	Animal Planet	TV	Videoguard	No		SD	MPEG-4	257	3571[eng]	757	ade3661	27-Sep-16	702	
+11231	V	42000	EuropeA	TV	E! Eastern Europe	TV	Videoguard	No		SD	MPEG-4	259	3591[eng]	759	ade3661	27-Sep-16	704	
+11231	V	42000	EuropeA	TV	TLC Balkans	TV	Videoguard	No		SD	MPEG-4	260	3601[eng]	760	ade3661	27-Sep-16	706	
+11231	V	42000	EuropeA	TV	National Geographic HD East Europe	TV	Videoguard	No		HD	MPEG-4	261	3611[eng]	761	ade3661	27-Sep-16	708	
+11231	V	42000	EuropeA	TV	Fox Movies Slovenia	TV	Videoguard	No		SD	MPEG-4	262	3621[eng]	762	ade3661	27-Sep-16	710	
+11231	V	42000	EuropeA	TV	24Kitchen	TV	Videoguard|Conax	No		SD	MPEG-4	263	3631[eng]	763	ade3661	27-Sep-16	712	
+11231	V	42000	EuropeA	TV	CineMax	TV	Videoguard	No		SD	MPEG-4	264	3641[srp]|3642[srp]|3643[slv]	764	ade3661	2-Jan-17	714	
+11231	V	42000	EuropeA	TV	CineStar TV Serbia	TV	Videoguard	No		SD	MPEG-4	265	3651[srp]	765	ade3661	27-Sep-16	716	
+11231	V	42000	EuropeA	TV	CineStar Action and Thriller	TV	Videoguard	No		SD	MPEG-4	266	3661[srp]	766	ade3661	27-Sep-16	718	
+11231	V	42000	EuropeA	TV	AXN Adria	TV	Videoguard	No		SD	MPEG-4	267	3671[eng]	767	ade3661	27-Sep-16	720	
+11231	V	42000	EuropeA	TV	Brazzers TV	TV	Videoguard	No		SD	MPEG-4	268	3681[eng]	768	ade3661	27-Sep-16	722	
+11231	V	42000	EuropeA	TV	Dorcel TV HD	TV	Videoguard	No		HD	MPEG-4	269	3691[eng]	769	ade3661	27-Sep-16	724	
+11231	V	42000	EuropeA	TV	MTV Adria	TV	Videoguard	No		SD	MPEG-4	271	3711[srp]	771	ade3661	27-Sep-16	726	
+11231	V	42000	EuropeA	TV	Disney Channel	TV	Videoguard	No		SD	MPEG-4	272	3721[eng]	772	ade3661	27-Sep-16	728	
+11231	V	42000	EuropeA	TV	Sport 1 Slovenija	TV	Videoguard	No	Total TV	SD	MPEG-4	274	3741[slo]	774	Tanea	3-Feb-18	730	
+11231	V	42000	EuropeA	TV	Prva Kick	TV	Videoguard	No	Total TV	SD	MPEG-4	275	3751[srp]	775	Tanea	3-Feb-18	732	
+11231	V	42000	EuropeA	TV	Pink Reality	TV	Videoguard	No	Total TV	SD	MPEG-4	277	3771[srp]	777	Tanea	3-Feb-18	734	
+11262	H	30000	EuropeB	IMG	EFB 1	TV	BISS	No		SD	MPEG-4	61		2	Tanea	20-Sep-18	738	
+11262	H	30000	EuropeB	TV	BN TV Satelitski	TV	FTA	Yes		SD	MPEG-2	93	95[srp]	4	Tanea	5-Sep-12	740	
+11262	H	30000	EuropeB	TV	BN Music	TV	FTA	Yes		SD	MPEG-2	109	111[srp]	5	Tanea	5-Sep-12	742	
+11262	H	30000	EuropeB	TV	RTRS	TV	FTA	Yes		SD	MPEG-2	141	143[srp]	7	Tanea	27-Mar-15	744	
+11262	H	30000	EuropeB	TV	BN TV Zemaljski	TV	Videoguard|Viaccess 2.5	No		SD	MPEG-2	221	223[srp]	12	Tanea	12-May-14	746	
+11262	H	30000	EuropeB	TV	RTRS TV	TV	FTA	Yes		SD	MPEG-2	301	303[srp]	17	Frocus	18-Mar-13	748	
+11283	V	30000	EuropeB	TV	FilmBox Premium HD	TV	Videoguard|Conax	No		HD	MPEG-4	1101	1102[eng]	2701	Tanea	27-Feb-19	752	
+11283	V	30000	EuropeB	TV	TDC HD (Timeless Drama Channel)	TV	Conax	No		HD	MPEG-4	1201	1202[tur]|1203[ara]	2702	Tanea	5-Aug-19	754	
+11283	V	30000	EuropeB	TV	Gametoon HD	TV	Conax	No		HD	MPEG-4	3401	3402[eng]	2705	Tanea	20-Aug-19	756	
+11283	V	30000	EuropeB	TV	FightBOX HD	TV	Conax	No		HD	MPEG-4	2301	2302[eng]	2706	Tanea	20-Aug-19	758	
+11283	V	30000	EuropeB	TV	Brava HDTV	TV	Conax	No		HD	MPEG-4	1701	1702|1702[eng]	2707	Tanea	24-Sep-14	760	
+11283	V	30000	EuropeB	TV	FilmBox Arthouse	TV	Conax	No		SD	MPEG-4	1801	1802[eng]|1803[rus]	2708	Tanea	24-Sep-14	762	
+11283	V	30000	EuropeB	TV	FilmBox Plus Czechia	TV	Conax	No		SD	MPEG-4	1901	1902[eng]	2709	Tanea	24-Sep-14	764	
+11283	V	30000	EuropeB	TV	FilmBox HD	TV	FTA	Yes		HD	MPEG-4	2001	2002[eng]	2710	Tanea	24-Sep-14	766	
+11283	V	30000	EuropeB	TV	Fast&FunBox HD	TV	Conax	No		HD	MPEG-4	2201	2202[eng]|2203[rus]	2712	Tanea	24-Sep-14	768	
+11283	V	30000	EuropeB	TV	FightBox HD	TV	Conax	No		HD	MPEG-4	2301	2302[eng]|2303[rus]	2713	Tanea	24-Sep-14	770	
+11283	V	30000	EuropeB	TV	360TuneBox HD	TV	Conax	No		HD	MPEG-4	1501	1502[eng]	2716	Tanea	20-Aug-19	772	
+11283	V	30000	EuropeB	TV	FilmBox HD	TV	Conax	No		HD	MPEG-4	2701	2721[cze]	2717	Tanea	10-Mar-15	774	
+11283	V	30000	EuropeB	TV	FilmBox Premium Czechia	TV	Conax	No		SD	MPEG-4	2901	2902[cze]	2719	Tanea	12-Mar-15	776	
+11283	V	30000	EuropeB	TV	360TuneBox	TV	Conax	No		SD	MPEG-4	1501	1502[eng]	2720	Tanea	22-Sep-15	778	
+11283	V	30000	EuropeB	TV	FashionBox	TV	Conax	No		SD	MPEG-4	1701	1702[eng]	2721	Tanea	22-Sep-15	780	
+11283	V	30000	EuropeB	TV	EuroSport 2 HD	TV	Conax	No		HD	MPEG-4	3101	3104[cze]	2721	Tanea	12-Mar-15	782	
+11283	V	30000	EuropeB	TV	FilmBox Basic	TV	Conax	No		SD	MPEG-4	3001	3002[cze]|3003[eng]|3004[hun]	2722	Tanea	22-Sep-15	784	
+11283	V	30000	EuropeB	TV	FilmBox Baltic	TV	Conax	No		SD	MPEG-4	3101	3102[eng]|3103[eng]	2723	Tanea	22-Sep-15	786	
+11283	V	30000	EuropeB	TV	FilmBox Premium	TV	Conax	No		SD	MPEG-4	3201	3202[hun]	2724	Tanea	22-Sep-15	788	
+11283	V	30000	EuropeB	TV	FilmBox Family	TV	Conax	No		SD	MPEG-4	3301	3302[cze]|3303[hun]	2725	Tanea	22-Sep-15	790	
+11283	V	30000	EuropeB	TV	Gametoon	TV	Conax	No		SD	MPEG-4	3401	3402[eng]	2729	Tanea	28-Jan-17	792	
+11283	V	30000	EuropeB	IMG	Ultra	TV	Conax	No	Mtel	SD	MPEG-4	3601		2730	Tanea	19-Oct-17	794	
+11304	H	30000	EuropeA	TV	Al Jazeera Balkans HD	TV	FTA	Yes		HD	MPEG-4	49	51|51[bos]	1	Frocus	16-Oct-14	798	
+11304	H	30000	EuropeA	TV	Minimax Serbia	TV	Videoguard|Conax|Viaccess 5.0	No		SD	MPEG-2	81	83[srp]	3	ade3661	16-Feb-19	800	
+11304	H	30000	EuropeA	TV	Eurochannel HD	TV	Viaccess 5.0	No		HD	MPEG-4	97	99[000]|100[pol]|101[rus]	4	ade3661	16-Feb-19	802	
+11304	H	30000	EuropeA	TV	Yu Planet Bec	TV	FTA	Yes		SD	MPEG-4	129	131[srp]	6	ade3661	5-Jun-17	804	
+11304	H	30000	EuropeA	R	OBN	TV	Viaccess	No		SD	MPEG-2	0	0[bos]	7	Tanea	31-Jul-14	806	
+11304	H	30000	EuropeA	IMG	Aurora TV	TV	FTA	Yes		SD	MPEG-4	161		8	ade3661	16-Feb-19	808	
+11304	H	30000	EuropeA	TV	Pro TV International	TV	FTA	Yes		SD	MPEG-4	177	179[rum]	9	ade3661	4-Oct-15	810	
+11304	H	30000	EuropeA	TV	AMC Balkan	TV	Videoguard|Conax|Viaccess 5.0	No		SD	MPEG-2	321	323[eng]	18	ade3661	16-Feb-19	812	
+11324	V	30000	EuropeB	R	Šlágr TV	TV	Conax|Irdeto 2	No		SD	MPEG-4	0	0[cze]	0	Tanea	12-Jul-18	816	
+11324	V	30000	EuropeB	R	Orange Sport	TV	Conax|Irdeto 2	No		SD	MPEG-4	0	0[slo]	0	Tanea	12-Jul-18	818	
+11324	V	30000	EuropeB	R	Ócko TV	TV	Conax|Irdeto 2	No		SD	MPEG-4	0	0[cze]	0	Tanea	12-Jul-18	820	
+11324	V	30000	EuropeB	R	TV Dajto HD	TV	Conax|Irdeto 2	No		HD	MPEG-4	0	0[slo]	0	Tanea	12-Jul-18	822	
+11324	V	30000	EuropeB	R	Nova International HD	TV	Conax|Irdeto 2	No		HD	MPEG-4	0	0[cze]	0	Tanea	12-Jul-18	824	
+11324	V	30000	EuropeB	R	RTV 1 HD Slovakia	TV	Conax|Irdeto 2	No		HD	MPEG-4	0	0[slo]	0	Tanea	12-Jul-18	826	
+11324	V	30000	EuropeB	R	TA 3 HD	TV	Conax|Irdeto 2	No		HD	MPEG-4	0	0[slo]	0	Tanea	12-Jul-18	828	
+11324	V	30000	EuropeB	R	TV Joj HD	TV	Conax|Irdeto 2	No		HD	MPEG-4	0	0[slo]	0	Tanea	12-Jul-18	830	
+11324	V	30000	EuropeB	R	Joj Plus HD	TV	Conax|Irdeto 2	No		HD	MPEG-4	0	0[slo]	0	Tanea	12-Jul-18	832	
+11324	V	30000	EuropeB	R	TV Dajto HD	TV	Conax|Irdeto 2	No		HD	MPEG-4	0	0[slo]	0	Tanea	12-Jul-18	834	
+11324	V	30000	EuropeB	R	TV Markíza HD	TV	Conax|Irdeto 2	No		HD	MPEG-4	0	0[slo]	0	Tanea	12-Jul-18	836	
+11324	V	30000	EuropeB	R	TV Doma HD	TV	Conax|Irdeto 2	No		HD	MPEG-4	0	0[slo]	0	Tanea	12-Jul-18	838	
+11345	H	30000	EuropeB	TV	OTV Valentino	TV	FTA	Yes		SD	MPEG-2	102	103[bos]	1001	Tanea	16-Aug-18	842	
+11345	H	30000	EuropeB	TV	K::CN Svet + 3	TV	FTA	Yes		SD	MPEG-2	402	403[srp]	1004	Tanea	7-Mar-18	844	
+11345	H	30000	EuropeB	IMG	K::CN Kopernikus 1	TV	FTA	Yes		SD	MPEG-2	702		1007	Tanea	7-Mar-18	846	
+11345	H	30000	EuropeB	TV	K::CN Music 2	TV	FTA	Yes		SD	MPEG-2	1702	1703[srp]	1017	Tanea	7-Mar-18	848	
+11356	H	45000	SubSaharan	TV	Télé Tchad	TV	FTA	Yes		SD	MPEG-4	1021	1022[ara]	3102	Tanea	6-Dec-18	852	
+11356	H	45000	SubSaharan	TV	Equinoxe TV	TV	FTA	Yes		SD	MPEG-4	1031	1032[fre]	3103	Tanea	6-Dec-18	854	
+11356	H	45000	SubSaharan	TV	Alwilayah TV Hausa	TV	FTA	Yes		SD	MPEG-4	1041	1042[hau]	3104	Tanea	6-Dec-18	856	
+11356	H	45000	SubSaharan	TV	TVT	TV	FTA	Yes		SD	MPEG-4	1071	1072[fre]	3107	Tanea	6-Dec-18	858	
+11356	H	45000	SubSaharan	TV	Liberty TV	TV	FTA	Yes		SD	MPEG-4	1101	1102[eng]	3110	Tanea	6-Dec-18	860	
+11365	V	30000	EuropeA	IMG	TV K CN 1	TV	FTA	Yes		SD	MPEG-2	702		1007	ade3661	24-Mar-17	864	
+11365	V	30000	EuropeA	IMG	EuroChannel	TV	Viaccess 5.0	No		SD	MPEG-2	1502		1015	ade3661	24-Mar-17	866	
+11365	V	30000	EuropeA	TV	Kopernikus Music	TV	FTA	Yes		SD	MPEG-2	1702	1703[srp]	1017	Frocus	9-Nov-11	868	
+11365	V	30000	EuropeA	TV	Yu Planet Music	TV	FTA	Yes		SD	MPEG-2	4112	4113[srp]	4110	Frocus	1-Mar-11	870	
+11365	V	30000	EuropeA	R	Oldies Rádió	R	FTA	Yes				0	1101[hun]	11	dreambox	31-Jan-10	872	
+11365	V	30000	EuropeA	R	Vikom Radio	R	FTA	Yes				0	1201[srp]	12	dreambox	31-Jan-10	874	
+11365	V	30000	EuropeA	R	Radio 1	R	FTA	Yes				0	1301[slv]	13	dreambox	31-Jan-10	876	
+11365	V	30000	EuropeA	R	Kiss Rom Radio	R	FTA	Yes				0	5101[srp]	51	ttalex	11-Jun-10	878	
+11365	V	30000	EuropeA	R	Kiss Radio	R	FTA	Yes				0	5102[srp]	52	dreambox	31-Jan-10	880	
+11365	V	30000	EuropeA	R	Radio Grand	R	FTA	Yes				0	5103[srp]	53	dreambox	31-Jan-10	882	
+11365	V	30000	EuropeA	R	Doina Radio	R	FTA	Yes				0	5104[srp]	54	dreambox	31-Jan-10	884	
+11365	V	30000	EuropeA	R	Radio Brod	R	FTA	Yes				0	5105[hrv]	55	dreambox	31-Jan-10	886	
+11365	V	30000	EuropeA	R	Pink Sat	R	FTA	Yes				0	5106[srp]	56	dreambox	31-Jan-10	888	
+11365	V	30000	EuropeA	R	VIP Radio	R	FTA	Yes				0	5107[srp]	57	dreambox	31-Jan-10	890	
+11365	V	30000	EuropeA	R	Tref Radio Plus	R	FTA	Yes				0	5108[srp]	58	dreambox	31-Jan-10	892	
+11365	V	30000	EuropeA	R	Valentino BH	R	FTA	Yes				0	5109[bos]	59	dreambox	31-Jan-10	894	
+11365	V	30000	EuropeA	R	Radio Glas Drine	R	FTA	Yes				0	5110[bos]	60	dreambox	31-Jan-10	896	
+11365	V	30000	EuropeA	R	Radio Fenomen	R	FTA	Yes				0	5111[srp]	61	dreambox	31-Jan-10	898	
+11365	V	30000	EuropeA	R	Yu Planet Radio	R	FTA	Yes				0	5113[srp]	63	dreambox	31-Jan-10	900	
+11365	V	30000	EuropeA	R	Radio Svet Plus	R	FTA	Yes				0	5114[srp]	64	dreambox	31-Jan-10	902	
+11365	V	30000	EuropeA	R	Radio Velkaton	R	FTA	Yes				0	5165[bos]	65	dreambox	31-Jan-10	904	
+11365	V	30000	EuropeA	R	Radio S	R	FTA	Yes				0	5169[srp]	69	dreambox	31-Jan-10	906	
+11365	V	30000	EuropeA	R	Radio Koktel	R	FTA	Yes				0	5170[bos]	70	dreambox	31-Jan-10	908	
+11365	V	30000	EuropeA	R	Top 3 Radio	R	FTA	Yes				0	5176[srp]	75	dreambox	31-Jan-10	910	
+11365	V	30000	EuropeA	R	Radio Posavina	R	FTA	Yes				0	5177[hrv]	77	dreambox	31-Jan-10	912	
+11365	V	30000	EuropeA	R	Radio Izvor	R	FTA	Yes				0	5180[bos]	80	dreambox	31-Jan-10	914	
+11365	V	30000	EuropeA	R	Radio Plehan	R	FTA	Yes				0	5182[hrv]	82	dreambox	31-Jan-10	916	
+11365	V	30000	EuropeA	R	Vulkanradio	R	FTA	Yes				0	5185[srp]	85	dreambox	31-Jan-10	918	
+11365	V	30000	EuropeA	R	Radio Bezlja	R	FTA	Yes				0	5186[bos]	86	dreambox	31-Jan-10	920	
+11365	V	30000	EuropeA	R	Kiss Modus	R	FTA	Yes				0	5187[srp]	87	dreambox	31-Jan-10	922	
+11365	V	30000	EuropeA	R	Radio Svetigora	R	FTA	Yes				0	5188[srp]	88	dreambox	31-Jan-10	924	
+11365	V	30000	EuropeA	DATA	Kiss Extra	R	FTA	Yes				0		90	dreambox	31-Jan-10	926	
+11366	V	30000	EuropeB	DATA	The Fishing and Hunting Channel	TV	Conax|Irdeto 2	No		SD	MPEG-4	0		0	Tanea	12-Jul-18	930	
+11366	V	30000	EuropeB	R	Leo TV	TV	Conax|Irdeto 2	No		SD	MPEG-4	0	0[cze]	0	Tanea	12-Jul-18	932	
+11366	V	30000	EuropeB	R	Golf Channel Czechia	TV	Conax|Irdeto 2	No		SD	MPEG-4	0	0[cze]	0	Tanea	12-Jul-18	934	
+11366	V	30000	EuropeB	R	Minimax Czechia	TV	Conax|Irdeto 2	No		SD	MPEG-4	0	0[cze]	0	Tanea	12-Jul-18	936	
+11366	V	30000	EuropeB	R	Extreme Sports Channel	TV	Conax|Irdeto 2	No		SD	MPEG-4	0	0[eng]	0	Tanea	12-Jul-18	938	
+11366	V	30000	EuropeB	R	WAU HD	TV	Conax|Irdeto 2	No		HD	MPEG-4	0	0[slo]	0	Tanea	12-Jul-18	940	
+11366	V	30000	EuropeB	R	HBO Central Europe HD	TV	Conax|Irdeto 2	No		HD	MPEG-4	0	0[cze]	0	Tanea	12-Jul-18	942	
+11366	V	30000	EuropeB	R	HBO 2 Central Europe HD	TV	Conax|Irdeto 2	No		HD	MPEG-4	0	0[cze]	0	Tanea	12-Jul-18	944	
+11366	V	30000	EuropeB	R	HBO 3 Central Europe HD	TV	Conax|Irdeto 2	No		HD	MPEG-4	0	0[cze]	0	Tanea	12-Jul-18	946	
+11366	V	30000	EuropeB	R	TV Lux HD	TV	Conax|Irdeto 2	No		HD	MPEG-4	0	0[slo]	0	Tanea	12-Jul-18	948	
+11366	V	30000	EuropeB	R	AMC Central Europe HD	TV	Conax|Irdeto 2	No		HD	MPEG-4	0	0[cze]	0	Tanea	12-Jul-18	950	
+11366	V	30000	EuropeB	R	Senzi HD	TV	Conax|Irdeto 2	No		HD	MPEG-4	0	0[slo]	0	Tanea	12-Jul-18	952	
+11366	V	30000	EuropeB	R	Sport 1 Czechia HD	TV	Conax|Irdeto 2	No		HD	MPEG-4	0	0[cze]	0	Tanea	12-Jul-18	954	
+11366	V	30000	EuropeB	R	Prima Plus HD	TV	Conax|Irdeto 2	No		HD	MPEG-4	0	0[cze]	0	Tanea	12-Jul-18	956	
+11366	V	30000	EuropeB	TV	Discovery Channel	TV	FTA	Yes		SD	MPEG-4	1801	1802[cze]|1803[eng]|1804[hun]	108	Tanea	13-Jul-18	958	
+11366	V	30000	EuropeB	TV	TLC	TV	Conax	No		SD	MPEG-4	2601	2602[cze]|2603[eng]|2604[eng]	116	Tanea	13-Jul-18	960	
+11387	H	30000	EuropeB	TV	Arena Sport BIH	TV	Videoguard	No	Total TV	SD	MPEG-4	251	3511[bos]	1651	ade3661	13-Aug-19	964	
+11387	H	30000	EuropeB	TV	ArenaSport 1	TV	Videoguard	No	Total TV	SD	MPEG-4	251	3511[srp]	1651	ade3661	13-Aug-19	966	
+11387	H	30000	EuropeB	TV	Studio B	TV	Videoguard	No	Total TV	SD	MPEG-4	252	3521[srp]	1652	ade3661	13-Aug-19	968	
+11387	H	30000	EuropeB	TV	ATV	TV	Videoguard	No	Total TV	SD	MPEG-4	253	3531[srp]	1653	ade3661	13-Aug-19	970	
+11387	H	30000	EuropeB	TV	RTRS	TV	Videoguard	No	Total TV	SD	MPEG-4	254	3541[srp]	1654	ade3661	13-Aug-19	972	
+11387	H	30000	EuropeB	TV	Pop Brio	TV	Videoguard	No	Total TV	SD	MPEG-4	255	3551[slv]	1655	ade3661	13-Aug-19	974	
+11387	H	30000	EuropeB	TV	Kino	TV	Videoguard	No	Total TV	SD	MPEG-4	256	3561[slv]	1656	ade3661	13-Aug-19	976	
+11387	H	30000	EuropeB	TV	TV 3 Medias	TV	Videoguard	No	Total TV	SD	MPEG-4	257	2571[slv]	1657	ade3661	13-Aug-19	978	
+11387	H	30000	EuropeB	TV	MRT 1	TV	Videoguard	No	Total TV	SD	MPEG-4	258	3581[mac]	1658	Tanea	28-Nov-19	980	
+11387	H	30000	EuropeB	TV	RTL 2 Croatia	TV	Videoguard	No	Total TV	SD	MPEG-4	260	3601[hrv]	1660	ade3661	13-Aug-19	982	
+11387	H	30000	EuropeB	TV	Mini TV	TV	Videoguard	No	Total TV	SD	MPEG-4	261	3611[hrv]	1661	ade3661	13-Aug-19	984	
+11387	H	30000	EuropeB	TV	Nova TV Croatia	TV	Videoguard	No	Total TV	SD	MPEG-4	262	3621[hrv]	1662	ade3661	13-Aug-19	986	
+11387	H	30000	EuropeB	TV	Sitel Televizija	TV	Videoguard	No	Total TV	SD	MPEG-4	263	3631[mac]	1663	ade3661	13-Aug-19	988	
+11387	H	30000	EuropeB	TV	Kanal 5 Croatia	TV	Videoguard	No	Total TV	SD	MPEG-4	264	3641[hrv]	1664	ade3661	13-Aug-19	990	
+11387	H	30000	EuropeB	TV	OK Bambino	TV	Videoguard	No	Total TV	SD	MPEG-4	265	3651[hrv]	1665	ade3661	13-Aug-19	992	
+11387	H	30000	EuropeB	TV	Cinemania HD	TV	Videoguard	No	Total TV	HD	MPEG-4	266	3661[srp]	1666	Tanea	15-Jan-20	994	
+11387	H	30000	EuropeB	TV	Kanal A HD Slovenia	TV	Videoguard	No	Total TV	SD	MPEG-4	267	3671[slv]	1667	ade3661	13-Aug-19	996	
+11387	H	30000	EuropeB	TV	Sport Klub 2	TV	Videoguard	No	Total TV	SD	MPEG-4	268	3681[slv]	1668	ade3661	13-Aug-19	998	
+11387	H	30000	EuropeB	IMG	CineStar Comedy	TV	Videoguard	No	Total TV	SD	MPEG-4	269		1669	Tanea	13-Aug-19	1000	
+11387	H	30000	EuropeB	TV	Lov i Ribolov	TV	Videoguard	No	Total TV	SD	MPEG-4	270	3701[srp]	1670	ade3661	13-Aug-19	1002	
+11387	H	30000	EuropeB	TV	Pink TV Montenegro	TV	Videoguard	No	Total TV	SD	MPEG-4	271	3711[srp]	1671	Tanea	13-Aug-19	1004	
+11387	H	30000	EuropeB	TV	Pink BH	TV	Videoguard	No	Total TV	SD	MPEG-4	272	3721[srp]	1672	Tanea	13-Aug-19	1006	
+11426	V	27500	EuropeB	TV	Vizion Plus HD	TV	FTA	Yes		HD	MPEG-4	401	501[alb]	1	Frocus	28-May-16	1010	
+11426	V	27500	EuropeB	TV	Tring Super	TV	Conax	No	Tring Digital	SD	MPEG-2	1410	1420[alb]	2	Frocus	14-Aug-13	1012	
+11426	V	27500	EuropeB	TV	Tring Sport News	TV	Conax	No	Tring Digital	SD	MPEG-2	1510	1520[alb]|1530[eng]	3	Frocus	14-Aug-13	1014	
+11426	V	27500	EuropeB	TV	Tring Comedy	TV	Conax	No	Tring Digital	SD	MPEG-4	1610	1620[eng]	5	Tanea	4-Sep-19	1016	
+11426	V	27500	EuropeB	TV	RTV 21 Sat	TV	Conax	No	Tring Digital	SD	MPEG-4	2001	2002[alb]	7	Tanea	15-May-19	1018	
+11426	V	27500	EuropeB	TV	TIP TV	TV	Conax	No	Tring Digital	SD	MPEG-2	2510	2520[alb]	8	Frocus	14-Aug-13	1020	
+11426	V	27500	EuropeB	TV	Tring Tring	TV	Conax	No	Tring Digital	SD	MPEG-2	3110	3120[eng]	9	Frocus	14-Aug-13	1022	
+11426	V	27500	EuropeB	TV	Tring Planet	TV	Conax	No	Tring Digital	SD	MPEG-2	2911	2922[eng]	12	Frocus	14-Aug-13	1024	
+11426	V	27500	EuropeB	TV	KTV Kohavision	TV	Conax	No	Tring Digital	SD	MPEG-2	2630	2630[alb]	14	Frocus	14-Aug-13	1026	
+11426	V	27500	EuropeB	TV	Koha TV Albania	TV	Conax	No	Tring Digital	SD	MPEG-4	1028	1022[alb]	14	Tanea	14-Apr-14	1028	
+11426	V	27500	EuropeB	TV	Tring Life	TV	Conax	No	Tring Digital	SD	MPEG-2	578	579[eng]	20	Frocus	14-Aug-13	1030	
+11426	V	27500	EuropeB	TV	Tring Max	TV	Conax	No	Tring Digital	SD	MPEG-2	4567	5679[alb]	21	Frocus	14-Aug-13	1032	
+11426	V	27500	EuropeB	TV	Sport 4 HD	TV	Conax	No	Tring Digital	HD	MPEG-4	1028	1029[alb]	26	Tanea	21-Aug-15	1034	
+11426	V	27500	EuropeB	TV	Sport 1 HD	TV	Conax	No	Tring Digital	HD	MPEG-4	2525	2526[alb]	27	Tanea	21-Aug-15	1036	
+11426	V	27500	EuropeB	TV	Sport 2 HD	TV	Conax	No	Tring Digital	HD	MPEG-4	2801	2802[alb]	28	Tanea	21-Aug-15	1038	
+11426	V	27500	EuropeB	TV	Sport 3 HD	TV	Conax	No	Tring Digital	HD	MPEG-4	2782	2783[alb]	29	Tanea	21-Aug-15	1040	
+11426	V	27500	EuropeB	TV	Smile	TV	Conax	No	Tring Digital	SD	MPEG-2	3373	3374[alb]	33	Tanea	22-Aug-13	1042	
+11426	V	27500	EuropeB	TV	Motors TV	TV	Conax	No	Tring Digital	SD	MPEG-4	3504	3505[eng]	35	Tanea	15-May-14	1044	
+11426	V	27500	EuropeB	TV	Jolly HD	TV	Conax	No	Tring Digital	SD	MPEG-4	1703	1701[alb]	50	Tanea	15-May-19	1046	
+11426	V	27500	EuropeB	TV	3 Plus	TV	Conax	No	Tring Digital	SD	MPEG-2	1710	1720[alb]	56	Frocus	14-Aug-13	1048	
+11426	V	27500	EuropeB	TV	BBF Music TV	TV	Conax	No	Tring Digital	SD	MPEG-4	3225	3226[alb]	60	Tanea	15-May-19	1050	
+11426	V	27500	EuropeB	TV	Tring World	TV	Conax	No	Tring Digital	SD	MPEG-2	1810	1820[alb]	66	Frocus	14-Aug-13	1052	
+11426	V	27500	EuropeB	TV	Living Albania HD	TV	Conax	No	Tring Digital	SD	MPEG-4	4200	4210[alb]	80	Tanea	19-Dec-14	1054	
+11426	V	27500	EuropeB	TV	Tring Shqip	TV	Conax	No	Tring Digital	SD	MPEG-2	1910	1920[alb]	88	Frocus	14-Aug-13	1056	
+11426	V	27500	EuropeB	TV	TVSH Shqiptar	TV	Conax	No	Tring Digital	SD	MPEG-4	3311	3312[alb]	123	Tanea	16-Apr-14	1058	
+11426	V	27500	EuropeB	TV	RTV 21 Popullore	TV	Conax	No	Tring Digital	SD	MPEG-4	2940	2941[alb]	124	Tanea	16-Apr-14	1060	
+11426	V	27500	EuropeB	TV	Folk +	TV	FTA	Yes		SD	MPEG-2	1512	1612[alb]	125	Frocus	14-Aug-13	1062	
+11426	V	27500	EuropeB	IMG	Apollon TV	TV	Conax	No	Tring Digital	SD	MPEG-4	3348		127	Tanea	20-Jul-15	1064	
+11426	V	27500	EuropeB	TV	Tring International HD	TV	FTA	Yes		HD	MPEG-4	1511	1512[alb]	151	Tanea	10-Feb-17	1066	
+11426	V	27500	EuropeB	TV	Channel One HD	TV	Conax	No		HD	MPEG-4	3310	3316[alb]	218	Tanea	18-Jan-16	1068	
+11426	V	27500	EuropeB	IMG	Desire	TV	Conax	No	Tring Digital	SD	MPEG-2	2810		555	Frocus	14-Aug-13	1070	
+11426	V	27500	EuropeB	TV	Sofia	TV	FTA	Yes	Tring Digital	SD	MPEG-4	2775	2749[alb]	801	Tanea	16-Apr-14	1072	
+11426	V	27500	EuropeB	TV	Kanali 7	TV	FTA	Yes		SD	MPEG-2	3010	3020[alb]	999	Frocus	14-Aug-13	1074	
+11426	V	27500	EuropeB	TV	Travel Channel Europe	TV	Conax	No	Tring Digital	SD	MPEG-4	1015	1016[eng]	1010	Tanea	16-Apr-14	1076	
+11471	V	30000	EuropeB	TV	Diema Family	TV	Conax	No	Mtel	SD	MPEG-2	1101	1102[bul]	601	alexfloresaf38	23-Aug-17	1080	
+11471	V	30000	EuropeB	TV	Cartoon Network Bulgaria	TV	Conax	No	Mtel	SD	MPEG-4	1401	1402[bul]	604	alexfloresaf38	23-Aug-17	1082	
+11471	V	30000	EuropeB	TV	Planeta HD	TV	Conax	No		HD	MPEG-4	1801	1802|1802[bul]	608	Tanea	13-Aug-19	1084	
+11471	V	30000	EuropeB	IMG	TV Evropa	TV	Conax	No		SD	MPEG-4	1801		609	Tanea	13-Aug-19	1086	
+11471	V	30000	EuropeB	TV	AutoMotorSport	TV	Conax	No		SD	MPEG-4	2001	2002[ger]|2003[bul]|2004[cze]	610	Tanea	24-Sep-14	1088	
+11471	V	30000	EuropeB	TV	BNT World	TV	Conax	No	Mtel	SD	MPEG-4	2101	2102[bul]	611	alexfloresaf38	13-Aug-19	1090	
+11471	V	30000	EuropeB	TV	Duck TV	TV	Conax	No		SD	MPEG-4	3301	3302[eng]	616	Tanea	13-Aug-19	1092	
+11471	V	30000	EuropeB	TV	Duck TV	TV	Conax	No		SD	MPEG-4	3301	3302|3302[eng]	623	Tanea	13-Aug-19	1094	
+11471	V	30000	EuropeB	TV	Fuel TV	TV	Conax	No		SD	MPEG-4	4101	4102[eng]	627	Tanea	24-Sep-14	1096	
+11471	V	30000	EuropeB	TV	Nickelodeon Europe	TV	Conax	No	Mtel	SD	MPEG-4	5601	5602[hrv]	646	Tanea	13-Aug-19	1098	
+11471	V	30000	EuropeB	TV	Nickelodeon Europe	TV	Conax	No	Mtel	SD	MPEG-4	5601	5603[bul]	647	Tanea	13-Aug-19	1100	
+11471	V	30000	EuropeB	TV	Nat Geo Wild Europe	TV	Conax	No	Mtel	SD	MPEG-4	5801	5803[eng]|5804[bul]	648	Tanea	13-Aug-19	1102	
+11471	V	30000	EuropeB	TV	Nat Geo Wild Europe	TV	FTA	Yes	Mtel	SD	MPEG-4	801	5802[cze]|5803[eng]	649	Tanea	13-Aug-19	1104	
+11471	V	30000	EuropeB	TV	Boomerang Europe	TV	Conax	No	Mtel	SD	MPEG-4	6001	6002[eng]	650	Tanea	13-Aug-19	1106	
+11471	H	30000	EuropeB	TV	Prva Srpska TV	TV	Videoguard	No		SD	MPEG-4	251	3511[srp]	851	Tanea	15-Jun-16	1110	
+11471	H	30000	EuropeB	TV	Prva +	TV	Videoguard	No		SD	MPEG-4	252	3521[srp]	852	Tanea	15-Jun-16	1112	
+11471	H	30000	EuropeB	TV	Happy TV	TV	Videoguard	No		SD	MPEG-4	253	3531[srp]	853	Tanea	15-Jun-16	1114	
+11471	H	30000	EuropeB	TV	RTV 1 (Vojvodina)	TV	Videoguard	No		SD	MPEG-4	254	3541[srp]	854	Tanea	15-Jun-16	1116	
+11471	H	30000	EuropeB	TV	BHT 1	TV	Videoguard	No		SD	MPEG-4	255	3551[bos]	855	Tanea	15-Jun-16	1118	
+11471	H	30000	EuropeB	TV	Federalna TV	TV	Videoguard	No		SD	MPEG-4	256	3561[bos]	856	Tanea	15-Jun-16	1120	
+11471	H	30000	EuropeB	TV	Pop TV Slovenia	TV	Videoguard	No		SD	MPEG-4	258	3581[slv]	858	Tanea	15-Jun-16	1122	
+11471	H	30000	EuropeB	TV	RTCG 1	TV	Videoguard	No		SD	MPEG-4	259	3591[srp]	859	Tanea	15-Jun-16	1124	
+11471	H	30000	EuropeB	TV	RTCG 2	TV	Videoguard	No		SD	MPEG-4	260	3601[srp]	860	Tanea	15-Jun-16	1126	
+11471	H	30000	EuropeB	TV	HRT 1	TV	Videoguard	No		SD	MPEG-4	261	3611[hrv]	861	Tanea	15-Jun-16	1128	
+11471	H	30000	EuropeB	TV	HRT 2	TV	Videoguard	No		SD	MPEG-4	262	3621[hrv]	862	Tanea	15-Jun-16	1130	
+11471	H	30000	EuropeB	TV	SportKlub 1 Slovenija	TV	Videoguard	No		SD	MPEG-4	264	3641[slv]	864	Tanea	15-Jun-16	1132	
+11471	H	30000	EuropeB	TV	SportKlub 1 Crna Gora	TV	Videoguard	No		SD	MPEG-4	265	3651[srp]	865	Tanea	15-Jun-16	1134	
+11471	H	30000	EuropeB	TV	SportKlub 1 Hrvatska	TV	Videoguard	No		SD	MPEG-4	266	3661[srp]	866	Tanea	15-Jun-16	1136	
+11471	H	30000	EuropeB	TV	TV 1000 Balkan	TV	Videoguard	No		SD	MPEG-4	267	3671[eng]	867	Tanea	15-Jun-16	1138	
+11471	H	30000	EuropeB	TV	Discovery Channel Srbija	TV	Videoguard|Conax	No		SD	MPEG-4	268	3681[eng]	868	Tanea	15-Jun-16	1140	
+11471	H	30000	EuropeB	TV	Universal Channel Hungary	TV	Videoguard	No		SD	MPEG-4	269	3691[eng]	869	Tanea	15-Jun-16	1142	
+11471	H	30000	EuropeB	TV	Fox Crime Serbia	TV	Videoguard|Conax	No		SD	MPEG-4	270	3701[eng]	870	Tanea	15-Jun-16	1144	
+11471	H	30000	EuropeB	TV	Fox Life Serbia	TV	Videoguard	No		SD	MPEG-4	271	3711[eng]	871	Tanea	15-Jun-16	1146	
+11471	H	30000	EuropeB	TV	Fox Movies Eastern	TV	Videoguard	No		SD	MPEG-4	272	3721[eng]	872	Tanea	15-Jun-16	1148	
+11471	H	30000	EuropeB	TV	National Geographic Channel România	TV	Videoguard|Conax	No		SD	MPEG-4	273	3731[eng]	873	Tanea	15-Jun-16	1150	
+11471	H	30000	EuropeB	TV	SportKlub 1 HD	TV	Videoguard	No	Total TV	HD	MPEG-4	274	3741[srp]	874	Tanea	31-Aug-18	1152	
+11471	H	30000	EuropeB	TV	RTV 2 (Vojvodina)	TV	Videoguard	No		SD	MPEG-4	275	3751[srp]	875	Tanea	15-Jun-16	1154	
+11471	H	30000	EuropeB	TV	IDJ TV HD	TV	Videoguard	No	Total TV	HD	MPEG-4	276	3761[srp]	876	Tanea	10-Nov-16	1156	
+11471	H	30000	EuropeB	TV	Nat Geo Wild HD	TV	Videoguard	No		HD	MPEG-4	277	3771[eng]	877	Tanea	15-Jun-16	1158	
+11471	H	30000	EuropeB	TV	BHT 1 HD	TV	Videoguard	No		HD	MPEG-4	299	3991[bos]	899	Tanea	15-Jun-16	1160	
+11512	H	30000	SEAfrica	TV	Voyage	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	160	80[fre]	0	dm800	18-Jun-09	1164	
+11512	H	30000	SEAfrica	TV	Action	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	161	84[fre]	0	dm800	18-Jun-09	1166	
+11512	H	30000	SEAfrica	TV	Planète France	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	162	88[fre]	0	dm800	18-Jun-09	1168	
+11512	H	30000	SEAfrica	TV	MCM France	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	163	92[fre]	0	dm800	18-Jun-09	1170	
+11512	H	30000	SEAfrica	TV	Canal J	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	164	96[fre]	0	dm800	18-Jun-09	1172	
+11512	H	30000	SEAfrica	TV	RFO Tempo	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	165	100[fre]	0	dm800	18-Jun-09	1174	
+11512	H	30000	SEAfrica	TV	France Ô	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	165	100[fre]	0	dm800	18-Jun-09	1176	
+11512	H	30000	SEAfrica	TV	TMC	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	166	104[fre]	0	dm800	18-Jun-09	1178	
+11512	H	30000	SEAfrica	TV	I>Télé	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	167	108[fre]	0	dm800	18-Jun-09	1180	
+11512	H	30000	SEAfrica	TV	TV 5 Monde Afrique	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	168	112[fre]	0	dm800	18-Jun-09	1182	
+11512	H	30000	SEAfrica	TV	CanalSatellite promo	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	169	116[fre]	0	dm800	18-Jun-09	1184	
+11512	H	30000	SEAfrica	TV	L'Équipe TV	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	170	120[fre]	0	dm800	18-Jun-09	1186	
+11512	H	30000	SEAfrica	TV	TCM France	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	171	124[fre]|126[eng]	0	dm800	18-Jun-09	1188	
+11512	H	30000	SEAfrica	TV	13ème Rue	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	172	128[fre]	0	dm800	18-Jun-09	1190	
+11512	H	30000	SEAfrica	TV	Télé Réunion	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	173	132[fre]	0	dm800	18-Jun-09	1192	
+11512	H	30000	SEAfrica	TV	Cartoon Network	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	174	136[fre]	0	dm800	18-Jun-09	1194	
+11512	H	30000	SEAfrica	TV	Trace TV	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	175	140[fre]	0	dm800	18-Jun-09	1196	
+11512	H	30000	SEAfrica	TV	Disney Channel France	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	176	144[fre]	0	dm800	18-Jun-09	1198	
+11512	H	30000	SEAfrica	TV	Paris Première	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	177	148[fre]	0	dm800	18-Jun-09	1200	
+11512	H	30000	SEAfrica	TV	Cinecinema Famiz	TV	Mediaguard 2	No	CanalSat R&eacute;union	SD	MPEG-2	178	152[fre]	0	dm800	18-Jun-09	1202	
+11512	H	30000	SEAfrica	TV	Arena Sport 4 HD	TV	FTA	Yes	CanalSat R&eacute;union	HD	MPEG-4	2857	2601[hrv]	217	Tanea	5-Apr-14	1204	
+11512	H	30000	SEAfrica	TV	Kreator TV	TV	Nagravision 3	No	CanalSat R&eacute;union	SD	MPEG-4	2817	2561[hrv]	999	Tanea	5-Apr-14	1206	
+11512	H	30000	SEAfrica	DATA	Le Pilote	@	FTA	Yes	CanalSat R&eacute;union			0		0	ttalex	4-Feb-10	1208	
+11512	V	29950	EuropeB	TV	TVR 1	TV	Viaccess 2.6	No		SD	MPEG-4	100	110[rum]	1	Frocus	6-Feb-13	1212	
+11512	V	29950	EuropeB	TV	TVR 2	TV	Viaccess 2.6	No		SD	MPEG-4	200	210[rum]	2	Tanea	6-Feb-13	1214	
+11512	V	29950	EuropeB	TV	TVR 3	TV	FTA	Yes		SD	MPEG-4	300	310[rum]	3	Tanea	6-Feb-13	1216	
+11512	V	29950	EuropeB	TV	TVR Moldova	TV	Viaccess	No		SD	MPEG-4	400	410[rum]	4	Frocus	1-Dec-13	1218	
+11512	V	29950	EuropeB	TV	TVR Int	TV	FTA	Yes		SD	MPEG-4	600	610[rum]	6	Tanea	6-Feb-13	1220	
+11512	V	29950	EuropeB	TV	TVR HD	TV	Viaccess 2.6	No		HD	MPEG-4	1510	1500[rum]	15	Frocus	17-Aug-10	1222	
+11512	V	29950	EuropeB	TV	SRTV Feed	F	Viaccess 2.6	No		SD	MPEG-2	512	4112[rum]|4128[rum]	200	Frocus	6-Feb-13	1224	
+11512	H	30000	EuropeB	TV	RTL Living.	TV	Conax|Nagravision	No	MAXtv Sat	SD	MPEG-4	2819	2563[eng]	20	Frocus	11-Jan-20	1228	
+11512	H	30000	EuropeB	TV	RTL Kockica.	TV	Videoguard|Conax|Nagravision	No	Total TV|MAXtv Sat	SD	MPEG-4	2818	2562[eng]	21	Tanea	11-Jan-20	1230	
+11512	H	30000	EuropeB	TV	National Geographic Channel.	TV	Conax|Nagravision	No	MAXtv Sat	SD	MPEG-4	2821	2565[eng]	30	alexfloresaf38	11-Jan-20	1232	
+11512	H	30000	EuropeB	TV	Nat Geo Wild.	TV	Conax|Nagravision	No	MAXtv Sat	SD	MPEG-4	2822	2566[eng]	31	alexfloresaf38	11-Jan-20	1234	
+11512	H	30000	EuropeB	TV	BBC Earth.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2817	2561[eng]	44	alexfloresaf38	11-Jan-20	1236	
+11512	H	30000	EuropeB	IMG	Cinestar Fantasy.	TV	Videoguard|Conax|Nagravision	No	Total TV|MAXtv Sat	SD	MPEG-4	2827		47	alexfloresaf38	11-Jan-20	1238	
+11512	H	30000	EuropeB	TV	Nickelodeon HR.	TV	Videoguard|Nagravision	No	Total TV|MAXtv Sat	SD	MPEG-4	2828	2572[hrv]	48	alexfloresaf38	11-Jan-20	1240	
+11512	H	30000	EuropeB	TV	Vavoom.	TV	Conax|Nagravision	No	MAXtv Sat	SD	MPEG-4	2832	2576[hrv]	50	Frocus	11-Jan-20	1242	
+11512	H	30000	EuropeB	TV	Boomerang TV.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2833	2577[eng]	51	Frocus	11-Jan-20	1244	
+11512	H	30000	EuropeB	TV	Baby TV.	TV	Videoguard|Nagravision	No	Total TV|MAXtv Sat	SD	MPEG-4	2834	2578[hrv]	52	Frocus	11-Jan-20	1246	
+11512	H	30000	EuropeB	TV	Cartoon Network.	TV	Conax|Nagravision	No	MAXtv Sat	SD	MPEG-4	2835	2579[eng]	53	alexfloresaf38	11-Jan-20	1248	
+11512	H	30000	EuropeB	IMG	Epic Drama.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2837		60	Frocus	11-Jan-20	1250	
+11512	H	30000	EuropeB	TV	FOX Life.	TV	Conax|Nagravision	No	MAXtv Sat	SD	MPEG-4	2838	2582[eng]	61	alexfloresaf38	11-Jan-20	1252	
+11512	H	30000	EuropeB	TV	FOX Crime.	TV	Conax|Nagravision	No	MAXtv Sat	SD	MPEG-4	2839	2583[eng]	62	alexfloresaf38	11-Jan-20	1254	
+11512	H	30000	EuropeB	TV	HNTV.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2844	2588[eng]	70	Tanea	11-Jan-20	1256	
+11512	H	30000	EuropeB	TV	NickJr CRO.	TV	Conax|Nagravision	No	MAXtv Sat	SD	MPEG-4	2850	2594[eng]	73	alexfloresaf38	11-Jan-20	1258	
+11512	H	30000	EuropeB	IMG	SportKlub 2 HD.	TV	Nagravision	No	MAXtv Sat	HD	MPEG-4	2851		95	alexfloresaf38	11-Jan-20	1260	
+11512	H	30000	EuropeB	TV	SportKlub 3 HD.	TV	Nagravision	No	MAXtv Sat	HD	MPEG-4	2864	2608[hrv]	96	alexfloresaf38	11-Jan-20	1262	
+11512	H	30000	EuropeB	TV	Arena 3 HD.	TV	Nagravision	No	MAXtv Sat	HD	MPEG-4	2824	2600[eng]	108	Tanea	11-Jan-20	1264	
+11512	H	30000	EuropeB	TV	Jugoton TV.	TV	Conax|Nagravision	No	MAXtv Sat	SD	MPEG-4	2854	2598[eng]	150	alexfloresaf38	11-Jan-20	1266	
+11512	H	30000	EuropeB	TV	SportKlub Start.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2855	2599[hrv]	153	alexfloresaf38	11-Jan-20	1268	
+11512	H	30000	EuropeB	TV	Arena 4 HD.	TV	Nagravision	No	MAXtv Sat	HD	MPEG-4	2857	2601[hrv]	217	alexfloresaf38	11-Jan-20	1270	
+11553	H	30000	EuropeB	TV	RTS 1 Serbia	TV	Videoguard	No	Total TV	SD	MPEG-4	251	3511[srp]	1751	ade3661	14-Sep-16	1274	
+11553	H	30000	EuropeB	TV	RTS 2 Serbia	TV	FTA	Yes	Total TV	SD	MPEG-4	252	3521[srp]	1752	ade3661	14-Sep-16	1276	
+11553	H	30000	EuropeB	TV	pink 2	TV	Videoguard	No	Total TV	SD	MPEG-4	253	3531[srp]	1753	ade3661	14-Sep-16	1278	
+11553	H	30000	EuropeB	TV	B92 Tv	TV	Videoguard	No	Total TV	SD	MPEG-4	254	3541[srp]	1754	ade3661	14-Sep-16	1280	
+11553	H	30000	EuropeB	TV	OBN	TV	Videoguard	No		SD	MPEG-4	255	3551[eng]	1755	ade3661	27-Sep-16	1282	
+11553	H	30000	EuropeB	TV	TV Slovenija 1	TV	Videoguard	No		SD	MPEG-4	256	3561[slv]	1756	ade3661	27-Sep-16	1284	
+11553	H	30000	EuropeB	TV	Slo 2 HD	TV	Videoguard	No		HD	MPEG-4	257	3571[slv]	1757	ade3661	27-Sep-16	1286	
+11553	H	30000	EuropeB	TV	Prva TV Crna Gora	TV	Videoguard	No		SD	MPEG-4	258	3581[srp]	1758	ade3661	15-Sep-16	1288	
+11553	H	30000	EuropeB	TV	TV Vijesti	TV	Videoguard	No		SD	MPEG-4	259	3591[eng]	1759	ade3661	15-Sep-16	1290	
+11553	H	30000	EuropeB	TV	ArenaSport 1	TV	Videoguard	No	Total TV	SD	MPEG-4	260	3601[srp]	1760	ade3661	9-Apr-17	1292	
+11553	H	30000	EuropeB	TV	ArenaSport 2	TV	Videoguard	No	Total TV	SD	MPEG-4	261	3611[srp]	1761	ade3661	9-Apr-17	1294	
+11553	H	30000	EuropeB	TV	Sport Klub Golf	TV	Videoguard	No		SD	MPEG-4	262	3621[srp]|3622[hrv]|3623[slo]	1762	ade3661	14-Sep-16	1296	
+11553	H	30000	EuropeB	TV	Ultra TV (serbia)	TV	Videoguard	No	Total TV	SD	MPEG-4	32	3631[srp]	1763	ade3661	16-Sep-16	1298	
+11553	H	30000	EuropeB	TV	Nova S HD	TV	Videoguard	No	Total TV	HD	MPEG-4	264	3641[srp]	1764	Tanea	26-Mar-19	1300	
+11553	H	30000	EuropeB	TV	Grand TV	TV	FTA	Yes		SD	MPEG-4	266	3661[srp]	1766	ade3661	15-Sep-16	1302	
+11553	H	30000	EuropeB	TV	N1 BiH	TV	Videoguard	No		SD	MPEG-4	267	3671[bos]	1767	ade3661	15-Sep-16	1304	
+11553	H	30000	EuropeB	TV	N1 Hrvratska	TV	Videoguard|Conax|Nagravision 3	No		SD	MPEG-4	268	3681[hrv]	1768	ade3661	15-Sep-16	1306	
+11553	H	30000	EuropeB	TV	FOX Crime HD Serbia	TV	Videoguard	No		HD	MPEG-4	272	3721[eng]	1772	ade3661	15-Sep-16	1308	
+11553	H	30000	EuropeB	TV	24 Kitchen HD	TV	Videoguard	No		HD	MPEG-4	273	3731[eng]	1773	ade3661	15-Sep-16	1310	
+11554	V	30000	EuropeB	TV	HTV1	TV	Conax	No		SD	MPEG-4	1101	1102|1102[hrv]	1801	Tanea	1-Jan-20	1314	
+11554	V	30000	EuropeB	TV	HTV2	TV	Conax	No		SD	MPEG-4	1201	1202[hrv]	1802	Tanea	1-Jan-20	1316	
+11554	V	30000	EuropeB	TV	Balkanika TV	TV	Conax	No		SD	MPEG-4	1601	1602[bul]	1806	ade3661	1-Jan-20	1318	
+11554	V	30000	EuropeB	TV	Doku TV	TV	Conax	No		SD	MPEG-4	1701	1702[hrv]	1807	alexfloresaf38	1-Jan-20	1320	
+11554	V	30000	EuropeB	TV	SK 2	TV	Conax	No		SD	MPEG-4	1801	1802[hrv]|1803[slv]|1804[srp]	1808	Tanea	1-Jan-20	1322	
+11554	V	30000	EuropeB	TV	Hustler HD	TV	Videoguard|Conax	No	Total TV	HD	MPEG-4	1901	1902[ita]	1809	alexfloresaf38	1-Jan-20	1324	
+11554	V	30000	EuropeB	TV	Hustler TV	TV	Videoguard|Conax|Nagravision	No	Total TV|MAXtv Sat	SD	MPEG-4	2001	2002[eng]	1810	alexfloresaf38	1-Jan-20	1326	
+11554	V	30000	EuropeB	TV	SK 1	TV	Conax	No		SD	MPEG-4	2101	2102|2102[hrv]	1811	Tanea	1-Jan-20	1328	
+11554	V	30000	EuropeB	TV	HRT 3	TV	Conax	No		SD	MPEG-4	2201	2202[hrv]	1812	Tanea	12-Mar-15	1330	
+11554	V	30000	EuropeB	TV	CBS Reality	TV	Videoguard|Conax|Nagravision 3	No		SD	MPEG-4	2301	2302[eng]	1813	ade3661	13-Sep-16	1332	
+11554	V	30000	EuropeB	TV	CBS Reality	TV	Conax	No		SD	MPEG-4	2301	2303[cze]	1814	ade3661	13-Sep-16	1334	
+11554	V	30000	EuropeB	TV	Diva Balkans	TV	Conax	No		SD	MPEG-4	2501	2502|2502[eng]	1815	ade3661	12-Sep-16	1336	
+11554	V	30000	EuropeB	IMG	SportKlub 3	TV	Conax	No		SD	MPEG-4	2801		1818	Tanea	12-Mar-15	1338	
+11554	V	30000	EuropeB	IMG	Cinestar Action & Thriller	TV	Conax	No		SD	MPEG-4	2901		1819	Tanea	12-Mar-15	1340	
+11554	V	30000	EuropeB	IMG	Animal Planet Europe	TV	Conax	No		SD	MPEG-4	3001		1820	Tanea	12-Mar-15	1342	
+11554	V	30000	EuropeB	TV	Federalna TV	TV	Conax	No		SD	MPEG-4	3101	3102[bos]	1821	ade3661	13-Sep-16	1344	
+11554	V	30000	EuropeB	IMG	Cinestar TV	TV	Conax	No		SD	MPEG-4	3201		1822	Tanea	12-Mar-15	1346	
+11554	V	30000	EuropeB	TV	24 Kitchen	TV	Conax	No		SD	MPEG-4	3301	3302[eng]	1823	Tanea	3-Sep-16	1348	
+11554	V	30000	EuropeB	IMG	Viasat Explorer	TV	Conax	No		SD	MPEG-4	3401		1824	Tanea	12-Mar-15	1350	
+11554	V	30000	EuropeB	TV	Kino TV	TV	Conax	No		SD	MPEG-4	3701	3702[hrv]	1827	ade3661	12-Sep-16	1352	
+11554	V	30000	EuropeB	TV	Disney Channel	TV	Conax	No		SD	MPEG-4	3801	3802[eng]	1828	Tanea	13-Aug-19	1354	
+11554	V	30000	EuropeB	IMG	OK Bambino	TV	Conax	No		SD	MPEG-4	3901		1829	Tanea	12-Mar-15	1356	
+11554	V	30000	EuropeB	IMG	Viasat History	TV	Conax	No		SD	MPEG-4	4001		1830	Tanea	12-Mar-15	1358	
+11554	V	30000	EuropeB	TV	VH1 Europe A	TV	Conax	No		SD	MPEG-4	4301	4302[eng]	1833	Tanea	12-Mar-15	1360	
+11554	V	30000	EuropeB	TV	Mediaset Italia	TV	Conax	No		SD	MPEG-4	4601	4602[ita]	1836	ade3661	16-Sep-16	1362	
+11554	V	30000	EuropeB	TV	MTV Adria	TV	Conax|Nagravision 3	No		SD	MPEG-4	4801	4802[hrv]	1838	ade3661	12-Sep-16	1364	
+11554	V	30000	EuropeB	TV	Kreator TV	TV	Conax	No		SD	MPEG-4	32	33[hrv]	1841	ade3661	12-Sep-16	1366	
+11554	V	30000	EuropeB	TV	HRT 4	TV	Conax	No		SD	MPEG-4	5101	5102[hrv]	1842	ade3661	13-Sep-16	1368	
+11554	V	30000	EuropeB	TV	Orlando Kids	TV	Conax	No		SD	MPEG-4	5401	5402[hrv]	1844	ade3661	12-Sep-16	1370	
+11554	V	30000	EuropeB	TV	Lov i Ribolov	TV	Conax	No		SD	MPEG-4	5501	5502[srp]	1845	ade3661	13-Sep-16	1372	
+11554	V	30000	EuropeB	TV	CineStar Premiere 2	TV	Conax	No		SD	MPEG-4	5601	5602[eng]	1846	Tanea	3-Sep-16	1374	
+11554	V	30000	EuropeB	TV	CineStar Premiere HD	TV	Conax	No		HD	MPEG-4	5701	5702[eng]	1847	Tanea	3-Sep-16	1376	
+11554	V	30000	EuropeB	TV	Planet Earth	TV	Conax	No		SD	MPEG-4	6201	6202[eng]	1852	Tanea	5-Jan-18	1378	
+11554	V	30000	EuropeB	TV	Woman	TV	Conax	No		SD	MPEG-4	6301	6302[eng]	1853	Tanea	5-Jan-18	1380	
+11595	H	30000	EuropeB	TV	History Channel.	TV	Videoguard|Nagravision	No	Total TV|MAXtv Sat	SD	MPEG-4	2824	2568[eng]	33	alexfloresaf38	11-Jan-20	1384	
+11595	H	30000	EuropeB	IMG	M1 Gold.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2833		41	Frocus	11-Jan-20	1386	
+11595	H	30000	EuropeB	TV	AXN.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2836	2612[eng]	64	Frocus	11-Jan-20	1388	
+11595	H	30000	EuropeB	TV	Arena 2 HD.	TV	Nagravision	No	MAXtv Sat	HD	MPEG-4	974	2567[hrv]	80	alexfloresaf38	11-Jan-20	1390	
+11595	H	30000	EuropeB	IMG	SportKlub 1 HD.	TV	Nagravision	No	MAXtv Sat	HD	MPEG-4	2825		86	alexfloresaf38	11-Jan-20	1392	
+11595	H	30000	EuropeB	TV	Extreme Sports.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2839	2615[eng]	93	Frocus	11-Jan-20	1394	
+11595	H	30000	EuropeB	IMG	HRT2.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2841		100	alexfloresaf38	11-Jan-20	1396	
+11595	H	30000	EuropeB	TV	Z1	TV	FTA	Yes		SD	MPEG-4	2834	2610[hrv]	103	Tanea	11-Jan-20	1398	
+11595	H	30000	EuropeB	TV	CMC - Croatian Music Channel.	TV	Videoguard|Conax|Nagravision	No	Total TV|MAXtv Sat	SD	MPEG-4	2848	2592[hrv]	120	alexfloresaf38	11-Jan-20	1400	
+11595	H	30000	EuropeB	TV	VH1 Classic.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2851	2595[eng]	126	Frocus	11-Jan-20	1402	
+11595	H	30000	EuropeB	IMG	Arena 6 HD.	TV	Nagravision	No	MAXtv Sat	HD	MPEG-4	2850		127	alexfloresaf38	11-Jan-20	1404	
+11595	H	30000	EuropeB	TV	Da Vinci Learning.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2853	2597[hrv]	129	Tanea	11-Jan-20	1406	
+11595	H	30000	EuropeB	TV	CNN.	TV	Conax|Nagravision	No	MAXtv Sat	SD	MPEG-4	2854	2598[eng]	140	alexfloresaf38	11-Jan-20	1408	
+11595	H	30000	EuropeB	TV	FOX Movies.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2856	2600[eng]	152	Tanea	11-Jan-20	1410	
+11595	H	30000	EuropeB	TV	TVCG Sat.	TV	FTA	Yes		HD	MPEG-4	2896	2640[srp]	155	Tanea	11-Jan-20	1412	
+11595	H	30000	EuropeB	TV	RTL Passion.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2858	2602[hrv]	166	Tanea	11-Jan-20	1414	
+11595	H	30000	EuropeB	TV	RTL Crime.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2817	2561[hrv]	192	Tanea	11-Jan-20	1416	
+11595	H	30000	EuropeB	IMG	PrivateTV.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2820		195	ade3661	11-Jan-20	1418	
+11595	H	30000	EuropeB	IMG	Fox.	TV	Conax|Nagravision	No	MAXtv Sat	SD	MPEG-4	2880		197	alexfloresaf38	11-Jan-20	1420	
+11595	H	30000	EuropeB	TV	HRT1.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2838	2614[eng]	295	Frocus	11-Jan-20	1422	
+11595	H	30000	EuropeB	DATA	Radio CG.	R	FTA	Yes				0		156	alexfloresaf38	11-Jan-20	1424	
+11595	H	30000	EuropeB	DATA	Otvoreni.	R	FTA	Yes				0		201	alexfloresaf38	11-Jan-20	1426	
+11595	H	30000	EuropeB	DATA	Narodni.	R	FTA	Yes				0		202	alexfloresaf38	11-Jan-20	1428	
+11595	H	30000	EuropeB	DATA	Antena Zagreb.	R	FTA	Yes				0		203	alexfloresaf38	11-Jan-20	1430	
+11595	H	30000	EuropeB	DATA	R.Marija.	R	FTA	Yes				0		211	alexfloresaf38	11-Jan-20	1432	
+11595	H	30000	EuropeB	DATA	R. Mediaservis	R	FTA	Yes				0		218	alexfloresaf38	11-Jan-20	1434	
+11595	H	30000	EuropeB	DATA	Enter ZG.	R	FTA	Yes				0		219	alexfloresaf38	11-Jan-20	1436	
+11595	V	30000	EuropeB	TV	Body in Balance	TV	Conax|Irdeto	No	Antik Sat	SD	MPEG-4	1101	1102|1102[eng]|1103[slo]	901	Frocus	27-Feb-20	1440	
+11595	V	30000	EuropeB	TV	RiC TV HD	TV	Conax	No	Antik Sat	HD	MPEG-4	1201	1202|1202[eng]|1203[deu]	902	Frocus	27-Feb-20	1442	
+11595	V	30000	EuropeB	TV	EA HD	TV	Conax	No	Antik Sat	HD	MPEG-4	1301	1302|1302[eng]	903	Frocus	27-Feb-20	1444	
+11595	V	30000	EuropeB	TV	Box Hits	TV	Conax	No	Antik Sat	SD	MPEG-4	1401	1402|1402[eng]	904	Frocus	27-Feb-20	1446	
+11595	V	30000	EuropeB	TV	The Box Africa	TV	Conax	No	Antik Sat	SD	MPEG-4	1501	1502|1502[eng]	905	Frocus	27-Feb-20	1448	
+11595	V	30000	EuropeB	TV	Magic UK	TV	FTA	Yes	Antik Sat	SD	MPEG-4	1601	1602|1602[eng]	906	Frocus	27-Feb-20	1450	
+11595	V	30000	EuropeB	TV	Kiss	TV	Conax	No	Antik Sat	SD	MPEG-4	1701	1702|1702[eng]	907	Frocus	27-Feb-20	1452	
+11595	V	30000	EuropeB	TV	Kerrang!	TV	Conax	No	Antik Sat	SD	MPEG-4	1801	1802|1802[eng]	908	Frocus	27-Feb-20	1454	
+11595	V	30000	EuropeB	TV	Ginx TV	TV	Conax	No	Antik Sat	SD	MPEG-4	1901	1902|1902[eng]	909	Frocus	27-Feb-20	1456	
+11595	V	30000	EuropeB	TV	Wness TV	TV	Conax	No	Antik Sat	SD	MPEG-4	2001	2002|2002[eng]|2003[bul]|2004[ukr]	910	Frocus	27-Feb-20	1458	
+11596	H	29950	SEAfrica	TV	Kanal Austral	TV	FTA	Yes	Parabole Oc&eacute;an Indien	SD	MPEG-2	93	164[fre]	0	dm800	18-Jun-09	1462	
+11596	H	29950	SEAfrica	TV	TF 1	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	118	135[fre]	0	dm800	18-Jun-09	1464	
+11596	H	29950	SEAfrica	TV	TéléToon France	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	127	144[fre]	0	dm800	18-Jun-09	1466	
+11596	H	29950	SEAfrica	IMG	HotShow	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	127		0	dm800	18-Jun-09	1468	
+11596	H	29950	SEAfrica	TV	M6 Music Hits	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	128	145[fre]	0	dm800	18-Jun-09	1470	
+11596	H	29950	SEAfrica	TV	Equidia	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	132	150[fre]	0	dm800	18-Jun-09	1472	
+11596	H	29950	SEAfrica	TV	LCI	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	137	154[fre]	0	dm800	18-Jun-09	1474	
+11596	H	29950	SEAfrica	TV	CNN International	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	138	155[eng]	0	dm800	18-Jun-09	1476	
+11596	H	29950	SEAfrica	TV	Odyssée	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	147	164[fre]	0	dm800	18-Jun-09	1478	
+11596	H	29950	SEAfrica	TV	Escales	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	148	165[fre]	0	dm800	18-Jun-09	1480	
+11596	H	29950	SEAfrica	TV	Disney XD France	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	149	166[fre]	0	dm800	18-Jun-09	1482	
+11596	H	29950	SEAfrica	IMG	TV Breizh	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	149		0	dm800	18-Jun-09	1484	
+11596	H	29950	SEAfrica	TV	InfoSport	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	157	174[fre]	0	dm800	18-Jun-09	1486	
+11596	H	29950	SEAfrica	TV	Eurosport France	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	158	175[fre]	0	dm800	18-Jun-09	1488	
+11596	H	29950	SEAfrica	TV	AB Moteurs	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	159	176[fre]	0	dm800	18-Jun-09	1490	
+11596	H	29950	SEAfrica	TV	TPS Foot	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	417	434[fre]	0	dm800	18-Jun-09	1492	
+11596	H	29950	SEAfrica	TV	Comedie	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	1217	1234[fre]	0	dm800	18-Jun-09	1494	
+11596	H	29950	SEAfrica	TV	Eurosport 2	TV	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien	SD	MPEG-2	1999	1997[fre]	0	dm800	18-Jun-09	1496	
+11596	H	29950	SEAfrica	R	Radio Plus	R	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien			0	32[fre]	0	dreambox	18-Jun-09	1498	
+11596	H	29950	SEAfrica	R	Free Dom	R	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien			0	384[fre]	0	dreambox	18-Jun-09	1500	
+11596	H	29950	SEAfrica	R	RTL	R	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien			0	680[fre]	0	dreambox	18-Jun-09	1502	
+11596	H	29950	SEAfrica	R	Europe 1 Sport	R	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien			0	682[fre]	0	dreambox	18-Jun-09	1504	
+11596	H	29950	SEAfrica	R	Europe 1	R	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien			0	969[fre]	0	dreambox	18-Jun-09	1506	
+11596	H	29950	SEAfrica	R	Nostalgie la légande	R	Viaccess 2.3|Viaccess 2.5	No	Parabole Oc&eacute;an Indien			0	1252[fre]	0	ttalex	4-Feb-10	1508	
+11637	H	30000	EuropeB	TV	VH1 Classic	TV	Conax	No		SD	MPEG-4	1101	1102[eng]	1901	alexfloresaf38	12-Jan-20	1512	
+11637	H	30000	EuropeB	TV	History	TV	Irdeto	No	Antik Sat	SD	MPEG-4	1201	1202[cze]|1203[hun]|1204[eng]	1902	alexfloresaf38	12-Jan-20	1514	
+11637	H	30000	EuropeB	TV	Nick Jr.	TV	Conax|Irdeto	No	Antik Sat	SD	MPEG-4	1301	1302[eng]|1903[bul]	1903	alexfloresaf38	12-Jan-20	1516	
+11637	H	30000	EuropeB	TV	Test X	TV	Conax	No		SD	MPEG-4	1401	1402[eng]	1904	Tanea	12-Jan-20	1518	
+11637	H	30000	EuropeB	TV	PlanetSport 4 HD	TV	Conax	No		HD	MPEG-4	1501	1502[hrv]	1905	Tanea	18-Sep-18	1520	
+11637	H	30000	EuropeB	TV	Travelxp HD	TV	Conax|Irdeto	No	Antik Sat	HD	MPEG-4	1601	1602[eng]|1603[cze]	1906	alexfloresaf38	12-Jan-20	1522	
+11637	H	30000	EuropeB	TV	Cartoon Network	TV	Conax|Irdeto	No	Antik Sat	SD	MPEG-4	1701	1702[eng]|1703[bul]|1704[rus]	1907	alexfloresaf38	12-Jan-20	1524	
+11637	H	30000	EuropeB	TV	Disney Channel Romania	TV	Conax	No		SD	MPEG-2	1801	1802[rum]|1803[eng]	1908	alexfloresaf38	12-Jan-20	1526	
+11637	H	30000	EuropeB	TV	History	TV	Conax	No		SD	MPEG-4	1201	1204[eng]	1909	Tanea	12-Jan-20	1528	
+11637	H	30000	EuropeB	TV	Disney Channel Bulgaria	TV	Conax	No		SD	MPEG-2	2001	2002[bul]|2003[eng]	1910	alexfloresaf38	12-Jan-20	1530	
+11637	H	30000	EuropeB	TV	havoc	TV	Conax	No		SD	MPEG-4	3901	3902[eng]	1912	Tanea	12-Jan-20	1532	
+11637	H	30000	EuropeB	TV	AXN Spin	TV	Videoguard|Conax	No	Total TV	SD	MPEG-4	2401	2402[rum]|2403[eng]	1914	alexfloresaf38	12-Jan-20	1534	
+11637	H	30000	EuropeB	TV	Eurobet 5OT11	TV	Conax	No		SD	MPEG-4	2501	2502[bul]	1915	Tanea	12-Jan-20	1536	
+11637	H	30000	EuropeB	TV	Barely Legal	TV	Conax	No		SD	MPEG-4	2701	2702[eng]	1917	alexfloresaf38	12-Jan-20	1538	
+11637	H	30000	EuropeB	TV	SportShans	TV	Conax	No		SD	MPEG-4	2801	2802[bul]	1918	Tanea	12-Jan-20	1540	
+11637	H	30000	EuropeB	TV	Da Vinci LEARNING	TV	Conax	No		SD	MPEG-4	4301	4302[mul]	1919	Tanea	12-Jan-20	1542	
+11637	H	30000	EuropeB	TV	Travel Channel	TV	Conax	No		SD	MPEG-4	4501	4504[eng]	1920	Tanea	12-Jan-20	1544	
+11637	H	30000	EuropeB	TV	History Channel	TV	Conax	No		SD	MPEG-4	1201	1204[eng]	1921	alexfloresaf38	12-Jan-20	1546	
+11637	H	30000	EuropeB	TV	PlanetSport 5 HD	TV	Conax	No		HD	MPEG-4	3201	3202[hrv]	1922	Tanea	18-Sep-18	1548	
+11637	H	30000	EuropeB	TV	In LIFE TV	TV	FTA	Yes		SD	MPEG-4	3301	3302[bul]	1923	alexfloresaf38	12-Jan-20	1550	
+11637	H	30000	EuropeB	TV	HBO HD	TV	Conax|Nagravision	No	MAXtv Sat	HD	MPEG-4	3401	3402[hrv]|3404[slv]|3405[mac]|3406[srp]|3421[eng]	1924	alexfloresaf38	12-Jan-20	1552	
+11637	H	30000	EuropeB	TV	HBO 2 HD	TV	Conax|Nagravision	No	MAXtv Sat	HD	MPEG-4	3501	3502[hrv]|3504[slv]|3505[mac]|3506[srp]|3521[eng]	1925	alexfloresaf38	12-Jan-20	1554	
+11637	H	30000	EuropeB	TV	Cinemax HD	TV	Videoguard|Conax|Nagravision	No	Total TV|MAXtv Sat	HD	MPEG-4	3601	3602[hrv]|3605[slv]|3606[srp]	1926	alexfloresaf38	12-Jan-20	1556	
+11637	H	30000	EuropeB	TV	Cinemax 2 HD	TV	Videoguard|Conax|Nagravision	No	Total TV|MAXtv Sat	HD	MPEG-4	3701	3702[hrv]|3705[slv]|3706[srp]	1927	alexfloresaf38	12-Jan-20	1558	
+11637	H	30000	EuropeB	TV	Cinemax 2 HD	TV	Conax	No		HD	MPEG-4	3701	3704[cze]	1938	alexfloresaf38	12-Jan-20	1560	
+11637	H	30000	EuropeB	TV	HBO 3 HD	TV	Videoguard|Conax|Nagravision	No	Total TV|MAXtv Sat	HD	MPEG-4	5201	5202[hrv]|5203[slv]|5204[srp]|5206[mac]|5221[eng]	1942	alexfloresaf38	12-Jan-20	1562	
+11637	H	30000	EuropeB	TV	Travel Channel	TV	Conax	No		SD	MPEG-4	4501	4502[bul]|4504[eng]	1944	alexfloresaf38	12-Jan-20	1564	
+11637	H	30000	EuropeB	TV	Cinemax HD	TV	Conax|Irdeto	No	Orange Slovakia	HD	MPEG-4	3601	3604[cze]	1946	alexfloresaf38	12-Jan-20	1566	
+11637	H	30000	EuropeB	TV	Cinemax 2 HD	TV	Irdeto	No	Orange Slovakia	HD	MPEG-4	3701	3704[cze]	1948	alexfloresaf38	12-Jan-20	1568	
+11637	H	30000	EuropeB	TV	Cinemax HD	TV	Irdeto	No	Orange Slovakia	HD	MPEG-4	3601	3604[cze]	1949	alexfloresaf38	12-Jan-20	1570	
+11637	V	30000	EuropeA	TV	HRT-TV1 HD	TV	Viaccess	No		HD	MPEG-4	111	112[hrv]	3401	Tanea	31-Dec-19	1574	
+11637	V	30000	EuropeA	TV	HRT-TV2 HD	TV	Viaccess	No		HD	MPEG-4	121	122[hrv]	3402	Tanea	31-Dec-19	1576	
+11637	V	30000	EuropeA	TV	HRT-TV3 HD	TV	Viaccess	No		HD	MPEG-4	131	132[hrv]	3403	Tanea	31-Dec-19	1578	
+11637	V	30000	EuropeA	TV	HRT-TV4 HD	TV	FTA	Yes		HD	MPEG-4	141	142[hrv]	3404	alexfloresaf38	31-Dec-19	1580	
+11637	V	30000	EuropeA	TV	HRTInt.	TV	FTA	Yes		SD	MPEG-4	151	152[hrv]	3405	alexfloresaf38	12-Jan-20	1582	
+11637	V	30000	EuropeA	TV	SLO1 HD	TV	Viaccess	No		HD	MPEG-4	411	412[slv]	3431	alexfloresaf38	31-Dec-19	1584	
+11637	V	30000	EuropeA	TV	SLO2 HD	TV	Viaccess	No		HD	MPEG-4	421	422[slv]	3432	alexfloresaf38	31-Dec-19	1586	
+11637	V	30000	EuropeA	TV	SLO3 HD	TV	Viaccess	No		HD	MPEG-4	431	432[slv]	3433	alexfloresaf38	31-Dec-19	1588	
+11637	V	30000	EuropeA	R	HRT-HR1	R	FTA	Yes				0	212[hrv]	3411	alexfloresaf38	31-Dec-19	1590	
+11637	V	30000	EuropeA	R	HRT-HR2	R	FTA	Yes				0	222[hrv]	3412	alexfloresaf38	31-Dec-19	1592	
+11637	V	30000	EuropeA	R	HRT-HR3	R	FTA	Yes				0	232[hrv]	3413	alexfloresaf38	31-Dec-19	1594	
+11637	V	30000	EuropeA	R	VOICE OF CRO	R	FTA	Yes				0	242[hrv]	3414	alexfloresaf38	31-Dec-19	1596	
+11637	V	30000	EuropeA	R	HKR	R	FTA	Yes				0	262[hrv]	3416	alexfloresaf38	31-Dec-19	1598	
+11637	V	30000	EuropeA	R	RASLO PRVI	R	FTA	Yes				0	452[slv]	3434	alexfloresaf38	31-Dec-19	1600	
+11637	V	30000	EuropeA	R	RASLO VAL 202	R	FTA	Yes				0	462[slv]	3435	alexfloresaf38	31-Dec-19	1602	
+11637	V	30000	EuropeA	R	RASLO ARS	R	FTA	Yes				0	472[slv]	3436	alexfloresaf38	31-Dec-19	1604	
+11637	V	30000	EuropeA	R	RASLO RADIO SI	R	FTA	Yes				0	492[slv]	3437	alexfloresaf38	31-Dec-19	1606	
+11678	H	30000	EuropeB	TV	Vivid TV.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2819	2563[eng]	34	alexfloresaf38	11-Jan-20	1610	
+11678	H	30000	EuropeB	TV	Woman.	TV	Conax|Nagravision	No	MAXtv Sat	SD	MPEG-4	2832	2576[eng]	43	alexfloresaf38	11-Jan-20	1612	
+11678	H	30000	EuropeB	TV	History 2.	TV	Videoguard|Nagravision	No	Total TV|MAXtv Sat	SD	MPEG-4	2825	2569[eng]	45	alexfloresaf38	11-Jan-20	1614	
+11678	H	30000	EuropeB	TV	PickboxTV.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2912	2656[eng]	56	alexfloresaf38	11-Jan-20	1616	
+11678	H	30000	EuropeB	IMG	Nova24 TV.	TV	FTA	Yes		SD	MPEG-4	2822		87	alexfloresaf38	11-Jan-20	1618	
+11678	H	30000	EuropeB	TV	Viasat Nature.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2836	2580[eng]	89	Tanea	11-Jan-20	1620	
+11678	H	30000	EuropeB	TV	SportKlub Golf.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2824	2568[eng]	90	alexfloresaf38	11-Jan-20	1622	
+11678	H	30000	EuropeB	TV	Dorcel XXX.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2827	2571[eng]	91	Frocus	11-Jan-20	1624	
+11678	H	30000	EuropeB	TV	24 Kitchen.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	6422	6421[eng]	102	alexfloresaf38	11-Jan-20	1626	
+11678	H	30000	EuropeB	TV	MTV Dance.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2829	2573[eng]	122	Frocus	11-Jan-20	1628	
+11678	H	30000	EuropeB	TV	MTV Hits.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2830	2574[eng]	123	Frocus	11-Jan-20	1630	
+11678	H	30000	EuropeB	TV	DJazz.tv.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2831	2575[eng]	124	Tanea	11-Jan-20	1632	
+11678	H	30000	EuropeB	TV	PosavinaTV.	TV	FTA	Yes		SD	MPEG-4	2817	2561[bos]	132	alexfloresaf38	11-Jan-20	1634	
+11678	H	30000	EuropeB	TV	Arena 5 HD.	TV	Nagravision	No	MAXtv Sat	HD	MPEG-4	2818	2562[eng]	190	Tanea	11-Jan-20	1636	
+11678	H	30000	EuropeB	TV	HRT3.	TV	Videoguard|Nagravision	No	Total TV|MAXtv Sat	SD	MPEG-4	35	36[eng]	198	alexfloresaf38	11-Jan-20	1638	
+11678	H	30000	EuropeB	IMG	LaudatoTV.	TV	FTA	Yes		SD	MPEG-4	2840		215	alexfloresaf38	11-Jan-20	1640	
+11678	H	30000	EuropeB	TV	Klasik TV.	TV	Conax|Nagravision	No	MAXtv Sat	SD	MPEG-4	2839	2583[eng]	216	alexfloresaf38	11-Jan-20	1642	
+11678	H	30000	EuropeB	TV	RTL.	TV	Conax|Nagravision	No	MAXtv Sat	SD	MPEG-4	2844	2588[eng]	291	alexfloresaf38	11-Jan-20	1644	
+11678	H	30000	EuropeB	TV	Nova TV.	TV	Conax|Nagravision	No	MAXtv Sat	SD	MPEG-4	2845	2589[eng]	292	alexfloresaf38	11-Jan-20	1646	
+11678	H	30000	EuropeB	TV	RTL2.	TV	Conax|Nagravision	No	MAXtv Sat	SD	MPEG-4	2846	2590[eng]	293	alexfloresaf38	11-Jan-20	1648	
+11678	H	30000	EuropeB	TV	Doma TV.	TV	Videoguard|Conax|Nagravision	No	Total TV|MAXtv Sat	SD	MPEG-4	2847	2591[eng]	294	alexfloresaf38	11-Jan-20	1650	
+11678	H	30000	EuropeB	TV	M1.	TV	Nagravision	No	MAXtv Sat	SD	MPEG-4	2842	2586[eng]	296	alexfloresaf38	11-Jan-20	1652	
+11678	H	30000	EuropeB	TV	Mini TV.	TV	Videoguard|Conax|Nagravision	No	Total TV|MAXtv Sat	SD	MPEG-4	2828	2572[eng]	301	alexfloresaf38	11-Jan-20	1654	
+11678	H	30000	EuropeB	TV	Arena 1 HD.	TV	Nagravision	No	MAXtv Sat	HD	MPEG-4	2843	2587[eng]	412	Frocus	11-Jan-20	1656	
+11678	H	30000	EuropeB	TV	SPTV.	TV	Conax|Nagravision	No	MAXtv Sat	SD	MPEG-4	2835	2579[eng]	430	alexfloresaf38	11-Jan-20	1658	
+12524	H	5632	EuropeA	DATA	Enex feeds	F	FTA	Yes				0		0	dreambox	18-Jun-09	1662	
+12540	V	19970	EuropeB	TV	KTV Kohavision HD	TV	Irdeto 2	No		HD	MPEG-4	257	258[alb]	1	Tanea	13-Aug-19	1666	
+12540	V	19970	EuropeB	TV	RTV 21 Sat	TV	Irdeto 2	No		SD	MPEG-4	410	411[alb]	4	Tanea	13-Aug-19	1668	
+12540	V	19970	EuropeB	TV	FirstChannel	TV	Irdeto 2	No		SD	MPEG-4	920	921[alb]	6	Tanea	13-Aug-19	1670	
+12540	V	19970	EuropeB	TV	Arta	TV	Irdeto 2	No		SD	MPEG-4	700	701[alb]	7	Tanea	13-Aug-19	1672	
+12540	V	19970	EuropeB	TV	Rrokum TV	TV	Irdeto 2	No		SD	MPEG-4	800	801[alb]	8	Tanea	13-Aug-19	1674	
+12540	V	19970	EuropeB	TV	Zico TV	TV	Irdeto 2	No		SD	MPEG-4	930	931[alb]	9	Tanea	13-Aug-19	1676	
+12540	V	19970	EuropeB	TV	RTV 21 Macedonia (TV21 Maqedoni)	TV	Irdeto 2	No		SD	MPEG-4	513	514[alb]	11	Tanea	13-Aug-19	1678	
+12562	H	30000	EuropeA	TV	Casarhema TV	TV	FTA	Yes		SD	MPEG-4	3641	3642[fre]	0	Tanea	13-Aug-19	1682	
+12562	H	30000	EuropeA	TV	TFM Senegal	TV	FTA	Yes		SD	MPEG-2	2012	2013[fre]	201	Tanea	13-Aug-19	1684	
+12562	H	30000	EuropeA	TV	Olé TFM	TV	FTA	Yes		SD	MPEG-2	2022	2023[fre]	202	Tanea	13-Aug-19	1686	
+12562	H	30000	EuropeA	TV	TFM Religions	TV	FTA	Yes		SD	MPEG-2	2032	2033[fre]	203	Tanea	13-Aug-19	1688	
+12562	H	30000	EuropeA	TV	New World Sport 1	TV	FTA	Yes		SD	MPEG-2	2051	2052[fre]	205	Tanea	13-Aug-19	1690	
+12562	H	30000	EuropeA	TV	TVT	TV	FTA	Yes		SD	MPEG-2	2061	2062[fre]	206	Tanea	13-Aug-19	1692	
+12562	H	30000	EuropeA	TV	New World Info Fr	TV	FTA	Yes		SD	MPEG-2	2071	2072[fre]	207	Tanea	13-Aug-19	1694	
+12562	H	30000	EuropeA	TV	New World Cinema	TV	FTA	Yes		SD	MPEG-2	2081	2082[fre]	208	Tanea	13-Aug-19	1696	
+12562	H	30000	EuropeA	TV	Info TV Cameroun	TV	FTA	Yes		SD	MPEG-2	2111	2112[fre]	211	Tanea	13-Aug-19	1698	
+12562	H	30000	EuropeA	TV	DBS TV	TV	FTA	Yes		SD	MPEG-2	2121	2122[fre]	212	Tanea	13-Aug-19	1700	
+12562	H	30000	EuropeA	TV	LoveWorld Plus	TV	FTA	Yes		SD	MPEG-2	2131	2132[eng]	213	Tanea	13-Aug-19	1702	
+12562	H	30000	EuropeA	TV	Dieu TV	TV	FTA	Yes		SD	MPEG-2	2141	2142|2142[fre]	214	Tanea	13-Aug-19	1704	
+12562	H	30000	EuropeA	TV	BFI TV	TV	FTA	Yes		SD	MPEG-2	2161	2162[fre]	216	Tanea	13-Aug-19	1706	
+12562	H	30000	EuropeA	TV	Cash Chrono	TV	FTA	Yes		SD	MPEG-2	2171	2172[fre]	217	Tanea	13-Aug-19	1708	
+12562	H	30000	EuropeA	TV	New World Magazine	TV	FTA	Yes		SD	MPEG-2	2191	2192[fre]	219	Tanea	13-Aug-19	1710	
+12562	H	30000	EuropeA	TV	QTV Gambia	TV	FTA	Yes		SD	MPEG-2	2231	2232[fre]	223	Tanea	13-Aug-19	1712	
+12562	H	30000	EuropeA	TV	BB24 (Bénin Business 24)	TV	FTA	Yes		SD	MPEG-2	2281	2282[fre]	228	Tanea	13-Aug-19	1714	
+12562	H	30000	EuropeA	TV	BFM Paris	TV	FTA	Yes		SD	MPEG-2	2301	2302[fre]	230	Tanea	13-Aug-19	1716	
+12562	H	30000	EuropeA	TV	BFM Business	TV	FTA	Yes		SD	MPEG-2	2311	2312[fre]	231	Tanea	13-Aug-19	1718	
+12562	H	30000	EuropeA	TV	Kombat Sport	TV	FTA	Yes		SD	MPEG-2	2321	2322[fre]	232	Tanea	13-Aug-19	1720	
+12562	H	30000	EuropeA	TV	SFR Sport 4	TV	FTA	Yes		SD	MPEG-2	2331	2332[fre]	233	Tanea	13-Aug-19	1722	
+12562	H	30000	EuropeA	TV	BFM TV	TV	FTA	Yes		SD	MPEG-2	2341	2342[fre]	234	Tanea	13-Aug-19	1724	
+12562	H	30000	EuropeA	TV	SMTV	TV	FTA	Yes		SD	MPEG-2	2361	2362[eng]	236	Tanea	13-Aug-19	1726	
+12562	H	30000	EuropeA	TV	New World Info	TV	FTA	Yes		SD	MPEG-2	2371	2372[eng]	237	Tanea	13-Aug-19	1728	
+12562	H	30000	EuropeA	TV	A12 TV	TV	FTA	Yes		SD	MPEG-2	2381	2382[fre]	238	Tanea	13-Aug-19	1730	
+12562	H	30000	EuropeA	IMG	New World Transnat	TV	FTA	Yes		SD	MPEG-2	2391		239	Tanea	13-Aug-19	1732	
+12562	H	30000	EuropeA	IMG	New World Muzik	TV	FTA	Yes		SD	MPEG-2	2401		240	Tanea	13-Aug-19	1734	
+12562	H	30000	EuropeA	IMG	New World Sport 2	TV	FTA	Yes		SD	MPEG-2	2411		241	Tanea	13-Aug-19	1736	
+12562	H	30000	EuropeA	TV	Jesus Christ TV	TV	FTA	Yes		SD	MPEG-2	2421	2422[fre]	242	Tanea	13-Aug-19	1738	
+12562	H	30000	EuropeA	TV	EMCI TV	TV	FTA	Yes		SD	MPEG-2	2431	2432[fre]	243	Tanea	13-Aug-19	1740	
+12562	H	30000	EuropeA	TV	Miracle TV	TV	FTA	Yes		SD	MPEG-2	2441	2442[fre]	244	Tanea	13-Aug-19	1742	
+12562	H	30000	EuropeA	TV	Distinction TV	TV	FTA	Yes		SD	MPEG-2	2451	2452[fre]	245	Tanea	13-Aug-19	1744	
+12562	H	30000	EuropeA	TV	Chandelier TV	TV	FTA	Yes		SD	MPEG-2	2461	2462[fre]	246	Tanea	13-Aug-19	1746	
+12565	V	3616	EuropeB	TV	Kanal D Romania	TV	FTA	Yes		SD	MPEG-2	100	110[rum]	1	Frocus	9-Nov-13	1750	
+12569	H	3703	EuropeB	TV	SIC Internacional	TV	FTA	Yes		SD	MPEG-2	308	256[por]	1	Tanea	1-Jul-13	1754	
+12572	V	8670	EuropeB	TV	Est TV	TV	FTA	Yes		SD	MPEG-4	308	101[rum]	10	Tanea	17-Jan-17	1758	
+12572	V	8670	EuropeB	TV	TNT Bravo	TV	FTA	Yes		SD	MPEG-2	3121	3122[rus]	11	Tanea	11-Apr-16	1760	
+12593	V	2500	EuropeB	TV	DM-SAT	TV	FTA	Yes		SD	MPEG-2	512	768[srp]	2680	ttalex	18-Feb-19	1764	
+12597	V	2848	EuropeB	DATA	RTCG Sat	TV	FTA	Yes		SD	MPEG-2	0		0	Frocus	19-Dec-12	1768	
+12605	H	30000	EuropeB	TV	M1 HD (Magyar 1)	TV	Irdeto	No		HD	MPEG-4	1101	1102[hun]	4501	Tanea	13-Aug-19	1772	
+12605	H	30000	EuropeB	TV	M2 HD (Magyar 2)	TV	Irdeto	No		HD	MPEG-4	1201	1202[hun]	4502	Tanea	13-Aug-19	1774	
+12605	H	30000	EuropeB	TV	M4 Sport HD	TV	Irdeto	No		HD	MPEG-4	1301	1302[hun]	4503	Tanea	13-Aug-19	1776	
+12605	H	30000	EuropeB	TV	Duna TV HD	TV	Irdeto	No		HD	MPEG-4	1401	1402[hun]	4504	Tanea	13-Aug-19	1778	
+12605	H	30000	EuropeB	TV	TV 2 Hungary	TV	Irdeto	No		SD	MPEG-4	1501	1502[hun]|1503[anp]	4505	Tanea	13-Aug-19	1780	
+12605	H	30000	EuropeB	TV	TV 4 Hungary	TV	Irdeto	No		SD	MPEG-4	1601	1602[hun]	4506	Tanea	13-Aug-19	1782	
+12605	H	30000	EuropeB	TV	Film+ Hungary	TV	Irdeto	No		SD	MPEG-4	1701	1702[hun]	4507	Tanea	13-Aug-19	1784	
+12605	H	30000	EuropeB	TV	Cool TV Hungary	TV	Irdeto	No		SD	MPEG-4	1801	1802[hun]	4508	Tanea	13-Aug-19	1786	
+12605	H	30000	EuropeB	TV	RTL II	TV	Irdeto	No		SD	MPEG-4	1901	1902[hun]	4509	Tanea	13-Aug-19	1788	
+12605	H	30000	EuropeB	TV	RTL Klub	TV	Irdeto	No		SD	MPEG-4	2001	2002[hun]	4510	Tanea	13-Aug-19	1790	
+12605	H	30000	EuropeB	TV	RTL+	TV	Irdeto	No		SD	MPEG-4	2101	2102[hun]	4511	Tanea	13-Aug-19	1792	
+12605	H	30000	EuropeB	TV	Sorozat +	TV	Irdeto	No		SD	MPEG-4	2201	2202[hun]	4512	Tanea	13-Aug-19	1794	
+12605	H	30000	EuropeB	IMG	Magyar Sláger TV	TV	Irdeto	No		SD	MPEG-4	2301		4513	Tanea	13-Aug-19	1796	
+12605	H	30000	EuropeB	TV	Kino Barrandov	TV	Irdeto	No		SD	MPEG-4	2401	2402[cze]|2403[cze]	4514	Tanea	13-Aug-19	1798	
+12605	H	30000	EuropeB	TV	Barrandov Krimi	TV	Irdeto	No		SD	MPEG-4	2501	2502[cze]|2503[cze]	4515	Tanea	13-Aug-19	1800	
+12605	H	30000	EuropeB	TV	Arena Sport 2 Slovakia	TV	Irdeto	No		SD	MPEG-4	2601	2602[slo]	4516	Tanea	13-Aug-19	1802	
+12605	H	30000	EuropeB	TV	Extreme Sports Channel	TV	Irdeto	No		SD	MPEG-4	2701	2702[eng]|2703[hun]	4517	Tanea	13-Aug-19	1804	
+12605	H	30000	EuropeB	TV	Orange Sport 3	TV	Irdeto	No		SD	MPEG-4	2801	2802[slo]|2803[mul]	4518	Tanea	13-Aug-19	1806	
+12605	H	30000	EuropeB	TV	Orange Sport 4	TV	Irdeto	No		SD	MPEG-4	2901	2902[slo]|2903[mul]	4519	Tanea	13-Aug-19	1808	
+12605	H	30000	EuropeB	TV	Orange Info	TV	Irdeto	No		SD	MPEG-4	3001	3002[slo]	4520	Tanea	13-Aug-19	1810	
+12605	H	30000	EuropeB	TV	Mnam TV	TV	Irdeto	No		SD	MPEG-4	3101	3102[cze]	4521	Tanea	13-Aug-19	1812	
+12605	H	30000	EuropeB	TV	Orange Sport 4	TV	Irdeto	No		SD	MPEG-4	3201	3202[slo]|3203[mul]	4522	Tanea	29-Feb-20	1814	
+12605	H	30000	EuropeB	TV	Trojka	TV	Irdeto	No		SD	MPEG-4	3301	3302[slo]	4523	Tanea	29-Feb-20	1816	
+12605	H	30000	EuropeB	IMG	UP Network info card	TV	Irdeto	No		SD	MPEG-4	3501		4524	Tanea	29-Feb-20	1818	
+12605	H	30000	EuropeB	IMG	Lala info card	TV	FTA	Yes		SD	MPEG-4	3401		4524	Tanea	29-Feb-20	1820	
+12639	H	10830	EuropeB	TV	RTSH 1 HD	TV	FTA	Yes		HD	MPEG-4	111	112[alb]	110	ade3661	21-Dec-17	1824	
+12639	H	10830	EuropeB	TV	RTSH 3 HD	TV	FTA	Yes		HD	MPEG-4	121	122[alb]	120	ade3661	21-Dec-17	1826	
+12639	H	10830	EuropeB	TV	RTSH Plus	TV	FTA	Yes		SD	MPEG-4	131	132[alb]	130	ade3661	21-Dec-17	1828	
+12639	H	10830	EuropeB	TV	RTSH 24	TV	FTA	Yes		SD	MPEG-4	141	142[alb]	140	ade3661	21-Dec-17	1830	
+12639	H	10830	EuropeB	TV	RTSH Shqip	TV	FTA	Yes		SD	MPEG-4	151	152[alb]	150	ade3661	21-Dec-17	1832	
+12639	H	10830	EuropeB	TV	RTSH Muzike	TV	FTA	Yes		SD	MPEG-4	161	162[alb]	160	ade3661	21-Dec-17	1834	
+12643	V	12500	EuropeB	TV	Digi 24	TV	FTA	Yes		SD	MPEG-4	1100	1110[rum]	11	Tanea	21-Oct-19	1838	
+12643	V	12500	EuropeB	TV	Neptun TV	TV	FTA	Yes		SD	MPEG-4	1200	1210[rum]	12	Tanea	21-Oct-19	1840	
+12643	V	12500	EuropeB	TV	TVR Cluj	TV	FTA	Yes		SD	MPEG-4	2100	2110[rum]	21	Tanea	21-Oct-19	1842	
+12643	V	12500	EuropeB	TV	TVR Craiova	TV	FTA	Yes		SD	MPEG-4	2200	2210[rum]	22	Tanea	21-Oct-19	1844	
+12643	V	12500	EuropeB	TV	TVR Iasi	TV	FTA	Yes		SD	MPEG-4	2300	2310[rum]	23	Tanea	21-Oct-19	1846	
+12643	V	12500	EuropeB	TV	TVR Timisoara	TV	FTA	Yes		SD	MPEG-4	2400	2410[rum]	24	Tanea	21-Oct-19	1848	
+12643	V	12500	EuropeB	TV	TVR Tirgu-Mures	TV	FTA	Yes		SD	MPEG-4	2500	2510[rum]	25	Tanea	21-Oct-19	1850	
+12654	H	11111	EuropeB	TV	Urine TV 1	TV	PowerVu	No		SD	MPEG-2	110	100[ita]|102[ita]	1	ade3661	26-Sep-16	1854	
+12654	H	11111	EuropeB	TV	Unrine TV2	TV	PowerVu	No		SD	MPEG-2	210	200[ita]	2	ade3661	26-Sep-16	1856	
+12654	H	11111	EuropeB	TV	Unire Blu	TV	PowerVu	No		SD	MPEG-2	310	300[ita]	10	ade3661	26-Sep-16	1858	
+12660	H	2220	EuropeB	TV	Snai Live	TV	BISS	No		SD	MPEG-4	512	4112[ita]	1	Tanea	7-Oct-17	1862	
+12660	H	2220	EuropeB	TV	Snai Tech HD	TV	BISS	No		HD	MPEG-4	513	4113[ita]	2	Tanea	7-Oct-17	1864	
+12688	V	2815	EuropeA	DATA	feed	F	FTA	Yes		SD	MPEG-2	0		0	Frocus	13-Aug-19	1868	
+12690	V	2815	EuropeA	DATA	feeds	F	FTA	Yes		SD	MPEG-2	0		0	Frocus	13-Aug-19	1872	
+12693	V	2816	EuropeA	DATA	feeds	F	FTA	Yes				0		0	Frocus	13-Aug-19	1876	
+12694	H	2300	EuropeB	TV	SNAI Sport Virtuali 1	TV	PowerVu	No		SD	MPEG-4	512	4112[ita]	1	Tanea	5-Jan-19	1880	
+12694	H	2300	EuropeB	TV	SNAI Quad Race	TV	PowerVu	No		SD	HEVC (H.265)	513	0[ita]	2	Tanea	5-Jan-19	1882	
+12701	H	9880	EuropeB	TV	SNAI Sat	TV	PowerVu	No		SD	MPEG-2	410	400[ita]	4	dm800	18-Jun-09	1886	
+12701	H	9880	EuropeB	TV	Virtuali 1	TV	PowerVu	No		SD	MPEG-2	510	502[ita]	5	Frocus	7-May-13	1888	
+12701	H	9880	EuropeB	TV	Virtuali 2	TV	PowerVu	No		SD	MPEG-2	710	700[ita]	7	Frocus	7-May-13	1890	
+12701	H	9880	EuropeB	DATA	Unire feeds	F	FTA	Yes				0		0	dreambox	18-Jun-09	1892	
+12717	H	7500	EuropeA	TV	National TV	TV	BISS	No		SD	MPEG-4	257	258[rum]	10	ade3661	21-Dec-17	1896	
+12717	H	7500	EuropeA	TV	Național 24 Plus	TV	BISS	No		SD	MPEG-4	513	514[rum]	22	ade3661	21-Dec-17	1898	
+12717	H	7500	EuropeA	TV	Favorit TV	TV	FTA	Yes		SD	MPEG-4	772	773[rum]	32	ade3661	21-Dec-17	1900	
+12717	H	7500	EuropeA	TV	Alpha Omega TV	TV	FTA	Yes		SD	MPEG-4	802	803[rum]	88	Frocus	30-Aug-18	1902	
+12726	V	30000	EuropeA	DATA	BNT Sat	TV	FTA	Yes	ITV Partner	SD	MPEG-2	0		0	Cycunio1996	19-Jul-18	1906	
+12726	V	30000	EuropeA	DATA	Diema	TV	FTA	Yes	Bulsatcom|ITV Partner	SD	MPEG-2	0		0	Cycunio1996	19-Jul-18	1908	
+12726	V	30000	EuropeA	DATA	BNT 1	TV	FTA	Yes	Bulsatcom|ITV Partner	SD	MPEG-2	0		0	Cycunio1996	20-Jul-18	1910	
+12726	V	30000	EuropeA	DATA	Kanal D Turkiye	TV	FTA	Yes	D-Smart|Bulsatcom|Kabel Deutschland|ITV Partner|Magticom|Mtel	SD	MPEG-2	0		0	Cycunio1996	20-Jul-18	1912	
+12726	V	30000	EuropeA	DATA	NTV Mir	TV	FTA	Yes	Bulsatcom|ITV Partner	SD	MPEG-2	0		0	Cycunio1996	20-Jul-18	1914	
+12726	V	30000	EuropeA	DATA	Mediaset Italia	TV	FTA	Yes	Bulsatcom|ITV Partner	SD	MPEG-2	0		0	Cycunio1996	20-Jul-18	1916	
+12726	V	30000	EuropeA	DATA	NHK World TV	TV	FTA	Yes	Bulsatcom|ITV Partner|DigitAlb	SD	MPEG-2	0		0	Cycunio1996	20-Jul-18	1918	
+12726	V	30000	EuropeA	DATA	ID Bulgaria	TV	FTA	Yes	ITV Partner	SD	MPEG-2	0		0	Cycunio1996	20-Jul-18	1920	
+12726	V	30000	EuropeA	DATA	TV Evropa	TV	FTA	Yes	Bulsatcom|ITV Partner	SD	MPEG-2	0		0	Cycunio1996	20-Jul-18	1922	
+12726	V	30000	EuropeA	DATA	BNT 2	TV	FTA	Yes	Bulsatcom|ITV Partner	SD	MPEG-2	0		0	Cycunio1996	20-Jul-18	1924	
+12726	V	30000	EuropeA	DATA	Eurosport 1 Bg	TV	FTA	Yes	Bulsatcom|ITV Partner	SD	MPEG-2	0		0	Cycunio1996	20-Jul-18	1926	
+12726	V	30000	EuropeA	DATA	TVR International	TV	FTA	Yes	Bulsatcom|ITV Partner	SD	MPEG-2	0		0	Cycunio1996	20-Jul-18	1928	
+12726	V	30000	EuropeA	DATA	feeds	F	FTA	Yes		SD	MPEG-2	0		0	Frocus	1-Jul-10	1930	
+12734	V	5632	EuropeA	DATA	feeds	F	FTA	Yes				0		0	Frocus	18-Apr-10	1934	
+12737	H	4500	EuropeB	TV	Realitatea TV	TV	FTA	Yes		SD	MPEG-2	101	102[rum]	100	Tanea	18-Apr-14	1938	
+12737	H	4500	EuropeB	TV	The Money Channel	TV	FTA	Yes		SD	MPEG-2	501	502[rum]	500	Tanea	18-Apr-14	1940	
+12737	H	4500	EuropeB	TV	Realitatea Plus	TV	FTA	Yes		SD	MPEG-2	901	902[rum]	900	Tanea	17-Jan-15	1942	
+21534	H	1123	EuropeC	TV	Vision 4 RCA	TV	FTA	Yes		SD	MPEG-4	258	257[fre]	0	Tanea	21-May-18	1946	
+21536	H	1100	EuropeC	TV	Emirem TV (Eglise Missionnaire du Réveil Mondial)	TV	FTA	Yes		SD	MPEG-4	257	36[fre]	2	Tanea	21-May-18	1950	
+21538	H	1054	EuropeC	TV	Vision 4	TV	FTA	Yes		SD	MPEG-4	547	800[fre]	1	Tanea	29-Apr-14	1954	
+21540	H	1071	EuropeA	TV	Equinoxe TV	TV	FTA	Yes		SD	MPEG-2	61	62[fre]	1	Tanea	7-Apr-13	1958	
+21542	H	1070	EuropeC	TV	Eden TV Benin	TV	FTA	Yes		SD	MPEG-4	513	4112[fre]	1	Tanea	21-May-18	1962	
+21543	H	1100	EuropeA	TV	TVC	TV	FTA	Yes		SD	MPEG-4	258	257[fre]	1	Tanea	29-Jul-16	1966	
+21545	H	2143	EuropeA	TV	Boom TV	TV	FTA	Yes		SD	MPEG-4	101	102[fre]	1	Tanea	7-Apr-13	1970	
+21545	H	2143	EuropeA	TV	STV	TV	FTA	Yes		SD	MPEG-4	201	202[fre]	2	Tanea	7-Apr-13	1972	
+21547	H	1237	EuropeA	IMG	Golfe TV HD	TV	FTA	Yes		SD	MPEG-4	513		1	Tanea	29-Jul-16	1976	
+21562	H	1010	EuropeA	TV	ImpactTV	TV	FTA	Yes		SD	MPEG-2	101	102[fre]	200	Tanea	7-Apr-13	1980	
+21571	H	2900	EuropeC	R	TFM Senegal	TV	FTA	Yes		SD	MPEG-4	0	0[fre]	0	Tanea	20-Oct-14	1984	
+21571	H	2900	EuropeC	TV	L´Obs TV	TV	FTA	Yes		SD	MPEG-4	811	831[fre]	3	Tanea	6-Mar-18	1986	
+21571	H	2900	EuropeC	TV	TFM Religions test	TV	FTA	Yes		SD	MPEG-4	911	931[fre]	4	Tanea	23-Jul-15	1988	
+21577	H	5000	EuropeC	R	Canal 2 International	TV	FTA	Yes		SD	MPEG-4	0	0[fre]	0	Tanea	19-Aug-14	1992	
+21577	H	5000	EuropeC	R	Canal 2 Musique	TV	FTA	Yes		SD	MPEG-4	0	0[fre]	0	Tanea	19-Aug-14	1994	
+21577	H	5000	EuropeC	R	Canal 2 Movies	TV	FTA	Yes		SD	MPEG-4	0	0[fre]	0	Tanea	19-Aug-14	1996	
+21577	H	5000	EuropeC	TV	Sweet Radio Vision	TV	FTA	Yes		SD	MPEG-4	97	98[fre]	2	Tanea	31-May-17	1998	
+21577	H	5000	EuropeC	TV	Nina TV	TV	FTA	Yes		SD	MPEG-4	128	144[fre]	5	Tanea	7-May-16	2000	
+21577	H	5000	EuropeC	TV	Canal 2 English	TV	FTA	Yes		SD	MPEG-4	140	146[eng]	7	Tanea	7-May-16	2002	
+21607	H	7706	EuropeA	TV	Hope TV (Benin)	TV	FTA	Yes		SD	MPEG-4	130	146[fre]	2	Tanea	15-Jan-20	2006	
+21607	H	7706	EuropeA	TV	Solution TV (Cameroon)	TV	FTA	Yes		SD	MPEG-4	97	98[fre]	3	Tanea	15-Jan-20	2008	
+21607	H	7706	EuropeA	TV	Liberty TV (Cameroon)	TV	FTA	Yes		SD	MPEG-4	256	257[fre]	4	Tanea	15-Jan-20	2010	
+21607	H	7706	EuropeA	TV	LTM TV	TV	FTA	Yes		SD	MPEG-4	132	148[fre]	5	Tanea	15-Jan-20	2012	
+21607	H	7706	EuropeA	TV	Miséricorde TV	TV	FTA	Yes		SD	MPEG-4	10	103[fre]	7	Tanea	15-Jan-20	2014	
+21607	H	7706	EuropeA	TV	Hausa 7 TV	TV	FTA	Yes		SD	MPEG-4	131	147[hau]	8	Tanea	15-Jan-20	2016	
+21607	H	7706	EuropeA	TV	Transformers TV	TV	FTA	Yes		SD	MPEG-4	90	91[fre]	9	Tanea	15-Jan-20	2018	
+21607	H	7706	EuropeA	TV	Revival Channel	TV	FTA	Yes		SD	MPEG-4	113	114[fre]	10	Tanea	15-Jan-20	2020	
+21607	H	7706	EuropeA	TV	Porte TV	TV	FTA	Yes		SD	MPEG-4	128	144[fre]	11	Tanea	15-Jan-20	2022	

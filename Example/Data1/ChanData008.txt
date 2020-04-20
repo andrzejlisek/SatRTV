@@ -1,0 +1,1215 @@
+Freq	Pol	SR	Beam	Type	Name	Country	Category	Packages	Encryption	SID	VPID	Audio	PMT	PCR	TXT	Last updated	FTA	Row
+10714.25	H	22000 2/3	Astra 1M	TV	Mainfranken HD	Niemcy	Regionalne	BMT	FTA	5900	2010	2012[ger]	201	2010		2019-07-02	Yes	35001001
+10714.25	H	22000 2/3	Astra 1M	TV	Franken Fernsehen	Niemcy	Ogólne	BMT	FTA	5901	2020	2022[ger]	202	2020		2018-08-12	Yes	35001003
+10714.25	H	22000 2/3	Astra 1M	TV	TVA-OTV	Niemcy	Regionalne	BMT	FTA	5902	2030	2032[ger]	203	2030		2018-08-12	Yes	35001005
+10714.25	H	22000 2/3	Astra 1M	TV	TV Oberfranken	Niemcy	Regionalne	BMT	FTA	5903	2040	2041[ger]	204	2040		2018-08-12	Yes	35001007
+10714.25	H	22000 2/3	Astra 1M	TV	Niederbayern TV	Niemcy	Regionalne	BMT	FTA	5904	2050	2052[ger]	205	2050		2019-07-02	Yes	35001009
+10714.25	H	22000 2/3	Astra 1M	TV	Oberpfalz TV HD	Niemcy	Regionalne	BMT	FTA	5905	2060	2062[ger]	206	2060		2018-08-12	Yes	35001011
+10729.00	V	22000 2/3	Astra 1KR	TV	Alquiler HD	Hiszpania	Pay per View	Movistar+	Nagravision 3	30804	164	104[esp]|105[qaa]	1028	164		2017-04-22	No	39001001
+10729.00	V	22000 2/3	Astra 1KR	TV	Movistar LaLiga 2 HD	Hiszpania	Sport	Movistar+	Nagravision 3	30805	165	110[esp]|111[vo]	1029	165		2019-09-01	No	39001003
+10729.00	V	22000 2/3	Astra 1KR	TV	AXN Spain HD	Hiszpania	Seriale	Movistar+	Nagravision 3	30806	160	80[esp]|81[vo]	1030	160		2017-04-22	No	39001005
+10729.00	V	22000 2/3	Astra 1KR	TV	Movistar Comedia HD	Hiszpania	Filmy	Movistar+	Nagravision 3	30807	161	86[esp]|87[qaa]	1031	161		2017-04-22	No	39001007
+10729.00	V	22000 2/3	Astra 1KR	TV	LaLiga TV Bar	Hiszpania	Sport	Movistar+	Nagravision 3	30809	162	92[esp]|93[qaa]|94|95	1033	162		2018-08-12	No	39001009
+10729.00	V	22000 2/3	Astra 1KR	TV	Alquiler 2 HD	Hiszpania	Pay per View	Movistar+	Nagravision 3	30814	167	122[esp]|123[qaa]	1038	167		2017-04-22	No	39001011
+10729.00	V	22000 2/3	Astra 1KR	TV	Movistar LaLiga 3 HD	Hiszpania	Sport	Movistar+	Nagravision 3	30815	168	128[esp]|129[vo]|130|131|148|149	1039	168		2019-09-01	No	39001013
+10729.00	V	22000 2/3	Astra 1KR	TV	Movistar Liga Campeones 1	Hiszpania	Sport	Movistar+	Nagravision 3	30817	170	140[esp]|141[vo]	1041	170		2018-08-12	No	39001015
+10729.00	V	22000 2/3	Astra 1KR	TV	La 1 HD	Hiszpania	Ogólne	Movistar+	Nagravision 3	30819	171	146[esp]|147[qaa]	1043	171		2017-04-22	No	39001017
+10729.00	V	22000 2/3	Astra 1KR	TV	Movistar Liga Campeones 2	Hiszpania	Sport	Movistar+	Nagravision 3	30820	172	150[esp]|151[vo]	1044	172		2018-08-12	No	39001019
+10743.75	H	22000 5/6	Astra 1M	TV	Tagesschau 24	Niemcy	Informacje	ARD Digital	FTA	28721	101	102[ger]	100	101	104	2016-01-17	Yes	43001001
+10743.75	H	22000 5/6	Astra 1M	TV	One	Niemcy	Ogólne	ARD Digital	FTA	28722	201	202[ger]|203[mis]|206[ger]	200	201	204	2016-09-03	Yes	43001003
+10743.75	H	22000 5/6	Astra 1M	TV	Arte (Germany)	Niemcy	Kultura	ARD Digital	FTA	28724	401	402[ger]|403[mis]|407[mul]|408[fra]	400	401	404	2016-01-17	Yes	43001005
+10743.75	H	22000 5/6	Astra 1M	TV	Phoenix	Niemcy	Informacje	ARD Digital	FTA	28725	501	502[ger]|503[mul]	500	501	504	2016-01-17	Yes	43001007
+10743.75	H	22000 5/6	Astra 1M	TV	Test-R			ARD Digital	FTA	28726	501	502[ger]	600	501		2016-01-17	Yes	43001009
+10758.50	V	22000 5/6	Astra 1M	TV	Divinity	Hiszpania	Lifestyle	Movistar+	Mediaguard 2|Nagravision 3	29850	160	80[esp]|81[vo]	1024	160	32	2012-05-17	No	47001001
+10758.50	V	22000 5/6	Astra 1M	TV	Fox News	Stany Zjednoczone	Informacje	Movistar+	Mediaguard 2|Nagravision 3	29851	161	84[eng]	1025	161		2016-11-11	No	47001003
+10758.50	V	22000 5/6	Astra 1M	TV	Baby TV	Wielka Brytania	Dzieci	Movistar+	Mediaguard 2|Nagravision 3	29852	162	88[esp]|89[vo]	1026	162		2012-05-17	No	47001005
+10758.50	V	22000 5/6	Astra 1M	TV	TEST M			Movistar+	Mediaguard 2|Nagravision 3	29853	163	92[esp]|93[vo]	1027	163	41	2020-04-02	No	47001007
+10758.50	V	22000 5/6	Astra 1M	TV	Boing Spain	Hiszpania	Dzieci	Movistar+	Mediaguard 2|Nagravision 3	29854	164	96[esp]|97[vo]	1028	164	44	2012-05-17	No	47001009
+10758.50	V	22000 5/6	Astra 1M	TV	Energy	Hiszpania	Lifestyle	Movistar+	Mediaguard 2|Nagravision 3	29855	165	100[esp]|101[vo]	1029	165	47	2012-05-17	No	47001011
+10758.50	V	22000 5/6	Astra 1M	TV	Barça TV	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	29856	167	108[cat]|109[esp]	1030	167		2012-05-17	No	47001013
+10758.50	V	22000 5/6	Astra 1M	TV	Eurosport 1	Francja	Sport	Movistar+	Mediaguard 2|Nagravision 3	29857	168	112[esp]|113[eng]	1031	168		2016-01-23	No	47001015
+10758.50	V	22000 5/6	Astra 1M	TV	MTV Spain	Wielka Brytania	Muzyka	Movistar+	Mediaguard 2|Nagravision 3	29858	170	120[esp]|121[eng]	1032	170	62	2015-05-27	No	47001017
+10758.50	V	22000 5/6	Astra 1M	TV	Gol	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	29859	169	116[esp]|117[vo]	1033	169		2018-08-12	No	47001019
+10758.50	V	22000 5/6	Astra 1M	TV	Movistar Formula1	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	29860	166	104[esp]|105[vo]	1034	166		2016-08-24	No	47001021
+10773.25	H	22000 3/4	Astra 1KR	TV	Anixe HD	Niemcy	Ogólne	BetaDigital	FTA	21100	255	259[ger]	96	255		2016-01-17	Yes	51001003
+10773.25	H	22000 3/4	Astra 1KR	TV	QVC HD Germany	Niemcy	Telezakupy	BetaDigital	FTA	21103	1023	1027[ger]	99	1023	35	2016-01-17	Yes	51001005
+10773.25	H	22000 3/4	Astra 1KR	TV	HSE24 HD	Niemcy	Telezakupy	BetaDigital	FTA	21104	1279	1283[ger]	100	1279	36	2016-01-17	Yes	51001007
+10773.25	H	22000 3/4	Astra 1KR	TV	Comedy Central HD			HD +|MTV Networks|Sky Deutschland	DVB Scrambling|Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	21107	511	515[ger]|516[ger]	97	511		2019-03-04	No	51001009
+10773.25	H	22000 3/4	Astra 1KR	TV	Welt HD	Niemcy	Informacje	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	21108	767	771[ger]	98	767	34	2018-01-18	No	51001011
+10773.25	H	22000 3/4	Astra 1KR	TV	Sophia TV	Niemcy	Różne	BetaDigital	FTA	21112	3071	3072[ger]	107	3071		2016-01-17	Yes	51001013
+10773.25	H	22000 3/4	Astra 1KR	TV	Genius Plus TV	Niemcy	Różne	BetaDigital	FTA	21113	3327	3328[ger]	108	3327		2016-01-17	Yes	51001015
+10773.25	H	22000 3/4	Astra 1KR	TV	Comedy Central HD Austria	Austria	Komedia	MTV Networks|Sky Deutschland	Irdeto 2|Viaccess 5.0|VideoGuard	21117	511	515[ger]|516[ger]	113	511		2019-03-02	No	51001017
+10773.25	H	22000 3/4	Astra 1KR	TV	WELT HD			Sky Deutschland	Irdeto 2|Viaccess 5.0|VideoGuard	21118	767	771[ger]	114	767	34	2018-01-21	No	51001019
+10788.00	V	22000 5/6	Astra 1M	TV	Alquiler 1	Hiszpania	Pay per View	Movistar+	FTA|Mediaguard 2|Nagravision 3	30350	168	112[esp]|113[eng]	1024	168	56	2020-04-03	Yes	55001001
+10788.00	V	22000 5/6	Astra 1M	TV	Alquiler 2	Hiszpania	Pay per View	Movistar+	FTA|Mediaguard 2|Nagravision 3	30351	170	120[esp]|121[eng]	1025	170	62	2020-04-04	Yes	55001003
+10788.00	V	22000 5/6	Astra 1M	TV	Multideporte	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30354	172	82[esp]|83[ch2]|128[ch3]|129[ch4]|130[ch5]|131[ch6]|133[ch7]|134[ch8]|137[ch9]|138[ch1]	1029	172		2016-01-17	No	55001005
+10788.00	V	22000 5/6	Astra 1M	TV	Multideporte	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30355	173	132[esp]|144[vo]	1035	173		2019-01-22	No	55001007
+10788.00	V	22000 5/6	Astra 1M	TV	Alquiler XY	Hiszpania	Porno	Movistar+	FTA|Mediaguard 2|Nagravision 3	30357	160	80[esp]|81[vo]	1031	160		2016-10-04	Yes	55001009
+10788.00	V	22000 5/6	Astra 1M	TV	Movistar Series	Hiszpania	Seriale	Movistar+	Mediaguard 2|Nagravision 3	30358	161	84[esp]|85[vo]	1032	161	35	2016-10-02	No	55001011
+10788.00	V	22000 5/6	Astra 1M	TV	Nick Junior Spain	Hiszpania	Dzieci	Movistar+	Mediaguard 2|Nagravision 3	30359	176	98[esp]|99[vo]	1034	176		2016-10-28	No	55001013
+10788.00	V	22000 5/6	Astra 1M	TV	Mezzo	Francja	Muzyka	Movistar+	Mediaguard 2|Nagravision 3	30361	163	92[fra]	1033	163		2016-01-17	No	55001015
+10788.00	V	22000 5/6	Astra 1M	TV	LaLiga TV Bar 2	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30362	4055	4056[esp]|4057[vo]	1042	4055		2019-09-01	No	55001017
+10788.00	V	22000 5/6	Astra 1M	TV	Movistar LaLiga 4	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30363	164	96[esp]|97[vo]	1028	164		2019-09-01	No	55001019
+10788.00	V	22000 5/6	Astra 1M	TV	Movistar LaLiga 3	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30364	169	116[esp]|117[vo]|118[tre]|119|148|149	1037	169		2019-09-01	No	55001021
+10788.00	V	22000 5/6	Astra 1M	TV	M.LCAMPEON4			Movistar+	Mediaguard 2|Nagravision 3	30365	166	105[vo]|104[esp]	1039	166		2018-09-19	No	55001023
+10788.00	V	22000 5/6	Astra 1M	TV	M. DEPORTES6			Movistar+	Mediaguard 2|Nagravision 3	30366	4000	4001[esp]|4002[ch2]	1040	4000		2018-09-19	No	55001025
+10788.00	V	22000 5/6	Astra 1M	TV	M.LCAMPEON2			Movistar+	Mediaguard 2|Nagravision 3	30367	167	108[esp]|109[vo]	1027	167		2018-09-19	No	55001027
+10788.00	V	22000 5/6	Astra 1M	TV	MULTIDEPORTE			Movistar+	Mediaguard 2|Nagravision 3	30371	172	82[esp]|83[ch2]|128[ch3]|129[ch4]|130[ch5]|131[ch6]|133[ch7]|134[ch8]|137[ch9]|138[ch1]	1045	172		2016-01-17	No	55001029
+10788.00	V	22000 5/6	Astra 1M	TV	Canal Orbe 21	Hiszpania	Ogólne	Movistar+	Mediaguard 2|Nagravision 3	30372	162	88[esp]	1046	162		2016-01-17	No	55001031
+10788.00	V	22000 5/6	Astra 1M	TV	Sundance TV	Holandia	Rozrywka	Movistar+	Mediaguard 2|Nagravision 3	30373	174	136[esp]|145[qaa]	1047	174	65	2018-08-20	No	55001033
+10802.75	H	22000 3/4	Astra 1KR	TV	Disney Channel HD Germany	Niemcy	Dzieci	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	5500	255	259[ger]	96	255	32	2018-03-25	No	59001001
+10802.75	H	22000 3/4	Astra 1KR	TV	HSE24 Extra HD	Niemcy	Telezakupy	BetaDigital	FTA	5501	511	515[ger]	97	511	33	2016-01-17	Yes	59001003
+10802.75	H	22000 3/4	Astra 1KR	TV	1-2-3.tv HD	Niemcy	Telezakupy	BetaDigital	FTA	5502	767	771[ger]	98	767	34	2016-01-17	Yes	59001005
+10802.75	H	22000 3/4	Astra 1KR	TV	Deluxe Music HD	Niemcy	Muzyka	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	5503	1023	1027[ger]	99	1023		2019-01-12	No	59001007
+10802.75	H	22000 3/4	Astra 1KR	TV	QVC 2 HD	Niemcy	Telezakupy	BetaDigital	FTA	5504	1279	1283[ger]	100	1279	36	2020-01-18	Yes	59001009
+10802.75	H	22000 3/4	Astra 1KR	TV	Sport 1 HD (Germany)	Niemcy	Sport	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	5505	1535	1539[ger]	101	1535	37	2018-03-25	No	59001011
+10802.75	H	22000 3/4	Astra 1KR	TV	Disney Channel HD Austria	Austria	Dzieci	Sky Deutschland	Irdeto 2|Viaccess 5.0|VideoGuard	5510	255	259[ger]	112	255	32	2016-01-17	No	59001013
+10802.75	H	22000 3/4	Astra 1KR	TV	Deluxe Music HD Austria	Austria	Biznes	Sky Deutschland	Irdeto 2|Viaccess 5.0|VideoGuard	5513	1023	1027[ger]	115	1023		2018-05-19	No	59001015
+10817.50	V	22000 2/3	Astra 1M	TV	Movistar LaLiga 1 HD	Hiszpania	Sport	Movistar+	Nagravision 3	29951	161	86[esp]|87[vo]|88|89	1025	161		2019-08-15	No	63001001
+10817.50	V	22000 2/3	Astra 1M	TV	Fox HD Spain & Portugal	Hiszpania	Rozrywka	Movistar+	Nagravision 3	29956	160	80[esp]|81[vo]	1030	160	32	2016-09-26	No	63001003
+10817.50	V	22000 2/3	Astra 1M	TV	Movistar Accion HD	Hiszpania	Filmy	Movistar+	Nagravision 3	29961	162	92[esp]|93[qaa]	1032	162	43	2020-02-19	No	63001005
+10817.50	V	22000 2/3	Astra 1M	TV	Movistar Drama HD	Hiszpania	Filmy	Movistar+	Nagravision 3	29963	164	106[esp]|107[qaa]	1034	164		2018-10-11	No	63001007
+10817.50	V	22000 2/3	Astra 1M	TV	Canal Hollywood HD	Hiszpania	Filmy	Movistar+	Nagravision 3	29964	165	110[esp]|111[eng]	1035	165	48	2016-01-17	No	63001009
+10817.50	V	22000 2/3	Astra 1M	TV	Movistar LaLiga HD	Hiszpania	Sport	Movistar+	Nagravision 3	29967	167	120[esp]|121[vo]|122|123|124|125	1038	167		2019-08-15	No	63001011
+10832.25	H	22000 2/3	Astra 1KR	TV	RTL HD	Niemcy	Ogólne	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	61200	255	259[ger]	96	255	32	2018-03-25	No	67001001
+10832.25	H	22000 2/3	Astra 1KR	TV	Vox HD	Niemcy	Ogólne	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	61201	511	515[ger]	97	511	33	2018-03-25	No	67001003
+10832.25	H	22000 2/3	Astra 1KR	TV	n-tv HD	Niemcy	Informacje	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	61204	1279	1283[ger]|1284[mul]	100	1279	36	2018-08-12	No	67001005
+10832.25	H	22000 2/3	Astra 1KR	TV	RTL 2 HD	Niemcy	Rozrywka	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	61205	1535	1539[ger]	101	1535	37	2018-03-25	No	67001007
+10847.00	V	22000 5/6	Astra 1M	TV	RADIOS			DIGITAL+	FTA	30102	163	400[vo]|262|257|260|256|258|259|261|267|266	1076	163		2016-01-17	Yes	71001003
+10847.00	V	22000 5/6	Astra 1M	TV	PORTADA			DIGITAL+	FTA	30108	171	124[esp]	1083	171		2016-01-17	Yes	71001005
+10847.00	V	22000 5/6	Astra 1M	TV	Bajo Demanda	Hiszpania	Prezentacje	Movistar+	FTA	30110	163	400[esp]|254[vo]	1035	163		2018-02-12	Yes	71001007
+10847.00	V	22000 5/6	Astra 1M	TV				Movistar+	FTA	30118	163	400[esp]|254[vo]	1093	163		2017-07-30	Yes	71001009
+10847.00	V	22000 5/6	Astra 1M	TV	GUÍA			Movistar+	FTA	30121	163	254|400[esp]	1096	163		2016-01-17	Yes	71001011
+10847.00	V	22000 5/6	Astra 1M	TV				Digital +	FTA	30122	163	254|400[esp]	1097	163		2016-01-17	Yes	71001013
+10847.00	V	22000 5/6	Astra 1M	TV				Movistar+	FTA	30123	163	254|400[esp]	1098	163		2016-01-17	Yes	71001015
+10847.00	V	22000 5/6	Astra 1M	TV				Digital+	FTA	30127	163	254|400[esp]	1026	163		2016-01-17	Yes	71001017
+10847.00	V	22000 5/6	Astra 1M	TV	ALQUILER			Movistar+	FTA	30128	163	400[esp]|254[vo]	1099	8191		2016-10-01	Yes	71001019
+10847.00	V	22000 5/6	Astra 1M	TV	ALQUILER			Digital+	FTA	30130	163	400[esp]|254[vo]	1038	163		2016-10-01	Yes	71001021
+10847.00	V	22000 5/6	Astra 1M	TV	PORTADA			Movistar+	FTA	30150	171	124[esp]	1024	171		2016-01-17	Yes	71001023
+10847.00	V	22000 5/6	Astra 1M	TV				Movistar+	FTA	30151	163	254|400[esp]	1025	163		2016-01-17	Yes	71001025
+10847.00	V	22000 5/6	Astra 1M	TV				Movistar+	FTA	30154	163	254|400[esp]	1028	163		2016-01-17	Yes	71001027
+10847.00	V	22000 5/6	Astra 1M	TV				Digital +	FTA	30159	163	400[esp]|254[vo]	1033	163		2016-12-25	Yes	71001029
+10847.00	V	22000 5/6	Astra 1M	TV	CONTRATO			DIGITAL+	FTA	30169	163	400[esp]|254[vo]	1043	163		2016-01-17	Yes	71001031
+10847.00	V	22000 5/6	Astra 1M	IMG	TEST_CSD1			Movistar+	FTA	30174	163		1048	163		2016-01-17	Yes	71001033
+10847.00	V	22000 5/6	Astra 1M	TV	TEST_CSD2			Movistar+	FTA	30175	163	400[esp]	1049	163		2016-01-17	Yes	71001035
+10847.00	V	22000 5/6	Astra 1M	IMG	TEST_CSD3			Movistar+	FTA	30176	163		1050	163		2016-01-17	Yes	71001037
+10847.00	V	22000 5/6	Astra 1M	TV	TEST_CSD4			Movistar+	FTA	30177	163	254|400[esp]	1051	163		2016-01-17	Yes	71001039
+10847.00	V	22000 5/6	Astra 1M	TV	TEST_CSD5			Movistar+	FTA	30178	161	84[esp]	1052	161		2016-01-17	Yes	71001041
+10847.00	V	22000 5/6	Astra 1M	TV				DIGITAL+	FTA	30179	163	400[esp]|254[vo]	1053	163		2016-12-25	Yes	71001043
+10847.00	V	22000 5/6	Astra 1M	TV				Digital +	FTA	30190	163	254|400[esp]	1064	163		2016-01-17	Yes	71001045
+10847.00	V	22000 5/6	Astra 1M	TV				Movistar+	FTA	30191	163	254[esp]|400[esp]	1065	163		2016-01-17	Yes	71001047
+10847.00	V	22000 5/6	Astra 1M	TV				DIGITAL+	FTA	30193	163	254[esp]|400[esp]	1067	163		2016-01-17	Yes	71001049
+10847.00	V	22000 5/6	Astra 1M	TV				DIGITAL+	FTA	30194	163	254[esp]|400[esp]	1068	163		2016-01-17	Yes	71001051
+10847.00	V	22000 5/6	Astra 1M	TV				Contactanos	FTA	30195	163	254[esp]|400[esp]	1069	163		2016-01-17	Yes	71001053
+10847.00	V	22000 5/6	Astra 1M	TV					FTA	30196	163	254|400[esp]	1070	163		2016-01-17	Yes	71001055
+10847.00	V	22000 5/6	Astra 1M	TV				DIGITAL +	FTA	30197	163	254|400[esp]	1071	163		2016-01-17	Yes	71001057
+10847.00	V	22000 5/6	Astra 1M	TV	GUÍA FÁCIL			PRISA TV	FTA	30198	163	400[esp]|254[vo]	1072	163		2016-01-17	Yes	71001059
+10847.00	V	22000 5/6	Astra 1M	R	RADIOS ESP			DIGITAL+	FTA	30104		400[esp]|262|257|260|256|258|259|261|268|269|263|267|265|266|264	1078	8191		2016-12-25	Yes	71001061
+10847.00	V	22000 5/6	Astra 1M	R					FTA	30105		262	1080	256		2016-01-17	Yes	71001063
+10847.00	V	22000 5/6	Astra 1M	DATA	TEST TÉCNICO			Movistar+	FTA	30173			1047	8191		2016-01-17	Yes	71001065
+10876.50	V	22000 5/6	Astra 1M	TV	Movistar Golf	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30601	166	104[esp]|105[eng]	1025	166		2016-10-02	No	79001001
+10876.50	V	22000 5/6	Astra 1M	TV	Odisea	Hiszpania	Dokumenty	Movistar+	Mediaguard 2|Nagravision 3	30602	167	108[esp]|109[por]	1026	167		2016-01-24	No	79001003
+10876.50	V	22000 5/6	Astra 1M	TV	Playboy TV	Wielka Brytania	Erotyka	Movistar+	Mediaguard 2|Nagravision 3	30603	173	132[esp]	1027	173		2016-01-24	No	79001005
+10876.50	V	22000 5/6	Astra 1M	TV	National Geographic Spain	Hiszpania	Dokumenty	Movistar+	Mediaguard 2|Nagravision 3	30605	170	120[esp]|121[vo]	1029	170	62	2017-05-25	No	79001007
+10876.50	V	22000 5/6	Astra 1M	TV	#Vamos Bar	Hiszpania	Różne	Movistar+	Mediaguard 2|Nagravision 3	30606	161	84[esp]|85[vo]	1030	161		2019-08-08	No	79001009
+10876.50	V	22000 5/6	Astra 1M	TV	Movistar Deportes 1	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30607	172	128[esp]|129	1031	172		2018-09-19	No	79001011
+10876.50	V	22000 5/6	Astra 1M	TV	Calle 13	Hiszpania	Seriale	Movistar+	Mediaguard 2|Nagravision 3	30608	163	92[esp]|93	1034	163	41	2016-01-24	No	79001013
+10876.50	V	22000 5/6	Astra 1M	TV	LaLiga TV Bar	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30611	160	80[esp]|81[vo]	1035	160		2018-08-12	No	79001015
+10876.50	V	22000 5/6	Astra 1M	TV	Decasa TV	Hiszpania	Lifestyle	Movistar+	Mediaguard 2|Nagravision 3	30613	164	96[esp]|97[vo]	1040	164		2016-01-24	No	79001017
+10876.50	V	22000 5/6	Astra 1M	TV	SyFy Universal Spain	Hiszpania	Rozrywka	Movistar+	Mediaguard 2|Nagravision 3	30614	162	88[esp]|89[vo]	1039	162	38	2016-01-24	No	79001019
+10876.50	V	22000 5/6	Astra 1M	TV	Movistar LaLiga	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30615	169	116[esp]|117[vo]|118[tre]|119|126|127	1041	169		2019-08-15	No	79001021
+10891.25	H	22000 2/3	Astra 1M	TV	rbb Brandenburg HD	Niemcy	Regionalne	ARD Digital	FTA	10350	5311	5312[ger]|5313[mis]|5316[ger]	5300	5311	5314	2014-03-30	Yes	83001001
+10891.25	H	22000 2/3	Astra 1M	TV	rbb Berlin HD	Niemcy	Regionalne	ARD Digital	FTA	10351	5311	5312[ger]|5313[mis]|5316[ger]	5310	5311	5314	2014-03-30	Yes	83001003
+10891.25	H	22000 2/3	Astra 1M	TV	MDR Sachsen HD	Niemcy	Regionalne	ARD Digital	FTA	10352	5331	5332[ger]|5333[mis]|5336[ger]	5320	5331	5334	2014-03-30	Yes	83001005
+10891.25	H	22000 2/3	Astra 1M	TV	MDR S-Anhalt HD	Niemcy	Regionalne	ARD Digital	FTA	10353	5331	5332[ger]|5333[mis]|5336[ger]	5330	5331	5334	2014-03-30	Yes	83001007
+10891.25	H	22000 2/3	Astra 1M	TV	MDR Thüringen HD	Niemcy	Regionalne	ARD Digital	FTA	10354	5331	5332[ger]|5333[mis]|5336[ger]	5340	5331	5334	2014-03-30	Yes	83001009
+10891.25	H	22000 2/3	Astra 1M	TV	hr-fernsehen HD	Niemcy	Regionalne	ARD Digital	FTA	10355	5351	5352[ger]|5353[mis]|5356[ger]	5350	5351	5354	2014-03-30	Yes	83001011
+10906.00	V	22000 2/3	Astra 1KR	TV	Movistar F1 HD	Hiszpania	Sport	Movistar+	Nagravision 3	30001	160	80[esp]|81[qaa]	1024	160		2016-08-24	No	87001001
+10906.00	V	22000 2/3	Astra 1KR	TV	Movistar Deportes 1 HD	Hiszpania	Sport	Movistar+	Nagravision 3	30002	161	86[esp]|87[qaa]	1025	161		2019-07-15	No	87001003
+10906.00	V	22000 2/3	Astra 1KR	TV	AMC HD Spain	Hiszpania	Filmy	Movistar+	Nagravision 3	30003	162	92[esp]|93[qaa]	1026	162	42	2015-08-04	No	87001005
+10906.00	V	22000 2/3	Astra 1KR	TV	Antena 3 HD Spain	Hiszpania	Ogólne	Movistar+	Nagravision 3	30004	163	98[esp]|99[qaa]	1027	163		2015-07-08	No	87001007
+10906.00	V	22000 2/3	Astra 1KR	TV	Cuatro HD	Hiszpania	Ogólne	Movistar+	Nagravision 3	30005	164	104[esp]|105[qaa]	1028	164		2015-07-08	No	87001009
+10906.00	V	22000 2/3	Astra 1KR	TV	Telecinco HD	Hiszpania	Ogólne	Movistar+	Nagravision 3	30006	165	110[esp]|111[qaa]	1029	165		2015-07-08	No	87001011
+10906.00	V	22000 2/3	Astra 1KR	TV	La Sexta HD	Hiszpania	Ogólne	Movistar+	Nagravision 3	30007	166	116[esp]|117[qaa]	1030	166		2015-07-08	No	87001013
+10920.75	H	22000 7/8	Astra 1KR	TV	Genius Family	Niemcy	Telezakupy	BetaDigital	FTA	33	255	256[ger]	96	255		2019-04-03	Yes	91001003
+10920.75	H	22000 7/8	Astra 1KR	TV	Zee One	Niemcy	Rozrywka	BetaDigital	FTA	35	511	512[ger]	97	511		2016-06-28	Yes	91001005
+10920.75	H	22000 7/8	Astra 1KR	TV	Sky Sport News Germany	Niemcy	Sport	Sky Deutschland	FTA	37	767	768[ger]	98	767		2016-11-19	Yes	91001007
+10920.75	H	22000 7/8	Astra 1KR	TV	HGTV	Polska	Lifestyle	BetaDigital	FTA	38	1023	1024[ger]	99	1023		2019-04-16	Yes	91001009
+10920.75	H	22000 7/8	Astra 1KR	TV	Mediashop Life	Niemcy	Telezakupy	BetaDigital	FTA	39	1279	1280[ger]	100	1279		2020-02-05	Yes	91001011
+10935.50	V	22000 2/3	Astra 1M	TV	Nickelodeon HD Spain	Hiszpania	Dzieci	Movistar+	Nagravision 3	30752	162	92[esp]|93[qaa]	1026	162		2016-09-26	No	95001001
+10935.50	V	22000 2/3	Astra 1M	TV	Mezzo Live HD	Francja	Muzyka	Movistar+	Nagravision 3	30755	160	80[esp]	1036	160		2016-09-26	No	95001003
+10935.50	V	22000 2/3	Astra 1M	TV	Calle 13 HD	Hiszpania	Seriale	Movistar+	Nagravision 3	30756	166	116[esp]|117[vo]	1030	166	51	2016-09-26	No	95001005
+10935.50	V	22000 2/3	Astra 1M	TV	Eurosport 1 HD	Francja	Sport	Movistar+	Nagravision 3	30758	167	108[esp]|109[qaa]	1032	167		2016-02-02	No	95001007
+10935.50	V	22000 2/3	Astra 1M	TV	Movistar Deportes 1 HD	Hiszpania	Sport	Movistar+	Nagravision 3	30760	161	86[esp]|87[qaa]	1034	161		2018-09-19	No	95001009
+10935.50	V	22000 2/3	Astra 1M	TV	National Geographic Spain HD	Hiszpania	Dokumenty	Movistar+	Nagravision 3	30761	163	98[esp]|99[vo]	1035	163		2016-09-26	No	95001011
+10935.50	V	22000 2/3	Astra 1M	TV	Toros TV HD	Hiszpania	Sport	Movistar+	Nagravision 3	30765	165	110[esp]|111[qaa]	1040	165		2018-04-14	No	95001013
+10964.25	H	22000 2/3	Astra 1L	TV	TLC HD	Wielka Brytania	Dokumenty	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	10100	255	259[ger]	96	255	32	2018-03-25	No	99001001
+10964.25	H	22000 2/3	Astra 1L	TV	Zee One HD	Niemcy	Rozrywka	BetaDigital	FTA	10101	511	515[ger]	97	511		2016-06-28	Yes	99001003
+10964.25	H	22000 2/3	Astra 1L	TV	Handystar TV HD	Niemcy	Telezakupy	BetaDigital	FTA	10102	767	771[ger]	98	767		2019-06-07	Yes	99001005
+10964.25	H	22000 2/3	Astra 1L	TV	MTV HD Germany	Niemcy	Muzyka	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	10103	1023	1027[ger]	99	1023		2018-03-25	No	99001007
+10964.25	H	22000 2/3	Astra 1L	TV	Channel 21 HD	Niemcy	Telezakupy	BetaDigital	FTA	10104	1279	1283[ger]	100	1279		2016-01-31	Yes	99001009
+10964.25	H	22000 2/3	Astra 1L	TV	QVC Style HD	Niemcy	Telezakupy	BetaDigital	FTA	10105	1535	1539[ger]	101	1535	37	2018-02-08	Yes	99001011
+10964.25	H	22000 2/3	Astra 1L	TV	TLC HD Austria			Sky Deutschland	Irdeto 2|Viaccess 5.0|VideoGuard	10110	255	259[ger]	112	255	32	2018-06-22	No	99001013
+10964.25	H	22000 2/3	Astra 1L	TV	MTV HD Austria	Austria	Muzyka	Sky Deutschland	Irdeto 2|Viaccess 5.0|VideoGuard	10113	1023	1027[ger]	115	1023		2015-10-14	No	99001015
+10979.00	V	22000 5/6	Astra 1L	TV	Factoria de Ficcion	Hiszpania	Seriale	Movistar+	Mediaguard 2|Nagravision 3	30652	171	124[esp]|125[vo]	1024	171		2014-03-30	No	103001001
+10979.00	V	22000 5/6	Astra 1L	TV	Clan TVE	Hiszpania	Dzieci	Movistar+	Mediaguard 2|Nagravision 3	30654	160	80[esp]|81[vo]	1027	160		2014-03-30	No	103001003
+10979.00	V	22000 5/6	Astra 1L	TV	La Sexta	Hiszpania	Ogólne	Movistar+	Mediaguard 2|Nagravision 3	30655	162	88[esp]	1036	162	38	2014-03-30	No	103001005
+10979.00	V	22000 5/6	Astra 1L	TV	La 1	Hiszpania	Ogólne	Movistar+	Mediaguard 2|Nagravision 3	30656	170	120[esp]|121[vo]	1026	170	62	2019-01-23	No	103001007
+10979.00	V	22000 5/6	Astra 1L	TV	Canal Hollywood	Hiszpania	Filmy	Movistar+	Mediaguard 2|Nagravision 3	30657	166	104[esp]|105[vo]	1032	166	50	2014-03-30	No	103001009
+10979.00	V	22000 5/6	Astra 1L	TV	La 2	Hiszpania	Ogólne	Movistar+	Mediaguard 2|Nagravision 3	30658	167	108[esp]|109[por]	1033	167	53	2019-01-23	No	103001011
+10979.00	V	22000 5/6	Astra 1L	TV	Telecinco	Hiszpania	Ogólne	Movistar+	Mediaguard 2|Nagravision 3	30659	165	100[esp]	1039	165		2014-03-30	No	103001013
+10979.00	V	22000 5/6	Astra 1L	TV	Movistar Cine Doc & Roll	Hiszpania	Filmy	Movistar+	Mediaguard 2|Nagravision 3	30662	164	96[esp]|97[vo]	1042	164	44	2018-08-30	No	103001015
+10979.00	V	22000 5/6	Astra 1L	TV	Cuatro	Hiszpania	Ogólne	Movistar+	Mediaguard 2|Nagravision 3	30663	173	132[esp]|133[vo]	1029	173	71	2014-03-30	No	103001017
+10979.00	V	22000 5/6	Astra 1L	TV	TNT (Spain)	Hiszpania	Rozrywka	Movistar+	Mediaguard 2|Nagravision 3	30665	163	92[esp]|93[vo]	1040	163	41	2014-03-30	No	103001019
+10979.00	V	22000 5/6	Astra 1L	TV	NatGeo Wild Spain	Hiszpania	Dokumenty	Movistar+	Mediaguard 2|Nagravision 3	30680	168	112[esp]|113[eng]	1035	168		2014-03-30	No	103001021
+10979.00	V	22000 5/6	Astra 1L	DATA					FTA	30667			1037	8191		2015-09-08	Yes	103001023
+10993.75	H	22000 5/6	Astra 1L	TV	SES UHD Demo	Luksemburg	Prezentacje	SES	FTA	1	511	512[ger]	97	511		2018-05-20	Yes	107001001
+10993.75	H	22000 5/6	Astra 1L	TV	UHD1 by ASTRA / HD+	Niemcy	Prezentacje	HD +	FTA|Nagravision 3	2	101	102[ger]	96	101		2016-08-15	Yes	107001003
+11038.00	V	22000 5/6	Astra 1L	TV	Movistar Estrenos	Hiszpania	Filmy	Movistar+	Mediaguard 2|Nagravision 3	30400	160	80[esp]|81[vo]	1024	160	32	2016-09-26	No	119001001
+11038.00	V	22000 5/6	Astra 1L	TV	Disney Channel Spain	Hiszpania	Dzieci	Movistar+	Mediaguard 2|Nagravision 3	30403	163	92[esp]|93[eng]	1027	163	41	2015-09-06	No	119001003
+11038.00	V	22000 5/6	Astra 1L	TV				Movistar+	FTA	30404	164	96[esp]|97[qaa]	1028	164		2019-10-23	Yes	119001005
+11038.00	V	22000 5/6	Astra 1L	TV	LaLiga TV Bar 1	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30405	165	100[esp]|101[vo]	1029	165		2019-08-23	No	119001007
+11038.00	V	22000 5/6	Astra 1L	TV	TCM Spain	Hiszpania	Filmy	Movistar+	Mediaguard 2|Nagravision 3	30407	167	108[esp]|109[eng]	1031	167	53	2016-10-06	No	119001009
+11038.00	V	22000 5/6	Astra 1L	TV	Comedy Central Spain	Hiszpania	Komedia	Movistar+	Mediaguard 2|Nagravision 3	30408	171	124[esp]|125[vo]	1032	171	65	2015-09-06	No	119001011
+11038.00	V	22000 5/6	Astra 1L	TV	Viajar	Hiszpania	Podróże	Movistar+	Mediaguard 2|Nagravision 3	30409	162	88[esp]|89[vo]	1034	162		2015-09-06	No	119001013
+11038.00	V	22000 5/6	Astra 1L	TV	Movistar Seriesmania	Hiszpania	Seriale	Movistar+	Mediaguard 2|Nagravision 3	30410	168	112[esp]|113[vo]	1033	168	56	2018-08-30	No	119001015
+11038.00	V	22000 5/6	Astra 1L	TV	Teledeporte	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30412	170	120[esp]	1035	170	62	2019-01-23	No	119001017
+11038.00	V	22000 5/6	Astra 1L	TV	Canal Cocina	Hiszpania	Gotowanie	Movistar+	Mediaguard 2|Nagravision 3	30414	169	116[esp]|117[vo]	1026	169		2015-09-06	No	119001019
+11038.00	V	22000 5/6	Astra 1L	TV	AMC Spain	Hiszpania	Filmy	Movistar+	Mediaguard 2|Nagravision 3	30415	161	84[esp]|85[qaa]	1036	161	35	2015-09-06	No	119001021
+11038.00	V	22000 5/6	Astra 1L	DATA					FTA	30406			1030	8191		2015-09-08	Yes	119001023
+11052.75	H	22000 2/3	Astra 1L	TV	Tagesschau 24 HD	Niemcy	Informacje	ARD Digital	FTA	10375	5401	5402[ger]|5406[ger]	5400	5401	5404	2013-12-04	Yes	123001001
+11052.75	H	22000 2/3	Astra 1L	TV	One HD	Niemcy	Ogólne	ARD Digital	FTA	10376	5411	5412[ger]|5413[mis]|5416[ger]	5410	5411	5414	2016-09-03	Yes	123001003
+11052.75	H	22000 2/3	Astra 1L	TV	ARD-alpha HD	Niemcy	Ogólne	ARD Digital	FTA	10377	5421	5422[ger]|5423[mis]|5426[ger]	5420	5421	5424	2019-01-07	Yes	123001005
+11052.75	H	22000 2/3	Astra 1L	TV	SR Fernsehen HD	Niemcy	Regionalne	ARD Digital	FTA	10378	5431	5432[ger]|5433[mis]|5436[ger]	5430	5431	5434	2016-02-16	Yes	123001007
+11052.75	H	22000 2/3	Astra 1L	TV	Radio Bremen HD	Niemcy	Rozrywka	ARD Digital	FTA	10379	5441	5442[ger]|5443[mis]	5440	5441	5444	2019-01-07	Yes	123001009
+11067.50	V	22000 5/6	Astra 1L	TV	RT Español	Rosja	Informacje	GLOBECAST	FTA	1150	1450	1550[esp]	1250	1450		2019-07-15	Yes	127001001
+11067.50	V	22000 5/6	Astra 1L	TV	TV Record	Brazylia	Ogólne	TSA	FTA	31301	33	32[por]	34	33		2015-06-10	Yes	127001003
+11067.50	V	22000 5/6	Astra 1L	TV	Telesur	Wenezuela	Ogólne	TSA	FTA	31304	2101	2102[esp]	35	2101		2012-11-20	Yes	127001005
+11067.50	V	22000 5/6	Astra 1L	TV	I24 News Français	Izrael	Informacje	TSA	FTA	31307	1081	1082[fra]	1824	1081		2017-12-15	Yes	127001007
+11082.25	H	22000 3/4	Pan Europe	TV	RTL HD Österreich	Austria	Ogólne	Austriasat	Irdeto 2|Viaccess 5.0|VideoGuard	11911	100	110[ger]	51	100	120	2015-11-27	No	131001003
+11082.25	H	22000 3/4	Pan Europe	TV	VOX HD Österreich	Austria	Ogólne	Austriasat	Irdeto 2|Viaccess 5.0|VideoGuard	11921	200	210[ger]	52	200	220	2015-11-27	No	131001005
+11082.25	H	22000 3/4	Pan Europe	TV	Super RTL HD	Niemcy	Rozrywka	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	11931	300	310[ger]	53	300	320	2018-03-25	No	131001007
+11082.25	H	22000 3/4	Pan Europe	TV	RTL 2 HD Österreich	Austria	Ogólne	Austriasat	Irdeto 2|Viaccess 5.0|VideoGuard	11941	400	410[ger]	54	400	420	2015-11-27	No	131001009
+11082.25	H	22000 3/4	Pan Europe	TV	RTL Nitro HD	Niemcy	Rozrywka	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	11951	500	510[ger]	55	500	520	2018-03-25	No	131001011
+11097.00	V	22000 5/6	Astra 1L	TV	Multi-X	Hiszpania	Porno	Movistar+	FTA|Mediaguard 2|Nagravision 3	30050	167	108[mx1]|109[mx2]|110[mx3]	1024	167		2015-11-29	Yes	135001001
+11097.00	V	22000 5/6	Astra 1L	TV	Multi-X	Hiszpania	Porno	Movistar+	FTA|Mediaguard 2|Nagravision 3	30051	174	136[esp]|137[vo]	1039	174		2018-08-12	Yes	135001003
+11097.00	V	22000 5/6	Astra 1L	TV	Alquiler 5	Hiszpania	Pay per View	Movistar+	FTA|Mediaguard 2|Nagravision 3	30053	160	80[esp]|81[eng]	1027	160	32	2020-04-08	Yes	135001005
+11097.00	V	22000 5/6	Astra 1L	TV	Alquiler 6	Hiszpania	Pay per View	Movistar+	FTA|Mediaguard 2|Nagravision 3	30054	171	124[esp]	1028	171		2020-03-28	Yes	135001007
+11097.00	V	22000 5/6	Astra 1L	TV	Alquiler 3	Hiszpania	Pay per View	Movistar+	FTA|Mediaguard 2|Nagravision 3	30055	168	112[esp]|113[eng]	1029	168	56	2020-03-27	Yes	135001009
+11097.00	V	22000 5/6	Astra 1L	TV	Alquiler X	Hiszpania	Porno	Movistar+	FTA|Mediaguard 2|Nagravision 3	30056	163	92[esp]|93[vo]	1030	163		2016-10-01	Yes	135001011
+11097.00	V	22000 5/6	Astra 1L	TV	Alquiler XX	Hiszpania	Porno	Movistar+	FTA|Mediaguard 2|Nagravision 3	30057	164	96[esp]|97[vo]	1031	164		2016-10-01	Yes	135001013
+11097.00	V	22000 5/6	Astra 1L	TV	Alquiler XXHard	Hiszpania	Porno	Movistar+	FTA|Mediaguard 2|Nagravision 3	30058	161	84[esp]|85[vo]	1032	161		2016-10-01	Yes	135001015
+11097.00	V	22000 5/6	Astra 1L	TV	Movistar LaLiga 1	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30059	162	88[esp]|89[vo]|90[tre]|91	1036	162		2019-09-01	No	135001017
+11097.00	V	22000 5/6	Astra 1L	TV	#Vamos Bar1	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30060	4060	4061[esp]|4062[vo]	1034	4060		2019-08-16	No	135001019
+11097.00	V	22000 5/6	Astra 1L	TV	M. DEPORTES2			Movistar+	Mediaguard 2|Nagravision 3	30061	166	104[esp]|105[vo]	1038	166		2018-09-19	No	135001021
+11097.00	V	22000 5/6	Astra 1L	TV	Alquiler 4	Hiszpania	Pay per View	Movistar+	FTA|Mediaguard 2|Nagravision 3	30063	170	120[esp]|121[eng]	1025	170		2020-02-27	Yes	135001023
+11097.00	V	22000 5/6	Astra 1L	TV	Toros	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30064	172	128[esp]|129[vo]	1033	172		2020-02-17	No	135001025
+11097.00	V	22000 5/6	Astra 1L	TV	Multi-X	Hiszpania	Porno	Movistar+	FTA|Mediaguard 2|Nagravision 3	30065	165	100[esp]|101[vo]	1037	165		2018-08-12	Yes	135001027
+11097.00	V	22000 5/6	Astra 1L	TV	Multi-X	Hiszpania	Porno	Movistar+	FTA|Mediaguard 2|Nagravision 3	30066	176	144[esp]|145[vo]	1040	176		2018-08-12	Yes	135001029
+11097.00	V	22000 5/6	Astra 1L	TV	Multideporte	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30067	4000	4002[vo]|4001[esp]	1041	4000		2018-09-19	No	135001031
+11097.00	V	22000 5/6	Astra 1L	TV	LaLiga TV Bar 3	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30068	4035	4036[esp]|4037[vo]	1042	4035		2019-09-01	No	135001033
+11097.00	V	22000 5/6	Astra 1L	TV	M. DEPORTES4			Movistar+	Mediaguard 2|Nagravision 3	30069	4070	4071[esp]|4072[vo]	1043	4070		2018-09-19	No	135001035
+11097.00	V	22000 5/6	Astra 1L	TV	M.LCAMPEON8			Movistar+	Mediaguard 2|Nagravision 3	30070	4030	4031[esp]|4032[vo]	1044	4030		2018-08-12	No	135001037
+11097.00	V	22000 5/6	Astra 1L	TV	M. DEPORTES5			Movistar+	Mediaguard 2|Nagravision 3	30071	169	116[esp]|117[vo]	1045	169		2019-01-22	No	135001039
+11097.00	V	22000 5/6	Astra 1L	TV	M.LCAMPEON1			Movistar+	Mediaguard 2|Nagravision 3	30074	4080	4081[esp]|4082[vo]	1048	4080		2018-09-19	No	135001041
+11097.00	V	22000 5/6	Astra 1L	TV	Canal+ Liga Campeones	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30075	4090	4091[esp]|4092[vo]|4193[tre]|4194	1049	4090		2018-08-12	No	135001043
+11097.00	V	22000 5/6	Astra 1L	TV	M.LCAMPEON6			Movistar+	Mediaguard 2|Nagravision 3	30076	177	148[esp]|149[vo]	1050	177		2018-09-19	No	135001045
+11097.00	V	22000 5/6	Astra 1L	TV	M.LCAMPEON5			Movistar+	Mediaguard 2|Nagravision 3	30077	4093	4094[esp]|4095[vo]	1051	4093		2018-08-12	No	135001047
+11097.00	V	22000 5/6	Astra 1L	TV	M.LCAMPEON3			Movistar+	Mediaguard 2|Nagravision 3	30079	4015	4016[esp]|4017[vo]	1053	4015		2018-08-12	No	135001049
+11097.00	V	22000 5/6	Astra 1L	TV	Movistar LaLiga 2	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30080	4025	4026[esp]|4027[vo]	1054	4025		2019-09-01	No	135001051
+11097.00	V	22000 5/6	Astra 1L	TV	LaLiga TV Bar 4	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30082	4075	4076[esp]|4077[vo]	1056	4075		2019-10-20	No	135001053
+11097.00	V	22000 5/6	Astra 1L	TV	Canal+ Liga Campeones	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30083	4085	4086[esp]|4087[vo]	1057	4085		2018-09-19	No	135001055
+11097.00	V	22000 5/6	Astra 1L	TV	#Vamos Bar2	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30084	4100	4101[esp]|4102[vo]	1058	4100		2019-08-16	No	135001057
+11097.00	V	22000 5/6	Astra 1L	DATA					FTA	30052			1026	8191		2015-09-08	Yes	135001059
+11111.75	H	22000 2/3	Astra 1L	TV	SAT.1 Gold HD	Niemcy	Rozrywka	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	12500	255	259[ger]	96	255	32	2018-03-25	No	139001001
+11111.75	H	22000 2/3	Astra 1L	TV	Eurosport 1 HD	Francja	Sport	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	12502	767	771[ger]	98	767		2018-03-25	No	139001003
+11111.75	H	22000 2/3	Astra 1L	TV	Eurosport 2 HD Xtra	Niemcy	Sport	HD +|Sky Deutschland	Nagravision 3|VideoGuard	12503	1023	1027[ger]	99	1023		2018-09-27	No	139001005
+11111.75	H	22000 2/3	Astra 1L	TV	SAT.1 Gold HD Austria			Sky Deutschland	Irdeto 2|Viaccess 5.0|VideoGuard	12520	255	259[ger]	128	255	32	2017-11-01	No	139001007
+11111.75	H	22000 2/3	Astra 1L	TV	Eurosport 1 HD Austria			SES ASTRA	Irdeto 2|Viaccess 5.0	12522	767	771[ger]	130	767		2018-06-22	No	139001009
+11126.50	V	22000 2/3	Astra 1KR	TV	Movistar Series HD	Hiszpania	Seriale	Movistar+	Nagravision 3	30850	160	80[esp]|81[eng]	1024	160		2016-10-02	No	143001001
+11126.50	V	22000 2/3	Astra 1KR	TV	TCM HD Spain	Hiszpania	Filmy	Movistar+	Nagravision 3	30853	163	98[esp]|99[qaa]	1027	163	41	2016-09-26	No	143001003
+11126.50	V	22000 2/3	Astra 1KR	TV	TNT HD Spain	Hiszpania	Filmy	Movistar+	Nagravision 3	30856	161	86[esp]|87[vo]	1030	161	35	2016-09-26	No	143001005
+11126.50	V	22000 2/3	Astra 1KR	TV	NatGeo Wild HD Spain	Hiszpania	Dokumenty	Movistar+	Nagravision 3	30857	162	92[esp]|93[vo]	1031	162		2016-09-26	No	143001007
+11126.50	V	22000 2/3	Astra 1KR	TV	Disney Channel HD Spain	Hiszpania	Dzieci	Movistar+	Nagravision 3	30859	164	104[esp]|105[vo]	1033	164		2016-09-26	No	143001009
+11126.50	V	22000 2/3	Astra 1KR	TV	#0 HD	Hiszpania	Ogólne	Movistar+	Nagravision 3	30860	165	110[esp]|111[qaa]	1034	165		2016-02-03	No	143001011
+11126.50	V	22000 2/3	Astra 1KR	TV	Caza y Pesca HD	Hiszpania	Dokumenty	Movistar+	Nagravision 3	30861	166	114[esp]|115[qaa]	1035	166		2016-06-02	No	143001013
+11156.00	V	22000 5/6	Astra 1KR	TV	Canal Sur Andalucia	Hiszpania	Regionalne	Movistar+	FTA	30505	166	104[esp]	1029	166		2015-04-29	Yes	159001003
+11156.00	V	22000 5/6	Astra 1KR	TV	TEST D			Movistar+	Mediaguard 2|Nagravision 3	30506	163	92[esp]|93[vo]	1030	163	41	2020-04-02	No	159001005
+11156.00	V	22000 5/6	Astra 1KR	TV	Caza y Pesca	Hiszpania	Dokumenty	Movistar+	Mediaguard 2|Nagravision 3	30507	169	116[esp]|117	1031	169	59	2017-07-05	No	159001007
+11156.00	V	22000 5/6	Astra 1KR	TV	Blaze Spain	Hiszpania	Rozrywka	Movistar+	Mediaguard 2|Nagravision 3	30509	162	88[esp]|89[vo]	1032	162		2018-04-18	No	159001009
+11156.00	V	22000 5/6	Astra 1KR	TV	Nickelodeon Spain	Hiszpania	Dzieci	Movistar+	Mediaguard 2|Nagravision 3	30510	167	108[esp]|109[vo]	1033	167		2018-05-17	No	159001011
+11156.00	V	22000 5/6	Astra 1KR	TV	Discovery Channel Spain & Portugal	Hiszpania	Dokumenty	Movistar+	Mediaguard 2|Nagravision 3	30511	165	100[esp]|101[vo]	1034	165		2016-02-07	No	159001013
+11156.00	V	22000 5/6	Astra 1KR	TV	Cosmopolitan TV	Hiszpania	Różne	Movistar+	Mediaguard 2|Nagravision 3	30512	170	120[esp]|121[vo]	1035	170	62	2015-04-29	No	159001015
+11156.00	V	22000 5/6	Astra 1KR	TV	Canal de Historia	Hiszpania	Dokumenty	Movistar+	Mediaguard 2|Nagravision 3	30513	171	124[esp]|125[por]	1040	171		2014-05-14	No	159001017
+11156.00	V	22000 5/6	Astra 1KR	TV	Crimen + Investigación	Hiszpania	Dokumenty	Movistar+	Mediaguard 2|Nagravision 3	30514	164	96[esp]|97[vo]	1038	164		2016-03-13	No	159001019
+11156.00	V	22000 5/6	Astra 1KR	TV	Movistar Cine Español	Hiszpania	Filmy	Movistar+	Mediaguard 2|Nagravision 3	30518	160	80[esp]	1042	160	32	2019-02-19	No	159001021
+11156.00	V	22000 5/6	Astra 1KR	TV	Canal 24 Horas	Hiszpania	Informacje	Movistar+	Mediaguard 2|Nagravision 3	30520	173	132[esp]	1044	173	71	2019-01-23	No	159001023
+11156.00	V	22000 5/6	Astra 1KR	TV	Movistar Deportes 1	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30521	172	128[esp]|129[eng]	1045	172		2019-07-15	No	159001025
+11156.00	V	22000 5/6	Astra 1KR	DATA					FTA	30501			1025	8191		2015-08-30	Yes	159001027
+11156.00	V	22000 5/6	Astra 1KR	DATA					FTA	30519			1043	8191		2015-09-06	Yes	159001029
+11170.75	H	22000 3/4	Astra 1KR	TV	Universal HD Germany	Niemcy	Filmy	Sky Deutschland	VideoGuard	101	1535	1539[ger]|1540[eng]	101	1535		2018-07-18	No	163001001
+11170.75	H	22000 3/4	Astra 1KR	TV	Sky Cinema Action HD Germany	Niemcy	Filmy	Sky Deutschland	VideoGuard	116	767	771[ger]|772[eng]	98	767		2019-08-05	No	163001003
+11170.75	H	22000 3/4	Astra 1KR	TV	TNT Serie HD	Niemcy	Seriale	Kabelkiosk|Sky Deutschland	VideoGuard	123	1279	1283[ger]|1284[eng]	100	1279		2018-11-29	No	163001005
+11170.75	H	22000 3/4	Astra 1KR	TV	CNBC Europe HD	Stany Zjednoczone	Biznes	SKY	FTA	125	2047	2051[eng]	103	2047		2019-08-29	Yes	163001007
+11170.75	H	22000 3/4	Astra 1KR	TV	DAZN 1 Bar HD	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	132	1791	1795[ger]	102	1791		2018-11-29	No	163001009
+11170.75	H	22000 3/4	Astra 1KR	TV	Sky Sport Austria 1 HD	Austria	Sport	Sky Deutschland	FTA|VideoGuard	143	1023	1027[ger]	99	1023		2019-07-24	Yes	163001011
+11170.75	H	22000 3/4	Astra 1KR	TV	Sky Sport Bundesliga 5 HD	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	297	2815	2818[qab]|2820[qac]	106	2815	32	2018-12-02	No	163001013
+11170.75	H	22000 3/4	Astra 1KR	TV	Sky Sport HD 6 Germany	Niemcy	Sport	Sky Deutschland	VideoGuard	298	2559	2562[qae]|2564[qaf]	105	2559	32	2019-05-23	No	163001015
+11170.75	H	22000 3/4	Astra 1KR	TV	Eurosport360 HD 4	Francja	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	300	3583	3587[ger]	109	3583		2019-01-15	No	163001017
+11170.75	H	22000 3/4	Astra 1KR	TV	Jukebox	Niemcy	Muzyka	Sky Deutschland	VideoGuard	401	4607	4608[ger]	113	4607		2016-11-30	No	163001019
+11185.50	V	22000 5/6	Astra 1L	TV	TRWAM	Polska	Religia	SES ASTRA	FTA	4310	33	3606[pol]	8020	33	273	2020-03-02	Yes	167001001
+11185.50	V	22000 5/6	Astra 1L	R	Radio Maryja			SES ASTRA	FTA	4311		3607[pol]	32	33		2016-04-24	Yes	167001003
+11214.25	H	22000 2/3	Astra 1KR	IMG	Service 13401			ORS	Irdeto 2	13401	4010		401	4010		2019-11-20	No	171001001
+11214.25	H	22000 2/3	Astra 1KR	TV	RTL UHD Austria	Austria	Ogólne	ORS	Irdeto 2	13410	4110	4111[ger]	410	4110	4115	2019-10-20	No	171001003
+11229.00	V	22000 2/3	Astra 1KR	TV	BBC World News Europe HD	Wielka Brytania	Informacje	Canal+ France	FTA	5001	2091	2092[eng]	212	2091		2016-02-18	Yes	175001001
+11229.00	V	22000 2/3	Astra 1KR	TV	Insight TV HD	Holandia	Prezentacje	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|VideoGuard	5010	255	256[eng]|257[ger]|259[eng]	96	255		2018-10-17	No	175001003
+11229.00	V	22000 2/3	Astra 1KR	TV	INSIGHT TV HD INT			Sky Deutschland	Irdeto 2|Viaccess 5.0|VideoGuard	5011	255	256[eng]|257[ger]|259[eng]	97	255		2017-04-05	No	175001005
+11229.00	V	22000 2/3	Astra 1KR	TV	NHK World HD	Japonia	Ogólne	SES	FTA	5021	1760	1720[eng]	5071	1760		2018-06-16	Yes	175001007
+11229.00	V	22000 2/3	Astra 1KR	TV	Al Jazeera English HD	Katar	Informacje	Al Jazeera	FTA	5031	3101	3102[eng]|3103[eng]	3100	3101		2016-07-01	Yes	175001009
+11229.00	V	22000 2/3	Astra 1KR	TV	Mont Blanc Live	Francja	Różne	SES ASTRA	FTA	5081	101	201[fra]	32	101		2017-11-17	Yes	175001011
+11243.75	H	22000 5/6	Astra 1KR	TV	ORF Sport Plus	Austria	Sport	Austriasat|ORF Digital	Cryptoworks|Irdeto 2	13221	2210	2211[ger]|2212[mis]	221	2210	2215	2019-08-07	No	179001003
+11243.75	H	22000 5/6	Astra 1KR	TV	Volksmusik TV	Austria	Muzyka	-	FTA	13222	2220	2221[ger]	222	2220		2013-08-30	Yes	179001005
+11243.75	H	22000 5/6	Astra 1KR	TV	ATV 2 Austria	Austria	Ogólne	ORF Digital	Cryptoworks|Irdeto 2|Viaccess 5.0|VideoGuard	13223	2230	2231[ger]	223	2230	2235	2016-01-17	No	179001007
+11243.75	H	22000 5/6	Astra 1KR	TV	Bibel TV HD	Niemcy	Religia	ORS	FTA	13224	2240	2241[ger]	224	2240	2245	2018-05-03	Yes	179001009
+11243.75	H	22000 5/6	Astra 1KR	TV	Schau TV HD	Austria	Rozrywka	-	FTA	13225	2250	2251[ger]	225	2250		2018-01-16	Yes	179001011
+11243.75	H	22000 5/6	Astra 1KR	TV	StarParadies Österreich	Austria	Różne	-	FTA	13226	2220	2221[ger]	226	2220		2018-02-08	Yes	179001013
+11243.75	H	22000 5/6	Astra 1KR	TV	Hope Channel HD Germany	Niemcy	Religia	-	FTA	13227	2270	2271[ger]	227	2270		2020-04-07	Yes	179001015
+11243.75	H	22000 5/6	Astra 1KR	TV	ATV HD (Austria)	Austria	Ogólne	Austriasat|ORF Digital|Sky Deutschland	Cryptoworks|Irdeto 2|Viaccess 5.0|VideoGuard	13228	2280	2281[ger]	228	2280	2285	2016-01-17	No	179001017
+11243.75	H	22000 5/6	Astra 1KR	TV	RTL Plus Austria	Austria	Ogólne	RTL	FTA	13229	2290	2291[ger]	229	2290	2295	2018-09-05	Yes	179001019
+11243.75	H	22000 5/6	Astra 1KR	DATA	Service 13232			ORS	FTA	13232			232	8191		2016-03-29	Yes	179001021
+11243.75	H	22000 5/6	Astra 1KR	DATA	Service 13233			ORS	FTA	13233			233	8191		2016-03-29	Yes	179001023
+11258.50	V	22000 2/3	Astra 1KR	TV	Movistar Liga Campeones	Hiszpania	Sport	Movistar+	Nagravision 3	30900	160	80[esp]|81[qaa]|82|83	1024	160		2018-08-12	No	183001001
+11258.50	V	22000 2/3	Astra 1KR	TV	Fox Life HD Spain & Portugal	Hiszpania	Rozrywka	Movistar+	Nagravision 3	30901	161	84[esp]|85[qaa]	1025	161	35	2016-09-26	No	183001003
+11258.50	V	22000 2/3	Astra 1KR	TV	Movistar Seriesmania HD	Hiszpania	Seriale	Movistar+	Nagravision 3	30902	162	88[esp]|89[qaa]	1026	162		2018-08-30	No	183001005
+11258.50	V	22000 2/3	Astra 1KR	TV	Movistar Golf HD	Hiszpania	Sport	Movistar+	Nagravision 3	30903	163	92[esp]|93[vo]	1027	163		2016-09-26	No	183001007
+11258.50	V	22000 2/3	Astra 1KR	TV	Cosmopolitan HD	Hiszpania	Rozrywka	Movistar+	Nagravision 3	30904	164	96[esp]|97[vo]	1028	164		2016-01-17	No	183001009
+11258.50	V	22000 2/3	Astra 1KR	TV	Comedy Central HD Spain	Hiszpania	Komedia	Movistar+	Nagravision 3	30912	165	100[esp]|101[qaa]	1036	165	48	2016-09-26	No	183001011
+11273.25	H	22000 2/3	Astra 1KR	TV	ORF2St HD			Austriasat|ORF Digital	Cryptoworks|Irdeto 2|Viaccess 5.0|VideoGuard	13301	3010	3011[ger]	301	3010	3005	2016-02-18	No	187001001
+11273.25	H	22000 2/3	Astra 1KR	TV	ORF2K HD			Austriasat|ORF Digital	Cryptoworks|Irdeto 2|Viaccess 5.0|VideoGuard	13302	3020	3021[ger]	302	3020	3005	2016-02-18	No	187001003
+11273.25	H	22000 2/3	Astra 1KR	TV	ORF2B HD			Austriasat|ORF Digital	Cryptoworks|Irdeto 2|Viaccess 5.0|VideoGuard	13303	3030	3031[ger]	303	3030	3005	2016-02-18	No	187001005
+11273.25	H	22000 2/3	Astra 1KR	TV	ORF2O HD			Austriasat|ORF Digital	Cryptoworks|Irdeto 2|Viaccess 5.0|VideoGuard	13304	3040	3041[ger]	304	3040	3005	2016-02-18	No	187001007
+11273.25	H	22000 2/3	Astra 1KR	TV	ORF2S HD			Austriasat|ORF Digital	Cryptoworks|Irdeto 2|Viaccess 5.0|VideoGuard	13305	3050	3051[ger]	305	3050	3005	2016-02-18	No	187001009
+11273.25	H	22000 2/3	Astra 1KR	TV	ORF2T HD			Austriasat|ORF Digital	Cryptoworks|Irdeto 2|Viaccess 5.0|VideoGuard	13306	3060	3061[ger]	306	3060	3005	2016-02-18	No	187001011
+11273.25	H	22000 2/3	Astra 1KR	TV	ORF2V HD			Austriasat|ORF Digital	Cryptoworks|Irdeto 2|Viaccess 5.0|VideoGuard	13307	3070	3071[ger]	307	3070	3005	2016-02-18	No	187001013
+11273.25	H	22000 2/3	Astra 1KR	TV	ORF III HD	Austria	Ogólne	Austriasat|ORF Digital	Cryptoworks|Irdeto 2|Viaccess 5.0|VideoGuard	13308	3080	3081[ger]	308	3080	3085	2015-11-23	No	187001015
+11273.25	H	22000 2/3	Astra 1KR	TV	ORF Sport+ HD	Austria	Sport	Austriasat|ORF Digital	Cryptoworks|Irdeto 2|Viaccess 5.0|VideoGuard	13309	3090	3091[ger]	309	3090	3095	2015-11-23	No	187001017
+11273.25	H	22000 2/3	Astra 1KR	IMG	Flimmit	Austria	Prezentacje	ORF Digital	FTA	13310	3100		310	8191		2017-12-30	Yes	187001019
+11273.25	H	22000 2/3	Astra 1KR	TV	Aristo.TV	Austria	Telezakupy	ORF Digital	FTA	13311	3110	3111[ger]	311	3110		2016-07-07	Yes	187001021
+11273.25	H	22000 2/3	Astra 1KR	TV	R9 Österreich HD	Austria	Ogólne	-	FTA	13312	3120	3121[ger]	312	3120		2015-07-26	Yes	187001023
+11273.25	H	22000 2/3	Astra 1KR	TV	Krone TV	Austria	Różne		FTA	13313	3130	3131[ger]	313	3130		2020-04-02	Yes	187001025
+11273.25	H	22000 2/3	Astra 1KR	TV	oe24.TV	Austria	Ogólne	ORF Digital	FTA	13314	3140	3141[ger]	314	3140		2018-08-12	Yes	187001027
+11273.25	H	22000 2/3	Astra 1KR	TV	StarParadies Österreich	Austria	Różne	ORS	FTA	13315	3150	3151[ger]	315	3150		2019-02-05	Yes	187001029
+11273.25	H	22000 2/3	Astra 1KR	TV	GoTV	Austria	Muzyka	GoTV	FTA	13316	3160	3161[ger]	316	3160		2017-12-15	Yes	187001031
+11273.25	H	22000 2/3	Astra 1KR	TV	Melodie TV	Austria	Muzyka	-	FTA	13317	3170	3171[ger]	317	3170		2017-11-03	Yes	187001033
+11288.00	V	22000 2/3	Astra 1L	TV	Rai News 24	Włochy	Informacje	RAI	FTA	4216	520	690[ita]	1107	520	599	2017-03-09	Yes	191001001
+11288.00	V	22000 2/3	Astra 1L	TV	CBNN HD	Stany Zjednoczone	Biznes	Harmonic	FTA	4221	55	50[eng]	51	55		2020-02-03	Yes	191001003
+11288.00	V	22000 2/3	Astra 1L	TV	Deutschland Vozrozhdenie	Niemcy	Religia	SES	FTA	4225	7686	7687[ukr]	7685	7686		2017-04-08	Yes	191001005
+11288.00	V	22000 2/3	Astra 1L	TV	QVC UHD Germany	Niemcy	Telezakupy	MX1	FTA	4230	255	256[ger]	96	255	55	2017-12-15	Yes	191001007
+11302.75	H	22000 2/3	Astra 1L	TV	ORF 1 HD	Austria	Ogólne	Sky Deutschland	Cryptoworks|Irdeto 2|Viaccess 5.0|VideoGuard	4911	1920	1921[ger]|1922[mis]	107	1920	1925	2018-05-19	No	195001001
+11302.75	H	22000 2/3	Astra 1L	TV	ORF 2 HD	Austria	Ogólne	Sky Deutschland	Cryptoworks|Irdeto 2|Viaccess 5.0|VideoGuard	4912	2920	2921[ger]|2922[mis]	108	2920	2925	2018-05-19	No	195001003
+11302.75	H	22000 2/3	Astra 1L	TV	Servus TV HD	Austria	Regionalne	Sky Deutschland	Cryptoworks|Irdeto 2|Viaccess 5.0|VideoGuard	4913	3583	3584[ger]|3585[eng]|3587[ger]|3589[ger]	109	3583	3588	2018-05-19	No	195001005
+11302.75	H	22000 2/3	Astra 1L	TV	Servus TV HD Deutschland	Austria	Ogólne	ServusTV	FTA	4914	4920	4921[ger]|4922[eng]|4924[ger]|4926[ger]	110	4920	4925	2018-05-12	Yes	195001007
+11302.75	H	22000 2/3	Astra 1L	TV	ORF2N HD			Austriasat|ORF Digital|Sky Deutschland	Cryptoworks|Irdeto 2|Viaccess 5.0|VideoGuard	4916	2920	2921[ger]|2922[mis]	116	2920	2925	2018-05-12	No	195001009
+11302.75	H	22000 2/3	Astra 1L	R	OE3.			ORF Digital	FTA	4920		921[ger]	120	921		2020-03-04	Yes	195001011
+11317.50	V	22000 5/6	Astra 1KR	TV	FOX Life Spain	Hiszpania	Rozrywka	Movistar+	Mediaguard 2|Nagravision 3	29800	160	80[esp]|81[vo]	1024	160	32	2016-01-17	No	199001003
+11317.50	V	22000 5/6	Astra 1KR	TV	Nova	Hiszpania	Ogólne	Movistar+	Mediaguard 2|Nagravision 3	29801	161	84[esp]|85[vo]	1025	161		2016-04-03	No	199001005
+11317.50	V	22000 5/6	Astra 1KR	TV	Canal Iberalia	Hiszpania	Ogólne	Movistar+	Mediaguard 2|Nagravision 3	29802	164	96[esp]	1026	164		2015-09-16	No	199001007
+11317.50	V	22000 5/6	Astra 1KR	TV	Disney Junior Spain	Hiszpania	Dzieci	Movistar+	Mediaguard 2|Nagravision 3	29803	165	100[esp]|101[eng]	1027	165	47	2011-06-18	No	199001009
+11317.50	V	22000 5/6	Astra 1KR	TV	Movistar Accion	Hiszpania	Filmy	Movistar+	Mediaguard 2|Nagravision 3	29804	162	88[esp]|89[vo]	1036	5162	38	2020-03-11	No	199001011
+11317.50	V	22000 5/6	Astra 1KR	TV	Movistar Comedia	Hiszpania	Filmy	Movistar+	Mediaguard 2|Nagravision 3	29805	163	92[esp]|93[vo]	1037	163	41	2016-08-07	No	199001013
+11317.50	V	22000 5/6	Astra 1KR	TV	Movistar Drama	Hiszpania	Seriale	Movistar+	Mediaguard 2|Nagravision 3	29806	170	120[esp]|121[vo]	1038	170	62	2018-08-30	No	199001015
+11317.50	V	22000 5/6	Astra 1KR	TV	Fox Spain	Hiszpania	Seriale	Movistar+	Mediaguard 2|Nagravision 3	29807	169	116[esp]|117[eng]	1031	169	59	2011-03-27	No	199001017
+11317.50	V	22000 5/6	Astra 1KR	TV	AXN White Spain	Hiszpania	Rozrywka	Movistar+	Mediaguard 2|Nagravision 3	29809	167	108[esp]|109[vo]	1029	167	53	2012-05-07	No	199001019
+11317.50	V	22000 5/6	Astra 1KR	TV	AXN Spain	Hiszpania	Ogólne	Movistar+	Mediaguard 2|Nagravision 3	29815	171	124[esp]|125[vo]	1039	171	65	2011-02-18	No	199001021
+11317.50	V	22000 5/6	Astra 1KR	TV	#0	Hiszpania	Ogólne	Movistar+	Mediaguard 2|Nagravision 3	29816	168	112[esp]|113[qaa]	1042	168	56	2016-02-03	No	199001023
+11317.50	V	22000 5/6	Astra 1KR	DATA					FTA	29814			1030	8191		2015-09-03	Yes	199001025
+11347.00	V	22000 2/3	Astra 1KR	TV	3sat HD	Niemcy	Ogólne	ZDF Vision	FTA	11150	6510	6520[ger]|6521[mis]|6523[mul]|6522[ger]	6500	6510	6530	2016-01-17	Yes	207001001
+11347.00	V	22000 2/3	Astra 1KR	TV	KiKa HD	Niemcy	Dzieci	ZDF Vision	FTA	11160	6610	6620[ger]|6621[mis]|6622[ger]	6600	6610	6630	2016-01-17	Yes	207001003
+11347.00	V	22000 2/3	Astra 1KR	TV	ZDFinfo HD	Niemcy	Informacje	ZDF Vision	FTA	11170	6710	6720[ger]|6721[mis]|6723[mul]|6722[ger]	6700	6710	6730	2016-01-17	Yes	207001005
+11361.75	H	22000 2/3	Astra 1KR	TV	ZDF HD	Niemcy	Ogólne	ZDF Vision	FTA	11110	6110	6120[ger]|6121[mis]|6123[mul]|6122[ger]	6100	6110	6130	2012-06-02	Yes	211001001
+11361.75	H	22000 2/3	Astra 1KR	TV	ZDF_neo HD	Niemcy	Ogólne	ZDF Vision	FTA	11130	6310	6320[ger]|6321[mis]|6323[mul]|6322[ger]	6300	6310	6330	2012-04-30	Yes	211001003
+11376.50	V	22000 2/3	Astra 1L	TV	Telesur HD	Wenezuela	Informacje	GLOBECAST	FTA	6380	1001	1002[esp]	1000	1001		2017-07-25	Yes	215001001
+11376.50	V	22000 2/3	Astra 1L	TV	RT HD	Rosja	Informacje	GlobeCast	FTA	6381	1011	1012|1013[eng]	1010	1011		2013-03-26	Yes	215001003
+11376.50	V	22000 2/3	Astra 1L	TV	RT Español HD	Rosja	Informacje	Globecast	FTA	6382	1021	1022[esp]|1023[esp]	1020	1021		2013-03-26	Yes	215001005
+11376.50	V	22000 2/3	Astra 1L	TV	RT France HD	Rosja	Informacje	GLOBECAST	FTA	6383	1031	1032[fra]|1033[fra]	1030	1031		2017-11-29	Yes	215001007
+11376.50	V	22000 2/3	Astra 1L	TV	Extremadura TV	Hiszpania	Regionalne	GLOBECAST	FTA	6384	1041	1042[esp]	1140	1041		2018-05-09	Yes	215001009
+11376.50	V	22000 2/3	Astra 1L	TV	Galicia TV HD	Hiszpania	Regionalne	GLOBECAST	FTA	6385	1701	1702[esp]	1700	1701	53	2020-02-16	Yes	215001011
+11376.50	V	22000 2/3	Astra 1L	TV	RT Esp HD			GLOBECAST	FTA	6392	1021	1022[esp]|1023[esp]	1120	1021		2014-12-06	Yes	215001013
+11376.50	V	22000 2/3	Astra 1L	R	RADIO GALEGA			GLOBECAST	FTA	6386		1802[esp]	1800	1802		2020-02-01	Yes	215001015
+11376.50	V	22000 2/3	Astra 1L	R	RADIO GALEGA MUSICA			GLOBECAST	FTA	6387		1902[esp]	1900	1902		2020-02-01	Yes	215001017
+11376.50	V	22000 2/3	Astra 1L	DATA	Service 6350			GLOBECAST	FTA	6350			200	8191		2017-03-19	Yes	215001019
+11391.25	H	22000 5/6	Astra 1KR	TV	RTL 2 Schweiz	Szwajcara	Ogólne	BetaDigital	FTA	12400	255	256[ger]	96	255	32	2019-02-21	Yes	219001003
+11391.25	H	22000 5/6	Astra 1KR	TV	RTL UHD	Niemcy	Ogólne	HD +|Sky Deutschland	Nagravision 3|VideoGuard	12410	2815	2816[ger]	106	2815	42	2018-09-27	No	219001005
+11420.75	H	22000 5/6	Astra 1KR	TV	3+ Schweiz	Szwajcara	Ogólne	SSR/SRG	Viaccess 5.0|Viaccess 6.0	4704	1279	1280[ger]	100	1279		2018-08-12	No	227001001
+11420.75	H	22000 5/6	Astra 1KR	TV	Die Neue Zeit TV	Niemcy	Religia	BetaDigital	FTA	4713	3583	3584[ger]	109	3583		2018-06-28	Yes	227001003
+11420.75	H	22000 5/6	Astra 1KR	TV	.1.			HD +	Nagravision 3	4718	5119	5120[ger]	114	5119		2018-09-27	No	227001005
+11420.75	H	22000 5/6	Astra 1KR	TV	.2.			HD +|Sky Deutschland	Nagravision 3|VideoGuard	4719	5375	5376[ger]	115	5375		2013-11-18	No	227001007
+11420.75	H	22000 5/6	Astra 1KR	TV	.3.			BetaDigital	FTA	4720	5631	5632[ger]	116	5631		2020-04-01	Yes	227001009
+11420.75	H	22000 5/6	Astra 1KR	DATA	SES 06			BetaDigital	FTA	4705						2012-08-30	Yes	227001011
+11420.75	H	22000 5/6	Astra 1KR	DATA	SES 07			BetaDigital	FTA	4706						2012-08-30	Yes	227001013
+11420.75	H	22000 5/6	Astra 1KR	DATA	SES 09			BetaDigital	FTA	4708						2012-08-30	Yes	227001015
+11435.50	V	22000 2/3	Astra 1KR	TV	SyFy HD Spain	Hiszpania	Seriale	Movistar+	Nagravision 3	29901	161	84[esp]|85[vo]	1025	161	35	2013-07-05	No	231001001
+11435.50	V	22000 2/3	Astra 1KR	TV	#VAMOSHD			Movistar+	Nagravision 3	29902	163	100[esp]|101[qaa]	1026	163		2018-09-11	No	231001003
+11435.50	V	22000 2/3	Astra 1KR	TV	#Vamos HD	Hiszpania	Sport	Movistar+	Nagravision 3	29902	163	100[esp]|101[qaa]	1026	163		2018-09-10	No	231001005
+11435.50	V	22000 2/3	Astra 1KR	TV	Viajar HD	Hiszpania	Podróże	Movistar+	Nagravision 3	29907	162	92[esp]|93[vo]	1031	162		2016-09-26	No	231001007
+11435.50	V	22000 2/3	Astra 1KR	TV	Movistar Estrenos HD	Hiszpania	Filmy	Movistar+	Nagravision 3	29909	164	96[esp]|97[qaa]|98|99	1032	164		2016-09-26	No	231001009
+11435.50	V	22000 2/3	Astra 1KR	TV	#VAMOSHD			Movistar+	Nagravision 3	29910	163	100[esp]|101[qaa]	1034	163		2018-09-11	No	231001011
+11435.50	V	22000 2/3	Astra 1KR	TV	Movistar Cine Doc & Roll HD	Hiszpania	Filmy	Movistar+	Nagravision 3	29912	160	80[esp]|81[qaa]	1036	160		2018-08-30	No	231001013
+11435.50	V	22000 2/3	Astra 1KR	TV	AXN White HD	Portugalia	Rozrywka	Movistar+	Nagravision 3	29915	165	104[esp]|105[qaa]	1038	165	48	2016-09-26	No	231001015
+11464.25	H	22000 2/3	Astra 1KR	TV	Sat 1 HD	Niemcy	Ogólne	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	61300	255	259[ger]	96	255	32	2018-03-25	No	235001001
+11464.25	H	22000 2/3	Astra 1KR	TV	Prosieben HD	Niemcy	Ogólne	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	61301	511	515[ger]	97	511	33	2018-03-25	No	235001003
+11464.25	H	22000 2/3	Astra 1KR	TV	Kabel 1 HD	Niemcy	Ogólne	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	61302	767	771[ger]	98	767	34	2018-03-25	No	235001005
+11464.25	H	22000 2/3	Astra 1KR	TV	Sixx HD	Niemcy	Ogólne	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	61303	1023	1027[ger]	99	1023	35	2018-03-25	No	235001007
+11464.25	H	22000 2/3	Astra 1KR	TV	ProSieben MAXX HD	Niemcy	Rozrywka	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	61304	1279	1283[ger]	100	1279	36	2018-03-25	No	235001009
+11464.25	H	22000 2/3	Astra 1KR	TV	Kabel Eins Doku HD	Niemcy	Dokumenty	HD +	DVB Scrambling|Nagravision 3	61305	1535	1539[ger]	101	1535	37	2020-01-18	No	235001011
+11464.25	H	22000 2/3	Astra 1KR	TV	Kabel eins HD Austria	Austria	Rozrywka	Sky Deutschland	Irdeto 2|Viaccess 5.0|VideoGuard	61322	767	771[ger]	130	767	34	2017-02-10	No	235001013
+11464.25	H	22000 2/3	Astra 1KR	TV	sixx HD Austria			Sky Deutschland	Irdeto 2|Viaccess 5.0|VideoGuard	61323	1023	1027[ger]	131	1023	35	2017-11-01	No	235001015
+11464.25	H	22000 2/3	Astra 1KR	TV	Pro7 MAXX HD Austria			Sky Deutschland	Irdeto 2|Viaccess 5.0|VideoGuard	61324	1279	1283[ger]	132	1279	36	2017-11-01	No	235001017
+11493.75	H	22000 2/3	Pan Europe	TV	Das Erste HD	Niemcy	Ogólne	ARD Digital	FTA	10301	5101	5102[ger]|5103[mis]|5106[ger]	5100	5101	5104	2014-03-12	Yes	243001001
+11493.75	H	22000 2/3	Pan Europe	TV	Arte HD	Francja	Kultura	ARD Digital	FTA	10302	5111	5112[ger]|5113[fra]|5116[ger]	5110	5111	5114	2014-03-12	Yes	243001003
+11493.75	H	22000 2/3	Pan Europe	TV	Südwest Fernsehen Baden-Württemberg HD	Niemcy	Regionalne	ARD Digital	FTA	10303	5121	5122[ger]|5123[mis]|5126[ger]	5120	5121	5124	2014-03-12	Yes	243001005
+11493.75	H	22000 2/3	Pan Europe	TV	Sudwest Fernsehen Rheinland-Pfalz HD	Niemcy	Regionalne	ARD Digital	FTA	10304	5121	5122[ger]|5123[mis]|5126[ger]	5130	5121	5134	2014-03-12	Yes	243001007
+11508.50	V	22000 5/6	Astra 1L	TV	Cubavision Internacional	Kuba	Ogólne	GlobeCast	FTA	7008	708	728[esp]	758	708		2016-01-17	Yes	247001001
+11508.50	V	22000 5/6	Astra 1L	TV	Al Jazeera Satellite Channel	Katar	Informacje	GlobeCast	FTA	7009	709	729[ara]	759	709		2016-01-17	Yes	247001003
+11508.50	V	22000 5/6	Astra 1L	TV	Arirang TV	Korea Południowa	Ogólne	GlobeCast	FTA	7011	711	731[eng][kor]	761	711		2016-01-17	Yes	247001005
+11508.50	V	22000 5/6	Astra 1L	DATA	DATASYSTEM			Canal+ France	FTA	7000			4099	8191		2016-10-23	Yes	247001007
+11538.00	V	22000 5/6	Astra 1L	TV	France 24 (en Français)	Francja	Informacje	GLOBECAST	FTA	6905	605	625[fra]	201	605	6701	2017-04-13	Yes	255001001
+11538.00	V	22000 5/6	Astra 1L	TV	France 24 (in English)	Francja	Informacje	GLOBECAST	FTA	6906	606	626[eng]	202	606	6702	2017-04-13	Yes	255001003
+11538.00	V	22000 5/6	Astra 1L	TV	CGTN Documentary	Chiny	Dokumenty	GLOBECAST	FTA	6912	612	632[eng]	662	612		2017-04-13	Yes	255001005
+11538.00	V	22000 5/6	Astra 1L	TV	CCTV F	Chiny	Ogólne	GLOBECAST	FTA	6913	613	633[fra]	663	613		2017-04-13	Yes	255001007
+11538.00	V	22000 5/6	Astra 1L	TV	CGTN	Chiny	Informacje	GLOBECAST	FTA	6914	614	634[eng]	664	614		2017-04-13	Yes	255001009
+11538.00	V	22000 5/6	Astra 1L	TV	TV5 Monde Europe	Francja	Ogólne	GlobeCast	FTA	6915	615	635[fra]	665	615	835	2017-04-13	Yes	255001011
+11538.00	V	22000 5/6	Astra 1L	TV	TRT World HD	Turcja	Biznes	GLOBECAST	FTA	6918	618	638[eng]	668	618		2017-04-13	Yes	255001013
+11538.00	V	22000 5/6	Astra 1L	DATA	DATASYSTEM			Canal+ France	FTA	6900			750	8191		2017-04-13	Yes	255001015
+11552.75	H	22000 2/3	Astra 1L	TV	a.tv	Niemcy	Regionalne	BMT	FTA	5800	1010	1012[ger]	101	1010		2018-08-12	Yes	259001003
+11552.75	H	22000 2/3	Astra 1L	TV	münchen.tv HD	Niemcy	Regionalne	BMT	FTA	5801	1020	1022[ger]	102	1020	1025	2018-08-12	Yes	259001005
+11552.75	H	22000 2/3	Astra 1L	TV	RFO (Germany)	Niemcy	Regionalne	BMT	FTA	5802	1030	1032[ger]	103	1030		2018-08-12	Yes	259001007
+11552.75	H	22000 2/3	Astra 1L	TV	Ulm-Allgäu	Niemcy	Regionalne	BMT	FTA	5803	1040	1042[ger]	104	1040		2018-08-12	Yes	259001009
+11552.75	H	22000 2/3	Astra 1L	TV	intv	Niemcy	Regionalne	BMT	FTA	5804	1050	1052[ger]	105	1050		2019-07-02	Yes	259001011
+11552.75	H	22000 2/3	Astra 1L	IMG	Lokal-TV-Portal HD			BMT	FTA	5805	1060		106	51		2017-11-26	Yes	259001013
+11552.75	H	22000 2/3	Astra 1L	TV	BB-MV-Lokal TV	Niemcy	Regionalne	BMT	FTA	5806	1070	1072[ger]	107	1070		2018-12-05	Yes	259001015
+11582.25	H	22000 2/3	Pan Europe	TV	Bayerisches Fernsehen Süd HD	Niemcy	Regionalne	ARD Digital	FTA	10325	5201	5202[ger]|5203[mis]|5206[ger]	5200	5201	5204	2016-04-23	Yes	267001001
+11582.25	H	22000 2/3	Pan Europe	TV	Bayerisches Fernsehen Nord HD	Niemcy	Regionalne	ARD Digital	FTA	10326	5211	5212[ger]|5213[mis]|5216[ger]	5210	5201	5204	2016-04-23	Yes	267001003
+11582.25	H	22000 2/3	Pan Europe	TV	NDR Niedersachsen HD	Niemcy	Regionalne	ARD Digital	FTA	10327	5221	5222[ger]|5223[mis]|5226[ger]	5220	5221	5224	2014-03-12	Yes	267001005
+11582.25	H	22000 2/3	Pan Europe	TV	NDR Mecklenburg-Vorpommern HD	Niemcy	Regionalne	ARD Digital	FTA	10328	5231	5232[ger]|5233[mis]|5236[ger]	5230	5231	5224	2014-03-12	Yes	267001007
+11582.25	H	22000 2/3	Pan Europe	TV	NDR Hamburg HD	Niemcy	Regionalne	ARD Digital	FTA	10329	5241	5242[ger]|5243[mis]|5246[ger]	5240	5241	5224	2014-03-12	Yes	267001009
+11582.25	H	22000 2/3	Pan Europe	TV	NDR Schleswig Holstein HD	Niemcy	Regionalne	ARD Digital	FTA	10330	5251	5252[ger]|5253[mis]|5256[ger]	5250	5251	5224	2014-03-12	Yes	267001011
+11582.25	H	22000 2/3	Pan Europe	TV	Phoenix HD	Niemcy	Informacje	ARD Digital	FTA	10331	5261	5262[ger]|5263[mul]	5260	5261	5264	2014-03-12	Yes	267001013
+11597.00	V	22000 5/6	Astra 1L	TV	CNBC Europe	Wielka Brytania	Biznes	Movistar+	FTA	10030	307	308[eng]	1838	8190		2019-08-16	Yes	271001001
+11597.00	V	22000 5/6	Astra 1L	TV	Bloomberg Europe	Wielka Brytania	Biznes	Canal+ France	FTA	10067	1360	1320[eng]	1090	1360		2019-08-16	Yes	271001003
+11597.00	V	22000 5/6	Astra 1L	TV	SonLife Broadcasting Network	Wielka Brytania	Religia		FTA	10080	1051	1052[eng]|1053[esp]	1050	1051		2019-08-16	Yes	271001005
+11597.00	V	22000 5/6	Astra 1L	TV	Algerie 3	Algieria	Ogólne		FTA	10082	514	670[ara][fra]	256	514		2019-08-16	Yes	271001007
+11597.00	V	22000 5/6	Astra 1L	TV	Canal Algérie	Algieria	Ogólne		FTA	10083	515	680[ara][fra]	257	515		2019-08-16	Yes	271001009
+11611.75	H	22000 5/6	Pan Europe	TV	Kaufbei.tv	Niemcy	Telezakupy	SES	FTA	5126	6601	6611[rus]	51	6601		2019-12-22	Yes	275001001
+11611.75	H	22000 5/6	Pan Europe	TV	TBN Russia	Rosja	Religia	RR Media	FTA	5143	2017	3017	1017	2017		2019-09-13	Yes	275001003
+11611.75	H	22000 5/6	Pan Europe	TV	TV 8 Russia	Rosja	Różne	SES	FTA	5147	611	631[rus]	181	611		2018-09-03	Yes	275001005
+11611.75	H	22000 5/6	Pan Europe	TV	TV Rus	Rosja	Ogólne	SES ASTRA	FTA	5601	255	256[rus]	49	255		2017-05-14	Yes	275001007
+11611.75	H	22000 5/6	Pan Europe	R	TSR Turkce			SES ASTRA	FTA	5116		1615[tur]	459	1615		2015-02-19	Yes	275001009
+11611.75	H	22000 5/6	Pan Europe	DATA	KaCTFL			SES ASTRA	FTA	5199			7280	8191		2015-10-13	Yes	275001011
+11626.50	V	22000 5/6	Astra 1M	TV	CNN International Europe	Wielka Brytania	Informacje	Canal+ France	FTA	4422	165	100[eng]	3946	165		2016-02-18	Yes	287001003
+11626.50	V	22000 5/6	Astra 1M	TV	DW-TV (Deutsche Welle)	Niemcy	Informacje	DW	FTA	4430	529	785[eng]	273	529	115	2019-12-19	Yes	287001005
+11626.50	V	22000 5/6	Astra 1M	TV	Al Jazeera English	Katar	Informacje	Al Jazeera	FTA	4440	3505	3625[eng]	266	3505		2016-04-24	Yes	287001007
+11656.00	V	22000 2/3	Pan Europe	TV	Sportdigital HD	Austria	Sport	Austriasat|Boobles	Cryptoworks|Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	4500	255	256[ger]|257[eng]	96	255		2019-02-15	No	295001001
+11656.00	V	22000 2/3	Pan Europe	TV	Sport 1 + HD	Niemcy	Sport	Boobles	Nagravision 3|VideoGuard	4501	511	512[ger]|513[eng]	97	511		2019-12-02	No	295001003
+11656.00	V	22000 2/3	Pan Europe	TV	ESport1 HD	Niemcy	Gry	Boobles	Nagravision 3|VideoGuard	4502	767	768[ger]|769[eng]	98	767		2019-12-02	No	295001005
+11656.00	V	22000 2/3	Pan Europe	TV	Edge Sport	Bułgaria	Sport	Boobles	Nagravision 3|VideoGuard	4503	1023	1024[eng]	99	1023		2019-11-01	No	295001007
+11670.75	H	22000 2/3	Astra 1L	TV	Sat 1 HD Austria	Austria	Ogólne	Austriasat	Irdeto 2|Viaccess 5.0|VideoGuard	5300	255	259[ger]	96	255	32	2016-01-17	No	299001001
+11670.75	H	22000 2/3	Astra 1L	TV	ProSieben HD Austria	Austria	Ogólne	Austriasat	Irdeto 2|Viaccess 5.0|VideoGuard	5301	511	515[ger]	97	511	33	2016-01-17	No	299001003
+11670.75	H	22000 2/3	Astra 1L	TV	Puls 4 HD Austria	Austria	Talk show	Austriasat	Irdeto 2|Viaccess 5.0|VideoGuard	5303	1023	1027[ger]	99	1023	35	2016-01-17	No	299001005
+11670.75	H	22000 2/3	Astra 1L	TV	Puls 24 HD	Niemcy	Rozrywka	ProSiebenSat.1	FTA	5304	1279	1283[ger]	100	1279		2019-08-02	Yes	299001007
+11670.75	H	22000 2/3	Astra 1L	TV	SAT.1 Gold Österreich	Austria	Rozrywka	ProSiebenSat.1	FTA	5310	2815	2816[ger]	106	2815	42	2016-01-17	Yes	299001009
+11670.75	H	22000 2/3	Astra 1L	TV	ProSieben MAXX Austria	Austria	Rozrywka	ProSiebenSat.1	FTA	5311	3071	3072[ger]	107	3071	43	2016-01-17	Yes	299001011
+11670.75	H	22000 2/3	Astra 1L	TV	Kabel 1 Doku Austria	Austria	Dokumenty	ProSiebenSat.1	FTA	5312	3327	3328[ger]	108	3327	44	2016-09-23	Yes	299001013
+11670.75	H	22000 2/3	Astra 1L	TV	Sat.1 Emotions	Niemcy	Rozrywka	Austriasat	Cryptoworks|Irdeto 2|Viaccess 5.0	5313	3583	3584[ger]	109	3583		2017-05-26	No	299001015
+11670.75	H	22000 2/3	Astra 1L	TV	Kabel Eins Classics	Niemcy	Filmy	Austriasat	Cryptoworks|Irdeto 2|Viaccess 5.0	5314	3839	3840[ger]	110	3839		2017-07-05	No	299001017
+11670.75	H	22000 2/3	Astra 1L	DATA	.			ProSiebenSat.1	FTA	5302						2019-07-09	Yes	299001019
+11685.50	V	22000 5/6	Astra 1KR	TV	Paramount Channel Spain	Hiszpania	Filmy	Movistar+	Mediaguard 2|Nagravision 3	30201	161	84[esp]|85[vo]	1025	161		2014-07-16	No	303001001
+11685.50	V	22000 5/6	Astra 1KR	TV	.			Movistar+	FTA	30203	163	254[vo]|92[esp]	1027	163		2018-09-11	Yes	303001003
+11685.50	V	22000 5/6	Astra 1KR	TV	Aragón Sat	Hiszpania	Regionalne	Movistar+	FTA	30205	160	80[esp]	1026	160		2018-06-02	Yes	303001005
+11685.50	V	22000 5/6	Astra 1KR	TV	Neox	Hiszpania	Ogólne	Movistar+	Mediaguard 2|Nagravision 3	30206	168	112[esp]|113[vo]	1024	168		2016-04-03	No	303001007
+11685.50	V	22000 5/6	Astra 1KR	TV	Canal Panda	Hiszpania	Dzieci	Movistar+	Mediaguard 2|Nagravision 3	30207	171	124[esp]|125[vo]	1029	171		2012-10-10	No	303001009
+11685.50	V	22000 5/6	Astra 1KR	TV	Be Mad	Hiszpania	Rozrywka	Movistar+	Mediaguard 2|Nagravision 3	30208	172	128[esp]|129[vo]	1028	172		2018-04-26	No	303001011
+11685.50	V	22000 5/6	Astra 1KR	TV	Real Madrid TV	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30209	173	132[esp]	1030	173		2011-03-22	No	303001013
+11685.50	V	22000 5/6	Astra 1KR	TV	Classica	Niemcy	Muzyka	Movistar+	Mediaguard 2|Nagravision 3	30210	169	116[esp]	1034	169		2015-12-17	No	303001015
+11685.50	V	22000 5/6	Astra 1KR	TV	Antena 3	Hiszpania	Ogólne	Movistar+	Mediaguard 2|Nagravision 3	30212	170	120[esp]	1036	170	62	2011-03-27	No	303001017
+11685.50	V	22000 5/6	Astra 1KR	TV	#VAMOS			Movistar+	Mediaguard 2|Nagravision 3	30214	165	100[esp]|101[vo]	1031	165		2018-09-11	No	303001019
+11685.50	V	22000 5/6	Astra 1KR	TV	#Vamos	Hiszpania	Sport	Movistar+	Mediaguard 2|Nagravision 3	30214	165	100[esp]|101[vo]	1031	165		2018-09-10	No	303001021
+11685.50	V	22000 5/6	Astra 1KR	TV	Disney+ Spain	Hiszpania	Rozrywka	Movistar+	Mediaguard 2|Nagravision 3	30215	162	88[esp]|89[vo]	1037	162		2020-03-25	No	303001023
+11685.50	V	22000 5/6	Astra 1KR	TV	#VAMOS			Movistar+	Mediaguard 2|Nagravision 3	30220	165	100[esp]|101[vo]	1051	165		2018-09-11	No	303001025
+11685.50	V	22000 5/6	Astra 1KR	TV	Eurosport 2	Francja	Sport	Movistar+	Mediaguard 2|Nagravision 3	30222	167	108[esp]|109[vo]	1053	167		2016-02-13	No	303001027
+11685.50	V	22000 5/6	Astra 1KR	DATA					FTA	30211			1035	8191		2015-09-08	Yes	303001029
+11685.50	V	22000 5/6	Astra 1KR	DATA					FTA	30217			1038	8191		2015-09-08	Yes	303001031
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Cinema Fun	Niemcy	Filmy	Sky Deutschland	VideoGuard	8	1023	1024[ger]|1025[eng]	99	1023		2020-03-13	No	307001003
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Cinema Action Germany	Niemcy	Filmy	Sky Deutschland	VideoGuard	9	767	768[ger]|769[eng]	98	767		2019-08-05	No	307001005
+11719.50	H	27500 9/10	Astra 1M	TV	Boomerang Germany	Niemcy	Dzieci	Sky Deutschland	VideoGuard	28	1279	1280[ger]|1281[eng]	100	1279		2019-10-01	No	307001007
+11719.50	H	27500 9/10	Astra 1M	TV	Beate-Uhse.TV HD	Niemcy	Erotyka	Kabelkiosk|Sky Deutschland	VideoGuard	133	2047	2051[ger]	103	2047		2019-10-08	No	307001009
+11719.50	H	27500 9/10	Astra 1M	IMG	Nick. Jr.			Sky Deutschland	VideoGuard	138	1791		102	1791		2020-04-02	No	307001011
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Select 1	Niemcy	Pay per View	Sky Deutschland	VideoGuard	251	6655	6656[ger]|6657[eng]|6659[ger]	121	6655		2016-07-26	No	307001013
+11719.50	H	27500 9/10	Astra 1M	DATA	Sky Sport Bundesliga 10	Niemcy	Sport	Sky Deutschland	FTA	252						2016-12-25	Yes	307001015
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Sport 11	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	253	7167	7168[ger]	123	7167	32	2016-09-14	No	307001017
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Select	Niemcy	Prezentacje	Sky Deutschland	VideoGuard	254	3327	3328[ger]|3331[ger]	108	3327		2016-07-25	No	307001019
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Sport Austria 4	Austria	Sport	Sky Deutschland	VideoGuard	255	255	256[ger]|257	96	255	32	2019-09-14	No	307001021
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Select 2	Niemcy	Pay per View	Kabelkiosk|Sky Deutschland	VideoGuard	261	2559	2560[ger]|2561[eng]|2563[ger]	105	2559		2015-11-20	No	307001023
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Sport Bundesliga 2	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	262	2815	2816[ger]|2817[ger]	106	2815	32	2016-10-01	No	307001025
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Sport 3 Germany	Niemcy	Sport	Sky Deutschland	VideoGuard	263	3071	3072[ger]|3073[eng]	107	3071	32	2016-07-26	No	307001027
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Select 5	Niemcy	Pay per View	Kabelkiosk|Sky Deutschland	VideoGuard	291	5119	5120[ger]|5121[eng]|5123[ger]	115	5119		2016-02-18	No	307001029
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Bundesliga	Niemcy	Sport	Sky Deutschland	VideoGuard	292	5375	5376[ger]|5377[ger]	116	5375	32	2016-09-09	No	307001031
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Sport 6 Germany	Niemcy	Sport	Sky Deutschland	VideoGuard	293	3839	3840[ger]|3841[ger]	110	3839	32	2016-07-26	No	307001033
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Select 6	Niemcy	Pay per View	Kabelkiosk|Sky Deutschland	VideoGuard	301	5887	5888[ger]|5889[eng]|5891[ger]	118	5887		2016-02-18	No	307001035
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Sport Bundesliga 6	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	302	6143	6144[ger]|6145[ger]	119	6143	32	2016-10-01	No	307001037
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Sport 7	Niemcy	Sport	Sky Deutschland	VideoGuard	303	3583	3584[ger]	112	3583	32	2016-07-26	No	307001039
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Select 7	Niemcy	Pay per View	Kabelkiosk|Sky Deutschland	VideoGuard	311	3583	3584[ger]|3585[eng]|3587[ger]	109	3583		2018-01-30	No	307001041
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Sport Bundesliga 7	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	312	3839	3840[ger]|3841	110	3839	32	2018-04-01	No	307001043
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Sport 8	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	313	4095	4096[qae]|4097[qaf]	111	4095	32	2018-05-12	No	307001045
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Select 8	Niemcy	Pay per View	Kabelkiosk|Sky Deutschland	VideoGuard	321	4351	4352[ger]|4353[eng]|4355[ger]	112	4351		2018-01-30	No	307001047
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Sport Bundesliga 8	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	322	4607	4608[qab]|4609[qac]	113	4607	32	2018-05-05	No	307001049
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Sport 9	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	323	4863	4864[qae]|4865[qaf]	114	4863	32	2018-05-12	No	307001051
+11719.50	H	27500 9/10	Astra 1M	TV	Sky Sport Austria 2	Austria	Sport	Sky Deutschland	VideoGuard	325	511	512[ger]|513	97	511	32	2019-09-14	No	307001053
+11719.50	H	27500 9/10	Astra 1M	DATA	BDL VoD			Sky	FTA	200			145	8191		2016-11-30	Yes	307001055
+11719.50	H	27500 9/10	Astra 1M	DATA	Pace DS 830 NP				FTA	4024			144	8191		2016-03-29	Yes	307001057
+11758.50	H	27500 9/10	Astra 1M	TV	Junior	Niemcy	Dzieci	Sky Deutschland	VideoGuard	19	1279	1280[ger]	100	1279		2019-10-07	No	315001001
+11758.50	H	27500 9/10	Astra 1M	TV	Heimatkanal	Niemcy	Seriale	Kabelkiosk|Sky Deutschland	VideoGuard	22	2815	2816[ger]	106	2815		2016-11-30	No	315001003
+11758.50	H	27500 9/10	Astra 1M	TV	Classica	Niemcy	Muzyka	Sky Deutschland	VideoGuard	24	1535	1536[ger]	101	1535		2019-10-07	No	315001005
+11758.50	H	27500 9/10	Astra 1M	TV	Sky Sport Austria 1	Austria	Sport	Kabelkiosk|Sky Deutschland	FTA|VideoGuard	30	2047	2048[ger]	103	2047		2019-07-24	Yes	315001007
+11758.50	H	27500 9/10	Astra 1M	TV	Sky Cinema Best Of	Niemcy	Filmy	Sky Deutschland	VideoGuard	41	255	256[ger]	96	255		2020-03-13	No	315001009
+11758.50	H	27500 9/10	Astra 1M	TV	Sky Cinema Family HD Germany	Niemcy	Filmy	Sky Deutschland	VideoGuard	139	767	771[ger]|772[eng]	98	767		2019-11-04	No	315001011
+11758.50	H	27500 9/10	Astra 1M	TV	Sky 1 HD Germany	Niemcy	Rozrywka	Kabelkiosk|Sky Deutschland	VideoGuard	147	511	515[ger]	97	511		2020-04-07	No	315001013
+11758.50	H	27500 9/10	Astra 1M	TV	Sky Sport 2 Germany	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	222	1791	1792[qae]|1793[qaf]	102	1791	32	2018-10-02	No	315001015
+11758.50	H	27500 9/10	Astra 1M	TV	Sky Select 3	Niemcy	Pay per View	Kabelkiosk|Sky Deutschland	VideoGuard	271	3583	3584[ger]|3585[eng]|3587[ger]	109	3583		2018-01-30	No	315001017
+11758.50	H	27500 9/10	Astra 1M	TV	Sky Sport Bundesliga 3	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	272	3839	3840[ger]|3841	110	3839	32	2018-02-10	No	315001019
+11758.50	H	27500 9/10	Astra 1M	TV	Sky Sport 4 Germany	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	273	4095	4096[ger]|4097	111	4095	32	2018-02-08	No	315001021
+11758.50	H	27500 9/10	Astra 1M	TV	Sky Select 4	Niemcy	Pay per View	Kabelkiosk|Sky Deutschland	VideoGuard	281	4351	4352[ger]|4353[eng]|4355[ger]	112	4351		2018-01-30	No	315001023
+11758.50	H	27500 9/10	Astra 1M	TV	Sky Sport Bundesliga 4	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	282	4607	4608[ger]|4609	113	4607	32	2018-02-10	No	315001025
+11758.50	H	27500 9/10	Astra 1M	TV	Sky Sport 5 Germany	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	283	4863	4864[ger]|4865	114	4863	32	2018-02-08	No	315001027
+11758.50	H	27500 9/10	Astra 1M	TV	Sky Sport 8 HD Germany	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	318	6399	6402[qae]|6404[qaf]	120	6399	32	2019-03-31	No	315001029
+11758.50	H	27500 9/10	Astra 1M	TV	Eurosport360 HD 6	Francja	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	320	6655	6659[ger]	121	6655		2019-01-15	No	315001031
+11758.50	H	27500 9/10	Astra 1M	TV	Sky Select 9	Niemcy	Pay per View	Kabelkiosk|Sky Deutschland	VideoGuard	331	5119	5120[ger]|5121[eng]|5123[ger]	115	5119		2016-01-28	No	315001033
+11758.50	H	27500 9/10	Astra 1M	TV	Sky Sport Bundesliga 9	Niemcy	Sport	Sky Deutschland	VideoGuard	332	4863	4864[ger]|4865[ger]	114	4863	32	2018-02-10	No	315001035
+11758.50	H	27500 9/10	Astra 1M	TV	Sky Sport 10 Germany	Niemcy	Sport	Sky Deutschland	VideoGuard	333	2815	2816[ger]|2817[eng]	106	2815	32	2016-07-25	No	315001037
+11758.50	H	27500 9/10	Astra 1M	TV	Sky Select	Niemcy	Prezentacje	Sky Deutschland	VideoGuard	334	5119	5120[ger]|5121[ger]|5123[ger]	116	5119		2017-03-08	No	315001039
+11758.50	H	27500 9/10	Astra 1M	TV	Sky Sport Austria 3	Austria	Sport	Sky Deutschland	VideoGuard	336	1023	1024[ger]|1025	99	1023	32	2019-09-14	No	315001041
+11758.50	H	27500 9/10	Astra 1M	TV	Kinowelt TV	Niemcy	Filmy	Sky Deutschland	VideoGuard	406	2303	2304[ger]|2305[eng]	104	2303		2019-10-07	No	315001043
+11758.50	H	27500 9/10	Astra 1M	TV	Romance TV	Niemcy	Seriale	Kabelkiosk|Sky Deutschland	VideoGuard	518	3071	3072[ger]	107	3071		2017-11-11	No	315001045
+11758.50	H	27500 9/10	Astra 1M	DATA	HUMAX PR-HD3000C				FTA	3980			144	8191		2015-11-19	Yes	315001047
+11758.50	H	27500 9/10	Astra 1M	DATA	Pace TDC 866 NSDX				FTA	3994			145	8191		2015-11-19	Yes	315001049
+11778.00	V	29500 9/10	Astra 1M	TV	BVN - Beste van Vlaanderen en Nederland	Holandia	Ogólne	SES ASTRA	FTA	5701	525	122[ned]	2116	525	40	2020-03-27	Yes	319001001
+11778.00	V	29500 9/10	Astra 1M	R	VRT Radio 1			SES ASTRA	FTA	5702		101[ned]	100	101		2020-03-27	Yes	319001003
+11797.50	H	27500 9/10	Pan Europe	TV	DAZN 2 Bar HD	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	122	1023	1027[ger]	99	1023		2018-11-29	No	323001001
+11797.50	H	27500 9/10	Pan Europe	TV	Spiegel Geschichte HD	Niemcy	Historia	Sky Deutschland	VideoGuard	137	1279	1283[ger]	100	1279		2018-06-28	No	323001003
+11797.50	H	27500 9/10	Pan Europe	TV	Sky Sport Austria 3 HD	Austria	Sport	Sky Deutschland	VideoGuard	339	511	514[ger]|516	97	511	32	2019-09-14	No	323001005
+11797.50	H	27500 9/10	Pan Europe	TV	Eurosport360 HD 8	Francja	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	340	2815	2819[ger]	106	2815		2019-01-15	No	323001007
+11797.50	H	27500 9/10	Pan Europe	TV	Sky Sport Bundesliga UHD	Niemcy	Sport	Sky Deutschland	VideoGuard	552	1791	1795[eng]|1796[ger]	102	1791		2016-10-01	No	323001009
+11797.50	H	27500 9/10	Pan Europe	TV	Sky Sport UHD	Niemcy	Sport	Sky Deutschland	VideoGuard	553	2047	2051[ger]|2052[ger]	103	2047		2016-10-04	No	323001011
+11797.50	H	27500 9/10	Pan Europe	DATA	Sky service config			SKY	FTA	3499			146	8191		2016-12-11	Yes	323001013
+11817.00	V	29700 2/3	Astra 1M	TV	BET HD France	Francja	Rozrywka	Canal+ France|Orange	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	8001	110	121[fra]|122[eng]	100	110		2018-08-12	No	327001003
+11817.00	V	29700 2/3	Astra 1M	TV	Olympia TV HD	Francja	Kultura	Canal+ France	Nagravision 3|Viaccess 3.0	8002	210	221[fra]|222[eng]	200	210		2020-01-14	No	327001005
+11817.00	V	29700 2/3	Astra 1M	TV	MTV Hits HD France	Francja	Muzyka	Canal+ France	Nagravision 3|Viaccess 3.0	8003	310	321[fra]	300	310		2018-08-12	No	327001007
+11817.00	V	29700 2/3	Astra 1M	TV	MTV HD France	Francja	Muzyka	Canal+ France|TeleSat	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	8004	410	421[fra]	400	410		2018-04-21	No	327001009
+11817.00	V	29700 2/3	Astra 1M	TV	Franceinfo: HD	Francja	Informacje	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	8005	510	521[fra]	500	510		2018-04-21	No	327001011
+11817.00	V	29700 2/3	Astra 1M	TV	Histoire HD	Francja	Historia	Canal+ France|Orange	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	8006	610	621[fra]	600	610		2020-01-18	No	327001013
+11817.00	V	29700 2/3	Astra 1M	TV	RMC Sport 4 HD	Francja	Sport	Canal+ France	Nagravision 3	8007	710	721[fra]	700	710		2018-09-18	No	327001015
+11817.00	V	29700 2/3	Astra 1M	TV	Nickelodeon HD France	Francja	Dzieci	Canal+ France	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	8008	810	821[fra]|823[qad]	800	810	841	2018-08-12	No	327001017
+11817.00	V	29700 2/3	Astra 1M	TV	Pink X HD	Francja	Porno	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	8009	910	921[fra]	900	910		2018-04-21	No	327001019
+11817.00	V	29700 2/3	Astra 1M	TV	Mezzo	Francja	Muzyka	Canal+ France|Movistar+|Orange	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	8010	1010	1021[fra]	1000	1010		2018-04-21	No	327001021
+11817.00	V	29700 2/3	Astra 1M	TV	6ter	Francja	Ogólne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	8011	1110	1121[fra]|1122[eng]|1123[qad]	1100	1110		2018-04-21	No	327001023
+11817.00	V	29700 2/3	Astra 1M	TV	Multisports HD	Francja	Sport	Canal+ France	Nagravision 3|Viaccess 3.0|Viaccess 4.0	8013	1310	1321[fra]	1300	1310		2018-05-15	No	327001025
+11817.00	V	29700 2/3	Astra 1M	TV	OL TV HD	Francja	Sport	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	8014	1410	1421[fra]	1400	1410		2018-05-15	No	327001027
+11817.00	V	29700 2/3	Astra 1M	TV	Trace Latina HD	Francja	Muzyka	Canal+ France	Nagravision 3|Viaccess 3.0	8015	1510	1521[fra]	1500	1510		2019-07-16	No	327001029
+11817.00	V	29700 2/3	Astra 1M	DATA	DATASYSTEM			Canal+ France	FTA	8099			4099	8191		2018-04-21	Yes	327001031
+11836.50	H	27500 3/4	Pan Europe	TV	Das Erste	Niemcy	Ogólne	ARD Digital	FTA	28106	101	102[ger]|103[vo]|106[ger]	100	101	104	2014-03-12	Yes	331001001
+11836.50	H	27500 3/4	Pan Europe	TV	Bayerisches Fernsehen Süd	Niemcy	Regionalne	ARD Digital	FTA	28107	201	202[ger]|203|206	200	201	204	2016-04-23	Yes	331001003
+11836.50	H	27500 3/4	Pan Europe	TV	Hessen Fernsehen	Niemcy	Regionalne	ARD Digital	FTA	28108	301	302[ger]|303[mis]	300	301	304	2014-03-12	Yes	331001005
+11836.50	H	27500 3/4	Pan Europe	TV	Bayerisches Fernsehen Nord	Niemcy	Regionalne	ARD Digital	FTA	28110	501	202[ger]|203[mis]|206[ger]	500	201	204	2016-04-23	Yes	331001007
+11836.50	H	27500 3/4	Pan Europe	TV	WDR Fernsehen Köln	Niemcy	Regionalne	ARD Digital	FTA	28111	601	602[ger]|603[mis]	600	601	604	2014-03-12	Yes	331001009
+11836.50	H	27500 3/4	Pan Europe	TV	Südwest Fernsehen Baden-Würtemberg	Niemcy	Regionalne	ARD Digital	FTA	28113	801	802[ger]|803[mis]|806[ger]	800	801	804	2014-03-12	Yes	331001011
+11856.00	V	29700 2/3	Astra 1M	TV	BeIN Sport Max 4	Francja	Sport	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	8201	110	121[fra]	100	110		2018-04-21	No	335001001
+11856.00	V	29700 2/3	Astra 1M	TV	BeIN Sport Max 5	Francja	Sport	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	8202	210	221[fra]	200	210		2018-04-21	No	335001003
+11856.00	V	29700 2/3	Astra 1M	TV	BeIN Sport Max 6	Francja	Sport	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	8203	310	321[fra]	300	310		2018-04-21	No	335001005
+11856.00	V	29700 2/3	Astra 1M	TV	NRJ Hits	Francja	Muzyka	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	8204	410	421[fra]	400	410		2018-04-21	No	335001007
+11856.00	V	29700 2/3	Astra 1M	TV	Sundance TV	Holandia	Rozrywka	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	8205	510	521[fra]	500	510		2018-04-21	No	335001009
+11856.00	V	29700 2/3	Astra 1M	TV	M6 Boutique & Co	Francja	Telezakupy	Canal+ France	FTA	8206	610	621[fra]	600	610		2018-04-21	Yes	335001011
+11856.00	V	29700 2/3	Astra 1M	TV	Viceland	Wielka Brytania	Rozrywka	Canal+ France	Nagravision 3|Viaccess 3.0	8207	710	721[fra]|722[eng]	700	710		2020-01-18	No	335001013
+11856.00	V	29700 2/3	Astra 1M	TV	Nickelodeon France +1 HD	Francja	Dzieci	Canal+ France	Nagravision 3|Viaccess 3.0	8208	810	821[fra]|823[qad]	800	810		2018-08-12	No	335001015
+11856.00	V	29700 2/3	Astra 1M	TV	RMC Découverte	Francja	Dokumenty	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	8209	910	921[fra]|922[qaa]|923[qad]	900	910		2019-04-02	No	335001017
+11856.00	V	29700 2/3	Astra 1M	TV	beIN Sport 2 HD	Francja	Sport	Canal+ France|Orange	Nagravision 3|Viaccess 3.0|Viaccess 5.0	8210	1010	1021[fra]	1000	1010		2018-04-21	No	335001019
+11856.00	V	29700 2/3	Astra 1M	TV	beIN Sports 3 HD France	Francja	Sport	Canal+ France|Orange	Nagravision 3|Viaccess 3.0|Viaccess 5.0	8211	1110	1121[fra]	1100	1110		2018-04-21	No	335001021
+11856.00	V	29700 2/3	Astra 1M	TV	TFX	Francja	Rozrywka	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	8212	1210	1221[fra]|1222[eng]	1200	1210		2018-05-15	No	335001023
+11856.00	V	29700 2/3	Astra 1M	TV	TMC HD	Francja	Ogólne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	8213	1310	1321[fra]|1322[eng]|1323[qad]	1300	1310		2018-05-15	No	335001025
+11856.00	V	29700 2/3	Astra 1M	TV	Disney+	Francja	Rozrywka	Canal+ France	Nagravision 3|Viaccess 3.0	8214	1410	1421[fra]|1422[qaa]	1400	1410		2020-03-18	No	335001027
+11856.00	V	29700 2/3	Astra 1M	TV	Melody HD	Francja	Muzyka	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	8215	1510	1521[fra]	1500	1510		2019-07-16	No	335001029
+11895.00	V	29700 2/3	Astra 1M	TV	BFM TV HD	Francja	Informacje	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	8301	110	121[fra]	100	110		2018-04-21	No	343001001
+11895.00	V	29700 2/3	Astra 1M	TV	Polar+	Francja	Seriale	Canal+ France	Nagravision 3|Viaccess 3.0	8302	210	221[fra]|222[eng]	200	210		2018-04-21	No	343001003
+11895.00	V	29700 2/3	Astra 1M	TV	BFM Business	Francja	Biznes	Canal+ France|Orange	Nagravision 3|Viaccess 3.0|Viaccess 4.0	8303	310	321[fra]	300	310		2018-04-21	No	343001005
+11895.00	V	29700 2/3	Astra 1M	TV	A la Une HD	Francja	Prezentacje	Canal+ France	Nagravision 3|Viaccess 3.0	8304	410	421[fra]	400	410		2018-04-21	No	343001007
+11895.00	V	29700 2/3	Astra 1M	TV	BeIN Sport Max 7	Francja	Sport	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	8305	510	521[fra]	500	510		2018-04-21	No	343001009
+11895.00	V	29700 2/3	Astra 1M	TV	BeIN Sport Max 8	Francja	Sport	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	8306	610	621[fra]	600	610		2018-04-21	No	343001011
+11895.00	V	29700 2/3	Astra 1M	TV	BeIN Sport Max 9	Francja	Sport	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	8307	710	721[fra]	700	710		2018-04-21	No	343001013
+11895.00	V	29700 2/3	Astra 1M	TV	BeIN Sport Max 10	Francja	Sport	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	8308	810	821[fra]	800	810		2018-04-21	No	343001015
+11895.00	V	29700 2/3	Astra 1M	TV	RMC Story	Francja	Ogólne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	8309	910	921[fra]|922[eng]	900	910		2018-11-27	No	343001017
+11895.00	V	29700 2/3	Astra 1M	TV	L´Equipe TV	Francja	Sport	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	8310	1010	1021[fra]	1000	1010		2018-05-15	No	343001019
+11895.00	V	29700 2/3	Astra 1M	TV	La chaîne Météo HD	Francja	Pogoda	Canal+ France	Nagravision 3|Viaccess 3.0	8311	1110	1121[fra]	1100	1110		2018-11-27	No	343001021
+11895.00	V	29700 2/3	Astra 1M	TV	Arte HD	Francja	Kultura	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	8321	2110	2121[fra]|2122[eng]|2123[qad]|2124[ger]	2100	2110	2141	2018-04-21	No	343001023
+11895.00	V	29700 2/3	Astra 1M	TV	France Ô	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	8322	2210	2221[fra]	2200	2210		2018-04-21	No	343001025
+11895.00	V	29700 2/3	Astra 1M	TV	Gulli	Francja	Dzieci	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	8323	2310	2321[fra]	2300	2310		2018-04-21	No	343001027
+11914.50	H	27500 9/10	Pan Europe	TV	Sky Cinema Premieren +24	Niemcy	Filmy	Sky Deutschland	VideoGuard	43	4607	4608[ger]|4609[eng]	113	4607		2020-03-13	No	347001003
+11914.50	H	27500 9/10	Pan Europe	TV	NatGeo Wild HD Germany	Niemcy	Dokumenty	Kabelkiosk|Sky Deutschland	VideoGuard	118	511	515[ger]|516[eng]	97	511	32	2015-11-23	No	347001005
+11914.50	H	27500 9/10	Pan Europe	TV	Sky Sport HD Germany	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	129	767	770[ger]|771[ger]|772[ger]	98	767	32	2017-06-29	No	347001007
+11914.50	H	27500 9/10	Pan Europe	TV	Discovery HD Deutschland	Niemcy	Dokumenty	Kabelkiosk|Sky Deutschland	VideoGuard	130	1023	1027[ger]|1028[eng]	99	1023		2018-08-12	No	347001009
+11914.50	H	27500 9/10	Pan Europe	TV	Sky Cinema Premieren HD	Niemcy	Filmy	Sky Deutschland	VideoGuard	131	1279	1283[ger]|1284[eng]	100	1279		2020-03-13	No	347001011
+11914.50	H	27500 9/10	Pan Europe	TV	Sky Sport Bundesliga 2 HD	Niemcy	Biznes	Sky Deutschland	VideoGuard	267	2047	2050[qab]|2052[qac]	103	2047	32	2020-03-13	No	347001013
+11914.50	H	27500 9/10	Pan Europe	TV	Sky Sport HD 3 Germany	Niemcy	Sport	Sky Deutschland	VideoGuard	268	2303	2306[qae]|2308[qaf]	104	2303	32	2020-02-14	No	347001015
+11914.50	H	27500 9/10	Pan Europe	TV	Sky Cinema Classics	Włochy	Filmy	Sky Deutschland	VideoGuard	516	1791	1792[ger]	102	1791		2020-03-13	No	347001017
+11934.00	V	29700 2/3	Astra 1M	TV	Clique TV	Francja	Talk show	Canal+ France	Nagravision 3|Viaccess 3.0	8901	110	121[fra]	100	110		2018-11-27	No	351001001
+11934.00	V	29700 2/3	Astra 1M	TV	Disney Junior HD France	Francja	Dzieci	Canal+ France|TeleSat	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	8906	610	621[fra]|622[eng]|623[qad]	600	610		2018-04-21	No	351001003
+11934.00	V	29700 2/3	Astra 1M	TV	Canal+ Promo	Francja	Prezentacje	Canal+ France	FTA	8909	910	921[fra]|922[eng]	900	910		2018-04-21	Yes	351001005
+11934.00	V	29700 2/3	Astra 1M	TV	4K UHD - Evénement	Francja	Różne	Canal+ France	Nagravision 3	8910	1010	1021[fra]	1000	1010		2020-01-18	No	351001007
+11934.00	V	29700 2/3	Astra 1M	TV	Nick Jr HD France	Francja	Dzieci	Canal+ France	Nagravision 3|Viaccess 3.0	8912	1210	1221[fra]|1223[qad]	1200	1210		2018-04-21	No	351001009
+11934.00	V	29700 2/3	Astra 1M	TV	Multisports HD	Francja	Sport	Canal+ France	Nagravision 3|Viaccess 3.0|Viaccess 4.0	8913	1310	1321[fra]	1300	1310		2018-05-15	No	351001011
+11934.00	V	29700 2/3	Astra 1M	TV	RMC Sport 1 HD	Francja	Sport	Canal+ France	Nagravision 3	8914	1410	1421[fra]	1400	1410		2018-09-18	No	351001013
+11934.00	V	29700 2/3	Astra 1M	DATA	DATASYSTEM			Canal+ France	FTA	8199			4099	8191		2018-04-21	Yes	351001015
+11953.50	H	27500 3/4	Pan Europe	TV	ZDF	Niemcy	Ogólne	ZDF Vision	FTA	28006	110	120[ger]|121[mis]|122[mul]|125[ger]	100	110	130	2014-03-12	Yes	355001001
+11953.50	H	27500 3/4	Pan Europe	TV	3sat	Niemcy	Ogólne	ZDF Vision	FTA	28007	210	220[ger]|221[mis]|222[mul]|225[ger]	200	210	230	2014-03-12	Yes	355001003
+11953.50	H	27500 3/4	Pan Europe	TV	KIKA - Der KinderKanal	Niemcy	Dzieci	ZDF Vision	FTA	28008	310	320[ger]|321[mis]|325[ger]	300	310	330	2014-03-12	Yes	355001005
+11953.50	H	27500 3/4	Pan Europe	TV	ZDF Infokanal	Niemcy	Dokumenty	ZDF Vision	FTA	28011	610	620[ger]|621[mis]|622[mul]|625[ger]	600	610	630	2014-03-12	Yes	355001007
+11953.50	H	27500 3/4	Pan Europe	TV	ZDF_neo	Niemcy	Ogólne	ZDF Vision	FTA	28014	660	670[ger]|671[mis]|672[mul]|675[ger]	650	660	680	2014-03-12	Yes	355001009
+11953.50	H	27500 3/4	Pan Europe	R	Dlf Kultur			ZDF Vision	FTA	28012		710[ger]|711[ger]	700	710		2017-05-06	Yes	355001011
+11953.50	H	27500 3/4	Pan Europe	R	DLF			ZDF Vision	FTA	28013		810[ger]	800	810		2014-03-12	Yes	355001013
+11953.50	H	27500 3/4	Pan Europe	R	DRadio DokDeb			ZDF Vision	FTA	28015		510[ger]	500	510		2014-03-12	Yes	355001015
+11953.50	H	27500 3/4	Pan Europe	R	Dlf Nova			ZDF Vision	FTA	28017		410[ger]	411	410		2017-05-01	Yes	355001017
+11973.00	V	27500 3/4	Astra 1M	TV	Nickelodeon HD	Wielka Brytania	Dzieci	MTV Networks	Viaccess 5.0	28651	3011	3012[tur]|3013[eng]|3014[rus]|3015[cro]	311	3011	3020	2019-12-20	No	359001001
+11973.00	V	27500 3/4	Astra 1M	TV	VH-1 (Video Hits One)	Wielka Brytania	Muzyka	Austriasat|Movistar+|MTV Networks	Conax|Cryptoworks|Irdeto 2|Mediaguard 2|Nagravision 3|Viaccess 5.0	28656	3061	3062[eng]	316	8156		2018-03-20	No	359001003
+11973.00	V	27500 3/4	Astra 1M	TV	VH-1 Classic	Wielka Brytania	Muzyka	Austriasat|Canal Digitaal|MTV Networks	Conax|Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	28657	3071	3072[eng]	317	3071		2018-03-20	No	359001005
+11973.00	V	27500 3/4	Astra 1M	TV	Nick Jr Europe	Wielka Brytania	Dzieci	MTV Networks	Viaccess 5.0	28662	3111	3113[eng]|3116[rus]|3114[fra]|3122[ned]|3118[swe]|3119[den]|3120[nor]|3121[fin]|3128[por]	322	3111		2019-10-29	No	359001007
+11973.00	V	27500 3/4	Astra 1M	TV	MTV Music 24	Wielka Brytania	Muzyka	Austriasat|Canal Digitaal|MTV Networks	Conax|Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	28671	4011	4012[eng]	411	4011		2016-02-09	No	359001009
+11973.00	V	27500 3/4	Astra 1M	TV	Comedy Central Germany	Niemcy	Komedia	MTV Networks	FTA	28676	4061	4062[ger]	416	4061	4064	2019-01-11	Yes	359001011
+11973.00	V	27500 3/4	Astra 1M	TV	MTV Germany	Niemcy	Muzyka	MTV Networks	FTA	28678	4081	4082[ger]|4083[eng]	418	4081	4084	2019-04-26	Yes	359001013
+11973.00	V	27500 3/4	Astra 1M	TV	MTV+ Germany	Niemcy	Rozrywka	MTV Networks	FTA	28680	4101	4102[ger]|4103[eng]	420	4101	4104	2018-11-02	Yes	359001015
+11973.00	V	27500 3/4	Astra 1M	TV	Nickelodeon Germany	Niemcy	Dzieci	MTV Networks	FTA	28680	4101	4102[ger]|4103[eng]	420	4101	4104	2018-11-02	Yes	359001017
+11992.50	H	27500 9/10	Astra 1M	TV	Nicktoons Germany	Niemcy	Dzieci	Sky Deutschland	VideoGuard	27	1535	1536[ger]|1537[eng]	101	1535		2020-04-01	No	363001001
+11992.50	H	27500 9/10	Astra 1M	TV	Spiegel TV Wissen	Niemcy	Kultura	Kabelkiosk|Sky Deutschland	VideoGuard	49	1791	1792[ger]|1793[eng]	102	1791		2018-11-29	No	363001003
+11992.50	H	27500 9/10	Astra 1M	TV	Sky Atlantic HD Germany	Niemcy	Rozrywka	Kabelkiosk|Sky Deutschland	VideoGuard	110	1279	1283[ger]|1284[eng]	100	1279		2019-04-16	No	363001005
+11992.50	H	27500 9/10	Astra 1M	TV	Sky Cinema Harry Potter HD	Niemcy	Filmy	Sky Deutschland	VideoGuard	111	255	259[ger]|260[eng]	96	255		2020-04-09	No	363001007
+11992.50	H	27500 9/10	Astra 1M	TV	National Geographic HD Germany	Niemcy	Dokumenty	Kabelkiosk|Sky Deutschland	VideoGuard	112	511	515[ger]|516[eng]	97	511	32	2015-11-23	No	363001009
+11992.50	H	27500 9/10	Astra 1M	TV	Sky Sport 2 HD Germany	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	114	1023	1026[ger]|1027|1028	99	1023	32	2018-10-02	No	363001011
+11992.50	H	27500 9/10	Astra 1M	TV	13th Street HD	Niemcy	Seriale	Kabelkiosk|Sky Deutschland	VideoGuard	127	767	771[ger]|772[eng]	98	767	32	2017-06-29	No	363001013
+11992.50	H	27500 9/10	Astra 1M	TV	Sky Sport Bundesliga 3 HD	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	277	2047	2050[ger]|2052	103	2047	32	2019-02-03	No	363001015
+11992.50	H	27500 9/10	Astra 1M	TV	Sky Sport 4 HD Germany	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	278	2303	2306[ger]|2308	104	2303	32	2018-12-27	No	363001017
+11992.50	H	27500 9/10	Astra 1M	TV	Eurosport360 HD 2	Francja	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	280	3839	3843[ger]	110	3839		2019-01-15	No	363001019
+12012.00	V	29700 2/3	Astra 1M	TV	Canal+ HD	Francja	Sport	Canal+ France	FTA|Nagravision 3|Viaccess 3.0|Viaccess 4.0	8801	110	121[fra]|122[eng]|123[qad]	100	110		2018-04-21	Yes	367001003
+12012.00	V	29700 2/3	Astra 1M	TV	Canal+ Décalé HD	Francja	Ogólne	Canal+ France	FTA|Nagravision 3|Viaccess 3.0|Viaccess 4.0	8802	210	221[fra]|222[eng]	200	210		2018-04-21	Yes	367001005
+12012.00	V	29700 2/3	Astra 1M	TV	Canal+ Cinéma HD	Francja	Filmy	Canal+ France	Nagravision 3|Viaccess 3.0|Viaccess 4.0	8803	310	321[fra]|322[eng]	300	310		2018-04-21	No	367001007
+12012.00	V	29700 2/3	Astra 1M	TV	Canal+ Sport HD	Francja	Sport	Canal+ France	FTA|Nagravision 3|Viaccess 3.0|Viaccess 4.0	8804	410	421[fra]|422[eng]	400	410		2018-04-21	Yes	367001009
+12012.00	V	29700 2/3	Astra 1M	TV	Canal+ Family HD	Francja	Rozrywka	Canal+ France	Nagravision 3|Viaccess 3.0|Viaccess 4.0	8805	510	521[fra]|522[eng]	500	510		2018-04-21	No	367001011
+12012.00	V	29700 2/3	Astra 1M	TV	Canal+ Séries HD	Francja	Seriale	Canal+ France	Nagravision 3|Viaccess 3.0|Viaccess 4.0	8806	610	621[fra]|622[eng]	600	610		2018-04-21	No	367001013
+12012.00	V	29700 2/3	Astra 1M	TV	Cine+ Frisson HD	Francja	Filmy	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	8807	710	721[fra]|722[eng]	700	710		2018-05-09	No	367001015
+12012.00	V	29700 2/3	Astra 1M	TV	Cine+ Famiz HD	Francja	Filmy	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	8808	810	821[fra]|822[eng]	800	810		2018-05-09	No	367001017
+12012.00	V	29700 2/3	Astra 1M	TV	Cine+ Classic HD	Francja	Filmy	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	8809	910	921[fra]|922[eng]	900	910		2018-05-09	No	367001019
+12012.00	V	29700 2/3	Astra 1M	TV	OCS City HD	Francja	Filmy	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	8813	1310	1321[fra]|1322[eng]	1300	1310		2018-05-15	No	367001021
+12012.00	V	29700 2/3	Astra 1M	TV	OCS Max HD	Francja	Filmy	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	8814	1410	1421[fra]|1422[eng]	1400	1410		2018-05-15	No	367001023
+12012.00	V	29700 2/3	Astra 1M	DATA	DATASYSTEM			Canal+ France	FTA	8899			4099	8191		2018-04-21	Yes	367001025
+12031.50	H	27500 9/10	Pan Europe	TV	Sky Cinema Premieren	Niemcy	Filmy	Sky Deutschland	VideoGuard	10	255	256[ger]|257[eng]	96	255		2020-03-13	No	371001001
+12031.50	H	27500 9/10	Pan Europe	TV	Sky Cinema Thriller HD	Niemcy	Filmy	Sky Deutschland	VideoGuard	11	1279	1283[ger]|1284[eng]	100	1279		2020-03-13	No	371001003
+12031.50	H	27500 9/10	Pan Europe	TV	Sky Select	Niemcy	Prezentacje	SKY	FTA	18	2559	2560[ger]	105	2559		2016-11-30	Yes	371001005
+12031.50	H	27500 9/10	Pan Europe	TV	Sky Krimi HD	Niemcy	Seriale	Sky Deutschland	VideoGuard	23	1535	1539[ger]	101	1535		2019-10-08	No	371001007
+12031.50	H	27500 9/10	Pan Europe	TV	TNT Film HD	Niemcy	Filmy	Sky Deutschland	VideoGuard	140	2815	2819[ger]|2820[eng]	106	2815		2018-11-29	No	371001009
+12031.50	H	27500 9/10	Pan Europe	TV	Sky Sport 1 Germany	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	221	1791	1792[ger]|1793[ger]	102	1791	32	2019-01-10	No	371001011
+12031.50	H	27500 9/10	Pan Europe	TV	Sky Bundesliga	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	223	2303	2304[ger]|2305[ger]	104	2303	32	2019-01-11	No	371001013
+12031.50	H	27500 9/10	Pan Europe	TV	Sky Sport Bundesliga 6 HD	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	307	1023	1026[qab]|1028[qac]	99	1023	32	2019-02-09	No	371001015
+12031.50	H	27500 9/10	Pan Europe	TV	Sky Sport 7 HD Germany	Niemcy	Sport	Sky Deutschland	VideoGuard	308	3071	3074[qae]|3076[qaf]	107	3071	32	2019-05-23	No	371001017
+12031.50	H	27500 9/10	Pan Europe	TV	Eurosport360 HD 5	Francja	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	310	3327	3331[ger]	108	3327		2019-01-15	No	371001019
+12031.50	H	27500 9/10	Pan Europe	TV	Sky Cinema Family Germany	Niemcy	Filmy	Sky Deutschland	VideoGuard	407	4095	4096[ger]|4097[eng]	111	4095		2019-11-04	No	371001021
+12031.50	H	27500 9/10	Pan Europe	DATA	NDS Applikation			Sky Deutschland	FTA	2691			144	8191		2015-11-19	Yes	371001023
+12031.50	H	27500 9/10	Pan Europe	DATA	BEM Service				FTA	3500			146	8191		2017-03-19	Yes	371001025
+12031.50	H	27500 9/10	Pan Europe	DATA	GFD Service				FTA	3501			147	8191		2017-03-19	Yes	371001027
+12031.50	H	27500 9/10	Pan Europe	DATA	SDMS Service 1				FTA	3502			148	8191		2017-10-11	Yes	371001029
+12031.50	H	27500 9/10	Pan Europe	DATA	SDMS Service 2				FTA	3503			149	8191		2017-10-11	Yes	371001031
+12031.50	H	27500 9/10	Pan Europe	DATA	BData3			BetaDigital	FTA	3974			145	8191		2015-11-22	Yes	371001033
+12051.00	V	27500 3/4	Pan Europe	TV	ProSieben Schweiz	Szwajcara	Ogólne	ProSiebenSat.1	FTA	20001	289	290[ger]|292[ger]	32	289	33	2014-03-12	Yes	375001001
+12051.00	V	27500 3/4	Pan Europe	TV	ProSieben Österreich	Austria	Ogólne	ProSiebenSat.1	FTA	20002	161	84[ger]|85[ger]	1025	161	36	2014-03-12	Yes	375001003
+12051.00	V	27500 3/4	Pan Europe	TV	Kabel 1 Schweiz	Szwajcara	Ogólne	ProSiebenSat.1	FTA	20003	162	163[ger]	1026	162	165	2014-03-12	Yes	375001005
+12051.00	V	27500 3/4	Pan Europe	TV	Kabel 1 Österreich	Austria	Ogólne	ProSiebenSat.1	FTA	20004	166	167[ger]	1027	166	169	2014-03-12	Yes	375001007
+12051.00	V	27500 3/4	Pan Europe	TV	Sat 1 Österreich	Niemcy	Ogólne	ProSiebenSat.1	FTA	20005	800	801[ger]|803[ger]	1028	800	802	2014-03-12	Yes	375001009
+12051.00	V	27500 3/4	Pan Europe	TV	Sat 1 Schweiz	Niemcy	Ogólne	ProSiebenSat.1	FTA	20006	1535	1536[ger]|1539[ger]	101	1535	38	2014-03-12	Yes	375001011
+12051.00	V	27500 3/4	Pan Europe	TV	Puls 4 Austria	Austria	Talk show	ORF Digital	Cryptoworks|Irdeto 2|Viaccess 5.0|VideoGuard	20007	1791	1792[ger]	102	1791	39	2015-11-23	No	375001013
+12051.00	V	27500 3/4	Pan Europe	TV	Sat 1 Hamburg / Schleswig Holstein	Niemcy	Ogólne	ProSiebenSat.1	FTA	20008	2047	2048[ger]|2051[ger]	103	2047	40	2014-03-12	Yes	375001015
+12051.00	V	27500 3/4	Pan Europe	TV	SAT.1 NS/Bremen			ProSiebenSat.1	FTA	20009	2047	2048[ger]|2051[ger]	104	2047	40	2014-03-12	Yes	375001017
+12051.00	V	27500 3/4	Pan Europe	TV	SAT.1 RhlPf/Hessen			ProSiebenSat.1	FTA	20010	2047	2048[ger]|2051[ger]	105	2047	40	2014-03-12	Yes	375001019
+12090.00	V	29700 2/3	Astra 1M	TV	Disney XD HD France	Francja	Dzieci	Canal+ France	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	9401	110	121[fra]|122[eng]	100	110		2018-04-10	No	383001001
+12090.00	V	29700 2/3	Astra 1M	TV	Disney Cinema HD	Francja	Dzieci	Canal+ France	Nagravision 3|Viaccess 3.0	9402	210	221[fra]|222[eng]|223[qad]	200	210		2018-08-12	No	383001003
+12090.00	V	29700 2/3	Astra 1M	TV	OCS Choc HD	Francja	Filmy	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	9404	410	421[fra]|422[vo]	400	410		2018-04-10	No	383001005
+12090.00	V	29700 2/3	Astra 1M	TV	Non Stop People HD	Francja	Rozrywka	Canal+ France	Nagravision 3|Viaccess 3.0	9405	510	521[fra]	500	510		2018-04-10	No	383001007
+12090.00	V	29700 2/3	Astra 1M	TV	Eurosport 2 HD	Francja	Sport	Canal+ France	Nagravision 3|Viaccess 3.0	9406	610	621[fra]	600	610		2018-04-10	No	383001009
+12090.00	V	29700 2/3	Astra 1M	TV	MyZen.tv	Francja	Lifestyle	Canal+ France	Nagravision 3|Viaccess 3.0	9407	710	721[fra]	700	710		2019-05-11	No	383001011
+12090.00	V	29700 2/3	Astra 1M	TV	Disney Channel France +1 HD	Francja	Dzieci	Canal+ France|Orange|SFR	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 4.0|Viaccess 5.0	9408	810	821[fra]|822[eng]	800	810		2018-04-10	No	383001013
+12090.00	V	29700 2/3	Astra 1M	TV	Planète+ C.I. HD	Francja	Dokumenty	Canal+ France	Nagravision 3|Viaccess 3.0	9409	910	921[fra]	900	910		2018-04-10	No	383001015
+12090.00	V	29700 2/3	Astra 1M	TV	CStar Hits France	Francja	Muzyka	Canal+ France	Nagravision 3|Viaccess 3.0	9410	1010	1021[fra]	1000	1010		2018-04-10	No	383001017
+12090.00	V	29700 2/3	Astra 1M	TV	Teletoon+ HD	Francja	Dzieci	Canal+ France|TeleSat	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	9411	1110	1121[fra]	1100	1110		2018-04-10	No	383001019
+12090.00	V	29700 2/3	Astra 1M	TV	Teletoon +1 HD	Francja	Dzieci	Canal+ France|TeleSat	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	9412	1210	1221[fra]	1200	1210		2018-04-10	No	383001021
+12090.00	V	29700 2/3	Astra 1M	TV	Colmax TV	Francja	Porno	Canal+ France	Nagravision 3|Viaccess 3.0	9413	1310	1321[fra]	1300	1310		2018-05-15	No	383001023
+12090.00	V	29700 2/3	Astra 1M	TV	Trace Urban HD	Francja	Muzyka	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	9414	1410	1421[fra]	1400	1410		2018-11-27	No	383001025
+12090.00	V	29700 2/3	Astra 1M	TV	Game One HD	Francja	Gry	Canal+ France|Orange	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9415	1510	1521[fra]	1500	1510		2018-11-27	No	383001027
+12090.00	V	29700 2/3	Astra 1M	DATA	DATASYSTEM			Canal+ France	FTA	9499			4099	8191		2018-04-10	Yes	383001029
+12109.50	H	27500 3/4	Astra 1M	TV	RBB Brandenburg	Niemcy	Regionalne	ARD Digital	FTA	28205	501	602[ger]|603[mis]	500	601	604	2019-08-16	Yes	387001003
+12109.50	H	27500 3/4	Astra 1M	TV	RBB Berlin	Niemcy	Regionalne	ARD Digital	FTA	28206	601	602[ger]|603[mis]	600	601	604	2019-08-16	Yes	387001005
+12109.50	H	27500 3/4	Astra 1M	TV	ARD-TEST-1			ARD Digital	FTA	28221	601	602[ger]|2602[fra]	2100	601	604	2019-08-16	Yes	387001007
+12109.50	H	27500 3/4	Astra 1M	TV	NDR Fernsehen	Niemcy	Regionalne	ARD Digital	FTA	28224	2401	2402[ger]|2403	2400	2401	2604	2019-08-16	Yes	387001009
+12109.50	H	27500 3/4	Astra 1M	TV	NDR Hamburg	Niemcy	Regionalne	ARD Digital	FTA	28225	2501	2502[ger]|2503	2500	2501	2604	2019-08-16	Yes	387001011
+12109.50	H	27500 3/4	Astra 1M	TV	NDR Niedersachsen	Niemcy	Regionalne	ARD Digital	FTA	28226	2601	2602[ger]|2603	2600	2601	2604	2019-08-16	Yes	387001013
+12109.50	H	27500 3/4	Astra 1M	TV	NDR Schleswig Holstein	Niemcy	Regionalne	ARD Digital	FTA	28227	2701	2702[ger]|2703	2700	2701	2604	2019-08-16	Yes	387001015
+12109.50	H	27500 3/4	Astra 1M	TV	MDR Sachsen	Niemcy	Regionalne	ARD Digital	FTA	28228	2801	2802[ger]	2800	101	404	2019-08-16	Yes	387001017
+12109.50	H	27500 3/4	Astra 1M	TV	MDR Sachsen-Anhalt	Niemcy	Regionalne	ARD Digital	FTA	28229	2901	2902[ger]	2900	2901	404	2019-08-16	Yes	387001019
+12109.50	H	27500 3/4	Astra 1M	TV	MDR Thüringen	Niemcy	Regionalne	ARD Digital	FTA	28230	3001	3002[ger]	3000	201	404	2019-08-16	Yes	387001021
+12109.50	H	27500 3/4	Astra 1M	TV	Südwest Fernsehen Rheinland-Pfalz	Niemcy	Regionalne	ARD Digital	FTA	28231	3101	3102[ger]|3103[mis]|3106[ger]	3100	3101	3104	2019-08-16	Yes	387001023
+12129.00	V	29700 2/3	Pan Europe	TV	Museum France HD	Francja	Kultura	Canal+ France	Nagravision 3|Viaccess 3.0	9901	110	121[fra]	100	110		2018-04-10	No	391001001
+12129.00	V	29700 2/3	Pan Europe	TV	TCM HD France	Francja	Filmy	Canal+ France|Orange	Nagravision 3|Viaccess 3.0|Viaccess 6.0	9902	210	221[fra]|222[eng]	200	210		2018-04-10	No	391001003
+12129.00	V	29700 2/3	Pan Europe	TV	Golf+ HD	Francja	Sport	Canal+ France	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9903	310	321[fra]	300	310		2018-04-10	No	391001005
+12129.00	V	29700 2/3	Pan Europe	TV	Comedy Central HD France	Francja	Komedia	Canal+ France	Nagravision 3|Viaccess 3.0	9904	410	421[fra]|422[qaa]	400	410		2019-10-08	No	391001007
+12129.00	V	29700 2/3	Pan Europe	TV	Téva HD	Francja	Ogólne	Canal+ France|Orange	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9905	510	521[fra]|522[eng]|523[qad]	500	510		2018-04-10	No	391001009
+12129.00	V	29700 2/3	Pan Europe	TV	J-One HD	Francja	Rozrywka	Canal+ France	Nagravision 3|Viaccess 3.0	9906	610	621[fra]	600	610		2018-04-10	No	391001011
+12129.00	V	29700 2/3	Pan Europe	TV	Penthouse  HD	Wielka Brytania	Erotyka	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	9907	710	721[fra]	700	710		2018-04-10	No	391001013
+12129.00	V	29700 2/3	Pan Europe	TV	Cartoon Network HD France	Francja	Dzieci	Canal+ France	Nagravision 3|Viaccess 3.0|Viaccess 6.0	9908	810	821[fra]|822[eng]|823[qad]	800	810		2018-04-10	No	391001015
+12129.00	V	29700 2/3	Pan Europe	TV	TV5 Monde FBS HD	Francja	Ogólne	Canal+ France	FTA	9910	1010	1021[fra]	1000	1010		2018-04-10	Yes	391001017
+12129.00	V	29700 2/3	Pan Europe	TV	Planète+ A&E HD	Francja	Dokumenty	Canal+ France	Nagravision 3|Viaccess 3.0	9912	1210	1221[fra]	1200	1210		2018-04-10	No	391001019
+12129.00	V	29700 2/3	Pan Europe	TV	Cine+ Club HD	Francja	Filmy	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	9913	1310	1321[fra]|1322[eng]	1300	1310		2018-05-15	No	391001021
+12129.00	V	29700 2/3	Pan Europe	TV	Multisports HD	Francja	Sport	Canal+ France	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9921	2110	2121[fra]	2100	2110		2018-04-10	No	391001023
+12129.00	V	29700 2/3	Pan Europe	TV	Toonami France HD	Francja	Dzieci	Canal+ France|Orange	Nagravision 3|Viaccess 3.0|Viaccess 6.0	9922	2210	2221[fra]|2222[qaa]	2200	2210		2018-04-10	No	391001025
+12129.00	V	29700 2/3	Pan Europe	DATA	MULTISPORTS			Canal+ France	FTA	9911			1100	8191		2018-04-10	Yes	391001027
+12129.00	V	29700 2/3	Pan Europe	DATA	DATASYSTEM			Canal+ France	FTA	9999			4099	8191		2018-04-10	Yes	391001029
+12148.50	H	27500 3/4	Pan Europe	TV	N24 Doku Austria	Austria	Dokumenty		FTA	53	255	256[ger]	98	255	32	2019-08-16	Yes	395001001
+12148.50	H	27500 3/4	Pan Europe	TV	Genius Exklusiv TV	Niemcy	Telezakupy		FTA	54	3071	3072[ger]	100	3071		2019-08-16	Yes	395001003
+12148.50	H	27500 3/4	Pan Europe	TV	Comedy Central Österreich	Austria	Komedia	MTV Networks	FTA	60	1535	1536[ger]	106	1535		2019-08-16	Yes	395001005
+12148.50	H	27500 3/4	Pan Europe	TV	Nick Österreich	Austria	Dzieci	MTV Networks	FTA	61	1791	1792[ger]|1793[eng]	107	1791		2019-08-16	Yes	395001007
+12148.50	H	27500 3/4	Pan Europe	TV	Deluxe Music	Niemcy	Muzyka		FTA	65	3327	3328[ger]	99	3327		2019-08-16	Yes	395001009
+12148.50	H	27500 3/4	Pan Europe	TV	TLC Austria	Austria	Dokumenty		FTA	71	511	512[ger]	105	511	33	2019-08-16	Yes	395001011
+12148.50	H	27500 3/4	Pan Europe	TV	DMAX Austria	Austria	Rozrywka		FTA	73	3583	3584[ger]	115	3583	45	2019-08-16	Yes	395001013
+12148.50	H	27500 3/4	Pan Europe	TV	Immer etwas Neues TV	Niemcy	Telezakupy		FTA	514	2303	2304[ger]	108	2303		2019-08-16	Yes	395001015
+12148.50	H	27500 3/4	Pan Europe	TV	Pearl.tv	Niemcy	Telezakupy		FTA	765	2047	2048[ger]	96	2047		2019-08-16	Yes	395001017
+12148.50	H	27500 3/4	Pan Europe	TV	Channel 21	Niemcy	Telezakupy		FTA	769	1023	1024[ger]	113	1023	35	2019-08-16	Yes	395001019
+12148.50	H	27500 3/4	Pan Europe	TV	MediaShop - Meine Einkaufswelt	Niemcy	Telezakupy		FTA	775	1279	1280[ger]	114	1279		2019-08-16	Yes	395001021
+12148.50	H	27500 3/4	Pan Europe	R	ROCK ANTENNE			BetaDigital	FTA	160		304[ger]	101	304		2019-08-16	Yes	395001023
+12148.50	H	27500 3/4	Pan Europe	R	ERF Plus			BetaDigital	FTA	161		320[ger]	110	320		2019-08-16	Yes	395001025
+12148.50	H	27500 3/4	Pan Europe	R	ERF Pop			BetaDigital	FTA	162		368[ger]	109	368		2019-08-16	Yes	395001027
+12148.50	H	27500 3/4	Pan Europe	R	sunshine live			BetaDigital	FTA	169		336[ger]	102	336		2019-08-16	Yes	395001029
+12148.50	H	27500 3/4	Pan Europe	R	ANTENNE BAYERN			BetaDigital	FTA	170		352[ger]	112	352		2019-08-16	Yes	395001031
+12168.00	V	29700 2/3	Pan Europe	TV	Cine+ Premier HD	Francja	Filmy	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	9302	210	221[fra]|222[eng]	200	210		2018-11-03	No	399001001
+12168.00	V	29700 2/3	Pan Europe	TV	M6 HD	Francja	Ogólne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9303	310	321[fra]|322[eng]|323[qad]	300	310		2017-07-05	No	399001003
+12168.00	V	29700 2/3	Pan Europe	TV	W9 HD	Francja	Ogólne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9304	410	421[fra]|422[eng]|423[qad]	400	410		2017-07-05	No	399001005
+12168.00	V	29700 2/3	Pan Europe	TV	Ushuaïa TV HD	Francja	Dokumenty	Canal+ France|Orange|TeleSat	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	9305	510	521[fra]	500	510		2017-07-05	No	399001007
+12168.00	V	29700 2/3	Pan Europe	TV	France 2 HD	Francja	Ogólne	Canal+ France|Orange|TNTSAT|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 4.0|Viaccess 5.0	9306	610	621[fra]|622[eng]|623[qad]	600	610		2017-07-05	No	399001009
+12168.00	V	29700 2/3	Pan Europe	TV	Ciné+ Emotion HD	Francja	Filmy	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	9307	710	721[fra]|722[eng]	700	710		2018-04-26	No	399001011
+12168.00	V	29700 2/3	Pan Europe	TV	France 3 Sat HD	Francja	Ogólne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9309	910	921[fra]|922[eng]|923[qad]	900	910		2018-08-12	No	399001013
+12168.00	V	29700 2/3	Pan Europe	TV	Barker Collectivités	Francja	Prezentacje	Canal+ France	FTA	9311	1110	1121[fra]	1100	1110		2017-07-05	Yes	399001015
+12168.00	V	29700 2/3	Pan Europe	TV	TF 1	Francja	Ogólne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9312	1210	1221[fra]|1222[eng]|1223[qad]	1200	1210		2018-05-15	No	399001017
+12168.00	V	29700 2/3	Pan Europe	TV	Eurosport 1 HD	Francja	Sport	Canal+ France|TeleSat	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	9313	1310	1321[fra]	1300	1310		2019-08-08	No	399001019
+12168.00	V	29700 2/3	Pan Europe	TV	BeIN Sport 1 HD	Francja	Sport	Canal+ France|Orange	Nagravision 3|Viaccess 3.0|Viaccess 5.0	9314	1410	1421[fra]	1400	1410		2018-05-15	No	399001021
+12168.00	V	29700 2/3	Pan Europe	DATA	DATASYSTEM			Canal+ France	FTA	9399			4099	8191		2017-07-05	Yes	399001023
+12187.50	H	27500 3/4	Astra 1L	TV	RTL Television	Niemcy	Ogólne	CBC	FTA	12003	163	104[ger]|106[ger]	44	163	105	2012-04-30	Yes	403001001
+12187.50	H	27500 3/4	Astra 1L	TV	RTL Nordrhein Westfalen	Niemcy	Regionalne	CBC	FTA	12004	190	191[ger]	54	190	105	2016-02-17	Yes	403001003
+12187.50	H	27500 3/4	Astra 1L	TV	RTL Bremen & Land Niedersachsen	Niemcy	Ogólne	CBC	FTA	12005	180	181[ger]	55	180	105	2016-02-17	Yes	403001005
+12187.50	H	27500 3/4	Astra 1L	TV	RTL Bayern			CBC	FTA	12006	163	104[ger]	56	163	105	2018-10-11	Yes	403001007
+12187.50	H	27500 3/4	Astra 1L	TV	RTL HH SH			CBC	FTA	12009	163	104[ger]	57	163	105	2017-02-05	Yes	403001009
+12187.50	H	27500 3/4	Astra 1L	TV	RTL 2	Niemcy	Ogólne	CBC	FTA	12020	166	128[ger]	46	166	68	2012-04-30	Yes	403001011
+12187.50	H	27500 3/4	Astra 1L	TV	TOGGO plus	Niemcy	Dzieci	CBC	FTA	12030	301	303[ger]	58	301		2016-06-02	Yes	403001013
+12187.50	H	27500 3/4	Astra 1L	TV	Super RTL	Niemcy	Ogólne	CBC	FTA	12040	165	120[ger]	45	165	65	2012-04-30	Yes	403001015
+12187.50	H	27500 3/4	Astra 1L	TV	VOX	Niemcy	Ogólne	CBC	FTA	12060	167	136[ger]	47	167	71	2012-04-30	Yes	403001017
+12187.50	H	27500 3/4	Astra 1L	TV	RTL Nitro	Niemcy	Rozrywka	CBC	FTA	12061	173	146[ger]	53	173	84	2017-08-09	Yes	403001019
+12187.50	H	27500 3/4	Astra 1L	TV	RTL+ Germany	Niemcy	Ogólne	CBC	FTA	12080	168	137[ger]	41	168	70	2017-02-10	Yes	403001021
+12187.50	H	27500 3/4	Astra 1L	TV	n-tv	Niemcy	Informacje	CBC	FTA	12090	169	73[ger]|77[mul]	48	169	80	2018-08-12	Yes	403001023
+12207.00	V	29700 2/3	Pan Europe	TV	National Geographic HD France	Francja	Dokumenty	Canal+ France|Orange	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	9002	210	221[fra]	200	210		2018-04-10	No	415001003
+12207.00	V	29700 2/3	Pan Europe	TV	TF1 Séries Films	Francja	Seriale	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9003	310	321[fra]|322[eng]|323[qad]	300	310		2018-04-10	No	415001005
+12207.00	V	29700 2/3	Pan Europe	TV	Paris Première HD	Francja	Ogólne	Canal+ France|Orange	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9004	410	421[fra]|422[eng]|423[qad]	400	410		2018-04-10	No	415001007
+12207.00	V	29700 2/3	Pan Europe	TV	Boing HD France	Francja	Dzieci	Canal+ France|Orange	Nagravision 3|Viaccess 3.0|Viaccess 6.0	9005	510	521[fra]|522[qaa]	500	510		2018-11-27	No	415001009
+12207.00	V	29700 2/3	Pan Europe	TV	Planète+ HD	Francja	Dokumenty	Canal+ France	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	9006	610	621[fra]	600	610		2018-04-10	No	415001011
+12207.00	V	29700 2/3	Pan Europe	TV	Disney Channel HD France	Francja	Dzieci	Canal+ France|Orange|SFR	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 4.0|Viaccess 5.0	9007	710	721[fra]|722[eng]|723[qad]	700	710		2018-08-12	No	415001013
+12207.00	V	29700 2/3	Pan Europe	TV	France 5 HD	Francja	Dokumenty	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9008	810	821[fra]|822[eng]|823[qad]	800	810		2018-08-12	No	415001015
+12207.00	V	29700 2/3	Pan Europe	TV	LCI HD	Francja	Informacje	Canal+ France|Orange|TeleSat|TNTSAT	FTA	9009	910	921[fra]	900	910		2018-04-10	Yes	415001017
+12207.00	V	29700 2/3	Pan Europe	TV	Infosport+ HD	Francja	Sport	Canal+ France	Nagravision 3|Viaccess 3.0	9010	1010	1021[fra]	1000	1010		2018-04-10	No	415001019
+12207.00	V	29700 2/3	Pan Europe	TV	Boomerang France HD	Francja	Dzieci	Canal+ France|Orange	Nagravision 3|Viaccess 3.0|Viaccess 6.0	9011	1110	1121[fra]|1122[qaa]	1100	1110		2018-11-27	No	415001021
+12207.00	V	29700 2/3	Pan Europe	TV	C8 HD	Francja	Ogólne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9012	1210	1221[fra]|1222[eng]|1223[qad]	1200	1210		2018-04-10	No	415001023
+12207.00	V	29700 2/3	Pan Europe	TV	CStar HD	Francja	Rozrywka	Canal+ France|Orange|TNTSAT	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 4.0|Viaccess 5.0	9013	1310	1321[fra]|1322[eng]	1300	1310		2019-08-08	No	415001025
+12207.00	V	29700 2/3	Pan Europe	TV	CNews HD	Francja	Informacje	Canal+ France	FTA	9014	1410	1421[fra]	1400	1410		2018-05-15	Yes	415001027
+12207.00	V	29700 2/3	Pan Europe	TV	LCP HD	Francja	Polityka	Canal+ France	FTA	9015	1510	1521[fra]	1500	1510		2018-05-15	Yes	415001029
+12207.00	V	29700 2/3	Pan Europe	DATA	DATASYSTEM			Canal+ France	FTA	9099			4099	8191		2018-04-10	Yes	415001031
+12226.50	H	27500 3/4	Astra 1L	TV	RTL Österreich	Austria	Ogólne	RTL	FTA	28800	201	202[ger]	200	201	203	2010-11-25	Yes	419001001
+12226.50	H	27500 3/4	Astra 1L	TV	VOX Österreich	Niemcy	Ogólne	RTL	FTA	28805	301	302[ger]	300	301	303	2010-11-25	Yes	419001003
+12226.50	H	27500 3/4	Astra 1L	TV	RTL 2 Österreich	Austria	Ogólne	RTL	FTA	28810	401	402[ger]	400	401	403	2015-08-12	Yes	419001005
+12226.50	H	27500 3/4	Astra 1L	TV	Super RTL Österreich	Austria	Ogólne	RTL	FTA	28815	501	502[ger]	500	501	503	2010-11-25	Yes	419001007
+12226.50	H	27500 3/4	Astra 1L	TV	VOXup	Szwajcara	Rozrywka	CBC	FTA	28820	601	602[ger]	600	601	603	2019-11-28	Yes	419001009
+12226.50	H	27500 3/4	Astra 1L	TV	Eurosport Germany	Francja	Sport	SES Astra	FTA	31200	101	103[ger]	280	101	102	2015-12-10	Yes	419001011
+12226.50	H	27500 3/4	Astra 1L	TV	HSE24 Extra	Niemcy	Telezakupy	SES Astra	FTA	31210	512	660[ger]	259	512	576	2010-11-25	Yes	419001013
+12226.50	H	27500 3/4	Astra 1L	TV	Euronews French	Francja	Informacje	Globecast	FTA	31220	2432	2435[fra]	260	2432		2017-05-13	Yes	419001015
+12226.50	H	27500 3/4	Astra 1L	TV	Euronews German	Francja	Informacje	Globecast	FTA	31230	2440	2445[ger]	270	2440		2017-07-27	Yes	419001017
+12246.00	V	29700 2/3	Pan Europe	TV	RMC Sport 2 HD	Francja	Sport	Canal+ France	Nagravision 3	6601	110	121[fra]	100	110		2018-09-18	No	423001001
+12246.00	V	29700 2/3	Pan Europe	TV	Novelas TV	Francja	Seriale	Canal+ France	Nagravision 3|Viaccess 3.0	6602	210	221[fra]	200	210		2018-04-21	No	423001003
+12246.00	V	29700 2/3	Pan Europe	TV	RMC Sport News	Francja	Sport	Canal+ France	Nagravision 3	6603	310	321[fra]	300	310		2018-09-18	No	423001005
+12246.00	V	29700 2/3	Pan Europe	TV	OCS Géants HD	Francja	Filmy	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	6604	410	421[fra]|422[vo]	400	410		2018-04-21	No	423001007
+12246.00	V	29700 2/3	Pan Europe	TV	Voyage HD	Francja	Podróże	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	6605	510	521[fra]	500	510		2018-04-21	No	423001009
+12246.00	V	29700 2/3	Pan Europe	TV	Paramount Channel HD France	Francja	Filmy	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	6606	610	621[fra]|622[vo]	600	610		2018-04-21	No	423001011
+12246.00	V	29700 2/3	Pan Europe	TV	Libido TV HD	Francja	Porno	Canal+ France	Nagravision 3|Viaccess 3.0	6607	710	721[fra]	700	710		2018-04-21	No	423001013
+12246.00	V	29700 2/3	Pan Europe	TV	Penthouse Black	Francja	Porno	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	6608	810	821[fra]	800	810		2018-04-21	No	423001015
+12246.00	V	29700 2/3	Pan Europe	TV	CHAINE EVENEMENT			Canal+ France|Orange	Nagravision 3|Viaccess 3.0	6609	910	921[fra]|922[eng]	900	910		2020-01-18	No	423001017
+12246.00	V	29700 2/3	Pan Europe	TV	Seasons HD	Francja	Dokumenty	Canal+ France	FTA|Nagravision 3|Viaccess 3.0	6610	1010	1021[fra]	1000	1010		2018-08-12	Yes	423001019
+12246.00	V	29700 2/3	Pan Europe	TV	Foot+ 24/24 HD	Francja	Sport	Canal+ France	Nagravision 3|Viaccess 3.0|Viaccess 4.0	6611	1110	1121[fra]	1100	1110		2019-07-16	No	423001021
+12246.00	V	29700 2/3	Pan Europe	TV	Equidia Live HD	Francja	Wyścigi	Canal+ France|Orange	Nagravision 3|Viaccess 3.0|Viaccess 4.0	6612	1210	1221[fra]	1200	1210		2018-04-21	No	423001023
+12246.00	V	29700 2/3	Pan Europe	TV	Stingray Classica HD	nieokreślony	Muzyka	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	6613	1310	1321[fra]	1300	1310		2019-07-29	No	423001025
+12246.00	V	29700 2/3	Pan Europe	TV	Multisports HD	Francja	Sport	Canal+ France	Nagravision 3|Viaccess 3.0|Viaccess 4.0	6621	2110	2121[fra]	2100	2110		2018-05-19	No	423001027
+12246.00	V	29700 2/3	Pan Europe	DATA	DATASYSTEM			Canal+ France	FTA	6699			4099	8191		2018-04-21	Yes	423001029
+12265.50	H	27500 3/4	Astra 1M	TV	SR Südwest Fernsehen	Niemcy	Regionalne	ARD Digital	FTA	28486	1301	1302[ger]|1303[mis]	1300	1301	1304	2012-06-12	Yes	427001001
+12265.50	H	27500 3/4	Astra 1M	TV	ARD Alpha	Niemcy	Kultura	ARD Digital	FTA	28487	1401	1402[ger]|1403[mis]|1406[ger]	1400	1401	1404	2014-06-29	Yes	427001003
+12265.50	H	27500 3/4	Astra 1M	R	Bayern 1			ARD Digital	FTA	28400		101[ger]	100	101		2012-06-12	Yes	427001005
+12265.50	H	27500 3/4	Astra 1M	R	Bayern 2			ARD Digital	FTA	28401		111[ger]	110	111		2012-06-12	Yes	427001007
+12265.50	H	27500 3/4	Astra 1M	R	Bayern 3			ARD Digital	FTA	28402		121[ger]	120	121		2012-06-12	Yes	427001009
+12265.50	H	27500 3/4	Astra 1M	R	BR-KLASSIK			ARD Digital	FTA	28403		131[ger]|132[ger]	130	131		2012-06-12	Yes	427001011
+12265.50	H	27500 3/4	Astra 1M	R	B5 aktuell			ARD Digital	FTA	28404		141[ger]	140	141		2012-06-12	Yes	427001013
+12265.50	H	27500 3/4	Astra 1M	R	BAYERN plus			ARD Digital	FTA	28405		151[ger]	150	151		2012-06-12	Yes	427001015
+12265.50	H	27500 3/4	Astra 1M	R	PULS			ARD Digital	FTA	28406		161[ger]	160	161		2013-05-23	Yes	427001017
+12265.50	H	27500 3/4	Astra 1M	R	BR Heimat			ARD Digital	FTA	28407		171[ger]	170	171		2015-01-21	Yes	427001019
+12265.50	H	27500 3/4	Astra 1M	R	B5 plus			ARD Digital	FTA	28408		181[ger]	180	181		2012-06-12	Yes	427001021
+12265.50	H	27500 3/4	Astra 1M	R	hr1			ARD Digital	FTA	28419		401[ger]	400	401		2012-06-12	Yes	427001023
+12265.50	H	27500 3/4	Astra 1M	R	hr2			ARD Digital	FTA	28420		411[ger]|412[ger]	410	411		2012-06-12	Yes	427001025
+12265.50	H	27500 3/4	Astra 1M	R	hr3			ARD Digital	FTA	28421		421[ger]	420	421		2012-06-12	Yes	427001027
+12265.50	H	27500 3/4	Astra 1M	R	hr4			ARD Digital	FTA	28422		431[ger]	430	431		2012-06-12	Yes	427001029
+12265.50	H	27500 3/4	Astra 1M	R	YOU FM			ARD Digital	FTA	28423		451[ger]	450	451		2012-06-12	Yes	427001031
+12265.50	H	27500 3/4	Astra 1M	R	hr-iNFO			ARD Digital	FTA	28424		461[ger]	460	461		2012-06-12	Yes	427001033
+12265.50	H	27500 3/4	Astra 1M	R	MDR SACHSEN DD			ARD Digital	FTA	28428		501[ger]	500	501		2018-10-14	Yes	427001035
+12265.50	H	27500 3/4	Astra 1M	R	MDR S-ANHALT MD			ARD Digital	FTA	28429		511[ger]	510	511		2018-10-14	Yes	427001037
+12265.50	H	27500 3/4	Astra 1M	R	MDR THÜRINGEN EF			ARD Digital	FTA	28430		521[ger]	520	521		2018-10-14	Yes	427001039
+12265.50	H	27500 3/4	Astra 1M	R	MDR KULTUR			ARD Digital	FTA	28431		531[ger]|532[ger]	530	531		2016-05-03	Yes	427001041
+12265.50	H	27500 3/4	Astra 1M	R	MDR JUMP			ARD Digital	FTA	28432		541[ger]	540	541		2012-06-12	Yes	427001043
+12265.50	H	27500 3/4	Astra 1M	R	MDR SPUTNIK			ARD Digital	FTA	28433		551[ger]	550	551		2012-06-12	Yes	427001045
+12265.50	H	27500 3/4	Astra 1M	R	MDR AKTUELL			ARD Digital	FTA	28434		561[ger]	560	561		2016-05-03	Yes	427001047
+12265.50	H	27500 3/4	Astra 1M	R	MDR KLASSIK			ARD Digital	FTA	28435		571[ger]	570	571		2012-06-12	Yes	427001049
+12265.50	H	27500 3/4	Astra 1M	R	NDR 2 NDS			ARD Digital	FTA	28437		601[ger]	600	601		2018-10-14	Yes	427001051
+12265.50	H	27500 3/4	Astra 1M	R	NDR Kultur			ARD Digital	FTA	28438		611[ger]	610	611		2012-06-12	Yes	427001053
+12265.50	H	27500 3/4	Astra 1M	R	NDR Info NDS			ARD Digital	FTA	28439		621[ger]	620	621		2018-10-14	Yes	427001055
+12265.50	H	27500 3/4	Astra 1M	R	N-JOY			ARD Digital	FTA	28440		631[ger]	630	631		2012-06-12	Yes	427001057
+12265.50	H	27500 3/4	Astra 1M	R	NDR 90,3			ARD Digital	FTA	28441		641[ger]	640	641		2012-06-12	Yes	427001059
+12265.50	H	27500 3/4	Astra 1M	R	NDR1 Welle Nord KI			ARD Digital	FTA	28442		651[ger]	650	651		2018-10-14	Yes	427001061
+12265.50	H	27500 3/4	Astra 1M	R	NDR 1 Radio MV SN			ARD Digital	FTA	28443		661[ger]	660	661		2018-10-14	Yes	427001063
+12265.50	H	27500 3/4	Astra 1M	R	NDR 1 Nieders. HAN			ARD Digital	FTA	28444		671[ger]	670	671		2018-10-14	Yes	427001065
+12265.50	H	27500 3/4	Astra 1M	R	NDR Info Spez.			ARD Digital	FTA	28445		681[ger]	680	681		2012-06-12	Yes	427001067
+12265.50	H	27500 3/4	Astra 1M	R	NDR Blue			ARD Digital	FTA	28446		691[ger]	690	691		2013-02-05	Yes	427001069
+12265.50	H	27500 3/4	Astra 1M	R	NDR Plus			ARD Digital	FTA	28447		696[ger]	695	696		2017-01-18	Yes	427001071
+12265.50	H	27500 3/4	Astra 1M	R	Bremen Eins			ARD Digital	FTA	28448		701[ger]	700	701		2012-06-12	Yes	427001073
+12265.50	H	27500 3/4	Astra 1M	R	Bremen Zwei			ARD Digital	FTA	28449		711[ger]	710	711		2017-08-11	Yes	427001075
+12265.50	H	27500 3/4	Astra 1M	R	Bremen Vier			ARD Digital	FTA	28450		721[ger]	720	721		2012-06-12	Yes	427001077
+12265.50	H	27500 3/4	Astra 1M	R	Inforadio			ARD Digital	FTA	28452		801[ger]	800	801		2019-06-26	Yes	427001079
+12265.50	H	27500 3/4	Astra 1M	R	rbbKultur			ARD Digital	FTA	28453		811[ger]	810	811		2019-05-11	Yes	427001081
+12265.50	H	27500 3/4	Astra 1M	R	Antenne Brandenburg			ARD Digital	FTA	28454		821[ger]	820	821		2012-06-12	Yes	427001083
+12265.50	H	27500 3/4	Astra 1M	R	rbb 88.8			ARD Digital	FTA	28455		831[ger]	830	831		2019-02-05	Yes	427001085
+12265.50	H	27500 3/4	Astra 1M	R	radioeins			ARD Digital	FTA	28456		841[ger]	840	841		2012-06-12	Yes	427001087
+12265.50	H	27500 3/4	Astra 1M	R	Fritz			ARD Digital	FTA	28457		851[ger]	850	851		2012-06-12	Yes	427001089
+12265.50	H	27500 3/4	Astra 1M	R	SR 1 Europawelle			ARD Digital	FTA	28461		901[ger]	900	901		2013-10-23	Yes	427001091
+12265.50	H	27500 3/4	Astra 1M	R	SR 2 KulturRadio			ARD Digital	FTA	28462		911[ger]	910	911		2013-10-23	Yes	427001093
+12265.50	H	27500 3/4	Astra 1M	R	SR 3 Saarlandwelle			ARD Digital	FTA	28463		921[ger]	920	921		2013-10-23	Yes	427001095
+12265.50	H	27500 3/4	Astra 1M	R	SWR1 BW			ARD Digital	FTA	28465		1001[ger]	1000	1001		2012-06-12	Yes	427001097
+12265.50	H	27500 3/4	Astra 1M	R	SWR1 RP			ARD Digital	FTA	28466		1011[ger]	1010	1011		2012-06-12	Yes	427001099
+12265.50	H	27500 3/4	Astra 1M	R	SWR2			ARD Digital	FTA	28467		1021[ger]|1022[ger]	1020	1021		2012-06-12	Yes	427001101
+12265.50	H	27500 3/4	Astra 1M	R	SWR3			ARD Digital	FTA	28468		1031[ger]	1030	1031		2012-06-12	Yes	427001103
+12265.50	H	27500 3/4	Astra 1M	R	SWR4 BW			ARD Digital	FTA	28469		1041[ger]	1040	1041		2012-06-12	Yes	427001105
+12265.50	H	27500 3/4	Astra 1M	R	SWR4 RP			ARD Digital	FTA	28470		1051[ger]	1050	1051		2012-06-12	Yes	427001107
+12265.50	H	27500 3/4	Astra 1M	R	DASDING			ARD Digital	FTA	28471		1061[ger]	1060	1061		2012-06-12	Yes	427001109
+12265.50	H	27500 3/4	Astra 1M	R	SWR Aktuell			ARD Digital	FTA	28472		1071[ger]	1070	1071		2017-02-10	Yes	427001111
+12265.50	H	27500 3/4	Astra 1M	R	1LIVE			ARD Digital	FTA	28475		1101[ger]	1100	1101		2012-06-12	Yes	427001113
+12265.50	H	27500 3/4	Astra 1M	R	WDR 2 Rheinland			ARD Digital	FTA	28476		1111[ger]	1110	1111		2018-10-14	Yes	427001115
+12265.50	H	27500 3/4	Astra 1M	R	WDR 3			ARD Digital	FTA	28477		1121[ger]|1122[ger]	1120	1121		2015-01-21	Yes	427001117
+12265.50	H	27500 3/4	Astra 1M	R	WDR 4			ARD Digital	FTA	28478		1131[ger]	1130	1131		2012-06-12	Yes	427001119
+12265.50	H	27500 3/4	Astra 1M	R	WDR 5			ARD Digital	FTA	28479		1141[ger]	1140	1141		2015-01-21	Yes	427001121
+12265.50	H	27500 3/4	Astra 1M	R	COSMO			ARD Digital	FTA	28480		1151[ger]	1150	1151		2017-01-16	Yes	427001123
+12265.50	H	27500 3/4	Astra 1M	R	1LIVE diggi			ARD Digital	FTA	28481		1161[ger]	1160	1161		2012-06-12	Yes	427001125
+12265.50	H	27500 3/4	Astra 1M	R	Die Maus			ARD Digital	FTA	28482		1171[ger]	1170	1171		2019-12-01	Yes	427001127
+12265.50	H	27500 3/4	Astra 1M	R	WDR Event			ARD Digital	FTA	28483		1181[ger]	1180	1181		2012-06-12	Yes	427001129
+12285.00	V	29700 2/3	Pan Europe	TV	Automoto La Chaine	Francja	Sport	Bis|Canal+ France|Orange|SFR	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 4.0	17020	120	420[tur]|320[fra]	820	120	620	2018-11-08	No	431001001
+12285.00	V	29700 2/3	Pan Europe	TV	AB 1	Francja	Seriale	Bis|Canal+ France|Orange|Bis|Canal+ France|Orange	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 4.0	17021	121	321[fra]	821	121	621	2018-08-12	No	431001003
+12285.00	V	29700 2/3	Pan Europe	TV	Animaux HD	Francja	Dokumenty	Bis|Canal+ France|NC Numéricable|Orange	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 4.0|Viaccess 5.0	17022	122	322[fra]	822	122	622	2015-09-25	No	431001005
+12285.00	V	29700 2/3	Pan Europe	TV	Science et Vie	Francja	Dokumenty	Bis|Canal+ France|Orange	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 4.0	17023	123	323[fra]	823	123	623	2018-08-12	No	431001007
+12285.00	V	29700 2/3	Pan Europe	TV	XXL	Francja	Porno	Canal+ France|Orange	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 4.0	17024	124	224[fra]	824	124		2015-01-20	No	431001009
+12285.00	V	29700 2/3	Pan Europe	TV	Trek	Francja	Dokumenty	Bis|Canal+ France|Orange|Bis|Canal+ France|Orange|Bis|Canal+ France|Orange	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 4.0	17025	125	325[fra]	825	125	625	2018-08-12	No	431001011
+12285.00	V	29700 2/3	Pan Europe	TV	Toute l´Histoire	Francja	Dokumenty	Bis|Canal+ France|NC Numéricable|Orange	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 4.0	17026	126	326[fra]	826	126	626	2018-08-12	No	431001013
+12285.00	V	29700 2/3	Pan Europe	TV	Action HD	Francja	Filmy	Bis|Canal+ France|NC Numéricable|Orange	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 4.0|Viaccess 5.0	17030	130	330[fra]|430[qaa]	830	130	630	2018-08-12	No	431001015
+12285.00	V	29700 2/3	Pan Europe	TV	Mangas	Francja	Dzieci	Bis|Canal+ France|Orange|Bis|Canal+ France|Orange	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 4.0	17031	131	331[fra]	831	131	631	2018-08-12	No	431001017
+12285.00	V	29700 2/3	Pan Europe	TV	RTL 9 HD	Francja	Rozrywka	Bis|Canal+ France|NC Numéricable|Orange	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 4.0	17035	135	435[qaa]|335[fra]	835	135	635	2018-08-12	No	431001019
+12285.00	V	29700 2/3	Pan Europe	TV	Chasse et Pêche	Francja	Dokumenty	Canal+ France|Orange	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 4.0	17036	136	336[fra]|436[tur]	836	136	636	2018-08-12	No	431001021
+12285.00	V	29700 2/3	Pan Europe	TV	A La Maison	Francja	Ogólne	AB SAT	Mediaguard 3|Nagravision 3|Viaccess 4.0	17037	137	337[fra]	837	137	637	2020-04-09	No	431001023
+12285.00	V	29700 2/3	Pan Europe	TV	XXL			Canal+ France|Orange	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 4.0	17054	124	224	854	124		2014-05-25	No	431001025
+12285.00	V	29700 2/3	Pan Europe	DATA	DATA SYSTEM 94			AB SAT	FTA	17099						2020-03-01	Yes	431001027
+12304.50	H	27500 9/10	Pan Europe	TV	Sky Bundesliga HD 1	Niemcy	Sport	Sky Deutschland	VideoGuard	105	255	258[ger]|259[ger]|260[ger]	96	255	33	2019-08-16	No	435001003
+12304.50	H	27500 9/10	Pan Europe	TV	Sky Cinema Best Of HD	Niemcy	Filmy	Sky Deutschland	VideoGuard	107	767	771[ger]	98	767		2020-03-13	No	435001005
+12304.50	H	27500 9/10	Pan Europe	TV	Sky Sport News HD Germany	Niemcy	Sport	Sky Deutschland	FTA	108	1023	1027[ger]	99	1023	32	2019-08-16	Yes	435001007
+12304.50	H	27500 9/10	Pan Europe	TV	Sky Comedy HD Germany	Niemcy	Filmy	Sky Deutschland	VideoGuard	117	1279	1283[ger]|1284[eng]	100	1279		2020-04-09	No	435001009
+12304.50	H	27500 9/10	Pan Europe	TV	Fox HD Germany	Niemcy	Rozrywka	Sky Deutschland	VideoGuard	124	2559	1283[ger]|1284[eng]	105	2559		2019-08-16	No	435001011
+12304.50	H	27500 9/10	Pan Europe	TV	SyFy HD Deutschland	Niemcy	Rozrywka	Sky Deutschland	VideoGuard	126	511	515[ger]|516[eng]	97	511	32	2019-08-16	No	435001013
+12304.50	H	27500 9/10	Pan Europe	TV	Sky Sport Bundesliga 4 HD	Niemcy	Sport	Sky Deutschland	VideoGuard	287	2047	2050[ger]|2051[ger]|2052[ger]	103	2047	32	2019-08-16	No	435001015
+12304.50	H	27500 9/10	Pan Europe	TV	Sky Sport HD 5 Germany	Niemcy	Sport	Sky Deutschland	VideoGuard	288	2303	2306[ger]|2307[ger]|2308[ger]	104	2303	32	2019-08-16	No	435001017
+12304.50	H	27500 9/10	Pan Europe	TV	Eurosport360 HD 3	Francja	Sport	Sky Deutschland	VideoGuard	290	3839	3843[ger]	110	3839	32	2019-08-16	No	435001019
+12304.50	H	27500 9/10	Pan Europe	TV	STEST1			Sky Deutschland	VideoGuard	800	4351	4353[ger]	112	4351		2019-08-16	No	435001021
+12304.50	H	27500 9/10	Pan Europe	TV	STEST2			Sky Deutschland	VideoGuard	801	4607	4609[ger]	113	4607		2019-08-16	No	435001023
+12324.00	V	29700 2/3	Pan Europe	TV	Canal+ UHD	Francja	Ogólne	Canal+ France	FTA|Nagravision 3	8603	310	321[fra]|322[qaa]|323[qad]	300	310	341	2018-03-08	Yes	439001001
+12324.00	V	29700 2/3	Pan Europe	TV	ASSOCIATION MATERIEL			Canal+ France	Nagravision 3	8605	510	521[fra]	500	510		2018-05-15	No	439001003
+12324.00	V	29700 2/3	Pan Europe	TV	RMC Sport 1 HD	Francja	Sport	Canal+ France	Nagravision 3	8607	710	721[fra]	700	710		2018-11-27	No	439001005
+12324.00	V	29700 2/3	Pan Europe	DATA	MOSAIQUE			Canal+ France	FTA	8622			2200	8191		2016-09-03	Yes	439001007
+12324.00	V	29700 2/3	Pan Europe	DATA	MOSAIQUE BEIN SPORTS			Canal+ France	FTA	8623			2300	8191		2016-09-03	Yes	439001009
+12324.00	V	29700 2/3	Pan Europe	DATA	DOWNLOAD G9 9200			Canal+ France	FTA	8690			4090	8191		2017-10-11	Yes	439001011
+12324.00	V	29700 2/3	Pan Europe	DATA	DOWNLOAD G10 SAGEM			Canal+ France	FTA	8691			4091	8191		2019-05-18	Yes	439001013
+12324.00	V	29700 2/3	Pan Europe	DATA	DOWNLOAD G10 HUMAX			Canal+ France	FTA	8692			4092	8191		2019-05-18	Yes	439001015
+12324.00	V	29700 2/3	Pan Europe	DATA	DATASYSTEM R9			Canal+ France	FTA	8699			4150	8191		2018-06-24	Yes	439001017
+12343.50	H	30000 2/3	Astra 1M	TV	Insight UHD	Holandia	Prezentacje	-115-|Sky Deutschland	Conax|Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	2000	255	256[eng]|257[ger]|259[eng]	96	255		2019-08-08	No	443001001
+12343.50	H	30000 2/3	Astra 1M	TV	INSIGHT TV UHD SPAIN			SES ASTRA	Nagravision 3	2001	255	256[eng]|512[esp]	97	255		2018-08-12	No	443001003
+12343.50	H	30000 2/3	Astra 1M	TV	INSIGHT UHD Russia			SES ASTRA	Nagravision 3	2005	255	256[eng]|1280[rus]	101	255		2018-08-12	No	443001005
+12343.50	H	30000 2/3	Astra 1M	TV	QVC 2 UHD Germany	Niemcy	Telezakupy	SES ASTRA	FTA	2010	2815	2816[ger]	106	2815	42	2020-01-18	Yes	443001007
+12363.00	V	27500 3/4	Pan Europe	IMG					FTA	9105	2047		1284	8191		2016-11-09	Yes	447001001
+12363.00	V	27500 3/4	Pan Europe	IMG					FTA	9108	2047		1292	8191		2020-02-25	Yes	447001003
+12363.00	V	27500 3/4	Pan Europe	IMG	CANAL+ A LA DEMANDE			Canal+ France	FTA	9123	2047		1303	8191		2019-10-08	Yes	447001005
+12363.00	V	27500 3/4	Pan Europe	IMG	6PLAY			Canal+ France	FTA	9130	2047		1310	8191		2015-01-13	Yes	447001007
+12363.00	V	27500 3/4	Pan Europe	IMG	CANAL VOD			Canal+ France	FTA	9131	2047		1311	8191		2016-11-09	Yes	447001009
+12363.00	V	27500 3/4	Pan Europe	TV	CANAL + SERIES			Canal+ France	FTA	9133	2047	[fra]	1313	8191		2019-10-08	Yes	447001011
+12363.00	V	27500 3/4	Pan Europe	IMG	PASS XXL DORCEL			Canal+ France	FTA	9171	2047		1342	8191		2020-02-25	Yes	447001013
+12363.00	V	27500 3/4	Pan Europe	IMG	PASS PINK X			Canal+ France	FTA	9174	2047		1345	8191		2014-11-22	Yes	447001015
+12363.00	V	27500 3/4	Pan Europe	R	AUDIO PRIMO			Canal+ France	Mediaguard 3|Nagravision 3	9102		1971[fra]	1281	1970		2015-03-11	No	447001017
+12363.00	V	27500 3/4	Pan Europe	R	SUD RADIO			Canal+ France	FTA	9109		1914[fra]	1293	168		2015-04-05	Yes	447001019
+12363.00	V	27500 3/4	Pan Europe	R					FTA	9110		1915	1293	168		2018-10-18	Yes	447001021
+12363.00	V	27500 3/4	Pan Europe	R	BFM BUSINESS			Canal+ France	FTA	9111		1918[fra]	1293	168		2015-04-05	Yes	447001023
+12363.00	V	27500 3/4	Pan Europe	R	RADIOS 2			Canal+ France	FTA	9113		1976|1978|1966|1967|1969|1960|1973|1962|1963|1964|1972|1961|1970	1289	168		2015-04-29	Yes	447001025
+12363.00	V	27500 3/4	Pan Europe	R	RADIOS 1			Canal+ France	FTA	9114		1908|1909|1910|1911|1912|1913|1914|1915|1916|1918	1288	168		2015-04-29	Yes	447001027
+12363.00	V	27500 3/4	Pan Europe	R	RF			Canal+ France	FTA	9115		1901|1906|1903|1904|1905|1907|1902	1291	1904		2015-04-29	Yes	447001029
+12363.00	V	27500 3/4	Pan Europe	R	RADIOS 3			Canal+ France	FTA	9116		1943|1945|1946|1951|1952|1942	1290	169		2015-04-29	Yes	447001031
+12363.00	V	27500 3/4	Pan Europe	R	.			Canal+ France	FTA	9117		2046[fra]	1296	8191		2015-07-02	Yes	447001033
+12363.00	V	27500 3/4	Pan Europe	R	MOSAIQUE RADIOS			Canal+ France	FTA	9118		1910	1286	1910		2016-03-29	Yes	447001035
+12363.00	V	27500 3/4	Pan Europe	R	FUN RADIO			Canal+ France	FTA	9140		1964[fra]	1293	168		2015-04-05	Yes	447001037
+12363.00	V	27500 3/4	Pan Europe	R					FTA	9141		1952	1293	169		2018-05-03	Yes	447001039
+12363.00	V	27500 3/4	Pan Europe	R	BBCW SERVICE			Canal+ France	FTA	9142		1951[eng]	1293	169		2016-07-04	Yes	447001041
+12363.00	V	27500 3/4	Pan Europe	R	BBC ARABIC			Canal+ France	FTA	9143		1946[ara]	1293	169		2015-04-05	Yes	447001043
+12363.00	V	27500 3/4	Pan Europe	R	Melody	Egipt	Muzyka	Canal+ France	FTA	9144		1965	1293	1965		2020-03-04	Yes	447001045
+12363.00	V	27500 3/4	Pan Europe	R	MOUV'			Canal+ France	FTA	9153		1902[fra]	1293	1902		2018-01-23	Yes	447001047
+12363.00	V	27500 3/4	Pan Europe	R	FRANCE MUSIQUE			Canal+ France	FTA	9154		1901[fra]	1293	1901		2018-01-23	Yes	447001049
+12363.00	V	27500 3/4	Pan Europe	R	FIP			Canal+ France	FTA	9155		1903[fra]	1293	1903		2018-01-23	Yes	447001051
+12363.00	V	27500 3/4	Pan Europe	R	FRANCE INFO			Canal+ France	FTA	9156		1904[fra]	1293	1904		2015-04-29	Yes	447001053
+12363.00	V	27500 3/4	Pan Europe	R	FRANCE INTER			Canal+ France	FTA	9157		1905[fra]	1293	1905		2018-01-23	Yes	447001055
+12363.00	V	27500 3/4	Pan Europe	R	FRANCE CULTURE			Canal+ France	FTA	9158		1906[fra]	1293	1906		2018-01-23	Yes	447001057
+12363.00	V	27500 3/4	Pan Europe	R	FRANCE BLEU			Canal+ France	FTA	9159		1907[fra]	1293	1907		2018-01-23	Yes	447001059
+12363.00	V	27500 3/4	Pan Europe	R	RFI INTERNAT			Canal+ France	FTA	9163		1908[fra]	1293	168		2015-04-29	Yes	447001061
+12363.00	V	27500 3/4	Pan Europe	R	RADIO CLASSIQUE			Canal+ France	FTA	9164		1909[fra]	1293	168		2015-04-29	Yes	447001063
+12363.00	V	27500 3/4	Pan Europe	R	RTL			Canal+ France	FTA	9165		1910[fra]	1293	168		2015-04-29	Yes	447001065
+12363.00	V	27500 3/4	Pan Europe	R	EUROPE 1			Canal+ France	FTA	9166		1911[fra]	1293	168		2015-04-29	Yes	447001067
+12363.00	V	27500 3/4	Pan Europe	R	RMC			Canal+ France	FTA	9167		1912[fra]	1293	168		2016-07-28	Yes	447001069
+12363.00	V	27500 3/4	Pan Europe	R	RIRE & CHANSONS			Canal+ France	FTA	9168		1913[fra]	1293	168		2015-04-29	Yes	447001071
+12363.00	V	27500 3/4	Pan Europe	R	TSF JAZZ			Canal+ France	FTA	9175		1916[fra]	1293	168		2015-04-29	Yes	447001073
+12363.00	V	27500 3/4	Pan Europe	R	OUI FM			Canal+ France	FTA	9176		1976[fra]	1293	168		2015-04-29	Yes	447001075
+12363.00	V	27500 3/4	Pan Europe	R	JAZZ RADIO			Canal+ France	FTA	9177		1978[fra]	1293	168		2015-04-29	Yes	447001077
+12363.00	V	27500 3/4	Pan Europe	R	NOVA			Canal+ France	FTA	9178		1966[fra]	1293	168		2015-04-29	Yes	447001079
+12363.00	V	27500 3/4	Pan Europe	R	Radio FG	Francja	Muzyka	Canal+ France	FTA	9179		1967[fra]	1293	168		2015-09-22	Yes	447001081
+12363.00	V	27500 3/4	Pan Europe	R	CONTACT FM			Canal+ France	FTA	9180		1969[fra]	1293	168		2015-04-29	Yes	447001083
+12363.00	V	27500 3/4	Pan Europe	R	NOSTALGIE			Canal+ France	FTA	9181		1970[fra]	1293	168		2015-04-29	Yes	447001085
+12363.00	V	27500 3/4	Pan Europe	R	NRJ			Canal+ France	FTA	9182		1960[fra]	1293	168		2015-04-29	Yes	447001087
+12363.00	V	27500 3/4	Pan Europe	R	RFM			Canal+ France	FTA	9183		1972[fra]	1293	168		2015-04-29	Yes	447001089
+12363.00	V	27500 3/4	Pan Europe	R	VIRGIN RADIO			Canal+ France	FTA	9184		1961[fra]	1293	168		2015-04-29	Yes	447001091
+12363.00	V	27500 3/4	Pan Europe	R	CHERIE FM			Canal+ France	FTA	9185		1973[fra]	1293	168		2015-04-29	Yes	447001093
+12363.00	V	27500 3/4	Pan Europe	R	RTL2			Canal+ France	FTA	9186		1962[fra]	1293	168		2015-04-29	Yes	447001095
+12363.00	V	27500 3/4	Pan Europe	R	SKYROCK			Canal+ France	FTA	9187		1963[fra]	1293	168		2015-04-29	Yes	447001097
+12363.00	V	27500 3/4	Pan Europe	R	RADIO NOTRE DAME			Canal+ France	FTA	9194		1942[fra]	1293	169		2015-04-29	Yes	447001099
+12363.00	V	27500 3/4	Pan Europe	R					FTA	9195		1943	1293	169		2018-10-18	Yes	447001101
+12363.00	V	27500 3/4	Pan Europe	R	BEUR FM			Canal+ France	FTA	9198		1945[fra]	1293	169		2015-04-29	Yes	447001103
+12363.00	V	27500 3/4	Pan Europe	DATA	DOWNLOAD R7 G5+ SAGEM			Canal+ France	FTA	9103			1282	8191		2016-03-29	Yes	447001105
+12363.00	V	27500 3/4	Pan Europe	DATA	MES VIDEOS			Canal+ France	FTA	9104			1283	8191		2016-03-28	Yes	447001107
+12363.00	V	27500 3/4	Pan Europe	DATA	DOWNLOAD R7 G5 PACE			Canal+ France	FTA	9112			1294	8191		2016-03-29	Yes	447001109
+12363.00	V	27500 3/4	Pan Europe	DATA	DOWNLOAD R7 G5 SAMSUNG			Canal+ France	FTA	9119			1301	8191		2016-03-29	Yes	447001111
+12363.00	V	27500 3/4	Pan Europe	DATA	MY MTV			Canal+ France	FTA	9120						2017-05-11	Yes	447001113
+12363.00	V	27500 3/4	Pan Europe	DATA	MON NICKELODEON JUNIOR			Canal+ France	FTA	9121						2017-11-14	Yes	447001115
+12363.00	V	27500 3/4	Pan Europe	DATA	ESPACE CLIENT			Canal+ France	FTA	9132						2016-08-07	Yes	447001117
+12363.00	V	27500 3/4	Pan Europe	DATA	DOWNLOAD CPRO V2 9134			Canal+ France	FTA	9134			1314	8191		2016-08-07	Yes	447001119
+12363.00	V	27500 3/4	Pan Europe	DATA	PUSH VOD COLLECTIVITES			Canal+ France	FTA	9136			1312	8191		2017-03-19	Yes	447001121
+12363.00	V	27500 3/4	Pan Europe	DATA	DOWNLOAD G5 SAMSUNG			Canal+ France	FTA	9146			1325	8191		2016-03-28	Yes	447001123
+12363.00	V	27500 3/4	Pan Europe	DATA	DOWNLOAD G5 PACE			Canal+ France	FTA	9147			1326	8191		2016-03-28	Yes	447001125
+12363.00	V	27500 3/4	Pan Europe	DATA	DOWNLOAD G5+ PACE			Canal+ France	FTA	9150			1329	8191		2016-03-28	Yes	447001127
+12363.00	V	27500 3/4	Pan Europe	DATA	DOWNLOAD G5+ SAGEM			Canal+ France	FTA	9151			1330	8191		2016-03-28	Yes	447001129
+12363.00	V	27500 3/4	Pan Europe	DATA	DOWNLOAD R7 G5+ PACE			Canal+ France	FTA	9152			1331	8191		2016-03-28	Yes	447001131
+12363.00	V	27500 3/4	Pan Europe	DATA	LE PORN			Canal+ France	FTA	9169						2016-08-07	Yes	447001133
+12363.00	V	27500 3/4	Pan Europe	DATA	DIAGNOSTIC TECHNIQUE			Canal+ France	FTA	9172						2016-08-07	Yes	447001135
+12363.00	V	27500 3/4	Pan Europe	DATA	MYTF1			Canal+ France	FTA	9173						2016-08-07	Yes	447001137
+12363.00	V	27500 3/4	Pan Europe	DATA	DONWLOAD SUISSE			Canal+ France	FTA	9188			1273	8191		2016-08-07	Yes	447001139
+12363.00	V	27500 3/4	Pan Europe	DATA	OTA REDSAT			Canal+ France	FTA	9190			1328	8191		2016-08-07	Yes	447001141
+12363.00	V	27500 3/4	Pan Europe	DATA	DOWNLOAD TNTSAT 9191			Canal+ France	FTA	9191			1276	8191		2016-03-28	Yes	447001143
+12363.00	V	27500 3/4	Pan Europe	DATA	DOWNLOAD TNTSAT 9192			Canal+ France	FTA	9192			1277	8191		2016-03-28	Yes	447001145
+12363.00	V	27500 3/4	Pan Europe	DATA	DOWNLOAD TNTSAT 9193			Canal+ France	FTA	9193			1278	8191		2016-03-28	Yes	447001147
+12363.00	V	27500 3/4	Pan Europe	DATA	DATA SERVICE R7			Canal+ France	FTA	9197			4050	8191		2017-10-11	Yes	447001149
+12363.00	V	27500 3/4	Pan Europe	DATA	DATA SYSTEM[98]			Canal+ France	FTA	9199			1279	8191		2016-03-28	Yes	447001151
+12363.00	V	27500 3/4	Pan Europe	DATA	NUMEROTATIONS CANAL+			Canal+ France	FTA	9201						2020-01-18	Yes	447001153
+12363.00	V	27500 3/4	Pan Europe	DATA	FOX PLAY			Canal+ France	FTA	9202						2017-10-11	Yes	447001155
+12363.00	V	27500 3/4	Pan Europe	DATA	DATA SERVICE R9			Canal+ France	FTA	9203						2018-01-11	Yes	447001157
+12363.00	V	27500 3/4	Pan Europe	DATA	INFO TECHNIQUE			Canal+ France	FTA	9204						2017-12-30	Yes	447001159
+12382.50	H	27500 3/4	Pan Europe	TV	Eurosport 2 HD	Francja	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	109	2047	2051[ger]|2052[eng]	103	2047		2019-01-13	No	451001001
+12382.50	H	27500 3/4	Pan Europe	TV	History Channel HD Germany	Niemcy	Historia	Kabelkiosk|Sky Deutschland	VideoGuard	113	767	771[ger]|772[eng]	98	767		2019-01-13	No	451001003
+12382.50	H	27500 3/4	Pan Europe	TV	E! HD Germany	Niemcy	Rozrywka	Kabelkiosk|Sky Deutschland	VideoGuard	128	2303	2307[ger]|2308[eng]	104	2303		2019-01-13	No	451001005
+12382.50	H	27500 3/4	Pan Europe	TV	Sky Cinema Premieren +24 HD	Niemcy	Filmy	Sky Deutschland	VideoGuard	135	255	259[ger]|260[eng]	96	255		2020-03-13	No	451001007
+12382.50	H	27500 3/4	Pan Europe	TV	TNT Comedy HD	Niemcy	Filmy	Sky Deutschland	VideoGuard	136	3839	3843[ger]|3844[eng]	110	3839		2019-01-13	No	451001009
+12382.50	H	27500 3/4	Pan Europe	TV	Motorvision	Niemcy	Sport	Sky Deutschland	VideoGuard	168	1023	1024[ger]|1025[eng]	99	1023		2019-01-13	No	451001011
+12382.50	H	27500 3/4	Pan Europe	TV	Sky Sport 11 HD	Niemcy	Sport	Sky Deutschland	VideoGuard	258	5375	5378[qae]|5379[qaf]	116	5375	32	2019-04-27	No	451001013
+12382.50	H	27500 3/4	Pan Europe	TV	Sky Sport Austria 4 HD	Austria	Sport	Sky Deutschland	VideoGuard	259	6399	6402[ger]|6404	120	6399	32	2019-09-14	No	451001015
+12382.50	H	27500 3/4	Pan Europe	TV	Eurosport 360 HD 9	Niemcy	Sport	Kabelkiosk|Sky Deutschland	VideoGuard	260	5631	5635[ger]	117	5631		2019-01-15	No	451001017
+12382.50	H	27500 3/4	Pan Europe	TV	Blue Movie	Niemcy	Porno	Kabelkiosk|Sky Deutschland	VideoGuard	345	4351	4352[ger]	112	4351		2019-01-13	No	451001019
+12382.50	H	27500 3/4	Pan Europe	TV	Blue Movie 2	Niemcy	Erotyka	Kabelkiosk|Sky Deutschland	VideoGuard	355	4607	4608[ger]	113	4607		2019-01-13	No	451001021
+12382.50	H	27500 3/4	Pan Europe	TV	Blue Movie 3	Niemcy	Erotyka	Kabelkiosk|Sky Deutschland	VideoGuard	365	4863	4864[ger]	114	4863		2019-01-13	No	451001023
+12382.50	H	27500 3/4	Pan Europe	TV	Crime + Investigation Germany	Niemcy	Dokumenty	Sky Deutschland	VideoGuard	402	511	512[ger]|513[eng]	97	511		2019-06-29	No	451001025
+12382.50	H	27500 3/4	Pan Europe	TV	Cartoon Network	Wielka Brytania	Dzieci	Sky Deutschland	VideoGuard	404	1791	1792[ger]|1793[eng]	102	1791		2019-01-13	No	451001027
+12382.50	H	27500 3/4	Pan Europe	TV	Blue Movie	Niemcy	Porno	Kabelkiosk|Sky Deutschland	VideoGuard	513	2559	1295[eng]	105	2559		2019-01-13	No	451001029
+12402.00	V	29700 2/3	Pan Europe	TV	France 4 HD	Francja	Rozrywka	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	8701	110	121[fra]|122[eng]	100	110		2018-04-10	No	455001003
+12402.00	V	29700 2/3	Pan Europe	TV	RMC Sport 3 HD	Francja	Sport	Canal+ France	Nagravision 3	8702	210	221[fra]	200	210		2018-09-18	No	455001005
+12402.00	V	29700 2/3	Pan Europe	TV	ES1 HD	Francja	Gry	Canal+ France	Nagravision 3|Viaccess 3.0	8703	310	321[fra]	300	310		2020-01-18	No	455001007
+12402.00	V	29700 2/3	Pan Europe	TV	..			Canal+ France	FTA	8704	410	421[fra]|422[qaa]	400	410		2020-01-15	Yes	455001009
+12402.00	V	29700 2/3	Pan Europe	TV	TV Breizh HD	Francja	Seriale	Canal+ France|Orange|TeleSat	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	8705	510	521[fra]|522[eng]	500	510		2018-08-12	No	455001011
+12402.00	V	29700 2/3	Pan Europe	TV	RFM TV HD	Francja	Muzyka	Canal+ France|Orange|TeleSat	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	8706	610	6621[fra]	600	610		2018-04-10	No	455001013
+12402.00	V	29700 2/3	Pan Europe	TV	TiJi HD	Francja	Dzieci	Canal+ France|Orange|TeleSat	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	8707	710	721[fra]	700	710		2018-04-10	No	455001015
+12402.00	V	29700 2/3	Pan Europe	TV	Dorcel XXX HD	Francja	Porno	Canal+ France	Nagravision 3|Viaccess 3.0|Viaccess 5.0	8708	810	821[fra]	800	810		2018-04-10	No	455001017
+12402.00	V	29700 2/3	Pan Europe	TV	Dorcel TV HD	Francja	Porno	Canal+ France|Orange	Nagravision 3|Viaccess 3.0|Viaccess 5.0	8709	910	921[fra]	900	910		2018-04-10	No	455001019
+12402.00	V	29700 2/3	Pan Europe	TV	MCM HD	Francja	Muzyka	Canal+ France|Orange	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	8714	1410	1421[fra]	1400	1410		2019-10-04	No	455001021
+12402.00	V	29700 2/3	Pan Europe	DATA	DATASYSTEM			Canal+ France	FTA	8799			4099	8191		2018-04-10	Yes	455001023
+12421.50	H	27500 3/4	Astra 1M	TV	WDR Studio Bielefeld	Niemcy	Regionalne	ARD Digital	FTA	28306	301	302[ger]	300	301	504	2012-06-12	Yes	459001001
+12421.50	H	27500 3/4	Astra 1M	TV	WDR Studio Dortmund	Niemcy	Regionalne	ARD Digital	FTA	28307	401	402[ger]	400	401	504	2012-06-12	Yes	459001003
+12421.50	H	27500 3/4	Astra 1M	TV	WDR Studio Düsseldorf	Niemcy	Regionalne	ARD Digital	FTA	28308	501	502[ger]	500	501	504	2012-06-12	Yes	459001005
+12421.50	H	27500 3/4	Astra 1M	TV	WDR Studio Essen	Niemcy	Regionalne	ARD Digital	FTA	28309	601	602[ger]	600	601	504	2012-06-12	Yes	459001007
+12421.50	H	27500 3/4	Astra 1M	TV	WDR Studio Münster	Niemcy	Regionalne	ARD Digital	FTA	28310	701	702[ger]	700	701	504	2012-06-12	Yes	459001009
+12421.50	H	27500 3/4	Astra 1M	TV	WDR Studio Siegen	Niemcy	Regionalne	ARD Digital	FTA	28311	801	802[ger]	800	801	504	2012-06-12	Yes	459001011
+12421.50	H	27500 3/4	Astra 1M	TV	WDR HD Köln	Niemcy	Regionalne	ARD Digital	FTA	28325	5501	5502[ger]|5503[mis]|5506[ger]	5500	5501	504	2012-06-12	Yes	459001013
+12421.50	H	27500 3/4	Astra 1M	TV	WDR HD Bielefeld	Niemcy	Regionalne	ARD Digital	FTA	28326	5511	5512[ger]|5513[mis]|5516[ger]	5510	5511	504	2012-06-12	Yes	459001015
+12421.50	H	27500 3/4	Astra 1M	TV	WDR HD Dortmund	Niemcy	Regionalne	ARD Digital	FTA	28327	5521	5522[ger]|5523[mis]|5526[ger]	5520	5521	504	2012-06-12	Yes	459001017
+12421.50	H	27500 3/4	Astra 1M	TV	WDR HD Düsseldorf	Niemcy	Regionalne	ARD Digital	FTA	28328	5531	5532[ger]|5533[mis]|5536[ger]	5530	5501	504	2012-06-12	Yes	459001019
+12421.50	H	27500 3/4	Astra 1M	TV	WDR HD Essen	Niemcy	Regionalne	ARD Digital	FTA	28329	5541	5542[ger]|5543[mis]|5546[ger]	5540	5541	504	2012-06-12	Yes	459001021
+12421.50	H	27500 3/4	Astra 1M	TV	WDR HD Münster	Niemcy	Regionalne	ARD Digital	FTA	28330	5551	5552[ger]|5553[mis]|5556[ger]	5550	5551	504	2012-06-12	Yes	459001023
+12421.50	H	27500 3/4	Astra 1M	TV	WDR HD Siegen	Niemcy	Regionalne	ARD Digital	FTA	28331	5561	5562[ger]|5563[mis]|5566[ger]	5560	5561	504	2012-06-12	Yes	459001025
+12421.50	H	27500 3/4	Astra 1M	TV	Radio Bremen TV	Niemcy	Regionalne	ARD Digital	FTA	28385	1201	1202[ger]	1200	1201	1204	2012-06-12	Yes	459001027
+12421.50	H	27500 3/4	Astra 1M	TV	WDR Test A			ARD Digital	FTA	28395	101	102[ger]|103[ger]|106[ger]	1500	101	104	2012-06-12	Yes	459001029
+12441.00	V	29700 2/3	Pan Europe	TV	NatGeo Wild HD France	Francja	Dokumenty	Canal+ France|Orange|TeleSat	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	6501	110	121[fra]	100	110		2019-04-03	No	463001001
+12441.00	V	29700 2/3	Pan Europe	TV	Mezzo Live HD	Francja	Muzyka	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	6502	210	221[fra]	200	210		2018-04-10	No	463001003
+12441.00	V	29700 2/3	Pan Europe	TV	M6 Music Hits HD	Francja	Muzyka	Canal+ France|Orange	Nagravision 3|Viaccess 3.0|Viaccess 4.0	6503	310	321[fra]	300	310		2018-04-10	No	463001005
+12441.00	V	29700 2/3	Pan Europe	TV	Djazz TV HD	Francja	Muzyka	Canal+ France	Nagravision 3|Viaccess 3.0	6504	410	421[fra]	400	410		2018-04-10	No	463001007
+12441.00	V	29700 2/3	Pan Europe	TV	Série Club HD	Francja	Seriale	Canal+ France	Nagravision 3|Viaccess 3.0	6505	510	521[fra]|522[eng]	500	510		2018-04-10	No	463001009
+12441.00	V	29700 2/3	Pan Europe	TV	Warner TV	Francja	Seriale	Canal+ France	Nagravision 3|Viaccess 3.0|Viaccess 6.0	6506	610	621[fra]|622[eng]	600	610		2018-04-10	No	463001011
+12441.00	V	29700 2/3	Pan Europe	TV	Man X	Francja	Porno	Canal+ France|Orange	Nagravision 3|Viaccess 3.0	6507	710	721[fra]	700	710		2018-04-10	No	463001013
+12441.00	V	29700 2/3	Pan Europe	TV	Comédie+ HD	Francja	Komedia	Canal+ France|TeleSat	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	6508	810	821[fra]|822[eng]	800	810		2018-04-10	No	463001015
+12441.00	V	29700 2/3	Pan Europe	TV	Piwi+ HD	Francja	Dzieci	Canal+ France|TeleSat	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	6510	1010	1021[fra]	1000	1010		2018-04-10	No	463001017
+12441.00	V	29700 2/3	Pan Europe	TV	Canal J HD	Francja	Dzieci	Canal+ France|Orange|TeleSat	Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	6511	1110	1121[fra]	1100	1110		2018-04-10	No	463001019
+12441.00	V	29700 2/3	Pan Europe	TV	Nickelodeon Teen HD	Francja	Dzieci	Canal+ France	Nagravision 3|Viaccess 3.0	6512	1210	1221[fra]	1200	1210		2018-04-10	No	463001021
+12441.00	V	29700 2/3	Pan Europe	TV	Multisports HD	Francja	Sport	Canal+ France	Nagravision 3|Viaccess 3.0|Viaccess 4.0	6513	1310	1321[fra]	1300	1310		2018-05-15	No	463001023
+12441.00	V	29700 2/3	Pan Europe	TV	Multisports HD	Francja	Sport	Canal+ France	Nagravision 3|Viaccess 3.0|Viaccess 4.0	6514	1410	1421[fra]	1400	1410		2019-07-16	No	463001025
+12441.00	V	29700 2/3	Pan Europe	DATA	DATASYSTEM			Canal+ France	FTA	6599			4099	8191		2018-04-10	Yes	463001027
+12460.50	H	27500 3/4	Astra 1M	TV	N24 Doku	Niemcy	Dokumenty	BetaDigital	FTA	48	511	512[ger]	97	511	34	2016-09-16	Yes	467001001
+12460.50	H	27500 3/4	Astra 1M	TV	EWTN Europe	Stany Zjednoczone	Religia	BetaDigital	FTA	62	1023	1024[ger]|1025[eng]	100	1023		2012-06-06	Yes	467001003
+12460.50	H	27500 3/4	Astra 1M	TV	QVC Style Germany	Niemcy	Telezakupy	BetaDigital	FTA	64	1791	1792[ger]	102	1791	38	2018-02-08	Yes	467001005
+12460.50	H	27500 3/4	Astra 1M	TV	Nicer Dicer TV	Niemcy	Telezakupy	BetaDigital	FTA	74	2303	2304[ger]	104	2303		2018-06-14	Yes	467001007
+12460.50	H	27500 3/4	Astra 1M	TV	Handystar TV	Niemcy	Telezakupy	BetaDigital	FTA	659	3071	3072[ger]	108	3071		2019-06-07	Yes	467001009
+12460.50	H	27500 3/4	Astra 1M	TV	1-2-3.tv	Niemcy	Telezakupy	BetaDigital	FTA	662	2815	2816[ger]	105	2815	32	2018-11-08	Yes	467001011
+12460.50	H	27500 3/4	Astra 1M	TV	Anixe TV	Niemcy	Ogólne	BetaDigital	FTA	764	3311	3312[ger]	107	3311		2019-07-07	Yes	467001013
+12460.50	H	27500 3/4	Astra 1M	TV	TLC Germany	Niemcy	Dokumenty	BetaDigital	FTA	772	1535	1536[ger]	103	1535	37	2014-04-23	Yes	467001015
+12460.50	H	27500 3/4	Astra 1M	TV	Sixx	Niemcy	Ogólne	ProSiebenSat.1	FTA	776	767	768[ger]	99	767	35	2012-06-06	Yes	467001017
+12460.50	H	27500 3/4	Astra 1M	TV	Disney Channel Germany	Niemcy	Dzieci	BetaDigital	FTA	1793	2047	2048[ger]|2051[ger]	115	2047	36	2015-02-19	Yes	467001019
+12460.50	H	27500 3/4	Astra 1M	TV	QVC Germany	Niemcy	Telezakupy	BetaDigital	FTA	1794	255	256[ger]	96	255	33	2012-12-13	Yes	467001021
+12460.50	H	27500 3/4	Astra 1M	R	egoFM			BetaDigital	FTA	172		384[ger]	132	384		2012-06-06	Yes	467001023
+12460.50	H	27500 3/4	Astra 1M	R	Klassik Radio			BetaDigital	FTA	173		336[ger]	133	336		2012-06-06	Yes	467001025
+12460.50	H	27500 3/4	Astra 1M	R	JAM FM			BetaDigital	FTA	177		528[ger]	119	528		2012-06-06	Yes	467001027
+12480.00	V	27500 3/4	Astra 1M	TV	Sonnenklar TV	Niemcy	Podróże	BetaDigital	FTA	32	2303	2304[ger]	97	2303	40	2015-10-26	Yes	471001001
+12480.00	V	27500 3/4	Astra 1M	TV	Home Shopping Europe Deutschland	Niemcy	Telezakupy	BetaDigital	FTA	40	1279	1280[ger]	104	1279	37	2012-06-06	Yes	471001003
+12480.00	V	27500 3/4	Astra 1M	TV	Handystar TV 2	Niemcy	Telezakupy	BetaDigital	FTA	46	1791	1792[ger]	106	1791		2019-06-07	Yes	471001005
+12480.00	V	27500 3/4	Astra 1M	TV	Regio TV	Niemcy	Regionalne	BetaDigital	FTA	47	2047	2048[ger]	107	2047		2018-08-12	Yes	471001007
+12480.00	V	27500 3/4	Astra 1M	TV	Tele 5	Niemcy	Ogólne	BetaDigital	FTA	51	1535	1536[ger]	99	1535	38	2012-06-06	Yes	471001009
+12480.00	V	27500 3/4	Astra 1M	TV	DMAX	Niemcy	Lifestyle	BetaDigital	FTA	63	3327	3328[ger]	108	3327	44	2012-06-06	Yes	471001011
+12480.00	V	27500 3/4	Astra 1M	TV	Baden TV	Niemcy	Regionalne	BetaDigital	FTA	76	2815	2816[ger]	109	2815		2018-11-11	Yes	471001013
+12480.00	V	27500 3/4	Astra 1M	TV	HSE24 Trend	Niemcy	Telezakupy	BetaDigital	FTA	77	3071	3072[ger]	110	3071	37	2015-09-04	Yes	471001015
+12480.00	V	27500 3/4	Astra 1M	TV	Astro TV	Niemcy	Voyance	BetaDigital	FTA	661	2559	2560[ger]	98	2559		2014-06-06	Yes	471001017
+12480.00	V	27500 3/4	Astra 1M	TV	Equi8	Niemcy	Sport	BetaDigital	FTA	897	767	768[ger]	102	767		2012-06-06	Yes	471001019
+12480.00	V	27500 3/4	Astra 1M	TV	MediaShop - Meine Einkaufswelt	Niemcy	Telezakupy	BetaDigital	FTA	898	255	256[ger]	100	255		2012-06-06	Yes	471001021
+12480.00	V	27500 3/4	Astra 1M	TV	MeinTVshop	Niemcy	Telezakupy	BetaDigital	FTA	899	511	512[ger]	101	511		2012-06-06	Yes	471001023
+12480.00	V	27500 3/4	Astra 1M	TV	Sport 1 Germany	Niemcy	Sport	BetaDigital	FTA	900	1023	1024[ger]	103	1023	39	2012-06-06	Yes	471001025
+12515.25	H	22000 5/6	Astra 1L	TV	Vivid TV	Holandia	Porno	Canal Digitaal|TeleSat|TV Vlaanderen	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	4064	564	90[eng]	2164	564		2014-11-23	No	475001003
+12515.25	H	22000 5/6	Astra 1L	TV	Vivid CZ			M7 Group	Cryptoworks|Irdeto 2|Viaccess 5.0	4065	564	90[eng]	2165	564		2016-03-13	No	475001005
+12515.25	H	22000 5/6	Astra 1L	TV	RTL Lounge	Holandia	Rozrywka	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	4066	566	126[ned]	2266	566		2018-08-01	No	475001007
+12515.25	H	22000 5/6	Astra 1L	TV	AB 3	Belgia	Ogólne	Bis|TeleSat	Mediaguard 3|Nagravision 3|Viaccess 4.0|Viaccess 5.0	4102	602	142[fra]	2202	602		2017-07-05	No	475001009
+12515.25	H	22000 5/6	Astra 1L	TV	Brazzers TV	nieokreślony	Porno	Austriasat|Canal Digitaal|Orange|TeleSat|TV Vlaanderen	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	4105	605	145[eng]	2205	605		2017-05-26	No	475001011
+12515.25	H	22000 5/6	Astra 1L	TV	Eurosport 2 Germany	Niemcy	Sport	Austriasat|Canal Digitaal|TV Vlaanderen	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	4106	606	146[ger]|246[eng]	2206	606		2016-11-18	No	475001013
+12515.25	H	22000 5/6	Astra 1L	TV	Hustler TV	Stany Zjednoczone	Porno	Austriasat|Canal Digitaal|Orange|TeleSat|TV Vlaanderen	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 3.0|Viaccess 5.0	4107	607	147[eng]	2207	607		2016-11-18	No	475001015
+12515.25	H	22000 5/6	Astra 1L	TV	Hustler TV CZ			M7 Group	Cryptoworks|Irdeto 2|Viaccess 5.0	4109	607	147[ned]	2209	607		2016-11-22	No	475001017
+12515.25	H	22000 5/6	Astra 1L	TV	Planet	Niemcy	Dokumenty	Austriasat|Canal Digitaal	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	4115	615	155[ger]	2215	615		2016-11-17	No	475001019
+12515.25	H	22000 5/6	Astra 1L	TV	AXN Deutschland	Niemcy	Seriale	Austriasat|Canal Digitaal	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	4125	625	165[ger]|265[eng]	2225	625		2016-11-17	No	475001021
+12515.25	H	22000 5/6	Astra 1L	TV	Eleven Sports 1	Belgia	Sport	TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	4126	626	166[ned]|168[fra]	2226	626		2017-11-01	No	475001023
+12515.25	H	22000 5/6	Astra 1L	TV	Eleven Sports 2	Belgia	Sport	TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	4127	627	167[ned]|169[fra]	2227	627		2018-02-07	No	475001025
+12515.25	H	22000 5/6	Astra 1L	TV	Brazzers TV CZ			Canal Digitaal	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 2.3	4145	605	145[eng]	2245	605		2017-11-25	No	475001027
+12515.25	H	22000 5/6	Astra 1L	TV	VElevensports1			TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	4146	626	166[ned]|168[fra]	2246	626		2017-11-01	No	475001029
+12515.25	H	22000 5/6	Astra 1L	TV	VElevenSports2			TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	4147	627	167[ned]|169[fra]	2247	627		2018-02-07	No	475001031
+12515.25	H	22000 5/6	Astra 1L	R	Radio Lebensquelle			M7 Group	FTA	4060		119[ger]	2160	119		2016-05-10	Yes	475001033
+12515.25	H	22000 5/6	Astra 1L	R	Radio Freundes-Dienst			M7 Group	FTA	4062		132[ger]	2162	132		2016-05-11	Yes	475001035
+12515.25	H	22000 5/6	Astra 1L	R	Nostalgie			Canal Digitaal|TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	4114		154[ned]	2214	154		2016-12-01	No	475001037
+12515.25	H	22000 5/6	Astra 1L	R	VRT Radio1			M7 Group	FTA	4122		162[ned]	2222	162		2016-12-01	Yes	475001039
+12515.25	H	22000 5/6	Astra 1L	R	VRT Radio2			M7 Group	FTA	4123		163[ned]	2223	163		2016-12-01	Yes	475001041
+12515.25	H	22000 5/6	Astra 1L	R	NRJ			TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	4159		159[ned]	2259	159		2018-09-17	No	475001043
+12515.25	H	22000 5/6	Astra 1L	DATA	Downl CAM 1			Canal Digitaal	FTA	4081			2181	8191		2018-10-11	Yes	475001045
+12515.25	H	22000 5/6	Astra 1L	DATA	M7 SAT901			M7 Group	FTA	4082			2182	8191		2018-10-11	Yes	475001047
+12515.25	H	22000 5/6	Astra 1L	DATA	Downl CAM 2			Canal Digitaal	FTA	4083			2183	8190		2015-09-03	Yes	475001049
+12515.25	H	22000 5/6	Astra 1L	DATA	M7 Zenterio			M7 Group	FTA	4084			2184	8190		2015-09-03	Yes	475001051
+12515.25	H	22000 5/6	Astra 1L	DATA	M7 DL DSR7141			M7 Group	FTA	4095			2195	8190		2015-09-03	Yes	475001053
+12515.25	H	22000 5/6	Astra 1L	DATA	Nagra DL DSR7141			Canal Digitaal	FTA	4096			2196	8190		2015-09-03	Yes	475001055
+12515.25	H	22000 5/6	Astra 1L	DATA	M7 DL DSR8141			M7 Group	FTA	4097			2197	8190		2015-09-03	Yes	475001057
+12515.25	H	22000 5/6	Astra 1L	DATA	Nagra DL DSR8141			Canal Digitaal	FTA	4098			2198	8190		2015-09-03	Yes	475001059
+12515.25	H	22000 5/6	Astra 1L	DATA	M7 SAT801			M7 Group	FTA	4099			2199	8190		2015-09-03	Yes	475001061
+12515.25	H	22000 5/6	Astra 1L	DATA	EPG Nagraguide			M7 Group	FTA	7198			2189	8191		2018-10-11	Yes	475001063
+12544.75	H	22000 5/6	Astra 1L	TV	Sat 1	Niemcy	Ogólne	ProSiebenSat.1	FTA	17500	255	256[ger]|259[ger]	96	255	32	2019-01-19	Yes	483001001
+12544.75	H	22000 5/6	Astra 1L	TV	ProSieben	Niemcy	Ogólne	ProSiebenSat.1	FTA	17501	511	512[ger]|515[ger]	97	511	33	2019-01-19	Yes	483001003
+12544.75	H	22000 5/6	Astra 1L	TV	Kabel 1	Niemcy	Ogólne	ProSiebenSat.1	FTA	17502	767	768[ger]	98	767	34	2019-01-19	Yes	483001005
+12544.75	H	22000 5/6	Astra 1L	TV	Welt	Niemcy	Informacje	ProSiebenSat.1	FTA	17503	1023	1024[ger]	99	1023	35	2019-01-19	Yes	483001007
+12544.75	H	22000 5/6	Astra 1L	TV	SAT 1 Gold	Niemcy	Rozrywka	ProSiebenSat.1	FTA	17504	1279	1280[ger]	100	1279	36	2019-01-19	Yes	483001009
+12544.75	H	22000 5/6	Astra 1L	TV	ProSieben MAXX	Niemcy	Rozrywka	ProSiebenSat.1	FTA	17505	1535	1536[ger]	101	1535	37	2019-01-19	Yes	483001011
+12544.75	H	22000 5/6	Astra 1L	TV	SAT.1 Bayern			ProSiebenSat.1	FTA	17507	255	256[ger]|259[ger]	103	255	32	2019-01-19	Yes	483001013
+12544.75	H	22000 5/6	Astra 1L	TV	SAT.1 NRW			ProSiebenSat.1	FTA	17508	255	256[ger]|259[ger]	104	255	32	2019-01-19	Yes	483001015
+12544.75	H	22000 5/6	Astra 1L	TV	Kabel 1 Doku	Niemcy	Dokumenty	ProSiebenSat.1	FTA	17509	2559	2560[ger]	105	2559	41	2019-01-19	Yes	483001017
+12551.50	V	22000 5/6	Pan Europe	TV	QVC 2	Niemcy	Telezakupy	SES ASTRA	FTA	3394	168	144[ger]	1060	168	146	2019-01-22	Yes	487001001
+12551.50	V	22000 5/6	Pan Europe	TV	QVC Germany	Niemcy	Telezakupy	SES ASTRA	FTA	12100	165	166[ger]	1030	165	167	2019-01-22	Yes	487001003
+12551.50	V	22000 5/6	Pan Europe	TV	Bibel TV	Niemcy	Religia	SES ASTRA	FTA	12122	33	34[ger]	32	33	36	2019-01-22	Yes	487001005
+12551.50	V	22000 5/6	Pan Europe	TV	Cherie 25	Francja	Ogólne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	12140	5301	5302[fra]|5303[eng]|5304[qad]	5300	5301		2019-01-26	No	487001007
+12551.50	V	22000 5/6	Pan Europe	TV	Cherie 25			Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	12141	5301	5302[fra]|5303[eng]|5304[qad]	5400	5301		2019-03-04	No	487001009
+12551.50	V	22000 5/6	Pan Europe	TV	NRJ 12 HD	Francja	Rozrywka	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	12145	5501	5502[fra]|5503[eng]|5504[qad]	5500	5501		2019-03-04	No	487001011
+12551.50	V	22000 5/6	Pan Europe	TV	NRJ 12			Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	12146	5501	5502[fra]|5503[eng]|5504[qad]	5600	5501		2019-03-04	No	487001013
+12551.50	V	22000 5/6	Pan Europe	DATA	ASTRA SDT			SES ASTRA	FTA	12			42	8191		2019-05-18	Yes	487001015
+12574.25	H	22000 2/3	Astra 1L	TV	Sonnenklar.TV HD	Niemcy	Podróże	BetaDigital	FTA	5400	255	259[ger]	96	255	32	2017-04-22	Yes	491001001
+12574.25	H	22000 2/3	Astra 1L	TV	Tele 5 HD	Niemcy	Rozrywka	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	5401	511	515[ger]	97	511	33	2017-11-01	No	491001003
+12574.25	H	22000 2/3	Astra 1L	TV	DMAX HD	Niemcy	Lifestyle	HD +|Sky Deutschland	Irdeto 2|Nagravision 3|Viaccess 5.0|VideoGuard	5402	767	771[ger]	98	767	34	2018-03-25	No	491001005
+12574.25	H	22000 2/3	Astra 1L	TV	Juwelo HD	Niemcy	Telezakupy	BetaDigital	FTA	5403	1023	1024[ger]	99	1023		2017-04-22	Yes	491001007
+12574.25	H	22000 2/3	Astra 1L	TV	Pearl.tv HD	Niemcy	Telezakupy	BetaDigital	FTA	5404	1279	1280[ger]	100	1279		2017-04-22	Yes	491001009
+12574.25	H	22000 2/3	Astra 1L	TV	TELE 5 HD Austria	Austria	Ogólne	Austriasat	Irdeto 2|Viaccess 5.0|VideoGuard	5421	511	515[ger]	129	511	33	2017-05-27	No	491001011
+12574.25	H	22000 2/3	Astra 1L	TV	DMAX HD Austria	Austria	Rozrywka	Austriasat	Irdeto 2|Viaccess 5.0|VideoGuard	5422	767	771[ger]	130	767	34	2017-05-27	No	491001013
+12603.75	H	22000 5/6	Pan Europe	TV	Sky News International	Wielka Brytania	Informacje	SES ASTRA	FTA	7290	1290	2290[eng]	7290	1290	1750	2017-07-26	Yes	499001001
+12603.75	H	22000 5/6	Pan Europe	TV	WDR Studio Aachen	Niemcy	Regionalne	ARD Digital	FTA	28534	3401	3402[ger]	3400	3401	3804	2014-03-05	Yes	499001003
+12603.75	H	22000 5/6	Pan Europe	TV	WDR Studio Wuppertal	Niemcy	Regionalne	ARD Digital	FTA	28535	3501	3502[ger]	3500	3501	3804	2014-03-05	Yes	499001005
+12603.75	H	22000 5/6	Pan Europe	TV	WDR Studio Bonn	Niemcy	Regionalne	ARD Digital	FTA	28536	3601	3602[ger]	3600	3601	3804	2014-03-05	Yes	499001007
+12603.75	H	22000 5/6	Pan Europe	TV	WDR Studio Duisburg	Niemcy	Regionalne	ARD Digital	FTA	28537	3701	3702[ger]	3700	3701	3804	2014-03-05	Yes	499001009
+12603.75	H	22000 5/6	Pan Europe	TV	WDR HD Aachen	Niemcy	Regionalne	ARD Digital	FTA	28544	5601	5602[ger]|5603[mis]|5606[ger]	5600	5601	5604	2019-10-05	Yes	499001011
+12603.75	H	22000 5/6	Pan Europe	TV	WDR HD Wuppertal	Niemcy	Regionalne	ARD Digital	FTA	28545	5601	5602[ger]|5603[mis]|5606[ger]	5610	5601	5604	2019-10-05	Yes	499001013
+12603.75	H	22000 5/6	Pan Europe	TV	WDR HD Bonn	Niemcy	Regionalne	ARD Digital	FTA	28546	5601	5602[ger]|5603[mis]|5606[ger]	5620	5601	5604	2019-10-05	Yes	499001015
+12603.75	H	22000 5/6	Pan Europe	TV	WDR HD Duisburg	Niemcy	Regionalne	ARD Digital	FTA	28547	5601	5602[ger]|5603[mis]|5606[ger]	5630	5601	5604	2019-10-05	Yes	499001017
+12603.75	H	22000 5/6	Pan Europe	R	Radio Horeb			Eurociel	FTA	7289		1289[ger]	7289	1289		2014-03-05	Yes	499001019
+12603.75	H	22000 5/6	Pan Europe	R	Radio neue Hoffnung			SES ASTRA	FTA	7292		1292[ger]	7292	1292		2014-03-05	Yes	499001021
+12603.75	H	22000 5/6	Pan Europe	R	RTL RADIO			SES ASTRA	FTA	7931		7932[ger]	7931	7932		2017-07-12	Yes	499001023
+12603.75	H	22000 5/6	Pan Europe	DATA	ASTRA SDT			SES ASTRA	FTA	13			32	8191		2015-08-26	Yes	499001025
+12603.75	H	22000 5/6	Pan Europe	DATA	FP URMET			SES ASTRA	FTA	7252			7252	8191		2015-08-26	Yes	499001027
+12603.75	H	22000 5/6	Pan Europe	DATA	STB Panasonic			SES ASTRA	FTA	7267			7267	8191		2015-08-02	Yes	499001029
+12603.75	H	22000 5/6	Pan Europe	DATA	Datendienst T1M			SES ASTRA	FTA	7270			7270	8191		2015-08-02	Yes	499001031
+12603.75	H	22000 5/6	Pan Europe	DATA	KaCTFL			SES ASTRA	FTA	7280			7280	8191		2015-08-26	Yes	499001033
+12603.75	H	22000 5/6	Pan Europe	DATA	Panasonic Viera			SES ASTRA	FTA	7281			7281	8191		2015-08-26	Yes	499001035
+12603.75	H	22000 5/6	Pan Europe	DATA	IDS DOWNLOAD SVC			SES Astra	FTA	7294			7294	8191		2015-08-02	Yes	499001037
+12603.75	H	22000 5/6	Pan Europe	DATA	Kathrein Download			SES ASTRA	FTA	7299			7299	8191		2015-08-02	Yes	499001039
+12603.75	H	22000 5/6	Pan Europe	DATA	SGI_1111			SES ASTRA	FTA	7910			7910	8191		2015-08-02	Yes	499001041
+12603.75	H	22000 5/6	Pan Europe	DATA	SES-LCN2			SES ASTRA	FTA	7911			7911	8191		2015-08-02	Yes	499001043
+12633.25	H	22000 5/6	Pan Europe	TV	Health.tv	Niemcy	Zdrowie	MB Satellite	FTA	12600	200	300[ger]	100	200	500	2018-12-26	Yes	507001001
+12633.25	H	22000 5/6	Pan Europe	TV	K-TV Fernsehen	Austria	Religia	MB Satellite	FTA	12601	202	302[ger]	102	202		2018-12-26	Yes	507001003
+12633.25	H	22000 5/6	Pan Europe	TV	Deutsches Musik Fernsehen	Niemcy	Muzyka	MB Satellite	FTA	12604	53	54[ger]	105	53	504	2018-12-26	Yes	507001005
+12633.25	H	22000 5/6	Pan Europe	TV	MB SAT - Test 8			MB Satellite	FTA	12606	1113	1114[ger]	106	1113		2019-03-02	Yes	507001007
+12633.25	H	22000 5/6	Pan Europe	TV	GayBoys Live	Niemcy	Erotyka	MB Satellite	FTA	12612	212	312[ger]	112	206		2018-12-26	Yes	507001009
+12633.25	H	22000 5/6	Pan Europe	TV	Rheinmain TV	Niemcy	Regionalne	MB Satellite	FTA	12614	208	308[ger]	108	208		2020-01-16	Yes	507001011
+12633.25	H	22000 5/6	Pan Europe	TV	Deutsche Girls 2	Niemcy	Erotyka	MB Satellite	FTA	12615	215	315[ger]	115	206		2018-12-26	Yes	507001013
+12633.25	H	22000 5/6	Pan Europe	TV	Juwelo TV	Niemcy	Telezakupy	MB Satellite	FTA	12616	1041	1042[ger]	116	1041		2018-12-26	Yes	507001015
+12633.25	H	22000 5/6	Pan Europe	TV	Dreamgirls.TV	Niemcy	Erotyka	MB Satellite	FTA	12618	230	330[ger]	118	206		2018-12-26	Yes	507001017
+12633.25	H	22000 5/6	Pan Europe	TV	Erotik Sat TV	Niemcy	Erotyka	MB Satellite	FTA	12619	229	329[ger]	119	206		2018-12-26	Yes	507001019
+12633.25	H	22000 5/6	Pan Europe	TV	ACHTUNG Erotik.TV	Niemcy	Erotyka	MB Satellite	FTA	12620	228	328[ger]	120	206		2018-12-26	Yes	507001021
+12633.25	H	22000 5/6	Pan Europe	TV	MB SAT - Test1			MB Satellite	FTA	12621	1113	1114[ger]	121	1113		2018-12-26	Yes	507001023
+12633.25	H	22000 5/6	Pan Europe	TV	Männersache	Niemcy	Erotyka	MB Satellite	FTA	12622	222	322[ger]	122	222		2018-12-26	Yes	507001025
+12633.25	H	22000 5/6	Pan Europe	TV	Date Line TV	Niemcy	Erotyka	MB Satellite	FTA	12623	223	323[ger]	123	223		2018-12-26	Yes	507001027
+12633.25	H	22000 5/6	Pan Europe	TV	Fotohandy.TV	Niemcy	Erotyka	MB Satellite	FTA	12624	224	324[ger]	124	224		2018-12-26	Yes	507001029
+12633.25	H	22000 5/6	Pan Europe	TV	Mobile Sex	Niemcy	Erotyka	MB Satellite	FTA	12625	225	325[ger]	125	225		2018-12-26	Yes	507001031
+12633.25	H	22000 5/6	Pan Europe	TV	Sex Kontakte	Niemcy	Erotyka	MB Satellite	FTA	12626	226	326[ger]	126	226		2018-12-26	Yes	507001033
+12633.25	H	22000 5/6	Pan Europe	TV	Eros TV (Gernamy)	Niemcy	Erotyka	MB Satellite	FTA	12627	227	327	127	206		2018-12-26	Yes	507001035
+12633.25	H	22000 5/6	Pan Europe	TV	Achtung Sexy TV	Niemcy	Erotyka	MB Satellite	FTA	12628	228	328	128	206		2018-12-26	Yes	507001037
+12633.25	H	22000 5/6	Pan Europe	TV	Traumfrauen TV	Niemcy	Erotyka	MB Satellite	FTA	12629	229	329	129	206		2018-12-26	Yes	507001039
+12633.25	H	22000 5/6	Pan Europe	TV	Heiss und Sexy TV	Niemcy	Erotyka	MB Satellite	FTA	12630	230	330	130	206		2018-12-26	Yes	507001041
+12633.25	H	22000 5/6	Pan Europe	TV	Volksmusik TV	Austria	Muzyka	MB Satellite	FTA	12633	233	333[ger]	133	233	504	2020-01-27	Yes	507001043
+12633.25	H	22000 5/6	Pan Europe	TV	nice			MB Satellite	FTA	12634	242	342	134	342		2019-07-26	Yes	507001045
+12633.25	H	22000 5/6	Pan Europe	TV	Babestation24 (Germany)	Niemcy	Erotyka	MB Satellite	FTA	12635	235	335[ger]	135	235		2018-12-26	Yes	507001047
+12633.25	H	22000 5/6	Pan Europe	TV	freenet Shopping	Niemcy	Telezakupy	MB Satellite	FTA	12636	236	336[ger]	136	236		2018-12-26	Yes	507001049
+12633.25	H	22000 5/6	Pan Europe	TV	Erotika TV	nieokreślony	Erotyka	MB Satellite	FTA	12639	239	339[ger]	139	239		2018-12-26	Yes	507001051
+12633.25	H	22000 5/6	Pan Europe	TV	BunnyClub 24	Niemcy	Erotyka	MB Satellite	FTA	12640	240	340[ger]	140	240		2018-12-26	Yes	507001053
+12633.25	H	22000 5/6	Pan Europe	TV	Clipmobile	Niemcy	Erotyka	MB Satellite	FTA	12641	241	341[ger]	141	241		2018-12-26	Yes	507001055
+12633.25	H	22000 5/6	Pan Europe	TV	MB SAT - Test7			MB Satellite	FTA	12642	1113	1114[ger]	142	1113		2018-12-26	Yes	507001057
+12633.25	H	22000 5/6	Pan Europe	TV	ALT Sendersuchlauf starten!!			MB Satellite	FTA	12643	53	54[ger]	143	53	504	2018-12-26	Yes	507001059
+12633.25	H	22000 5/6	Pan Europe	TV	MB SAT - Test2			MB Satellite	FTA	12644	1113	1114[ger]	144	1113		2018-12-26	Yes	507001061
+12633.25	H	22000 5/6	Pan Europe	TV	MB SAT - Test6			MB Satellite	FTA	12645	1113	1114[ger]	145	1113		2018-12-26	Yes	507001063
+12633.25	H	22000 5/6	Pan Europe	TV	MB SAT - Test4			MB Satellite	FTA	12646	1113	1114[ger]	146	1113		2018-12-26	Yes	507001065
+12633.25	H	22000 5/6	Pan Europe	TV	MB SAT - Test5			MB Satellite	FTA	12647	1113	1114[ger]	147	1113		2018-12-26	Yes	507001067
+12633.25	H	22000 5/6	Pan Europe	R	Inselradio			MB Satellite	FTA	12651		702	152	702		2018-12-26	Yes	507001069
+12633.25	H	22000 5/6	Pan Europe	R	ffn			MB Satellite	FTA	12654		354[ger]	154	354		2018-12-26	Yes	507001071
+12633.25	H	22000 5/6	Pan Europe	R	Radio Paloma			MB Satellite	FTA	12655		355	155	355		2018-12-26	Yes	507001073
+12633.25	H	22000 5/6	Pan Europe	R	Radio HBR			MB Satellite	FTA	12656		356[ger]	156	356		2018-12-26	Yes	507001075
+12633.25	H	22000 5/6	Pan Europe	R	Radio HCJB			MB Satellite	FTA	12657		357[ger]	157	357		2018-12-26	Yes	507001077
+12633.25	H	22000 5/6	Pan Europe	R	SCHLAGER-RADIO			MB Satellite	FTA	12658		364[ger]	158	364		2019-01-04	Yes	507001079
+12633.25	H	22000 5/6	Pan Europe	R	Radio Gloria			MB Satellite	FTA	12659		359	159	359		2018-12-26	Yes	507001081
+12633.25	H	22000 5/6	Pan Europe	R	HIT RADIO FFH			MB Satellite	FTA	12660		1024	109	1024		2018-12-26	Yes	507001083
+12633.25	H	22000 5/6	Pan Europe	R	planet radio			MB Satellite	FTA	12661		1030	110	1030		2018-12-26	Yes	507001085
+12633.25	H	22000 5/6	Pan Europe	R	harmony.fm			MB Satellite	FTA	12662		1036	111	1036		2018-12-26	Yes	507001087
+12633.25	H	22000 5/6	Pan Europe	R	Radio Regenbogen			MB Satellite	FTA	12663		363[ger]	163	363		2018-12-26	Yes	507001089
+12633.25	H	22000 5/6	Pan Europe	R	radioB2  SCHLAGER			MB Satellite	FTA	12664		364[ger]	164	364		2018-12-26	Yes	507001091
+12633.25	H	22000 5/6	Pan Europe	R	Regenbogen 2			MB Satellite	FTA	12665		365[aac][ger]	165	365		2019-03-02	Yes	507001093
+12633.25	H	22000 5/6	Pan Europe	DATA	RAPS			MB Satellite	FTA	12613			114	8191		2018-12-26	Yes	507001095
+12633.25	H	22000 5/6	Pan Europe	DATA	MB SAT - Test3			MB Satellite	FTA	12638			138	8191		2018-12-26	Yes	507001097
+12662.75	H	22000 5/6	Pan Europe	TV	ORF III	Austria	Ogólne	ORF Digital	Cryptoworks|Irdeto 2	13101	1010	1011[ger]	1101	1010	1013	2019-06-02	No	515001003
+12662.75	H	22000 5/6	Pan Europe	TV	RTL Nitro Austria	Austria	Rozrywka	RTL	FTA	13102	1020	1021[ger]	1102	1020	1025	2014-10-16	Yes	515001005
+12662.75	H	22000 5/6	Pan Europe	TV	Welt der Wunder	Niemcy	Technologia	-	FTA	13103	1030	1031[ger]	1103	1030		2017-12-12	Yes	515001007
+12662.75	H	22000 5/6	Pan Europe	TV	LT1	Austria	Ogólne	-	FTA	13104	1040	1041[ger]	1104	1040		2018-09-04	Yes	515001009
+12662.75	H	22000 5/6	Pan Europe	TV	Sixx Austria	Austria	Ogólne	sevenonemedia	FTA	13106	1060	1061[ger]	1106	1060	1063	2014-03-12	Yes	515001011
+12662.75	H	22000 5/6	Pan Europe	TV	Visit-X TV	Niemcy	Czat	-	FTA	13107	1070	1071[ger]	1107	1070		2014-03-12	Yes	515001013
+12662.75	H	22000 5/6	Pan Europe	TV	Servus TV Deutschland	Austria	Ogólne	ServusTV	FTA	13110	1110	1111[ger]|1112[ger]	1210	1110	1115	2014-03-12	Yes	515001015
+12662.75	H	22000 5/6	Pan Europe	TV	Servus TV	Austria	Regionalne	Austriasat|Sky Deutschland	Cryptoworks|Irdeto 2|VideoGuard	13111	2110	2111[ger]|2112[eng]	1211	2110	2115	2016-03-01	No	515001017
+12662.75	H	22000 5/6	Pan Europe	IMG	4News	Austria	Informacje	-	FTA	13112	2120		1212	2120		2018-05-03	Yes	515001019
+12662.75	H	22000 5/6	Pan Europe	TV	L-TV	Niemcy	Regionalne	-	FTA	13113	2130	2131[ger]	1213	2130		2018-09-04	Yes	515001021
+12662.75	H	22000 5/6	Pan Europe	TV	TV1 OOE	Austria	Różne	-	FTA	13141	2410	2411[ger]	1241	2410		2018-10-29	Yes	515001023
+12662.75	H	22000 5/6	Pan Europe	R	OE1			ORF Digital	FTA	13121		421[ger]	1121	421		2014-03-12	Yes	515001025
+12662.75	H	22000 5/6	Pan Europe	R	OE1 DD			ORF Digital	FTA	13122		422[ger]	1122	422		2014-03-12	Yes	515001027
+12662.75	H	22000 5/6	Pan Europe	R	OE2 W			ORF Digital	FTA	13123		423[ger]	1123	423		2014-03-12	Yes	515001029
+12662.75	H	22000 5/6	Pan Europe	R	OE2 N			ORF Digital	FTA	13124		424[ger]	1124	424		2014-03-12	Yes	515001031
+12662.75	H	22000 5/6	Pan Europe	R	OE2 B			ORF Digital	FTA	13125		425[ger]	1125	425		2014-03-12	Yes	515001033
+12662.75	H	22000 5/6	Pan Europe	R	OE2 O			ORF Digital	FTA	13126		426[ger]	1126	426		2014-03-12	Yes	515001035
+12662.75	H	22000 5/6	Pan Europe	R	OE2 S			ORF Digital	FTA	13127		427[ger]	1127	427		2014-03-12	Yes	515001037
+12662.75	H	22000 5/6	Pan Europe	R	OE2 T			ORF Digital	FTA	13128		428[ger]	1128	428		2014-03-12	Yes	515001039
+12662.75	H	22000 5/6	Pan Europe	R	OE2 V			ORF Digital	FTA	13129		429[ger]	1129	429		2014-03-12	Yes	515001041
+12662.75	H	22000 5/6	Pan Europe	R	OE2 St			ORF Digital	FTA	13130		430[ger]	1130	430		2014-03-12	Yes	515001043
+12662.75	H	22000 5/6	Pan Europe	R	OE2 K			ORF Digital	FTA	13131		431[ger]	1131	431		2014-03-12	Yes	515001045
+12662.75	H	22000 5/6	Pan Europe	R	OE3			ORF Digital	FTA	13133		433[ger]	1133	433		2014-03-12	Yes	515001047
+12662.75	H	22000 5/6	Pan Europe	R	FM4			ORF Digital	FTA	13134		434[ger]	1134	434		2014-03-12	Yes	515001049
+12662.75	H	22000 5/6	Pan Europe	R	U1 Tirol			U1 Tirol	FTA	13136		436[ger]	1136	436		2014-03-12	Yes	515001051
+12662.75	H	22000 5/6	Pan Europe	R	RADIO MARIA			Radio Maria Österreich	FTA	13140		440[ger]	1140	440		2014-03-12	Yes	515001053
+12692.25	H	22000 5/6	Pan Europe	TV	ORF 1	Austria	Ogólne	ORF Digital	Cryptoworks|Irdeto 2	13001	160	161[ger]|162[vo]|163[ger]	1001	160	165	2019-06-02	No	519001001
+12692.25	H	22000 5/6	Pan Europe	TV	ORF 2	Austria	Ogólne	ORF Digital	Cryptoworks|Irdeto 2	13002	500	501[ger]|503[ger]	1002	500	505	2019-06-02	No	519001003
+12692.25	H	22000 5/6	Pan Europe	TV	ORF 2 Wien	Austria	Regionalne	Austriasat|ORF Digital|Sky Deutschland	Cryptoworks|Irdeto 2	13003	500	501[ger]|503[ger]	1011	500	505	2019-06-02	No	519001005
+12692.25	H	22000 5/6	Pan Europe	TV	ORF 2 NiederÖsterreich	Austria	Regionalne	ORF Digital	Cryptoworks|Irdeto 2	13004	520	521[ger]	1012	500	505	2019-06-02	No	519001007
+12692.25	H	22000 5/6	Pan Europe	TV	ORF 2 Burgenland	Austria	Regionalne	ORF Digital	Cryptoworks|Irdeto 2	13005	530	531[ger]	1013	530	505	2019-09-10	No	519001009
+12692.25	H	22000 5/6	Pan Europe	TV	ORF 2 OberÖsterreich	Austria	Regionalne	ORF Digital	Cryptoworks|Irdeto 2	13006	540	541[ger]	1014	540	505	2019-09-10	No	519001011
+12692.25	H	22000 5/6	Pan Europe	TV	ORF 2 Salzburg	Austria	Regionalne	ORF Digital	Cryptoworks|Irdeto 2	13007	550	551[ger]	1015	550	505	2019-09-10	No	519001013
+12692.25	H	22000 5/6	Pan Europe	TV	ORF 2 Tirol	Austria	Regionalne	ORF Digital	Cryptoworks|Irdeto 2	13008	560	561[ger]	1016	560	505	2019-08-02	No	519001015
+12692.25	H	22000 5/6	Pan Europe	TV	ORF 2 Vorarlberg	Austria	Regionalne	ORF Digital	Cryptoworks|Irdeto 2	13009	570	571[ger]	1017	570	505	2019-09-10	No	519001017
+12692.25	H	22000 5/6	Pan Europe	TV	ORF 2 Steiermark	Austria	Regionalne	ORF Digital	Cryptoworks|Irdeto 2	13010	580	581[ger]	1018	580	505	2019-09-10	No	519001019
+12692.25	H	22000 5/6	Pan Europe	TV	ORF 2 Kärnten	Austria	Regionalne	ORF Digital	Cryptoworks|Irdeto 2	13011	590	591[ger]	1019	590	505	2019-09-10	No	519001021
+12692.25	H	22000 5/6	Pan Europe	TV	ATV (Austria)	Austria	Ogólne	Austriasat|Sky Deutschland	Cryptoworks|Irdeto 2|VideoGuard	13012	506	507[ger]	1020	506	509	2018-12-26	No	519001023
+12692.25	H	22000 5/6	Pan Europe	TV	Hitradio OE3	Austria	Muzyka	ORF Digital	FTA	13013	130	131[ger]	1003	130		2018-12-26	Yes	519001025
+12692.25	H	22000 5/6	Pan Europe	TV	ORF 2 Europe	Austria	Ogólne	ORF Digital	FTA	13014	170	171[ger]	1004	170	505	2017-04-22	Yes	519001027
+12692.25	H	22000 5/6	Pan Europe	TV	Mei Musi TV	Niemcy	Muzyka	-	FTA	13015	150	151[ger]	1005	150		2018-12-26	Yes	519001029
+12692.25	H	22000 5/6	Pan Europe	TV	Folx TV	Austria	Różne	-	FTA	13018	180	181[ger]	1008	180		2018-12-26	Yes	519001031
+12692.25	H	22000 5/6	Pan Europe	TV	RIC	Niemcy	Dzieci	-	FTA	13019	190	191[ger]	1009	190		2018-12-26	Yes	519001033
+12692.25	H	22000 5/6	Pan Europe	TV	n-tv Austria	Austria	Informacje	RTL	FTA	13021	3020	3021[ger]	1021	3020	3025	2018-12-26	Yes	519001035
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Caen	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9801	110	121[fra]	100	110		2016-07-12	No	531001001
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Nantes	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9802	210	221[fra]	200	210		2018-12-13	No	531001003
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Nice	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9803	310	321[fra]	300	310		2016-07-12	No	531001005
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Orléans	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9804	410	421[fra]	400	410		2016-07-12	No	531001007
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Dijon	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9805	510	521[fra]	500	510		2016-07-12	No	531001009
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Poitiers	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9806	610	621[fra]	600	610		2016-07-12	No	531001011
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Reims	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9807	710	721[fra]	700	710		2016-07-12	No	531001013
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Grenoble	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9808	810	821[fra]	800	810		2016-07-12	No	531001015
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Lille	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9809	910	921[fra]	900	910		2016-07-12	No	531001017
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Strasbourg	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9810	1010	1021[fra]	1000	1010		2016-07-12	No	531001019
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Montpellier	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9811	1110	1121[fra]	1100	1110		2016-07-12	No	531001021
+12728.50	V	22000 2/3	Astra 1L	TV	Via Stella	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9812	1210	1221[fra]	1200	1210		2016-07-12	No	531001023
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Nice	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9813	1310	1321[fra]	1300	1310		2018-12-26	No	531001025
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Rouen	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9814	1410	1421[fra]	1400	1410		2018-12-26	No	531001027
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Bordeaux	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9815	1510	1521[fra]	1500	1510		2018-12-26	No	531001029
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Clermont Ferrand	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9816	1610	1621[fra]	1600	1610		2018-12-26	No	531001031
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Rennes	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9817	1710	1721[fra]	1700	1710		2018-12-26	No	531001033
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Limoges	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9818	1810	1821[fra]	1800	1810		2018-12-26	No	531001035
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Nancy	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9819	1910	1921[fra]	1900	1910		2018-12-26	No	531001037
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Montpellier	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9820	2010	2021[fra]	2000	2010		2018-12-26	No	531001039
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Paris Ile-de-France	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9821	2110	2121[fra]	2100	2110		2018-12-26	No	531001041
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Amiens	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9822	2210	2221[fra]	2200	2210		2018-12-26	No	531001043
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Lyon	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9823	2310	2321[fra]	2300	2310		2018-12-26	No	531001045
+12728.50	V	22000 2/3	Astra 1L	TV	France 3 Besançon	Francja	Regionalne	Canal+ France|Orange|TNTSAT	Nagravision 3|Viaccess 3.0|Viaccess 4.0	9824	2410	2421[fra]	2400	2410		2018-12-26	No	531001047

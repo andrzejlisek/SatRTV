@@ -1,4 +1,7 @@
-Astra 1KR
-Astra 1L
-Astra 1M
-Pan Europe
+East Europe
+Europe
+K1 Nordic
+K2 Europe
+Spot 1
+Spot 2
+Spot 3

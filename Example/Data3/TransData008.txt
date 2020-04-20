@@ -1,0 +1,134 @@
+Txp No	Source	Date	Freq	Pol	Mode	SR-FEC	Provider Name	Encryption	ONID-TID	FootPrints	EIRP(dBW)	Comments	Row
+49	Hendrik|satmaat|Tururu|D.Shimoni	21.12.2017	10714	H	DVB-S2/8PSK|MPEG-2|MPEG-4	22000 2/3			1-1049	1KR			0
+50	Tururu|G.Abdelhamid|M.Ahmed	12.08.2019	10729	V	DVB-S2/8PSK|MPEG-4	22000 2/3		Nagravision3	1-1050	1KR			9
+51	Hendrik	30.09.2016	10744	H	DVB-S/MPEG-2	22000 5/6			1-1051	1M Europe			10
+52	Hendrik	01.04.2020	10758	V	DVB-S/MPEG-2	22000 5/6		Mediaguard2|Nagravision2|Nagravision3	1-1052	1M Europe		M. Disney|left	15
+53	Hendrik	20.01.2020	10773	H	DVB-S2/8PSK|MPEG-4	22000 3/4		Irdeto2|Nagravision3|VideoGuard	1-1053	1KR		SES 75|(HD+ Info Card)|left	16
+54	Tururu	22.08.2019	10788	V	DVB-S/MPEG-2	22000 5/6		Mediaguard2|Nagravision3	1-1054	1M Europe			22
+55	Hendrik	08.02.2018	10803	H	DVB-S2/8PSK|MPEG-4	22000 3/4			1-1055	1KR			23
+56	Tururu|G.Abdelhamid	12.08.2019	10818	V	DVB-S2/8PSK|MPEG-4	22000 2/3		Nagravision3	1-1056	1M Europe			32
+57	G.Fawaz	01.04.2014	10832	H	DVB-S2/8PSK|MPEG-4	22000 2/3		Nagravision3|VideoGuard	1-1057	1KR			33
+58	Hendrik	15.09.2019	10847	V	DVB-S/MPEG-2	22000 5/6			1-1058	1M Europe			34
+59	Hendrik	05.10.2019	10862	H	DVB-S2/8PSK	23500 2/3				1KR			36
+60	Tururu|G.Abdelhamid	12.08.2019	10876	V	DVB-S/MPEG-2	22000 5/6		Mediaguard2|Nagravision3	1-1060	1M Europe			37
+61	Nicolas A.|Vintaj|D.Shimoni	20.03.2014	10891	H	DVB-S2/8PSK|MPEG-4	22000 2/3			1-1061	1M Europe			38
+62	Tururu	15.07.2019	10906	V	DVB-S2/8PSK|MPEG-4	22000 2/3		Nagravision3	1-1062	1KR			45
+63	Hendrik	03.02.2020	10921	H	DVB-S/MPEG-2|DVB-S/MPEG-4	22000 7/8			133-15	1KR		Mediashop Life|on	46
+64	Hendrik	20.09.2016	10936	V	DVB-S2/8PSK|MPEG-4	22000 2/3		Nagravision3	1-1064	1M Europe			52
+33	Hendrik	05.06.2018	10964	H	DVB-S2/8PSK|MPEG-4	22000 2/3			1-1033	1L			53
+34	Hendrik	30.08.2018	10979	V	DVB-S/MPEG-2	22000 5/6		Mediaguard2|Nagravision3	1-1034	1L			62
+35	Hendrik|D.Shimoni	01.04.2020	10995	H	DVB-S2/8PSK|HEVC	22000 5/6			1-1035	1L		TravelXP 4K|left	63
+36	Eheimz	14.01.2018	11009	V	DVB-S2X/QPSK|HEVC					1L		Dolby Labs|Test Stream|left	67
+37	F.Schenk|Hendrik|Tururu	06.05.2019	11023	H	DVB-S2/8PSK|HEVC	23500 3/4				1L		NRJ Pole|UHD|HD+|left	68
+38	Tururu	22.08.2019	11038	V	DVB-S/MPEG-2	22000 5/6		Mediaguard2|Nagravision3	1-1038	1L			69
+39	Hendrik|Dr Feeds|Tururu|Chadli_sat	07.01.2019	11053	H	DVB-S2/8PSK|MPEG-4	22000 2/3			1-1039	1L			70
+40	Hendrik	01.03.2020	11068	V	DVB-S/MPEG-2|DVB-S/MPEG-4	22000 5/6			1-1040	1L		Galicia TV Europa|left	76
+41	Hendrik	24.07.2018	11082	H	DVB-S2/8PSK|MPEG-4	22000 3/4			1-1041	1N Europe			81
+42	Tururu	22.08.2019	11097	V	DVB-S/MPEG-2	22000 5/6		Mediaguard2|Nagravision3	65280-1042	1L			87
+43	Hendrik	27.03.2020	11112	H	DVB-S2/8PSK|MPEG-4|HEVC	22000 2/3			1-1043	1L		Fashion 4K|left	88
+44	Hendrik	01.06.2016	11127	V	DVB-S2/8PSK|MPEG-4	22000 2/3		Nagravision3	1-44	1KR			94
+45	Hendrik	15.06.2017	11141	H	DVB-S/MPEG-2|DVB-S/MPEG-4					1KR		All|Promo Channels|left	95
+46	Hendrik	01.04.2020	11156	V	DVB-S/MPEG-2	22000 5/6		Mediaguard2|Nagravision3	1-1046	1KR		Disney XD España|left	96
+47	William-1|Tururu|Hendrik	28.08.2019	11171	H	DVB-S2/8PSK|MPEG-4	22000 3/4		VideoGuard	133-9	1KR			98
+48	Hendrik	12.04.2019	11186	V	DVB-S/MPEG-2	22000 5/6			1-1048	1L			100
+1	Hendrik	07.10.2019	11214	H	DVB-S2/8PSK|HEVC	22000 2/3		Irdeto	1-1001	1KR			102
+2	Hendrik|Kalman2007	15.11.2017	11229	V	DVB-S2/8PSK|MPEG-4	22000 2/3			1-1002	1KR			104
+3	Hendrik	02.05.2019	11244	H	DVB-S/MPEG-2|DVB-S/MPEG-4	22000 5/6		BetaCrypt|Cryptoworks|Irdeto2	1-1003	1KR			110
+4	Hendrik	30.08.2018	11259	V	DVB-S2/8PSK	22000 2/3		Nagravision3	1-1004	1KR			117
+5	Hendrik|Martin.cz	01.04.2020	11273	H	DVB-S2/8PSK|MPEG-4	22000 2/3		BetaCrypt|Cryptoworks|Irdeto2	1-1005	1KR		Krone TV|on	118
+6	Hendrik	19.02.2020	11288	V	DVB-S2/8PSK|MPEG-2|MPEG-4|HEVC	22000 2/3			1-1006	1L			127
+7	Hendrik	01.03.2015	11303	H	DVB-S2/8PSK	22000 2/3		BetaCrypt|Cryptoworks|Irdeto2|Nagravision3|VideoGuard	1-1007	1L			132
+8	Hendrik	30.08.2018	11318	V	DVB-S/MPEG-2	22000 5/6		Mediaguard2|Nagravision3	1-1008	1KR			135
+9	Hendrik|Tururu	25.03.2019	11332	H	DVB-S2/QPSK	22000 3/4				1KR		ESS|package|left	136
+10	Hendrik|E.Markham	30.04.2012	11347	V	DVB-S2/8PSK	22000 2/3			1-1010	1KR			137
+11	Hendrik	30.09.2016	11362	H	DVB-S2/8PSK	22000 2/3			1-1011	1KR			141
+12	Hendrik|William-1|Martin.cz|D.Shimoni	30.01.2020	11377	V	DVB-S2/8PSK|MPEG-4	22000 2/3			1-1012	1L			144
+13	Hendrik	14.11.2018	11391	H	DVB-S/MPEG-4|DVB-S/HEVC	22000 5/6			1-1013	1KR			151
+14	Hendrik	01.04.2020	11406	V	DVB-S2/8PSK|MPEG-4	22000 2/3				1L		SES Demo HD|left	154
+15	Martin.cz	27.01.2020	11421	H	DVB-S/MPEG-2|DVB-S/MPEG-4	22000 5/6			1-1015	1KR		3 BetaDigital|FTA now	155
+16	Marjanen	02.10.2018	11436	V	DVB-S2/8PSK	22000 2/3		Mediaguard2|Nagravision3	1-1016	1KR			161
+17	Hendrik|D.Shimoni|SebastianIde	17.01.2020	11464	H	DVB-S2/8PSK|MPEG-4	22000 2/3		Viaccess5.0|VideoGuard	1-1017	1N Europe		Kabel Eins Doku HD|on	162
+18	Hendrik	01.01.2016	11479	V	DVB-S2/8PSK|HEVC					1L		Canal+ UHD|left	163
+19	D.Shimoni	11.03.2014	11494	H	DVB-S2/8PSK|MPEG-4	22000 2/3			1-1019	1N Europe			164
+20	Hendrik	15.07.2019	11509	V	DVB-S/MPEG-2	22000 5/6			1-1020	1L			169
+21	Hendrik	08.11.2019	11523	H	DVB-S/MPEG-2					1KR		All|info cards|left	173
+22	Hendrik	01.04.2020	11538	V	DVB-S/MPEG-2|DVB-S/MPEG-4	22000 5/6			1-1022	1L		RT English|left	174
+23	Hendrik|Tururu	01.07.2019	11553	H	DVB-S2/8PSK|MPEG-4	22000 2/3			1-1023	1L			182
+24	Eduard|Hendrik	15.02.2020	11568	V	DVB-S2/8PSK|MPEG-4|HEVC					1N Europe		Kartina Satellite|package|left	190
+25	G.Fawaz|P.Piotrowski|Hendrik|D.Shimoni|E.Markham	30.04.2012	11582	H	DVB-S2/8PSK	22000 2/3			1-1025	1N Europe			191
+26	Martin.cz	23.01.2020	11597	V	DVB-S/MPEG-2|DVB-S/MPEG-4	22000 5/6			1-1026	1L		Algérie 2|on|Canal Algérie|left	199
+27	Hendrik	12.03.2020	11612	H	DVB-S/MPEG-2|DVB-S/MPEG-4	22000 5/6			1-1027	1M Widebeam		Juvelirochka|left	205
+28	Hendrik	27.03.2020	11627	V	DVB-S/MPEG-2|DVB-S/MPEG-4	22000 5/6			1-1028	1M Widebeam		SpaceConnectsUs|left	210
+29	Tururu|Hendrik	02.01.2017	11641	H	DVB-S/MPEG-2					1N Europe		Twój Telekanal|info card|left	214
+30	Hendrik|G.Abdelhamid	31.10.2019	11656	V	DVB-S2/8PSK|MPEG-4	22000 2/3			1-1030	1N Europe			215
+31	Martin.cz|D.Shimoni	01.09.2019	11671	H	DVB-S2/8PSK|MPEG-2|MPEG-4	22000 2/3		Irdeto2|Viaccess5.0|VideoGuard	1-1031	1N Europe			220
+32	Hendrik	24.03.2020	11686	V	DVB-S/MPEG-2	22000 5/6		Mediaguard2|Nagravision2|Nagravision3	1-1032	1KR		Disney+|on	226
+65	Hendrik	01.04.2020	11720	H	DVB-S2/QPSK|MPEG-4	27500 9/10		VideoGuard	133-3	1M Widebeam		Nick Jr|on|Disney Junior HD|left	228
+66	Hendrik	28.11.2019	11739	V	DVB-S/MPEG-2|DVB-S/MPEG-4					1M Widebeam		Nickelodeon HD|Nick Junior Global	229
+67	Hendrik	12.03.2020	11758	H	DVB-S2/QPSK|MPEG-4	27500 9/10		VideoGuard	133-2	1M Widebeam		Cinema Best Of|on|Cinema Hits|left	230
+68	Hendrik|Yulius	27.03.2020	11778	V	DVB-S2/QPSK|MPEG-4	29500 9/10			1-1068	1M Widebeam		new	231
+69	Hendrik|D.Shimoni	18.07.2019	11798	H	DVB-S2/QPSK|MPEG-4|HEVC	27500 9/10		VideoGuard	133-16	1M Widebeam			233
+70	Hendrik	14.01.2020	11817	V	DVB-S2/8PSK|MPEG-4	29700 2/3		NagravisionM|Viaccess6.0	1-1070	1M Widebeam		Olympia TV|on	234
+71	D.Shimoni	11.03.2014	11836	H	DVB-S/MPEG-2	27500 3/4			1-1101	1N Europe			235
+72	Hendrik	18.03.2020	11856	V	DVB-S2/8PSK|MPEG-4	29700 2/3		NagravisionM|Viaccess6.0	1-1072	1M Widebeam		Disney+ France HD|on|Sundance TV HD|left	242
+73	Hendrik	28.03.2019	11876	H	DVB-S2/8PSK	27500 3/4				1N Europe			244
+74	Hendrik	01.10.2019	11895	V	DVB-S2/8PSK|MPEG-4	29700 2/3		NagravisionM|Viaccess6.0	1-1074	1M Widebeam			245
+75	Hendrik	12.03.2020	11914	H	DVB-S2/QPSK|MPEG-4	27500 9/10		VideoGuard	133-6	1N Europe		Cinema Classics|Cinema|Premieren +24|on|Cinema +1|Cinema +24|left	246
+76	Hendrik	14.01.2020	11934	V	DVB-S2/8PSK|MPEG-4|HEVC	29700 2/3		NagravisionM|Viaccess6.0	1-1076	1M Widebeam			247
+77	Hendrik	30.09.2016	11954	H	DVB-S/MPEG-2	27500 3/4			1-1079	1N Europe			249
+78	Hendrik	25.10.2019	11973	V	DVB-S/MPEG-2|DVB-S/MPEG-4	27500 3/4	MTV Networks		1-1078	1M Widebeam			255
+79	Hendrik	01.04.2020	11992	H	DVB-S2/QPSK|MPEG-4	27500 9/10		VideoGuard	133-13	1M Widebeam		Nicktoons|on	270
+80	Tururu|ClubSat	15.05.2018	12012	V	DVB-S2/8PSK|MPEG-4	29700 2/3		NagravisionM|Viaccess6.0	1-1080	1M Widebeam			271
+81	Hendrik	01.04.2020	12032	H	DVB-S2/QPSK|MPEG-4	27500 9/10		VideoGuard	133-4	1N Europe		Cinema Emotion|left	272
+82	satkingdom	12.03.2014	12051	V	DVB-S/MPEG-2	27500 3/4			1-1082	1M Europe			274
+83	Hendrik	26.03.2019	12070	H	DVB-S2/QPSK	27500 9/10				1N Europe			285
+84	Hendrik	27.11.2018	12090	V	DVB-S2/8PSK|MPEG-4	29700 2/3		NagravisionM|Viaccess6.0	1-1084	1M Europe			286
+85	satkingdom	20.03.2014	12110	H	DVB-S/MPEG-2	27500 3/4			1-1073	1M Europe			287
+86	Hendrik	08.10.2019	12129	V	DVB-S2/8PSK|MPEG-4	29700 2/3		NagravisionM|Viaccess6.0	1-1086	1N Europe			298
+87	Hendrik	10.09.2019	12148	H	DVB-S/MPEG-2|DVB-S/MPEG-4	27500 3/4			133-7	1N Europe			300
+88	Tururu|ClubSat	15.05.2018	12168	V	DVB-S2/8PSK|MPEG-4	29700 2/3		NagravisionM|Viaccess6.0	1-1088	1N Europe			312
+89	Hendrik	10.10.2018	12188	H	DVB-S/MPEG-2	27500 3/4			1-1089	1L			314
+90	Hendrik	27.11.2018	12207	V	DVB-S2/8PSK|MPEG-4	29700 2/3		NagravisionM|Viaccess6.0	1-1090	1N Europe			327
+91	Hendrik	27.11.2018	12226	H	DVB-S/MPEG-2	27500 3/4			1-1091	1L			331
+92	Hendrik	16.07.2019	12246	V	DVB-S2/8PSK|MPEG-4	29700 2/3		NagravisionM|Viaccess6.0	1-1092	1N Europe			341
+93	Hendrik	28.06.2014	12266	H	DVB-S/MPEG-2	27500 3/4			1-1093	1M Europe			342
+94	Martin.cz	07.04.2020	12285	V	DVB-S2/8PSK|MPEG-4	29700 2/3		NagravisionM|Viaccess6.0	1-1094	1N Europe		A La Maison HD|encrypted	345
+95	Hendrik	09.04.2020	12304	H	DVB-S2/QPSK|MPEG-4	27500 9/10		VideoGuard	133-12	1N Europe		Sky Comedy HD|on|Sky Serien|& Shows HD|left	346
+96	Hendrik	27.11.2018	12324	V	DVB-S2/8PSK|MPEG-4|HEVC	29700 2/3		Nagravision	1-1096	1N Europe			348
+97	P.Piotrowski	09.12.2019	12344	H	DVB-S2/8PSK|HEVC	30000 2/3			1-1097	1M Europe			349
+98	R.László	26.05.2014	12363	V	DVB-S/MPEG-2	27500 3/4	Canal+ France		1-1098	1N Europe			352
+99	Hendrik	12.03.2020	12382	H	DVB-S2/8PSK|MPEG-4	27500 3/4		VideoGuard	133-11	1N Europe		Cinema|Premieren +24|on|Cinema +1|Cinema +24|left	353
+100	Hendrik	14.01.2020	12402	V	DVB-S2/8PSK|MPEG-4	29700 2/3		NagravisionM|Viaccess6.0	1-1100	1N Europe		eSPORTS1 HD|encrypted	354
+101	Hendrik	14.04.2014	12422	H	DVB-S/MPEG-2|DVB-S/MPEG-4	27500 3/4			1-1201	1M Europe			356
+102	Hendrik	18.03.2020	12441	V	DVB-S2/8PSK|MPEG-4	29700 2/3		NagravisionM|Viaccess6.0	1-1102	1N Europe		Extreme Sports HD|left	371
+103	Hendrik|Tururu	05.06.2019	12460	H	DVB-S/MPEG-2|DVB-S/MPEG-4	27500 3/4			133-5	1M Europe			372
+104	Hendrik|Tururu	05.06.2018	12480	V	DVB-S/MPEG-2|DVB-S/MPEG-4	27500 3/4			133-33	1M Europe			385
+105	Hendrik|Tururu	05.03.2019	12515	H	DVB-S/MPEG-2|DVB-S/MPEG-4	22000 5/6			53-1105	1L			399
+106	Hendrik|Tururu	12.07.2016	12522	V	DVB-S2/8PSK|MPEG-4					1N Europe		Canal+ France|package|left	411
+107	Hendrik	01.09.2016	12545	H	DVB-S/MPEG-2	22000 5/6			1-1107	1L			412
+108	Hendrik|Tururu	04.03.2018	12552	V	DVB-S/MPEG-2|DVB-S/MPEG-4	22000 5/6			1-1108	1N Europe			422
+109	Hendrik|Tururu	06.07.2016	12574	H	DVB-S2/8PSK|MPEG-4	22000 2/3		Irdeto2|Nagravision3|VideoGuard	11-1109	1L			428
+110	Hendrik|Tururu|Martin.cz	02.01.2017	12581	V	DVB-S2/8PSK|HEVC					1N Europe		Canal+|en Ultra HD|promo|left	432
+111	D.Shimoni|Andrei|Chadli_sat	05.03.2014	12604	H	DVB-S/MPEG-2|DVB-S/MPEG-4	22000 5/6			1-1111	1N Europe			433
+112	Hendrik|Tururu|Europesat	08.11.2016	12610	V	DVB-S2/8PSK|MPEG-4					1L		Canal+ France|package|left	443
+113	Hendirk	01.04.2020	12633	H	DVB-S/MPEG-2|DVB-S/MPEG-4	22000 5/6			1-1113	1N Europe		Freenet TV|connect HD|left	444
+115	Hendrik	29.10.2018	12663	H	DVB-S/MPEG-2|DVB-S/MPEG-4	22000 5/6			1-1115	1N Europe			471
+116	D.Shimoni	15.01.2020	12670	V	DVB-S2/16APSK	23500 2/3	Data			1N Europe			484
+117	Martin.cz	17.05.2018	12692	H	DVB-S/MPEG-2|DVB-S/MPEG-4	22000 5/6		BetaCrypt|Cryptoworks|Irdeto2|Nagravision3|VideoGuard	1-1117	1N Europe			485
+118	Yulius	15.07.2018	12699	V	DVB-S2/8PSK					1L			494
+119	Hendrik|Tururu	25.05.2018	12722	H	DVB-S2/8PSK|MPEG-4					1L		PMC HD|info card|left	495
+120	ClubSat	30.03.2016	12728	V	DVB-S2/8PSK|MPEG-4	22000 2/3		NagravisionM|Viaccess6.0	1-1120	1L			496
+Ka4	Onacila	06.06.2016	18366	V	DVB-S2/QPSK|MPEG-4	15000 1/2	Data			1L Ka-band			497
+Ka5	Onacila	23.02.2013	18411	H	DVB-S2/16APSK	6500 Auto	Data			1L Ka-band			498
+Ka10	Onacila	29.12.2013	18505	V	DVB-S/QPSK	2500 1/4	Data			1L Ka-band			499
+Ka10	Onacila	15.09.2013	18509	V	DVB-S2/32APSK|ACM/VCM	5200 3/4	Data			1L Ka-band			500
+Ka10	Onacila	26.07.2014	18515	V	DVB-S2/8PSK	3630 2/3	SIS feed			1L Ka-band			501
+Ka10	Onacila	20.07.2014	18538	V	DVB-S2/8PSK	3344 3/4	SIS feed			1L Ka-band			502
+Ka10	Onacila	16.11.2014	18556	V	DVB-S2/8PSK|MPEG-2	3630 2/3	ITV Newsnet		1|0-0	1L Ka-band			503
+Ka10	Onacila	27.04.2014	18561	V	DVB-S2/32APSK|ACM/VCM	2500 3/4	Data			1L Ka-band			504
+Ka10	Onacila	30.08.2014	18567	V	DVB-S2/32APSK|ACM/VCM	1000 3/4	Data			1L Ka-band			505
+Ka19	Onacila	29.12.2013	18754	H	DVB-S/QPSK	4500 3/4	feed			1L Ka-band			506
+Ka19	Onacila	18.09.2013	18760	H	DVB-S/QPSK	4875 2/3	feed			1L Ka-band			507
+Ka19	Onacila	20.07.2014	18760	H	DVB-S2/8PSK	5500 2/3	feed			1L Ka-band			508
+Ka19	Onacila	23.02.2013	18762	H	DVB-S/QPSK	4333 3/4	Teleippica feed			1L Ka-band			509
+Ka19	Onacila	20.07.2014	18766	H	DVB-S2/8PSK|MPEG-4	3110 1/2	Unire Sat		1|65535-1	1L Ka-band			510

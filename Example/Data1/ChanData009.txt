@@ -1,0 +1,653 @@
+Freq	Pol	SR	Beam	Type	Name	Country	Category	Packages	Encryption	SID	VPID	Audio	PMT	PCR	TXT	Last updated	FTA	Row
+11643.00	H	5500 3/4	Europe	R	1050 - WAWA Kielce				FTA	1050		1052[aac][pol]	1050	1052		2019-09-11	Yes	51001003
+11643.00	H	5500 3/4	Europe	R	1070 - WAWA Krakow				FTA	1070		1072[aac]	1070	1072		2019-09-11	Yes	51001005
+11643.00	H	5500 3/4	Europe	R	1100 - WAWA Lodz				FTA	1100		1102[aac]	1100	1102		2019-09-11	Yes	51001007
+11643.00	H	5500 3/4	Europe	R	1120 - WAWA Opole				FTA	1120		1122[aac]	1120	1122		2019-09-11	Yes	51001009
+11643.00	H	5500 3/4	Europe	R	1150 - WAWA Torun				FTA	1150		1152[aac]	1150	1152		2019-09-11	Yes	51001011
+11643.00	H	5500 3/4	Europe	R	1170 - WAWA Gdansk				FTA	1170		1172[aac]	1170	1172		2019-09-11	Yes	51001013
+11643.00	H	5500 3/4	Europe	R	1180 - WAWA Wroclaw				FTA	1180		1182[aac]	1180	1182		2019-09-11	Yes	51001015
+11643.00	H	5500 3/4	Europe	R	1240 - WAWA Rzeszow				FTA	1240		1242[aac]	1240	1242		2019-09-11	Yes	51001017
+11643.00	H	5500 3/4	Europe	R	1260 - WAWA Szczecin				FTA	1260		1262[aac]	1260	1262		2019-09-11	Yes	51001019
+11643.00	H	5500 3/4	Europe	R	1290 - WAWA Nowy Sacz				FTA	1290		1292[aac]	1290	1292		2019-09-11	Yes	51001021
+11643.00	H	5500 3/4	Europe	R	1380 - WAWA Warszawa				FTA	1380		1382[aac]	1380	1382		2019-09-11	Yes	51001023
+11643.00	H	5500 3/4	Europe	R	1480 - WAWA Jelenia Gora				FTA	1480		1482[aac]	1480	1482		2019-09-11	Yes	51001025
+11643.00	H	5500 3/4	Europe	R	1510 - WAWA Trzebnica				FTA	1510		1512[aac]	1510	1512		2019-09-11	Yes	51001027
+11643.00	H	5500 3/4	Europe	R	2000 - ESKA SES				FTA	2000		2002[pol]	2000	2002		2019-09-11	Yes	51001029
+11643.00	H	5500 3/4	Europe	R	2010 - ESKA Belchatow				FTA	2010		2012[aac]	2010	2012		2019-09-11	Yes	51001031
+11643.00	H	5500 3/4	Europe	R	2020 - ESKA Bialystok				FTA	2020		2022[aac]	2020	2022		2019-09-11	Yes	51001033
+11643.00	H	5500 3/4	Europe	R	2030 - ESKA Bydgoszcz				FTA	2030		2032[aac]	2030	2032		2019-09-11	Yes	51001035
+11643.00	H	5500 3/4	Europe	R	2040 - ESKA Gorzow				FTA	2040		2042[aac]	2040	2042		2019-09-11	Yes	51001037
+11643.00	H	5500 3/4	Europe	R	2050 - ESKA Kielce				FTA	2050		2052[aac]	2050	2052		2019-09-11	Yes	51001039
+11643.00	H	5500 3/4	Europe	R	2060 - ESKA Siedlce				FTA	2060		2062[aac]	2060	2062		2019-09-11	Yes	51001041
+11643.00	H	5500 3/4	Europe	R	2070 - ESKA Krakow				FTA	2070		2072[aac]	2070	2072		2019-09-11	Yes	51001043
+11643.00	H	5500 3/4	Europe	R	2080 - ESKA Leszno				FTA	2080		2082[aac]	2080	2082		2019-09-11	Yes	51001045
+11643.00	H	5500 3/4	Europe	R	2090 - ESKA Pila				FTA	2090		2092[aac]	2090	2092		2019-09-11	Yes	51001047
+11643.00	H	5500 3/4	Europe	R	2100 - ESKA Lodz				FTA	2100		2102[aac][pol]	2100	2102		2019-11-20	Yes	51001049
+11643.00	H	5500 3/4	Europe	R	2110 - ESKA Olsztyn				FTA	2110		2112[aac]	2110	2112		2019-09-11	Yes	51001051
+11643.00	H	5500 3/4	Europe	R	2120 - ESKA Opole				FTA	2120		2122[aac]	2120	2122		2019-09-11	Yes	51001053
+11643.00	H	5500 3/4	Europe	R	2130 - ESKA Lublin				FTA	2130		2132[aac]	2130	2132		2019-09-11	Yes	51001055
+11643.00	H	5500 3/4	Europe	R	2140 - ESKA Poznan				FTA	2140		2142[aac]	2140	2142		2019-09-11	Yes	51001057
+11643.00	H	5500 3/4	Europe	R	2150 - ESKA Torun				FTA	2150		2152[aac]	2150	2152		2019-09-11	Yes	51001059
+11643.00	H	5500 3/4	Europe	R	2160 - ESKA Tarnow				FTA	2160		2162[aac]	2160	2162		2019-09-11	Yes	51001061
+11643.00	H	5500 3/4	Europe	R	2170 - ESKA Trojmiasto				FTA	2170		2172[aac]	2170	2172		2019-09-11	Yes	51001063
+11643.00	H	5500 3/4	Europe	R	2180 - ESKA Wroclaw				FTA	2180		2182[aac]	2180	2182		2019-09-11	Yes	51001065
+11643.00	H	5500 3/4	Europe	R	2190 - ESKA Zielona Gora				FTA	2190		2192[aac]	2190	2192		2019-09-11	Yes	51001067
+11643.00	H	5500 3/4	Europe	R	2200 - ESKA Ostrow				FTA	2200		2202[aac]	2200	2202		2019-09-11	Yes	51001069
+11643.00	H	5500 3/4	Europe	R	2210 - ESKA Radom				FTA	2210		2212[aac]	2210	2212		2019-09-11	Yes	51001071
+11643.00	H	5500 3/4	Europe	R	2220 - ESKA Slask				FTA	2220		2222[aac]	2220	2222		2019-09-11	Yes	51001073
+11643.00	H	5500 3/4	Europe	R	2230 - ESKA Zamosc				FTA	2230		2232[aac]	2230	2232		2019-09-11	Yes	51001075
+11643.00	H	5500 3/4	Europe	R	2240 - ESKA Rzeszow				FTA	2240		2242[aac]	2240	2242		2019-09-11	Yes	51001077
+11643.00	H	5500 3/4	Europe	R	2250 - ESKA Plock				FTA	2250		2252[aac]	2250	2252		2019-09-11	Yes	51001079
+11643.00	H	5500 3/4	Europe	R	2260 - ESKA Szczecin				FTA	2260		2262[aac]	2260	2262		2019-09-11	Yes	51001081
+11643.00	H	5500 3/4	Europe	R	2270 - ESKA Koszalin				FTA	2270		2272[aac]	2270	2272		2019-09-11	Yes	51001083
+11643.00	H	5500 3/4	Europe	R	2300 - ESKA Beskidy/Zywiec				FTA	2300		2302[aac]	2300	2302		2019-09-11	Yes	51001085
+11643.00	H	5500 3/4	Europe	R	2310 - ESKA Szczecinek				FTA	2310		2312[aac]	2310	2312		2019-09-11	Yes	51001087
+11643.00	H	5500 3/4	Europe	R	2320 - ESKA Przemysl				FTA	2320		2322[aac]	2320	2322		2019-09-11	Yes	51001089
+11643.00	H	5500 3/4	Europe	R	2330 - ESKA Malopolska				FTA	2330		2332[aac]	2330	2332		2019-09-11	Yes	51001091
+11643.00	H	5500 3/4	Europe	R	2360 - ESKA Krasnik				FTA	2360		2362[aac][pol]	2360	2362		2019-09-11	Yes	51001093
+11643.00	H	5500 3/4	Europe	R	2400 - ESKA Starachowice				FTA	2400		2402[aac]	2400	2402		2019-09-11	Yes	51001095
+11643.00	H	5500 3/4	Europe	R	2420 - ESKA Zary				FTA	2420		2422[aac]	2420	2422		2019-09-11	Yes	51001097
+11643.00	H	5500 3/4	Europe	R	2430 - ESKA Elblag				FTA	2430		2432[aac]	2430	2432		2019-09-11	Yes	51001099
+11643.00	H	5500 3/4	Europe	R	2440 - ESKA Ilawa				FTA	2440		2442[aac]	2440	2442		2019-09-11	Yes	51001101
+11643.00	H	5500 3/4	Europe	R	2450 - ESKA Grudziadz				FTA	2450		2452[aac]	2450	2452		2019-09-11	Yes	51001103
+11643.00	H	5500 3/4	Europe	R	2460 - ESKA Lomza				FTA	2460		2462[aac]	2460	2462		2019-09-11	Yes	51001105
+11643.00	H	5500 3/4	Europe	R	2480 - ESKA Wroclaw JG				FTA	2480		2482[aac]	2480	2482		2019-09-11	Yes	51001107
+11643.00	H	5500 3/4	Europe	R	2500 - ESKA Ostrzeszow				FTA	2500		2502[aac]	2500	2502		2019-09-11	Yes	51001109
+11643.00	H	5500 3/4	Europe	R	2520 - ESKA Braniewo				FTA	2520		2522[aac][pol]	2520	2522		2020-02-04	Yes	51001111
+11643.00	H	5500 3/4	Europe	R	3040 - VOX Gorzow				FTA	3040		3042[aac][pol]	3040	3042		2019-09-11	Yes	51001113
+11643.00	H	5500 3/4	Europe	R	3140 - VOX Poznan				FTA	3140		3142[aac][pol]	3140	3142		2019-09-14	Yes	51001115
+11643.00	H	5500 3/4	Europe	R	3210 - VOX Radom				FTA	3210		3212[aac]	3210	3212		2019-09-11	Yes	51001117
+11643.00	H	5500 3/4	Europe	R	3990 - VOX				FTA	3990		3992[aac]	3990	3992		2019-09-11	Yes	51001119
+11643.00	H	5500 3/4	Europe	R	4000 - PLUS SES				FTA	4000		4002[pol]	4000	4002		2019-09-11	Yes	51001121
+11643.00	H	5500 3/4	Europe	R	4110 - PLUS Olsztyn				FTA	4110		4112[aac][pol]	4110	4112		2019-09-11	Yes	51001123
+11643.00	H	5500 3/4	Europe	R	4130 - PLUS Lublin				FTA	4130		4132[aac]	4130	4132		2019-09-11	Yes	51001125
+11643.00	H	5500 3/4	Europe	R	4270 - PLUS Koszalin				FTA	4270		4272[aac]	4270	4272		2019-09-11	Yes	51001127
+11643.00	H	5500 3/4	Europe	R	4340 - PLUS Podhale				FTA	4340		4342[aac]	4340	4342		2019-09-11	Yes	51001129
+11643.00	H	5500 3/4	Europe	R	5000 - Testowy 1				FTA	5000		5002[aac]	5000	5002		2019-09-11	Yes	51001131
+11643.00	H	5500 3/4	Europe	R	5010 - Testowy 2				FTA	5010		5012[aac]	5010	5012		2019-09-11	Yes	51001133
+11643.00	H	5500 3/4	Europe	R	8010 - Radio Rodzina				FTA	8010		8012[aac]	8010	8012		2019-09-11	Yes	51001135
+11643.00	H	5500 3/4	Europe	R	8020 - Radio Wielkopolska				FTA	8020		8022[aac][pol]	8020	8022		2019-09-11	Yes	51001137
+11679.00	V	1024 3/4	Europe	R					FTA	21000		2101[aac][pol]	2100	2101		2019-12-29	Yes	63001001
+11679.00	V	1024 3/4	Europe	R					FTA	22000		2201[aac][pol]	2200	2201		2019-12-29	Yes	63001003
+11679.00	V	1024 3/4	Europe	R					FTA	23000		2301[aac][pol]	2300	2301		2019-12-29	Yes	63001005
+11679.00	V	1024 3/4	Europe	R					FTA	24000		2401[aac][pol]	2400	2401		2019-12-29	Yes	63001007
+11679.00	V	1024 3/4	Europe	R					FTA	25000		2501[aac][pol]	2500	2501		2019-12-29	Yes	63001009
+11679.00	V	1024 3/4	Europe	R					FTA	26000		2601[aac][pol]	2600	2601		2019-12-29	Yes	63001011
+11679.00	V	1024 3/4	Europe	R					FTA	27000		2701[aac][pol]	2700	2701		2019-12-29	Yes	63001013
+11679.00	V	1024 3/4	Europe	R					FTA	28000		2801[pol]	2800	2801		2019-12-29	Yes	63001015
+11679.00	V	1024 3/4	Europe	R					FTA	31000		3101[aac][pol]	3100	3101		2019-12-29	Yes	63001017
+11679.00	V	1024 3/4	Europe	R					FTA	32000		3201[aac][pol]	3200	3201		2019-12-29	Yes	63001019
+11679.00	V	1024 3/4	Europe	R					FTA	33000		3301[pol]	3300	3301		2019-12-29	Yes	63001021
+11679.00	V	1024 3/4	Europe	R					FTA	34000		3401[aac][pol]	3400	3401		2019-12-29	Yes	63001023
+11679.00	V	1024 3/4	Europe	R					FTA	35000		3501[aac][pol]	3500	3501		2019-12-29	Yes	63001025
+11679.00	V	1024 3/4	Europe	R					FTA	36000		3601[aac][pol]	3600	3601		2019-12-29	Yes	63001027
+11679.00	V	1024 3/4	Europe	R					FTA	37000		3701[aac][pol]	3700	3701		2019-12-29	Yes	63001029
+11679.00	V	1024 3/4	Europe	R					FTA	38000		3801[pol]	3800	3801		2019-12-29	Yes	63001031
+11679.00	V	1024 3/4	Europe	R					FTA	51000		5101[aac][pol]	5100	5101		2019-12-29	Yes	63001033
+11679.00	V	1024 3/4	Europe	R					FTA	52000		5201[aac][pol]	5200	5201		2019-12-29	Yes	63001035
+11679.00	V	1024 3/4	Europe	R					FTA	53000		5301[aac][pol]	5300	5301		2019-12-29	Yes	63001037
+11679.00	V	1024 3/4	Europe	R					FTA	54000		5401[aac][pol]	5400	5401		2019-12-29	Yes	63001039
+11679.00	V	1024 3/4	Europe	R					FTA	55000		5501[aac][pol]	5500	5501		2019-12-29	Yes	63001041
+11679.00	V	1024 3/4	Europe	R					FTA	56000		5601[aac][pol]	5600	5601		2019-12-29	Yes	63001043
+11679.00	V	1024 3/4	Europe	R					FTA	57000		5701[aac][pol]	5700	5701		2019-12-29	Yes	63001045
+11679.00	V	1024 3/4	Europe	R					FTA	58000		5801[aac][pol]	5800	5801		2019-12-29	Yes	63001047
+11719.50	H	30000 3/4	Europe	TV	The Fight Network	Wielka Brytania	Sport	Telekom Srbija	Conax	20170	1701	1702[eng]	1700	1701		2019-08-08	No	75001001
+11719.50	H	30000 3/4	Europe	TV	Trace Sports Stars HD	Francja	Sport	Telekom Srbija	Conax	20171	1711	1712[eng]	1710	1711		2019-08-08	No	75001003
+11719.50	H	30000 3/4	Europe	TV	Extreme Sports	Holandia	Sport	Telekom Srbija	Conax	20172	1721	1722[eng]	1720	1721		2019-08-08	No	75001005
+11719.50	H	30000 3/4	Europe	TV	Motorvision	Niemcy	Sport	Telekom Srbija	Conax	20173	1731	1732[eng]	1730	1731		2019-08-08	No	75001007
+11719.50	H	30000 3/4	Europe	TV	Telebet	Serbia	Gry	Telekom Srbija	Conax	20174	1741	1742	1740	1741		2019-08-08	No	75001009
+11719.50	H	30000 3/4	Europe	TV	Zadruga Live 1	Serbia	Różne	Telekom Srbija	Conax	20175	1751	34[ser]	1750	1751		2019-11-01	No	75001011
+11719.50	H	30000 3/4	Europe	TV	Zadruga Live 2	Serbia	Różne	Telekom Srbija	Conax	20176	1761	1762[ser]	1760	1761		2019-11-01	No	75001013
+11719.50	H	30000 3/4	Europe	TV	Zadruga Live 3	Serbia	Różne	Telekom Srbija	Conax	20177	1771	1772[ser]	1770	1771		2019-11-01	No	75001015
+11719.50	H	30000 3/4	Europe	TV	Zadruga Live 4	Serbia	Różne	Telekom Srbija	Conax	20178	1781	1782[ser]	1780	1781		2019-11-01	No	75001017
+11719.50	H	30000 3/4	Europe	TV	Dorcel TV	Holandia	Porno	Telekom Srbija	Conax	20180	1801	1802	1800	1801		2019-08-08	No	75001019
+11719.50	H	30000 3/4	Europe	TV	Brazzers TV	nieokreślony	Porno	Telekom Srbija	Conax	20181	1811	1812[eng]	1810	1811		2019-08-08	No	75001021
+11719.50	H	30000 3/4	Europe	TV	Balkan Hot 1	Serbia	Porno	Telekom Srbija	Conax	20182	1821	1822[ser]	1820	1821		2019-08-08	No	75001023
+11719.50	H	30000 3/4	Europe	TV	Erotic	Serbia	Erotyka	Telekom Srbija	Conax	20184	1841	1842	1840	1841		2019-08-08	No	75001025
+11719.50	H	30000 3/4	Europe	TV	Hustler TV	Stany Zjednoczone	Porno	Telekom Srbija	Conax	20186	1861	1862[eng]	1860	1861		2019-08-08	No	75001027
+11719.50	H	30000 3/4	Europe	TV	Belle Amie	Serbia	Regionalne	Telekom Srbija	Conax	20190	1901	1902[ser]	1900	1901		2019-05-21	No	75001029
+11719.50	H	30000 3/4	Europe	TV	Palma TV	Serbia	Regionalne	Telekom Srbija	Conax	20191	1911	1912[ser]	1910	1911		2019-05-21	No	75001031
+11719.50	H	30000 3/4	Europe	TV	Panonija	Serbia	Regionalne	Telekom Srbija	Conax	20192	1921	1922[ser]	1920	1921		2019-05-21	No	75001033
+11719.50	H	30000 3/4	Europe	TV	Novosadska TV	Serbia	Różne	Telekom Srbija	Conax	20193	1931	1932[ser]	1930	1931		2019-05-21	No	75001035
+11719.50	H	30000 3/4	Europe	TV	TV Vujic	Serbia	Różne	Telekom Srbija	Conax	20194	1941	1942[ser]	1940	1941		2019-05-21	No	75001037
+11719.50	H	30000 3/4	Europe	TV	TV Galaksija 32	Serbia	Ogólne	Telekom Srbija	Conax	20195	1951	1952	1950	1951		2019-05-21	No	75001039
+11719.50	H	30000 3/4	Europe	TV	TV 5 Serbia	Serbia	Regionalne	Telekom Srbija	Conax	20196	1961	1962[ser]	1960	1961		2019-05-21	No	75001041
+11719.50	H	30000 3/4	Europe	TV	Arena Sport 1 HD BIH	Bośnia i Hercegowina	Sport	Telekom Srbija	Conax	20200	201	202	200	201		2019-08-08	No	75001043
+11719.50	H	30000 3/4	Europe	TV	Arena Sport 1 HD Crna Gora	Serbia	Sport	Telekom Srbija	Conax	20201	211	212[ser]	210	211		2019-08-10	No	75001045
+11719.50	H	30000 3/4	Europe	TV	Arena Sport 5 HD Crna Gora	Serbia	Sport	Telekom Srbija	Conax	20202	2021	2022[ser]	2020	2021		2019-08-08	No	75001047
+11719.50	H	30000 3/4	Europe	TV	MiniMax Romania	Rumunia	Dzieci	Telekom Srbija	Conax	20219	2191	2192[rom]	2190	2191		2019-08-07	No	75001049
+11719.50	H	30000 3/4	Europe	TV	Magyar Slager TV	Węgry	Różne	Telekom Srbija	Conax	20220	2201	2202[hun]	2200	2201		2019-08-07	No	75001051
+11719.50	H	30000 3/4	Europe	TV	Mozi+	Węgry	Ogólne	Telekom Srbija	Conax	20221	2211	2212[hun]	2210	2211		2019-08-07	No	75001053
+11719.50	H	30000 3/4	Europe	TV	Prime	Węgry	Różne	Telekom Srbija	Conax	20222	2221	2222[hun]	2220	2221		2019-08-07	No	75001055
+11719.50	H	30000 3/4	Europe	TV	RTL+	Węgry	Ogólne	Telekom Srbija	Conax	20223	2231	2232[hun]	2230	2231		2019-08-07	No	75001057
+11719.50	H	30000 3/4	Europe	TV	Film +	Węgry	Filmy	Telekom Srbija	Conax	20224	2241	2242[hun]	2240	2241		2019-08-07	No	75001059
+11719.50	H	30000 3/4	Europe	TV	Cool TV	Węgry	Komedia	Telekom Srbija	Conax	20225	2251	2252[hun]	2250	2251		2019-08-07	No	75001061
+11719.50	H	30000 3/4	Europe	TV	Digi 24	Rumunia	Informacje	Telekom Srbija	Conax	20226	2261	2262[rom]	2260	2261		2019-08-07	No	75001063
+11719.50	H	30000 3/4	Europe	TV	Pro TV International	Rumunia	Ogólne	Telekom Srbija	Conax	20227	2271	2272[rom]	2270	2271		2019-08-07	No	75001065
+11719.50	H	30000 3/4	Europe	TV	Realitatea			Telekom Srbija	Conax	20228	2281	2282[rom]	2280	2281		2019-11-04	No	75001067
+11719.50	H	30000 3/4	Europe	TV	Trinitas TV	Rumunia	Religia	Telekom Srbija	Conax	20229	2291	2292[rom]	2290	2291		2019-08-07	No	75001069
+11719.50	H	30000 3/4	Europe	TV	Etno TV	Rumunia	Muzyka	Telekom Srbija	Conax	20230	2301	2302[rom]	2300	2301		2019-08-07	No	75001071
+11719.50	H	30000 3/4	Europe	TV	Favorit TV	Rumunia	Ogólne	Telekom Srbija	Conax	20231	2311	2312[rom]	2310	2311		2019-08-07	No	75001073
+11719.50	H	30000 3/4	Europe	TV	Taraf TV	Rumunia	Muzyka	Telekom Srbija	Conax	20232	2321	2322[rom]	2320	2321		2019-08-07	No	75001075
+11719.50	H	30000 3/4	Europe	TV	Muszicka TV	Węgry	Muzyka	Telekom Srbija	Conax	20233	2331	2332[hun]	2330	2331		2019-08-07	No	75001077
+11719.50	H	30000 3/4	Europe	TV	RTL Gold	Węgry	Seriale	Telekom Srbija	Conax	20234	2341	2342[hun]	2340	2341		2019-07-03	No	75001079
+11719.50	H	30000 3/4	Europe	TV	Sorozat +	Węgry	Różne	Telekom Srbija	Conax	20235	2351	2352[hun]	2350	2351		2019-07-03	No	75001081
+11719.50	H	30000 3/4	Europe	TV	TV 2 (Hungary)	Węgry	Ogólne	Telekom Srbija	Conax	20236	2361	565[eng]|2362[hun]	2360	2361		2020-03-01	No	75001083
+11719.50	H	30000 3/4	Europe	TV	Super TV 2	Węgry	Rozrywka	Telekom Srbija	Conax	20237	2371	2372[hun]	2370	2371		2020-03-07	No	75001085
+11719.50	H	30000 3/4	Europe	TV	TV Mreza Most	Serbia	Różne	Telekom Srbija	Conax	20240	2401	2402[ser]	2400	2401		2019-05-22	No	75001087
+11719.50	H	30000 3/4	Europe	TV	OBN	Bośnia i Hercegowina	Ogólne	Telekom Srbija	Conax	20241	2411	32[bos]	2410	2411		2020-02-15	No	75001089
+11719.50	H	30000 3/4	Europe	TV	Hema TV	Bośnia i Hercegowina	Ogólne	Telekom Srbija	Conax	20242	2421	2422[eng]	2420	2421		2019-09-26	No	75001091
+11719.50	H	30000 3/4	Europe	TV	Pink BH	Bośnia i Hercegowina	Ogólne	Telekom Srbija	Conax	20243	2431	2432[bos]	2430	2431		2019-05-23	No	75001093
+11719.50	H	30000 3/4	Europe	TV	Face TV	Bośnia i Hercegowina	Ogólne	Telekom Srbija	Conax	20244	2441	2442[bos]	2440	2441		2019-05-25	No	75001095
+11719.50	H	30000 3/4	Europe	TV	TV Alfa Sarajevo	Bośnia i Hercegowina	Regionalne	Telekom Srbija	Conax	20245	2451	2452	2450	2451		2019-05-25	No	75001097
+11719.50	H	30000 3/4	Europe	TV	K3 (Bosnia)	Bośnia i Hercegowina	Ogólne	Telekom Srbija	Conax	20246	2461	2462[bos]	2460	2462		2019-08-07	No	75001099
+11719.50	H	30000 3/4	Europe	TV	TV Niksic	Serbia	Różne	Telekom Srbija	Conax	20250	2501	2502[ser]	2500	2501		2019-05-23	No	75001101
+11719.50	H	30000 3/4	Europe	TV	TV Budva	Serbia	Różne	Telekom Srbija	Conax	20251	2511	2512[ser]	2510	2511		2019-05-23	No	75001103
+11719.50	H	30000 3/4	Europe	TV	TV Pljevlja	Serbia	Różne	Telekom Srbija	Conax	20252	2521	2522[ser]	2520	2521		2019-05-22	No	75001105
+11719.50	H	30000 3/4	Europe	TV	Baby TV	Wielka Brytania	Dzieci	Telekom Srbija	Conax	20260	2601	2602[eng]	2600	2601		2019-10-01	No	75001107
+11739.00	V	29900 2/3	Europe	TV	NPO Politiek	Holandia	Polityka	Canal Digitaal|TeleSat	Mediaguard 3|Nagravision 3|Viaccess 5.0	6010	512	80[ned]	2410	512		2020-01-08	No	79001001
+11739.00	V	29900 2/3	Europe	TV	192TV	Holandia	Muzyka	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	6015	513	82[ned]	2415	513		2017-03-25	No	79001003
+11739.00	V	29900 2/3	Europe	TV	Fox Channel Netherlands	Holandia	Rozrywka	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	6030	516	88[ned]	2430	516		2017-04-04	No	79001005
+11739.00	V	29900 2/3	Europe	TV	Boomerang	Wielka Brytania	Dzieci	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	6035	517	90[eng]|91[ned]	2435	517	37	2017-03-25	No	79001007
+11739.00	V	29900 2/3	Europe	TV	Boomerang CZ			SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	6036	517	90[eng]	2436	517		2017-03-26	No	79001009
+11739.00	V	29900 2/3	Europe	TV	Investigation Discovery Europe	Wielka Brytania	Dokumenty	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	6045	519	94[ned]	2445	519		2017-03-26	No	79001011
+11739.00	V	29900 2/3	Europe	TV	Be2Can HD	Czechy	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	6061	581	121[cze]	2561	581		2019-03-19	No	79001013
+11739.00	V	29900 2/3	Europe	TV	TravelXP HD	nieokreślony	Dokumenty	SkyLink	Irdeto 2|Viaccess 5.0	6062	582	122[cze]|222[eng]	2562	582		2019-03-13	No	79001015
+11739.00	V	29900 2/3	Europe	TV	Travel XP HD BNL			Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	6063	582	222[eng]	2563	582		2019-03-16	No	79001017
+11739.00	V	29900 2/3	Europe	TV	Ceskoslovensko HD	Czechy	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	6064	584	124[cze]	2564	584		2019-03-13	No	79001019
+11739.00	V	29900 2/3	Europe	TV	Disney Channel Benelux	Holandia	Dzieci	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	6065	523	102[ned]|202[eng]	2465	523	48	2017-03-26	No	79001021
+11739.00	V	29900 2/3	Europe	TV	ONS	Holandia	Różne	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	6067	520	96[ned]	2457	520		2017-03-25	No	79001023
+11739.00	V	29900 2/3	Europe	TV	FOX Sports 4 HD	Holandia	Sport	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	6068	530	107[ned]	2468	530		2018-07-19	No	79001025
+11739.00	V	29900 2/3	Europe	TV	NPO 2 HD	Holandia	Ogólne	Canal Digitaal|TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	6080	525	105[ned]	2480	525	43	2017-03-26	No	79001027
+11739.00	V	29900 2/3	Europe	TV	SBS 6 HD	Holandia	Ogólne	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	6090	526	106[ned]	2490	526	42	2017-03-25	No	79001029
+11739.00	V	29900 2/3	Europe	TV	Fox Sports Eredivisie 1 HD	Holandia	Sport	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	6092	528	224[ned]	2492	528	45	2018-07-21	No	79001031
+11739.00	V	29900 2/3	Europe	TV	The Q You	Stany Zjednoczone	Rozrywka	Canal Digitaal|SkyLink|TV Vlaanderen	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	6094	534	134[eng]	2494	534		2017-03-25	No	79001033
+11739.00	V	29900 2/3	Europe	TV	the QYOU CZ			SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	6095	534	134[eng]	2495	534		2017-03-26	No	79001035
+11739.00	V	29900 2/3	Europe	TV	Discovery Channel Nederland	Holandia	Dokumenty	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	6097	537	137[ned]	2497	537		2017-03-26	No	79001037
+11739.00	V	29900 2/3	Europe	TV	Canal Digitaal Infokanal	Holandia	Różne	M7 Group	FTA	6112	562	82[ned]	2462	562		2017-09-08	Yes	79001039
+11739.00	V	29900 2/3	Europe	TV	TVV Infokanaal	Holandia	Informacje	M7 Group	FTA	6113	563	82[ned]	2463	563		2017-09-08	Yes	79001041
+11739.00	V	29900 2/3	Europe	TV	Cartoon Network	Wielka Brytania	Dzieci	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	6121	571	161[ned]	2471	571		2018-01-23	No	79001043
+11739.00	V	29900 2/3	Europe	TV	Fightbox	Polska	Sport	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	6122	572	162[eng]	2472	572		2020-04-08	No	79001045
+11739.00	V	29900 2/3	Europe	TV	Retro Music Television	Czechy	Muzyka	Canal Digitaal|SkyLink|TV Vlaanderen	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	6125	575	165[cze]	2475	575		2018-07-26	No	79001047
+11739.00	V	29900 2/3	Europe	TV	Adventure TV Czech	Czechy	Dokumenty	SkyLink	Irdeto 2|Viaccess 5.0	6160	560	116[cze]	2460	560		2018-12-21	No	79001049
+11739.00	V	29900 2/3	Europe	R	Q-Music			TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	6126		126[ned]	2626	126		2019-03-15	No	79001051
+11739.00	V	29900 2/3	Europe	R	Joe FM			TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	6127		127[ned]	2627	127		2019-03-15	No	79001053
+11739.00	V	29900 2/3	Europe	R	Arrow Classic Rock			M7 Group	FTA	6128		166[ned]	2498	166		2019-03-15	Yes	79001055
+11739.00	V	29900 2/3	Europe	R	Classic FM			M7 Group	FTA	6129		167[ned]	2499	167		2019-03-15	Yes	79001057
+11739.00	V	29900 2/3	Europe	R	Radio Veronica			M7 Group	FTA	6130		168[ned]	2431	168		2019-03-15	Yes	79001059
+11739.00	V	29900 2/3	Europe	DATA	Downl CAM 2			M7 Group	FTA	6131			2432	8191		2019-04-22	Yes	79001061
+11778.00	V	27500 2/3	Europe	TV	SES UHD Demo	Luksemburg	Prezentacje	SES ASTRA	FTA	5390	511	512[ger]	1200	511		2017-03-26	Yes	87001001
+11778.00	V	27500 2/3	Europe	TV	SES UHD Demo	Luksemburg	Prezentacje	SES	FTA	5395	257	258[aac]	256	257		2017-04-22	Yes	87001003
+11797.50	H	30000 3/4	Europe	TV	Pink TV	Francja	Lifestyle	Telekom Srbija	Conax	20004	41	42[ser]	40	41		2018-12-26	No	91001003
+11797.50	H	30000 3/4	Europe	TV	Prva Srpska Televizija	Serbia	Ogólne	Telekom Srbija	Conax	20005	51	52[ser]	50	51	54	2018-12-24	No	91001005
+11797.50	H	30000 3/4	Europe	TV	B92	Serbia	Ogólne	Telekom Srbija	Conax	20006	61	62[ser]	60	61		2020-03-04	No	91001007
+11797.50	H	30000 3/4	Europe	TV	Happy TV	Serbia	Dzieci	Telekom Srbija	Conax	20007	71	72	70	71		2018-12-24	No	91001009
+11797.50	H	30000 3/4	Europe	TV	Studio B	Serbia	Ogólne	Telekom Srbija	Conax	20008	81	82	80	81		2018-12-24	No	91001011
+11797.50	H	30000 3/4	Europe	TV	Pink 2	Serbia	Ogólne	Telekom Srbija	Conax	20010	101	102	100	101		2018-12-24	No	91001013
+11797.50	H	30000 3/4	Europe	TV	Pink 3 Info	Serbia	Seriale	Telekom Srbija	Conax	20011	111	112	110	111		2018-12-24	No	91001015
+11797.50	H	30000 3/4	Europe	TV	Prva MAX	Serbia	Rozrywka	Telekom Srbija	Conax	20014	141	142[ser]	140	141		2018-12-24	No	91001017
+11797.50	H	30000 3/4	Europe	TV	Timeless Drama Channel	nieokreślony	Seriale	Telekom Srbija	Conax	20015	151	152[tur]	150	151		2020-01-04	No	91001019
+11797.50	H	30000 3/4	Europe	TV	Arena Sport 1 HD	Słowacja	Sport	Telekom Srbija	Conax	20020	201	202	200	201		2018-12-24	No	91001021
+11797.50	H	30000 3/4	Europe	TV	Arena Sport 2 HD	Chorwacja	Sport	Telekom Srbija	Conax	20021	211	212[cro]	210	211		2018-12-24	No	91001023
+11797.50	H	30000 3/4	Europe	TV	Arena Sport 3 HD	Chorwacja	Sport	Telekom Srbija	Conax	20022	221	222	220	221		2018-12-24	No	91001025
+11797.50	H	30000 3/4	Europe	TV	Arena Sport 4 HD	Chorwacja	Sport	Telekom Srbija	Conax	20023	231	232[cro]	230	231		2018-12-24	No	91001027
+11797.50	H	30000 3/4	Europe	TV	Arena Sport 5 HD	Chorwacja	Sport	Telekom Srbija	Conax	20024	241	242[cro]	240	241		2018-12-24	No	91001029
+11797.50	H	30000 3/4	Europe	TV	Eurosport 1 HD	Francja	Sport	Telekom Srbija	Conax	20026	261	262[ser]	260	261		2018-12-24	No	91001031
+11797.50	H	30000 3/4	Europe	TV	Eurosport 2 HD	Francja	Sport	Telekom Srbija	Conax	20027	271	272[ser]	270	271		2018-12-24	No	91001033
+11797.50	H	30000 3/4	Europe	TV	NBA TV	Stany Zjednoczone	Sport	Telekom Srbija	Conax	20028	281	282|4201|4301	280	281		2019-10-14	No	91001035
+11797.50	H	30000 3/4	Europe	TV	SOS Kanal Plus	Serbia	Rozrywka	Telekom Srbija	Conax	20029	291	292[ser]	290	291		2018-12-24	No	91001037
+11797.50	H	30000 3/4	Europe	TV	Nickelodeon Croatia	Chorwacja	Dzieci	Telekom Srbija	Conax	20030	301	302[ser]	300	301		2018-12-24	No	91001039
+11797.50	H	30000 3/4	Europe	TV	Minimax Serbia	Serbia	Dzieci	Telekom Srbija	Conax	20031	311	312[ser]	310	311		2018-12-24	No	91001041
+11797.50	H	30000 3/4	Europe	TV	Nick Jr Croatia	Chorwacja	Dzieci	Telekom Srbija	Conax	20032	321	322[ser]	320	8191		2018-12-24	No	91001043
+11797.50	H	30000 3/4	Europe	TV	Duck TV	Słowacja	Dzieci	Telekom Srbija	Conax	20033	331	332[slk]	330	331		2018-12-24	No	91001045
+11797.50	H	30000 3/4	Europe	TV	JimJam	Włochy	Dzieci	Telekom Srbija	Conax	20034	341	342[eng]	340	341		2018-12-24	No	91001047
+11797.50	H	30000 3/4	Europe	TV	Pink Super Kids	Serbia	Dzieci	Telekom Srbija	Conax	20035	351	352	350	351		2018-12-24	No	91001049
+11797.50	H	30000 3/4	Europe	TV	Boomerang	Wielka Brytania	Dzieci	Telekom Srbija	Conax	20036	361	362[eng]	360	361		2018-12-24	No	91001051
+11797.50	H	30000 3/4	Europe	TV	Disney Channel Serbia	Serbia	Dzieci	Telekom Srbija	Conax	20037	371	372[eng]	370	371		2019-02-20	No	91001053
+11797.50	H	30000 3/4	Europe	TV	Pink Kids	Serbia	Dzieci	Telekom Srbija	Conax	20038	381	382	380	381		2018-12-24	No	91001055
+11797.50	H	30000 3/4	Europe	TV	BK TV	Serbia	Ogólne	Telekom Srbija	Conax	20039	391	392[ser]	390	391		2019-02-21	No	91001057
+11797.50	H	30000 3/4	Europe	TV	Cinestar TV	Chorwacja	Filmy	Telekom Srbija	Conax	20040	401	402	400	401		2018-12-24	No	91001059
+11797.50	H	30000 3/4	Europe	TV	CineStar Action and Thriller	Serbia	Filmy	Telekom Srbija	Conax	20041	411	412[ser]	410	411		2018-12-24	No	91001061
+11797.50	H	30000 3/4	Europe	TV	CineStar TV Fantasy	Chorwacja	Filmy	Telekom Srbija	Conax	20042	421	422	420	421		2018-12-24	No	91001063
+11797.50	H	30000 3/4	Europe	TV	CineStar Comedy	Chorwacja	Filmy	Telekom Srbija	Conax	20043	431	432[ser]	430	431		2018-12-24	No	91001065
+11797.50	H	30000 3/4	Europe	TV	Pink Premium	Serbia	Filmy	Telekom Srbija	Conax	20044	441	442	440	441		2018-12-24	No	91001067
+11797.50	H	30000 3/4	Europe	TV	Pink Action	Serbia	Filmy	Telekom Srbija	Conax	20046	461	462	460	461		2018-12-24	No	91001069
+11797.50	H	30000 3/4	Europe	TV	Pink Thriller	Serbia	Filmy	Telekom Srbija	Conax	20047	471	472	470	471		2018-12-24	No	91001071
+11797.50	H	30000 3/4	Europe	TV	Pink Crime & Mystery	Serbia	Filmy	Telekom Srbija	Conax	20048	481	482[ser]	480	481		2018-12-26	No	91001073
+11797.50	H	30000 3/4	Europe	TV	Pink Comedy	Serbia	Komedia	Telekom Srbija	Conax	20049	491	492	490	491		2018-12-24	No	91001075
+11797.50	H	30000 3/4	Europe	TV	Pink Western	Serbia	Filmy	Telekom Srbija	Conax	20051	511	512	510	511		2018-12-24	No	91001077
+11797.50	H	30000 3/4	Europe	TV	Pink Romance	Serbia	Filmy	Telekom Srbija	Conax	20052	521	522	520	521		2018-12-24	No	91001079
+11797.50	H	30000 3/4	Europe	TV	Pink Sci-Fi and Fantasy	Serbia	Filmy	Telekom Srbija	Conax	20053	531	532[ser]	530	531		2018-12-24	No	91001081
+11817.00	V	30000 3/4	Europe	TV	Pink World Cinema	Serbia	Filmy	Telekom Srbija	Conax	20055	551	552	550	551		2019-04-28	No	95001001
+11817.00	V	30000 3/4	Europe	TV	Pink Film	Serbia	Filmy	Telekom Srbija	Conax	20056	561	562	560	561		2019-04-28	No	95001003
+11817.00	V	30000 3/4	Europe	TV	TV 1000	Szwecja	Filmy	Telekom Srbija	Conax	20057	571	572	570	571		2019-04-28	No	95001005
+11817.00	V	30000 3/4	Europe	TV	AMC Balkan	Serbia	Filmy	Telekom Srbija	Conax	20058	581	582[eng]	580	581		2019-04-28	No	95001007
+11817.00	V	30000 3/4	Europe	TV	AXN Adria	Serbia	Seriale	Telekom Srbija	Conax	20059	591	592[eng]	590	591		2019-04-28	No	95001009
+11817.00	V	30000 3/4	Europe	TV	Epic Drama	nieokreślony	Filmy	Telekom Srbija	Conax	20061	611	612[vo]	610	611		2019-04-28	No	95001011
+11817.00	V	30000 3/4	Europe	TV	Sci-Fi Eastern Europe	Polska	Seriale	Telekom Srbija	Conax	20062	621	622[eng]	620	621		2019-08-08	No	95001013
+11817.00	V	30000 3/4	Europe	TV	Diva Balkans	Serbia	Filmy	Telekom Srbija	Conax	20063	631	632[eng]	630	631		2019-08-08	No	95001015
+11817.00	V	30000 3/4	Europe	TV	Fox HD Serbia	Serbia	Rozrywka	Telekom Srbija	Conax	20065	651	652[ser]	650	651		2019-10-03	No	95001017
+11817.00	V	30000 3/4	Europe	TV	FOX Movies Adria HD	Serbia	Filmy	Telekom Srbija	Conax	20066	661	662[ser]	660	661		2019-10-03	No	95001019
+11817.00	V	30000 3/4	Europe	TV	HBO HD Romania	Rumunia	Filmy	Telekom Srbija	Conax	20070	701	702[eng]	700	701		2019-04-28	No	95001021
+11817.00	V	30000 3/4	Europe	TV	HBO 2 HD Adria	Stany Zjednoczone	Filmy	Telekom Srbija	Conax	20071	711	712[eng]	710	711		2019-04-28	No	95001023
+11817.00	V	30000 3/4	Europe	TV	HBO 3 HD Central Europe	Stany Zjednoczone	Filmy	Telekom Srbija	Conax	20072	721	722[eng]	720	721		2019-04-28	No	95001025
+11817.00	V	30000 3/4	Europe	TV	Cinemax HD Eastern Europe	Polska	Filmy	Telekom Srbija	Conax	20073	731	732[eng]	730	731		2019-04-28	No	95001027
+11817.00	V	30000 3/4	Europe	TV	Cinemax 2 HD	Polska	Filmy	Telekom Srbija	Conax	20074	741	742[eng]	740	741		2019-04-28	No	95001029
+11817.00	V	30000 3/4	Europe	TV	Pink Family	Serbia	Rozrywka	Telekom Srbija	Conax	20080	801	802	800	801		2019-04-28	No	95001031
+11817.00	V	30000 3/4	Europe	TV	Pink Serije	Serbia	Seriale	Telekom Srbija	Conax	20081	811	812	810	811		2019-04-28	No	95001033
+11817.00	V	30000 3/4	Europe	TV	Prva Life	Serbia	Lifestyle	Telekom Srbija	Conax	20083	831	832[ser]	830	831		2019-04-28	No	95001035
+11817.00	V	30000 3/4	Europe	TV	Prva Files	Serbia	Seriale	Telekom Srbija	Conax	20084	841	842[ser]	840	841		2019-04-28	No	95001037
+11817.00	V	30000 3/4	Europe	TV	Prva Kick	Serbia	Ogólne	Telekom Srbija	Conax	20085	851	852	850	851		2019-04-28	No	95001039
+11817.00	V	30000 3/4	Europe	TV	Prva World	Serbia	Informacje	Telekom Srbija	Conax	20086	861	862	860	861		2019-04-28	No	95001041
+11817.00	V	30000 3/4	Europe	TV	K1	Ukraina	Ogólne	Telekom Srbija	Conax	20087	871	872[ukr]	34	871		2020-03-21	No	95001043
+11817.00	V	30000 3/4	Europe	TV	TVDR	Serbia	Różne	Telekom Srbija	Conax	20088	881	882[ser]	880	881		2020-03-21	No	95001045
+11817.00	V	30000 3/4	Europe	TV	Kazbuka	Serbia	Różne	Telekom Srbija	Conax	20089	891	892[ser]	890	891		2020-03-21	No	95001047
+11817.00	V	30000 3/4	Europe	TV	RTV 1 (Vojvodina)	Serbia	Regionalne	Telekom Srbija	Conax	20096	961	962[ser]	960	961		2019-04-28	No	95001049
+11817.00	V	30000 3/4	Europe	TV	RTV 2	Serbia	Ogólne	Telekom Srbija	Conax	20097	971	972	970	971		2019-04-28	No	95001051
+11817.00	V	30000 3/4	Europe	TV	RTRS	Serbia	Regionalne	Telekom Srbija	Conax	20101	1011	1012	1010	1011		2019-04-28	No	95001053
+11817.00	V	30000 3/4	Europe	TV	Al Jazeera Balkans	Bośnia i Hercegowina	Informacje	Telekom Srbija	Conax	20102	1021	1022[eng]	1020	1021		2019-04-28	No	95001055
+11817.00	V	30000 3/4	Europe	TV	BN Sat TV	Bośnia i Hercegowina	Ogólne	Telekom Srbija	Conax	20103	1031	1032[ser]	1030	8191		2019-04-28	No	95001057
+11817.00	V	30000 3/4	Europe	TV	BN TV (Terrestrial)	Bośnia i Hercegowina	Ogólne	Telekom Srbija	Conax	20104	1041	1042[bos]	1040	1041	39	2020-01-24	No	95001059
+11817.00	V	30000 3/4	Europe	TV	TV Hram	Serbia	Różne	Telekom Srbija	Conax	20105	1051	1052[ser]	1050	1051		2019-04-28	No	95001061
+11817.00	V	30000 3/4	Europe	TV	RTCG 2	Czarnogóra	Ogólne	Telekom Srbija	Conax	20107	1071	1072[ser]	1070	1071		2019-11-08	No	95001063
+11817.00	V	30000 3/4	Europe	TV	TV Vijesti	Serbia	Różne	Telekom Srbija	Conax	20108	1081	1082[eng]	1080	1081		2019-04-28	No	95001065
+11817.00	V	30000 3/4	Europe	TV	Prva TV Crna Gora	Czarnogóra	Ogólne	Telekom Srbija	Conax	20109	1091	1092[ser]	1090	1091		2019-04-28	No	95001067
+11817.00	V	30000 3/4	Europe	TV	Pink M	Serbia	Ogólne	Telekom Srbija	Conax	20110	1101	1102[ser]	1100	1101		2019-04-28	No	95001069
+11817.00	V	30000 3/4	Europe	TV	ATV Bosnia & Herzegovina	Bośnia i Hercegowina	Ogólne	Telekom Srbija	Conax	20111	1111	1112[bos]	1110	1111		2019-05-31	No	95001071
+11817.00	V	30000 3/4	Europe	TV	BHT 1	Bośnia i Hercegowina	Ogólne	Telekom Srbija	Conax	20112	1121	1122[bos]	1120	1121	1123	2019-04-28	No	95001073
+11817.00	V	30000 3/4	Europe	TV	Federalna TV	Bośnia i Hercegowina	Ogólne	Telekom Srbija	Conax	20113	1131	1132[bos]	1130	1131	35	2019-04-28	No	95001075
+11817.00	V	30000 3/4	Europe	TV	Koreni	Serbia	Historia	Telekom Srbija	Conax	20114	1141	1142[ser]	1140	1141		2019-04-28	No	95001077
+11817.00	V	30000 3/4	Europe	TV	OK Kanal	Serbia	Rozrywka	Telekom Srbija	Conax	20115	1151	1152[ser]	1150	1151		2019-04-28	No	95001079
+11817.00	V	30000 3/4	Europe	TV	Travel Channel	Wielka Brytania	Podróże	Telekom Srbija	Conax	20116	1161	1162[eng]|1163[hun]	1160	1161		2019-04-28	No	95001081
+11817.00	V	30000 3/4	Europe	TV	TLC Europe	nieokreślony	Dokumenty	Telekom Srbija	Conax	20117	1171	1172[eng]	1170	1171		2019-04-28	No	95001083
+11817.00	V	30000 3/4	Europe	TV	Pink Reality	Serbia	Real TV	Telekom Srbija	Conax	20118	1181	1182	1180	1181		2019-04-28	No	95001085
+11856.00	V	29900 2/3	Europe	TV	RTL 4 HD	Holandia	Ogólne	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	7020	514	84[ned]	2520	514	34	2016-05-31	No	103001001
+11856.00	V	29900 2/3	Europe	TV	RTL 5 HD	Holandia	Ogólne	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	7023	523	83[ned]	2523	523	33	2016-05-31	No	103001003
+11856.00	V	29900 2/3	Europe	TV	RTL 7 HD	Holandia	Ogólne	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	7027	527	87[ned]	2527	527	37	2016-05-31	No	103001005
+11856.00	V	29900 2/3	Europe	TV	VTM HD	Belgia	Ogólne	TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	7030	516	88[ned]	2530	516	35	2016-05-31	No	103001007
+11856.00	V	29900 2/3	Europe	TV	RTL 8 HD	Holandia	Ogólne	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	7036	518	94[ned]	2536	518	38	2016-05-31	No	103001009
+11856.00	V	29900 2/3	Europe	TV	Reality Kings	nieokreślony	Porno	Canal Digitaal|SkyLink|TV Vlaanderen	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	7040	540	114[eng]	2540	540		2016-05-31	No	103001011
+11856.00	V	29900 2/3	Europe	TV	Reality Kings CZ			SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	7041	540	114[cze]	2541	540		2016-05-31	No	103001013
+11856.00	V	29900 2/3	Europe	TV	Q2 HD	Belgia	Rozrywka	TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	7056	556	106[ned]	2556	556	66	2016-09-01	No	103001015
+11856.00	V	29900 2/3	Europe	TV	Vier HD	Belgia	Ogólne	TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	7057	557	107[ned]	2557	557	67	2016-05-31	No	103001017
+11856.00	V	29900 2/3	Europe	TV	RTL Z	Holandia	Informacje	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	7058	558	115[ned]	2558	558		2016-05-31	No	103001019
+11856.00	V	29900 2/3	Europe	TV	Eurosport 2 Netherlands	Holandia	Sport	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	7060	560	116[ned]|136[eng]	2560	560		2018-01-23	No	103001021
+11856.00	V	29900 2/3	Europe	TV	Zes	Belgia	Rozrywka	TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	7061	561	137[ned]	2561	561		2016-09-20	No	103001023
+11856.00	V	29900 2/3	Europe	TV	Fox Sports 2 HD	Holandia	Sport	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	7164	564	164[ned]	2964	564		2018-08-16	No	103001025
+11856.00	V	29900 2/3	Europe	TV	Nautical HD	nieokreślony	Sport	Canal Digitaal|SkyLink|TV Vlaanderen	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	7165	585	168[eng]|278[rus]|266[ger]|267[fra]|268[ita]	2965	585		2018-08-07	No	103001027
+11856.00	V	29900 2/3	Europe	TV	Eurosport 1 HD	Francja	Sport	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	7166	566	166[cze]|276[eng]|286[hun]|296[ned]	2966	566		2019-03-19	No	103001029
+11856.00	V	29900 2/3	Europe	TV	Eurosport 1 HD BE			Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	7167	566	296[ned]|276[eng]	2967	566		2019-03-22	No	103001031
+11856.00	V	29900 2/3	Europe	TV	JimJam CZ			SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	7169	569	169[cze]|279[eng]|289[hun]	2969	569		2019-04-13	No	103001033
+11875.50	H	29900 3/4	Europe	TV	Nova HD	Czechy	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13201	7001	7002[cze]|7003[cze]	7000	7001		2016-04-24	No	107001001
+11875.50	H	29900 3/4	Europe	TV	Prima Televize HD	Czechy	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13202	7021	7022[cze]|7023[cze]	7020	7021	7024	2016-04-24	No	107001003
+11875.50	H	29900 3/4	Europe	TV	Nova Sport HD	Czechy	Sport	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13203	7041	7042[cze]|7043[cze]|7044[vo]	7040	7041		2016-04-24	No	107001005
+11875.50	H	29900 3/4	Europe	TV	Nova Action HD	Czechy	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13204	7061	7062[cze]	7060	7061		2017-02-04	No	107001007
+11875.50	H	29900 3/4	Europe	TV	Nova Cinema HD	Czechy	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13205	7081	7082[cze]	7080	7081		2016-04-24	No	107001009
+11875.50	H	29900 3/4	Europe	TV	Prima COOL HD	Czechy	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13206	7101	7102[cze]|7103[cze]	7100	7101		2016-04-24	No	107001011
+11875.50	H	29900 3/4	Europe	TV	Dajto HD	Słowacja	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13207	7121	7122[slk]|7123[mul]	7120	7121		2016-04-24	No	107001013
+11875.50	H	29900 3/4	Europe	TV	J@J HD	Słowacja	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13208	7141	7142[slk]|7143[mul]	7140	7141		2016-04-24	No	107001015
+11875.50	H	29900 3/4	Europe	TV	J@J PLUS HD	Słowacja	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13209	7161	7162[slk]|7163[mul]	7160	7161		2016-04-24	No	107001017
+11875.50	H	29900 3/4	Europe	TV	Jojko	Słowacja	Dzieci	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13210	7181	7182[slk]|7183[qaa]	7180	7181		2020-01-07	No	107001019
+11875.50	H	29900 3/4	Europe	TV	Nova International	Czechy	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13211	7201	7202[cze]	7200	7201		2016-04-24	No	107001021
+11875.50	H	29900 3/4	Europe	TV	Prima Krimi	Czechy	Seriale	SkyLink	Irdeto 2|Viaccess 5.0	13212	7221	7222[cze]	7220	7221		2019-11-26	No	107001023
+11875.50	H	29900 3/4	Europe	TV	Slagr 2	Słowacja	Muzyka	SkyLink	Irdeto 2|Viaccess 5.0	13213	7241	7242[slk]	7240	7241		2020-02-18	No	107001025
+11875.50	H	29900 3/4	Europe	TV	Epic Drama HD	Polska	Seriale	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13214	7261	7262[cze]|7263[qaa]	7260	7261		2018-08-21	No	107001027
+11875.50	H	29900 3/4	Europe	TV	Discovery Channel Czech	Czechy	Dokumenty	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13215	7281	7282[cze]|7283[eng]	7280	7281		2019-03-13	No	107001029
+11914.50	H	30000 3/4	Europe	TV	mSAT Info			Telekom Srbija	Conax	20000	91	92	90	91		2018-12-28	No	115001001
+11914.50	H	30000 3/4	Europe	TV	RTS 1 HD Serbia	Serbia	Ogólne	Telekom Srbija	Conax	20001	101	102[ser]	100	101		2018-12-13	No	115001003
+11914.50	H	30000 3/4	Europe	TV	RTS 2 HD Serbia	Serbia	Ogólne	Telekom Srbija	Conax	20002	111	112[ser]	110	111	113	2018-12-13	No	115001005
+11914.50	H	30000 3/4	Europe	TV	Superstar TV HD	Serbia	Rozrywka	Telekom Srbija	Conax	20003	31	32[ser]	30	31		2018-12-13	No	115001007
+11914.50	H	30000 3/4	Europe	TV	Star TV	Turcja	Ogólne	Telekom Srbija	Conax	20012	124	125	123	124		2018-12-13	No	115001009
+11914.50	H	30000 3/4	Europe	TV	Film Klub	Serbia	Filmy	Telekom Srbija	Conax	20013	131	132	130	131		2018-12-13	No	115001011
+11914.50	H	30000 3/4	Europe	TV	Decija TV	Serbia	Różne	Telekom Srbija	Conax	20016	161	162[ser]	160	161		2018-12-13	No	115001013
+11914.50	H	30000 3/4	Europe	TV	Kitchen TV HD	Serbia	Gotowanie	Telekom Srbija	Conax	20017	171	172[ser]	170	171		2018-12-13	No	115001015
+11914.50	H	30000 3/4	Europe	TV	Agro TV HD	Serbia	Różne	Telekom Srbija	Conax	20018	181	182[ser]	180	181		2018-12-13	No	115001017
+11914.50	H	30000 3/4	Europe	TV	Dexy TV	Serbia	Dzieci	Telekom Srbija	Conax	20019	191	128[ser]	190	191		2020-02-11	No	115001019
+11914.50	H	30000 3/4	Europe	TV	Arena Sport HD KiM	Macedonia	Sport	Telekom Srbija	Conax	20025	251	252[mac]	250	251		2019-03-24	No	115001021
+11914.50	H	30000 3/4	Europe	TV	Film Klub Extra	Serbia	Filmy	Telekom Srbija	Conax	20082	821	822[ser]	820	821		2018-12-13	No	115001023
+11914.50	H	30000 3/4	Europe	TV	RTS Zivot	Serbia	Różne	Telekom Srbija	Conax	20090	901	902	900	901		2018-12-13	No	115001025
+11914.50	H	30000 3/4	Europe	TV	RTS Drama	Serbia	Seriale	Telekom Srbija	Conax	20091	911	912	910	911		2018-12-13	No	115001027
+11914.50	H	30000 3/4	Europe	TV	RTS Kolo	Serbia	Różne	Telekom Srbija	Conax	20092	921	922	920	921		2018-12-13	No	115001029
+11914.50	H	30000 3/4	Europe	TV	RTS Trezor	Serbia	Różne	Telekom Srbija	Conax	20093	931	932	930	931		2018-12-13	No	115001031
+11914.50	H	30000 3/4	Europe	TV	RTS Muzika	Serbia	Muzyka	Telekom Srbija	Conax	20094	941	942	940	941		2018-12-13	No	115001033
+11914.50	H	30000 3/4	Europe	TV	RTS Poletarac	Serbia	Ogólne	Telekom Srbija	Conax	20095	951	952[eng]	950	951		2018-12-13	No	115001035
+11914.50	H	30000 3/4	Europe	TV	RTS 3	Serbia	Ogólne	Telekom Srbija	Conax	20098	981	982	980	981		2018-12-13	No	115001037
+11914.50	H	30000 3/4	Europe	TV	RTS Svet HD	Serbia	Ogólne	Telekom Srbija	FTA	20099	991	992[ser]	990	991	993	2018-12-13	Yes	115001039
+11914.50	H	30000 3/4	Europe	TV	M1 - Magyar TV	Węgry	Ogólne	Harmonic	Conax	20210	2101	2102[hun]	2100	2101		2019-03-15	No	115001041
+11914.50	H	30000 3/4	Europe	TV	Magyar TV 2	Węgry	Ogólne	Harmonic	Conax	20211	2111	2112[hun]	2110	2111		2019-03-15	No	115001043
+11914.50	H	30000 3/4	Europe	TV	RTL Klub	Węgry	Ogólne	Harmonic	Conax	20212	2121	2122[hun]	2120	2121		2019-03-15	No	115001045
+11914.50	H	30000 3/4	Europe	TV	Viasat 3	Węgry	Ogólne	Harmonic	Conax	20213	2131	2132[hun]	2130	2131		2019-03-15	No	115001047
+11914.50	H	30000 3/4	Europe	TV	4! Story TV	Węgry	Ogólne	Harmonic	Conax	20214	2141	2142[hun]	2140	2141		2019-03-15	No	115001049
+11914.50	H	30000 3/4	Europe	TV	Magyar ATV	Węgry	Ogólne	Harmonic	Conax	20215	2151	2152[hun]	2150	2151		2019-03-15	No	115001051
+11914.50	H	30000 3/4	Europe	TV	RTL 2 Hungary	Węgry	Rozrywka	Telekom Srbija	Conax	20216	2161	2162[hun]	2160	2161		2019-04-26	No	115001053
+11914.50	H	30000 3/4	Europe	TV	Duna TV	Węgry	Ogólne	Harmonic	Conax	20217	2171	2172[hun]	2170	2171		2019-03-15	No	115001055
+11914.50	H	30000 3/4	Europe	TV	Duna World	Węgry	Ogólne	Harmonic	Conax	20218	2181	2182[hun]	2180	2181		2019-03-15	No	115001057
+11914.50	H	30000 3/4	Europe	R	Radio Beograd 1			Telekom Srbija	FTA	20820		202[ser]	200	202		2018-09-25	Yes	115001059
+11914.50	H	30000 3/4	Europe	R	Radio Beograd 2			Telekom Srbija	FTA	20821		212[ser]	210	212		2018-09-25	Yes	115001061
+11914.50	H	30000 3/4	Europe	R	Radio Beograd 202			Telekom Srbija	FTA	20822		222[ser]	220	222		2019-06-27	Yes	115001063
+11914.50	H	30000 3/4	Europe	R	AS FM			Telekom Srbija	FTA	20850		502[ser]	500	502		2019-03-24	Yes	115001065
+11914.50	H	30000 3/4	Europe	R	Play Radio			Telekom Srbija	FTA	20851		512[aac][ser]	510	512		2019-05-17	Yes	115001067
+11934.00	V	27500 3/4	Europe	TV	German Tote TV	Niemcy	Biznes	MB Satellite	FTA|Conax	14041	4110	4120[ger]	4100	4110		2018-08-09	Yes	119001001
+11934.00	V	27500 3/4	Europe	TV	Fightbox	Polska	Sport	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14050	5010	5020[eng]	5000	5010		2018-03-04	No	119001003
+11934.00	V	27500 3/4	Europe	TV	DocuBox	nieokreślony	Dokumenty	Canal Digitaal|SkyLink|TV Vlaanderen	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	14051	5110	5120[vo]	5100	5110		2018-03-04	No	119001005
+11934.00	V	27500 3/4	Europe	TV	Prima Comedy Central	Czechy	Komedia	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14052	5210	5220[cze]	5200	5210	5230	2017-03-25	No	119001007
+11934.00	V	27500 3/4	Europe	TV	Prima Max HD	Czechy	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14053	5310	5320[cze]|5321[cze]	5300	5310		2019-11-26	No	119001009
+11934.00	V	27500 3/4	Europe	TV	History HD Benelux	Holandia	Historia	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	14054	5410	5420[ned]	5400	5410		2018-02-07	No	119001011
+11934.00	V	27500 3/4	Europe	TV	TV Oranje	Holandia	Muzyka	Canal Digitaal|SkyLink|TV Vlaanderen	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	14055	5510	5520[ned]	5500	5510		2019-06-25	No	119001013
+11934.00	V	27500 3/4	Europe	TV	Prima Zoom HD	Czechy	Różne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14056	5610	5620[cze]|5621[cze]	5600	5610		2017-03-25	No	119001015
+11934.00	V	27500 3/4	Europe	TV	FilmBox	Czechy	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14057	5710	5720[cze]|5721[qaa]	5700	5710		2017-03-25	No	119001017
+11934.00	V	27500 3/4	Europe	TV	CS Mini	Czechy	Dzieci	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14058	5810	5820[cze]	5800	5810		2019-12-02	No	119001019
+11934.00	V	27500 3/4	Europe	TV	Horor Film	Czechy	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14059	5910	5920[cze]	5900	5910		2019-12-02	No	119001021
+11934.00	V	27500 3/4	Europe	TV	Viasat History	Szwecja	Historia	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14060	6010	6020[cze]|6021[eng]|6022[hun]	6000	6010		2017-03-25	No	119001023
+11934.00	V	27500 3/4	Europe	TV	Viasat Explore	Szwecja	Dokumenty	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14061	6110	6120[cze]|6121[eng]|6122[hun]	6100	6110		2019-01-04	No	119001025
+11934.00	V	27500 3/4	Europe	TV	Viasat Nature CEE	Szwecja	Dokumenty	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14062	6210	6220[cze]|6221[eng]|6222[hun]	6200	6210		2017-05-28	No	119001027
+11934.00	V	27500 3/4	Europe	TV	Prima Love	Czechy	Rozrywka	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14063	6310	6320[cze]	6300	6310		2018-03-29	No	119001029
+11934.00	V	27500 3/4	Europe	TV	Nick Jr Czech	Czechy	Dzieci	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14064	6410	6420[cze]|6421[eng]	6400	6410		2017-06-01	No	119001031
+11934.00	V	27500 3/4	Europe	TV	Senzi TV	Słowacja	Rozrywka	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14065	6510	6520[slk]	6500	6510		2017-09-19	No	119001033
+11934.00	V	27500 3/4	Europe	TV	Filmbox Extra HD Hungary	Węgry	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14067	6710	6720[cze]|6721[qaa]|6722[hun]	6700	6710		2018-08-04	No	119001035
+11934.00	V	27500 3/4	Europe	TV	duck TV DUT			Canal Digitaal|SkyLink|TeleSat|TV Vlaanderen	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	14068	7710	7720[ned]	6800	7710		2018-08-04	No	119001037
+11934.00	V	27500 3/4	Europe	TV	Cartoon Network Czech	Czechy	Dzieci	SkyLink	Irdeto 2|Viaccess 5.0	14069	6910	6920[cze]|6921[eng]	6900	6910		2018-03-02	No	119001039
+11934.00	V	27500 3/4	Europe	TV	MTV Nederland	Holandia	Muzyka	Canal Digitaal|SkyLink|TV Vlaanderen	Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	14070	7010	7020[eng]	7000	7010		2018-05-03	No	119001041
+11934.00	V	27500 3/4	Europe	TV	Nickelodeon Nederland	Holandia	Dzieci	Canal Digitaal|SkyLink|TV Vlaanderen	Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	14071	7110	7120[ned]	7100	7110		2018-05-03	No	119001043
+11934.00	V	27500 3/4	Europe	TV	Spike Netherlands	Holandia	Rozrywka	Canal Digitaal|SkyLink|TV Vlaanderen	Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	14071	7110	7120[ned]	7100	7110		2018-05-03	No	119001045
+11934.00	V	27500 3/4	Europe	TV	Comedy Central Nederland	Holandia	Komedia	Canal Digitaal|SkyLink|TV Vlaanderen	Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	14072	7210	7220[ned]	7200	7210		2018-05-03	No	119001047
+11934.00	V	27500 3/4	Europe	TV	Spike 24	Holandia	Seriale	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	14073	7310	7320[ned]	7300	7310		2018-05-03	No	119001049
+11934.00	V	27500 3/4	Europe	TV	Nickelodeon			Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	14074	7110	7120[ned]	7400	7110		2018-05-05	No	119001051
+11934.00	V	27500 3/4	Europe	TV	AMC Eastern Europe	Wielka Brytania	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14075	7510	7520[cze]|7521[qaa]	7500	7510		2018-08-04	No	119001053
+11934.00	V	27500 3/4	Europe	TV	Disney Channel Hungary & Czechia	Węgry	Dzieci	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14076	7610	7620[cze]|7621[eng]|7622[hun]	7600	7610		2018-08-04	No	119001055
+11934.00	V	27500 3/4	Europe	TV	Duck TV	Słowacja	Dzieci	SkyLink	Cryptoworks|Irdeto 2|Mediaguard 2|Viaccess 5.0	14077	7710	7720[slk]	7700	7710		2018-08-03	No	119001057
+11934.00	V	27500 3/4	Europe	TV	TV Paprika	Węgry	Gotowanie	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14078	7810	7820[cze]	7800	7810		2018-08-03	No	119001059
+11934.00	V	27500 3/4	Europe	TV	Test			SkyLink	Irdeto 2|Viaccess 5.0	14079	7910	7920[cze]	7900	7910		2020-01-16	No	119001061
+11973.00	V	29900 2/3	Europe	TV	Nova Sport 2 HD	Czechy	Sport	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14110	1010	1020[cze]|1021[qaa]|1022[cze]	1000	1010		2016-06-02	No	127001001
+11973.00	V	29900 2/3	Europe	TV	Wau HD	Słowacja	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14111	1110	1120[slk]|1121[qaa]	1100	1110		2016-06-02	No	127001003
+11973.00	V	29900 2/3	Europe	TV	Markiza International	Słowacja	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14112	1210	1220[slk]	1200	1210		2016-07-08	No	127001005
+11973.00	V	29900 2/3	Europe	TV	Nova Gold	Czechy	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14113	1310	1320[cze]	1300	1310		2018-11-27	No	127001007
+11973.00	V	29900 2/3	Europe	TV	Nova 2	Czechy	Rozrywka	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14114	1410	1420[cze]	1400	1410		2018-11-27	No	127001009
+11973.00	V	29900 2/3	Europe	TV	JOJ Family HD	Słowacja	Rozrywka	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14115	1510	1520[cze]|1521[vo]	1500	1510		2016-09-06	No	127001011
+11973.00	V	29900 2/3	Europe	TV	Minimax Czechia	Czechy	Dzieci	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14116	1610	1620[cze]	1600	1610		2016-06-02	No	127001013
+11973.00	V	29900 2/3	Europe	TV	Leo TV	Czechy	Różne	Canal Digitaal|SkyLink|TV Vlaanderen	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	14117	1710	1720[cze]	1700	1710		2016-07-06	No	127001015
+11973.00	V	29900 2/3	Europe	TV	Leo TV BNL			Canal Digitaal|SkyLink|TV Vlaanderen	Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	14118	1710	1720[ned]	1800	1710		2018-01-23	No	127001017
+11973.00	V	29900 2/3	Europe	TV	Penthouse Gold	Stany Zjednoczone	Porno	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	14119	1910	1920[eng]	1900	1910		2019-04-02	No	127001019
+11973.00	V	29900 2/3	Europe	TV	Penthouse Gold CZ			SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14120	1910	1920[eng]	2000	1910		2019-04-02	No	127001021
+11973.00	V	29900 2/3	Europe	TV	Penthouse Quickies	Stany Zjednoczone	Porno	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	14121	2110	2120[eng]	2100	2110		2019-04-02	No	127001023
+11973.00	V	29900 2/3	Europe	TV	Penthouse Quickies CZ			SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14122	2110	2120[eng]	2200	2110		2019-04-02	No	127001025
+11973.00	V	29900 2/3	Europe	TV	Nova +1 HD	Czechy	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14124	2410	2420[cze]|2421[cze]	2400	2410		2017-09-19	No	127001027
+11973.00	V	29900 2/3	Europe	TV	Markiza +1 HD	Czechy	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14125	2510	2520[slk]|2521[qaa]	2500	2510		2017-09-19	No	127001029
+11973.00	V	29900 2/3	Europe	TV	Mnam TV	Czechy	Gotowanie	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14128	2810	2820[cze]	2800	2810		2018-07-19	No	127001031
+11973.00	V	29900 2/3	Europe	TV	Markiza HD	Słowacja	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14129	2910	2920[slk]|2921[qaa]	2900	2910	2930	2019-03-27	No	127001033
+11973.00	V	29900 2/3	Europe	TV	Doma HD	Słowacja	Seriale	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	14130	3010	3020[slk]|3021[qaa]	3000	3010	3030	2019-04-16	No	127001035
+11973.00	V	29900 2/3	Europe	R	Proglas			M7 Group	FTA	14150		5020[cze]	5000	5020		2016-06-22	Yes	127001037
+11973.00	V	29900 2/3	Europe	R	Funx			M7 Group	FTA	14151		5120[ned]	5100	5120		2019-03-15	Yes	127001039
+11973.00	V	29900 2/3	Europe	R	L1 Radio			M7 Group	FTA	14152		5220[ned]	5200	5220		2019-05-08	Yes	127001041
+11973.00	V	29900 2/3	Europe	R	Radio 7 CZ			M7 Group	FTA	14153		5320[cze]	5300	5320		2019-11-13	Yes	127001043
+12031.50	H	27500 9/10	Europe	TV	Unitel Classica HD	Niemcy	Muzyka	Boobles|Canal Digitaal|SkyLink|TV Vlaanderen	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	6101	511	515[ger]	97	511		2019-06-27	No	135001001
+12031.50	H	27500 9/10	Europe	TV	iConcert	Francja	Muzyka	Boobles|Canal Digitaal|SkyLink|TV Vlaanderen	Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	6102	767	768[eng]	98	767		2017-12-18	No	135001003
+12031.50	H	27500 9/10	Europe	TV	AutoMotorSport HD	Niemcy	Sport	Boobles|Canal Digitaal|SkyLink|TV Vlaanderen	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	6103	1023	1024[ger]|1025[bul]|1026[cze]|1027[hun]	99	1023		2017-03-25	No	135001005
+12031.50	H	27500 9/10	Europe	DATA	A2C-RMT			ABBS	FTA	6190			144	8191		2017-04-08	Yes	135001007
+12070.50	H	27500 3/4	Europe	TV	Sport 1 HD Czech	Czechy	Sport	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13131	2710	2720[cze]|2721[slk]	2700	2710		2017-03-25	No	143001001
+12070.50	H	27500 3/4	Europe	TV	TLC Czech	Czechy	Dokumenty	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13132	2810	2820[cze]|2821[eng]	2800	2810		2019-03-13	No	143001003
+12070.50	H	27500 3/4	Europe	TV	CS Mystery	Czechy	Rozrywka	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13133	2910	2920[cze]	2900	2910		2019-12-01	No	143001005
+12070.50	H	27500 3/4	Europe	TV	Slagr TV	Czechy	Muzyka	M7 Group	Irdeto 2|Viaccess 5.0	13134	3010	3020[cze]	3000	3010		2020-04-09	No	143001007
+12070.50	H	27500 3/4	Europe	TV	JOJ Cinema +1 HD	Słowacja	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13139	3510	3520[cze]|3521[qaa]	3500	3510		2018-09-10	No	143001009
+12070.50	H	27500 3/4	Europe	TV	TV JOJ +1 HD	Słowacja	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13144	3810	3820[slk]|3821[qaa]	3800	3810		2017-03-25	No	143001011
+12070.50	H	27500 3/4	Europe	TV	JOJ Cinema HD	Słowacja	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13145	3910	3920[cze]|3921[qaa]	3900	3910		2017-03-25	No	143001013
+12070.50	H	27500 3/4	Europe	TV	CS History	Czechy	Historia	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13146	4010	4020[cze]	4000	4010		2019-12-01	No	143001015
+12070.50	H	27500 3/4	Europe	TV	TV Seznam Zpravy HD	Czechy	Informacje	SkyLink	Irdeto 2|Viaccess 5.0	13147	4110	4120[cze]	4100	4110		2018-01-10	No	143001017
+12070.50	H	27500 3/4	Europe	TV	Nickelodeon Czech	Czechy	Dzieci	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	13148	4210	4220[cze]|4221[eng]	4200	4210		2018-07-24	No	143001019
+12070.50	H	27500 3/4	Europe	DATA	OTA SMIT new			M7 Group	FTA	13170			3586	8191		2017-04-08	Yes	143001021
+12070.50	H	27500 3/4	Europe	DATA	Mascom MC280			M7 Group	FTA	13183			3612	8191		2019-10-20	Yes	143001023
+12070.50	H	27500 3/4	Europe	DATA	OTA SMIT			M7 Group	FTA	13185			3616	8191		2019-05-01	Yes	143001025
+12070.50	H	27500 3/4	Europe	DATA	M7 Zenterio			M7 Group	FTA	13187			3620	8191		2017-03-25	Yes	143001027
+12070.50	H	27500 3/4	Europe	DATA	M7 DL DSR7141			M7 Group	FTA	13195			2195	8190		2017-03-25	Yes	143001029
+12070.50	H	27500 3/4	Europe	DATA	Nagra DL DSR7141			M7 Group	FTA	13196			2196	8190		2017-03-25	Yes	143001031
+12070.50	H	27500 3/4	Europe	DATA	M7 DL DSR 8141			M7 Group	FTA	13197			2197	8190		2017-03-25	Yes	143001033
+12070.50	H	27500 3/4	Europe	DATA	Nagra DL DSR8141			M7 Group	FTA	13198			2198	8190		2017-03-25	Yes	143001035
+12070.50	H	27500 3/4	Europe	DATA	EPG Nagra			M7 Group	FTA	13199			2189	8191		2018-10-11	Yes	143001037
+12070.50	H	27500 3/4	Europe	DATA	Hyundai SAT801			M7 Group	FTA	13900			3632	8191		2017-03-25	Yes	143001039
+12090.00	V	29900 2/3	Europe	TV	National Geographic HD East Europe	Wielka Brytania	Dokumenty	M7 Group	Irdeto 2	770	1501	1504[cze]|1506[eng]|7014[eng]|7016[rus]|7017[heb]|7018[hun]	701	1501		2019-10-04	No	147001001
+12090.00	V	29900 2/3	Europe	TV	Nat Geo HD CZ			SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	771	1501	1504[cze]|1506[eng]	2400	1501		2016-06-23	No	147001003
+12090.00	V	29900 2/3	Europe	TV	NatGeo Wild HD	Wielka Brytania	Dokumenty	SkyLink	Irdeto 2	772	1101	1102[eng]|1104[cze]|7616[rus]|7617[ned]|7618[hun]|7619[heb]	761	1101		2019-11-01	No	147001005
+12090.00	V	29900 2/3	Europe	TV	National Geographic Wild HD CZ			SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	773	1101	1102[eng]|1104[cze]	2200	1101		2019-02-01	No	147001007
+12090.00	V	29900 2/3	Europe	TV	National Geographic Wild HD DUT			Canal Digitaal|SkyLink|TV Vlaanderen	Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	774	1101	1102[eng]|7617[ned]	709	1101		2019-10-04	No	147001009
+12090.00	V	29900 2/3	Europe	TV	HBO HD Czech	Czechy	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	775	7111	7112[cze]|7113[qaa]	7116	7111		2016-06-23	No	147001011
+12090.00	V	29900 2/3	Europe	TV	HBO 2 Central Europe	Węgry	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	776	7251	7252[cze]|7253[qaa]	7256	7251		2016-09-15	No	147001013
+12090.00	V	29900 2/3	Europe	TV	HBO 3 Central Europe	Stany Zjednoczone	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	777	7121	7122[cze]|7123[qaa]	7126	7121		2016-09-15	No	147001015
+12090.00	V	29900 2/3	Europe	TV	CineMax	Turcja	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	778	7261	7262[cze]|7263[qaa]	7266	7261		2016-06-22	No	147001017
+12090.00	V	29900 2/3	Europe	TV	MTV Czechia	Czechy	Muzyka	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	780	7291	7292[cze]|7293[eng]	7296	7291		2016-06-23	No	147001019
+12090.00	V	29900 2/3	Europe	TV	C-Music	Niemcy	Muzyka	Canal Digitaal|SkyLink|TV Vlaanderen	Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	781	7301	7302[eng]	7306	7301		2018-11-23	No	147001021
+12090.00	V	29900 2/3	Europe	TV	Stingray CMusic CZ			SkyLink	Irdeto 2|Viaccess 5.0	782	7301	7302[eng]	7336	7301		2018-11-23	No	147001023
+12090.00	V	29900 2/3	Europe	TV	Love Nature HD	nieokreślony	Dokumenty	SkyLink	Irdeto 2|Viaccess 5.0	783	7361	7362[cze]	7326	7361		2019-08-02	No	147001025
+12090.00	V	29900 2/3	Europe	TV	Spektrum HD	Czechy	Dokumenty	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	784	7271	7272[cze]|7273[hun]	7276	7271		2016-09-04	No	147001027
+12090.00	V	29900 2/3	Europe	TV	Digi Sport 2 HD Hungary	Węgry	Sport	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	785	7131	7132[cze]|7133[eng]|7134[hun]	7136	7131		2019-03-22	No	147001029
+12090.00	V	29900 2/3	Europe	TV	Regionalni TV	Czechy	Regionalne	SkyLink	FTA	786	7141	7142[cze]	7146	7141		2016-06-23	Yes	147001031
+12090.00	V	29900 2/3	Europe	TV	National Geographic Hungary & Czechia	Węgry	Dokumenty	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	787	7311	7312[cze]|7313[eng]|7314[hun]	7316	7311		2019-03-22	No	147001033
+12090.00	V	29900 2/3	Europe	TV	Fishing & Hunting	Węgry	Dokumenty	Canal Digitaal|SkyLink|TV Vlaanderen	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	788	7241	7242[cze]	7246	7241		2017-01-21	No	147001035
+12090.00	V	29900 2/3	Europe	TV	AXN Czech	Czechy	Seriale	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	789	7281	7282[cze]|7283[eng]	7286	7281		2016-07-02	No	147001037
+12090.00	V	29900 2/3	Europe	TV	Fishing and Hunting INT			Canal Digitaal|SkyLink|TV Vlaanderen	Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	791	7241	7243[eng]	7217	7241		2017-04-04	No	147001039
+12090.00	V	29900 2/3	Europe	TV	Sport 2 HD Czechia	Czechy	Sport	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	792	7161	7162[cze]|7163[slk]	7166	7161		2018-07-19	No	147001041
+12090.00	V	29900 2/3	Europe	TV	Sport 5	Czechy	Sport	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	793	7171	7172[cze]	7176	7171		2018-07-18	No	147001043
+12090.00	V	29900 2/3	Europe	TV	Love Nature HD INT			Canal Digitaal|SkyLink|TV Vlaanderen	Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	794	7361	7362[eng]	7360	7361	7369	2019-08-02	No	147001045
+12090.00	V	29900 2/3	Europe	TV	Love Nature HD BNL			Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	795	7361	7362[eng]	7380	7361	7369	2019-08-02	No	147001047
+12129.00	V	29900 2/3	Europe	TV	Film1 Family	Holandia	Filmy	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	20910	512	80[ned]	2610	512		2017-11-04	No	163001001
+12129.00	V	29900 2/3	Europe	TV	Film1 Drama	Holandia	Filmy	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	20915	513	82[ned]	2615	513		2017-08-31	No	163001003
+12129.00	V	29900 2/3	Europe	TV	Film1 Action	Holandia	Filmy	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	20920	514	84[ned]	2620	514		2015-11-03	No	163001005
+12129.00	V	29900 2/3	Europe	TV	Ziggo Sport 1 Voetbal	Holandia	Sport	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	20925	515	86[ned]	2625	515		2015-11-28	No	163001007
+12129.00	V	29900 2/3	Europe	TV	Ziggo Sport1 Golf	Holandia	Sport	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	20930	516	88[ned]	2630	516		2015-11-28	No	163001009
+12129.00	V	29900 2/3	Europe	TV	SBS 9	Holandia	Różne	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	20945	519	94[ned]	2645	519	59	2015-11-03	No	163001011
+12129.00	V	29900 2/3	Europe	TV	TLC Netherlands	Holandia	Dokumenty	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	20949	524	103[ned]	2649	524		2015-11-03	No	163001013
+12129.00	V	29900 2/3	Europe	TV	Eclips TV	Belgia	Ogólne	TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	20954	554	154[ned]	2654	554		2019-06-04	No	163001015
+12129.00	V	29900 2/3	Europe	TV	Film1 Premiere HD	Holandia	Filmy	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	20955	521	111[ned]	2655	521		2015-11-03	No	163001017
+12129.00	V	29900 2/3	Europe	TV	Ziggo Sport 1 Select HD	Holandia	Sport	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	20960	522	100[ned]	2660	522		2015-11-28	No	163001019
+12129.00	V	29900 2/3	Europe	TV	National Geographic HD UK	Wielka Brytania	Dokumenty	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	20965	525	105[ned]	2665	525		2015-11-03	No	163001021
+12129.00	V	29900 2/3	Europe	TV	CAZ2	Belgia	Dzieci	TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21110	550	120[ned]	2680	550	50	2020-03-03	No	163001023
+12129.00	V	29900 2/3	Europe	TV	Ketop12	Holandia	Różne	Canal Digitaal|TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21112	552	122[ned]	2682	552	52	2015-11-03	No	163001025
+12129.00	V	29900 2/3	Europe	TV	VTM Kids	Belgia	Dzieci	TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21116	556	126[ned]	2686	556		2019-10-23	No	163001027
+12129.00	V	29900 2/3	Europe	TV	Vitaya	Belgia	Ogólne	TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21120	560	130[ned]	2690	560	60	2015-11-03	No	163001029
+12129.00	V	29900 2/3	Europe	TV	Caz	Belgia	Rozrywka	TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21122	562	132[ned]	2692	562		2016-10-09	No	163001031
+12129.00	V	29900 2/3	Europe	TV	Man-X	Holandia	Porno	Canal Digitaal|SkyLink|TeleSat|TV Vlaanderen	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	21124	564	134[ned]	2694	564		2015-11-03	No	163001033
+12129.00	V	29900 2/3	Europe	TV	VIJF TV	Belgia	Rozrywka	TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21126	566	166[ned]	2700	566	66	2015-11-03	No	163001035
+12129.00	V	29900 2/3	Europe	TV	Eurosport HD Nederland	Holandia	Sport	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	21217	567	107[ned]|167[eng]	2707	567		2018-01-23	No	163001037
+12129.00	V	29900 2/3	Europe	TV	Film + Czechia & Slovakia	Słowacja	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	21218	569	108[cze]	2708	569		2018-08-04	No	163001039
+12129.00	V	29900 2/3	Europe	TV	Filmbox Plus	nieokreślony	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	21219	570	109[cze]	2709	570		2018-07-31	No	163001041
+12129.00	V	29900 2/3	Europe	TV	Filmbox Premium	Czechy	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	21220	571	110[cze]	2710	571		2018-07-31	No	163001043
+12129.00	V	29900 2/3	Europe	TV	Up Network	Czechy	Technologia	SkyLink	Cryptoworks|Irdeto 2|Nagravision 3|Viaccess 5.0	21221	572	112[cze]|212[eng]	2711	572		2018-08-04	No	163001045
+12129.00	V	29900 2/3	Europe	TV	Film Europe HD	nieokreślony	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	21223	573	113[mul]	2713	573		2019-03-13	No	163001047
+12129.00	V	29900 2/3	Europe	TV	Film Europe HD INT			Canal Digitaal|TV Vlaanderen	Cryptoworks|Irdeto 2|Mediaguard 3|Nagravision 3|Viaccess 5.0	21224	573	113[mul]	2714	573		2019-05-17	No	163001049
+12129.00	V	29900 2/3	Europe	TV	Animal Planet CZ			SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	21225	575	115[cze]|215[eng]	2715	575		2019-03-16	No	163001051
+12129.00	V	29900 2/3	Europe	TV	Animal Planet	Wielka Brytania	Dokumenty	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21226	575	215[eng]	2716	575		2019-03-15	No	163001053
+12129.00	V	29900 2/3	Europe	R	MNM			Canal Digitaal|TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21210		140[ned]	2695	140		2015-11-03	No	163001055
+12129.00	V	29900 2/3	Europe	R	Studio Brussel			Canal Digitaal|TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21211		141[ned]	2696	141		2015-11-03	No	163001057
+12129.00	V	29900 2/3	Europe	R	Klara			Canal Digitaal|TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21212		142[ned]	2697	142		2015-11-03	No	163001059
+12129.00	V	29900 2/3	Europe	R	Sky Radio			M7 Group	FTA	21227		147[ned]	2717	147		2019-03-13	Yes	163001061
+12148.50	H	27500 5/6	Europe	DATA	Astra2Connect			Astra2Connect	FTA	7470			7470	8191		2019-10-25	Yes	167001001
+12168.00	V	27500 3/4	Europe	TV	Òcko	Czechy	Muzyka	SES ASTRA	FTA	5201	54	53[cze]	257	54		2019-03-02	Yes	171001001
+12168.00	V	27500 3/4	Europe	TV	Ocko Star	Czechy	Muzyka		FTA	5202	55	56[aac]	57	55		2019-12-01	Yes	171001003
+12168.00	V	27500 3/4	Europe	TV	TV Lux HD	Słowacja	Ogólne	SES ASTRA	FTA	5210	35	36[slk]	1008	35		2017-05-04	Yes	171001005
+12168.00	V	27500 3/4	Europe	TV	Chamber TV HD	Luksemburg	Polityka	SES ASTRA	FTA	5225	51	50	1024	51		2018-10-24	Yes	171001007
+12168.00	V	27500 3/4	Europe	TV	Nordliicht TV	Luksemburg	Ogólne	SES ASTRA	FTA	5240	1141	1142[lux]	5240	1141	1146	2014-12-31	Yes	171001009
+12168.00	V	27500 3/4	Europe	TV	RTL Tele Letzebuerg	Luksemburg	Ogólne	SES ASTRA	FTA	5240	1141	1142[lux][fra]	5240	1141	1146	2014-12-31	Yes	171001011
+12168.00	V	27500 3/4	Europe	TV	Teleippica 1	Włochy	Wyścigi	Scopus Network Technologies	FTA	5253	100	40|102	437	100		2014-12-31	Yes	171001013
+12168.00	V	27500 3/4	Europe	TV	Unire Sat HD	Włochy	Wyścigi		FTA	5254	38	39[ita]|41	4217	38		2016-03-24	Yes	171001015
+12168.00	V	27500 3/4	Europe	R	RTL Radio Letzebuerg			SES ASTRA	FTA	5245		86[lux]	5245	86		2014-12-31	Yes	171001017
+12168.00	V	27500 3/4	Europe	R	radio 100,7 Letzebuerg			SES ASTRA	FTA	5246		768[lux]	5246	768		2017-07-12	Yes	171001019
+12168.00	V	27500 3/4	Europe	DATA	SES_LCN2			SES ASTRA	FTA	5205			5290	8191		2017-06-01	Yes	171001021
+12168.00	V	27500 3/4	Europe	DATA	LX9SES			SES ASTRA	FTA	5282			5282	8191		2014-12-31	Yes	171001023
+12187.50	H	29900 2/3	Europe	TV	Net 5 HD	Holandia	Ogólne	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	21020	514	102[ned]	2720	514	34	2016-05-31	No	175001001
+12187.50	H	29900 2/3	Europe	TV	één HD	Belgia	Ogólne	Canal Digitaal|TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21025	515	103[ned]|113[mul]	2725	515	35	2016-05-31	No	175001003
+12187.50	H	29900 2/3	Europe	TV	NPO 1 HD	Holandia	Ogólne	Canal Digitaal|TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21029	519	99[ned]	2729	519	40	2016-05-31	No	175001005
+12187.50	H	29900 2/3	Europe	TV	Canvas HD	Belgia	Ogólne	Canal Digitaal|TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21030	516	104[ned]	2730	516	36	2016-05-31	No	175001007
+12187.50	H	29900 2/3	Europe	TV	Disney XD Netherlands HD	Holandia	Dzieci	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21035	517	105[ned]	2735	517	37	2016-05-31	No	175001009
+12187.50	H	29900 2/3	Europe	TV	Veronica HD	Holandia	Ogólne	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21035	517	105[ned]	2735	517	37	2016-05-31	No	175001011
+12187.50	H	29900 2/3	Europe	TV	NPO 3 HD	Holandia	Ogólne	Canal Digitaal|TeleSat|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21040	518	106[ned]	2740	518	38	2016-05-31	No	175001013
+12187.50	H	29900 2/3	Europe	TV	24 Kitchen	Portugalia	Gotowanie	Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	21055	525	125[ned]	2755	525		2016-05-31	No	175001015
+12187.50	H	29900 2/3	Europe	TV	Eurosport 2 Belgium	Belgia	Sport	TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21063	563	163[ned]|263[eng]	2763	563		2018-07-26	No	175001017
+12187.50	H	29900 2/3	Europe	TV	TV Rebel	Czechy	Rozrywka	M7 Group	FTA	21064	564	164[cze]|264[cze]	2764	564		2018-07-18	Yes	175001019
+12187.50	H	29900 2/3	Europe	TV	TV Relax	Czechy	Rozrywka	M7 Group	FTA	21065	565	165[cze]|265[ces]	2765	565		2018-07-18	Yes	175001021
+12187.50	H	29900 2/3	Europe	TV	Arena Sport Slovakia	Słowacja	Sport	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	21067	567	167[slk]	2867	567		2019-03-20	No	175001023
+12187.50	H	29900 2/3	Europe	TV	Discovery Showcase HD CZ			SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	21068	568	168[cze]|268[eng]	2868	568		2019-03-16	No	175001025
+12187.50	H	29900 2/3	Europe	TV	Omrop Fryslân	Holandia	Regionalne	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21069	569	269[ned]	2769	569	90	2018-02-06	No	175001027
+12187.50	H	29900 2/3	Europe	TV	TV Drenthe	Holandia	Regionalne	M7 Group	FTA	21071	571	271[ned]	2771	571	91	2018-02-06	Yes	175001029
+12187.50	H	29900 2/3	Europe	TV	TV Gelderland	Holandia	Regionalne	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21072	572	272[ned]	2772	572	92	2018-02-06	No	175001031
+12187.50	H	29900 2/3	Europe	TV	TV Oost	Holandia	Regionalne	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21074	574	274[ned]	2774	574	94	2018-02-06	No	175001033
+12187.50	H	29900 2/3	Europe	TV	TV Noord	Holandia	Regionalne	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21093	593	293[ned]	2793	593		2018-02-06	No	175001035
+12187.50	H	29900 2/3	Europe	TV	Omroep Brabant Televisie	Holandia	Regionalne	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21096	596	296[ned]	2796	596	96	2018-02-07	No	175001037
+12187.50	H	29900 2/3	Europe	TV	The Golf Channel	Stany Zjednoczone	Sport	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	21098	598	198[cze]|298[qaa]	2898	598		2019-03-13	No	175001039
+12187.50	H	29900 2/3	Europe	TV	Discovery HD Showcase	Wielka Brytania	Dokumenty	Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21168	568	268[eng]	2968	568		2019-03-15	No	175001041
+12187.50	H	29900 2/3	Europe	R	BNR Nieuwsradio			Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	20177		137[ned]	2777	137		2018-01-23	No	175001043
+12187.50	H	29900 2/3	Europe	R	100% NL			M7 Group	FTA	21075		135[ned]	2775	135		2018-01-23	Yes	175001045
+12187.50	H	29900 2/3	Europe	R	NPO Radio1			M7 Group	FTA	21080		140[ned]	2780	140		2018-01-23	Yes	175001047
+12187.50	H	29900 2/3	Europe	R	NPO Radio2			Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21081		141[ned]	2781	141		2018-01-23	No	175001049
+12187.50	H	29900 2/3	Europe	R	NPO 3FM			Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21082		142[ned]	2782	142		2018-01-23	No	175001051
+12187.50	H	29900 2/3	Europe	R	NPO Radio4			Canal Digitaal|TV Vlaanderen	Mediaguard 3|Nagravision 3|Viaccess 5.0	21083		143[ned]	2783	143		2018-01-23	No	175001053
+12187.50	H	29900 2/3	Europe	R	NPO Radio5			M7 group	FTA	21084		144[ned]	2784	144		2018-01-23	Yes	175001055
+12187.50	H	29900 2/3	Europe	R	Radio 10			M7 Group	FTA	21085		145[ned]	2785	145		2018-01-23	Yes	175001057
+12187.50	H	29900 2/3	Europe	R	Radio Gelderland			M7 Group	FTA	21086		146[ned]	2786	146		2018-01-23	Yes	175001059
+12187.50	H	29900 2/3	Europe	R	Radio Oost			M7 Group	FTA	21087		147[ned]	2787	147		2018-01-23	Yes	175001061
+12187.50	H	29900 2/3	Europe	R	Radio 538			Canal Digitaal	Mediaguard 3|Nagravision 3|Viaccess 5.0	21088		148[ned]	2788	148		2018-01-23	No	175001063
+12187.50	H	29900 2/3	Europe	R	SLAM!			M7 Group	FTA	21090		150[ned]	2790	150		2018-01-23	Yes	175001065
+12304.50	H	27500 5/6	Europe	DATA	RMT_BL6			Astra2Connect	FTA	7480			7480	8191		2018-03-24	Yes	187001001
+12344.50	H	29900 2/3	Europe	TV	CT 1 HD	Czechy	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	8001	1110	1120[cze]|1121[qaa]|1122[cze]|1123[cze]	1100	1110	1130	2017-03-25	No	191001001
+12344.50	H	29900 2/3	Europe	TV	CT 2 HD	Czechy	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	8002	1210	1220[cze]|1221[qaa]|1222[cze]|1223[cze]	1200	1210	1130	2017-03-25	No	191001003
+12344.50	H	29900 2/3	Europe	TV	CT 24 HD	Czechy	Informacje	CESKA TELEVIZE	FTA	8003	1310	1320[cze]|1323[cze]	1300	1310	1130	2017-03-25	Yes	191001005
+12344.50	H	29900 2/3	Europe	TV	CT Sport HD	Czechy	Sport	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	8004	1410	1420[cze]|1422[cze]|1423[cze]	1400	1410	1130	2017-03-25	No	191001007
+12344.50	H	29900 2/3	Europe	TV	CT :D/art HD	Czechy	Kultura	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	8005	1510	1520[cze]|1521[qaa]|1522[cze]|1523[cze]	1500	1510	1130	2017-03-25	No	191001009
+12344.50	H	29900 2/3	Europe	TV	CT 3 HD	Czechy	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	8006	1610	1620[cze]|1623[cze]	1600	1610	1130	2020-03-20	No	191001011
+12344.50	H	29900 2/3	Europe	TV	CT 1 SM HD			SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	8007	1110	1120[cze]|1121[qaa]|1122[cze]|1123[cze]	1700	1110	1130	2017-03-26	No	191001013
+12344.50	H	29900 2/3	Europe	TV	CT 1 JM HD			SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	8008	1110	1120[cze]|1121[qaa]|1122[cze]|1123[cze]	1800	1110	1130	2017-03-26	No	191001015
+12344.50	H	29900 2/3	Europe	TV	Prima Plus HD	Czechy	Rozrywka	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	8009	1910	1920[cze]|1921[cze]	1900	1910		2017-03-25	No	191001017
+12344.50	H	29900 2/3	Europe	TV	Skylink 7	Czechy	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	8011	2110	2120[cze]	2100	2110		2019-02-01	No	191001019
+12344.50	H	29900 2/3	Europe	TV	Prima +1 HD	Czechy	Ogólne	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	8012	2210	2220[cze]	2200	2210		2018-09-10	No	191001021
+12344.50	H	29900 2/3	Europe	TV	TESTS7			M7 Group	Viaccess 5.0	8013	2110	2120[cze]	2300	2110		2019-02-22	No	191001023
+12344.50	H	29900 2/3	Europe	R	CRo RADIOZURNAL			Cesky Rozhlas	FTA	8051		6120[cze]	6100	6120		2017-03-25	Yes	191001025
+12344.50	H	29900 2/3	Europe	R	CRo DVOJKA			Cesky Rozhlas	FTA	8052		6220[cze]	6200	6220		2017-03-25	Yes	191001027
+12344.50	H	29900 2/3	Europe	R	CRo VLTAVA			Cesky Rozhlas	FTA	8053		6320[cze]	6300	6320		2017-03-25	Yes	191001029
+12344.50	H	29900 2/3	Europe	R	CRo PLUS			Cesky Rozhlas	FTA	8054		6420[cze]	6400	6420		2017-03-25	Yes	191001031
+12344.50	H	29900 2/3	Europe	R	CRo RADIO WAVE			Cesky Rozhlas	FTA	8055		6520[cze]	6500	6520		2017-03-25	Yes	191001033
+12344.50	H	29900 2/3	Europe	R	CRo RADIO JUNIOR			Cesky Rozhlas	FTA	8056		6620[cze]	6600	6620		2017-03-25	Yes	191001035
+12344.50	H	29900 2/3	Europe	R	CRo D-DUR			Cesky Rozhlas	FTA	8057		6720[cze]	6700	6720		2017-03-25	Yes	191001037
+12344.50	H	29900 2/3	Europe	R	CRo JAZZ			Cesky Rozhlas	FTA	8058		6820[cze]	6800	6820		2017-03-25	Yes	191001039
+12344.50	H	29900 2/3	Europe	R	CRo Radio DAB Praha			Cesky Rozhlas	FTA	8059		6920[cze]	6900	6920		2019-10-01	Yes	191001041
+12344.50	H	29900 2/3	Europe	R	CRo REGION			Cesky Rozhlas	FTA	8060		7020[cze]	7000	7020		2020-03-03	Yes	191001043
+12344.50	H	29900 2/3	Europe	R	CRo RADIO PRAGUE Int			Cesky Rozhlas	FTA	8061		7120[cze]	7100	7120		2019-09-03	Yes	191001045
+12344.50	H	29900 2/3	Europe	R	CRo BRNO			Cesky Rozhlas	FTA	8062		7205[cze]	7200	7205		2020-03-03	Yes	191001047
+12344.50	H	29900 2/3	Europe	R	CRo C.BUDEJOVICE			Cesky Rozhlas	FTA	8063		7215[cze]	7210	7215		2020-03-03	Yes	191001049
+12344.50	H	29900 2/3	Europe	R	CRo H.KRALOVE			Cesky Rozhlas	FTA	8064		7225[cze]	7220	7225		2020-03-03	Yes	191001051
+12344.50	H	29900 2/3	Europe	R	CRo KARLOVY VARY			Cesky Rozhlas	FTA	8065		7235[cze]	7230	7235		2020-03-03	Yes	191001053
+12344.50	H	29900 2/3	Europe	R	CRo LIBEREC			Cesky Rozhlas	FTA	8066		7245[cze]	7240	7245		2020-03-03	Yes	191001055
+12344.50	H	29900 2/3	Europe	R	CRo VYSOCINA			Cesky Rozhlas	FTA	8067		7255[cze]	7250	7255		2020-03-03	Yes	191001057
+12344.50	H	29900 2/3	Europe	R	CRo PARDUBICE			Cesky Rozhlas	FTA	8068		7265[cze]	7260	7265		2020-03-03	Yes	191001059
+12344.50	H	29900 2/3	Europe	R	CRo PLZEN			Cesky Rozhlas	FTA	8069		7275[cze]	7270	7275		2020-03-03	Yes	191001061
+12344.50	H	29900 2/3	Europe	R	CRo OLOMOUC			Cesky Rozhlas	FTA	8070		7285[cze]	7280	7285		2020-03-03	Yes	191001063
+12344.50	H	29900 2/3	Europe	R	CRo OSTRAVA			Cesky Rozhlas	FTA	8071		7295[cze]	7290	7295		2020-03-03	Yes	191001065
+12344.50	H	29900 2/3	Europe	R	CRo SEVER			Cesky Rozhlas	FTA	8072		7305[cze]	7300	7305		2020-03-03	Yes	191001067
+12344.50	H	29900 2/3	Europe	R	CRo ZLIN			Cesky Rozhlas	FTA	8073		7315[cze]	7310	7315		2020-03-03	Yes	191001069
+12363.00	V	29500 3/4	Europe	TV	TA3 HD	Słowacja	Ogólne	SkyLink|Volna Telka	Irdeto 2|Viaccess 5.0	4904	5014	5024[slk]	5004	5014		2019-12-03	No	195001001
+12363.00	V	29500 3/4	Europe	TV	Jednotka HD	Słowacja	Ogólne	SkyLink|Volna Telka	Cryptoworks|Irdeto 2|Viaccess 5.0	4905	5015	5025[slk]|5035[qaa]|5095[slk]|5115[slk]	5005	5015	5355	2019-12-21	No	195001003
+12363.00	V	29500 3/4	Europe	TV	Dvojka HD	Słowacja	Ogólne	SkyLink|Volna Telka	Cryptoworks|Irdeto 2|Viaccess 5.0	4906	5016	5026[slk]|5036[qaa]|5096[slk]|5116[slk]	5006	5016	5356	2019-12-21	No	195001005
+12363.00	V	29500 3/4	Europe	TV	TV Barrandov HD	Czechy	Rozrywka	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	4907	5017	5027[cze]|5117[cze]	5007	5017		2016-04-24	No	195001007
+12363.00	V	29500 3/4	Europe	TV	Kino Barrandov HD	Czechy	Filmy	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	4908	5018	5028[cze]|5118[cze]	5008	5018		2016-04-24	No	195001009
+12363.00	V	29500 3/4	Europe	TV	Barrandov Krimi HD	Czechy	Seriale	SkyLink	Cryptoworks|Irdeto 2|Viaccess 5.0	4909	5019	5029[cze]|5119[cze]	5009	5019		2019-03-22	No	195001011
+12363.00	V	29500 3/4	Europe	TV	Noe TV HD	Czechy	Religia	SkyLink	FTA	4910	5020	5030[cze]	5010	5020		2019-04-09	Yes	195001013
+12363.00	V	29500 3/4	Europe	TV	Trojka	Słowacja	Ogólne	SkyLink|Volna Telka	Irdeto 2|Viaccess 5.0	4911	5540	5521[slk]|5611[slk]	5501	5540	5621	2019-12-29	No	195001015
+12363.00	V	29500 3/4	Europe	TV	TV8 HD Slovakia	Słowacja	Ogólne	SkyLink	FTA	4914	5514	5524[slk]	5504	5514		2016-11-30	Yes	195001017
+12363.00	V	29500 3/4	Europe	R	Slovensko			Towercom	FTA	4921		5881[slk]	5871	5881		2016-06-15	Yes	195001019
+12363.00	V	29500 3/4	Europe	R	ReginaBA			Towercom	FTA	4922		5882[slk]	5872	5882		2016-06-15	Yes	195001021
+12363.00	V	29500 3/4	Europe	R	ReginaBB			Towercom	FTA	4923		5883[slk]	5873	5883		2016-06-15	Yes	195001023
+12363.00	V	29500 3/4	Europe	R	ReginaKE			Towercom	FTA	4924		5884[slk]	5874	5884		2016-06-15	Yes	195001025
+12363.00	V	29500 3/4	Europe	R	Devin			Towercom	FTA	4925		5885[slk]	5875	5885		2016-06-15	Yes	195001027
+12363.00	V	29500 3/4	Europe	R	Radio_FM			Towercom	FTA	4926		5886[slk]	5876	5886		2016-06-15	Yes	195001029
+12363.00	V	29500 3/4	Europe	R	Pyramida			Towercom	FTA	4927		5887[slk]	5877	5887		2016-03-23	Yes	195001031
+12363.00	V	29500 3/4	Europe	R	Litera			Towercom	FTA	4928		5888[slk]	5878	5888		2016-03-23	Yes	195001033
+12363.00	V	29500 3/4	Europe	R	Junior			Towercom	FTA	4929		5889[slk]	5879	5889		2017-02-16	Yes	195001035
+12363.00	V	29500 3/4	Europe	R	PatriaFM			Towercom	FTA	4930		5890[hun]	5880	5890		2018-05-05	Yes	195001037
+12363.00	V	29500 3/4	Europe	R	PatriaRD			Towercom	FTA	4931		5901[slk]	5891	5901		2016-06-15	Yes	195001039
+12363.00	V	29500 3/4	Europe	R	Slovakia			Towercom	FTA	4932		5902[slk]	5892	5902		2016-03-23	Yes	195001041
+12363.00	V	29500 3/4	Europe	R	Jemne Z			Towercom	FTA	4933		5903[slk]	5893	5903		2019-03-22	Yes	195001043
+12363.00	V	29500 3/4	Europe	R	Jemne S			Towercom	FTA	4934		5904[slk]	5894	5904		2019-03-22	Yes	195001045
+12363.00	V	29500 3/4	Europe	R	Jemne V			Towercom	FTA	4935		5905[slk]	5895	5905		2019-03-22	Yes	195001047
+12363.00	V	29500 3/4	Europe	R	Radio Lumen			Towercom	FTA	4936		5906[slk]	5896	5906		2019-07-17	Yes	195001049
+12363.00	V	29500 3/4	Europe	R	Antena Rock			Towercom	FTA	4937		5907[slk]	5897	5907		2016-06-15	Yes	195001051
+12363.00	V	29500 3/4	Europe	R	ZET			Towercom	FTA	4939		5909[cze]	5899	5909		2017-02-16	Yes	195001053
+12363.00	V	29500 3/4	Europe	R	BEAT			Towercom	FTA	4940		5920[cze]	5910	5920		2017-06-07	Yes	195001055
+12363.00	V	29500 3/4	Europe	R	BEAT JM			Towercom	FTA	4941		5921[cze]	5911	5921		2017-06-07	Yes	195001057
+12363.00	V	29500 3/4	Europe	R	BEAT SM			Towercom	FTA	4942		5922[cze]	5912	5922		2017-06-07	Yes	195001059
+12363.00	V	29500 3/4	Europe	R	BEAT JZ			Towercom	FTA	4943		5923[cze]	5913	5923		2017-06-07	Yes	195001061
+12363.00	V	29500 3/4	Europe	R	BEAT SV			Towercom	FTA	4944		5924[cze]	5914	5924		2017-06-07	Yes	195001063
+12363.00	V	29500 3/4	Europe	R	COUNTRY JM			Towercom	FTA	4945		5925[cze]	5915	5925		2019-03-22	Yes	195001065
+12363.00	V	29500 3/4	Europe	R	COUNTRY JZ			Towercom	FTA	4946		5926[cze]	5916	5926		2017-06-07	Yes	195001067
+12363.00	V	29500 3/4	Europe	R	COUNTRY SV			Towercom	FTA	4947		5927[cze]	5917	5927		2017-06-07	Yes	195001069
+12363.00	V	29500 3/4	Europe	R	VLNA ZS			Towercom	FTA	5159		5519[slk]	5509	5519		2019-05-28	Yes	195001071
+12363.00	V	29500 3/4	Europe	R	VLNA SS			Towercom	FTA	5160		5520[slk]	5510	5520		2019-02-18	Yes	195001073
+12363.00	V	29500 3/4	Europe	R	VLNA VS			Towercom	FTA	5161		5530[slk]	5511	5530		2019-03-06	Yes	195001075
+12363.00	V	29500 3/4	Europe	DATA	Otta - interaktivna sluzba			Towercom	FTA	4918			5508	8191		2019-12-12	Yes	195001077
+12363.00	V	29500 3/4	Europe	DATA	RDS SAT			Towercom	FTA	4920			5820	5840		2019-07-05	Yes	195001079
+12382.50	H	27500 3/4	Europe	DATA	RMT_BL6			Astra2Connect	FTA	7480			7480	8191		2019-04-28	Yes	199001003
+12402.00	V	30000 3/4	Europe	TV	Fox Life HD Serbia	Serbia	Rozrywka	Telekom Srbija	Conax	20067	671	672[ser]	670	671		2019-10-03	No	203001001
+12402.00	V	30000 3/4	Europe	TV	FOX Crime HD Serbia	Serbia	Seriale	Telekom Srbija	Conax	20068	681	682[ser]	680	681		2019-10-03	No	203001003
+12402.00	V	30000 3/4	Europe	TV	RTRS Plus	Serbia	Ogólne	Telekom Srbija	Conax	20119	1191	1192	1190	1191		2019-03-06	No	203001005
+12402.00	V	30000 3/4	Europe	TV	Discovery Channel	Wielka Brytania	Dokumenty	Telekom Srbija	Conax	20120	1201	1202[eng]	1200	1201		2019-08-08	No	203001007
+12402.00	V	30000 3/4	Europe	TV	BBC Earth HD	Polska	Dokumenty	Telekom Srbija	Conax	20121	1211	1212[eng]	1210	1211		2019-02-21	No	203001009
+12402.00	V	30000 3/4	Europe	TV	Animal Planet	Wielka Brytania	Dokumenty	Telekom Srbija	Conax	20122	1221	1222[eng]	1220	1221		2018-12-14	No	203001011
+12402.00	V	30000 3/4	Europe	TV	National Geographic Europe	Wielka Brytania	Dokumenty	Telekom Srbija	Conax	20123	1231	1232[eng]	1230	1231		2018-12-26	No	203001013
+12402.00	V	30000 3/4	Europe	TV	NatGeo Wild Central Europe	Wielka Brytania	Dokumenty	Telekom Srbija	Conax	20124	1241	1242[eng]	1240	1241		2018-12-26	No	203001015
+12402.00	V	30000 3/4	Europe	TV	History 2	nieokreślony	Historia	Telekom Srbija	Conax	20125	1251	1252[eng]	1250	1251		2019-08-21	No	203001017
+12402.00	V	30000 3/4	Europe	TV	Viasat History	Szwecja	Historia	Telekom Srbija	Conax	20126	1261	1262[eng]	1260	1261		2018-12-14	No	203001019
+12402.00	V	30000 3/4	Europe	TV	Viasat Explore	Szwecja	Dokumenty	Telekom Srbija	Conax	20127	1271	1272[eng]	1270	1271		2018-12-25	No	203001021
+12402.00	V	30000 3/4	Europe	TV	Viasat Nature CEE	Szwecja	Dokumenty	Telekom Srbija	Conax	20128	1281	1282[eng]	1280	1281		2018-12-14	No	203001023
+12402.00	V	30000 3/4	Europe	TV	Outdoor Channel EMEA HD	Stany Zjednoczone	Rozrywka	Telekom Srbija	Conax	20131	1311	1312[eng]	1310	1311		2019-12-30	No	203001025
+12402.00	V	30000 3/4	Europe	TV	Investigation Discovery HD	Wielka Brytania	Dokumenty	Telekom Srbija	Conax	20132	1321	1322[eng]	1320	1321		2018-12-26	No	203001027
+12402.00	V	30000 3/4	Europe	TV	CBS Reality	Wielka Brytania	Dokumenty	Telekom Srbija	Conax	20133	1331	1332[eng]	1330	1331		2018-12-23	No	203001029
+12402.00	V	30000 3/4	Europe	TV	Discovery HD Showcase	Wielka Brytania	Dokumenty	Telekom Srbija	Conax	20134	1341	1342[eng]	1340	1341		2018-12-14	No	203001031
+12402.00	V	30000 3/4	Europe	TV	Da Vinci Learning	Wielka Brytania	Dokumenty	Telekom Srbija	Conax	20135	1351	1352	1350	1351		2018-12-26	No	203001033
+12402.00	V	30000 3/4	Europe	TV	E! Eastern Europe	Wielka Brytania	Rozrywka	Telekom Srbija	Conax	20137	1371	1372[eng]	1370	1371		2019-08-08	No	203001035
+12402.00	V	30000 3/4	Europe	TV	24 Kitchen HD	Portugalia	Gotowanie	Telekom Srbija	Conax	20140	1401	1402[eng]	1400	1401		2019-12-02	No	203001037
+12402.00	V	30000 3/4	Europe	TV	Fashion TV	Francja	Lifestyle	Telekom Srbija	Conax	20141	1411	1412[eng]	1410	1411		2018-12-28	No	203001039
+12402.00	V	30000 3/4	Europe	TV	LOL	Serbia	Komedia	Telekom Srbija	Conax	20143	1431	1432[ser]	1430	1431		2018-12-28	No	203001041
+12402.00	V	30000 3/4	Europe	TV	RTL Hrvatska	Chorwacja	Ogólne	Telekom Srbija	Conax	20144	1441	1442[cro]	1440	1441		2019-08-08	No	203001043
+12402.00	V	30000 3/4	Europe	TV	Hayat BiH	Bośnia i Hercegowina	Ogólne	Telekom Srbija	Conax	20145	32	33[bos]	1450	32		2019-12-30	No	203001045
+12402.00	V	30000 3/4	Europe	TV	Hayat Plus	Bośnia i Hercegowina	Ogólne	Telekom Srbija	Conax	20146	1461	1462[aac][bos]	1460	1461		2019-03-20	No	203001047
+12402.00	V	30000 3/4	Europe	TV	Hayatovci	Bośnia i Hercegowina	Różne	Telekom Srbija	Conax	20147	1471	1472[aac][bos]	1470	1471		2019-03-20	No	203001049
+12402.00	V	30000 3/4	Europe	TV	Hayat Folk	Bośnia i Hercegowina	Muzyka	Telekom Srbija	Conax	20148	1481	1482[aac][bos]	1480	1481		2019-03-20	No	203001051
+12402.00	V	30000 3/4	Europe	TV	Hayat Music	Bośnia i Hercegowina	Muzyka	Telekom Srbija	Conax	20149	1491	1492[aac][bos]	1490	1491		2019-03-20	No	203001053
+12402.00	V	30000 3/4	Europe	TV	VH-1 (Video Hits One)	Wielka Brytania	Muzyka	Telekom Srbija	Conax	20150	1501	1502[eng]	1500	1501		2018-12-14	No	203001055
+12402.00	V	30000 3/4	Europe	TV	Pink Music	Serbia	Muzyka	Telekom Srbija	Conax	20151	1511	1512	1510	1511		2018-12-14	No	203001057
+12402.00	V	30000 3/4	Europe	TV	Pink Hits 1	Serbia	Muzyka	Telekom Srbija	Conax	20152	1521	1522	1520	1521		2018-12-28	No	203001059
+12402.00	V	30000 3/4	Europe	TV	Pink and Roll	Serbia	Muzyka	Telekom Srbija	Conax	20153	1531	1532[ser]	1530	1531		2018-12-26	No	203001061
+12402.00	V	30000 3/4	Europe	TV	BN Music	Bośnia i Hercegowina	Muzyka	Telekom Srbija	Conax	20154	1541	1542	1540	1541		2018-12-14	No	203001063
+12402.00	V	30000 3/4	Europe	TV	DM Sat	Serbia	Ogólne	Telekom Srbija	Conax	20155	1551	1552	1550	1551		2018-12-14	No	203001065
+12402.00	V	30000 3/4	Europe	TV	MTV Europe	Wielka Brytania	Muzyka	Telekom Srbija	Conax	20156	1561	1562[eng]	1560	1561		2018-12-14	No	203001067
+12402.00	V	30000 3/4	Europe	TV	HiFi Music	Serbia	Muzyka	Telekom Srbija	Conax	20157	1571	1572[ser]	1570	1571		2019-02-21	No	203001069
+12402.00	V	30000 3/4	Europe	TV	City Play	Serbia	Różne	Telekom Srbija	Conax	20158	1581	1582	1580	1581		2019-04-07	No	203001071
+12402.00	V	30000 3/4	Europe	TV	Bravo Music	Serbia	Muzyka	Telekom Srbija	Conax	20159	1591	1592	1590	1591		2019-08-08	No	203001073
+12402.00	V	30000 3/4	Europe	TV	Pink Music 2	Serbia	Muzyka	Telekom Srbija	Conax	20160	1601	1602	1600	1601		2019-08-08	No	203001075
+12402.00	V	30000 3/4	Europe	TV	Jeka	Serbia	Różne	Telekom Srbija	Conax	20161	1611	1612[ser]	1610	1611		2018-12-21	No	203001077
+12402.00	V	30000 3/4	Europe	TV	TV Duga Plus	Serbia	Ogólne	Telekom Srbija	Conax	20162	1621	1622[ser]	1620	1621		2019-09-04	No	203001079
+12402.00	V	30000 3/4	Europe	TV	RTR Planeta	Rosja	Ogólne	Telekom Srbija	Conax	20163	1631	1632[eng]	1630	1631		2019-08-08	No	203001081
+12402.00	V	30000 3/4	Europe	TV	CNN International Europe	Wielka Brytania	Informacje	Telekom Srbija	Conax	20165	1651	1652[eng]	1650	1651		2018-12-14	No	203001083
+12402.00	V	30000 3/4	Europe	TV	EuroNews	Francja	Informacje	Telekom Srbija	Conax	20166	1661	1662[eng]	1660	1661		2018-12-14	No	203001085
+12402.00	V	30000 3/4	Europe	TV	DW-TV (Deutsche Welle)	Niemcy	Informacje	Telekom Srbija	Conax	20167	1671	1672[eng]	1670	1671		2019-10-10	No	203001087
+12402.00	V	30000 3/4	Europe	TV	Russia Today	Rosja	Informacje	Telekom Srbija	Conax	20168	1681	1682[eng]	1680	1681		2019-10-14	No	203001089
+12402.00	V	30000 3/4	Europe	TV	Uci Doma 1	Serbia	Różne	Telekom Srbija	FTA	20400	4001	4002[ser]	4000	4001		2020-03-23	Yes	203001091
+12402.00	V	30000 3/4	Europe	TV	Uci Doma 2	Serbia	Różne	Telekom Srbija	FTA	20401	4011	4012[ser]	4010	4011		2020-03-23	Yes	203001093
+12517.00	V	16871 3/4	Europe	TV	Pro TV	Rumunia	Ogólne	Pro TV	Conax	7601	2011	2012[rom]	2010	2011		2017-03-22	No	207001001
+12517.00	V	16871 3/4	Europe	TV	Pro 2	Rumunia	Ogólne	ProTV	Conax	7602	2021	2022[rom]	2020	2021		2017-08-28	No	207001003
+12517.00	V	16871 3/4	Europe	TV	Pro TV International	Rumunia	Ogólne	ProTV	Conax	7603	2031	2032[rom]	2030	2031		2018-06-19	No	207001005
+12517.00	V	16871 3/4	Europe	TV	Pro Cinema	Rumunia	Filmy	ProTV	Conax	7604	2041	2042[rom]	2040	2041		2017-03-22	No	207001007
+12517.00	V	16871 3/4	Europe	TV	Pro X	Rumunia	Sport	ProTV	Conax	7605	2051	2052[rom]	2050	2051		2017-08-28	No	207001009
+12517.00	V	16871 3/4	Europe	TV	TEST 1			ProTV	Conax	7606	2061	2062[rom]	2060	2061		2019-03-02	No	207001011
+12517.00	V	16871 3/4	Europe	TV	Pro Gold	Rumunia	Rozrywka	ProTV	Conax	7607	2071	2072[rom]	2070	2071		2017-08-28	No	207001013
+12517.00	V	16871 3/4	Europe	DATA	PDG Service			ProTV	FTA	65534			6000	8191		2019-01-06	Yes	207001015
+12548.00	V	1830 3/4	Europe	R	OOE 100			KRONEHIT OOE	FTA	1000		101[ger]	100	101		2019-04-28	Yes	219001003
+12548.00	V	1830 3/4	Europe	R	SBG 200			KRONEHIT SBG	FTA	2000		201[ger]	200	201		2019-04-28	Yes	219001005
+12548.00	V	1830 3/4	Europe	R	T 300			KRONEHIT T	FTA	3000		301[ger]	300	301		2019-04-28	Yes	219001007
+12548.00	V	1830 3/4	Europe	R	VBG 400			KRONEHIT VBG	FTA	4000		401[ger]	400	401		2019-04-28	Yes	219001009
+12548.00	V	1830 3/4	Europe	R	STMK 500			KRONEHIT STMK	FTA	5000		501[ger]	500	501		2019-05-17	Yes	219001011
+12548.00	V	1830 3/4	Europe	R	KTN 600			KRONEHIT KTN	FTA	6000		601[ger]	600	601		2019-05-17	Yes	219001013
+12639.70	V	941 1/2	Europe	R	DLF USI1			MB Satellite	FTA	1000		101[ger]	100	101		2019-05-30	Yes	231001001
+12639.70	V	941 1/2	Europe	R	DLFK USI1			MB Satellite	FTA	2000		201[ger]	200	201		2019-05-30	Yes	231001003
+12642.50	V	477 1/2	Europe	R	Antenne Bayern			Media Broadcast	FTA	1000		101[ger]	100	101		2016-12-31	Yes	235001001
+12643.10	V	555 3/4	Europe	R	Oberland2			Telekom Austria AG	FTA	100		44[ger]	1000	44		2016-12-31	Yes	239001003
+12643.10	V	555 3/4	Europe	R	Radio Oberland			Telekom Austria AG	FTA	200		41[ger]	2000	41		2016-12-31	Yes	239001005
+12643.10	V	555 3/4	Europe	R	Radio Osttirol			Telekom Austria AG	FTA	300		42[ger]	3000	42		2016-12-31	Yes	239001007
+12643.10	V	555 3/4	Europe	R	Radio POS/Ausserfern			Telekom Austria AG	FTA	400		43[ger]	4000	43		2016-12-31	Yes	239001009
+12647.10	V	285 7/8	Europe	R	NRW Enc1 Ltg-Dssd.			MEDIA BROADCAST	FTA	1000		101[ger]	100	101		2017-03-13	Yes	247001001

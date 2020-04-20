@@ -1,0 +1,10 @@
+Astra-4A BSS Europe
+Astra-4A BSS Nordic
+Astra-4A FSS Europe
+Astra-4A FSS Nordic
+Astra-4A Interconnect Ka Beam
+Astra-4A Sub Saharan Africa
+SES-5 C-band
+SES-5 Hemi
+SES-5 Nordic
+SES-5 Sub Saharan Africa

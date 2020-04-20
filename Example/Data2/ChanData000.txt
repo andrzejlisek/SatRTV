@@ -1,864 +1,503 @@
 Freq	Pol	SR	Beam	Type	Name	FTA	Encryption	SID	VPID	APID Lang	Row
-10719	V	27500-3/4	Wide	TV	TVP Info	Yes	MPEG-4/HD	4409	168	112[Pol]	8000
-10727	H	30000-3/4	Wide	TV	4KUniverse	No	HEVC/UHD 4K|Viaccess	4601	257	258[Eng]	8002
-10727	H	30000-3/4	Wide	TV	NASA TV UHD	Yes	HEVC/UHD 4K	4602	357	358[Eng]|359[Eng]	8002
-10727	H	30000-3/4	Wide	TV	Travelxp 4K Europe	No	HEVC/UHD 4K|Nagravision|Viaccess	4603	457	458[Eng]|459[Cze]	8002
-10727	H	30000-3/4	Wide	TV	Museum	No	HEVC/UHD 4K|Nagravision|Viaccess	4604	6041	6042[Eng]|6043[Fre]|6044[Pol]	8002
-10758	V	27500-3/4	Wide	TV	Stars TV	Yes	MPEG-4/SD	17023	291	547[Pol]	8007
-10758	V	27500-3/4	Wide	TV	4 Fun TV	Yes	MPEG-4/SD	17037	265	521[Pol]	8007
-10758	V	27500-3/4	Wide	TV	4 Fun Gold	Yes	MPEG-4/SD	17038	276	532[Pol]	8007
-10758	V	27500-3/4	Wide	TV	4 Fun Dance	Yes	MPEG-4/SD	17039	280	536[Pol]	8007
-10758	V	27500-3/4	Wide	TV	Eska TV Extra	Yes	MPEG-4/SD	17051	337	593[Pol]	8007
-10775	H	29900-3/5	Wide	TV	IRINN	Yes	MPEG-4/SD	1506	1060	1061[Per]|1062[Per]	8013
-10775	H	29900-3/5	Wide	TV	Quran TV (Iran)	Yes	MPEG-4/SD	1508	1080	1081[Per]	8013
-10775	H	29900-3/5	Wide	TV	IFilm Persian	Yes	MPEG-4/SD	1514	1140	1141[Per]|1142[Ara]	8013
-10775	H	29900-3/5	Wide	TV	Nasim	Yes	MPEG-4/SD	1520	1200	1201[Per]	8013
-10775	H	29900-3/5	Wide	TV	Jame-Jam TV Network	Yes	MPEG-4/SD	1521	1210	1211[Per]|1212[Per]	8013
-10775	H	29900-3/5	Wide	TV	Jame-Jam TV Network	Yes	MPEG-4/SD	1522	1220	1221[Per]	8013
-10775	H	29900-3/5	Wide	TV	Jame-Jam TV Network	Yes	MPEG-4/SD	1523	1230	1231[Per]	8013
-10775	H	29900-3/5	Wide	TV	Sahar Balkan	Yes	MPEG-4/SD	1526	1260	1261[Bos]	8013
-10775	H	29900-3/5	Wide	TV	Sahar Azeri	Yes	MPEG-4/SD	1527	1270	1271[Aze]	8013
-10775	H	29900-3/5	Wide	TV	Sahar Urdu	Yes	MPEG-4/SD	1528	1280	128.	8013
-10775	H	29900-3/5	Wide	TV	Sahar Kurdi	Yes	MPEG-4/SD	1529	1290	1291[Kur]	8013
-10775	H	29900-3/5	Wide	TV	Alkawthar TV	Yes	MPEG-4/SD	1530	1300	1301[Ara]	8013
-10775	H	29900-3/5	Wide	TV	Press TV	Yes	MPEG-4/HD	1531	1310	1311[Eng]	8013
-10775	H	29900-3/5	Wide	TV	Hispan TV	Yes	MPEG-4/SD	1532	1320	1321[Spa]	8013
-10775	H	29900-3/5	Wide	TV	IFilm English	Yes	MPEG-4/SD	1533	1330	1331[Eng]|1332[Per]	8013
-10775	H	29900-3/5	Wide	R	Radio Iran	Yes		1551		1511[Per]	8013
-10775	H	29900-3/5	Wide	R	Radio Payam	Yes		1552		1521[Per]	8013
-10775	H	29900-3/5	Wide	R	Radio Javan	Yes		1553		1531[Per]	8013
-10775	H	29900-3/5	Wide	R	Radio Maaref	Yes		1554		1541[Per]	8013
-10775	H	29900-3/5	Wide	R	Radio Quran (Iran)	Yes		1555		1551[Per]	8013
-10775	H	29900-3/5	Wide	R	Radio Farhang	Yes		1556		1561[Per]	8013
-10775	H	29900-3/5	Wide	R	Radio Salamat	Yes		1557		1571[Per]	8013
-10775	H	29900-3/5	Wide	R	Radio Varzesh	Yes		1558		1581[Per]	8013
-10775	H	29900-3/5	Wide	R	Radio Eghtesad	Yes		1559		1591[Per]	8013
-10775	H	29900-3/5	Wide	R	Radio Tehran	Yes		1560		1601[Per]	8013
-10775	H	29900-3/5	Wide	R	Radio Ava	Yes		1561		1611[Per]	8013
-10775	H	29900-3/5	Wide	R	Radio Namayesh	Yes		1562		1621[Per]	8013
-10775	H	29900-3/5	Wide	R	Radio Fasli	Yes		1563		16.1[Per]	8013
-10775	H	29900-3/5	Wide	R	IRIB World Service Radio 7	Yes		1564		1641[Eng]	8013
-10775	H	29900-3/5	Wide	R	IRIB World Service Radio 3	Yes		1566		.661[Ara]	8013
-10775	H	29900-3/5	Wide	R	Radio Telavat	Yes		1569		1691[Per]	8013
-10775	H	29900-3/5	Wide	R	Radio Goftogoo	Yes		1570		1701[Per]	8013
-10775	H	29900-3/5	Wide	R	IRIB World Service Radio 1	Yes		1581		1811	8013
-10775	H	29900-3/5	Wide	R	IRIB World Service Radio 2	Yes		1582		1821	8013
-10775	H	29900-3/5	Wide	R	IRIB World Service Radio 4	Yes		1584		1841	8013
-10775	H	29900-3/5	Wide	R	IRIB World Service Radio 5	Yes		1585		1851	8013
-10775	H	29900-3/5	Wide	R	IRIB World Service Radio 6	Yes		1586		1861	8013
-10796	V	27500-3/4	Wide	TV	TVS	Yes	MPEG-4/SD	15704	163	92[Pol]	8051
-10815	H	27500-5/6	Wide	TV	Vozrozhdeniye	Yes		17308	2008	3008[Rus]	8053
-10815	H	27500-5/6	Wide	TV	BVN Europa	Yes		17311	2011	3011[Dut]	8053
-10815	H	27500-5/6	Wide	TV	CNL Evropa	Yes		17312	2012	3012[Rus]	8053
-10815	H	27500-5/6	Wide	TV	Fashion One Europe	Yes		17315	2015	3015[Eng]	8053
-10815	H	27500-5/6	Wide	TV	TBN Rossiya	Yes		17317	2017	3017[Rus]	8053
-10815	H	27500-5/6	Wide	TV	Thai TV Global Network	Yes		17320	2020	3020[Tha]	8053
-10815	H	27500-5/6	Wide	TV	TVK	Yes		17337	2037	3037[Khm]	8053
-10815	H	27500-5/6	Wide	TV	The Word Network	Yes		17373	2073	3073[Eng]	8053
-10815	H	27500-5/6	Wide	R	VRT Radio 1	Yes		17310		3010[Dut]	8053
-10815	H	27500-5/6	Wide	R	The Overcomer	Yes		17344		3044[Eng]	8053
-10834	V	27500-3/4	Wide	TV	Red Carpet	Yes	MPEG-4/HD	3509	168	112[Pol]	8064
-10873	V	27500-3/4	Wide	TV	Al Maghribia	Yes	MPEG-4/HD	1	308	309[Ara]	8067
-10873	V	27500-3/4	Wide	TV	Al Aoula Middle East	Yes	MPEG-4/HD	2	35	36[Ara]	8067
-10873	V	27500-3/4	Wide	TV	Al Aoula Europe	Yes	MPEG-4/HD	3	1001	256[Ara]	8067
-10873	V	27500-3/4	Wide	TV	Athaqafia	Yes	MPEG-4/HD	4	46	47[Ara]	8067
-10873	V	27500-3/4	Wide	TV	Al Aoula Europe	Yes	MPEG-2/SD	5	1026	1027[Ara]	8067
-10873	V	27500-3/4	Wide	TV	Assadissa	Yes	MPEG-4/HD	6	1537	1538[Ara]	8067
-10873	V	27500-3/4	Wide	TV	Medi 1 TV Maghreb	Yes	MPEG-2/SD	8	2050	2049[Fre]	8067
-10873	V	27500-3/4	Wide	TV	Arryadia	Yes	MPEG-4/HD	10	2562	2563[Ara]	8067
-10873	V	27500-3/4	Wide	TV	Tamazight	Yes	MPEG-4/HD	241	3841	3842[Ber]	8067
-10873	V	27500-3/4	Wide	R	Idaa al Watania	Yes		11		2817[Ara]	8067
-10873	V	27500-3/4	Wide	R	Radio Dakhla	Yes		12		2882	8067
-10873	V	27500-3/4	Wide	R	Chaîne Inter	Yes		14		2833	8067
-10873	V	27500-3/4	Wide	R	Idaa al Amazighia	Yes		15		2850[Ara]	8067
-10873	V	27500-3/4	Wide	R	Idaa Mohammed Assadiss	Yes		16		2866[Ara]	8067
-10873	V	27500-3/4	Wide	R	Radio Agadir	Yes		50		501	8067
-10873	V	27500-3/4	Wide	R	Radio Oujda	Yes		53		531	8067
-10873	V	27500-3/4	Wide	R	Radio Casablanca	Yes		54		541	8067
-10873	V	27500-3/4	Wide	R	Radio Houceima	Yes		60		601	8067
-10873	V	27500-3/4	Wide	R	Radio Tétouan	Yes		70		701	8067
-10873	V	27500-3/4	Wide	R	Radio Meknes	Yes		80		801	8067
-10873	V	27500-3/4	Wide	R	Radio Laayoune	Yes		90		901	8067
-10873	V	27500-3/4	Wide	R	Radio Dakhla	Yes		91		911	8067
-10873	V	27500-3/4	Wide	R	Medi 1 Afrique	Yes		129		2051[Fre]	8067
-10873	V	27500-3/4	Wide	R	Radio Tanger	Yes		177		2898	8067
-10873	V	27500-3/4	Wide	R	Radio Fes	Yes		178		2897	8067
-10873	V	27500-3/4	Wide	R	Radio Marrakech	Yes		179		2865	8067
-10930	H	30000-2/3	Wide	TV	Kazakh TV	Yes	MPEG-4/HD	41	411	412[Rus]|413[Eng]|414[Kaz]|415[Kir]|416[Uzb]	8096
-10930	H	30000-2/3	Wide	TV	HSE 24 Italia	Yes	MPEG-4/HD	1731	1731	1732[Ita]	8096
-10930	H	30000-2/3	Wide	TV	Dorcel TV	No	MPEG-4/HD|Conax|Irdeto|Nagravision|Viaccess	16901	401	402[Fre]|403[Eng]|404[Spa]|405[Pol]	8096
-10930	H	30000-2/3	Wide	TV	RTBF La Une	No	MPEG-4/HD|Mediaguard|Viaccess	16910	551	34[Qaa]|101[Fre]	8096
-10930	H	30000-2/3	Wide	TV	RTBF La Deux	No	MPEG-4/SD|Mediaguard|Viaccess	16911	552	102[Fre]|122[Dut]	8096
-10930	H	30000-2/3	Wide	TV	RTBF La Trois	No	MPEG-4/SD|Mediaguard|Viaccess	16912	553	103[Fre]|123[Dut]	8096
-10930	H	30000-2/3	Wide	TV	RTL TVI	No	MPEG-4/HD|Mediaguard|Viaccess	16913	556	106[Fre]	8096
-10930	H	30000-2/3	Wide	TV	Club RTL	No	MPEG-4/SD|Mediaguard|Viaccess	16914	557	107[Fre]	8096
-10930	H	30000-2/3	Wide	TV	Plug RTL	No	MPEG-4/SD|Mediaguard|Viaccess	16915	558	108[Fre]	8096
-10930	H	30000-2/3	Wide	TV	UA TV	Yes	MPEG-4/SD	16924	44	192[Rus]	8096
-10930	H	30000-2/3	Wide	TV	Baby TV Europe	No	MPEG-4/SD|Conax|Mediaguard|Nagravision|Viaccess	16925	2001	3001[Ger]|3101[Eng]|3201[Fre]|3301[Dut]|3401[Tur]|3501[Pol]|3601[Spa]|3701[Por]|3901[Gre]|4101[Ita]	8096
-10930	H	30000-2/3	Wide	TV	Hustler HD Europe	No	MPEG-4/HD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	16928	559	124[Eng]	8096
-10930	H	30000-2/3	Wide	TV	Blue Hustler Europe	No	MPEG-4/SD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	16929	560	126[Eng]	8096
-10930	H	30000-2/3	Wide	TV	Private TV	No	MPEG-4/HD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	16930	561	.28[Eng]	8096
-10930	H	30000-2/3	Wide	TV	Hustler HD Europe	No	MPEG-4/HD|Irdeto|Nagravision	16931	559	124[Eng]	8096
-10930	H	30000-2/3	Wide	TV	Private TV	No	MPEG-4/HD|Irdeto|Nagravision	16933	561	128[Eng]	8096
-10930	H	30000-2/3	Wide	R	Pure	No	Mediaguard|Viaccess	16916		111[Fre]	8096
-10930	H	30000-2/3	Wide	R	Classic 21	No	Mediaguard|Viaccess	16917		112[Fre]	8096
-10930	H	30000-2/3	Wide	R	VivaCité Bruxelles	No	Mediaguard|Viaccess	16918		113[Fre]	8096
-10930	H	30000-2/3	Wide	R	Musiq'3	No	Mediaguard|Viaccess	16919		114[Fre]	8096
-10930	H	30000-2/3	Wide	R	La Première	No	Mediaguard|Viaccess	16920		115[Fre]	8096
-10930	H	30000-2/3	Wide	R	Mint	No	Mediaguard|Viaccess	16921		118[Fre]	8096
-10930	H	30000-2/3	Wide	R	Bel RTL	No	Mediaguard|Viaccess	16922		119[Fre]	8096
-10930	H	30000-2/3	Wide	R	Radio Contact	No	Mediaguard|Viaccess	16923		120[Fre]	8096
-10949	V	27500-3/4	Wide	TV	Al Hiwar TV	Yes	MPEG-4/HD	7456	6501	6511[Ara]	8121
-10949	V	27500-3/4	Wide	TV	Brazzers TV Europe	No	Irdeto|Nagravision|Viaccess	7461	7001	7011[Eng]|7012[Fre]	8121
-10949	V	27500-3/4	Wide	TV	EWTN Europe	Yes		7462	7101	7111[Eng]	8121
-10949	V	27500-3/4	Wide	TV	CNBC Europe	Yes		7463	7201	7211[Eng]	8121
-10949	V	27500-3/4	Wide	TV	Sat 7 Pars	Yes		7470	7801	7811[Per]	8121
-10949	V	27500-3/4	Wide	TV	Imam Hussein TV 1	Yes		7475	6701	6711[Per]	8121
-10949	V	27500-3/4	Wide	R	Persian BMS	Yes		7402		5111[Per]	8121
-10949	V	27500-3/4	Wide	R	WRN Russkij	Yes		7403		5211[Rus]	8121
-10949	V	27500-3/4	Wide	R	WRN English Europe	Yes		7404		5311[Eng]	8121
-10949	V	27500-3/4	Wide	R	Radio Jahani	Yes		7406		5511[Per]	8121
-10949	V	27500-3/4	Wide	R	Sawt Al Alam	Yes		7408		5701[Ara]	8121
-10992	V	27500-2/3	Wide	TV	Rai 3 Friuli Venezia Giulia	No	Nagravision	8501	511	6.3[Ita]	9001
-10992	V	27500-2/3	Wide	TV	Rai Movie	No	Nagravision	8502	200	800[Ita]|850[Qaa]	9001
-10992	V	27500-2/3	Wide	TV	Rai 1	Yes		8511	512	650[Ita]|699[Qaa]	9001
-10992	V	27500-2/3	Wide	TV	Rai 2	Yes		8512	513	651[Ita]|696[Qaa]	9001
-10992	V	27500-2/3	Wide	TV	Rai 3	Yes		8513	514	652[Ita]	9001
-10992	V	27500-2/3	Wide	TV	Rai 4	No	Mediaguard|Nagravision	8514	523	604[Ita]|698[Qaa]	9001
-10992	V	27500-2/3	Wide	TV	Rai News 24	Yes		8516	520	690[Ita]	9001
-10992	V	27500-2/3	Wide	R	Rai Radio Tutta Italiana	Yes		8515		673[Ita]	9001
-10992	V	27500-2/3	Wide	R	Rai Radio 1	Yes		8554		54[Ita]	9001
-10992	V	27500-2/3	Wide	R	Rai Radio 2	Yes		8555		55[Ita]	9001
-10992	V	27500-2/3	Wide	R	Rai Radio 3	Yes		8556		56[Ita]	9001
-10992	V	27500-2/3	Wide	R	Rai Radio 1 Sport	Yes		8557		57[Ita]	9001
-11013	H	29900-3/4	Wide	R	Rai 4K	No	HEVC/UHD 4K|Nagravision	1840		1841[Ita]|1843[Eng]	9014
-11013	H	29900-3/4	Wide	TV	Rai Gulp	No	MPEG-4/HD|Nagravision	17712	1820	1821[Ita]|1823[Qaa]	9014
-11013	H	29900-3/4	Wide	TV	Rai Yoyo	No	MPEG-4/HD|Nagravision	17713	1830	1831[Ita]|1833[Qaa]	9014
-11013	H	29900-3/4	Wide	TV	Rai Scuola	No	MPEG-4/HD|Nagravision	17715	1850	1851[Ita]|1853[Qaa]	9014
-11013	H	29900-3/4	Wide	TV	Rai 4	No	MPEG-4/HD|Nagravision	17716	1860	1861[Ita]|1863[Qaa]	9014
-11013	H	29900-3/4	Wide	TV	Rai Premium	No	MPEG-4/HD|Nagravision	17717	1870	1871[Ita]|1873[Qaa]	9014
-11013	H	29900-3/4	Wide	TV	Rai Movie	No	MPEG-4/HD|Nagravision	17718	1880	1881[Ita]|1883[Qaa]	9014
-11034	V	27500-3/4	Wide	TV	TV 5 Coran	Yes		1701	120	130[Ara]	9022
-11034	V	27500-3/4	Wide	TV	TV 4 Amazigh	Yes		1702	220	230	9022
-11034	V	27500-3/4	Wide	TV	TNT International Europe	Yes		1703	320	330[Rus]	9022
-11034	V	27500-3/4	Wide	TV	112 Ukraïna	Yes	MPEG-4/HD	1704	420	430[Ukr]	9022
-11034	V	27500-3/4	Wide	TV	2M Monde	Yes		1705	520	530[Ara]	9022
-11034	V	27500-3/4	Wide	TV	CGTN	Yes		1706	620	630[Eng]	9022
-11034	V	27500-3/4	Wide	TV	TV Rus	Yes		1707	720	730[Rus]	9022
-11034	V	27500-3/4	Wide	TV	RTR Planeta	Yes		1708	.20	830[Rus]	9022
-11034	V	27500-3/4	Wide	TV	Boutique TV Deutschland	Yes		1709	920	930[Rus]	9022
-11034	V	27500-3/4	Wide	TV	Rossiya 24	Yes		1710	1020	1030[Rus]	9022
-11034	V	27500-3/4	Wide	TV	NTV Mir	Yes		1713	1320	1330[Rus]	9022
-11034	V	27500-3/4	Wide	TV	Ganj e Hozour TV	Yes		1717	1720	1730[Per]	9022
-11034	V	27500-3/4	Wide	TV	8 Kanal International	Yes		1718	1820	1830[Rus]	9022
-11034	V	27500-3/4	Wide	R	Chaîne 2	Yes		1711		1130[Ber]	9022
-11034	V	27500-3/4	Wide	R	Chaîne 3	Yes		1731		1131[Fre]	9022
-11034	V	27500-3/4	Wide	R	Chaîne 1	Yes		1751		131[Ara]	9022
-11034	V	27500-3/4	Wide	R	Radio 2M	Yes		1755		580	9022
-11054	H	27500-5/6	Wide	TV	Arti TV	Yes	MPEG-2/SD	8003	310	320[Tur]	9040
-11054	H	27500-5/6	Wide	TV	MC EU	Yes	MPEG-4/SD	8004	410	420[Tur]	9040
-11054	H	27500-5/6	Wide	TV	Media Broadcast Satellite promo	No	MPEG-2/SD	8011	1113	1114[Ger]	9040
-11054	H	27500-5/6	Wide	TV	Jin TV	Yes	MPEG-4/HD	8025	2510	2520[Kur]	9040
-11054	H	27500-5/6	Wide	TV	Can TV	Yes	MPEG-4/HD	8027	2710	2720[Tur]	9040
-11054	H	27500-5/6	Wide	TV	Iran e Aryaee TV	Yes	MPEG-4/SD	8031	3110	3120[Per]	9040
-11075	V	30000-3/4	Wide	TV	Aristo TV	Yes	MPEG-4/SD	3710	1010	1020[Ger]	9047
-11075	V	30000-3/4	Wide	TV	Anixe +	Yes	MPEG-4/HD	3711	1110	1120[Ger]	9047
-11075	V	30000-3/4	Wide	TV	Anixe HD Serie	Yes	MPEG-4/HD	3712	1210	1220[Ger]	9047
-11075	V	30000-3/4	Wide	TV	TVP Polonia	Yes	MPEG-4/SD	3715	1510	1520[Pol]|1530[Pol]	9047
-11137	H	27500-3/4	Wide	TV	Bloomberg TV Europe	Yes		7302	3502	3622[Eng]	9054
-11137	H	27500-3/4	Wide	TV	Aljazeera English	Yes		7305	3505	3625[Eng]	9054
-11137	H	27500-3/4	Wide	TV	Aljazeera English	Yes	MPEG-4/HD	7306	3506	3626[Eng]|3686[Eng]	9054
-11137	H	27500-3/4	Wide	TV	TV 5 Monde Europe	Yes		7322	3522	3642[Fre]	9054
-11137	H	27500-3/4	Wide	TV	Bartar TV	No		7333	3533	5303	9054
-11137	H	27500-3/4	Wide	TV	Manoto	Yes		7355	3555	3675[Per]	9054
-11179	H	27500-3/4	Wide	TV	Rai Italia Africa	No	Irdeto	1500	1995	1996[Ita]	9062
-11179	H	27500-3/4	Wide	TV	Alkarma TV Middle East 1	Yes		4904	640	625[Ara]	9062
-11179	H	27500-3/4	Wide	TV	Fashion TV Europe	Yes	MPEG-4/SD	4908	1401	1402	9062
-11179	H	27500-3/4	Wide	TV	QVC Italia	Yes		4909	1335	1336[Ita]	9062
-11179	H	27500-3/4	Wide	TV	Juwelo Italia	Yes	MPEG-2/SD	4910	3810	3820[Ita]	9062
-11179	H	27500-3/4	Wide	TV	Juwelo Italia	Yes	MPEG-4/SD	4911	1971	1972[Ita]	9062
-11179	H	27500-3/4	Wide	TV	CTV (Egypt)	Yes		4923	554	564[Ara]	9062
-11179	H	27500-3/4	Wide	TV	Marjaeyat TV Hotbird	Yes		4937	580	581[Per]	9062
-11179	H	27500-3/4	Wide	TV	Radio Radio TV	Yes	MPEG-4/SD	4955	1181	1182[Ita]	9062
-11179	H	27500-3/4	Wide	TV	Canale Italia 2	Yes	MPEG-4/SD	4960	1371	1372[Ita]	9062
-11179	H	27500-3/4	Wide	TV	Orler TV	Yes	MPEG-4/SD	4970	1221	1222[Ita]	9062
-11179	H	27500-3/4	Wide	TV	Regal TV	Yes	MPEG-4/SD	4974	1112	1113[Ita]	9062
-11179	H	27500-3/4	Wide	TV	Arte Investimenti	Yes	MPEG-4/SD	4993	1211	1212[Ita]	9062
-11179	H	27500-3/4	Wide	TV	Telecupole	Yes	MPEG-4/SD	4994	1411	1412[Ita]	9062
-11179	H	27500-3/4	Wide	TV	Sky 903	Yes	MPEG-4/SD	4996	1201	1202[Ita]	9062
-11179	H	27500-3/4	Wide	R	Radio Margherita	Yes		4957		10.[Ita]	9062
-11200	V	27500-5/6	Wide	TV	Mohabat TV	Yes		4703	370	371[Per]	10000
-11200	V	27500-5/6	Wide	TV	Deluxe 139	Yes	MPEG-4/SD	4704	2004	3004[Ita]	10000
-11200	V	27500-5/6	Wide	TV	MTA 3	Yes		4706	366	367[Ara]	10000
-11200	V	27500-5/6	Wide	TV	KICC TV	Yes		4709	2009	3009[Eng]	10000
-11200	V	27500-5/6	Wide	TV	GünAz TV	Yes		4763	2063	3063[Aze]	10000
-11200	V	27500-5/6	Wide	TV	SexySat Arabia	Yes		4774	2078	3078[Ara]	10000
-11200	V	27500-5/6	Wide	TV	Umut TV	Yes		4784	2084	3084[Tur]	10000
-11200	V	27500-5/6	Wide	TV	Omid TV (USA)	Yes		4784	2084	3.84[Per]	10000
-11200	V	27500-5/6	Wide	R	Radio Novaya Zhizn	Yes		4727		3027[Rus]	10000
-11200	V	27500-5/6	Wide	R	Persian BMS	Yes		4728		3028[Per]	10000
-11200	V	27500-5/6	Wide	R	Radio Mojdeh	No		4732		406[Per]	10000
-11200	V	27500-5/6	Wide	R	Voisfarsi	Yes		4764		3064[Per]	10000
-11200	V	27500-5/6	Wide	R	RVS Italy	Yes		4785		3085[Ita]	10000
-11219	H	29900-3/5	Wide	TV	Ukraïna 24	Yes	MPEG-4/SD	1220	1222	1223[Ukr]	10014
-11240	V	27500-3/4	Wide	TV	Eurosport 2	No	Irdeto|Viaccess|Videoguard|Verimatrix	13801	2.25	2823[Eng]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2	No	Irdeto|Viaccess|Videoguard|Verimatrix	13802	2825	2823[Eng]|2827[Cze]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2	No	Irdeto|Viaccess|Videoguard|Verimatrix	13804	2825	2823[Eng]|2872[Spa]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2	No	Irdeto|Viaccess|Videoguard|Verimatrix	13805	2825	2823[Eng]|2833[Gre]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2	No	Irdeto|Viaccess|Videoguard|Verimatrix	13813	2.25	2823[Eng]|2828[Rus]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2	No	Irdeto|Viaccess|Videoguard|Verimatrix	13821	2825	2850[Por]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2	No	Irdeto|Viaccess|Videoguard|Verimatrix	13822	2825	2821[Ita]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2	No	Irdeto|Viaccess|Videoguard|Verimatrix	13823	2825	2821[Ita]|2823[Eng]|2826[Ger]|2827[Cze]|2828[Rus]|2833[Gre]|2834[Hun]|2844[Srp]|2850[Por]|2860[Tur]|2872[Spa]|2873[Rum]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Irdeto|Viaccess|Videoguard|Verimatrix	13828	2577	2562[Eng]|2593[Hrv]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Irdeto|Viaccess|Videoguard|Verimatrix	13829	2577	2562[Eng]|2590[Spa]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Irdeto|Viaccess|Videoguard|Verimatrix	13830	2577	2592[Ita]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Irdeto|Viaccess|Videoguard|Verimatrix	13831	2577	2562[Eng]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Irdeto|Viaccess|Videoguard|Verimatrix	13833	2577	2564[Dut]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Irdeto|Viaccess|Videoguard|Verimatrix	13834	2577	2562[Eng]|2565[Pol]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Irdeto|Viaccess|Videoguard|Verimatrix	13835	2577	2562[Eng]|2566[Rus]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Irdeto|Viaccess|Videoguard|Verimatrix	13836	2577	2568[Por]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Irdeto|Viaccess|Videoguard|Verimatrix	13837	2.77	2562[Eng]|2584[Hun]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Irdeto|Viaccess|Videoguard|Verimatrix	13839	2577	2582[Cze]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Irdeto|Viaccess|Videoguard|Verimatrix	13840	2577	2562[Eng]|2563[Gre]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Irdeto|Viaccess|Videoguard|Verimatrix	13841	2577	2562[Eng]|2563[Gre]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Irdeto|Viaccess|Videoguard|Verimatrix	13842	2577	2585[Bul]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2	No	Irdeto|Viaccess|Videoguard|Verimatrix	13843	2825	2823[Eng]|2860[Tur]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Irdeto|Viaccess|Videoguard|Verimatrix	13844	2577	2842[Srp]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Irdeto|Viaccess|Videoguard|Verimatrix	13845	2577	2562[Eng]|2838[Tur]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2	No	Irdeto|Viaccess|Videoguard|Verimatrix	13846	2825	2826[Ger]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2	No	Irdeto|Viaccess|Videoguard|Verimatrix	13847	2825	2844[Srp]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Irdeto|Viaccess|Videoguard|Verimatrix	13848	2577	2562[Eng]|2563[Gre]|2564[Dut]|2565[Pol]|2566[Rus]|2568[Por]|2569[Rum]|2582[Cze]|2584[Hun]|2585[Bul]|2590[Spa]|2591[Fre]|2592[Ita]|2593[Hrv]|2838[Tur]|2842[Srp]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2 North-East	No	Viaccess|Videoguard	13864	5110	5120[Eng]|5320[Bul]|6820[Tur]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Viaccess|Verimatrix	13865	2577	2562[Eng]|2565[Pol]|2590[Spa]|2592[Ita]|2593[Hrv]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2 North-East	No	Viaccess|Videoguard	13877	5110	5120[Eng]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2 North-East	No	Viaccess|Videoguard	13879	5110	5120[Eng]|5320[Bul]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2 North-East	No	Viaccess|Videoguard	13880	5110	5520[Srp]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2	No	Irdeto|Viaccess|Videoguard|Verimatrix	13882	2825	2873[Rum]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2 North-East	No	Viaccess|Videoguard	13883	5110	5120[Eng]|5820[Rus]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2	No	Irdeto|Viaccess|Videoguard|Verimatrix	13884	2825	2834[Hun]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Irdeto|Viaccess|Videoguard|Verimatrix	13885	2577	2562[Eng]|2569[Rum]|2582[Cze]|2584[Hun]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2 North-East	No	Viaccess|Videoguard	13886	5110	5120[Eng]|5320[Bul]|5520[Srp]|5820[Rus]|6420[Hun]|6520[Rum]|6620[Hrv]|6820[Tur]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2 North-East	No	Viaccess|Videoguard	13887	5110	5120[Eng]|6420[Hun]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2 North-East	No	Viaccess|Videoguard	13888	5110	6520[Rum]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2 North-East	No	Viaccess|Videoguard	13890	5110	5120[Eng]|6620[Hrv]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 1	No	Irdeto|Viaccess|Videoguard|Verimatrix	13892	2577	2569[Rum]	10016
-11240	V	27500-3/4	Wide	TV	Eurosport 2 North-East	No	Viaccess|Videoguard	13893	5110	5120[Eng]|6820[Tur]	10016
-11240	V	27500-3/4	Wide	TV	Noviy Mir	Yes		13930	512	4112[Rus]	10016
-11240	V	27500-3/4	Wide	TV	RT News	Yes		13931	311	312[Eng]	10016
-11258	H	27500-3/4	Wide	TV	MBC (UAE)	No	MPEG-4/SD|Irdeto	1901	11.	112[Ara]	10061
-11258	H	27500-3/4	Wide	TV	MBC 3 (UAE)	No	MPEG-4/SD|Irdeto	1902	121	122[Ara]	10061
-11258	H	27500-3/4	Wide	TV	MBC Maser	No	MPEG-4/SD|Irdeto	1903	131	132[Ara]	10061
-11258	H	27500-3/4	Wide	TV	Rotana Cinema KSA	No	MPEG-4/SD|Irdeto	1904	141	142[Ara]	10061
-11258	H	27500-3/4	Wide	TV	Rotana Clip	No	MPEG-4/SD|Irdeto	1905	151	152[Ara]	10061
-11258	H	27500-3/4	Wide	TV	MTV Alloubnaniya	No	MPEG-4/SD|Irdeto	1906	161	162[Ara]	10061
-11258	H	27500-3/4	Wide	TV	Iqraa Africa & Europe	No	MPEG-4/SD|Irdeto	1907	171	172[Eng]	10061
-11258	H	27500-3/4	Wide	TV	Gulli Bil Arabie	No	MPEG-4/SD|Irdeto	1908	181	182[Fre]	10061
-11258	H	27500-3/4	Wide	TV	MBC Drama (UAE)	No	MPEG-4/SD|Irdeto	1909	191	192[Ara]	10061
-11258	H	27500-3/4	Wide	TV	Zee Alwan	No	MPEG-4/SD|Irdeto	1910	201	202[Ara]	10061
-11258	H	27500-3/4	Wide	TV	Ennahar TV	No	MPEG-4/SD|Irdeto	1911	211	212[Ara]	10061
-11258	H	27500-3/4	Wide	TV	Rawdah	No	MPEG-4/SD|Irdeto	1912	221	222[Ara]	10061
-11258	H	27500-3/4	Wide	TV	Rotana Classic	No	MPEG-4/SD|Irdeto	1913	231	232[Ara]	10061
-11258	H	27500-3/4	Wide	TV	PNC Food	No	MPEG-4/SD|Irdeto	1914	241	242[Ara]	10061
-11258	H	27500-3/4	Wide	TV	Lana TV	No	MPEG-4/SD|Irdeto	1915	251	252[Ara]	10061
-11258	H	27500-3/4	Wide	TV	Hannibal TV	No	MPEG-4/SD|Irdeto	1916	261	262[Ara]	10061
-11278	V	27500-3/4	Wide	TV	Canal + Now	No	MPEG-4/HD|Conax|Mediaguard|Nagravision	13005	164	96[Pol]	10078
-11278	V	27500-3/4	Wide	TV	Eleven Sports 4 Polska	No	MPEG-4/HD|Conax|Mediaguard|Nagravision	13006	165	100[Pol]	10078
-11278	V	27500-3/4	Wide	TV	Canal + Polska	No	MPEG-4/HD|Conax|Mediaguard|Nagravision|Viaccess	13020	359	376[Pol]|377[Qaa]	10078
-11278	V	27500-3/4	Wide	TV	Canal + Sport Polska	No	MPEG-4/HD|Conax|Mediaguard|Nagravision|Viaccess	13022	361	385[Pol]	10078
-11278	V	27500-3/4	Wide	TV	National Geographic Polska	No	MPEG-4/HD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	13023	362	388[Pol]|389[Eng]	10078
-11278	V	27500-3/4	Wide	TV	MiniMini +	No	MPEG-4/HD|Conax|Mediaguard|Nagravision|Viaccess	13024	363	392[Pol]|393[Qaa]	10078
-11278	V	27500-3/4	Wide	TV	MiniMini +	No	MPEG-4/HD|Conax|Mediaguard|Nagravision	13054	363	392[Pol]|393[Qaa]	10078
-11278	V	27500-3/4	Wide	TV	Eurosport 1	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard|Verimatrix	13061	3000	3201[Eng]	10078
-11278	V	27500-3/4	Wide	TV	Eurosport 1	No	MPEG-4/HD|Viaccess	13062	3000	3219[Fre]	10078
-11278	V	27500-3/4	Wide	TV	Eurosport 1	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard|Verimatrix	13063	3000	3201[Eng]|3203[Tur]	10078
-11278	V	27500-3/4	Wide	TV	Eurosport 1	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard|Verimatrix	13064	3000	3201[Eng]|3204[Rus]	10078
-11278	V	27500-3/4	Wide	TV	Eurosport 1	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard|Verimatrix	13065	3000	3201[Eng]|3205[Dut]	10078
-11278	V	27500-3/4	Wide	TV	Eurosport 1	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard|Verimatrix	13066	3000	3206[Cze]	10078
-11278	V	27500-3/4	Wide	TV	Eurosport 1	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard|Verimatrix	13067	3000	3207[Hrv]	10078
-11278	V	27500-3/4	Wide	TV	Eurosport 1	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard|Verimatrix	13069	3000	3209[Por]	10078
-11278	V	27500-3/4	Wide	TV	Eurosport 1	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard|Verimatrix	13070	3000	3201[Pol]	10078
-11278	V	27500-3/4	Wide	TV	Eurosport 1	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard|Verimatrix	13071	3000	3201[Eng]|3211[Hun]	10078
-11278	V	27500-3/4	Wide	TV	Eurosport 1	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard|Verimatrix	13072	3000	3201[Eng]|3212[Bul]	10078
-11278	V	27500-3/4	Wide	TV	Eurosport 1	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard|Verimatrix	13073	3000	3201[Eng]|3213[Ita]	10078
-11278	V	27500-3/4	Wide	TV	Eurosport 1	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard|Verimatrix	13074	3000	3214[Rum]	10078
-11278	V	27500-3/4	Wide	TV	Eurosport 1	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard|Verimatrix	13075	3000	3201[Eng]|3206[Cze]|3211[Hun]|3214[Rum]	10078
-11278	V	27500-3/4	Wide	TV	Eurosport 1	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard|Verimatrix	13076	3000	3201[Eng]|3215[Spa]	10078
-11278	V	27500-3/4	Wide	TV	Eurosport 1	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard|Verimatrix	13077	3000	3201[Eng]|3203[Tur]|3204[Rus]|3205[Dut]|3206[Cze]|3207[Hrv]|3209[Por]|3211[Hun]|3212[Bul]|3213[Ita]|3214[Rum]|3215[Spa]|3216[Srp]|3217[Gre]|3219[Fre]	10078
-11278	V	27500-3/4	Wide	TV	Eurosport 1	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard|Verimatrix	13078	3000	3201[Eng]|3216[Srp]	10078
-11278	V	27500-3/4	Wide	TV	Eurosport 1	No	MPEG-4/HD|Irdeto|Viaccess|Videoguard|Verimatrix	13079	3000	3201[Eng]|3217[Gre]	10078
-11278	V	27500-3/4	Wide	TV	National Geographic Polska	No	MPEG-4/HD|Irdeto|Nagravision	13083	362	388[Pol]|389[Eng]	10078
-11296	H	27500-5/6	Wide	TV	Aryen TV	Yes		2201	2001	3001[Kur]	10105
-11296	H	27500-5/6	Wide	TV	CBC (Azerbaijan)	Yes		2202	2002	3002[Aze]	10105
-11296	H	27500-5/6	Wide	TV	Yemen TV	Yes		2204	2004	3004[Ara]	10105
-11296	H	27500-5/6	Wide	TV	Kurdsat	Yes		2207	2007	3007[Kur]	10105
-11296	H	27500-5/6	Wide	TV	Nour TV	Yes		2208	2008	3008[Ara]	10105
-11296	H	27500-5/6	Wide	TV	Ictimai TV	Yes		2209	2009	3009[Aze]	10105
-11296	H	27500-5/6	Wide	TV	Xezer TV	Yes		2210	2010	3010[Aze]	10105
-11296	H	27500-5/6	Wide	TV	Lalish TV	Yes		2211	2011	3011[Kur]	10105
-11296	H	27500-5/6	Wide	TV	Kazakh TV	Yes		2212	2012	3012[Rus]|4012[Eng]|5012[Kaz]|6012[Kir]|7012[Uzb]	10105
-11296	H	27500-5/6	Wide	TV	Az TV	Yes		2213	2013	3013[Aze]	10105
-11296	H	27500-5/6	Wide	TV	Medya Haber	Yes		2214	2014	3014[Tur]	10105
-11296	H	27500-5/6	Wide	R	Radio Sana'a	Yes		1550		1551[Ara]	10105
-11296	H	27500-5/6	Wide	R	Dengê Welat	No		2227		645[Kur]	10105
-11317	V	27500-3/4	Wide	TV	RT Arabic	Yes		17632	1032	1232[Ara]	10119
-11317	V	27500-3/4	Wide	TV	Kentron TV International	Yes		17633	1033	1233[Arm]	10119
-11317	V	27500-3/4	Wide	TV	Kalemeh TV	Yes		17634	1034	1234[Per]	10119
-11317	V	27500-3/4	Wide	TV	Payam-e-Afghan TV	Yes		17635	1035	1235[Per]	10119
-11317	V	27500-3/4	Wide	TV	Kalsan TV	Yes		17636	1036	1236[Som]	10119
-11317	V	27500-3/4	Wide	TV	Horn Cable TV	Yes		17637	1037	1237[Som]	10119
-11317	V	27500-3/4	Wide	TV	Somali Cable	Yes		17638	1038	1238[Som]	10119
-11317	V	27500-3/4	Wide	TV	AssyriaSat	Yes		17639	1039	1239[Syr]	10119
-11317	V	27500-3/4	Wide	TV	Hadi TV 3	Yes		17640	1040	1240	10119
-11334	H	27500-3/4	Wide	TV	Armenia 1 TV Satellite	Yes		4	1401	1402[Arm]	10129
-11334	H	27500-3/4	Wide	TV	Armenia TV Europe	Yes		6	1601	1602[Arm]	10129
-11334	H	27500-3/4	Wide	TV	SBN International	Yes		9	1901	1902[Eng]|1903[Spa]	10129
-11334	H	27500-3/4	Wide	TV	RTP Internacional Europa	Yes		10	2001	2002[Por]	10129
-11334	H	27500-3/4	Wide	R	Hotbird 4K1	Yes	HEVC/UHD 4K	17		[Eng]	10129
-11334	H	27500-3/4	Wide	R	Public Radio of Armenia	Yes		5		1502[Arm]	10129
-11334	H	27500-3/4	Wide	R	RDP Internacional	Yes		15		2502	10129
-11334	H	27500-3/4	Wide	R	RDP Antena 1	Yes		16		2602[Por]	10129
-11373	H	27500-3/4	Wide	TV	Iran International	Yes	MPEG-4/HD	501	5011	5012[Per]	10139
-11373	H	27500-3/4	Wide	TV	NASA TV Public	Yes	MPEG-4/HD	504	5041	5042[Eng]	10139
-11373	H	27500-3/4	Wide	TV	Rûdaw	Yes	MPEG-4/HD	506	5061	5062[Kur]	10139
-11373	H	27500-3/4	Wide	TV	Waar TV	Yes	MPEG-4/HD	507	5071	5072[Kur]	10139
-11373	H	27500-3/4	Wide	TV	Kurdistan 24	Yes	MPEG-4/HD	508	5081	5082[Kur]	10139
-11373	H	27500-3/4	Wide	TV	TV&TV	Yes	MPEG-4/SD	509	5091	5092[Ita]	10139
-11373	H	27500-3/4	Wide	TV	Parole di Vita	Yes	MPEG-4/SD	510	5101	5102[Ita]	10139
-11373	H	27500-3/4	Wide	TV	World Fashion Channel International	Yes	MPEG-4/HD	530	5301	5302[Eng]	10139
-11373	H	27500-3/4	Wide	TV	Tesory Channel	Yes	MPEG-4/SD	532	5321	5322[Ita]	10139
-11373	H	27500-3/4	Wide	TV	NHK World Japan	Yes	MPEG-4/HD	533	5331	5332[Eng]	10139
-11373	H	27500-3/4	Wide	TV	Iraqia News	Yes	MPEG-4/HD	534	5341	5342[Ara]	10139
-11373	H	27500-3/4	Wide	TV	ETV News	Yes	MPEG-2/SD	535	5351	5352[Amh]	10139
-11373	H	27500-3/4	Wide	R	Rûdaw Radio	Yes		506		5063[Kur]	10139
-11373	H	27500-3/4	Wide	R	Rûdaw Music	Yes		506		5064[Kur]	10139
-11393	V	27500-3/4	Wide	TV	Mango	Yes	MPEG-4/SD	4316	517	700[Pol]	10154
-11393	V	27500-3/4	Wide	TV	Nuta TV	Yes	MPEG-4/SD	4317	518	710[Pol]	10154
-11393	V	27500-3/4	Wide	TV	Discovery Life Polska	No	MPEG-4/HD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	4320	521	740[Pol]|741[Eng]	10154
-11393	V	27500-3/4	Wide	TV	Motor Trend	No	MPEG-4/HD|Conax|Nagravision|Videoguard	4321	522	750[Ita]|751[Eng]	10154
-11393	V	27500-3/4	Wide	TV	Giallo	No	MPEG-4/HD|Conax|Nagravision|Videoguard	4322	523	760[Ita]|761[Eng]	10154
-11393	V	27500-3/4	Wide	TV	Nove	No	MPEG-4/HD|Conax|Nagravision|Videoguard	4323	524	770[Ita]|771[Eng]	10154
-11393	V	27500-3/4	Wide	TV	NTL	Yes	MPEG-4/SD	4324	525	780[Pol]	10154
-11393	V	27500-3/4	Wide	TV	Junior Music	Yes	MPEG-4/SD	4325	526	790[Pol]	10154
-11393	V	27500-3/4	Wide	TV	Power TV (Poland)	Yes	MPEG-4/SD	4327	528	810[Pol]	10154
-11393	V	27500-3/4	Wide	TV	To!TV	Yes	MPEG-4/SD	4328	529	820[Pol]	10154
-11393	V	27500-3/4	Wide	TV	Adventure	No	MPEG-4/HD|Conax|Mediaguard|Nagravision|Viaccess	4329	530	830[Pol]	10154
-11393	V	27500-3/4	Wide	TV	TVN 24 BiS	No	MPEG-4/HD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	4330	531	840[Pol]|841[Qaa]	10154
-11393	V	27500-3/4	Wide	TV	HGTV Polska	No	MPEG-4/HD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	4331	532	850[Pol]|851[Qaa]	10154
-11393	V	27500-3/4	Wide	TV	Food Network EMEA	No	MPEG-4/HD|Conax|Viaccess	4332	533	860[Eng]|861[Cze]|862[Hun]|863[Tur]|864[Bul]|865[Rus]	10154
-11393	V	27500-3/4	Wide	TV	Fine Living	No	MPEG-4/HD|Conax|Viaccess	4333	534	870[Eng]|871[Cze]|872[Hun]|873[Rus]	10154
-11432	V	29900-3/4	Wide	TV	Cine 34	No	MPEG-4/SD|Nagravision|Videoguard	111	1470	.471[Ita]	10171
-11432	V	29900-3/4	Wide	TV	Virgin Radio TV	No	MPEG-4/SD|Nagravision	119	870	871[Ita]	10171
-11432	V	29900-3/4	Wide	TV	20 Mediaset	No	MPEG-4/HD|Nagravision|Videoguard	120	1240	1241[Ita]|1242[Qaa]	10171
-11432	V	29900-3/4	Wide	TV	Italia 1	No	MPEG-4/HD|Nagravision|Videoguard	121	1220	1221[Ita]|1222[Qaa]	10171
-11432	V	29900-3/4	Wide	TV	Canale 5	No	MPEG-4/HD|Nagravision|Videoguard	122	1210	1211[Ita]|1212[Qaa]	10171
-11432	V	29900-3/4	Wide	TV	Rete 4	No	MPEG-4/HD|Nagravision|Videoguard	123	1230	1231[Ita]|1232[Qaa]	10171
-11471	V	27500-3/4	Wide	TV	Wesal Haq	Yes	MPEG-2/SD	3	301	302	11000
-11471	V	27500-3/4	Wide	TV	SRTV	Yes	MPEG-2/SD	7	701	702[Som]	11000
-11471	V	27500-3/4	Wide	TV	Universal TV (UK)	Yes	MPEG-2/SD	13	131	132[Som]	11000
-11471	V	27500-3/4	Wide	TV	Azadi TV	Yes	MPEG-2/SD	14	1401	1402	11000
-11471	V	27500-3/4	Wide	TV	Somali National TV	Yes	MPEG-2/SD	32	3021	3022[Som]	11000
-11471	V	27500-3/4	Wide	R	Rûdaw Radio	Yes		1		102[Kur]	11000
-11471	V	27500-3/4	Wide	R	Rûdaw Music	Yes		1		103[Kur]	11000
-11488	H	27500-3/4	Wide	R	Radio Zet	Yes		5136		423[Pol]	11008
-11488	H	27500-3/4	Wide	R	Melo Radio	Yes		5137		422[Pol]	11008
-11488	H	27500-3/4	Wide	R	Radio Zet Chilli	Yes		5138		42.[Pol]	11008
-11488	H	27500-3/4	Wide	R	Antyradio	Yes		5139		426[Pol]	11008
-11488	H	27500-3/4	Wide	R	Polskie Radio 24	Yes		5144		415[Pol]	11008
-11488	H	27500-3/4	Wide	R	Polskie Radio Jedynka	Yes		5144		416[Pol]	11008
-11488	H	27500-3/4	Wide	R	Polskie Radio Dwójka	Yes		5144		417[Pol]	11008
-11488	H	27500-3/4	Wide	R	Polskie Radio Trójka	Yes		5144		418[Pol]	11008
-11488	H	27500-3/4	Wide	R	Radio Poland	Yes		5144		419[Pol]	11008
-11488	H	27500-3/4	Wide	R	Radio Jasna Góra	Yes		5145		427[Pol]	11008
-11488	H	27500-3/4	Wide	R	Tok FM	Yes		5162		421[Pol]	11008
-11508	V	27500-3/4	Wide	TV	TVN (Poland)	No	MPEG-4/HD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	15821	532	820[Pol]|821[Qaa]	11020
-11508	V	27500-3/4	Wide	TV	TVN Style	No	MPEG-4/HD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	15822	533	830[Pol]|831[Qaa]	11020
-11508	V	27500-3/4	Wide	TV	TVN Style	No	MPEG-4/HD|Conax|Mediaguard|Nagravision|Viaccess	15823	533	830[Pol]|831[Qaa]	11020
-11508	V	27500-3/4	Wide	TV	TVN Turbo	No	MPEG-4/HD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	15824	534	840[Pol]|841[Qaa]	11020
-11508	V	27500-3/4	Wide	TV	TVN Turbo	No	MPEG-4/HD|Conax|Mediaguard|Nagravision|Viaccess	15825	534	840[Pol]|841[Qaa]	11020
-11508	V	27500-3/4	Wide	TV	TVN 24	No	MPEG-4/HD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	15826	535	850[Pol]|851[Qaa]	11020
-11508	V	27500-3/4	Wide	TV	TVN 7	No	MPEG-4/HD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	15827	536	860[Pol]|861[Qaa]	11020
-11508	V	27500-3/4	Wide	TV	TVN Fabula	No	MPEG-4/HD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	15830	538	880[Pol]|881[Qaa]	11020
-11508	V	27500-3/4	Wide	TV	TTV	No	MPEG-4/HD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	15831	539	890[Pol]|890[Qaa]	11020
-11508	V	27500-3/4	Wide	TV	Travel Channel Polska	No	MPEG-4/HD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	15832	540	900[Pol]|901[Qaa]	11020
-11508	V	27500-3/4	Wide	TV	Food Network Polska	No	MPEG-4/HD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	15833	541	910[Pol]|911[Qaa]	11020
-11508	V	27500-3/4	Wide	TV	TVN (Poland)	No	MPEG-4/HD|Irdeto|Nagravision	15850	532	820[Pol]|821[Qaa]	11020
-11508	V	27500-3/4	Wide	TV	TVN 7	No	MPEG-4/HD|Irdeto|Nagravision	15851	536	860[Pol]|861[Qaa]	11020
-11508	V	27500-3/4	Wide	TV	Food Network Polska	No	MPEG-4/HD|Conax|Mediaguard|Nagravision	15852	541	910[Pol]|911[Qaa]	11020
-11526	H	29700-2/3	Wide	TV	SRF Info	Yes	MPEG-4/HD	14053	522	523[Ger]|524[Eng]|525[Ger]	11035
-11526	H	29700-2/3	Wide	R	Radio SRF 1	Yes		14021		211[Ger]	11035
-11526	H	29700-2/3	Wide	R	Radio SRF 2 Kultur	Yes		14022		212[Ger]	11035
-11526	H	29700-2/3	Wide	R	Radio SRF 3	Yes		14023		213[Ger]	11035
-11526	H	29700-2/3	Wide	R	Radio SRF Virus	Yes		14024		214[Ger]	11035
-11526	H	29700-2/3	Wide	R	Radio SRF Musikwelle	Yes		14025		215[Ger]	11035
-11526	H	29700-2/3	Wide	R	Radio Rumantsch	Yes		14026		216[Roh]	11035
-11526	H	29700-2/3	Wide	R	RTS La 1ère	Yes		14027		217[Fre]	11035
-11526	H	29700-2/3	Wide	R	RTS Espace 2	Yes		14028		218[Fre]	11035
-11526	H	29700-2/3	Wide	R	RTS Couleur 3	Yes		14029		219[Fre]	11035
-11526	H	29700-2/3	Wide	R	RTS Option Musique	Yes		14030		220[Fre]	11035
-11526	H	29700-2/3	Wide	R	RSI Rete Uno	Yes		14031		221[Ita]	11035
-11526	H	29700-2/3	Wide	R	RSI Rete Due	Yes		14032		222[Ita]	11035
-11526	H	29700-2/3	Wide	R	RSI Rete Tre	Yes		14033		223[Ita]	11035
-11526	H	29700-2/3	Wide	R	Radio Swiss Classic Deutsch	Yes		14034		224[Ger]	11035
-11526	H	29700-2/3	Wide	R	Radio Swiss Pop	Yes		14035		225[Ger]	11035
-11526	H	29700-2/3	Wide	R	Radio Swiss Jazz	Yes		14036		226[Ger]	11035
-11526	H	29700-2/3	Wide	R	Radio SRF 4 News	Yes		14037		227[Ger]	11035
-11526	H	29700-2/3	Wide	R	Radio Swiss Classic Français	Yes		14039		229[Fre]	11035
-11526	H	29700-2/3	Wide	R	Radio SRF 1 Aargau Solothurn	Yes		14040		23.[Ger]	11035
-11526	H	29700-2/3	Wide	R	Radio SRF 1 Basel Baselland	Yes		14041		231[Ger]	11035
-11526	H	29700-2/3	Wide	R	Radio SRF 1 Bern Freiburg Wallis	Yes		14042		232[Ger]	11035
-11526	H	29700-2/3	Wide	R	Radio SRF 1 Zentralschweiz	Yes		14043		233[Ger]	11035
-11526	H	29700-2/3	Wide	R	Radio SRF 1 Ostschweiz	Yes		14044		234[Ger]	11035
-11526	H	29700-2/3	Wide	R	Radio SRF 1 Zürich Schaffhausen	Yes		14045		235[Ger]	11035
-11526	H	29700-2/3	Wide	R	Radio SRF 1 Graubünden	Yes		14046		236[Ger]	11035
-11526	H	29700-2/3	Wide	R	Radio Swiss Classic Italiano	Yes		14047		237[Ita]	11035
-11541	V	22000-5/6	Wide	TV	Simay-Azadi Iran National TV	Yes	MPEG-4/HD	3623	6230	6231[Per]	11063
-11541	V	22000-5/6	Wide	TV	Spike Italia	No	MPEG-4/SD|Nagravision|Videoguard	3624	6240	6241[Ita]|6242[Eng]	11063
-11541	V	22000-5/6	Wide	TV	VH1 Italia	No	Nagravision|Videoguard	3625	.250	6251[Ita]	11063
-11541	V	22000-5/6	Wide	TV	Paramount Network Italia	No	MPEG-4/SD|Nagravision|Videoguard	3627	6276	6271[Ita]|6272[Eng]	11063
-11541	V	22000-5/6	Wide	TV	TG Norba 24	Yes		3628	6280	6281[Ita]	11063
-11541	V	22000-5/6	Wide	R	Radio Buon Consiglio	Yes		3636		3510[Ita]	11063
-11566	H	29900-3/4	Wide	TV	Qatar TV	Yes	MPEG-4/HD	798	780	781[Ara]	11070
-11566	H	29900-3/4	Wide	TV	TRT Arabi	Yes	MPEG-4/HD	799	790	791[Ara]	11070
-11566	H	29900-3/4	Wide	TV	Belarus 24	Yes	MPEG-4/HD	800	810	820[Rus]	11070
-11566	H	29900-3/4	Wide	TV	EuroNews English	Yes	MPEG-4/HD	801	811	821[Eng]	11070
-11566	H	29900-3/4	Wide	TV	KTV 1 (Kuwait)	Yes	MPEG-4/HD	802	812	822[Ara]	11070
-11566	H	29900-3/4	Wide	TV	TRT World	Yes	MPEG-4/HD	803	813	823[Eng]	11070
-11566	H	29900-3/4	Wide	TV	Bahrain TV	Yes	MPEG-4/HD	806	816	826[Ara]	11070
-11566	H	29900-3/4	Wide	TV	France 24 Français	Yes	MPEG-4/HD	807	817	827[Fre]|837[Fre]	11070
-11566	H	29900-3/4	Wide	TV	France 24 English	Yes	MPEG-4/HD	808	818	828[Eng]|838[Eng]	11070
-11566	H	29900-3/4	Wide	TV	CNN International Europe	No	MPEG-4/HD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	809	819	829[Eng]	11070
-11566	H	29900-3/4	Wide	R	Kuwait Radio One	Yes		804		824[Ara]	11070
-11566	H	29900-3/4	Wide	R	AlQuran Alkarem	Yes		805		825[Ara]	11070
-11566	H	29900-3/4	Wide	R	Radio Belarus	Yes		810		830	11070
-11585	V	27500-5/6	Wide	TV	CCTV 4 Europe	Yes	MPEG-4/HD	871	512	650[Chi]	11084
-11585	V	27500-5/6	Wide	TV	CGTN	Yes	MPEG-4/HD	872	513	660[Eng]	11084
-11585	V	27500-5/6	Wide	TV	CGTN Documentary	Yes	MPEG-4/HD	873	514	670[Eng]	11084
-11585	V	27500-5/6	Wide	TV	CGTN Español	Yes	MPEG-4/HD	874	515	6.0[Spa]	11084
-11585	V	27500-5/6	Wide	TV	CGTN Français	Yes	MPEG-4/HD	875	516	690[Fre]	11084
-11623	V	27500-3/4	Wide	TV	Tele Congo	Yes		10701	221	241[Fre]	11091
-11623	V	27500-3/4	Wide	TV	Arirang World	Yes		10715	225	245[Eng]	11091
-11623	V	27500-3/4	Wide	TV	Soyuz	Yes		10723	243	253[Rus]	11091
-11623	V	27500-3/4	Wide	TV	Mezzo	No	Conax|Mediaguard|Nagravision|Viaccess	10725	125	135[Fre]	11091
-11623	V	27500-3/4	Wide	TV	ERT World	Yes		10726	226	326[Gre]	11091
-11623	V	27500-3/4	Wide	R	Radio Congo	Yes		10501		341[Fre]	11091
-11623	V	27500-3/4	Wide	R	Proto Programma	Yes		10727		317[Gre]	11091
-11623	V	27500-3/4	Wide	R	Deftero Programma	Yes		10728		328[Gre]	11091
-11623	V	27500-3/4	Wide	R	Trito Programma	Yes		10729		329[Gre]	11091
-11623	V	27500-3/4	Wide	R	ERA Spor	Yes		10730		330[Gre]	11091
-11623	V	27500-3/4	Wide	R	I Foni tis Elladas	Yes		10731		331	11091
-11623	V	27500-3/4	Wide	R	Radio 2000 (Israel)	Yes		10763		293[Heb]	11091
-11623	V	27500-3/4	Wide	R	France Maghreb 2 Province	Yes		10766		296[Fre]	11091
-11623	V	27500-3/4	Wide	R	Radio Orient (France)	Yes		10767		297[Ara]	11091
-11642	H	27500-3/4	Wide	TV	RTL 102.5 RadioVisione	Yes	MPEG-4/HD	1307	1801	1802[Ita]	11106
-11642	H	27500-3/4	Wide	TV	Radio Freccia TV	Yes	MPEG-4/HD	1308	1811	1812[Ita]	11106
-11642	H	27500-3/4	Wide	TV	I24 News Français	Yes	MPEG-4/HD	1309	1821	1822[Fre]	11106
-11642	H	27500-3/4	Wide	TV	I24 News English	Yes	MPEG-4/HD	1310	1831	1832[Eng]	11106
-11642	H	27500-3/4	Wide	TV	Radionorba TV	Yes	MPEG-2/SD	1311	1841	1842[Ita]	11106
-11642	H	27500-3/4	Wide	TV	KBS World	Yes	MPEG-4/HD	1313	1861	1862[Kor]	11106
-11642	H	27500-3/4	Wide	TV	HRT International	Yes	MPEG-4/SD	1314	1871	1872[Hrv]	11106
-11642	H	27500-3/4	Wide	TV	Sat TV promo	No	MPEG-4/HD	1316	1891	1892[Eng]	11106
-11642	H	27500-3/4	Wide	TV	Kurdistan TV	Yes	MPEG-4/HD	1317	1901	.902[Kur]	11106
-11642	H	27500-3/4	Wide	TV	Daystar TV	Yes	MPEG-4/HD	1318	1911	1912[Eng]	11106
-11642	H	27500-3/4	Wide	TV	Bethel TV (Peru)	Yes	MPEG-4/HD	1320	1931	1932[Spa]	11106
-11642	H	27500-3/4	Wide	TV	Radio Zeta Radiovisione	Yes	MPEG-4/HD	1321	1941	1942[Ita]	11106
-11642	H	27500-3/4	Wide	TV	RTL 102.5 Viaradio	Yes	MPEG-4/HD	1323	1961	1962[Ita]	11106
-11642	H	27500-3/4	Wide	TV	ReteSette	Yes	MPEG-4/SD	1328	1741	1742[Ita]	11106
-11642	H	27500-3/4	Wide	R	Glas Hrvatske	Yes		1319		1921[Hrv]	11106
-11662	V	27500-3/4	Wide	TV	Privé TV	No	MPEG-4/SD|Irdeto|Nagravision|Viaccess	16902	1551	1552	11122
-11662	V	27500-3/4	Wide	TV	Sexto Senso	No	MPEG-4/SD|Irdeto|Nagravision|Viaccess	16904	1561	1562[Ita]	11122
-11662	V	27500-3/4	Wide	TV	Pink' o TV	No	MPEG-4/SD|Irdeto|Nagravision|Viaccess	16905	1541	1542[Ita]	11122
-11662	V	27500-3/4	Wide	TV	Passion XXX	No	MPEG-4/SD|Irdeto|Nagravision|Viaccess	16906	1581	1582	11122
-11662	V	27500-3/4	Wide	TV	Emilia-Romagna 24	Yes	MPEG-4/SD	16920	1251	1252[Ita]	11122
-11662	V	27500-3/4	Wide	TV	TRM h24	Yes	MPEG-4/SD	16922	1351	1352[Ita]	11122
-11662	V	27500-3/4	Wide	TV	Canale Italia	Yes	MPEG-4/SD	16925	1361	1362[Ita]	11122
-11662	V	27500-3/4	Wide	TV	SCT	No	MPEG-4/SD|Irdeto|Nagravision|Viaccess	16926	1501	1502[Ita]	11122
-11662	V	27500-3/4	Wide	TV	Just 89	No	MPEG-4/SD|Irdeto|Nagravision|Viaccess	16927	1511	1512[Ita]	11122
-11662	V	27500-3/4	Wide	TV	Redlight HD	No	MPEG-4/HD|Conax|Irdeto|Mediaguard|Nagravision|Prowill|Viaccess	16932	225	235[Eng]	11122
-11662	V	27500-3/4	Wide	TV	Tele Moda	Yes	MPEG-4/SD	16937	1151	1152[Ita]	11122
-11662	V	27500-3/4	Wide	TV	Aurora Arte	Yes	MPEG-4/SD	16938	2181	2182[Ita]	11122
-11662	V	27500-3/4	Wide	TV	Life 120 Channel	Yes	MPEG-4/SD	16939	1121	1122[Ita]	11122
-11662	V	27500-3/4	Wide	TV	Vivid Red	No	MPEG-4/HD|Irdeto|Nagravision	16942	2110	2111[Eng]	11122
-11662	V	27500-3/4	Wide	TV	Padre Pio TV	Yes	MPEG-4/HD	16952	650	651[Ita]	11122
-11662	V	27500-3/4	Wide	TV	Tele 5 (Poland)	Yes	MPEG-4/SD	16955	2011	2012[Pol]	11122
-11662	V	27500-3/4	Wide	TV	Polonia 1	Yes	MPEG-4/SD	16956	2021	2022[Pol]	11122
-11662	V	27500-3/4	Wide	TV	Water Planet	No	MPEG-4/SD|Irdeto|Nagravision	16958	2041	2042[Pol]	11122
-11662	V	27500-3/4	Wide	TV	Novela TV	No	MPEG-4/SD|Irdeto|Nagravision	16960	2061	2062[Pol]	11122
-11662	V	27500-3/4	Wide	TV	TVR International	Yes	MPEG-4/SD	16961	2967	3.67[Rum]	11122
-11662	V	27500-3/4	Wide	TV	Radio Italia TV	Yes	MPEG-4/HD	16962	1010	1012[Ita]	11122
-11662	V	27500-3/4	Wide	TV	Unire Sat	Yes	MPEG-4/HD	16963	2963	3963[Ita]	11122
-11662	V	27500-3/4	Wide	TV	Arte Atelier	Yes	MPEG-4/SD	16964	1101	1102[Ita]	11122
-11662	V	27500-3/4	Wide	TV	Antichità Chiossone	Yes	MPEG-4/SD	16965	1976	1977[Eng]	11122
-11662	V	27500-3/4	Wide	TV	Radio Italia Trend TV	Yes	MPEG-4/HD	16966	1968	1969[Ita]	11122
-11662	V	27500-3/4	Wide	TV	Suryoyo Sat	Yes	MPEG-4/SD	16967	2447	2448[Syr]	11122
-11662	V	27500-3/4	Wide	TV	Kiss Kiss TV	Yes	MPEG-4/HD	16976	2017	2018[Ita]	11122
-11662	V	27500-3/4	Wide	TV	RDS Social TV	Yes	MPEG-4/HD	16977	5302	5303[Ita]	11122
-11662	V	27500-3/4	Wide	TV	QVC Italia	Yes	MPEG-4/HD	16979	1833	1834[Ita]	11122
-11662	V	27500-3/4	Wide	TV	BFC Forbes	Yes	MPEG-4/SD	16980	1111	1112[Ita]	11122
-11662	V	27500-3/4	Wide	TV	TVA Vicenza	Yes	MPEG-4/SD	16988	1993	1994[Ita]	11122
-11662	V	27500-3/4	Wide	TV	Videolina	Yes	MPEG-4/SD	16992	2195	2193[Ita]	11122
-11662	V	27500-3/4	Wide	TV	DigiQuest promo	No	MPEG-4/SD	16998	2001	2202[Ita]	11122
-11662	V	27500-3/4	Wide	TV	Vivid Red	No	MPEG-4/HD|Irdeto|Nagravision|Prowill|Viaccess	16999	2110	2111[Eng]	11122
-11662	V	27500-3/4	Wide	R	Radio Number One	Yes		16981		199[Ita]	11122
-11662	V	27500-3/4	Wide	R	Radio Sportiva	Yes		16982		1983[Ita]	11122
-11681	H	27500-3/4	Wide	TV	ARTE Français	Yes	MPEG-4/HD	307	571	572[Fre]|573[Ger]|57.[Qaa]	11159
-11727	V	29900-3/4	Wide	TV	DW English	Yes	MPEG-4/HD	13101	1010	1011[Eng]	12000
-11727	V	29900-3/4	Wide	TV	BBC Arabic	Yes	MPEG-4/HD	13102	1020	1021[Ara]	12000
-11727	V	29900-3/4	Wide	TV	Pobeda International	Yes	MPEG-4/HD	13103	1030	1031[Rus]	12000
-11727	V	29900-3/4	Wide	TV	Globecast promo	No	MPEG-4/HD	13196	1960	1961[Eng]	12000
-11727	V	29900-3/4	Wide	R	DW-Radio 8	Yes		13121		1211	12000
-11727	V	29900-3/4	Wide	R	DW-Radio 9	Yes		13122		1221	12000
-11727	V	29900-3/4	Wide	R	DW-Radio FM 1	Yes		13123		1231	12000
-11727	V	29900-3/4	Wide	R	DW-Radio FM 2	Yes		13124		1241	12000
-11727	V	29900-3/4	Wide	R	BBC World Service Horn of Africa	Yes		13126		12.1	12000
-11727	V	29900-3/4	Wide	R	BBC World Service Arabic	Yes		13127		1271[Ara]	12000
-11727	V	29900-3/4	Wide	R	BBC World Service English Europe	Yes		13128		1281[Eng]	12000
-11727	V	29900-3/4	Wide	R	BBC World Service English Middle East	Yes		13129		1291[Eng]	12000
-11747	H	27500-3/4	Wide	TV	Sharjah TV	Yes	MPEG-4/HD	9504	4341	4342[Ara]	12013
-11747	H	27500-3/4	Wide	TV	Abu Dhabi Sports 1	Yes	MPEG-4/HD	9507	4371	4372[Ara]|4373[Eng]	12013
-11747	H	27500-3/4	Wide	TV	Zad TV	Yes	MPEG-4/SD	9509	4591	4592[Ara]	12013
-11747	H	27500-3/4	Wide	TV	Alsharqiya TV	Yes	MPEG-4/HD	9510	113	78[Ara]	12013
-11747	H	27500-3/4	Wide	TV	Al Arabiya	Yes	MPEG-4/HD	9513	515	643[Ara]	12013
-11747	H	27500-3/4	Wide	TV	Sky News Arabia	Yes	MPEG-2/SD	9516	4312	.313[Ara]	12013
-11747	H	27500-3/4	Wide	TV	Orient News	Yes	MPEG-2/SD	9518	4411	4412[Ara]	12013
-11747	H	27500-3/4	Wide	R	Orient News Radio	Yes		9518		4412[Ara]	12013
-11747	H	27500-3/4	Wide	R	Sharjah Radio	Yes		9521		4654[Ara]	12013
-11766	V	29900-3/4	Wide	TV	Rai 1	No	MPEG-4/HD|Nagravision	3401	5.1	601[Ita]|621[Qaa]	12023
-11766	V	29900-3/4	Wide	TV	Rai 2	No	MPEG-4/HD|Nagravision	3402	502	602[Ita]|622[Qaa]	12023
-11766	V	29900-3/4	Wide	TV	Rai 3	No	MPEG-4/HD|Nagravision	3403	503	603[Ita]	12023
-11766	V	29900-3/4	Wide	TV	Rai Sport + HD	No	MPEG-4/HD|Nagravision	3404	504	604[Ita]	12023
-11766	V	29900-3/4	Wide	TV	Rai News 24	No	MPEG-4/HD|Nagravision	3405	505	605[Ita]	12023
-11766	V	29900-3/4	Wide	TV	Rai Storia	No	MPEG-4/HD|Nagravision	3406	506	606[Ita]	12023
-11766	V	29900-3/4	Wide	TV	Rai 5	No	MPEG-4/HD|Nagravision	3407	507	607[Ita]	12023
-11804	V	27500-2/3	Wide	TV	Camera dei Deputati	Yes		3302	517	655[Ita]	12032
-11804	V	27500-2/3	Wide	TV	Rai Sport	Yes		3303	513	613[Ita]	12032
-11804	V	27500-2/3	Wide	TV	Rai Storia	Yes		3304	514	614[Ita]	12032
-11804	V	27500-2/3	Wide	TV	Rai Gulp	Yes		3305	515	615[Ita]	12032
-11804	V	27500-2/3	Wide	TV	Rai Yoyo	No	Nagravision	3306	516	616[Ita]	12032
-11804	V	27500-2/3	Wide	TV	Rai Scuola	Yes		3307	518	618[Ita]	12032
-11804	V	27500-2/3	Wide	TV	Uninettuno University TV	Yes		3308	519	657[Ita]	12032
-11804	V	27500-2/3	Wide	TV	Rai Premium	No	Nagravision	3309	520	620[Ita]	12032
-11804	V	27500-2/3	Wide	TV	Rai 5	No	Nagravision	3310	521	621[Ita]|631[Qaa]	12032
-11804	V	27500-2/3	Wide	TV	Senato TV	Yes		3314	522	622[Ita]	12032
-11804	V	27500-2/3	Wide	R	Rai Radio 1	Yes		3311		670[Ita]	12032
-11804	V	27500-2/3	Wide	R	Rai Radio 2	Yes		3312		671[Ita]	12032
-11804	V	27500-2/3	Wide	R	Rai Radio 3	Yes		3313		672[Ita]	12032
-11804	V	27500-2/3	Wide	R	Rai Radio 3 Classica	Yes		3315		665[Ita]	12032
-11804	V	27500-2/3	Wide	R	Rai Gr Parlamento	Yes		3317		664[Ita]	12032
-11804	V	27500-2/3	Wide	R	Rai Isoradio	Yes		3318		661[Ita]	12032
-11804	V	27500-2/3	Wide	R	Rai Radio Techete'	Yes		3319		662[Ita]	12032
-11804	V	27500-2/3	Wide	R	Rai Radio Live	Yes		3320		667[Ita]	12032
-11804	V	27500-2/3	Wide	R	Rai Radio Kids	Yes		3321		668[Ita]	12032
-11804	V	27500-2/3	Wide	R	Rai Radio 2 Indie	Yes		3322		669[Ita]	12032
-11823	H	27500-3/4	Wide	R	Ecclesia Radio	Yes		310		671[Gre]	12053
-11919	V	29900-5/6	Wide	TV	Italia 1	No	Nagravision|Videoguard	1	16.0	1621[Ita]|1622[Qaa]	12059
-11919	V	29900-5/6	Wide	TV	Canale 5	No	Nagravision|Videoguard	2	1610	1611[Ita]|1612[Qaa]	12059
-11919	V	29900-5/6	Wide	TV	Rete 4	No	Nagravision|Videoguard	3	1630	1631[Ita]|1632[Qaa]	12059
-11919	V	29900-5/6	Wide	TV	Iris	No	Nagravision|Videoguard	4	1670	1671[Ita]|1672[Qaa]	12059
-11919	V	29900-5/6	Wide	TV	Boing Italia	No	Nagravision	6	1680	1681[Ita]	12059
-11919	V	29900-5/6	Wide	TV	La 5	No	Nagravision|Videoguard	7	1730	1731[Ita]|1732[Qaa]	12059
-11919	V	29900-5/6	Wide	TV	TGCom 24	Yes		8	1810	1811[Ita]	12059
-11919	V	29900-5/6	Wide	TV	Mediaset Extra	No	Nagravision|Videoguard	9	1760	1761[Ita]	12059
-11919	V	29900-5/6	Wide	TV	Italia 2	No	Nagravision|Videoguard	10	1780	1781[Ita]|1782[Qaa]	12059
-11919	V	29900-5/6	Wide	TV	Top Crime (Italy)	No	Nagravision|Videoguard	12	1770	1771[Ita]|1772[Qaa]	12059
-11919	V	29900-5/6	Wide	TV	Cartoonito Italia	No	Nagravision	13	940	941[Ita]	12059
-11919	V	29900-5/6	Wide	TV	Focus	No	Nagravision|Videoguard	14	1050	1051[Ita]|1052[Qaa]	12059
-11919	V	29900-5/6	Wide	TV	20 Mediaset	No	Nagravision|Videoguard	15	730	731[Ita]	12059
-11919	V	29900-5/6	Wide	TV	La 7	No	Nagravision	71	980	981[Ita]	12059
-11919	V	29900-5/6	Wide	TV	La 7 d	No	Nagravision	72	10.0	1001[Ita]	12059
-11919	V	29900-5/6	Wide	R	R101	Yes		101		952[Ita]	12059
-11919	V	29900-5/6	Wide	R	Radio Monte Carlo	Yes		102		953[Ita]	12059
-11919	V	29900-5/6	Wide	R	MC 2	Yes		103		954[Ita]	12059
-11919	V	29900-5/6	Wide	R	Virgin Radio Italia	Yes		104		956[Ita]	12059
-11919	V	29900-5/6	Wide	R	Radio 105	Yes		105		951[Ita]	12059
-11919	V	29900-5/6	Wide	R	Orbital 101.9 FM	Yes		106		957[Por]	12059
-12034	V	29900-5/6	Wide	TV	TV 2000	Yes		11180	169	436[Ita]	12086
-12034	V	29900-5/6	Wide	R	Radio InBlu	Yes		11131		432[Ita]	12086
-12034	V	29900-5/6	Wide	R	InBlu 2000	Yes		11174		434[Ita]	12086
-12034	V	29900-5/6	Wide	R	Vatican Radio 105 FM	Yes		11181		433	12086
-12111	V	27500-3/4	Wide	TV	Aljazeera Documentary	Yes		705	240	241[Ara]	13000
-12111	V	27500-3/4	Wide	TV	Aljazeera Mubasher	Yes		706	250	251[Ara]	13000
-12111	V	27500-3/4	Wide	TV	Aljazeera Channel	Yes		708	270	271[Ara]	13000
-12111	V	27500-3/4	Wide	TV	Sender Neu Jerusalem	Yes		723	345	346[Ger]	13000
-12111	V	27500-3/4	Wide	TV	Elsharq	Yes		727	1128	1640[Ara]	13000
-12111	V	27500-3/4	Wide	TV	Al Mayadeen TV	Yes		735	1403	2403[Ara]	13000
-12111	V	27500-3/4	Wide	TV	Canale Italia 83	Yes		756	1381	1382[Ita]	13000
-12111	V	27500-3/4	Wide	TV	Canale Italia 84	Yes		757	1391	1392[Ita]	13000
-12111	V	27500-3/4	Wide	TV	QVC Italia	Yes		780	1335	1336[Ita]	13000
-12111	V	27500-3/4	Wide	TV	RIK Sat	Yes		782	108	102[Gre]	13000
-12111	V	27500-3/4	Wide	TV	Mekameleen TV	Yes		785	151	152[Ara]	13000
-12111	V	27500-3/4	Wide	TV	MTA 2	Yes	MPEG-4/HD	788	2354	2355[Hin]|2356[Urd]|2357[Eng]|2358[Fre]|2359[Ger]|2360[Ara]|2361[Ben]	13000
-12111	V	27500-3/4	Wide	R	Radio Maria Italia	Yes		732		42[Ita]	13000
-12111	V	27500-3/4	Wide	R	RIK Trito	Yes		733		104[Gre]	13000
-12111	V	27500-3/4	Wide	R	Radio Dimensione Suono	Yes		736		46[Ita]	13000
-12111	V	27500-3/4	Wide	R	Dimensione Suono Roma	Yes		737		47[Ita]	13000
-12111	V	27500-3/4	Wide	R	Radio Italia Anni 60	Yes		738		48[Ita]	13000
-12111	V	27500-3/4	Wide	R	Radio Italia	Yes		740		50[Ita]	13000
-12111	V	27500-3/4	Wide	R	Radio Kiss Kiss	Yes		742		74[Ita]	13000
-12111	V	27500-3/4	Wide	R	Radio Padre Pio	Yes		744		54[Ita]	13000
-12111	V	27500-3/4	Wide	R	Radio EuroSpin	Yes		749		59[Ita]	13000
-12111	V	27500-3/4	Wide	R	Radio Radicale	Yes		761		61[Ita]	13000
-12111	V	27500-3/4	Wide	R	Dimensione Suono Soft Nord	Yes		766		109[Ita]	13000
-12111	V	27500-3/4	Wide	R	Dimensione Suono Soft Centro	Yes		767		107[Ita]	13000
-12111	V	27500-3/4	Wide	R	DiscoRadio	Yes		768		112[Ita]	13000
-12111	V	27500-3/4	Wide	R	Radio Radio	Yes		769		66[Ita]	13000
-12149	V	27500-3/4	Wide	TV	Watania 1	Yes		7202	112	113[Ara]	13028
-12149	V	27500-3/4	Wide	TV	CCTV 4 Europe	Yes		7224	224	3911[Chi]	13028
-12149	V	27500-3/4	Wide	TV	PMC	Yes		7225	2251	2252[Per]	13028
-12149	V	27500-3/4	Wide	TV	Alalam News Channel	Yes		7226	2261	2262[Ara]	13028
-12149	V	27500-3/4	Wide	TV	RTV San Marino	Yes	MPEG-4/HD	7254	5171	5172[Ita]	13028
-12149	V	27500-3/4	Wide	TV	Bayyinat TV	Yes		7279	3312	3313[Ara]	13028
-12149	V	27500-3/4	Wide	R	Radio Freccia	Yes		3630		3516[Ita]	13028
-12149	V	27500-3/4	Wide	R	Radio Margherita	Yes		3631		6310[Ita]	13028
-12149	V	27500-3/4	Wide	R	Radio Italia	Yes		3632		6320[Ita]	13028
-12149	V	27500-3/4	Wide	R	Radio Cusano Campus	Yes		3633		6330[Ita]	13028
-12149	V	27500-3/4	Wide	R	Radio Sportiva	Yes		3637		3512[Ita]	13028
-12149	V	27500-3/4	Wide	R	RTL 102.5 FM	Yes		3642		6420[Ita]	13028
-12149	V	27500-3/4	Wide	R	Radio Zeta FM	Yes		3643		6430[Ita]	13028
-12149	V	27500-3/4	Wide	R	Radio 24 (Italy)	Yes		3644		3526[Ita]	13028
-12149	V	27500-3/4	Wide	R	Radio Onda d'Urto	Yes		3645		3531[Ita]	13028
-12149	V	27500-3/4	Wide	R	DiscoRadio	Yes		3650		3539[Ita]	13028
-12149	V	27500-3/4	Wide	R	Radio Deejay	Yes		3651		3542[Ita]	13028
-12149	V	27500-3/4	Wide	R	Radio Capital	Yes		3652		3544[Ita]	13028
-12149	V	27500-3/4	Wide	R	M2o	Yes		3653		3546[Ita]	13028
-12149	V	27500-3/4	Wide	R	Radio Iglesias	Yes		3654		3548[Ita]	13028
-12149	V	27500-3/4	Wide	R	Radio Popolare	Yes		3656		3553[Ita]	13028
-12149	V	27500-3/4	Wide	R	Radio Nationale	Yes		7250		116[Ara]	13028
-12149	V	27500-3/4	Wide	R	Radio Tunis Chaîne Internationale	Yes		7251		117	13028
-12149	V	27500-3/4	Wide	R	Radio San Marino	Yes		7255		2553[Ita]	13028
-12149	V	27500-3/4	Wide	R	Radio Alamal FM	Yes		7279		3314[Ara]	13028
-12149	V	27500-3/4	Wide	R	Radio Mater	Yes		7280		3641[Ita]	13028
-12169	H	27500-3/4	Wide	TV	Vouli Tileorasi	Yes	MPEG-4/SD	384	517	700[Gre]	13055
-12188	V	27500-3/4	Wide	TV	TV Okazje	Yes	MPEG-4/SD	7309	265	266[Pol]	13057
-12188	V	27500-3/4	Wide	R	Muzo FM	Yes		7321		721[Pol]	13057
-12188	V	27500-3/4	Wide	R	RMF Classic	Yes		7322		722[Pol]	13057
-12188	V	27500-3/4	Wide	R	RMF Maxxx	Yes		7326		726[Pol]	13057
-12188	V	27500-3/4	Wide	R	Radio Zlote Przeboje	Yes		7328		728[Pol]	13057
-12226	V	27500-3/4	Wide	TV	Nastoyashcheye Vremya	Yes	MPEG-4/HD	1	1760	1720[Rus]	13064
-12226	V	27500-3/4	Wide	TV	Nastoyashcheye Vremya	Yes	MPEG-2/SD	2	1860	1820[Rus]	13064
-12226	V	27500-3/4	Wide	TV	VoA TV Europe	Yes	MPEG-4/HD	100	360	361	13064
-12226	V	27500-3/4	Wide	TV	Radio Farda TV	Yes		223	1560	1532[Per]	13064
-12226	V	27500-3/4	Wide	TV	VoA TV Persian	Yes		225	1660	1620[Per]	13064
-12226	V	27500-3/4	Wide	TV	VoA TV Persian	Yes	MPEG-4/HD	235	1960	1920[Per]	13064
-12226	V	27500-3/4	Wide	TV	VoA TV Europe	Yes	MPEG-2/SD	240	3260	3220	13064
-12226	V	27500-3/4	Wide	TV	VoA TV Global	Yes	MPEG-4/HD	340	5060	5020[Eng]	13064
-12226	V	27500-3/4	Wide	R	Voice of America (HB 3)	Yes		101		3222	13064
-12226	V	27500-3/4	Wide	R	Radio Free Europe/Radio Liberty (HB 4)	Yes		101		3222[Rus]	13064
-12226	V	27500-3/4	Wide	R	Voice of America (HB 5)	Yes		102		3230[Ukr]	13064
-12226	V	27500-3/4	Wide	R	Radio Free Europe/Radio Liberty (HB 6)	Yes		102		3230[Arm]	13064
-12226	V	27500-3/4	Wide	R	Voice of America (HB 7)	Yes		103		3232[Geo]	13064
-12226	V	27500-3/4	Wide	R	Radio Free Europe/Radio Liberty (HB 8)	Yes		103		3232[Bel]	13064
-12226	V	27500-3/4	Wide	R	VoA 1 (HB 9)	Yes		104		3520[Eng]	13064
-12226	V	27500-3/4	Wide	R	Voice of America (HB 11)	Yes		105		3522	13064
-12226	V	27500-3/4	Wide	R	Radio Slobodna Evropa Makedonija	Yes		105		3522[Mac]	13064
-12226	V	27500-3/4	Wide	R	Voice of America (HB 13)	Yes		106		3530	13064
-12226	V	27500-3/4	Wide	R	Radio Slobodna Evropa	Yes		106		3530	13064
-12226	V	27500-3/4	Wide	R	VoA Africa Live (HB 15)	Yes		107		4622[Eng]	13064
-12226	V	27500-3/4	Wide	R	Voice of America	Yes		107		4622	13064
-12226	V	27500-3/4	Wide	R	Radio France Internationale (HB 17)	Yes		108		3430[Fre]	13064
-12226	V	27500-3/4	Wide	R	Voice of America (HB 18)	Yes		108		3430	13064
-12226	V	27500-3/4	Wide	R	VoA 1	Yes		109		3432[Eng]	13064
-12226	V	27500-3/4	Wide	R	Radio Evropa e Lirë	Yes		109		3432[Alb]	13064
-12226	V	27500-3/4	Wide	R	Voice of America (HB 21)	Yes		110		3130	13064
-12226	V	27500-3/4	Wide	R	Radio Free Europe/Radio Liberty (HB 21)	Yes		110		3130	13064
-12226	V	27500-3/4	Wide	R	Voice of America (HB 22)	Yes		110		3130[Kir]	13064
-12226	V	27500-3/4	Wide	R	Radio Free Europe/Radio Liberty (HB 22)	Yes		110		3130[Kir]	13064
-12226	V	27500-3/4	Wide	R	VoA Eastern Europe (HB 23)	Yes		111		3132	13064
-12226	V	27500-3/4	Wide	R	Radio Free Europe/Radio Liberty (HB 23)	Yes		111		3132	13064
-12226	V	27500-3/4	Wide	R	VoA Eastern Europe (HB 24)	Yes		111		3132	13064
-12226	V	27500-3/4	Wide	R	Radio Free Europe/Radio Liberty (HB 24)	Yes		111		3132	13064
-12226	V	27500-3/4	Wide	R	Radio Free Europe/Radio Liberty (HB 25)	Yes		113		3830	13064
-12226	V	27500-3/4	Wide	R	Radio Free Europe/Radio Liberty (HB 26)	Yes		113		3830	13064
-12226	V	27500-3/4	Wide	R	Radio Sawa Levant (HB 29)	Yes		114		4520[Ara]	13064
-12226	V	27500-3/4	Wide	R	Radio Sawa Iraq (HB 31)	Yes		115		452.[Ara]	13064
-12226	V	27500-3/4	Wide	R	Voice of America	Yes		116		4530	13064
-12226	V	27500-3/4	Wide	R	Radio Sawa Gulf (HB 35)	Yes		117		4532[Ara]	13064
-12226	V	27500-3/4	Wide	R	Radio Sawa North Africa	Yes		118		4030[Ara]	13064
-12226	V	27500-3/4	Wide	R	Radio Free Asia	Yes		119		4032	13064
-12226	V	27500-3/4	Wide	R	Voice of America	Yes		121		3832[Ara]	13064
-12226	V	27500-3/4	Wide	R	Radio Sawa Sudan	Yes		122		4222[Ara]	13064
-12226	V	27500-3/4	Wide	R	Radio Sawa Lebanon	Yes		123		4232[Ara]	13064
-12226	V	27500-3/4	Wide	R	Radio Svoboda	Yes		201		1122[Rus]	13064
-12226	V	27500-3/4	Wide	R	Radio Svoboda Ukraina	Yes		202		1130[Ukr]	13064
-12226	V	27500-3/4	Wide	R	Radio Ozodi	Yes		203		1132[Tgk]	13064
-12226	V	27500-3/4	Wide	R	Radio Svaboda	Yes		205		1220[Bel]	13064
-12226	V	27500-3/4	Wide	R	Radio Tavisupleba	Yes		206		1222[Geo]	13064
-12226	V	27500-3/4	Wide	R	Radio Azatutyun	Yes		207		1230[Arm]	13064
-12226	V	27500-3/4	Wide	R	Deewa Radio	Yes		208		1232	13064
-12226	V	27500-3/4	Wide	R	Mashaal Radio	Yes		210		1320[Pus]	13064
-12226	V	27500-3/4	Wide	R	Azattyk Unalgysy	Yes		211		1322[Kir]	13064
-12226	V	27500-3/4	Wide	R	Ozodlik Radiosi	Yes		212		1330[Uzb]	13064
-12226	V	27500-3/4	Wide	R	Azadliq Radiosu	Yes		213		1332[Aze]	13064
-12226	V	27500-3/4	Wide	R	Voice of America	Yes		216		1422	13064
-12226	V	27500-3/4	Wide	R	Azatlyk Radiosy	Yes		217		143.[Tuk]	13064
-12226	V	27500-3/4	Wide	R	Krym Realii	Yes		218		1432[Rus]	13064
-12226	V	27500-3/4	Wide	R	Radio Liberty North Caucasus	Yes		220		1520	13064
-12226	V	27500-3/4	Wide	R	Radio Europa Libera	Yes		221		1.22[Rum]	13064
-12226	V	27500-3/4	Wide	R	Radio Slobodna Evropa	Yes		222		1530	13064
-12226	V	27500-3/4	Wide	R	Radio Farda	Yes		226		1622[Per]	13064
-12226	V	27500-3/4	Wide	R	Radio Evropa e Lirë	Yes		227		1630[Alb]	13064
-12226	V	27500-3/4	Wide	R	Ekho Kavkaza	Yes		228		1632[Rus]	13064
-12226	V	27500-3/4	Wide	R	Voice of America (HB 89)	Yes		295		3122	13064
-12226	V	27500-3/4	Wide	R	Radio Sawa Egypt	Yes		308		5022[Ara]	13064
-12226	V	27500-3/4	Wide	R	Voice of America	Yes		310		5032[Urd]	13064
-12303	V	27500-3/4	Wide	TV	Record TV Europa	Yes	MPEG-2/SD	1	1000	33[Por]	13135
-12303	V	27500-3/4	Wide	TV	Telesur (Venezuela)	Yes	MPEG-2/SD	783	2101	2102[Spa]	13135
-12303	V	27500-3/4	Wide	TV	TBN Europe	Yes	MPEG-4/HD	801	8001	8101[Eng]	13135
-12303	V	27500-3/4	Wide	TV	Life TV (Estonia)	Yes	MPEG-2/SD	802	8002	8102[Rus]	13135
-12303	V	27500-3/4	Wide	TV	Hillsong Channel	Yes	MPEG-2/SD	804	8004	8104[Eng]	13135
-12303	V	27500-3/4	Wide	TV	Al Horreya TV	Yes	MPEG-2/SD	806	8006	8106[Ara]	13135
-12303	V	27500-3/4	Wide	TV	TBN Polska	Yes	MPEG-2/SD	807	8007	8107[Pol]	13135
-12303	V	27500-3/4	Wide	TV	TBN Nejat TV	Yes	MPEG-2/SD	809	8009	8109[Per]	13135
-12303	V	27500-3/4	Wide	TV	Kanal Hayat	Yes	MPEG-2/SD	810	8010	8110[Tur]	13135
-12303	V	27500-3/4	Wide	TV	TCI	Yes	MPEG-2/SD	3203	8003	8103[Ita]	13135
-12303	V	27500-3/4	Wide	TV	TVE Internacional Europa	Yes	MPEG-4/HD	3501	3521	3522[Spa]	13135
-12303	V	27500-3/4	Wide	TV	Canal 24 Horas	Yes	MPEG-4/HD	3502	3569	3570[Spa]	13135
-12303	V	27500-3/4	Wide	R	RNE Radio Nacional	Yes		3581		3523[Spa]	13135
-12303	V	27500-3/4	Wide	R	RNE Radio Clásica	Yes		3582		3531[Spa]	13135
-12303	V	27500-3/4	Wide	R	RNE Radio 3	Yes		3583		3539[Spa]	13135
-12303	V	27500-3/4	Wide	R	RNE Radio 5	Yes		3584		3547[Spa]	13135
-12303	V	27500-3/4	Wide	R	Radio Exterior	Yes		3585		3555[Spa]	13135
-12303	V	27500-3/4	Wide	R	RNE Ràdio 4	Yes		3586		3563[Cat]	13135
-12322	H	27500-3/4	Wide	TV	Shant News	Yes		13920	308	256[Arm]	13154
-12322	H	27500-3/4	Wide	TV	BBC Persian	Yes		13944	7031	7032[Per]	13154
-12322	H	27500-3/4	Wide	TV	Detski Mir	No	Viaccess	14803	201	301[Rus]	13154
-12322	H	27500-3/4	Wide	TV	Nashe Lubimoe Kino	No	Viaccess	14804	202	302[Rus]	13154
-12322	H	27500-3/4	Wide	TV	Velayat TV Network	Yes		14807	8071	8072[Per]	13154
-12322	H	27500-3/4	Wide	TV	Iran International	Yes		14810	8101	8102[Per]	13154
-12360	H	29900-3/4	Wide	TV	CNBC Europe	Yes	MPEG-4/HD	7245	173	431[Eng]	13162
-12380	V	27500-3/4	Wide	TV	Karbala Satellite Channel	Yes	MPEG-4/SD	3012	3212	3312[Ara]	13164
-12380	V	27500-3/4	Wide	TV	CGN TV	Yes		3013	3213	3313[Kor]	13164
-12380	V	27500-3/4	Wide	TV	EuroNews Russkiy	Yes		3014	3214	3314[Rus]	13164
-12380	V	27500-3/4	Wide	TV	EuroNews Magyar	Yes		3015	3215	3315[Hun]	13164
-12380	V	27500-3/4	Wide	TV	Sunna TV (Saudi Arabia)	Yes		3017	3127	3137[Ara]	13164
-12380	V	27500-3/4	Wide	R	Al Rayyan Radio	Yes		3002		3202[Ara]	13164
-12380	V	27500-3/4	Wide	R	RFI Français	Yes		3087		3537[Fre]	13164
-12380	V	27500-3/4	Wide	R	RFI Langues Est	Yes		3088		3538	13164
-12380	V	27500-3/4	Wide	R	RFI Langues Diverse	Yes		3089		3539	13164
-12380	V	27500-3/4	Wide	R	RFI Afrique	Yes		3090		3540[Fre]	13164
-12380	V	27500-3/4	Wide	R	RFI Diverse 7	Yes		3091		3541	13164
-12380	V	27500-3/4	Wide	R	Monte Carlo Doualiya	Yes		3092		3542[Ara]	13164
-12399	H	29700-2/3	Wide	TV	Sama Dubai	Yes	MPEG-4/HD	903	1301	1302[Ara]	13177
-12399	H	29700-2/3	Wide	TV	Dubai TV International	Yes	MPEG-4/HD	905	101	102[Ara]	13177
-12399	H	29700-2/3	Wide	TV	Dubai Sports	Yes	MPEG-4/HD	906	201	202[Eng]|203[Ara]	13177
-12399	H	29700-2/3	Wide	TV	Sudan TV	Yes	MPEG-2/SD	907	313	326[Ara]	13177
-12399	H	29700-2/3	Wide	TV	Al Masriyah	Yes	MPEG-2/SD	910	316	329[Ara]	13177
-12399	H	29700-2/3	Wide	TV	Jordan TV	Yes	MPEG-2/SD	914	320	333[Ara]	13177
-12399	H	29700-2/3	Wide	TV	Libya Al Wataniya	Yes	MPEG-2/SD	916	322	335[Ara]	13177
-12399	H	29700-2/3	Wide	TV	Oman TV	Yes	MPEG-4/HD	920	340	341[Ara]	13177
-12399	H	29700-2/3	Wide	R	Noor Dubai Radio	Yes		904		1401[Ara]	13177
-12399	H	29700-2/3	Wide	R	Sudan Radio	Yes		908		.27[Ara]	13177
-12399	H	29700-2/3	Wide	R	Holy Quran Radio (Sudan)	Yes		909		328[Ara]	13177
-12399	H	29700-2/3	Wide	R	Sout Al-Arab (Voice of the Arabs)	Yes		911		.30[Ara]	13177
-12399	H	29700-2/3	Wide	R	El-Bernameg Al-Aam (Main General Program)	Yes		912		331[Ara]	13177
-12399	H	29700-2/3	Wide	R	El-Quran El-Karim	Yes		913		332[Ara]	13177
-12399	H	29700-2/3	Wide	R	Radio Jordan	Yes		915		334[Ara]	13177
-12399	H	29700-2/3	Wide	R	Radio Oman	Yes		921		343[Ara]	13177
-12399	H	29700-2/3	Wide	R	Radio Oman FM	Yes		922		345[Eng]	13177
-12399	H	29700-2/3	Wide	R	Al-Shabab	Yes		923		347[Ara]	13177
-12399	H	29700-2/3	Wide	R	Holy Quran Radio (Oman)	Yes		924		349[Ara]	13177
-12476	H	29900-3/4	Wide	TV	RT News	Yes	MPEG-4/HD	2001	2011	2012[Eng]|2013[Eng]	13200
-12476	H	29900-3/4	Wide	TV	RT Documentary	Yes	MPEG-4/HD	2002	2021	2022[Eng]|2023[Eng]	13200
-12476	H	29900-3/4	Wide	TV	Super Tennis	Yes	MPEG-4/HD	2003	2031	2032[Ita]	13200
-12476	H	29900-3/4	Wide	TV	Telepace	Yes	MPEG-4/HD	2004	2041	2042[Ita]	13200
-12476	H	29900-3/4	Wide	TV	2M Monde	Yes	MPEG-4/SD	2005	2051	2052[Ara]	13200
-12476	H	29900-3/4	Wide	TV	BBC Brit Polska	No	MPEG-4/HD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	2006	2061	2062[Pol]|2063[Eng]	13200
-12476	H	29900-3/4	Wide	TV	CBeebies Polska	No	MPEG-4/SD|Conax|Irdeto|Mediaguard|Nagravision|Viaccess	2009	2091	2092[Pol]|2093[Eng]	13200
-12476	H	29900-3/4	Wide	TV	BBC Lifestyle Polska	No	MPEG-4/HD|Conax|Irdeto|Nagravision|Viaccess	2011	2111	2112[Pol]|2113[Eng]	13200
-12476	H	29900-3/4	Wide	TV	EuroNews Italiano	Yes	MPEG-4/SD	2017	2171	2172[Ita]	13200
-12476	H	29900-3/4	Wide	TV	EuroNews Ellinika	Yes	MPEG-4/SD	2018	2181	2182[Gre]	13200
-12476	H	29900-3/4	Wide	TV	Equidia Pro 1	No	MPEG-4/HD|Viaccess	2096	2961	2962[Fre]|2963[Eng]|2964[Ger]	13200
-12476	H	29900-3/4	Wide	TV	Equidia Pro 2	No	MPEG-4/HD|Viaccess	2097	2971	[Fre]	13200
-12476	H	29900-3/4	Wide	TV	Al Rayyan Al Qadeem	Yes	MPEG-4/HD	2100	3001	.002[Ara]	13200
-12476	H	29900-3/4	Wide	R	Radio Vaticana Telepace	Yes		2004		2043	13200
-12476	H	29900-3/4	Wide	R	Sout Al Islam	Yes		2101		3102[Ara]	13200
-12476	H	29900-3/4	Wide	R	Radio 2M	Yes		2104		3104	13200
-12520	V	27500-5/6	Wide	TV	Ronahî TV	No		9003	1031	1032[Kur]	14000
-12520	V	27500-5/6	Wide	TV	Med Muzîk	Yes		9004	1041	1042[Kur]	14000
-12520	V	27500-5/6	Wide	TV	Fadak TV	Yes		9005	1051	1052[Ara]	14000
-12520	V	27500-5/6	Wide	TV	Alaraby TV 2	Yes	MPEG-4/HD	9006	1061	1062[Ara]	14000
-12520	V	27500-5/6	Wide	TV	NetViet	Yes		9007	1071	1072[Vie]	14000
-12520	V	27500-5/6	Wide	TV	Angel TV Europe	Yes		9009	1091	1092[Eng]	14000
-12520	V	27500-5/6	Wide	TV	Stêrk	Yes	MPEG-4/HD	9011	1111	1112[Kur]	14000
-12520	V	27500-5/6	Wide	TV	Çira TV	Yes	MPEG-4/HD	9012	1121	1122[Kur]	14000
-12520	V	27500-5/6	Wide	TV	Syria TV	Yes	MPEG-4/HD	9014	1141	1142[Ara]	14000
-12520	V	27500-5/6	Wide	TV	Somaliland National TV	Yes		9016	1161	1162[Som]	14000
-12520	V	27500-5/6	Wide	TV	The Kingdom Sat	Yes		9018	1181	1182[Ara]	14000
-12520	V	27500-5/6	Wide	R	Radio Hargeisa	No		9056		2052	14000
-12520	V	27500-5/6	Wide	R	Quran Radio Hargeisa	No		9057		2062	14000
-12539	H	30000-5/6	Wide	TV	FTV UHD	Yes	HEVC/UHD 4K	1102	121	122	14014
-12539	H	30000-5/6	Wide	TV	Love Nature	No	HEVC/UHD 4K|Conax|Viaccess	1103	131	132[Eng]|133[Tur]|3104[Rus]|3105[Bul]|3106[Cze]	14014
-12539	H	30000-5/6	Wide	TV	MyZen TV 4K	No	HEVC/UHD 4K|Nagravision|Viaccess	1104	1041	1042[Eng]|1044[Fre]|1045[Rus]|1046[Tur]	14014
-12539	H	30000-5/6	Wide	TV	Insight UHD	No	HEVC/UHD 4K|Viaccess	1105	1051	1052[Eng]|1053[Ger]|1054[Pol]|1055[Eng]	14014
-12577	H	27500-3/4	Wide	TV	Aljazeera Channel	Yes	MPEG-4/HD	1601	6011	6012[Ara]	14020
-12577	H	27500-3/4	Wide	TV	Italian Fishing TV	Yes	MPEG-4/SD	1602	6021	6022[Ita]	14020
-12577	H	27500-3/4	Wide	TV	Wine TV	Yes	MPEG-4/SD	1603	6031	6032[Ita]	14020
-12577	H	27500-3/4	Wide	TV	Italia Channel	Yes	MPEG-4/SD	1605	6051	6052[Ita]	14020
-12577	H	27500-3/4	Wide	TV	CNC World English	Yes	MPEG-4/HD	1612	6121	6122[Eng]	14020
-12577	H	27500-3/4	Wide	TV	MS Motor TV	Yes	MPEG-4/SD	1613	6131	6132[Ita]	14020
-12577	H	27500-3/4	Wide	TV	MS Channel	Yes	MPEG-4/SD	1614	6141	6142[Ita]	14020
-12577	H	27500-3/4	Wide	TV	Canal Algérie 2	Yes	MPEG-4/HD	1615	6151	6152[Ara]	14020
-12577	H	27500-3/4	Wide	TV	Algérie 3	Yes	MPEG-4/HD	1616	6161	6162[Ara]	14020
-12577	H	27500-3/4	Wide	TV	TV Art Live	Yes	MPEG-4/SD	1617	6171	6172[Ita]	14020
-12597	V	27500-3/4	Wide	TV	BBC Arabic	Yes	MPEG-4/SD	8203	1001	1011[Ara]	14031
-12597	V	27500-3/4	Wide	TV	BBC World News Europe	Yes		8204	1.3	92[Eng]	14031
-12597	V	27500-3/4	Wide	TV	Perviy kanal Europa	Yes		8208	167	108[Rus]	14031
-12597	V	27500-3/4	Wide	TV	CNN International Europe	No	Conax|Irdeto|Mediaguard|Nagravision|Viaccess	8209	168	112[Eng]	14031
-12597	V	27500-3/4	Wide	TV	JSTV 1	No	Conax	8213	2000	2001[Jpn]|2002[Eng]	14031
-12597	V	27500-3/4	Wide	TV	JSTV 2	No	Conax	8214	2011	2012[Jpn]|2013[Eng]	14031
-12597	V	27500-3/4	Wide	TV	Perviy kanal Europa	Yes	MPEG-4/SD	8293	2301	2311[Rus]	14031
-12597	V	27500-3/4	Wide	TV	RT Documentary	Yes		8295	6101	6111[Eng]	14031
-12597	V	27500-3/4	Wide	R	BBC World Service Horn of Africa	Yes		8202		1411	14031
-12597	V	27500-3/4	Wide	R	BBC World Service Arabic	Yes		8205		1111[Ara]	14031
-12597	V	27500-3/4	Wide	R	BBC World Service English Europe	Yes		8206		1211[Eng]	14031
-12597	V	27500-3/4	Wide	R	BBC World Service English Middle East	Yes		8207		1311[Eng]	14031
-12597	V	27500-3/4	Wide	R	National Prison Radio	Yes		8227		2126[Eng]	14031
-12616	H	29900-5/6	Wide	IMG	[Sky Italia info card]	No		11302	163		14045
-12616	H	29900-5/6	Wide	TV	Class TV Moda	Yes		11306	170	412[Ita]	14045
-12616	H	29900-5/6	Wide	TV	[Sky Sport info card]	No		11311	174	[Ita]	14045
-12654	H	27500-5/6	Wide	TV	[test card]	No	MPEG-4/SD	2	134	1220	14050
-12654	H	27500-5/6	Wide	TV	Saudi TV	Yes		3	1360	612[Ara]	14050
-12654	H	27500-5/6	Wide	TV	[test card]	No	MPEG-4/SD	4	1460	1420	14050
-12654	H	27500-5/6	Wide	TV	Iqraa Arabic	Yes		5	1560	1520[Ara]	14050
-12654	H	27500-5/6	Wide	TV	Sudan TV	Yes		6	1660	1620[Ara]	14050
-12654	H	27500-5/6	Wide	TV	Oman TV	Yes	MPEG-4/HD	7	1760	1720[Ara]	14050
-12654	H	27500-5/6	Wide	TV	Egyptian TV	Yes		8	1860	1820[Ara]	14050
-12654	H	27500-5/6	Wide	TV	Jordan TV	Yes		40	4060	4020[Ara]	14050
-12654	H	27500-5/6	Wide	TV	Quran TV (Saudi Arabia)	Yes		42	4260	4220[Ara]	14050
-12654	H	27500-5/6	Wide	TV	Libya Al Wataniya	Yes		43	4360	4320[Ara]	14050
-12654	H	27500-5/6	Wide	R	Riyadh Radio	Yes		13		1321[Ara]	14050
-12654	H	27500-5/6	Wide	R	Sudan Radio	Yes		16		1621[Ara]	14050
-12654	H	27500-5/6	Wide	R	Radio Oman	Yes		17		1721[Ara]	14050
-12654	H	27500-5/6	Wide	R	Sout Al-Arab (Voice of the Arabs)	Yes		18		1821[Ara]	14050
-12654	H	27500-5/6	Wide	R	Saudia Radio	Yes		23		1322[Ara]	14050
-12654	H	27500-5/6	Wide	R	Holy Quran Radio (Sudan)	Yes		26		1622[Ara]	14050
-12654	H	27500-5/6	Wide	R	Radio Oman FM	Yes		27		1722[Eng]	14050
-12654	H	27500-5/6	Wide	R	El-Bernameg Al-Aam (Main General Program)	Yes		28		1822[Ara]	14050
-12654	H	27500-5/6	Wide	R	Al-Shabab	Yes		37		1922[Ara]	14050
-12654	H	27500-5/6	Wide	R	El-Quran El-Karim	Yes		38		1522[Ara]	14050
-12654	H	27500-5/6	Wide	R	Holy Quran Radio (Oman)	Yes		47		4720[Ara]	14050
-12654	H	27500-5/6	Wide	R	Radio Jordan	Yes		50		5081[Ara]	14050
-12673	V	29900-5/6	Wide	R	Radio 105	Yes		14547		423[Ita]	14073
-12673	V	29900-5/6	Wide	R	Virgin Radio Italia	Yes		14548		424[Ita]	14073
-12673	V	29900-5/6	Wide	R	R101	Yes		14552		425[Ita]	14073
-12673	V	29900-5/6	Wide	R	Radio Monte Carlo	Yes		14556		422[Ita]	14073
-12692	H	27500-3/4	Wide	TV	BFM TV	Yes	MPEG-4/SD	415	751	752[Fre]	14078
-12692	H	27500-3/4	Wide	TV	C Star	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	417	771	772[Fre]	14078
-12692	H	27500-3/4	Wide	TV	Gulli	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	418	781	782[Fre]	14078
-12692	H	27500-3/4	Wide	TV	France Ô	No	MPEG-4/SD|Conax|Mediaguard|Nagravision|Viaccess	419	791	792[Fre]	14078
-12692	H	27500-3/4	Wide	TV	Game One	No	MPEG-4/SD|Viaccess	420	4201	4202[Fre]	14078
-12692	H	27500-3/4	Wide	TV	Equidia	No	MPEG-4/SD|Viaccess	421	4211	4212[Fre]	14078
-12692	H	27500-3/4	Wide	TV	RTL 9	No	MPEG-4/HD|Viaccess	451	101	201[Fre]|301[Qaa]	14078
-12692	H	27500-3/4	Wide	TV	AB 1	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	452	102	202[Fre]	14078
-12692	H	27500-3/4	Wide	TV	Automoto la chaîne	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	453	103	203[Fre]|303[Tur]	14078
-12692	H	27500-3/4	Wide	TV	Animaux	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	454	104	204[Fre]|304[Tur]|604[Eng]	14078
-12692	H	27500-3/4	Wide	TV	Chasse & Pêche	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	455	105	205[Fre]|305[Tur]|605[Bul]|705[Rus]	14078
-12692	H	27500-3/4	Wide	TV	Paramount Channel France	No	MPEG-4/SD|Nagravision|Viaccess	456	106	206[Fre]	14078
-12692	H	27500-3/4	Wide	TV	Crime District	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	457	107	207[Fre]	14078
-12692	H	27500-3/4	Wide	TV	Trek	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	458	108	208[Fre]|308[Tur]	14078
-12692	H	27500-3/4	Wide	TV	Toute l'Histoire	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	459	109	209[Fre]	14078
-12692	H	27500-3/4	Wide	TV	Action (France)	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	461	111	211[Fre]|311[Qaa]	14078
-12692	H	27500-3/4	Wide	TV	Mangas	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	462	112	212[Fre]	14078
-12692	H	27500-3/4	Wide	TV	Science & Vie TV	No	MPEG-4/HD|Mediaguard|Nagravision|Viaccess	463	113	213[Fre]|313[Tur]	14078
-12692	H	27500-3/4	Wide	TV	Téva	No	MPEG-4/SD|Viaccess	466	116	216[Fre]|316[Qaa]	14078
-12692	H	27500-3/4	Wide	TV	XXL	No	MPEG-4/SD|Irdeto|Mediaguard|Nagravision|Viaccess	468	118	218[Fre]	14078
-12692	H	27500-3/4	Wide	TV	Golf Channel France	No	MPEG-4/SD|Mediaguard|Nagravision|Viaccess	470	120	220[Fre]	14078
+ 3651	L	40450-2/3	C	TV	RTS 1 (Senegal)	Yes	MPEG-2/SD	3101	1012	1013[Fre]	8000
+ 3651	L	40450-2/3	C	TV	Télé Tchad	Yes	MPEG-4/SD	3102	1021	1022[Fre]	8000
+ 3651	L	40450-2/3	C	TV	Equinoxe TV	Yes	MPEG-4/SD	3103	1031	1032[Fre]	8000
+ 3651	L	40450-2/3	C	TV	Alwilayah TV Hausa	Yes	MPEG-4/SD	3104	1041	1042[Hau]	8000
+ 3651	L	40450-2/3	C	TV	Divin Amour TV	Yes	MPEG-4/SD	3106	1061	1062[Fre]	8000
+ 3651	L	40450-2/3	C	TV	Sikka TV	Yes	MPEG-4/SD	3113	1131	1132[Fre]	8000
+ 3651	L	40450-2/3	C	TV	Nina sat	No	MPEG-4/SD	3114	1141	1142[Fre]	8000
+ 3651	L	40450-2/3	C	TV	Private TV	No	MPEG-4/HD|RedCrypter	3115	1151	1152[Eng]	8000
+ 3651	L	40450-2/3	C	TV	Redlight HD	No	MPEG-4/HD|RedCrypter	3116	1161	1162[Eng]	8000
+ 3651	L	40450-2/3	C	TV	Vivid Red	No	MPEG-4/HD|RedCrypter	3117	1171	1172[Eng]	8000
+ 3651	L	40450-2/3	C	TV	RTI 1	No	MPEG-4/SD|Conax	3118	1181	1182[Fre]	8000
+ 3651	L	40450-2/3	C	TV	RTI 2	No	MPEG-4/SD|Conax	3119	1191	1192[Fre]	8000
+ 3651	L	40450-2/3	C	TV	Duck TV SD	No	MPEG-4/SD|Conax	3120	1201	1202[Eng]	8000
+ 3651	L	40450-2/3	C	TV	Fix & Foxi	No	MPEG-4/SD|Conax	3121	1211	1212[Eng]	8000
+ 3651	L	40450-2/3	C	TV	ST Sports 3	No	MPEG-4/SD|Conax	3122	1221	1222[Eng]	8000
+ 3651	L	40450-2/3	C	TV	ST Sports Premium	No	MPEG-4/SD|Conax	3123	1231	.232[Eng]	8000
+ 3651	L	40450-2/3	C	TV	ST Kids	No	MPEG-4/SD|Conax	3124	1241	1242[Eng]	8000
+ 3651	L	40450-2/3	C	TV	ST Kungfu	No	MPEG-4/SD|Conax	3125	1251	1252[Eng]|1253[Fre]	8000
+ 3651	L	40450-2/3	C	TV	ST Sino Drama	No	MPEG-4/SD|Conax	3126	1261	1262[Eng]|1263[Fre]	8000
+ 3651	L	40450-2/3	C	TV	ST Bollywood	No	MPEG-4/SD|Conax	3127	1271	1272[Eng]	8000
+ 3651	L	40450-2/3	C	TV	RT News	No	MPEG-4/SD|Conax	3128	1281	1282[Eng]	8000
+ 3651	L	40450-2/3	C	TV	RT France	No	MPEG-4/SD|Conax	3129	1291	1292[Fre]	8000
+ 3651	L	40450-2/3	C	TV	Penthouse Black	No	MPEG-4/SD|Conax	3130	1301	1302[Fre]	8000
+ 3651	L	40450-2/3	C	TV	Penthouse Passion	No	MPEG-4/SD|Conax	3131	1311	1312[Eng]	8000
+ 3651	L	40450-2/3	C	TV	Baby TV Europe	No	MPEG-4/SD|Conax	3132	1321	1322[Fre]|1323[Eng]	8000
+ 3651	L	40450-2/3	C	TV	Voyage	No	MPEG-4/SD|Conax	3133	1331	1332[Fre]	8000
+ 3651	L	40450-2/3	C	TV	National Geographic France	No	MPEG-4/SD|Conax	3134	1341	1342[Fre]	8000
+ 3651	L	40450-2/3	C	TV	Nat Geo Wild France	No	MPEG-4/SD|Conax	3135	1351	1352[Fre]	8000
+ 3651	L	40450-2/3	C	TV	ESPN Africa	No	MPEG-4/SD|Conax	3136	1361	1362[Fre]|1363[Eng]	8000
+ 3651	L	40450-2/3	C	TV	ESPN 2 Africa	No	MPEG-4/SD|Conax	3137	1371	1372[Eng]	8000
+ 3651	L	40450-2/3	C	TV	Tivi 5 Monde	No	MPEG-4/SD|Conax	3139	1391	1392[Fre]	8000
+ 3651	L	40450-2/3	C	TV	TV 5 Monde Afrique	No	MPEG-4/SD|Conax	3140	1401	1402[Fre]	8000
+ 3651	L	40450-2/3	C	TV	TV 5 Monde Style HD	No	MPEG-4/SD|Conax	3141	1411	1412[Fre]	8000
+ 3651	L	40450-2/3	C	R	Radio Tchad	Yes		3105		1052[Fre]	8000
+ 4111	R	30000-3/4	C	TV	Bundesliga tests	No	MPEG-4/SD	506	5061	5062	9006
+ 4111	R	30000-3/4	C	TV	TVC News	Yes	MPEG-4/SD	1009	902	903[Eng]	9006
+ 4111	R	30000-3/4	C	TV	StarTimes TV Guide Uganda	Yes	MPEG-4/SD	1040	4002	4003[Eng]	9006
+ 4153	R	30000-3/4	C	TV	CNC World English	Yes	MPEG-4/SD	2019	1902	1903[Eng]	9011
+ 4164	L	556-1/2	C	R	Africa N° 1 Paris	Yes		1000		101[Fre]	9013
+11013	V	30000-3/5	Transalpine	TV	Rai Sport	Yes	MPEG-2/SD	8562	232	242[Ita]|342[Qaa]	10001
+11013	V	30000-3/5	Transalpine	TV	Rai Scuola	Yes	MPEG-2/SD	8565	2.5	244[Ita]	10001
+11013	V	30000-3/5	Transalpine	TV	Rai 5	Yes	MPEG-2/SD	8576	234	254[Ita]|354[Qaa]	10001
+11013	V	30000-3/5	Transalpine	TV	Rai Storia	Yes	MPEG-2/SD	8577	236	255[Ita]	10001
+11013	V	30000-3/5	Transalpine	R	Rai Radio 3 Classica	Yes		8570		250[Ita]	10001
+11013	V	30000-3/5	Transalpine	R	Rai Gr Parlamento	Yes		8572		252[Ita]	10001
+11013	V	30000-3/5	Transalpine	R	Rai Isoradio	Yes		8573		253[Ita]	10001
+11013	V	30000-3/5	Transalpine	R	Rai Radio Tutta Italiana	Yes		8578		256[Ita]	10001
+11013	V	30000-3/5	Transalpine	R	Rai Radio Techete'	Yes		8579		257[Ita]	10001
+11013	V	30000-3/5	Transalpine	R	Rai Radio Live	Yes		8580		258[Ita]	10001
+11013	V	30000-3/5	Transalpine	R	Rai Radio Kids	Yes		8589		259[Ita]	10001
+11013	V	30000-3/5	Transalpine	R	Rai Radio 1 Sport	Yes		8590		260[Ita]	10001
+11013	V	30000-3/5	Transalpine	R	Rai Radio 2 Indie	Yes		8591		261[Ita]	10001
+11013	V	30000-3/5	Transalpine	TV	Rai 3 Piemonte	Yes	MPEG-2/SD	3203	524	662[Ita]	10015
+11054	V	29950-3/4	Super	TV	D!ci TV	Yes	MPEG-4/SD	501	1511	1512[Fre]	10018
+11096	V	29950-3/4	Transalpine	TV	ViàVosges	Yes	MPEG-4/SD	426	2461	2462[Fre]	10022
+11096	V	29950-3/4	Transalpine	TV	KTO	Yes	MPEG-2/SD	427	2471	2472[Fre]	10022
+11096	V	29950-3/4	Transalpine	TV	RT France	Yes	MPEG-4/SD	428	2481	2482[Fre]	10022
+11137	V	29950-2/3	Super	TV	Label TV	Yes	MPEG-4/SD	1831	5311	5312[Fre]	10026
+11179	V	30000-3/5	Transalpine	TV	Rai Premium	Yes	MPEG-2/SD	8581	431	441[Ita]|541[Qaa]	10028
+11179	V	30000-3/5	Transalpine	TV	Rai Yoyo	Yes	MPEG-2/SD	8582	432	442[Ita]	10028
+11179	V	30000-3/5	Transalpine	TV	Rai 4	Yes	MPEG-2/SD	8583	433	443[Ita]|644[Qaa]	10028
+11179	V	30000-3/5	Transalpine	TV	Rai Gulp	Yes	MPEG-2/SD	8584	434	445[Ita]	10028
+11179	V	30000-3/5	Transalpine	TV	Rai Movie	Yes	MPEG-2/SD	8585	435	446[Ita]|546[Qaa]	10028
+11179	V	30000-3/5	Transalpine	TV	Rai 1	Yes	MPEG-4/HD	8588	438	449[Ita]|450[Qaa]	10028
+11179	V	30000-3/5	Transalpine	TV	Rai 2	Yes	MPEG-4/HD	8592	532	542[Ita]	10035
+11179	V	30000-3/5	Transalpine	TV	Rai 3	Yes	MPEG-4/HD	8593	533	54.[Ita]	10035
+11179	V	30000-3/5	Transalpine	TV	Rai Sport + HD	Yes	MPEG-4/HD	8599	539	649[Ita]|659[Qaa]	10035
+11179	V	30000-3/5	Transalpine	TV	Rai 3 Sardegna	Yes	MPEG-2/SD	3303	514	652[Ita]	10039
+11179	V	30000-3/5	Transalpine	R	Rai Radio 1	Yes		-		653[Ita]	10039
+11179	V	30000-3/5	Transalpine	TV	Rai 3 Campania	Yes	MPEG-2/SD	3303	514	652[Ita]	10042
+11179	V	30000-3/5	Transalpine	R	Rai Radio 1	Yes		-		653[Ita]	10042
+11456	H	2400-3/4	Transalpine	R	Skyrock	Yes		1001		1002[Fre]	11000
+11456	H	2400-3/4	Transalpine	R	NRJ France	Yes		2001		211[Fre]	11000
+11456	H	2400-3/4	Transalpine	R	Nostalgie	Yes		2002		221[Fre]	11000
+11458.2	H	543-1/2	Transalpine	R	Nostalgie Belgique	Yes		1001		101[Fre]	11004
+11458.2	H	543-1/2	Transalpine	R	NRJ Belgique	Yes		1002		111[Fre]	11004
+11465.2	H	667-3/5	Transalpine	R	Alouette	Yes		1000		101[Fre]	11007
+11465.2	H	667-3/5	Transalpine	R	Alouette	Yes		2000		201[Fre]	11007
+11465.2	H	667-3/5	Transalpine	R	Alouette	Yes		3000		301[Fre]	11007
+11465.2	H	667-3/5	Transalpine	R	Alouette	Yes		4000		401[Fre]	11007
+11471	V	29950-3/4	Transalpine	TV	MB Live TV	Yes	MPEG-4/SD	3017	2171	2172[Fre]	11012
+11471	V	29950-3/4	Transalpine	TV	D!ci TV	Yes	MPEG-4/SD	3018	2181	2182[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu 107.1	Yes		3020		2202[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Alsace	Yes		3021		2212[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Armorique	Yes		3022		2222[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Auxerre	Yes		3023		2232[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Azur	Yes		3024		2242[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Normandie Calvados - Orne	Yes		3025		2252[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Béarn	Yes		3026		2262[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Belfort-Montbéliard	Yes		3027		2272[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Berry	Yes		3028		2282[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Besançon	Yes		3029		2292[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Bourgogne	Yes		3030		2302[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Breizh Izel	Yes		3031		2312[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Champagne-Ardenne	Yes		3032		2322[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Cotentin	Yes		3033		2332[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Creuse	Yes		3034		2342[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Drôme-Ardèche	Yes		3035		2352[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu RCFM	Yes		3036		2362[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Gard Lozère	Yes		3037		2372[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Gascogne	Yes		3038		2382[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Gironde	Yes		3039		2392[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Normandie Seine-Maritime - Eure	Yes		3040		2402[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Hérault	Yes		3041		2412[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Isère	Yes		3042		2422[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu La Rochelle	Yes		3043		2432[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Limousin	Yes		3044		2442[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Loire Océan	Yes		3045		2452[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Lorraine Nord	Yes		3046		2462[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Maine	Yes		3047		2472[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Mayenne	Yes		3048		2482[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Nord	Yes		3049		2492[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Orléans	Yes		3050		2502[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Pays Basque	Yes		3051		2512[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Pays d'Auvergne	Yes		3052		2522[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Pays de Savoie	Yes		3053		2532[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Périgord	Yes		3054		2542[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Picardie	Yes		3055		2552[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Poitou	Yes		3056		2562[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Provence	Yes		3057		2572[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Roussillon	Yes		3058		2582[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Saint-Étienne Loire	Yes		3059		2592[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Sud Lorraine	Yes		3060		2602[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Occitanie	Yes		3061		2612[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Touraine	Yes		3062		2622[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Bleu Vaucluse	Yes		3063		2632[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Inter	Yes		3064		2642[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Culture	Yes		3065		2652[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	France Musique	Yes		3066		2662[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	FIP	Yes		3067		2672[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	Franceinfo: Radio	Yes		3068		2682[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	Mouv'	Yes		3069		2692[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	BFM Business Radio	Yes		3070		2702[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	RMC	Yes		3071		2712[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	Nostalgie	Yes		3072		2722[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	NRJ France	Yes		3073		2732[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	Rire & Chansons	Yes		3074		2742[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	Chérie FM	Yes		3075		2752[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	Europe 1	Yes		3076		2762[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	Virgin Radio France	Yes		3077		2772[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	RFM (France)	Yes		3078		2782[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	Africa N° 1 Libreville	Yes		3079		2792[Fre]	11012
+11471	V	29950-3/4	Transalpine	R	Radio Nova (France)	Yes		3080		2802[Fre]	11012
+11472	H	9900-4/5	Transalpine	TV	(feeds)	No		196	1962	1961	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu 107.1	Yes		100		1001[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Alsace	Yes		101		1011[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Armorique	Yes		102		1021[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Auxerre	Yes		103		1031[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Azur	Yes		104		1041[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Normandie Calvados - Orne	Yes		105		1051[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Béarn	Yes		106		1061[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Belfort-Montbéliard	Yes		107		1071[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Berry	Yes		108		1081[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Besançon	Yes		109		1091[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Bourgogne	Yes		110		1101[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Breizh Izel	Yes		111		1111[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Champagne-Ardenne	Yes		112		1121[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Cotentin	Yes		113		1131[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Creuse	Yes		114		1141[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Drôme-Ardèche	Yes		115		1151[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu RCFM	Yes		116		1161[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Gard Lozère	Yes		117		1171[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Gascogne	Yes		118		1181[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Gironde	Yes		119		1191[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Normandie Seine-Maritime - Eure	Yes		120		1201[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Hérault	Yes		121		1211[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Isère	Yes		122		1221[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu La Rochelle	Yes		123		1231[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Limousin	Yes		124		1241[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Loire Océan	Yes		125		1251[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Lorraine Nord	Yes		126		1261[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Maine	Yes		127		1271[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Mayenne	Yes		128		1281[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Nord	Yes		130		1301[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Orléans	Yes		131		1311[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Pays Basque	Yes		132		1321[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Pays d'Auvergne	Yes		133		1331[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Pays de Savoie	Yes		134		1341[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Périgord	Yes		135		1351[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Picardie	Yes		136		1361[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Poitou	Yes		137		1371[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Provence	Yes		138		1381[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Roussillon	Yes		139		1391[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Saint-Étienne Loire	Yes		140		1401[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Sud Lorraine	Yes		141		1411[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Occitanie	Yes		142		1421[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Touraine	Yes		143		1431[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	France Bleu Vaucluse	Yes		144		1441[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF National	Yes		150		1501[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Pays de l'Ain	Yes		151		1511[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Allier	Yes		152		1521[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Alpes-Provence	Yes		153		1531[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Aube Haute-Marne	Yes		154		1541[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Pays d'Aude	Yes		155		1551[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF en Berry	Yes		156		1561[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF en Bourgogne	Yes		157		1571[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Besançon	Yes		158		1581[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Drôme	Yes		159		1591[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Bordeaux	Yes		160		1601[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Alpha	Yes		161		1611[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Touraine	Yes		162		162.[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Isère	Yes		163		1631[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Loir-et-Cher	Yes		164		1641[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Haute-Loire	Yes		165		1651[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Anjou	Yes		166		1661[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Reims-Ardennes	Yes		167		1671[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Cur de Champagne	Yes		168		1681[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Lyon	Yes		169		1691[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Savoie	Yes		170		1701[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Haute-Savoie	Yes		171		1711[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Haute-Normandie	Yes		172		1721[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Vaucluse	Yes		173		1731[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Vendée	Yes		174		1741[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Poitou	Yes		175		1751[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Limousin	Yes		176		1761[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Corrèze	Yes		177		1771[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	RCF Jerico Moselle	Yes		178		1781[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	FIP	Yes		191		1911[Fre]	11076
+11472	H	9900-4/5	Transalpine	R	Radio Espérance	Yes		194		1941[Fre]	11076
+11480	H	3215-3/4	Transalpine	R	RTL	Yes		1100		1130[Fre]	11153
+11480	H	3215-3/4	Transalpine	R	RTL 2	Yes		1200		1230[Fre]	11153
+11480	H	3215-3/4	Transalpine	R	Fun Radio (France)	Yes		1300		1330[Fre]	11153
+11480	H	3215-3/4	Transalpine	R	Radio Classique	Yes		2100		2130[Fre]	11153
+11480	H	3215-3/4	Transalpine	R	Europe 1	Yes		3100		3130[Fre]	11153
+11480	H	3215-3/4	Transalpine	R	Virgin Radio France	Yes		3200		3230[Fre]	11153
+11480	H	3215-3/4	Transalpine	R	RFM (France)	Yes		3300		3330[Fre]	11153
+11480	H	3215-3/4	Transalpine	R	RMC	Yes		4100		4130[Fre]	11153
+11480	H	3215-3/4	Transalpine	R	BFM Business Radio	Yes		4200		42.0[Fre]	11153
+11480	H	3215-3/4	Transalpine	R	France Inter	Yes		5100		5130[Fre]	11153
+11480	H	3215-3/4	Transalpine	R	France Culture	Yes		5200		5230[Fre]	11153
+11480	H	3215-3/4	Transalpine	R	France Musique	Yes		5300		5330[Fre]	11153
+11480	H	3215-3/4	Transalpine	R	FIP	Yes		5400		5430[Fre]	11153
+11480	H	3215-3/4	Transalpine	R	Franceinfo: Radio	Yes		5600		5630[Fre]	11153
+11480	H	3215-3/4	Transalpine	R	Mouv'	Yes		5800		5830[Fre]	11153
+11480	H	3215-3/4	Transalpine	R	MFM Radio (France)	Yes		6100		6130[Fre]	11153
+11480	H	3215-3/4	Transalpine	R	Sud Radio	Yes		7100		7130[Fre]	11153
+11509	H	29500-8/9	Transalpine	TV	France 2	Yes	MPEG-4/HD	257	120	130[Fre]|132[Qaa]	11171
+11509	H	29500-8/9	Transalpine	TV	France 4	Yes	MPEG-4/HD	260	320	330[Fre]|332[Qaa]	11171
+11509	H	29500-8/9	Transalpine	TV	France Ô	Yes	MPEG-4/SD	261	520	530[Fre]	11171
+11509	H	29500-8/9	Transalpine	TV	Franceinfo: TV	Yes	MPEG-4/SD	262	620	630[Fre]	11171
+11509	H	29500-8/9	Transalpine	TV	France 3	Yes	MPEG-4/HD	272	220	230[Fre]|232[Qaa]	11171
+11509	H	29500-8/9	Transalpine	TV	M6	Yes	MPEG-4/HD	1025	120	130[Fre]|132[Qaa]	11177
+11509	H	29500-8/9	Transalpine	TV	W9	Yes	MPEG-4/HD	1026	220	230[Fre]|232[Qaa]	11177
+11509	H	29500-8/9	Transalpine	TV	ARTE Français	Yes	MPEG-4/HD	1031	320	330[Fre]|332[Qaa]|333[Ger]	11177
+11509	H	29500-8/9	Transalpine	TV	France 5	Yes	MPEG-4/HD	1045	420	430[Fre]|432[Qaa]	11177
+11509	H	29500-8/9	Transalpine	TV	6ter	Yes	MPEG-4/HD	1046	520	530[Fre]|532[Qaa]	11177
+11509	H	29500-8/9	Transalpine	TV	TF 1	Yes	MPEG-4/HD	1537	120	130[Fre]|131[Qaa]	11183
+11509	H	29500-8/9	Transalpine	TV	NRJ 12	Yes	MPEG-4/HD	1538	220	230[Fre]|231[Qaa]	11183
+11509	H	29500-8/9	Transalpine	TV	TMC	Yes	MPEG-4/HD	1542	620	630[Fre]|631[Qaa]	11183
+11509	H	29500-8/9	Transalpine	TV	TFX	Yes	MPEG-4/HD	1544	520	530[Fre]|531[Qaa]	11183
+11509	H	29500-8/9	Transalpine	TV	LCP Assemblée Nationale	Yes	MPEG-4/HD	1545	720	730[Fre]	11183
+11509	H	29500-8/9	Transalpine	TV	Public Sénat	Yes	MPEG-4/HD	1545	720	730[Fre]	11183
+11512	V	29950-3/4	Super	TV	Bis TV promo	No	MPEG-4/SD	213	531	532[Fre]	11190
+11554	V	29950-3/4	Transalpine	TV	Fransat Info promo	No	MPEG-4/HD	322	241	242[Fre]	11196
+11596	V	29950-2/3	Super	TV	RT France	Yes	MPEG-4/SD	1412	4121	4122[Fre]	11199
+11637	V	30000-3/5	Transalpine	TV	Rai 1	Yes	MPEG-2/SD	3401	512	650[Ita]|699[Qaa]	11201
+11637	V	30000-3/5	Transalpine	TV	Rai 2	Yes	MPEG-2/SD	3402	513	651[Ita]|696[Qaa]	11201
+11637	V	30000-3/5	Transalpine	TV	Rai 3	Yes	MPEG-2/SD	3403	514	652[Ita]	11201
+11637	V	30000-3/5	Transalpine	IMG	[test card]	No	HEVC/HD	3410	500		11201
+11637	V	30000-3/5	Transalpine	TV	Rai News 24	Yes	MPEG-2/SD	3411	520	690[Ita]	11201
+11637	V	30000-3/5	Transalpine	R	Rai Radio 1	Yes		3404		653[Ita]	11201
+11637	V	30000-3/5	Transalpine	R	Rai Radio 2	Yes		3405		654[Ita]	11201
+11637	V	30000-3/5	Transalpine	R	Rai Radio 3	Yes		3406		655[Ita]	11201
+11637	V	30000-3/5	Transalpine	TV	Rai 3 Toscana	Yes	MPEG-2/SD	3403	514	652[Ita]	11210
+11637	V	30000-3/5	Transalpine	R	Rai Radio 1	Yes		-		653[Ita]	11210
+11637	V	30000-3/5	Transalpine	TV	Rai 3 Umbria	Yes	MPEG-2/SD	3403	514	652[Ita]	11213
+11637	V	30000-3/5	Transalpine	R	Rai Radio 1	Yes		-		653[Ita]	11213
+11637	V	30000-3/5	Transalpine	TV	Rai 3 Lazio	Yes	MPEG-2/SD	3403	514	652[Ita]	11216
+11637	V	30000-3/5	Transalpine	R	Rai Radio 1	Yes		-		653[Ita]	11216
+11637	V	30000-3/5	Transalpine	TV	Rai 3 Marche	Yes	MPEG-2/SD	3403	514	652[Ita]	11219
+11637	V	30000-3/5	Transalpine	R	Rai Radio 1	Yes		-		653[Ita]	11219
+11637	V	30000-3/5	Transalpine	TV	Rai 3 Liguria	Yes	MPEG-2/SD	3403	514	652[Ita]	11222
+11637	V	30000-3/5	Transalpine	R	Rai Radio 1	Yes		-		653[Ita]	11222
+11675	H	30000-2/3	Transalpine	TV	Rai 3 Piemonte	Yes	MPEG-2/SD	3403	514	652[Ita]	11226
+11675	H	30000-2/3	Transalpine	R	Rai Radio 1	Yes		-		653[Ita]	11226
+11675	H	30000-2/3	Transalpine	TV	Rai 3 Lombardia	Yes	MPEG-2/SD	3403	514	652[Ita]	11229
+11675	H	30000-2/3	Transalpine	R	Rai Radio 1	Yes		-		653[Ita]	11229
+11675	H	30000-2/3	Transalpine	TV	Rai 3 Veneto	Yes	MPEG-2/SD	3403	514	652[Ita]	11232
+11675	H	30000-2/3	Transalpine	R	Rai Radio 1	Yes		-		653[Ita]	11232
+11675	H	30000-2/3	Transalpine	TV	Rai 3 Emilia Romagna	Yes	MPEG-2/SD	3403	514	652[Ita]	11235
+11675	H	30000-2/3	Transalpine	R	Rai Radio 1	Yes		-		653[Ita]	11235
+11675	H	30000-2/3	Transalpine	TV	Rai 3 Abruzzo	Yes	MPEG-2/SD	3403	514	652[Ita]	11238
+11675	H	30000-2/3	Transalpine	R	Rai Radio 1	Yes		-		653[Ita]	11238
+11675	H	30000-2/3	Transalpine	TV	Rai 3 Molise	Yes	MPEG-2/SD	3403	514	652[Ita]	11241
+11675	H	30000-2/3	Transalpine	R	Rai Radio 1	Yes		-		653[Ita]	11241
+11675	H	30000-2/3	Transalpine	TV	Rai 3 Basilicata	Yes	MPEG-2/SD	3403	514	652[Ita]	11244
+11675	H	30000-2/3	Transalpine	R	Rai Radio 1	Yes		-		653[Ita]	11244
+11675	H	30000-2/3	Transalpine	TV	Rai 3 Puglia	Yes	MPEG-2/SD	3403	514	652[Ita]	11247
+11675	H	30000-2/3	Transalpine	R	Rai Radio 1	Yes		-		653[Ita]	11247
+11675	H	30000-2/3	Transalpine	TV	Rai 3 Calabria	Yes	MPEG-2/SD	3403	514	652[Ita]	11250
+11675	H	30000-2/3	Transalpine	R	Rai Radio 1	Yes		-		653[Ita]	11250
+11675	H	30000-2/3	Transalpine	TV	Rai 3 Sicilia	Yes	MPEG-2/SD	3403	514	652[Ita]	11253
+11675	H	30000-2/3	Transalpine	R	Rai Radio 1	Yes		-		653[Ita]	11253
+11679	V	29950-3/4	Super	TV	[Opsis TV info card]	No	MPEG-4/HD	801	1911	1917[Fre]	11256
+11679	V	29950-3/4	Super	IMG	[test card]	No	MPEG-4/SD	802	1921		11256
+11679	V	29950-3/4	Super	IMG	[test card]	No	MPEG-4/SD	803	1931		11256
+12522	V	35500-3/4	Transalpine	TV	Rete 4	Yes	MPEG-4/HD	3004	1520	1521[Ita]|1522[Qaa]	12000
+12522	V	35500-3/4	Transalpine	TV	Canale 5	Yes	MPEG-4/HD	3005	1500	1501[Ita]|1502[Qaa]	12000
+12522	V	35500-3/4	Transalpine	TV	Italia 1	Yes	MPEG-4/HD	3006	1510	1511[Ita]|1512[Qaa]	12000
+12522	V	35500-3/4	Transalpine	TV	Radio 105 TV	Yes	MPEG-4/SD	3100	1200	1201[Ita]	12000
+12522	V	35500-3/4	Transalpine	TV	R101 TV	Yes	MPEG-4/SD	3101	1.90	1191[Ita]	12000
+12522	V	35500-3/4	Transalpine	TV	Virgin Radio TV	Yes	MPEG-4/SD	3102	88.	881[Ita]	12000
+12522	V	35500-3/4	Transalpine	TV	Boing Italia	Yes	MPEG-2/SD	145	1680	1681[Ita]	12007
+12522	V	35500-3/4	Transalpine	TV	Cartoonito Italia	Yes	MPEG-2/SD	147	1820	1821[Ita]	12007
+12522	V	35500-3/4	Transalpine	TV	20 Mediaset	Yes	MPEG-2/SD	2019	620	621[Ita]|622[Qaa]	12007
+12522	V	35500-3/4	Transalpine	TV	Top Crime (Italy)	Yes	MPEG-2/SD	2121	1770	1771[Ita]|1772[Qaa]	12007
+12522	V	35500-3/4	Transalpine	TV	Focus	Yes	MPEG-2/SD	2122	1780	1781[Ita]|1782[Qaa]	12007
+12522	V	35500-3/4	Transalpine	TV	Cine 34	Yes	MPEG-2/SD	2123	1760	1761[Ita]	12007
+12522	V	35500-3/4	Transalpine	TV	Food Network Italia	Yes	MPEG-2/SD	2148	1030	1031[Ita]	12007
+12522	V	35500-3/4	Transalpine	TV	QVC Italia	Yes	MPEG-2/SD	2149	100	101[Ita]	12007
+12543	H	34200-8/9	Transalpine	TV	Giallo	Yes	MPEG-2/SD	16	981	982[Ita]	12016
+12543	H	34200-8/9	Transalpine	TV	RTL 102.5 RadioVisione	Yes	MPEG-2/SD	21	790	791[Ita]	12016
+12543	H	34200-8/9	Transalpine	TV	HSE 24 Italia	Yes	MPEG-2/SD	22	780	781[Ita]	12016
+12543	H	34200-8/9	Transalpine	TV	Real Time Italia	Yes	MPEG-2/SD	44	2462	2463[Ita]	12016
+12543	H	34200-8/9	Transalpine	TV	DMAX Italia	Yes	MPEG-2/SD	50	1200	1201[Ita]	12016
+12543	H	34200-8/9	Transalpine	TV	Super!	Yes	MPEG-2/SD	106	556	557[Ita]	12016
+12543	H	34200-8/9	Transalpine	TV	Radio Freccia TV	Yes	MPEG-2/SD	218	800	801[Ita]	12016
+12543	H	34200-8/9	Transalpine	R	Radio Deejay	Yes		9		514[Ita]	12016
+12543	H	34200-8/9	Transalpine	R	Radio Capital	Yes		10		520[Ita]	12016
+12543	H	34200-8/9	Transalpine	R	M2o	Yes		11		516[Ita]	12016
+12543	H	34200-8/9	Transalpine	R	RTL 102.5 FM	Yes		221		792[Ita]	12016
+12543	H	34200-8/9	Transalpine	R	RTL 102.5 Viaradio	Yes		222		794[Ita]	12016
+12543	H	34200-8/9	Transalpine	R	Radio Freccia	Yes		223		802[Ita]	12016
+12543	H	34200-8/9	Transalpine	R	Radio Zeta Radiovisione	Yes	MPEG-4/SD	901		902[Ita]	12030
+12543	H	34200-8/9	Transalpine	TV	Motor Trend	Yes	MPEG-2/SD	50	201	202[Ita]	12030
+12543	H	34200-8/9	Transalpine	TV	Canale 65	Yes	MPEG-2/SD	60	301	302[Ita]	12030
+12543	H	34200-8/9	Transalpine	TV	Bom Channel	Yes	MPEG-2/SD	65	401	402[Ita]	12030
+12543	H	34200-8/9	Transalpine	TV	TV 2000	Yes	MPEG-2/SD	100	510	610[Ita]	12030
+12543	H	34200-8/9	Transalpine	TV	Sfera TV	Yes	MPEG-4/SD	110	501	502[Ita]	12030
+12543	H	34200-8/9	Transalpine	TV	Radio Cusano Italia TV	Yes	MPEG-4/SD	115	601	602[Ita]	12030
+12543	H	34200-8/9	Transalpine	TV	Kiss Kiss TV	Yes	MPEG-4/HD	120	701	702[Ita]	12030
+12543	H	34200-8/9	Transalpine	TV	Parole di Vita	Yes	MPEG-4/SD	125	801	802[Ita]	12030
+12543	H	34200-8/9	Transalpine	R	Radio Vaticana 5	Yes		105		615[Ita]	12030
+12543	H	34200-8/9	Transalpine	TV	Boing Plus	Yes	MPEG-2/SD	30	301	302[Ita]	12041
+12543	H	34200-8/9	Transalpine	TV	Super Tennis	Yes	MPEG-4/HD	40	101	102[Ita]	12041
+12543	H	34200-8/9	Transalpine	TV	Spike Italia	Yes	MPEG-2/SD	50	201	202[Ita]|.03[Eng]	12041
+12543	H	34200-8/9	Transalpine	TV	Radio Italia TV	Yes	MPEG-2/SD	60	245	246[Ita]	12041
+12543	H	34200-8/9	Transalpine	TV	VH1 Italia	Yes	MPEG-2/SD	120	6132	6133[Ita]	12041
+12543	H	34200-8/9	Transalpine	TV	Frisbee	Yes	MPEG-2/SD	146	1457	1458[Ita]	12041
+12543	H	34200-8/9	Transalpine	TV	TV 8 (Italy)	Yes	MPEG-2/SD	150	6117	6118[Ita]|6119[Eng]	12041
+12543	H	34200-8/9	Transalpine	TV	K2	Yes	MPEG-2/SD	151	981	982[Ita]	12041
+12543	H	34200-8/9	Transalpine	R	Radio Italia (Italy)	Yes		13		8005[Ita]	12041
+12543	H	34200-8/9	Transalpine	TV	Nove	Yes	MPEG-2/SD	1	8000	137[Ita]	12051
+12543	H	34200-8/9	Transalpine	TV	Cielo	Yes	MPEG-2/SD	2	166	414[Ita]	12051
+12543	H	34200-8/9	Transalpine	TV	Paramount Network Italia	Yes	MPEG-2/SD	3	301	302[Ita]|303[Eng]	12051
+12543	H	34200-8/9	Transalpine	TV	Sky TG 24 Canale 50	Yes	MPEG-2/SD	5	8002	8003[Ita]	12051
+12543	H	34200-8/9	Transalpine	TV	HGTV Italia	Yes	MPEG-2/SD	25	8010	8011[Ita]	12051
+12543	H	34200-8/9	Transalpine	TV	Mediaset Extra	Yes	MPEG-2/SD	30	8051	8052[Ita]	12051
+12543	H	34200-8/9	Transalpine	TV	Deejay TV	Yes	MPEG-4/HD	40	401	402[Ita]	12051
+12543	H	34200-8/9	Transalpine	TV	Zelig	Yes	MPEG-2/SD	161	1611	1612[Ita]	12051
+12543	H	34200-8/9	Transalpine	R	Radio Maria Italia	Yes		12		517[Ita]	12051
+12564	V	29950-2/3	Super	TV	ViàVosges	Yes	MPEG-4/SD	2947	1811	1812[Fre]	12061
+12564	V	29950-2/3	Super	TV	KTO	Yes	MPEG-2/SD	2949	1601	1602[Fre]	12061
+12564	V	29950-2/3	Super	TV	MB Live TV	Yes	MPEG-4/SD	2953	1301	1302[Fre]	12061
+12564	V	29950-2/3	Super	IMG	[Opsic TV info card]	No	MPEG-4/SD	2980	6951		12061
+12564	V	29950-2/3	Super	IMG	[test card]	No	MPEG-4/SD	2981	6961		12061
+12564	V	29950-2/3	Super	IMG	[test card]	No	MPEG-4/SD	2982	6971		12061
+12564	V	29950-2/3	Super	R	France Bleu 107.1	Yes		2900		1902[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Alsace	Yes		2901		1912[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Armorique	Yes		2902		1922[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Auxerre	Yes		2903		1932[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Azur	Yes		2904		1942[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Normandie Calvados - Orne	Yes		2905		1952[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Béarn	Yes		2906		1962[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Belfort-Montbéliard	Yes		2907		1972[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Berry	Yes		2908		1982[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Besançon	Yes		2909		1992[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Bourgogne	Yes		2910		2902[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Breizh Izel	Yes		2911		2912[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Champagne-Ardenne	Yes		2912		2922[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Cotentin	Yes		2913		2932[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Creuse	Yes		2914		2942[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Drôme-Ardèche	Yes		2915		2952[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu RCFM	Yes		2916		2962[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Gard Lozère	Yes		2917		2972[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Gascogne	Yes		2918		2982[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Gironde	Yes		2919		2992[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Normandie Seine-Maritime - Eure	Yes		2920		3902[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Hérault	Yes		2921		3912[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Isère	Yes		2922		3922[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu La Rochelle	Yes		2923		3932[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Limousin	Yes		2924		3942[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Loire Océan	Yes		2925		3952[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Lorraine Nord	Yes		2926		3962[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Maine	Yes		2927		3972[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Mayenne	Yes		2928		3982[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Nord	Yes		2929		3992[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Orléans	Yes		2930		4902[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Pays Basque	Yes		2931		4912[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Pays d'Auvergne	Yes		2932		49.2[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Pays de Savoie	Yes		2933		.932[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Périgord	Yes		2934		4942[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Picardie	Yes		2935		4952[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Poitou	Yes		2936		4962[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Provence	Yes		2937		4972[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Roussillon	Yes		2938		4982[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Saint-Étienne Loire	Yes		2939		4992[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Sud Lorraine	Yes		2940		5902[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Occitanie	Yes		2941		5912[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Touraine	Yes		2942		5922[Fre]	12061
+12564	V	29950-2/3	Super	R	France Bleu Vaucluse	Yes		2943		5932[Fre]	12061
+12564	V	29950-2/3	Super	R	France Inter	Yes		2955		1112[Fre]	12061
+12564	V	29950-2/3	Super	R	France Culture	Yes		2956		1122[Fre]	12061
+12564	V	29950-2/3	Super	R	France Musique	Yes		2957		1132[Fre]	12061
+12564	V	29950-2/3	Super	R	FIP	Yes		2958		1142[Fre]	12061
+12564	V	29950-2/3	Super	R	Franceinfo: Radio	Yes		2959		1152[Fre]	12061
+12564	V	29950-2/3	Super	R	Mouv'	Yes		2960		1162[Fre]	12061
+12564	V	29950-2/3	Super	R	BFM Business Radio	Yes		2961		1172[Fre]	12061
+12564	V	29950-2/3	Super	R	RMC	Yes		2962		1182[Fre]	12061
+12564	V	29950-2/3	Super	R	Nostalgie	Yes		2963		1192[Fre]	12061
+12564	V	29950-2/3	Super	R	NRJ France	Yes		2964		1202[Fre]	12061
+12564	V	29950-2/3	Super	R	Rire & Chansons	Yes		2965		1212[Fre]	12061
+12564	V	29950-2/3	Super	R	Chérie FM	Yes		2966		1222[Fre]	12061
+12564	V	29950-2/3	Super	R	Europe 1	Yes		2967		1232[Fre]	12061
+12564	V	29950-2/3	Super	R	Virgin Radio France	Yes		2968		1242[Fre]	12061
+12564	V	29950-2/3	Super	R	RFM (France)	Yes		2969		1252[Fre]	12061
+12564	V	29950-2/3	Super	R	Africa N° 1 Libreville	Yes		2970		1262[Fre]	12061
+12564	V	29950-2/3	Super	R	Radio Nova (France)	Yes		2976		6912[Fre]	12061
+12585	H	35000-2/3	Transalpine	TV	Sky Sport Serie A	No	MPEG-2/SD|Nagravision	5145	5591	5592[Ita]	12129
+12585	H	35000-2/3	Transalpine	TV	Premium Action	No	MPEG-2/SD|Nagravision|Videoguard	5148	440	441[Ita]|442[Qaa]	12129
+12585	H	35000-2/3	Transalpine	TV	Sky Sport Uno	No	MPEG-2/SD|Nagravision	5177	5581	5582[Ita]	12129
+12585	H	35000-2/3	Transalpine	TV	Sky Sport Uno	No	MPEG-4/HD|Nagravision	5178	5601	5602[Ita]	12129
+12585	H	35000-2/3	Transalpine	TV	Sky Sport 24	No	MPEG-2/SD|Nagravision	5179	5561	5562[Ita]	12129
+12585	H	35000-2/3	Transalpine	TV	Sky Uno	No	MPEG-2/SD|Nagravision	5180	5511	5512[Ita]|5513[Qaa]	12129
+12585	H	35000-2/3	Transalpine	TV	Sky Atlantic (Italy)	No	MPEG-2/SD|Nagravision	140	5561	5562[Ita]|5563[Qaa]	12136
+12585	H	35000-2/3	Transalpine	TV	Fox Italia	No	MPEG-2/SD|Nagravision	141	5541	5542[Ita]|5543[Qaa]	12136
+12585	H	35000-2/3	Transalpine	TV	National Geographic Italia	No	MPEG-2/SD|Nagravision	142	5551	5552[Ita]|5553[Qaa]	12136
+12585	H	35000-2/3	Transalpine	TV	Premium Stories	No	MPEG-2/SD|Nagravision|Videoguard	172	390	391[Ita]|392[Qaa]	12136
+12585	H	35000-2/3	Transalpine	TV	Premium Crime	No	MPEG-2/SD|Nagravision|Videoguard	173	630	631[Ita]|632[Qaa]	12136
+12585	H	35000-2/3	Transalpine	TV	Iorestoacasa 2	No	MPEG-2/SD|Nagravision	193	5491	[Ita]	12136
+12585	H	35000-2/3	Transalpine	TV	Iorestoacasa 1	No	MPEG-2/SD|Nagravision	194	5501	5502[Ita]	12136
+12585	H	35000-2/3	Transalpine	TV	Premium Cinema Emotion	No	MPEG-2/SD|Nagravision|Videoguard	197	400	401[Ita]|402[Qaa]	12136
+12606	V	35500-2/3	Transalpine	TV	La 7	Yes	MPEG-2/SD	711	970	971[Ita]	12145
+12606	V	35500-2/3	Transalpine	TV	La 7 d	Yes	MPEG-2/SD	712	990	991[Ita]	12145
+12606	V	35500-2/3	Transalpine	TV	La 7	Yes	MPEG-4/HD	751	1530	1532[Ita]	12145
+12606	V	35500-2/3	Transalpine	TV	La 7 d	Yes	MPEG-4/HD	752	1540	1542[Ita]	12145
+12606	V	35500-2/3	Transalpine	TV	Italia 2	Yes	MPEG-2/SD	7066	440	441[Ita]|442[Qaa]	12150
+12606	V	35500-2/3	Transalpine	TV	Premium Cinema	No	MPEG-2/SD|Nagravision|Videoguard	7122	640	641[Ita]|642[Qaa]	12150
+12606	V	35500-2/3	Transalpine	TV	Premium Cinema Energy	No	MPEG-2/SD|Nagravision|Videoguard	7123	460	461[Ita]|462[Qaa]	12150
+12606	V	35500-2/3	Transalpine	TV	Premium Cinema Comedy (Mon-Fri)	No	MPEG-2/SD|Nagravision|Videoguard	7125	420	421[Ita]|422[Qaa]	12150
+12606	V	35500-2/3	Transalpine	TV	TV 243	Yes	MPEG-4/SD	7180	3050	3051[Ita]	12150
+12606	V	35500-2/3	Transalpine	TV	TV 153	Yes	MPEG-2/SD	7190	3690	3691[Ita]	12150
+12606	V	35500-2/3	Transalpine	TV	Sportitalia	Yes	MPEG-2/SD	7191	1690	1691[Ita]	12150
+12606	V	35500-2/3	Transalpine	TV	Padre Pio TV	Yes	MPEG-2/SD	7192	650	651[Ita]	12150
+12606	V	35500-2/3	Transalpine	TV	Radio Zeta Radiovisione	Yes	MPEG-2/SD	7195	1040	1041[Ita]	12150
+12606	V	35500-2/3	Transalpine	R	R101	Yes		7102		962[Ita]	12150
+12606	V	35500-2/3	Transalpine	R	Radio 105	Yes		7103		961[Ita]	12150
+12606	V	35500-2/3	Transalpine	R	Virgin Radio Italia	Yes		7104		965[Ita]	12150
+12606	V	35500-2/3	Transalpine	R	Radio Monte Carlo	Yes		7105		963[Ita]	12150
+12648	V	29500-8/9	Transalpine	TV	TF 1 Séries Films	Yes	MPEG-4/HD	2561	120	130[Fre]|131[Qaa]	12164
+12648	V	29500-8/9	Transalpine	TV	L'Équipe	Yes	MPEG-4/HD	2562	220	230[Fre]	12164
+12648	V	29500-8/9	Transalpine	TV	Chérie 25	Yes	MPEG-4/HD	2563	320	330[Fre]|331[Qaa]	12164
+12648	V	29500-8/9	Transalpine	TV	RMC Découverte	Yes	MPEG-4/HD	2564	420	430[Fre]|431[Qaa]	12164
+12648	V	29500-8/9	Transalpine	TV	RMC Story	Yes	MPEG-4/HD	2565	520	530[Fre]|531[Qaa]	12164
+12648	V	29500-8/9	Transalpine	TV	C8	Yes	MPEG-4/HD	513	120	130[Fre]|131[Qaa]	12170
+12648	V	29500-8/9	Transalpine	TV	BFM TV	Yes	MPEG-4/HD	515	.20	330[Fre]	12170
+12648	V	29500-8/9	Transalpine	TV	C News	Yes	MPEG-4/HD	516	420	430[Fre]	12170
+12648	V	29500-8/9	Transalpine	TV	C Star	Yes	MPEG-4/HD	517	520	530[Fre]|531[Qaa]	12170
+12648	V	29500-8/9	Transalpine	TV	Gulli	Yes	MPEG-4/HD	518	620	630[Fre]|631[Qaa]	12170
+12648	V	29500-8/9	Transalpine	TV	Canal + France	Yes	MPEG-4/HD	769	910	921[Fre]	12176
+12648	V	29500-8/9	Transalpine	TV	Canal + Cinéma France	No	MPEG-4/HD|Mediaguard|Nagravision	770	210	221[Fre]|222[Qaa]	12176
+12648	V	29500-8/9	Transalpine	TV	Canal + Sport France	No	MPEG-4/HD|Mediaguard|Nagravision	771	310	321[Fre]|322[Qaa]	12176
+12648	V	29500-8/9	Transalpine	TV	Planète +	No	MPEG-4/HD|Mediaguard|Nagravision	772	410	421[Fre]	12176
+12648	V	29500-8/9	Transalpine	TV	LCI	Yes	MPEG-4/SD	776	510	521[Fre]	12176
+12648	V	29500-8/9	Transalpine	TV	Paris Première	No	MPEG-4/SD|Mediaguard|Nagravision	777	610	621[Fre]|622[Qaa]	12176
+12648	V	29500-8/9	Transalpine	TV	Canal + France	No	MPEG-4/HD|Mediaguard|Nagravision	778	110	121[Fre]|122[Qaa]	12176
+12669	H	35000-2/3	Transalpine	TV	Rete 4	Yes	MPEG-2/SD	4004	1630	1631[Ita]|1632[Qaa]	12184
+12669	H	35000-2/3	Transalpine	TV	Canale 5	Yes	MPEG-2/SD	4005	1610	1611[Ita]|1612[Qaa]	12184
+12669	H	35000-2/3	Transalpine	TV	Italia 1	Yes	MPEG-2/SD	4006	1620	1621[Ita]|1622[Qaa]	12184
+12669	H	35000-2/3	Transalpine	TV	La 5	Yes	MPEG-2/SD	4013	1730	1731[Ita]|1732[Qaa]	12184
+12669	H	35000-2/3	Transalpine	TV	TGCom 24	Yes	MPEG-2/SD	4014	1810	1811[Ita]	12184
+12669	H	35000-2/3	Transalpine	TV	Iris	Yes	MPEG-2/SD	4015	1670	1671[Ita]|1672[Qaa]	12184
+12669	H	35000-2/3	Transalpine	IMG	[test card]	No	HEVC/SD	4200	2031		12184
+12669	H	35000-2/3	Transalpine	TV	Boing Italia	Yes	MPEG-2/SD	145	1680	.681[Ita]	12192
+12669	H	35000-2/3	Transalpine	TV	Cartoonito Italia	Yes	MPEG-2/SD	147	1820	1821[Ita]	12192
+12669	H	35000-2/3	Transalpine	TV	20 Mediaset	Yes	MPEG-2/SD	2019	620	621[Ita]|622[Qaa]	12192
+12669	H	35000-2/3	Transalpine	TV	Top Crime (Italy)	Yes	MPEG-2/SD	2121	1770	1771[Ita]|1772[Qaa]	12192
+12669	H	35000-2/3	Transalpine	TV	Focus	Yes	MPEG-2/SD	2122	1780	1781[Ita]|1782[Qaa]	12192
+12669	H	35000-2/3	Transalpine	TV	Cine 34	Yes	MPEG-2/SD	2123	176.	1761[Ita]	12192
+12669	H	35000-2/3	Transalpine	TV	Food Network Italia	Yes	MPEG-2/SD	2148	1030	1031[Ita]	12192
+12669	H	35000-2/3	Transalpine	TV	QVC Italia	Yes	MPEG-2/SD	2149	.00	101[Ita]	12192
+12700	H	11167-3/4	Transalpine	TV	Quadrifoglio TV 230	Yes	MPEG-4/SD	7	8004	515[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	Quadrifoglio TV 162	Yes	MPEG-4/SD	8	8009	8010[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	Juwelo Italia	Yes	MPEG-2/SD	15	234	235[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	Channel 24 (Italy)	Yes	MPEG-2/SD	23	231	232[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	HSE 24 Donna	Yes	MPEG-4/SD	30	311	411[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	Rete Italia	Yes	MPEG-2/SD	31	301	401[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	La 4 Italia	Yes	MPEG-2/SD	32	302	402[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	Gold TV Italia (Italy)	Yes	MPEG-2/SD	33	303	403[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	Linea Gem	Yes	MPEG-2/SD	34	304	404[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	Linea Italia	Yes	MPEG-2/SD	35	305	405[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	Orler TV	Yes	MPEG-2/SD	36	306	406[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	Air Italia	Yes	MPEG-4/SD	37	307	407[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	HSE 24 Beauty	Yes	MPEG-4/SD	38	312	412[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	Donna TV	Yes	MPEG-4/SD	39	310	410[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	Canale 165	Yes	MPEG-4/SD	45	315	415[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	Rainbow	Yes	MPEG-4/SD	46	316	416[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	Fire TV (Italy)	Yes	MPEG-2/SD	95	308	408[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	Life 120 Channel	Yes	MPEG-2/SD	96	309	409[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	Top Calcio 24	Yes	MPEG-4/SD	97	313	413[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	Quadrifoglio TV 232	Yes	MPEG-4/SD	98	314	.14[Ita]	12202
+12700	H	11167-3/4	Transalpine	TV	Italia Channel	Yes	MPEG-4/SD	110	226	246[Ita]	12202

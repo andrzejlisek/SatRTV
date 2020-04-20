@@ -1,0 +1,530 @@
+Freq	Pol	SR	Beam	Type	Channel	T	Encryption	FTA	Package	Res	Compression	V_PID	A_PID	SID	Owner	Date	Row
+11727	V	30000	Wide	TV	Ziggo Sport Select HD	TV	Conax	No	Joyne	HD	MPEG-4	1201	1202[dut]|1203[eng]	802	Tokemup	14-Jan-19	2	
+11727	V	30000	Wide	TV	VTM HD	TV	Conax	No	Joyne BE	HD	MPEG-4	1401	1402[dut]	804	Tokemup	14-Jan-19	4	
+11727	V	30000	Wide	TV	vier HD	TV	Conax	No	Joyne BE	HD	MPEG-4	1501	1502[dut]	805	Tokemup	14-Jan-19	6	
+11727	V	30000	Wide	TV	vijf HD	TV	Conax	No	Joyne BE	HD	MPEG-4	1601	1602[dut]	806	Tokemup	17-Jan-19	8	
+11727	V	30000	Wide	TV	zes HD	TV	Conax	No	Joyne BE	HD	MPEG-4	1701	1702[dut]	807	Tokemup	17-Jan-19	10	
+11727	V	30000	Wide	TV	Vitaya	TV	Conax	No	Joyne BE	SD	MPEG-4	1801	1802[dut]	808	Tokemup	14-Jan-19	12	
+11727	V	30000	Wide	TV	Caz	TV	Conax	No	Joyne BE	SD	MPEG-4	1901	1902[dut]	809	Tokemup	14-Jan-19	14	
+11727	V	30000	Wide	TV	Q2	TV	Conax	No	Joyne BE	SD	MPEG-4	2001	2002[dut]	810	Tokemup	14-Jan-19	16	
+11727	V	30000	Wide	TV	Ment HD	TV	Conax	No	Joyne BE	HD	MPEG-4	2101	2102[dut]	811	Tokemup	15-Jan-19	18	
+11727	V	30000	Wide	TV	VTM Kids	TV	Conax	No	Joyne BE	SD	MPEG-4	2201	2202[dut]	812	Tokemup	15-Jan-19	20	
+11727	V	30000	Wide	TV	Caz 2	TV	Conax	No	Joyne	SD	MPEG-4	2301	2302[dut]	813	Tanea	5-Mar-20	22	
+11727	V	30000	Wide	TV	Ziggo Voetbal HD	TV	Conax	No	Joyne	HD	MPEG-4	2401	2402[dut]|2403[000]	814	Tokemup	28-Apr-19	24	
+11727	V	30000	Wide	TV	Ziggo Racing HD	TV	Conax	No	Joyne	HD	MPEG-4	2501	2502[dut]|2503[000]	815	Tokemup	28-Apr-19	26	
+11727	V	30000	Wide	TV	Ziggo Golf HD	TV	Conax	No	Joyne	HD	MPEG-4	2601	2602[dut]|2603[000]	816	Tokemup	28-Apr-19	28	
+11727	V	30000	Wide	TV	Museum HD	TV	FTA	Yes		HD	MPEG-4	7701	7702[fre]|7703[eng]	867	Tanea	27-Nov-19	30	
+11727	V	30000	Wide	TV	The Israeli Network	TV	Viaccess	No		SD	MPEG-2	7801	7802[heb]	868	Tanea	5-Mar-20	32	
+11727	V	30000	Wide	R	Radio 1	R	Conax	No	Joyne BE			0	2702[dut]	817	Tokemup	23-Jan-19	34	
+11727	V	30000	Wide	R	Radio 2	R	Conax	No	Joyne BE			0	2802[dut]	818	Tokemup	23-Jan-19	36	
+11727	V	30000	Wide	R	VRT NWS	R	Conax	No	Joyne BE			0	2902[dut]	819	Tokemup	23-Jan-19	38	
+11727	V	30000	Wide	R	MNM	R	Conax	No	Joyne BE			0	3002[dut]	820	Tokemup	23-Jan-19	40	
+11727	V	30000	Wide	R	MNM Hits	R	Conax	No	Joyne BE			0	3102[dut]	821	Tokemup	23-Jan-19	42	
+11727	V	30000	Wide	R	Studio Brussel	R	Conax	No	Joyne BE			0	3202[dut]	822	Tokemup	23-Jan-19	44	
+11727	V	30000	Wide	R	Klara	R	Conax	No	Joyne BE			0	3302[dut]	823	Tokemup	24-Jan-19	46	
+11727	V	30000	Wide	R	Klara Continuo	R	Conax	No	Joyne BE			0	3402[dut]	824	Tokemup	24-Jan-19	48	
+11727	V	30000	Wide	R	Sporza	R	Conax	No	Joyne BE			0	3502[dut]	825	Tokemup	24-Jan-19	50	
+11727	V	30000	Wide	R	Qmusic	R	Conax	No	Joyne BE			0	3602[dut]	826	Tokemup	24-Jan-19	52	
+11727	V	30000	Wide	R	Joe	R	Conax	No	Joyne BE			0	3702[dut]	827	Tokemup	24-Jan-19	54	
+11727	V	30000	Wide	R	Nostalgie	R	Conax	No	Joyne BE			0	3802[dut]	828	Tokemup	24-Jan-19	56	
+11727	V	30000	Wide	R	Radio Continu	R	FTA	Yes	Joyne			0	3902[dut]	829	Tokemup	23-Jan-19	58	
+11727	V	30000	Wide	R	Groot Nieuws Radio	R	FTA	Yes	Joyne			0	4002[dut]	830	Tokemup	23-Jan-19	60	
+11747	H	30000	Wide	TV	NPO 1 HD	TV	Conax	No	Joyne|Joyne BE	HD	MPEG-4	1101	1102[dut]	501	Tokemup	17-Jan-19	64	
+11747	H	30000	Wide	TV	NPO 2 HD	TV	Conax	No	Joyne|Joyne BE	HD	MPEG-4	1201	1202[dut]	502	Tokemup	18-Jan-19	66	
+11747	H	30000	Wide	TV	NPO 3 HD	TV	Conax	No	Joyne|Joyne BE	HD	MPEG-4	1301	1302[dut]	503	Tokemup	18-Jan-19	68	
+11747	H	30000	Wide	TV	RTL 4 HD	TV	Conax	No	Joyne	HD	MPEG-4	1401	1402[dut]	504	alexfloresaf38	11-Aug-17	70	
+11747	H	30000	Wide	TV	RTL 5 HD	TV	Conax	No	Joyne	HD	MPEG-4	1501	1502[dut]	505	alexfloresaf38	11-Aug-17	72	
+11747	H	30000	Wide	TV	SBS 6 HD	TV	Conax	No	Joyne	HD	MPEG-4	1601	1602[dut]	506	alexfloresaf38	11-Aug-17	74	
+11747	H	30000	Wide	TV	RTL 7 HD	TV	Conax	No	Joyne	HD	MPEG-4	1701	1702[dut]	507	alexfloresaf38	11-Aug-17	76	
+11747	H	30000	Wide	TV	Veronica / Disney XD HD	TV	Conax	No	Joyne	HD	MPEG-4	1801	1802[dut]	508	alexfloresaf38	11-Aug-17	78	
+11747	H	30000	Wide	TV	Net 5 HD	TV	Conax	No	Joyne	HD	MPEG-4	1901	1902[dut]	509	alexfloresaf38	11-Aug-17	80	
+11747	H	30000	Wide	TV	RTL 8 HD	TV	Conax	No	Joyne	HD	MPEG-4	2001	2002[dut]	510	alexfloresaf38	3-Aug-17	82	
+11747	H	30000	Wide	TV	RTL Z HD	TV	Conax	No	Joyne	HD	MPEG-4	2101	2102[dut]	511	alexfloresaf38	3-Aug-17	84	
+11747	H	30000	Wide	TV	SBS 9 HD	TV	Conax	No	Joyne	HD	MPEG-4	2201	2202[dut]	512	alexfloresaf38	11-Aug-17	86	
+11747	H	30000	Wide	TV	Comedy Central	TV	Conax	No	Joyne	SD	MPEG-4	2301	2302[dut]	513	alexfloresaf38	11-Aug-17	88	
+11747	H	30000	Wide	TV	Spike 24	TV	Conax	No	Joyne	SD	MPEG-4	2401	2402[dut]	514	alexfloresaf38	3-Aug-17	90	
+11747	H	30000	Wide	TV	TV 538 HD	TV	Conax	No	Joyne	HD	MPEG-4	2601	2602[dut]	516	Tokemup	20-Jan-19	92	
+11747	H	30000	Wide	TV	National Geographic HD Nederland	TV	Conax	No	Joyne	HD	MPEG-4	3401	3402[dut]	518	Tanea	15-Sep-17	94	
+11747	H	30000	Wide	TV	Secret Circle	TV	Conax	No	Joyne	SD	MPEG-4	2801	2802[dut]	519	Tokemup	20-Jan-19	96	
+11747	H	30000	Wide	TV	Meiden van Holland	TV	Conax	No	Joyne	SD	MPEG-4	2901	2902[dut]	520	Tokemup	20-Jan-19	98	
+11747	H	30000	Wide	TV	Colmax TV	TV	Conax	No	Joyne	SD	MPEG-4	3001	3002[dut]	521	Tokemup	20-Jan-19	100	
+11747	H	30000	Wide	TV	Penthouse HD 1	TV	Conax	No	Joyne	HD	MPEG-4	3201	3202[dut]	523	Tokemup	20-Jan-19	102	
+11747	H	30000	Wide	TV	Penthouse HD 2	TV	Conax	No	Joyne	HD	MPEG-4	3301	3302[dut]	524	Tokemup	20-Jan-19	104	
+11747	H	30000	Wide	TV	24 Kitchen	TV	Conax	No	Joyne	SD	MPEG-4	3501	3502[dut]	525	Tanea	15-Sep-17	106	
+11785	H	27500	Wide	TV	ProSieben MAXX HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	2011	2012[AC2]|2012[ger]	201	alexfloresaf38	11-Aug-17	110	
+11785	H	27500	Wide	TV	MTV Deutschland HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	2031	2032[ger]	202	alexfloresaf38	11-Aug-17	112	
+11785	H	27500	Wide	TV	N24 HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	2051	2052[ger]	203	alexfloresaf38	11-Aug-17	114	
+11785	H	27500	Wide	TV	Channel 21 Shop	TV	FTA	Yes		SD	MPEG-2	2081	2082[ger]	204	alexfloresaf38	17-Feb-18	116	
+11785	H	27500	Wide	TV	EuroSport 1 Deutschland HD	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-4	2101	2102[ger]	205	Tanea	7-Nov-17	118	
+11785	H	27500	Wide	TV	Nickelodeon Deutschland	TV	FTA	Yes		SD	MPEG-2	2145	2146[ger]|2148[eng]	213	alexfloresaf38	11-Aug-17	120	
+11785	H	27500	Wide	TV	VIVA / Comedy Central Deutschland	TV	FTA	Yes		SD	MPEG-2	2209	2210|2210[ger]	216	alexfloresaf38	11-Aug-17	122	
+11785	H	27500	Wide	TV	HSE 24 Extra	TV	FTA	Yes		SD	MPEG-2	2593	2594[ger]	228	alexfloresaf38	11-Aug-17	124	
+11785	H	27500	Wide	TV	BBC World News	TV	FTA	Yes		SD	MPEG-2	2071	2072[eng]	240	alexfloresaf38	11-Aug-17	126	
+11785	H	27500	Wide	TV	Bloomberg	TV	FTA	Yes		SD	MPEG-2	2091	2092[eng]	241	alexfloresaf38	11-Aug-17	128	
+11785	H	27500	Wide	TV	Deutsches Musik Fernsehen	TV	FTA	Yes		SD	MPEG-2	2131	2132[ger]	243	alexfloresaf38	11-Aug-17	130	
+11785	H	27500	Wide	TV	Servus TV	TV	FTA	Yes		SD	MPEG-2	2171	2172[ger]|2173[eng]	245	alexfloresaf38	11-Aug-17	132	
+11785	H	27500	Wide	TV	Deluxe Music	TV	FTA	Yes		SD	MPEG-2	2181	2182[ger]	246	alexfloresaf38	11-Aug-17	134	
+11804	V	27500	Wide	TV	AFN|prime Atlantic	TV	PowerVu|Verimatrix	No		HD	MPEG-4	1265	1225[eng]	102	alexfloresaf38	7-Feb-18	138	
+11804	V	27500	Wide	TV	AFN|news	TV	PowerVu|Verimatrix	No		HD	MPEG-4	1565	1525[eng]	103	alexfloresaf38	7-Feb-18	140	
+11804	V	27500	Wide	TV	AFN|sports	TV	PowerVu|Verimatrix	No		HD	MPEG-4	1165	1125[eng]	104	alexfloresaf38	7-Feb-18	142	
+11804	V	27500	Wide	TV	AFN|prime Pacific	TV	PowerVu|Verimatrix	No		HD	MPEG-4	1465	1425[eng]	105	alexfloresaf38	7-Feb-18	144	
+11804	V	27500	Wide	TV	AFN|spectrum	TV	PowerVu|Verimatrix	No		HD	MPEG-4	1365	1325[eng]	106	alexfloresaf38	7-Feb-18	146	
+11804	V	27500	Wide	TV	AFN|sports 2	TV	PowerVu|Verimatrix	No		HD	MPEG-4	1665	1625[eng]	107	alexfloresaf38	7-Feb-18	148	
+11804	V	27500	Wide	TV	AFN|family	TV	PowerVu|Verimatrix	No		HD	MPEG-4	1965	1925[eng]	108	alexfloresaf38	7-Feb-18	150	
+11804	V	27500	Wide	TV	AFN|movie	TV	PowerVu|Verimatrix	No		HD	MPEG-4	1065	1025[eng]	109	alexfloresaf38	7-Feb-18	152	
+11804	V	27500	Wide	IMG	Reaper (EPG Video)	TV	PowerVu|Verimatrix	No		SD	MPEG-2	1760		401	alexfloresaf38	7-Feb-18	154	
+11804	V	27500	Wide	IMG	Bars & Tone	TV	FTA	Yes		SD	MPEG-4	1860		402	alexfloresaf38	7-Feb-18	156	
+11823	H	27500	Wide	TV	Sisal TV 1	TV	Xcrypt	No		SD	MPEG-2	1811	1812[ita]	1810	Tanea	28-Apr-19	160	
+11823	H	27500	Wide	TV	Sisal TV 2	TV	Xcrypt	No		SD	MPEG-2	1821	1822[ita]	1820	Tanea	11-Apr-13	162	
+11823	H	27500	Wide	TV	Sisal TV 3 test card	TV	FTA	Yes		SD	MPEG-2	1831	1832[ita]	1830	Tanea	13-May-14	164	
+11823	H	27500	Wide	TV	Sisal TV 4	TV	Xcrypt	No		SD	MPEG-2	1841	1842[ita]	1840	Tanea	4-Sep-14	166	
+11823	H	27500	Wide	R	RTKH	R	Irdeto 2	No				0	5890[eng]	6	chab7	18-Feb-11	168	
+11823	H	27500	Wide	R	Radio CRC Targato Italia	R	FTA	Yes				0	1540[ita]	154	dreambox	18-Jun-09	170	
+11823	H	27500	Wide	R	Radio Studio 7	R	FTA	Yes				0	1550[ita]	155	chab7	18-Feb-11	172	
+11823	H	27500	Wide	DATA	BCC TV 1	@	PowerVu	No				0		9	chab7	28-Mar-11	174	
+11823	H	27500	Wide	DATA	BCC TV 2	@	PowerVu	No				0		10	chab7	28-Mar-11	176	
+11823	H	27500	Wide	DATA	BCC TV 1 and 2	@	PowerVu	No				0		11	chab7	28-Mar-11	178	
+11823	H	27500	Wide	DATA	BCC TEST	@	FTA	Yes				0		12	Frocus	28-Mar-11	180	
+11843	V	27500	Wide	TV	Stingray iConcerts	TV	Videoguard	No	OTE TV	HD	MPEG-4	413	513[eng]	1013	Tanea	11-Feb-18	184	
+11843	V	27500	Wide	TV	Κρήτη TV	TV	Videoguard	No	OTE TV	SD	MPEG-4	421	521[gre]	1021	Tanea	11-Feb-18	186	
+11843	V	27500	Wide	TV	Luxe TV HD	TV	Videoguard	No	OTE TV	HD	MPEG-4	431	531[eng]	1031	alexfloresaf38	11-Feb-18	188	
+11843	V	27500	Wide	TV	Alpha TV	TV	Videoguard	No	OTE TV	SD	MPEG-4	443	543[gre]	1043	Tanea	13-Jun-15	190	
+11843	V	27500	Wide	TV	Star Kentrikis Elladas	TV	Videoguard	No	OTE TV	SD	MPEG-4	479	579[gre]	1079	Tanea	26-May-16	192	
+11843	V	27500	Wide	TV	CNBC Europe	TV	Videoguard	No	OTE TV	SD	MPEG-4	485	585[eng]	1085	Tanea	12-Apr-16	194	
+11843	V	27500	Wide	TV	BBC World News	TV	Videoguard	No	OTE TV	SD	MPEG-4	488	588[eng]	1088	Tanea	12-Apr-16	196	
+11843	V	27500	Wide	IMG	OTE Cinema 3	TV	Videoguard	No	OTE TV	SD	MPEG-4	494		1094	Tanea	28-Apr-19	198	
+11843	V	27500	Wide	TV	GINX eSportsTV	TV	Videoguard	No		SD	MPEG-4	4108	5108[eng]	1108	Tanea	24-Nov-17	200	
+11843	V	27500	Wide	TV	ERT 2	TV	Videoguard	No	OTE TV	SD	MPEG-4	4113	5113[eng]	1113	Tanea	13-Jun-15	202	
+11843	V	27500	Wide	TV	MTV Live HD	TV	Videoguard	No	OTE TV	HD	MPEG-4	4114	4115[eng]	1114	Tanea	26-May-16	204	
+11862	H	27500	Wide	TV	Kabel 1 HD Deutschland	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	1511	1512[ger]	230	Tanea	28-Apr-19	208	
+11862	H	27500	Wide	TV	DMAX HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	1531	1532[ger]	231	Tanea	5-Nov-13	210	
+11862	H	27500	Wide	TV	Tele 5 HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	1551	1552[ger]	232	Tanea	5-Nov-13	212	
+11862	H	27500	Wide	TV	Nickelodeon Deutschland HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	1571	1572[ger]	233	Tanea	5-Nov-13	214	
+11862	H	27500	Wide	TV	Nick Night Deutschland HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	1571	1572[ger]	233	Tanea	23-Oct-14	216	
+11862	H	27500	Wide	TV	Sport 1+ HD	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-4	1409	1410[ger]	234	Tanea	5-Nov-13	218	
+11862	H	27500	Wide	TV	TLC HD Deutschland	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	1591	1592[ger]	235	Frocus	24-Jul-14	220	
+11881	V	27500	Wide	TV	iConcerts	TV	Conax|Viaccess 2.6	No	Hello HD	HD	MPEG-4	2002	3002[fre]	3502	Frocus	13-Apr-11	224	
+11881	V	27500	Wide	TV	Tamilan TV	TV	FTA	Yes		SD	MPEG-2	2007	3007[tam]	3507	Tanea	16-Feb-18	226	
+11881	V	27500	Wide	TV	Eurobet 11	TV	BISS	No		SD	HEVC (H.265)	2011	3011[ita]	3511	Tanea	31-Oct-17	228	
+11881	V	27500	Wide	TV	Eurobet 12	TV	BISS	No		SD	HEVC (H.265)	2012	3012[ita]	3512	Tanea	31-Oct-17	230	
+11881	V	27500	Wide	TV	Eurobet 13	TV	FTA	Yes		SD	HEVC (H.265)	2013	3013[ita]	3513	Tanea	31-Oct-17	232	
+11881	V	27500	Wide	TV	Eurobet 12	TV	BISS	No		SD	HEVC (H.265)	2014	3014[ita]	3514	Tanea	31-Oct-17	234	
+11881	V	27500	Wide	TV	ORTB TV	TV	FTA	Yes		SD	MPEG-2	2015	3015[fre]	3515	Tanea	3-Dec-17	236	
+11881	V	27500	Wide	TV	EuroSport 2 BL	TV	Viaccess	No		SD	MPEG-2	2001	3001[iss]|4001[ens]|5001[ctc]|6001[tcp]	13801	Tanea	19-Dec-14	238	
+11900	H	27500	Wide	TV	Trace Sports HD	TV	Videoguard|Conax|Viaccess 2.6	No		HD	MPEG-4	612	632[eng]|633[fre]|634[eng]	14	Frocus	5-Apr-14	242	
+11900	H	27500	Wide	TV	Trace Urban English	TV	Videoguard|Conax|Viaccess 2.6	No		HD	MPEG-4	711	731[eng]	15	Frocus	5-Apr-14	244	
+11900	H	27500	Wide	TV	TVT International	TV	FTA	Yes		SD	MPEG-4	1211	1212[fre]	20	ade3661	6-May-17	246	
+11900	H	27500	Wide	TV	RTB TV	TV	FTA	Yes		SD	MPEG-4	33	34[ita]	23	Tanea	28-Apr-19	248	
+11900	H	27500	Wide	TV	Better 1 HD	TV	Cryptoworks	No		HD	HEVC (H.265)	1111	1112[eng]	111	Tanea	11-Apr-19	250	
+11900	H	27500	Wide	TV	Better 2	TV	Cryptoworks	No		SD	HEVC (H.265)	1121	1122[eng]	112	Tanea	11-Apr-19	252	
+11900	H	27500	Wide	TV	Better 3	TV	Cryptoworks	No		SD	HEVC (H.265)	1131	1132[eng]	113	Tanea	11-Apr-19	254	
+11900	H	27500	Wide	TV	Better 4	TV	Cryptoworks	No		SD	HEVC (H.265)	1141	1142[eng]	114	Tanea	11-Apr-19	256	
+11900	H	27500	Wide	TV	EbS : Europe by Satellite	TV	FTA	Yes		HD	MPEG-4	200	201[000]|202[eng]|203[fre]|204[ger]|205[ita]|206[spa]|207[gre]|208[por]|209[dut]|210[dan]|211[fin]|212[swe]|213[cze]|214[est]|215[lav]|216[lit]|217[hun]|218[mlt]|219[pol]|220[slo]|221[slv]|222[bul]|223[rum]|224[gle]|225[hrv]	233	alexfloresaf38	26-Jun-17	258	
+11900	H	27500	Wide	TV	EbS+	TV	FTA	Yes		HD	MPEG-4	400	401[000]|402[eng]|403[fre]|404[ger]|405[ita]|406[spa]|407[gre]|408[por]|409[dut]|410[dan]|411[fin]|412[swe]|413[cze]|414[est]|415[lav]|416[lit]|417[hun]|418[mlt]|419[pol]|420[slo]|421[slv]|422[bul]|423[rum]|424[gle]|425[hrv]	433	alexfloresaf38	26-Jun-17	260	
+11900	H	27500	Wide	TV	MyZen TV HD	TV	Videoguard|Conax|Viaccess 2.6|Viaccess 3.0	No		HD	MPEG-4	1651	1652[spa]|1653[rus]|1654[eng]|1655[fre]|1656[000]	1650	alexfloresaf38	26-Jun-17	262	
+11919	V	27500	Wide	TV	Fashion One HD Europe	TV	FTA	Yes		HD	MPEG-4	2001	3001[eng]	1	Tanea	17-Sep-15	266	
+11919	V	27500	Wide	TV	IBC Tamil	TV	FTA	Yes		SD	MPEG-2	2002	3003[tam]	3	Tanea	27-Jul-17	268	
+11919	V	27500	Wide	TV	The Israeli Network (TIN_972737998873)	TV	Viaccess 2.5|Viaccess 2.6	No		SD	MPEG-2	2012	3012[heb]	12	dm800	29-Mar-11	270	
+11919	V	27500	Wide	TV	Holy God	TV	FTA	Yes		SD	MPEG-2	2016	3016[eng]	16	Tanea	24-Mar-17	272	
+11919	V	27500	Wide	TV	NLM TV	TV	FTA	Yes		SD	MPEG-2	2017	3017[tai]	17	dm800	18-Jun-09	274	
+11919	V	27500	Wide	TV	Star Vijay	TV	FTA	Yes		SD	MPEG-2	2042	3042[hin]	42	Frocus	28-Aug-11	276	
+11919	V	27500	Wide	TV	Italy Service 2	TV	Nagravision 3	No		SD	MPEG-4	2044	3044[ita]	44	ade3661	8-Oct-16	278	
+11919	V	27500	Wide	TV	Italy Service 3	TV	Nagravision 3	No		SD	MPEG-4	2058	3058[ita]	58	ade3661	8-Oct-16	280	
+11919	V	27500	Wide	TV	Italy Service 5	TV	Nagravision 3	No		SD	MPEG-4	2060	3060[ita]	60	ade3661	8-Oct-16	282	
+11919	V	27500	Wide	R	Radio Sweden	R	FTA	Yes				0	3009[swe]	9	chab7	29-Mar-11	284	
+11919	V	27500	Wide	R	SR P4 (Radio Sweden 2 EB9)	R	FTA	Yes				0	3010[swe]	10	dreambox	29-Mar-11	286	
+11919	V	27500	Wide	R	Radio Eden	R	FTA	Yes				0	3013[eng]	13	dreambox	18-Jun-09	288	
+11919	V	27500	Wide	R	Radio ALL For Peace	R	BISS	No				0	3035[eng]	35	chab7	29-Mar-11	290	
+11919	V	27500	Wide	R	Q-FM Zambia	R	FTA	Yes				0	3040[eng]	40	chab7	29-Mar-11	292	
+11938	H	27500	Wide	TV	ERT 3	TV	Videoguard	No		SD	MPEG-4	402	502[gre]	1002	Tanea	12-Aug-19	296	
+11938	H	27500	Wide	IMG	Village Cinema HD	TV	Videoguard	No		HD	MPEG-4	416		1016	Tanea	12-Aug-19	298	
+11938	H	27500	Wide	TV	Vergina ΤV	TV	Videoguard	No		SD	MPEG-4	417	517[gre]	1017	Tanea	12-Aug-19	300	
+11938	H	27500	Wide	TV	Atlas TV	TV	Videoguard	No		SD	MPEG-4	433	533[gre]	1033	Tanea	12-Aug-19	302	
+11938	H	27500	Wide	TV	CNN International Europe	TV	Videoguard	No		SD	MPEG-4	440	540[eng]	1040	Tanea	12-Aug-19	304	
+11938	H	27500	Wide	IMG	TCM HD	TV	Videoguard	No		HD	MPEG-4	444		1044	Tanea	12-Aug-19	306	
+11938	H	27500	Wide	TV	ΕRΤ Sports HD	TV	Videoguard	No		HD	MPEG-4	4105	5105[gre]	1105	Tanea	12-Aug-19	308	
+11938	H	27500	Wide	TV	National Geographic HD	TV	Videoguard	No		HD	MPEG-4	4112	5112[eng]	1112	Tanea	12-Aug-19	310	
+11938	H	27500	Wide	TV	ERT 2	TV	Videoguard	No		SD	MPEG-4	4113	5113[eng]	1113	Tanea	12-Aug-19	312	
+11938	H	27500	Wide	TV	Cosmote Cinema 2 HD	TV	Videoguard	No		HD	MPEG-4	4120	5120[eng]	1120	Tanea	12-Aug-19	314	
+11958	V	27500	Wide	TV	M1 HD	TV	FTA	Yes		HD	MPEG-4	1101	1201[hun]|1301[hun]	101	alexfloresaf38	27-Apr-17	318	
+11958	V	27500	Wide	TV	Magyar 2 HD	TV	FTA	Yes		HD	MPEG-4	1102	1202[hun]|1302[hun]	102	Frocus	6-Mar-12	320	
+11958	V	27500	Wide	TV	Duna HD	TV	FTA	Yes		HD	MPEG-4	1103	1203[hun]|1303[hun]	103	Frocus	6-Mar-12	322	
+11958	V	27500	Wide	TV	M4 Sport HD	TV	FTA	Yes		HD	MPEG-4	1104	1204[hun]|1304[hun]	104	Tanea	2-Jul-15	324	
+11958	V	27500	Wide	TV	Duna World	TV	FTA	Yes		SD	MPEG-4	1105	1205[hun]|1305[mul]	105	alexfloresaf38	27-Jun-17	326	
+11958	V	27500	Wide	TV	M5 HD	TV	FTA	Yes		HD	MPEG-4	1106	1206[hun]|1306[mul]	106	alexfloresaf38	27-Jun-17	328	
+11958	V	27500	Wide	TV	M3	TV	Conax	No		SD	MPEG-2	1110	1210[hun]|1310[hun]	110	alexfloresaf38	27-Jun-17	330	
+11958	V	27500	Wide	R	MR1 Kossuth	R	FTA	Yes				0	1251[hun]	151	alexfloresaf38	27-Jun-17	332	
+11958	V	27500	Wide	R	MR2 Petofi	R	FTA	Yes				0	1252[hun]	152	alexfloresaf38	30-Jun-17	334	
+11958	V	27500	Wide	R	MR3 Bartok	R	FTA	Yes				0	1253[hun]	153	alexfloresaf38	30-Jun-17	336	
+11958	V	27500	Wide	R	MR4 Nemzetisegi	R	FTA	Yes				0	1254[mul]	154	alexfloresaf38	30-Jun-17	338	
+11958	V	27500	Wide	R	MR5 Parlamenti	R	FTA	Yes				0	1255[hun]	155	alexfloresaf38	30-Jun-17	340	
+11958	V	27500	Wide	R	Dankó Rádió	R	FTA	Yes				0	1256[hun]	156	alexfloresaf38	1-Jul-17	342	
+11958	V	27500	Wide	R	Duna World Rádió	R	FTA	Yes				0	1257[hun]	157	alexfloresaf38	1-Jul-17	344	
+11958	V	27500	Wide	R	Katolikus Rádió	R	FTA	Yes				0	1258[hun]	158	alexfloresaf38	1-Jul-17	346	
+11958	V	27500	Wide	R	Kossuth Rádió	R	FTA	Yes			MPEG-1	0	1261[L2]|1261[hun]	161	alexfloresaf38	1-Jul-17	348	
+11958	V	27500	Wide	R	Petőfi Rádió	R	FTA	Yes			MPEG-1	0	1262[L2]|1262[hun]	162	alexfloresaf38	1-Jul-17	350	
+11958	V	27500	Wide	R	Bartók Rádió	R	FTA	Yes			MPEG-1	0	1263[L2]|1263[hun]	163	alexfloresaf38	1-Jul-17	352	
+11958	V	27500	Wide	R	B192ser	R	FTA	Yes				0	1265[hun]	165	alexfloresaf38	1-Jul-17	354	
+11958	V	27500	Wide	R	Dankó Rádió	R	FTA	Yes			MPEG-1	0	1266[L2]|1266[hun]	166	alexfloresaf38	1-Jul-17	356	
+11958	V	27500	Wide	R	K192ser	R	FTA	Yes				0	1267[hun]	167	alexfloresaf38	1-Jul-17	358	
+11958	V	27500	Wide	R	D192ser	R	FTA	Yes				0	1268[hun]	168	alexfloresaf38	1-Jul-17	360	
+11977	H	27500	Wide	TV	Mediaset Italia	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1511	1512[ita]	501	Tanea	15-Jan-16	364	
+11977	H	27500	Wide	TV	C-Music	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1521	1522[ger]	502	Tanea	15-Jan-16	366	
+11977	H	27500	Wide	TV	TVNI Europe	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1531	1532[pol]	503	Tanea	15-Jan-16	368	
+11977	H	27500	Wide	TV	TVNI Europe	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1531	1532[pol]	503	Tanea	15-Jan-16	370	
+11977	H	27500	Wide	TV	Auto Motor und Sport	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1541	1543[cze]|1542[ger]|1544[bul]|1545[hun]	504	Tanea	15-Jan-16	372	
+11977	H	27500	Wide	TV	Fuel TV HD	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1551	1552[eng]	505	Tanea	15-Jan-16	374	
+11977	H	27500	Wide	TV	Fix & Foxi	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1561	1562[ger]|1563[bul]|1564[rum]	506	Tanea	15-Jan-16	376	
+11977	H	27500	Wide	TV	Penthouse HD	TV	Videoguard|Conax	No		HD	MPEG-4	1571	1572[eng]	507	ade3661	14-Jul-16	378	
+11977	H	27500	Wide	TV	BH	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1581	1582[eng]	508	Tanea	15-Jan-16	380	
+11977	H	27500	Wide	TV	Mezzo Live HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	1591	1592[fre]	509	Tanea	3-Feb-16	382	
+11977	H	27500	Wide	TV	OstWest	TV	Videoguard|Conax	No		SD	MPEG-2	1601	1602[rus]	510	Tanea	3-May-18	384	
+11977	H	27500	Wide	TV	Kinomir	TV	Videoguard|Conax	No		SD	MPEG-2	1611	1612[rus]	511	ade3661	14-Jul-16	386	
+11996	V	27500	Wide	TV	CCTV-4	TV	FTA	Yes		SD	MPEG-2	3901	3911[chi]	619	Frocus	9-Oct-11	390	
+11996	V	27500	Wide	TV	CGTN-E	TV	FTA	Yes		SD	MPEG-2	4001	4011[spa]	620	alexfloresaf38	3-Dec-19	392	
+11996	V	27500	Wide	TV	CGTN-R	TV	FTA	Yes		SD	MPEG-2	4101	4111[rus]	621	alexfloresaf38	3-Dec-19	394	
+11996	V	27500	Wide	TV	CGTN-A	TV	FTA	Yes		SD	MPEG-2	4201	4211[ara]	622	alexfloresaf38	3-Dec-19	396	
+11996	V	27500	Wide	TV	CGTN Documentary	TV	FTA	Yes		SD	MPEG-2	4301	4311[eng]	623	Frocus	3-Dec-19	398	
+11996	V	27500	Wide	TV	PTV	TV	FTA	Yes		SD	MPEG-2	4601	4611[urd]	626	Tanea	13-Jul-18	400	
+11996	V	27500	Wide	TV	CBS Reality EMEA	TV	Irdeto	No		SD	MPEG-2	4701	4711[eng]|4712[cze]|4713[hun]|4714[tur]|4715[rus]|4716[rum]	627	alexfloresaf38	3-Dec-19	402	
+11996	V	27500	Wide	TV	JimJam PE	TV	Irdeto	No		SD	MPEG-2	4801	4811[eng]|4812[dut]|4813[ger]|4814[cze]|4815[pol]|4816[hun]|4817[por]|4818[rum]	628	alexfloresaf38	3-Dec-19	404	
+11996	V	27500	Wide	TV	JimJam ME	TV	Irdeto	No		SD	MPEG-2	4901	4911[eng]|4912[tur]|4913[por]|4914[rus]|4915[lit]|4916[heb]|4917[ara]	629	alexfloresaf38	3-Dec-19	406	
+11996	V	27500	Wide	TV	Extreme Sports Channel	TV	FTA	Yes		SD	MPEG-4	5001	5011[eng]|5012[ger]|5013[fre]|5014[hun]|5015[tur]|5016[rus]	630	Tanea	12-Dec-19	408	
+11996	V	27500	Wide	DATA	Babcock FM Feed 1	R	FTA	Yes				0		631	alexfloresaf38	3-Dec-19	410	
+12015	H	27500	Wide	TV	Super RTL HD	TV	Videoguard|Conax	No		HD	MPEG-4	1693	1694[ger]	406	ade3661	14-Jul-16	414	
+12015	H	27500	Wide	TV	Sixx HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	2017	2018[ger]	416	Frocus	5-Jul-11	416	
+12015	H	27500	Wide	TV	RTL 2	TV	Videoguard|Conax	No		HD	MPEG-4	2027	2028[ger]	417	ade3661	18-Jul-16	418	
+12015	H	27500	Wide	TV	Deluxe Music HD	TV	Videoguard|Conax	No	Sky Germany|KabelKiosk	HD	MPEG-4	2051	2052|2052[ger]	418	Tanea	6-Nov-13	420	
+12015	H	27500	Wide	TV	Comedy Central HD Germany	TV	Videoguard|Conax	No		HD	MPEG-4	2071	2072[ger]|2073[ger]	419	ade3661	14-Jul-16	422	
+12015	H	27500	Wide	TV	Disney Channel Deutschland HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	2091	2092[ger]	420	Tanea	30-Apr-15	424	
+12034	V	27500	Wide	TV	M6 Suisse HD	TV	FTA	Yes		HD	MPEG-4	2020	2021[fre]|2022[000]	202	Frocus	20-Oct-19	428	
+12034	V	27500	Wide	TV	6 TER Suisse HD	TV	FTA	Yes		HD	MPEG-4	2040	2041[fre]|2042[000]	204	Tanea	20-Oct-19	430	
+12034	V	27500	Wide	TV	W9 Suisse HD	TV	FTA	Yes		HD	MPEG-4	2050	2051[fre]|2052[000]	205	alexfloresaf38	20-Oct-19	432	
+12034	V	27500	Wide	TV	RTG int	TV	FTA	Yes		SD	MPEG-4	3521	3522[rus]|3523[eng]|3524[tur]	352	alexfloresaf38	20-Oct-19	434	
+12034	V	27500	Wide	TV	Phoenix Info News	TV	FTA	Yes		SD	MPEG-2	3531	3532[chi]	353	Tanea	20-Oct-19	436	
+12034	V	27500	Wide	TV	ORTM	TV	FTA	Yes		SD	MPEG-4	3541	3542[fre]|3543[eng]	354	alexfloresaf38	20-Oct-19	438	
+12034	V	27500	Wide	TV	Télé Sahel	TV	FTA	Yes		SD	MPEG-4	3551	3552[fre]	355	alexfloresaf38	20-Oct-19	440	
+12034	V	27500	Wide	TV	BBC_Entertainment_Europe	TV	Irdeto	No		SD	MPEG-4	3570	3571[eng]	357	alexfloresaf38	4-Dec-19	442	
+12034	V	27500	Wide	TV	Disney Channel ME	TV	Irdeto	No		SD	MPEG-4	3580	3581[ara]|3582[gre]|3583[eng]	358	alexfloresaf38	4-Dec-19	444	
+12034	V	27500	Wide	TV	Karusel Int	TV	FTA	Yes		SD	MPEG-4	3600	3601[rus]	360	alexfloresaf38	20-Oct-19	446	
+12034	V	27500	Wide	TV	MST	TV	Conax	No		SD	HEVC (H.265)	3611	3612[ita]	361	alexfloresaf38	22-Oct-19	448	
+12034	V	27500	Wide	TV	Outdoor HD	TV	Irdeto	No		HD	MPEG-4	3620	3621[tur]|3622[eng]|3623[rus]	362	alexfloresaf38	4-Dec-19	450	
+12034	V	27500	Wide	R	La Voix Du Sahel	R	FTA	Yes				0	3561[fre]	356	alexfloresaf38	20-Oct-19	452	
+12054	H	27500	Greece	TV	ERT 1 Greece	TV	Videoguard	No		SD	MPEG-4	401	501[gre]	1001	ade3661	8-Oct-16	456	
+12054	H	27500	Greece	TV	BOYAH	TV	FTA	Yes	OTE TV	SD	MPEG-4	405	505[gre]	1005	ade3661	17-Feb-18	458	
+12054	H	27500	Greece	TV	4E Hellas Orthodox	TV	FTA	Yes	OTE TV	SD	MPEG-4	412	512[gre]	1012	ade3661	8-Oct-16	460	
+12054	H	27500	Greece	TV	ANT 1	TV	Videoguard	No		SD	MPEG-4	430	530[gre]	1030	ade3661	8-Oct-16	462	
+12054	H	27500	Greece	TV	Channel 9 Greece	TV	Videoguard	No	OTE TV	SD	MPEG-4	434	534[gre]	1034	ade3661	8-Oct-16	464	
+12054	H	27500	Greece	TV	OTE Sport 4 HD	TV	Videoguard	No		HD	MPEG-4	439	539[gre]|639[eng]	1039	ade3661	8-Oct-16	466	
+12054	H	27500	Greece	TV	CNN International Europe	TV	Videoguard	No		SD	MPEG-4	440	540[eng]	1040	Tanea	1-Oct-18	468	
+12054	H	27500	Greece	TV	NatGeo Wild HD Greece	TV	Videoguard	No	OTE TV	HD	MPEG-4	450	550[eng]	1050	ade3661	8-Oct-16	470	
+12054	H	27500	Greece	TV	Kosmos TV Greece	TV	Videoguard	No	OTE TV	SD	MPEG-4	460	560[gre]	1060	ade3661	8-Oct-16	472	
+12054	H	27500	Greece	TV	Fashion TV	TV	Videoguard	No	OTE TV	SD	MPEG-4	462	562[eng]	1062	ade3661	8-Oct-16	474	
+12054	H	27500	Greece	TV	World Fashion Channel	TV	Videoguard	No		SD	MPEG-4	463	563[eng]	1063	ade3661	8-Oct-16	476	
+12054	H	27500	Greece	TV	Ant1 Europe	TV	Viaccess 2.5	No		SD	MPEG-2	469	569[eng]	1069	ade3661	8-Oct-16	478	
+12054	H	27500	Greece	TV	Baby TV Greece	TV	Videoguard	No	OTE TV	SD	MPEG-4	472	572[gre]|672[eng]	1072	ade3661	8-Oct-16	480	
+12054	H	27500	Greece	TV	EuroNews	TV	Videoguard	No	OTE TV	SD	MPEG-4	480	580[gre]|680[eng]	1080	ade3661	8-Oct-16	482	
+12054	H	27500	Greece	TV	Russia Today	TV	Videoguard	No	OTE TV	SD	MPEG-4	486	586[eng]	1086	ade3661	8-Oct-16	484	
+12054	H	27500	Greece	TV	OTE Sport 7 HD	TV	Videoguard	No	OTE TV	HD	MPEG-4	491	591[gre]|691[eng]	1091	ade3661	8-Oct-16	486	
+12054	H	27500	Greece	TV	Sundance Channel HD	TV	Videoguard	No		SD	MPEG-4	498	598[eng]	1098	ade3661	8-Oct-16	488	
+12073	V	30000	Wide	TV	Nickelodeon Nederland	TV	Conax	No	Joyne	SD	MPEG-4	1101	1102[dut]	401	alexfloresaf38	11-Aug-17	492	
+12073	V	30000	Wide	TV	Discovery Channel Benelux	TV	Conax	No	Joyne	HD	MPEG-4	1201	1202[dut]|1221[dut]	402	alexfloresaf38	3-Aug-17	494	
+12073	V	30000	Wide	TV	Investigation Discovery Europe HD	TV	Conax	No	Joyne	HD	MPEG-4	1301	1302[dut]|1303[dut]|1321[dut]	403	alexfloresaf38	3-Aug-17	496	
+12073	V	30000	Wide	TV	Eurosport 1 HD	TV	Conax	No	Joyne	HD	MPEG-4	1401	1402[dut]|1403[eng]	404	alexfloresaf38	11-Aug-17	498	
+12073	V	30000	Wide	TV	Eurosport 2 HD	TV	Conax	No	Joyne	HD	MPEG-4	1501	1502[dut]|1503[eng]	405	alexfloresaf38	11-Aug-17	500	
+12073	V	30000	Wide	TV	TLC Nederland	TV	Conax	No	Joyne	SD	MPEG-4	1601	1602[dut]|1603[dut]	406	alexfloresaf38	3-Aug-17	502	
+12073	V	30000	Wide	TV	Xite	TV	Conax	No	Joyne	SD	MPEG-4	1701	1702[dut]	407	alexfloresaf38	11-Aug-17	504	
+12073	V	30000	Wide	TV	MTV Nederland	TV	Conax	No	Joyne	SD	MPEG-4	1801	1802[dut]	408	alexfloresaf38	11-Aug-17	506	
+12073	V	30000	Wide	TV	TV Oranje	TV	FTA	Yes	Joyne|Joyne BE	SD	MPEG-4	1901	1902[dut]	409	Tokemup	21-Jan-19	508	
+12073	V	30000	Wide	TV	Schlager TV	TV	FTA	Yes	Joyne|Joyne BE	SD	MPEG-4	2001	2002[ger]	410	Tokemup	21-Jan-19	510	
+12073	V	30000	Wide	TV	Nashville TV	TV	FTA	Yes	Joyne|Joyne BE	SD	MPEG-4	2101	2102[eng]	411	Tokemup	21-Jan-19	512	
+12073	V	30000	Wide	TV	192TV	TV	Conax	No	Joyne|Joyne BE	SD	MPEG-4	2201	2202[dut]	412	Tokemup	18-Jan-19	514	
+12073	V	30000	Wide	TV	NL Pronvinciaal 1	TV	FTA	Yes	Joyne	SD	MPEG-4	2301	2302[dut]	413	Tokemup	21-Jan-19	516	
+12073	V	30000	Wide	TV	NL Pronvinciaal 2	TV	FTA	Yes	Joyne	SD	MPEG-4	2401	2402[dut]	414	Tokemup	22-Jan-19	518	
+12073	V	30000	Wide	TV	één HD	TV	Conax	No	Joyne|Joyne BE	HD	MPEG-4	2501	2502[dut]|2503[eng]	415	Tokemup	18-Jan-19	520	
+12073	V	30000	Wide	TV	canvas HD	TV	Conax	No	Joyne|Joyne BE	HD	MPEG-4	2601	2602[dut]|2603[eng]	416	Tokemup	18-Jan-19	522	
+12073	V	30000	Wide	TV	ketnet HD	TV	Conax	No	Joyne|Joyne BE	HD	MPEG-4	2701	2702[dut]	417	Tokemup	18-Jan-19	524	
+12073	V	30000	Wide	TV	History HD	TV	Conax	No	Joyne	HD	MPEG-4	2801	2802[dut]	418	alexfloresaf38	11-Aug-17	526	
+12073	V	30000	Wide	TV	Crime & Investigation	TV	Conax	No	Joyne	SD	MPEG-4	3001	3002[dut]	420	Tokemup	21-Jan-19	528	
+12073	V	30000	Wide	TV	Family 7	TV	Conax	No	Joyne	SD	MPEG-4	3201	3202[dut]	422	Tokemup	21-Jan-19	530	
+12073	V	30000	Wide	TV	Fox NL	TV	Conax	No	Joyne	SD	MPEG-4	3301	3302[dut]	423	alexfloresaf38	11-Aug-17	532	
+12073	V	30000	Wide	TV	Fox Sports Eredivisie 1	TV	Conax	No	Joyne	HD	MPEG-4	3401	3402[dut]	424	alexfloresaf38	3-Aug-17	534	
+12073	V	30000	Wide	TV	Fox Sports 2	TV	Conax	No	Joyne	SD	MPEG-4	3501	3502[dut]	425	Tokemup	20-Jan-19	536	
+12073	V	30000	Wide	TV	Fox Sports 3	TV	Conax	No	Joyne	SD	MPEG-4	3601	3602[dut]	426	Tokemup	21-Jan-19	538	
+12073	V	30000	Wide	TV	Travel XP HD	TV	Conax	No	Joyne	HD	MPEG-4	4101	4102[dut]	431	Tokemup	21-Jan-19	540	
+12073	V	30000	Wide	TV	Enjoy TV HD	TV	FTA	Yes	Joyne	HD	MPEG-4	4201	4202[dut]	432	Tokemup	21-Jan-19	542	
+12073	V	30000	Wide	TV	Vrolijk Kerstfeest	TV	FTA	Yes		HD	MPEG-4	4201	4202[dut]	432	Tanea	12-Dec-19	544	
+12073	V	30000	Wide	TV	Dusk	TV	Conax	No	Joyne|Joyne BE	SD	MPEG-4	5301	5302[dut]	445	Tokemup	18-Jan-19	546	
+12073	V	30000	Wide	R	NPO Radio 1	R	FTA	Yes	Joyne			0	4302[dut]	433	Tokemup	22-Jan-19	548	
+12073	V	30000	Wide	R	NPO Radio 2	R	FTA	Yes	Joyne			0	4402[dut]	434	Tokemup	22-Jan-19	550	
+12073	V	30000	Wide	R	NPO 3 FM	R	FTA	Yes	Joyne			0	4502[dut]	435	Tokemup	22-Jan-19	552	
+12073	V	30000	Wide	R	NPO Radio 4	R	FTA	Yes	Joyne			0	4602[dut]	436	Tokemup	22-Jan-19	554	
+12073	V	30000	Wide	R	NPO Radio 5	R	FTA	Yes	Joyne			0	4702[dut]	437	Tokemup	22-Jan-19	556	
+12073	V	30000	Wide	R	Radio NL	R	FTA	Yes	Joyne			0	4802[dut]	438	Tokemup	22-Jan-19	558	
+12073	V	30000	Wide	R	100% NL	R	FTA	Yes	Joyne			0	4902[dut]	439	Tokemup	22-Jan-19	560	
+12073	V	30000	Wide	R	Sky Radio	R	FTA	Yes	Joyne			0	5002[dut]	440	Tokemup	23-Jan-19	562	
+12073	V	30000	Wide	R	Radio 538	R	FTA	Yes	Joyne			0	5102[dut]	441	Tokemup	23-Jan-19	564	
+12073	V	30000	Wide	R	Radio Veronica	R	FTA	Yes	Joyne			0	5202[dut]	442	Tokemup	23-Jan-19	566	
+12092	H	27500	Wide	TV	Disney Junior CEE & MENA	TV	Viaccess	No		SD	MPEG-2	1101	1102[eng]|1103[tur]|1104[pol]|1105[rum]|1106[gre]|1108[ara]	1105	alexfloresaf38	3-Dec-19	570	
+12092	H	27500	Wide	TV	Luxe TV	TV	Viaccess	No		SD	MPEG-4	1201	1202[fre]|1203[eng]|1205[chi]|1206[rus]	1110	alexfloresaf38	3-Dec-19	572	
+12092	H	27500	Wide	TV	NTDTV	TV	FTA	Yes		SD	MPEG-4	1401	1402[chi]	1120	alexfloresaf38	20-Oct-19	574	
+12092	H	27500	Wide	TV	PTV Global	TV	FTA	Yes		SD	MPEG-2	1601	1602[urd]	1130	Tanea	5-Mar-20	576	
+12092	H	27500	Wide	TV	E! Entertainment Europe	TV	Viaccess	No		HD	MPEG-4	1901	1902[eng]|1903[ger]|1905[fre]|1906[pol]|1907[tur]|1908[eng]|1909[ger]|1911[fre]|1912[pol]|1913[tur]|1914[cze]|1915[hun]|1916[cze]|1917[hun]	1145	alexfloresaf38	3-Dec-19	578	
+12092	H	27500	Wide	TV	TV5MONDE France Belgique Suisse	TV	FTA	Yes		SD	MPEG-2	2201	2202[fre]	1160	Tanea	20-Oct-19	580	
+12111	V	27500	NordicEE	R	Ukraina 24	TV	FTA	Yes		SD	MPEG-4	0	0[ukr]	0	Tanea	9-Jan-20	584	
+12111	V	27500	NordicEE	TV	TV1000 East	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1042	1043[rus]	1040	Frocus	14-Apr-19	586	
+12111	V	27500	NordicEE	TV	TV1000 Action East	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1062	1063[rus]	1060	Frocus	14-Apr-19	588	
+12111	V	27500	NordicEE	TV	TV1000 Comedy	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1082	1083[rus]	1080	Frocus	14-Apr-19	590	
+12111	V	27500	NordicEE	TV	TV1000 World Kino	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1102	1103|1103[rus]	1100	Frocus	14-Apr-19	592	
+12111	V	27500	NordicEE	TV	Sony Turbo	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1122	1123[rus]	1120	Frocus	14-Apr-19	594	
+12111	V	27500	NordicEE	TV	Sony Entertainment Russia	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1142	1143|1143[rus]|1144[eng]	1140	Frocus	14-Apr-19	596	
+12111	V	27500	NordicEE	TV	Sony Sci-Fi Russia	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1162	1163|1163[rus]	1160	Frocus	14-Apr-19	598	
+12111	V	27500	NordicEE	TV	Fox Russia	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1182	1183[rus]	1180	Frocus	14-Apr-19	600	
+12111	V	27500	NordicEE	TV	Fox Life Russia	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1202	1203[rus]	1200	Frocus	14-Apr-19	602	
+12111	V	27500	NordicEE	IMG	Duck TV	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1222		1220	Frocus	14-Apr-19	604	
+12111	V	27500	NordicEE	TV	Boomerang Central & Eastern Europe	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1262	1263|1263[rus]	1260	Frocus	14-Apr-19	606	
+12111	V	27500	NordicEE	TV	Food Network Russia	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1282	1283[rus]	1280	Frocus	14-Apr-19	608	
+12111	V	27500	NordicEE	TV	Sea TV	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	3242	3243[rus]	1280	Tanea	27-Nov-19	610	
+12111	V	27500	NordicEE	TV	Da Vinci	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	3322	1303[ukr]|1304[mul]	1300	Tanea	27-Nov-19	612	
+12111	V	27500	NordicEE	TV	National Geographic Russia	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1342	1343|1343[rus]	1340	Frocus	14-Apr-19	614	
+12111	V	27500	NordicEE	TV	Nat Geo Wild Russia	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1362	1363|1363[rus]	1360	Frocus	14-Apr-19	616	
+12111	V	27500	NordicEE	TV	Viasat Explore East	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1382	1384|1384[rus]	1380	Frocus	14-Apr-19	618	
+12111	V	27500	NordicEE	TV	Viasat History	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1402	1403|1403[rus]	1400	Frocus	14-Apr-19	620	
+12111	V	27500	NordicEE	TV	Viasat Nature East	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1422	1423|1423[rus]	1420	Frocus	14-Apr-19	622	
+12111	V	27500	NordicEE	TV	History Russia	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1442	1443[rus]	1440	Frocus	14-Apr-19	624	
+12111	V	27500	NordicEE	TV	Star Cinema	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	1522	1523[ukr]	1520	Frocus	14-Apr-19	626	
+12111	V	31400	Italy	IMG	@Ghost	TV	FTA	Yes		SD	MPEG-2	95		99	Tanea	11-Jan-20	630	
+12111	V	27500	Italy	TV	Ukraïna 24	TV	FTA	Yes		SD	MPEG-2	1222	1223[ukr]	1220	Tanea	5-Mar-20	634	
+12130	H	27500	GermanyA	TV	Euro Star	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	2501	2502[tur]	2500	dm800	14-Apr-11	638	
+12130	H	27500	GermanyA	TV	RTR Planeta	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	2551	2552[rus]	2550	dm800	18-Jun-09	640	
+12130	H	27500	GermanyA	TV	Marco Polo	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	2751	2752[ita]	2750	Tanea	5-Apr-14	642	
+12130	H	27500	GermanyA	TV	Channel One Russia	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	2851	2852[rus]	2850	dm800	14-Apr-11	644	
+12130	H	27500	GermanyA	TV	Stingray Lite TV	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	2901	2902[ger]	2900	Tanea	2-Dec-14	646	
+12130	H	27500	GermanyA	TV	Kinowelt TV	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	2951	2952[ger]	2950	dm800	18-Jun-09	648	
+12130	H	27500	GermanyA	TV	BonGusto	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	3001	3002[ger]	3000	Frocus	14-Apr-11	650	
+12130	H	27500	GermanyA	TV	Heimatkanal	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	3051	3052[ger]	3050	Tanea	7-Nov-17	652	
+12130	H	27500	GermanyA	TV	Silverline Movie Channel	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	4001	4002[ger]	4000	Tanea	14-Dec-15	654	
+12130	H	27500	GermanyA	TV	Boomerang Deutschland	TV	Videoguard|Conax	No		SD	MPEG-2	4021	4022[ger]|4023|4023[eng]	4020	Tanea	15-Jan-16	656	
+12149	V	31400	Italy	IMG	Servizio 13	TV	Mediaguard 2	No		SD	MPEG-4	582		13	Tanea	11-Jan-20	660	
+12149	V	31400	Italy	IMG	@Ghost	TV	FTA	Yes		SD	MPEG-4	95		99	Tanea	11-Jan-20	662	
+12149	V	31400	Italy	TV	Sky Atlantic	TV	Nagravision 3	No		SD	MPEG-4	5561	5562[ita]	140	Tanea	11-Jan-20	664	
+12149	V	31400	Italy	TV	Fox Italia	TV	Nagravision 3	No		SD	MPEG-2	5541	5542[ita]|5543[000]	141	Tanea	11-Jan-20	666	
+12149	V	31400	Italy	TV	National Geographic Italia	TV	Nagravision 3	No		SD	MPEG-2	5551	5552[ita]|5553[000]	142	Tanea	11-Jan-20	668	
+12149	V	31400	Italy	TV	Sky Sport	TV	Nagravision 3	No		SD	MPEG-4	5521	0[ita]	153	Tanea	11-Jan-20	670	
+12149	V	31400	Italy	TV	Sky Sport	TV	Nagravision 3	No		SD	MPEG-4	5531	0[ita]	155	Tanea	11-Jan-20	672	
+12149	V	31400	Italy	TV	Premium Stories	TV	Nagravision 3	No		SD	MPEG-4	390	391[ita]|392[000]	172	Tanea	11-Jan-20	674	
+12149	V	31400	Italy	TV	Premium Crime	TV	Nagravision 3	No		SD	MPEG-4	630	632[qaa]|631[ita]	173	Tanea	11-Jan-20	676	
+12149	V	31400	Italy	TV	Premium Action	TV	Nagravision 3	No		SD	MPEG-4	440	441[ita]|442[qaa]	174	Tanea	11-Jan-20	678	
+12149	V	31400	Italy	TV	Sky Sport Serie A HD	TV	Nagravision 3	No		HD	MPEG-4	5491	5492[ita]	193	Tanea	11-Jan-20	680	
+12149	V	31400	Italy	TV	Sky Sport 24 HD	TV	Nagravision 3	No		HD	MPEG-4	5501	5502[ita]	194	Tanea	11-Jan-20	682	
+12149	V	31400	Italy	TV	Premium Emotion	TV	Videoguard|Mediaguard 3	No		SD	MPEG-4	400	401[ita]|402[000]	197	Tanea	11-Jan-20	684	
+12149	V	31400	Italy	TV	Rete 4 HD	TV	FTA	Yes		HD	MPEG-4	1520	1521[ita]|1522[000]	3004	Tanea	11-Jan-20	686	
+12149	V	31400	Italy	TV	Canale 5 HD	TV	FTA	Yes		HD	MPEG-4	1500	1501[ita]|1502[000]	3005	Tanea	11-Jan-20	688	
+12149	V	31400	Italy	TV	Italia 1 HD	TV	FTA	Yes		HD	MPEG-4	1510	1511[ita]|1512[000]	3006	Tanea	11-Jan-20	690	
+12149	V	31400	Italy	TV	Virgin Radio TV	TV	FTA	Yes		SD	MPEG-4	560	561[ita]	3100	Tanea	11-Jan-20	692	
+12149	V	31400	Italy	TV	R101 TV	TV	FTA	Yes		SD	MPEG-4	610	611[ita]	3101	Tanea	11-Jan-20	694	
+12149	V	27500	NordicEE	TV	NLO TV	TV	FTA	Yes		SD	MPEG-4	1002	1003[ukr]	1000	Tanea	18-Jan-17	698	
+12149	V	27500	NordicEE	TV	Indigo	TV	FTA	Yes		SD	MPEG-4	1022	1023[ukr]	1020	Tanea	18-Jan-17	700	
+12149	V	27500	NordicEE	TV	Viasat Sport East	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	2002	2003[rus]|2004[eng]	2000	Frocus	14-Apr-19	702	
+12149	V	27500	NordicEE	TV	XSport HD	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	2022	2023[ukr]	2020	Frocus	14-Apr-19	704	
+12149	V	27500	NordicEE	TV	Telekanal Ukraine HD	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	2042	2043[ukr]	2040	Frocus	14-Apr-19	706	
+12149	V	27500	NordicEE	TV	History Russia HD	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	2062	2063[rus]	2060	Frocus	14-Apr-19	708	
+12149	V	27500	NordicEE	TV	Viasat Nature/History HD	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	2102	2103|2103[rus]	2100	Frocus	14-Apr-19	710	
+12149	V	27500	NordicEE	TV	VIP Premiere HD	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	2122	2123[rus]	2120	Frocus	14-Apr-19	712	
+12149	V	27500	NordicEE	TV	VIP Megahit HD	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	2142	2143[rus]	2140	Frocus	14-Apr-19	714	
+12149	V	27500	NordicEE	TV	Travel Channel HD	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	2162	2163|2163[rus]	2160	Frocus	14-Apr-19	716	
+12149	V	27500	NordicEE	TV	Niki Kids HD	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	2242	2243[ukr]|2244[eng]	2240	Tanea	27-Nov-19	718	
+12149	V	27500	NordicEE	TV	Niki Junior HD	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	1031	1032[ukr]|1033[eng]	2260	Tanea	27-Nov-19	720	
+12149	V	27500	NordicEE	TV	Baby TV Europe	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	2282	2283|2283[eng]	2280	Frocus	14-Apr-19	722	
+12149	V	27500	NordicEE	TV	Detskiy Mir	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	2302	2303|2303[rus]	2300	Frocus	14-Apr-19	724	
+12149	V	27500	NordicEE	TV	Duck TV	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	2362	2363[slv]	2360	Frocus	14-Apr-19	726	
+12149	V	27500	NordicEE	TV	Boomerang Central & Eastern Europe	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	2382	2383[rus]|2384[eng]	2380	Frocus	14-Apr-19	728	
+12169	H	27500	Italy	IMG	Cosmote TV HD promo	TV	Videoguard	No		HD	MPEG-4	419		1019	Tanea	3-Dec-17	732	
+12169	H	27500	Italy	TV	Ionian TV	TV	Videoguard	No		SD	MPEG-4	420	520[gre]	1020	Tanea	29-Sep-17	734	
+12169	H	27500	Italy	TV	Fox Greece HD	TV	Videoguard	No		HD	MPEG-4	438	538[eng]	1038	Tanea	25-Jul-19	736	
+12169	H	27500	Italy	TV	Pop Up HD	TV	Videoguard	No		HD	MPEG-4	452	552[eng]	1052	Tanea	1-Mar-20	738	
+12169	H	27500	Italy	TV	Nea TV	TV	Videoguard	No		SD	MPEG-4	4123	5123[gre]	1123	Tanea	29-Sep-17	740	
+12169	H	27500	Italy	TV	Action 24	TV	Videoguard	No		SD	MPEG-4	4124	5124[eng]	1124	Tanea	29-Sep-17	742	
+12169	H	27500	Italy	TV	EuroNews English	TV	Videoguard	No		SD	MPEG-4	4125	5125[eng]	1125	Tanea	29-Sep-17	744	
+12169	H	27500	Italy	TV	BBC Earth HD	TV	Videoguard	No		HD	MPEG-4	4127	5127[eng]	1127	Tanea	29-Sep-17	746	
+12169	H	27500	Italy	TV	Fox Sports HD	TV	Videoguard	No		HD	MPEG-4	4129	5129[eng]	1129	Tanea	29-Sep-17	748	
+12169	H	27500	Italy	TV	Food Network	TV	Videoguard	No		SD	MPEG-4	4130	5130[eng]	1130	Tanea	29-Sep-17	750	
+12169	H	27500	Italy	TV	CBS Reality	TV	Videoguard	No		SD	MPEG-4	4131	5131[eng]	1131	Tanea	29-Sep-17	752	
+12169	H	27500	Italy	TV	Viasat Nature East	TV	Videoguard	No		SD	MPEG-4	4132	5132[eng]	1132	Tanea	29-Sep-17	754	
+12169	H	27500	Italy	TV	Viasat Explore East	TV	Videoguard	No		SD	MPEG-4	4133	5133[eng]	1133	Tanea	29-Sep-17	756	
+12169	H	27500	Italy	TV	Crime + Investigation	TV	Videoguard	No		SD	MPEG-4	4134	5134[eng]	1134	Tanea	29-Sep-17	758	
+12169	H	27500	Italy	TV	Outdoor Channel International HD	TV	Videoguard	No		HD	MPEG-4	4135	5135[eng]	1135	Tanea	29-Sep-17	760	
+12169	H	27500	Italy	TV	Fine Living Europe	TV	Videoguard	No		SD	MPEG-4	4136	5136[eng]	1136	Tanea	29-Sep-17	762	
+12169	H	27500	Italy	TV	Nautical Channel HD	TV	Videoguard	No		HD	MPEG-4	4137	5137[eng]	1137	Tanea	29-Sep-17	764	
+12170	H	27500	Greece	TV	Ionian TV	TV	Videoguard	No		SD	MPEG-4	420	520[gre]	1020	Tanea	18-Feb-17	768	
+12170	H	27500	Greece	TV	TEST 4	TV	Videoguard	No		SD	MPEG-4	452	552[eng]	1052	Tanea	11-Feb-17	770	
+12170	H	27500	Greece	IMG	Cosmote TV HD promo	TV	Videoguard	No		HD	MPEG-4	419		1052	Tanea	26-Sep-17	772	
+12170	H	27500	Greece	TV	Cosmote Sport NBA All Star 2017	TV	Videoguard	No		SD	MPEG-4	4122	5122[eng]	1122	Tanea	11-Feb-17	774	
+12170	H	27500	Greece	TV	Nea TV	TV	Videoguard	No		SD	MPEG-4	4123	5123[gre]	1123	Tanea	18-Feb-17	776	
+12188	V	27500	Wide	TV	Fine Living Europe HD	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	3002	3003|3003[rus]|3004[eng]	3000	Tanea	14-Apr-19	780	
+12188	V	27500	Wide	TV	Food Network Russia HD	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	3022	3023[rus]|3024[eng]	3020	Tanea	14-Apr-19	782	
+12188	V	27500	Wide	TV	Viasat Sport East HD	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	3042	3043[rus]|3044[eng]	3040	Frocus	14-Apr-19	784	
+12188	V	27500	Wide	TV	Nautical Channel HD	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	3062	3063[rus]|3064[eng]	3060	Frocus	14-Apr-19	786	
+12188	V	27500	Wide	TV	DocuBox HD	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	3082	3083[rus]|3084[eng]	3080	Frocus	14-Apr-19	788	
+12188	V	27500	Wide	TV	Star Family	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	3102	3103[rus]	3100	Tanea	14-Apr-19	790	
+12188	V	27500	Wide	TV	Gametoon HD	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	3122	3123[eng]	3120	Frocus	14-Apr-19	792	
+12188	V	27500	Wide	TV	FilmBox	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	3142	3143|3143[rus]|3144[eng]	3140	Frocus	14-Apr-19	794	
+12188	V	27500	Wide	TV	FilmBox Arthouse	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	3162	3163|3163[rus]|3164[eng]	3160	Frocus	14-Apr-19	796	
+12188	V	27500	Wide	TV	Kino Polska Int	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	3182	3183[eng]	3180	Frocus	14-Apr-19	798	
+12188	V	27500	Wide	TV	Kino Polska Muzyka	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	3202	3203[pol]	3200	Frocus	14-Apr-19	800	
+12188	V	27500	Wide	TV	360TuneBox	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	3222	3223[eng]	3220	Frocus	14-Apr-19	802	
+12188	V	27500	Wide	TV	Sea TV	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	3242	3243|3243[rus]	3240	Frocus	14-Apr-19	804	
+12188	V	27500	Wide	TV	E**X HD	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	3262	3263[eng]	3260	Frocus	14-Apr-19	806	
+12188	V	27500	Wide	TV	Pershiy Avtomobilniy HD (1 Auto)	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	3282	3283|3283[ukr]	3280	Frocus	14-Apr-19	808	
+12188	V	27500	Wide	TV	Football 1 HD	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	3322	2203[ukr]	3320	Tanea	26-Nov-19	810	
+12188	V	27500	Wide	TV	Football 2 HD	TV	Betacrypt	No	XTRA TV	HD	MPEG-4	3342	3343[ukr]	3340	Tanea	26-Nov-19	812	
+12188	V	27500	Wide	TV	Football 1	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	3362	3363[ukr]	3360	Tanea	27-Nov-19	814	
+12188	V	27500	Wide	TV	Football 2	TV	Betacrypt	No	XTRA TV	SD	MPEG-4	3382	3383[ukr]	3380	Tanea	27-Nov-19	816	
+12188	V	31400	Greece	TV	Rete 4	TV	FTA	Yes		SD	MPEG-2	1630	1631[ita]|1632[000]	4004	Tanea	12-Jan-20	820	
+12188	V	31400	Greece	TV	Canale 5	TV	FTA	Yes		SD	MPEG-2	1610	1611[ita]|1612[000]	4005	Tanea	12-Jan-20	822	
+12188	V	31400	Greece	TV	Italia 1	TV	FTA	Yes		SD	MPEG-2	1620	1621[ita]|1622[000]	4006	Tanea	12-Jan-20	824	
+12188	V	31400	Greece	TV	La 5	TV	FTA	Yes		SD	MPEG-2	1730	1731[ita]|1732[000]	4013	Tanea	12-Jan-20	826	
+12188	V	31400	Greece	TV	TgCom24	TV	FTA	Yes		SD	MPEG-2	1810	1811[ita]	4014	Tanea	12-Jan-20	828	
+12188	V	31400	Greece	TV	Iris	TV	FTA	Yes		SD	MPEG-2	1670	1671[ita]|1672[000]	4015	Tanea	12-Jan-20	830	
+12188	V	31400	Greece	DATA	Mediaset Play	TV	FTA	Yes		SD	MPEG-2	0		4105	Tanea	12-Jan-20	832	
+12188	V	31400	Greece	DATA	Infinity	TV	FTA	Yes		SD	MPEG-2	0		4149	Tanea	12-Jan-20	834	
+12188	V	31400	Greece	TV	Sky Sport Serie A HD	TV	FTA	Yes		HD	MPEG-4	5591	5592[ita]	5145	Tanea	12-Jan-20	836	
+12188	V	31400	Greece	TV	Sky Sport	TV	FTA	Yes		SD	MPEG-4	5521	0[ita]	5146	Tanea	12-Jan-20	838	
+12188	V	31400	Greece	TV	Sky Sport	TV	FTA	Yes		SD	MPEG-4	5531	0[ita]	5147	Tanea	12-Jan-20	840	
+12188	V	31400	Greece	TV	Premium Action	TV	FTA	Yes		SD	MPEG-4	440	441[ita]|442[qaa]	5148	Tanea	12-Jan-20	842	
+12188	V	31400	Greece	TV	Sky Sports	TV	FTA	Yes		SD	MPEG-2	5571	0[ita]	5174	Tanea	12-Jan-20	844	
+12188	V	31400	Greece	TV	Sky Sport Uno	TV	FTA	Yes		SD	MPEG-2	5581	5582[ita]	5177	Tanea	12-Jan-20	846	
+12188	V	31400	Greece	TV	Sky Sport Uno HD	TV	FTA	Yes		HD	MPEG-4	5601	5602[ita]	5178	Tanea	12-Jan-20	848	
+12188	V	31400	Greece	TV	Sky Sport 24	TV	FTA	Yes		SD	MPEG-2	5561	5562[ita]	5179	Tanea	12-Jan-20	850	
+12188	V	31400	Greece	TV	Sky Uno	TV	FTA	Yes		SD	MPEG-2	5511	5512[ita]|5513[000]	5180	Tanea	12-Jan-20	852	
+12207	H	27500	Greece	TV	Motorvision TV HD	TV	Videoguard	No	OTE TV	HD	MPEG-4	425	525[eng]	1025	Tanea	23-Apr-16	856	
+12207	H	27500	Greece	TV	History HD Europe	TV	Videoguard	No		HD	MPEG-4	432	532[eng]	1032	Tanea	16-Feb-18	858	
+12207	H	27500	Greece	TV	Alert	TV	Videoguard	No	OTE TV	SD	MPEG-4	433	533[gre]	1033	Tanea	9-Jul-16	860	
+12207	H	27500	Greece	TV	MEGA	TV	Videoguard	No	OTE TV	SD	MPEG-4	435	535[gre]	1035	alexfloresaf38	11-Feb-18	862	
+12207	H	27500	Greece	TV	Smile TV Greece	TV	Videoguard	No	OTE TV	SD	MPEG-4	436	536[gre]	1036	ade3661	8-Oct-16	864	
+12207	H	27500	Greece	TV	Alpha TV	TV	Videoguard	No	OTE TV	SD	MPEG-4	443	543[gre]	1043	Tanea	22-Apr-16	866	
+12207	H	27500	Greece	TV	OTE Cinema 4 HD	TV	Videoguard	No	OTE TV	HD	MPEG-4	446	546[eng]	1046	Tanea	23-Apr-16	868	
+12207	H	27500	Greece	TV	VH1 Europe	TV	Videoguard	No	OTE TV	SD	MPEG-4	451	551[eng]	1051	Tanea	22-Apr-16	870	
+12207	H	27500	Greece	TV	Disney Channel Middle East	TV	Videoguard	No	OTE TV	SD	MPEG-4	470	570[gre]	1070	Tanea	22-Apr-16	872	
+12207	H	27500	Greece	TV	OTE Sport Highlights HD	TV	Videoguard	No	OTE TV	HD	MPEG-4	471	571[gre]|671[eng]	1071	Tanea	23-Apr-16	874	
+12207	H	27500	Greece	TV	SKAÏ Tileorasi	TV	Videoguard	No	OTE TV	SD	MPEG-4	489	589[gre]	1089	Tanea	23-Apr-16	876	
+12207	H	27500	Greece	TV	Edge Sport HD	TV	Videoguard	No	OTE TV	HD	MPEG-4	492	592[eng]	1092	Tanea	23-Apr-16	878	
+12207	H	27500	Greece	TV	Star	TV	Videoguard	No	OTE TV	SD	MPEG-4	499	599[gre]	1099	Tanea	23-Apr-16	880	
+12207	H	27500	Greece	TV	National Geographic Channel	TV	Videoguard	No	OTE TV	SD	MPEG-4	4107	5107[eng]	1107	Tanea	23-Apr-16	882	
+12207	H	27500	Greece	TV	Viasat History	TV	Videoguard	No	OTE TV	SD	MPEG-4	4115	5115[eng]	1115	Tanea	23-Apr-16	884	
+12245	H	27500	GermanyA	TV	RTL Deutschland HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	2561	2562[ger]	301	Frocus	13-Mar-16	888	
+12245	H	27500	GermanyA	TV	Vox Deutschland HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	2593	2594[ger]	302	Frocus	13-Mar-16	890	
+12245	H	27500	GermanyA	TV	Sat 1 HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	2625	2626[ger]	303	dm800	13-Mar-16	892	
+12245	H	27500	GermanyA	TV	Prosieben HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	2689	2690[ger]	304	Frocus	13-Mar-16	894	
+12245	H	27500	GermanyA	TV	RTL Nitro HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	2751	2751[ger]	306	Tanea	13-Mar-16	896	
+12245	H	27500	GermanyA	TV	N-TV HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	2771	2772[ger]	307	Tanea	13-Mar-16	898	
+12284	H	27500	Greece	TV	Extra 3	TV	Videoguard	No	OTE TV	SD	MPEG-4	407	507[gre]	1007	Tanea	23-Sep-13	902	
+12284	H	27500	Greece	TV	OTE Cinema 1	TV	Videoguard	No	OTE TV	HD	MPEG-4	408	508[eng]	1008	Tanea	23-Sep-13	904	
+12284	H	27500	Greece	TV	SBC TV Greece	TV	Videoguard	No	OTE TV	SD	MPEG-4	410	510[gre]	1010	Tanea	19-Mar-15	906	
+12284	H	27500	Greece	TV	OTE CinemaOnDemand 2	TV	Videoguard	No	OTE TV	SD	MPEG-4	411	611[eng]	1011	Tanea	15-Nov-16	908	
+12284	H	27500	Greece	TV	OTE CinemaOnDemand 3	TV	Videoguard	No	OTE TV	SD	MPEG-4	422	622[eng]	1022	Tanea	15-Nov-16	910	
+12284	H	27500	Greece	TV	OTE CinemaOnDemand 4	TV	Videoguard	No	OTE TV	SD	MPEG-4	423	523[eng]	1023	Tanea	15-Nov-16	912	
+12284	H	27500	Greece	TV	Makedonia TV (Greece)	TV	Videoguard	No	OTE TV	SD	MPEG-4	426	526[gre]	1026	Tanea	24-Apr-14	914	
+12284	H	27500	Greece	TV	E TV (Epsilon TV)	TV	Videoguard	No	OTE TV	SD	MPEG-4	429	529[eng]	1029	Tanea	17-Dec-14	916	
+12284	H	27500	Greece	TV	OTE Cinema 2	TV	Videoguard	No	OTE TV	SD	MPEG-4	436	536[gre]	1036	Tanea	23-Sep-13	918	
+12284	H	27500	Greece	IMG	History Channel HD	TV	Videoguard	No	OTE TV	HD	MPEG-4	438		1038	Tanea	5-Apr-14	920	
+12284	H	27500	Greece	TV	OTE Sport 4 HD	TV	Videoguard	No	OTE TV	HD	MPEG-4	439	539[gre]|639[eng]	1039	Tanea	4-Nov-14	922	
+12284	H	27500	Greece	TV	MTV Greece	TV	Videoguard	No	OTE TV	HD	MPEG-4	452	552[gre]	1052	Frocus	23-Sep-13	924	
+12284	H	27500	Greece	TV	Kontra Channel Greece	TV	Videoguard	No	OTE TV	SD	MPEG-4	455	555[gre]	1055	Frocus	23-Sep-13	926	
+12284	H	27500	Greece	TV	Penthouse HD 1	TV	Videoguard	No	OTE TV	HD	MPEG-4	461	561[eng]	1061	Frocus	23-Sep-13	928	
+12284	H	27500	Greece	TV	TV 100 Greece	TV	Videoguard	No	OTE TV	SD	MPEG-4	478	578[gre]	1078	Tanea	23-Sep-13	930	
+12284	H	27500	Greece	TV	OTE Sport 1 HD	TV	Videoguard	No	OTE TV	HD	MPEG-4	495	595[eng]|695[eng]	1095	Tanea	26-May-16	932	
+12284	H	27500	Greece	TV	OTE History	TV	Videoguard	No	OTE TV	SD	MPEG-4	4117	5117[eng]	1117	Tanea	24-Dec-15	934	
+12322	H	27500	GermanyA	TV	Show Turk	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1051	1052[tur]	1050	dm800	18-Jun-09	938	
+12322	H	27500	GermanyA	TV	NTV avrupa	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1101	1102[tur]	1100	Frocus	24-Jul-09	940	
+12322	H	27500	GermanyA	TV	Kanal 7 avrupa	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1151	1152[tur]	1150	dm800	14-May-11	942	
+12322	H	27500	GermanyA	TV	Euro D	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1201	1202[tur]	1200	dm800	14-May-11	944	
+12322	H	27500	GermanyA	TV	ATV Avrupa	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1251	1252[tur]	1250	dm800	14-May-11	946	
+12322	H	27500	GermanyA	TV	Rai Uno	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1301	1302[ita]	1300	dm800	18-Jun-09	948	
+12322	H	27500	GermanyA	TV	ATV Avrupa	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1351	1352[tur]	1350	Tanea	5-Nov-16	950	
+12322	H	27500	GermanyA	TV	Rai Tre	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1401	1402[ita]	1400	dm800	18-Jun-09	952	
+12322	H	27500	GermanyA	TV	TV Polonia	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1501	1502[pol]	1500	dm800	14-May-11	954	
+12322	H	27500	GermanyA	TV	TRT-Turk TV	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1551	1552[tur]	1550	dm800	14-May-11	956	
+12322	H	27500	GermanyA	TV	wetter.com TV	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1601	1602[gre]	1600	Tanea	14-Dec-15	958	
+12322	H	27500	GermanyA	TV	Animal Planet HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	1611	1612[ger]|1613[ger]	1650	Tanea	15-Jan-16	960	
+12322	H	27500	GermanyA	TV	MTV Live HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	1701	1702[eng]	1700	Tanea	2-Dec-16	962	
+12360	H	27500	GermanyA	IMG	Nick Jr. Deutschland	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1141		614	Tanea	28-Apr-16	966	
+12360	H	27500	GermanyA	TV	Spiegel TV Wissen HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	1161	1162[ger]	616	ade3661	20-Nov-16	968	
+12360	H	27500	GermanyA	TV	History Channel Deutschland	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1171	1172[ger]|1173[eng]	617	ade3661	20-Nov-16	970	
+12360	H	27500	GermanyA	TV	A&E HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	1181	1182[ger]|1183[eng]	618	caveman99	4-Jul-18	972	
+12360	H	27500	GermanyA	TV	Travel Channel	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1191	1192[ger]	619	Frocus	14-May-11	974	
+12360	H	27500	GermanyA	TV	13th Street Deutschland HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	1201	1202[ger]|1203[eng]	620	Tanea	15-Jan-16	976	
+12360	H	27500	GermanyA	TV	SyFy Deutschland HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	1211	1212[ger]|1213[eng]	621	Tanea	15-Jan-16	978	
+12360	H	27500	GermanyA	TV	National Geographic Channel Deutschland HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	1221	1222[ger]|1223[eng]	622	Tanea	15-Jan-16	980	
+12360	H	27500	GermanyA	TV	Animal Planet	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1231	1232[ger]	623	Frocus	14-May-11	982	
+12399	H	27500	Greece	TV	Delta TV Greece	TV	Videoguard	No	OTE TV	SD	MPEG-4	409	509[gre]	1009	Tanea	23-Sep-13	986	
+12399	H	27500	Greece	TV	OTE Sport 2 HD	TV	Videoguard	No	OTE TV	HD	MPEG-4	415	515[gre]|615[eng]	1015	ade3661	20-Nov-16	988	
+12399	H	27500	Greece	TV	Ipeiros TV1	TV	Videoguard	No	OTE TV	SD	MPEG-4	417	517[gre]	1017	Tanea	23-Sep-13	990	
+12399	H	27500	Greece	TV	ART	TV	Videoguard	No	OTE TV	HD	MPEG-4	418	518[gre]	1018	Tanea	1-Aug-15	992	
+12399	H	27500	Greece	TV	Disney Junior Greece	TV	Videoguard	No	OTE TV	SD	MPEG-4	427	527[gre]	1027	Tanea	5-Apr-14	994	
+12399	H	27500	Greece	TV	OTE Sport 3 HD	TV	Videoguard	No	OTE TV	HD	MPEG-4	428	528[gre]|628[eng]	1028	ade3661	20-Nov-16	996	
+12399	H	27500	Greece	TV	Travel Channel HD Europe	TV	Videoguard	No	OTE TV	HD	MPEG-4	437	537[eng]	1037	Tanea	23-Sep-13	998	
+12399	H	27500	Greece	TV	TCM	TV	Videoguard	No		SD	MPEG-4	444	544[eng]	1044	Tanea	1-Oct-18	1000	
+12399	H	27500	Greece	TV	Zoom TV Greece	TV	Videoguard	No	OTE TV	SD	MPEG-4	447	547[gre]	1047	Tanea	23-Sep-13	1002	
+12399	H	27500	Greece	TV	Body In Balance Greece	TV	Videoguard	No	OTE TV	SD	MPEG-4	448	548[gre]	1048	Frocus	23-Sep-13	1004	
+12399	H	27500	Greece	TV	Mad TV	TV	Videoguard	No	OTE TV	SD	MPEG-4	456	556[gre]	1056	Tanea	23-Sep-13	1006	
+12399	H	27500	Greece	TV	Disney XD Greece	TV	Videoguard	No	OTE TV	SD	MPEG-4	475	575[gre]|675[eng]	1075	ade3661	20-Nov-16	1008	
+12399	H	27500	Greece	TV	France 24 English	TV	Videoguard	No	OTE TV	SD	MPEG-4	482	582[eng]	1082	Frocus	23-Sep-13	1010	
+12399	H	27500	Greece	TV	Nickelodeon	TV	Videoguard	No	OTE TV	HD	MPEG-4	493	593[gre]	1093	nautilus7	5-Apr-14	1012	
+12399	H	27500	Greece	TV	OTE Cinema 3	TV	Videoguard	No	OTE TV	SD	MPEG-4	494	594[gre]	1094	ade3661	20-Nov-16	1014	
+12399	H	27500	Greece	TV	OTE Sport 8 HD	TV	Videoguard	No	OTE TV	HD	MPEG-4	4101	5101[gre]|6101[eng]	1101	ade3661	20-Nov-16	1016	
+12399	H	27500	Greece	TV	Best TV Greece	TV	Videoguard	No	OTE TV	SD	MPEG-4	4102	5102[gre]	1102	ade3661	20-Nov-16	1018	
+12399	H	27500	Greece	TV	Corfu Channel	TV	Videoguard	No	OTE TV	SD	MPEG-4	4103	5103[gre]	1103	ade3661	20-Nov-16	1020	
+12437	H	27500	GermanyA	TV	TNT Film	TV	Videoguard|Conax	No		SD	MPEG-2	257	258[ger]|259[eng]	20201	ade3661	29-Feb-16	1024	
+12437	H	27500	GermanyA	TV	Romance TV	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	513	514[ger]	20202	dm800	14-May-11	1026	
+12437	H	27500	GermanyA	TV	AXN Deutschland HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	1025	1026[ger]|1027[eng]	20203	Tanea	14-Dec-15	1028	
+12437	H	27500	GermanyA	TV	E! Entertainment (D/E)	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	1281	1282[ger]|1283[ger]	20205	dm800	14-May-11	1030	
+12437	H	27500	GermanyA	TV	Sportdigital TV HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	1793	1794[ger]	20207	Tanea	2-Dec-16	1032	
+12437	H	27500	GermanyA	TV	Eurosport 2 Deutschland	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	2351	2352[ger]	20209	Frocus	28-Aug-12	1034	
+12437	H	27500	GermanyA	TV	Gute Laune TV	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	2561	2562[ger]	20210	Frocus	14-May-11	1036	
+12437	H	27500	GermanyA	TV	Discovery Channel HD Deutschland	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	2817	2818[ger]	20211	Frocus	12-Mar-13	1038	
+12437	H	27500	GermanyA	TV	Cartoon Network Deutschland	TV	Videoguard|Conax	No	KabelKiosk	SD	MPEG-2	3073	3074[ger]|3075[eng]	20212	Tanea	15-Jan-16	1040	
+12437	H	27500	GermanyA	TV	Fox Deutschland HD	TV	Videoguard|Conax	No	KabelKiosk	HD	MPEG-4	511	3402[ger]|3403[eng]|3404[ger]	20214	chab7	1-Jun-12	1042	
+12437	H	27500	GermanyA	DATA	.	@	FTA	Yes				0		20209	chab7	14-May-11	1044	
+12437	H	27500	GermanyA	DATA	.	@	FTA	Yes				0		20219	chab7	14-May-11	1046	
+12466	V	41950	Italy	TV	Nove	TV	FTA	Yes		SD	MPEG-2	8000	137[ita]	1	Tanea	5-Feb-20	1050	
+12466	V	41950	Italy	TV	Cielo	TV	FTA	Yes		SD	MPEG-2	166	414[ita]|415[000]	2	Tanea	5-Feb-20	1052	
+12466	V	41950	Italy	TV	Paramount Network Italia	TV	FTA	Yes		SD	MPEG-2	301	302[ita]|303[eng]	3	Tanea	5-Feb-20	1054	
+12466	V	41950	Italy	TV	Sky TG 24	TV	FTA	Yes		SD	MPEG-2	8002	8003[ita]|8030[eng]	5	Tanea	5-Feb-20	1056	
+12466	V	41950	Italy	TV	Giallo	TV	FTA	Yes		SD	MPEG-2	981	982[ita]	16	Tanea	5-Feb-20	1058	
+12466	V	41950	Italy	TV	RTL 102.5 RadioVisione	TV	FTA	Yes		SD	MPEG-2	790	791[ita]	21	Tanea	5-Feb-20	1060	
+12466	V	41950	Italy	TV	HSE 24 Italia	TV	FTA	Yes		SD	MPEG-2	780	781[ita]	22	Tanea	5-Feb-20	1062	
+12466	V	41950	Italy	TV	HGTV Italy	TV	FTA	Yes		SD	MPEG-2	8010	8011[ita]	25	Tanea	5-Feb-20	1064	
+12466	V	41950	Italy	TV	Boing Plus	TV	FTA	Yes		SD	MPEG-2	301	302[ita]	30	Tanea	5-Feb-20	1066	
+12466	V	41950	Italy	TV	Mediaset Extra 2	TV	FTA	Yes		SD	MPEG-2	8051	8052[ita]	30	Tanea	5-Feb-20	1068	
+12466	V	41950	Italy	TV	Super Tennis	TV	FTA	Yes		SD	MPEG-2	101	102[ita]	40	Tanea	5-Feb-20	1070	
+12466	V	41950	Italy	TV	Deejay TV HD	TV	FTA	Yes		HD	MPEG-4	401	402[ita]	40	Tanea	5-Feb-20	1072	
+12466	V	41950	Italy	TV	Real Time Italia	TV	FTA	Yes		SD	MPEG-2	2462	2463[ita]	44	Tanea	5-Feb-20	1074	
+12466	V	41950	Italy	TV	Motor Trend	TV	FTA	Yes		SD	MPEG-2	201	202[ita]	50	Tanea	5-Feb-20	1076	
+12466	V	41950	Italy	TV	DMAX Italia	TV	FTA	Yes		SD	MPEG-2	1200	1201[ita]	50	Tanea	5-Feb-20	1078	
+12466	V	41950	Italy	TV	Spike TV Italia	TV	FTA	Yes		SD	MPEG-2	201	202[ita]|203[000]	50	Tanea	5-Feb-20	1080	
+12466	V	41950	Italy	TV	Canale 65	TV	FTA	Yes		SD	MPEG-2	301	302[ita]	60	Tanea	5-Feb-20	1082	
+12466	V	41950	Italy	TV	Radio Italia TV	TV	FTA	Yes		SD	MPEG-2	245	246[ita]	60	Tanea	5-Feb-20	1084	
+12466	V	41950	Italy	TV	BOM Channel	TV	FTA	Yes		SD	MPEG-2	401	402[ita]	65	Tanea	14-Feb-20	1086	
+12466	V	41950	Italy	TV	TV 2000	TV	FTA	Yes		SD	MPEG-2	510	610[ita]	100	Tanea	5-Feb-20	1088	
+12466	V	41950	Italy	TV	Super!	TV	FTA	Yes		SD	MPEG-2	556	557[ita]	106	Tanea	5-Feb-20	1090	
+12466	V	41950	Italy	TV	Sfera TV	TV	FTA	Yes		SD	MPEG-4	501	502[ita]	110	Tanea	5-Feb-20	1092	
+12466	V	41950	Italy	TV	Radio Kiss Kiss TV	TV	FTA	Yes		SD	MPEG-4	701	702[ita]	120	Tanea	5-Feb-20	1094	
+12466	V	41950	Italy	TV	VH1 Italia	TV	FTA	Yes		SD	MPEG-2	6132	6133[ita]	120	Tanea	5-Feb-20	1096	
+12466	V	41950	Italy	TV	Frisbee	TV	FTA	Yes		SD	MPEG-2	1457	1458[ita]	146	Tanea	5-Feb-20	1098	
+12466	V	41950	Italy	TV	TV8 Italia	TV	FTA	Yes		SD	MPEG-2	6117	6118[ita]|6119[000]	150	Tanea	5-Feb-20	1100	
+12466	V	41950	Italy	TV	K-2 Italia	TV	FTA	Yes		SD	MPEG-2	981	982[ita]	151	Tanea	5-Feb-20	1102	
+12466	V	41950	Italy	TV	Zelig Sport	TV	FTA	Yes		SD	MPEG-2	1611	1612[ita]	161	Tanea	5-Feb-20	1104	
+12466	V	41950	Italy	TV	Radio Freccia TV	TV	FTA	Yes		SD	MPEG-2	800	801[ita]	218	Tanea	5-Feb-20	1106	
+12476	H	27500	Greece	TV	OTE Sport 6 HD	TV	Videoguard	No	OTE TV	HD	MPEG-4	403	503[gre]|603[eng]	1003	Tanea	28-Apr-19	1110	
+12476	H	27500	Greece	TV	Center TV	TV	Videoguard	No		SD	MPEG-4	434	534[gre]	1034	Tanea	12-Aug-19	1112	
+12476	H	27500	Greece	TV	MAD Hits HD	TV	Videoguard	No		HD	MPEG-4	463	563[gre]	1063	Tanea	12-Aug-19	1114	
+12476	H	27500	Greece	TV	CinemaOnDemand HD	TV	Videoguard	No	OTE TV	HD	MPEG-4	477	577[eng]|677[eng]	1077	Tanea	20-Aug-14	1116	
+12476	H	27500	Greece	TV	DW English	TV	Videoguard	No		SD	MPEG-4	481	581[eng]	1081	Tanea	25-Jul-19	1118	
+12476	H	27500	Greece	TV	Al Jazeera English	TV	Videoguard	No		SD	MPEG-4	484	584[eng]	1084	Tanea	25-Jul-19	1120	
+12476	H	27500	Greece	TV	RT English	TV	Videoguard	No		SD	MPEG-4	486	586[eng]	1086	Tanea	12-Aug-19	1122	
+12476	H	27500	Greece	TV	Bloomberg TV Europe	TV	Videoguard	No		SD	MPEG-4	487	587[eng]	1087	Tanea	12-Aug-19	1124	
+12476	H	27500	Greece	TV	OTE Sport 5 HD	TV	Videoguard	No	OTE TV	HD	MPEG-4	4109	5109[gre]|6109[eng]	1109	Tanea	4-Nov-14	1126	
+12476	H	27500	Greece	TV	National Geographic Channel HD	TV	Videoguard	No	OTE TV	SD	MPEG-4	4112	5112[eng]	1112	Tanea	17-Feb-18	1128	
+12476	H	27500	Greece	TV	MTV Europe	TV	Videoguard	No		SD	MPEG-4	4116	5116[eng]	1116	Tanea	12-Aug-19	1130	
+12476	H	27500	Greece	TV	Outdoor Channel International HD	TV	Videoguard	No		HD	MPEG-4	4135	5135[eng]	1135	Tanea	25-Jul-19	1132	

@@ -1,0 +1,358 @@
+Freq	Pol	SR	Beam	Type	Channel Name	FTA	V.PID	A.PID	SID	Row
+3663	L	5300 2/3	SES-5 Hemi	R	-R- Ray Power FM	No		1065[Eng]	2	3
+3663	L	5300 2/3	SES-5 Hemi	R	-R- Ray Power Abuja	No		1063[Eng]	3	3
+3668	L	2000 2/3	SES-5 Hemi	R	-R- Ray Power 106.5 FM	No		4114[Eng]	2	6
+3701	L	5000 5/6	SES-5 Hemi	TV	TVC News Nigeria	Yes	613	5112[Eng]	1	14
+3701	L	5000 5/6	SES-5 Hemi	TV	TVC Entertainment	Yes	713	6112[Eng]	2	14
+3800	L	27500 2/3	SES-5 Hemi	TV	AFN Prime Atlantic HD	No	1265	1225[Eng]	102	22
+3800	L	27500 2/3	SES-5 Hemi	TV	AFN News HD	No	1565	1525[Eng]	103	22
+3800	L	27500 2/3	SES-5 Hemi	TV	AFN Sports HD	No	1165	1125[Eng]	104	22
+3800	L	27500 2/3	SES-5 Hemi	TV	AFN Prime Pacific HD	No	1465	1425[Eng]	105	22
+3800	L	27500 2/3	SES-5 Hemi	TV	AFN Spectrum HD	No	1365	1325[Eng]	106	22
+3800	L	27500 2/3	SES-5 Hemi	TV	AFN Sports 2 HD	No	1665	1625[Eng]	107	22
+3800	L	27500 2/3	SES-5 Hemi	TV	AFN Pulse HD (timesharing)	No	1965	1925[Eng]	108	22
+3800	L	27500 2/3	SES-5 Hemi	TV	AFN Family HD (timesharing)	No	1965	1925[Eng]	108	22
+3800	L	27500 2/3	SES-5 Hemi	TV	AFN Movie HD	No	1065	1025[Eng]	109	22
+3800	L	27500 2/3	SES-5 Hemi	TV	test card	No	1760	1720[Eng]	401	22
+3800	L	27500 2/3	SES-5 Hemi	TV	AFN test card	No	1860	1820[Eng]	402	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN The Eagle Atlantic	No		1737[Eng]	120	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN The Voice	No		1337[Eng]	121	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN PowerTalk	No		1730[Eng]	122	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN Clutch Sports Radio	No		1127[Eng]	123	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN Fans	No		1135[Eng]	124	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- Hot AC/Today's Best Hits	No		1727[Eng]	125	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN Legacy	No		1427[Eng]	126	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN's Joe Radio	No		1537[Eng]	127	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- Gravity	No		1327[Eng]	128	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- Today's Best Country	No		1535[Eng]	129	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- NPR	No		1237[Eng]	130	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN Seasonal	No		1726[Eng]	131	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- The Contingency Channel	No		1402[Eng]	132	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN Freedom Radio	No		1527[Eng]	133	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN The Eagle Aviano	No		1927[Eng]	135	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN The Eagle Bavaria	No		1830[Eng]	136	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN The Eagle Benelux	No		1235[Eng]	137	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN The Eagle Incirlik	No		1627[Eng]	138	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN The Eagle Kaiserslautern	No		1832[Eng]	139	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN The Eagle Naples	No		1437[Eng]	140	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN The Eagle Rota	No		1435[Eng]	141	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN The Eagle Souda Bay	No		1227[Eng]	142	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN The Eagle Spangdahlem	No		1027[Eng]	143	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN The Eagle Stuttgart	No		1937[Eng]	144	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN The Eagle Vicenza	No		1032[Eng]	145	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- AFN The Eagle Wiesbaden	No		1930[Eng]	146	22
+3800	L	27500 2/3	SES-5 Hemi	R	-R- Sembach Afternoon Radio	No		1940[Eng]	148	22
+3850	R	2400 2/3	SES-5 Hemi	R	-R- Times Radio	No		[Eng]	102	63
+11345	H	30000 3/4	SES-5 Nordic	TV	SBN International	No	2876	2877[Eng]	2875	87
+11345	V	30000 3/4	SES-5 Nordic	R	-R- DR Klassisk	No		1777[Dan]	1776	89
+11345	V	30000 3/4	SES-5 Nordic	R	-R- DR P3	No		1779[Dan]	1778	89
+11345	V	30000 3/4	SES-5 Nordic	R	-R- DR P1	No		1799[Dan]	1798	89
+11727	H	27500 3/4	SES-5 Sub Saharan Africa	TV	Zuku Zone	No	1010	1011[Eng]	1	96
+11747	V	30000 3/4	Astra-4A BSS Europe	TV	Tellytrack International	No	100	256[Eng]	7605	98
+11747	V	30000 3/4	Astra-4A BSS Europe	TV	ZIK HD Ukraine	Yes	7611	7612[Ukr]	7610	98
+11747	V	30000 3/4	Astra-4A BSS Europe	TV	ZIK (Mist TV Lviv)	Yes	7616	7617[Ukr]	7615	98
+11747	V	30000 3/4	Astra-4A BSS Europe	TV	Svoboda	No	7621	7622[Rus]	7620	98
+11747	V	30000 3/4	Astra-4A BSS Europe	TV	5 Kanal Ukraine	Yes	7626	7627[Ukr]	7625	98
+11747	V	30000 3/4	Astra-4A BSS Europe	TV	News One HD	Yes	7631	7632[Ukr]	7630	98
+11747	V	30000 3/4	Astra-4A BSS Europe	TV	4 Kanal	Yes	7641	7642[Ukr]	7640	98
+11747	V	30000 3/4	Astra-4A BSS Europe	TV	Svarozhichi	Yes	7646	7647[Ukr]	7645	98
+11747	V	30000 3/4	Astra-4A BSS Europe	TV	ERC (European Racing Channel)	No	7651	7652[Eng]	7650	98
+11747	V	30000 3/4	Astra-4A BSS Europe	TV	Pershij Nezalezhnij	Yes	7661	7662[Ukr]	7660	98
+11747	V	30000 3/4	Astra-4A BSS Europe	TV	TV5 Zaporizhya	Yes	7666	7667[Ukr]	7665	98
+11747	V	30000 3/4	Astra-4A BSS Europe	TV	Zoryanij	Yes	7671	7672[Ukr]	7670	98
+11747	V	30000 3/4	Astra-4A BSS Europe	TV	Donbass online	Yes	7676	7677[Ukr]	7675	98
+11747	V	30000 3/4	Astra-4A BSS Europe	TV	ATR HD	Yes	7681	7682[Ukr]	7680	98
+11747	V	30000 3/4	Astra-4A BSS Europe	TV	Obozrevatel TV (Oboz TV)	Yes	7686	7687[Ukr]	7685	98
+11747	V	30000 3/4	Astra-4A BSS Europe	TV	English Club TV HD	No	7691	7692[Ukr]	7690	98
+11747	V	27500 2/3	SES-5 Sub Saharan Africa	TV	ARY QTV	Yes	2400	2401[Urd]		115
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	1+1	No	1001	1002[Ukr]	6100	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	1+1 HD	No	1011	1012[Ukr]	6101	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	Kvartal TV	No	1081	1082[Ukr]|1083[Rus]	6108	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	TET	No	1101	1102[Ukr]	6110	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	Plus Plus	No	1121	1122[Ukr]	6112	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	Bigudi	No	1141	1142[Ukr]	6114	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	2+2	No	1201	1202[Ukr]	6120	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	1+1 International	Yes	1251	1152[Ukr]	6125	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	Paramount Comedy Ukraine	No	1301	1302[Ukr]	6130	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	Dacha	No	1321	1322[Ukr]	6132	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	Spike Russia	No	1501	1502[Rus]|1503[Eng]	6150	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	FilmUaDrama	No	1581	1582[Rus]|1583[Eng]	6152	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	36.6 TV	No	1541	1542[Ukr]	6154	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	Paramount Channel Russia	No	1561	1562[Rus]|1563[Eng]	6156	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	Nicktoons Scandinavia	No	1521	1522[Ukr]|1523[Rus]	6158	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	Unian TV	Yes	6161	6162[Ukr]	6160	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	Epoque	No	1621	1622[Ukr]	6162	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	Avers	Yes	1651	1652[Ukr]	6165	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	Music Box Ukraina	No	1751	1752[Ukr]	6175	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	TEST 2	No	1771	1772[Ukr]	6177	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	OTV Music	No	1901	1902[Ukr]	6190	117
+11766	H	27500 2/3	Astra-4A BSS Europe	TV	Kus-Kus	No	1941	1942[Ukr]	6194	117
+11785	V	27500 3/4	SES-5 Sub Saharan Africa	TV	Canal CVV International	No	547	548[Eng]	30	141
+11919	H	27500 3/4	SES-5 Sub Saharan Africa	TV	Virtual Games 2	Yes	2005	3005[Eng]	5	153
+11919	H	27500 3/4	SES-5 Sub Saharan Africa	TV	ABC TV	Yes	2007	3007[Eng]	7	153
+11919	H	27500 3/4	SES-5 Sub Saharan Africa	TV	RTV (Resurrection TV)	Yes	2010	3010[Eng]	10	153
+11919	H	27500 3/4	SES-5 Sub Saharan Africa	TV	Virtual Games	Yes	2011	3011[Eng]	11	153
+11919	H	27500 3/4	SES-5 Sub Saharan Africa	R	-R- LRN.FM (The Liberty Radio Network)	No		3051[Eng]	51	153
+11919	H	27500 3/4	SES-5 Sub Saharan Africa	R	-R- TWR Africa 2	No		3059[Eng]	59	153
+11938	V	27500 5/6	Astra-4A BSS Nordic	TV	LRT Lituanica	Yes	5341	5342[Lit]	10510	161
+11996	H	27500 3/4	Astra-4A BSS Nordic	TV	TBN Nordic	Yes	4096	4097[Swe]	4095	168
+11996	H	27500 3/4	Astra-4A BSS Nordic	TV	Visjon Norge HD	Yes	4011	2308[Eng]	4010	168
+11996	H	27500 3/4	Astra-4A BSS Nordic	TV	Kanal 10 Sverige	Yes	4051	4052	4050	168
+11996	H	27500 3/4	Astra-4A BSS Nordic	TV	God TV Europe	Yes	4061	4062[Eng]	4060	168
+11996	H	27500 3/4	Astra-4A BSS Nordic	TV	Vision Sverige	Yes	4091	4092[Swe]	4090	168
+11996	H	27500 3/4	SES-5 Sub Saharan Africa	TV	ST Guide	No	1110	2110[Eng]	8100	174
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK P1 Østlandssendingen	No		3867[Nor]	7867	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK 1 P1 Troms	No		3868[Nor]	7868	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK 1 P1 Finnmark	No		3869[Nor]	7869	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK 1 P1 Nordland	No		3870[Nor]	7870	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK 1 P1 Trøndelag	No		3871[Nor]	7871	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK 1 P1 Møre og Romsdal	No		3874[Nor]	7872	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK 1 P1 Sogn og Fjordane	No		3873[Nor]	7873	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK 1 P1 Hordaland	No		3874[Nor]	7874	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK 1 P1 Rogaland	No		3875[Nor]	7875	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK 1 P1 Sørlandet	No		3876[Nor]	7876	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK 1 P1 Telemark	No		3877[Nor]	7877	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK 1 P1 Buskerud	No		3879[Nor]	7879	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK P1 Innlandet	No		3880[Nor]	7880	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK 1 P1 Østfold	No		3881[Nor]	7881	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK P2	No		3882[Nor]	7882	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK P3	No		3883[Nor]	7883	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK Klassisk	No		3884[Nor]	7884	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK Sámi Radio	No		3885[Nor]	7885	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK mP3	No		3886[Nor]	7886	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK Alltid Nyheter	No		3887[Nor]	7887	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK P13	No		3888[Nor]	7888	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK Været til sjøs	No		3889[Nor]	7889	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK Super	No		3890[Nor]	7890	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK P1+	No		3891[Nor]	7891	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK Jazz	No		3892[Nor]	7892	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK Sport	No		3893[Nor]	7893	176
+12015	V	27500 3/4	Astra-4A BSS Nordic	R	-R- NRK Folkemusikk	No		3894[Nor]	7894	176
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	TV	Benie TV	Yes	1207	1307[Fre]	5807	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	TV	France 24 Français	Yes	1208	1308[Fre]	5808	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	TV	Tele Congo	Yes	1211	1311[Fre]	5811	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	TV	Vatican Media	Yes	1216	1316[Ita]	5816	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	TV	Espace TV Guinea	Yes	1217	1317[Fre]	5817	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	TV	France 24 English	Yes	1218	1318[Eng]	5818	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	TV	RT News	Yes	1220	1320[Eng]	5820	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	TV	TRT World HD	Yes	1222	1322[Eng]	5822	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	TV	Africanews	Yes	1241	1341[Eng]|1441[Fre]	5841	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	R	-R- RFI English	No		882[Eng]	855	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	R	-R- RFI Français	No		882[Fre]	856	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	R	-R- RFI Portugais	No		882[Por]	857	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	R	-R- RFI Swahili	No		882[Swa]	858	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	R	-R- RFI Hausa	No		882[Hau]	860	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	R	-R- RFI Swahili-English	No		882[Swa][Eng]	861	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	R	-R- RFI Mandingue	No		882[Swa][Eng]	862	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	R	-R- RFI Peul	No		882	868	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	R	-R- RFI Peul-Mandingue	No		882	869	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	R	-R- RFI Peul-Hausa	No		882	870	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	R	-R- RFI English-Hausa	No		882	871	204
+12015	V	29950 3/4	SES-5 Sub Saharan Africa	R	-R- Radio Congo	No		341[Fre]	5891	204
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	TV	SES Demo	Yes	255	256	8001	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	TV	Gabriele TV Africa	Yes	611	131[Ger]	8005	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	TV	DW English	Yes	101	102[Eng]	8010	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	TV	DW English	Yes	811	818[Eng]	8020	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	TV	CCTV 4 Europe	Yes	105	305[Chi]	8031	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	TV	CGTN Documentary	Yes	107	307[Eng]	8032	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	TV	CGTN Français	Yes	110	310[Fre]	8033	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	TV	CGTN	Yes	111	311[Eng]	8034	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	TV	MTA Africa	Yes	1219	1319[Eng]|1419[Fre]|1519[Urd]|1619[Swa]|1719[Yor]	8036	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	TV	Madani Channel	Yes	2342	2343[Eng]	8037	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	TV	NHK World Japan	Yes	1160	1120[Eng]	8040	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	TV	BVN TV Europa	Yes	525	122[Dut]	8060	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	R	-R- DW-Radio 8	No		2080	8025	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	R	-R- DW-Radio 9	No		2090	8026	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	R	-R- DW-Radio FM 2	No		2120	8027	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	R	-R- DW-Radio FM 3	No		2130	8028	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	R	-R- DW-Radio FM 4	No		2020	8029	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	R	-R- DW-Radio FM 5	No		2040	8030	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	R	-R- BVN Radio 1	No		201[Dut]	8061	227
+12034	H	27500 3/4	SES-5 Sub Saharan Africa	R	-R- VRT Radio 1	No		51[Dut]	8062	227
+12073	H	27500 3/4	Astra-4A BSS Europe	TV	New Christian	Yes	6506	6507[Ukr]	6505	250
+12073	H	27500 3/4	Astra-4A BSS Europe	TV	News One	Yes	6511	6512[Ukr]	6510	250
+12073	H	27500 3/4	Astra-4A BSS Europe	TV	Espreso TV	Yes	6521	6522[Ukr]	6520	250
+12073	H	27500 3/4	Astra-4A BSS Europe	TV	Centralniy Kanal	Yes	6526	6527[Ukr]	6525	250
+12073	H	27500 3/4	Astra-4A BSS Europe	TV	Glas	Yes	6531	6532[Ukr]|6533[Rus]	6530	250
+12073	H	27500 3/4	Astra-4A BSS Europe	TV	Karavan	Yes	6546	6547[Rus]	6545	250
+12073	H	27500 3/4	Astra-4A BSS Europe	TV	ZIK Ukraine	Yes	6561	6562[Ukr]	6560	250
+12073	H	27500 3/4	Astra-4A BSS Europe	TV	Pershij Nezalezhnij	Yes	6566	6567[Ukr]	6565	250
+12073	H	27500 3/4	Astra-4A BSS Europe	TV	Rada Ukrainian Parliament Channel	Yes	6571	6572[Ukr]	6570	250
+12073	H	27500 3/4	Astra-4A BSS Europe	TV	English Club TV	No	6581	6582[Ukr]|6583[Eng]	6580	250
+12073	H	27500 3/4	Astra-4A BSS Europe	TV	Natali	Yes	6591	6592[Ukr]	6590	250
+12073	H	27500 3/4	Astra-4A BSS Europe	R	-R- Emmanuel	No		6501[Ukr]	6500	250
+12073	H	27500 3/4	Astra-4A BSS Europe	R	-R- Radio NV (Novoe Vremya)	No		6504[Ukr]	6503	250
+12073	H	27500 3/4	Astra-4A BSS Europe	R	-R- Hromadske Radio	No		6509[Ukr]	6508	250
+12130	V	27500 3/4	Astra-4A BSS Europe	TV	Unian TV	Yes	6611	6612[Ukr]	6610	267
+12130	V	27500 3/4	Astra-4A BSS Europe	TV	Football 1 HD	No	6621	6622[Ukr]	6620	267
+12130	V	27500 3/4	Astra-4A BSS Europe	TV	ICTV UA	Yes	6651	6652[Ukr]	6650	267
+12130	V	27500 3/4	Astra-4A BSS Europe	TV	Inter+	Yes	6671	6672[Ukr]	6670	267
+12130	V	27500 3/4	Astra-4A BSS Europe	TV	1+1 International	Yes	6681	6682[Ukr]	6680	267
+12130	V	27500 3/4	Astra-4A BSS Europe	TV	Ukraina 24	Yes	6691	6692[Ukr]	6690	267
+12149	H	27500 3/4	Astra-4A BSS Europe	TV	Coral TV1	No	410	400[Eng]	20	274
+12149	H	27500 3/4	Astra-4A BSS Europe	TV	Coral TV2	No	610	600[Eng]	23	274
+12149	H	27500 3/4	Astra-4A BSS Europe	TV	Ladbrokes 1	No	310	300[Eng]|301[Eng]	66	274
+12149	H	27500 3/4	Astra-4A BSS Europe	TV	Ladbrokes Extra	No	510	500[Eng]	88	274
+12149	H	27500 3/4	Astra-4A BSS Europe	TV	SIS Spanish Racing	No	210	200	92	274
+12149	H	27500 3/4	Astra-4A BSS Europe	TV	SIS MK Test	No	810	800[Eng]	108	274
+12149	H	27500 3/4	Astra-4A BSS Europe	TV	PPTV-UK	No	810	802[Eng]	114	274
+12149	H	27500 3/4	Astra-4A BSS Europe	TV	PPTV4	No	710	700[Eng]	116	274
+12149	H	27500 3/4	Astra-4A BSS Europe	TV	SIS+ with BTC Audio	No	910	900[Eng]|902[Eng]	120	274
+12149	H	27500 3/4	Astra-4A BSS Europe	TV	MK Test	No	110	100[Eng]	201	274
+12188	H	30000 5/6	Astra-4A BSS Europe	TV	Inter	No	1101	1102[Ukr]	11	286
+12188	H	30000 5/6	Astra-4A BSS Europe	TV	Telekanal Ukraine	No	1201	1202[Ukr]	12	286
+12188	H	30000 5/6	Astra-4A BSS Europe	TV	1+1	No	1301	1302[Ukr]	13	286
+12188	H	30000 5/6	Astra-4A BSS Europe	TV	NTN	No	1401	1402[Ukr]	14	286
+12188	H	30000 5/6	Astra-4A BSS Europe	TV	K1	No	1501	1502[Ukr]	15	286
+12188	H	30000 5/6	Astra-4A BSS Europe	TV	Pershiy Nacionalniy (UA)	No	1601	1602[Ukr]	16	286
+12188	H	30000 5/6	Astra-4A BSS Europe	TV	ICTV	No	1701	1702[Ukr]	17	286
+12188	H	30000 5/6	Astra-4A BSS Europe	TV	Enter Film	No	1801	1802[Ukr]	18	286
+12188	H	30000 5/6	Astra-4A BSS Europe	TV	Zoom	No	2101	2102[Ukr]	21	286
+12188	H	30000 5/6	Astra-4A BSS Europe	TV	Indigo TV	No	2201	2202[Ukr]	22	286
+12188	H	30000 5/6	Astra-4A BSS Europe	TV	Telekanal STB	No	2301	2302[Ukr]	23	286
+12188	H	30000 5/6	Astra-4A BSS Europe	TV	TET	No	2401	2402[Ukr]	24	286
+12188	H	30000 5/6	Astra-4A BSS Europe	TV	K2	No	2501	2502[Ukr]	25	286
+12188	H	30000 5/6	Astra-4A BSS Europe	TV	Novy Kanal	No	2601	2602[Ukr]	26	286
+12188	H	30000 5/6	Astra-4A BSS Europe	TV	M1 Ukraine	No	2701	2702[Ukr]	27	286
+12188	H	30000 5/6	Astra-4A BSS Europe	TV	Pryamiy HD	Yes	2801	2802[Ukr]	28	286
+12245	V	30000 2/3	Astra-4A BSS Europe	TV	Ukraina 24 HD	Yes	131	132[Ukr]	2913	307
+12245	V	30000 2/3	Astra-4A BSS Europe	TV	Donbass	Yes	181	182[Ukr]|183[Ukr]	2918	307
+12245	V	30000 2/3	Astra-4A BSS Europe	TV	34 Telekanal	Yes	191	192[Ukr]	2919	307
+12265	H	30000 3/4	Astra-4A BSS Europe	TV	Trofey	Yes	7111	7112[Ukr]|7113[Rus]	7711	311
+12265	H	30000 3/4	Astra-4A BSS Europe	TV	Terra	Yes	7141	7142[Ukr]|7143[Rus]	7714	311
+12265	H	30000 3/4	Astra-4A BSS Europe	TV	Nauka	Yes	7151	7152[Ukr]|7153[Rus]	7715	311
+12265	H	30000 3/4	Astra-4A BSS Europe	TV	Fauna	Yes	7161	7162[Ukr]|7163[Rus]	7716	311
+12265	H	30000 3/4	Astra-4A BSS Europe	TV	Kyïv TV	Yes	7211	7212[Ukr]	7721	311
+12284	V	27500 3/4	Astra-4A BSS Europe	TV	Rabinovich TV	Yes	6911	6912[Rus]	6910	317
+12284	V	27500 3/4	Astra-4A BSS Europe	TV	Nadiya	Yes	6916	6917[Ukr]	6915	317
+12284	V	27500 3/4	Astra-4A BSS Europe	TV	Sonce UA	Yes	6921	6922[Ukr]	6920	317
+12284	V	27500 3/4	Astra-4A BSS Europe	TV	5 Kanal Ukraine	Yes	6931	6932[Ukr]	6930	317
+12284	V	27500 3/4	Astra-4A BSS Europe	TV	KRT	Yes	6941	6942[Ukr]	6940	317
+12284	V	27500 3/4	Astra-4A BSS Europe	TV	Pryamiy	Yes	6951	6952[Ukr]	6950	317
+12284	V	27500 3/4	Astra-4A BSS Europe	TV	Vintage TV	Yes	6946	6947[Ukr]	6945	317
+12284	V	27500 3/4	Astra-4A BSS Europe	TV	Ukrlive	Yes	6961	6962[Ukr]	6960	317
+12284	V	27500 3/4	Astra-4A BSS Europe	TV	112 Ukraine	Yes	6971	6972	6970	317
+12284	V	27500 3/4	Astra-4A BSS Europe	TV	Nash	Yes	6981	6982[Ukr]	6980	317
+12284	V	27500 3/4	Astra-4A BSS Europe	R	-R- Army FM	No		6901[Ukr]	6900	317
+12284	V	27500 3/4	Astra-4A BSS Europe	R	-R- Radio Hope (Golos Nadiï)	No		6918[Ukr]	6915	317
+12284	V	27500 3/4	Astra-4A BSS Europe	R	-R- Perec FM	No		6963[Ukr]	6945	317
+12303	H	25548 7/8	Astra-4A BSS Europe	TV	Diva Romania	No	3160	3120[Rum]|3121[Eng]|3122	501	331
+12303	H	25548 7/8	Astra-4A BSS Europe	TV	Universal Channel Hungary	No	3260	3220[Eng]|3222[Hun]	502	331
+12303	H	25548 7/8	Astra-4A BSS Europe	TV	Diva Balkans	No	3260	3220[Eng]	620	331
+12303	H	25548 7/8	Astra-4A BSS Europe	TV	Belsat TV	Yes	2601	2602[Bel]	1291	331
+12303	H	25548 7/8	Astra-4A BSS Europe	IMG	Software Update	No	3160			331
+12303	H	25548 7/8	Astra-4A BSS Europe	R	-R- Bootstrap Master	No		3720[Eng]	1	331
+12303	H	25548 7/8	Astra-4A BSS Europe	R	-R- Premier Christian Radio	No		1323[Eng]	212	331
+12303	H	25548 7/8	Astra-4A BSS Europe	R	-R- Absolute Radio	No		1215[Eng]	1006	331
+12303	H	25548 7/8	Astra-4A BSS Europe	R	-R- IRN	No		4401|4402	1283	331
+12322	V	27500 5/6	Astra-4A BSS Europe	TV	Animal Planet Europe	No	100	101[Eng]|102[Cze]|103[Rus]|104[Hun]|105[Tur]	100	341
+12322	V	27500 5/6	Astra-4A BSS Europe	TV	Discovery Channel Central Europe	No	200	201[Eng]|202[Rus]|203[Cze]|204[Hun]|205[Bul]	200	341
+12322	V	27500 5/6	Astra-4A BSS Europe	TV	Investigation Discovery Xtra	No	400	401[Eng]|402[Hun]|403[Rus]|404[Tur]|405[Cze]|406[Bul]	400	341
+12322	V	27500 5/6	Astra-4A BSS Europe	TV	Discovery Channel Central Europe	No	500	501[Eng]|502[Rus]	500	341
+12322	V	27500 5/6	Astra-4A BSS Europe	TV	Discovery Science Europe	No	900	901[Eng]|902[Hun]|903[Tur]|904[Cze]|905[Bul]	900	341
+12322	V	27500 5/6	Astra-4A BSS Europe	TV	Discovery World	No	1000	1001[Eng]|1002[Hun]|1003[Tur]|1004[Rus]|1005[Cze]	1000	341
+12322	V	27500 5/6	Astra-4A BSS Europe	TV	Animal Planet Türkiye HD	No	1300	1301[Tur]|1302[Eng]|1303[Tur]	1300	341
+12322	V	27500 5/6	Astra-4A BSS Europe	TV	Discovery Channel Türkiye HD	No	1100	1101[Tur]|1102[Eng]|1103[Tur]	1100	341
+12322	V	27500 5/6	Astra-4A BSS Europe	TV	Discovery Science Türkiye HD	No	1500	1501[Tur]|1502[Eng]|1503[Tur]	1500	341
+12322	V	27500 5/6	Astra-4A BSS Europe	TV	Eurosport 2 Deutschland	No	4200	4201[Org]|4202[Eng]	4200	341
+12322	V	27500 5/6	Astra-4A BSS Europe	TV	Eurosport 1 Deutschland	No	4300	4301[Ger]	4300	341
+12322	V	27500 5/6	Astra-4A BSS Europe	TV	Eurosport 1	No	4100	4401|4402|4403|4404	4400	341
+12322	V	27500 5/6	Astra-4A BSS Europe	TV	Eurosport 2	No	4500	4501|4502|4503|4504	4500	341
+12322	V	27500 5/6	Astra-4A BSS Europe	TV	Eurosport 2 BL	No	4100	4601|4602|4603|4604	4600	341
+12341	H	30000 3/4	Astra-4A BSS Europe	TV	Mega	No	3101	3102[Ukr]	31	356
+12341	H	30000 3/4	Astra-4A BSS Europe	TV	Pixel	No	3201	3202[Ukr]	32	356
+12341	H	30000 3/4	Astra-4A BSS Europe	TV	XSport	No	3301	3302[Ukr]	33	356
+12341	H	30000 3/4	Astra-4A BSS Europe	TV	NLO TV	No	3401	3402[Ukr]	34	356
+12341	H	30000 3/4	Astra-4A BSS Europe	TV	2+2	No	3501	3502[Ukr]	35	356
+12341	H	30000 3/4	Astra-4A BSS Europe	TV	ZIK Ukraine	No	3601	3602[Ukr]	36	356
+12341	H	30000 3/4	Astra-4A BSS Europe	TV	Espreso TV	No	3701	3702[Ukr]	37	356
+12341	H	30000 3/4	Astra-4A BSS Europe	TV	test card	No	3801	3802	38	356
+12341	H	30000 3/4	Astra-4A BSS Europe	TV	test card	No	6101	6102[Ukr]	1	356
+12341	H	30000 3/4	Astra-4A BSS Europe	TV	Kanal 5	Yes	4101	4102[Ukr]	41	356
+12341	H	30000 3/4	Astra-4A BSS Europe	TV	UA: Kultura Ukraine	Yes	4201	4202[Ukr]	42	356
+12341	H	30000 3/4	Astra-4A BSS Europe	TV	Rada Ukrainian Parliament Channel	Yes	4301	4302[Ukr]	43	356
+12341	H	30000 3/4	Astra-4A BSS Europe	TV	Ukraina 24	Yes	4401	4402[Ukr]	44	356
+12341	H	30000 3/4	Astra-4A BSS Europe	TV	Test 48	No	4109	4110[Ukr]	149	356
+12341	H	30000 3/4	Astra-4A BSS Europe	TV	test card	No	5401	5402	800	356
+12360	V	27500 5/6	Astra-4A BSS Europe	TV	Travel Channel EMEA HD	No	100	101[Eng]|102[Pol]|103[Cze]|104[Rus]|105[Hun]|106[Bul]|107[Tur]	100	375
+12360	V	27500 5/6	Astra-4A BSS Europe	TV	HGTV Pan Regional HD	No	300	301[Eng]	300	375
+12360	V	27500 5/6	Astra-4A BSS Europe	TV	Turbo Xtra Poland	No	600	601[Pol]|602[Org]|603[Pol]|604[Pol]	600	375
+12360	V	27500 5/6	Astra-4A BSS Europe	TV	TLC Balkans	No	800	801[Eng]|802[Eng]	800	375
+12360	V	27500 5/6	Astra-4A BSS Europe	TV	TLC Hungary	No	1000	1001[Hun]|1002[Eng]|1003[Cze]	1000	375
+12360	V	27500 5/6	Astra-4A BSS Europe	TV	Investigation Discovery Sverige	No	1600	1601[Eng]	1600	375
+12360	V	27500 5/6	Astra-4A BSS Europe	TV	Animal Planet Poland HD	No	1700	1701[Pol]|1702[Eng]	1700	375
+12360	V	27500 5/6	Astra-4A BSS Europe	TV	Discovery Science Poland HD	No	1800	18001[Pol]|1802[Eng]|1803[Pol]	1800	375
+12360	V	27500 5/6	Astra-4A BSS Europe	TV	Investigation Discovery Poland	No	2100	2101[Pol]|202[Eng]	2100	375
+12360	V	27500 5/6	Astra-4A BSS Europe	TV	Discovery Channel Sweden	No	2200	2201[Swe]|2202[Eng]	2200	375
+12360	V	27500 5/6	Astra-4A BSS Europe	TV	TLC Poland HD	No	3300	3101[Pol]|3102[Eng]	3100	375
+12360	V	27500 5/6	Astra-4A BSS Europe	TV	TLC Pan Regional	No	3300	3301[Eng]|3302[Hun]|3303[Rus]|3304[Cze]|3306[Por]	3300	375
+12360	V	27500 5/6	Astra-4A BSS Europe	TV	Eurosport 2 PAN HD	No	4700	4701[Gre]|4702[Rus]|4703[Por]|4704[Tur]|4705[Ser]|4707[Ita]|4708[Eng]|4709[Spa]|4710[Cze]	4700	375
+12380	H	27500 3/4	Astra-4A BSS Europe	TV	TVGE Internacional	Yes	201	202[Spa]	200	389
+12380	H	27500 3/4	Astra-4A BSS Europe	TV	ATG Live	No	4130	4131[Swe]|4132|4135	210	389
+12380	H	27500 3/4	Astra-4A BSS Europe	TV	RTVi Europe	No	221	222[Rus]	220	389
+12380	H	27500 3/4	Astra-4A BSS Europe	TV	SBN Global	No	251	252[Eng]|253[Eng]	250	389
+12380	H	27500 3/4	Astra-4A BSS Europe	TV	Kanal 75 International	No	4141	4142[Eng]|4143[Ger]|4144[Pol]	260	389
+12380	H	27500 3/4	Astra-4A BSS Europe	TV	TBN Ukraine	Yes	271	272[Ukr]	270	389
+12380	H	27500 3/4	Astra-4A BSS Europe	TV	DW Deutsch	Yes	291	292[Ger]	290	389
+12380	H	27500 3/4	Astra-4A BSS Europe	R	-R- Eurapeiskae Radie dlja Belarus	No		231[Bel]	230	389
+12380	H	27500 3/4	Astra-4A BSS Europe	R	-R- Radio Marija Latvia	No		235[Lat]	234	389
+12399	V	27500 3/4	Astra-4A BSS Europe	TV	Inter+	Yes	7391	7392[Ukr]|7393	7390	400
+12418	H	27500 3/4	Astra-4A BSS Europe	TV	Betfred SIS - Cisco 1	No	100	110[Eng]	11	402
+12418	H	27500 3/4	Astra-4A BSS Europe	TV	Landbrokes SIS LES2 - Cisco 1	No	800	112[Eng]	33	402
+12418	H	27500 3/4	Astra-4A BSS Europe	TV	Betfred TOTE 2 - Cisco 1	No	100	310[Eng]	49	402
+12418	H	27500 3/4	Astra-4A BSS Europe	TV	SIS Vision	No	100	112[Eng]	70	402
+12418	H	27500 3/4	Astra-4A BSS Europe	TV	SIS Euro Racing	No	200	210[Eng]	90	402
+12418	H	27500 3/4	Astra-4A BSS Europe	TV	SIS Racing Service William Hill	No	600	610[Eng]	53	402
+12418	H	27500 3/4	Astra-4A BSS Europe	TV	WH 2	No	900	910[Eng]|912[Eng]	54	402
+12418	H	27500 3/4	Astra-4A BSS Europe	TV	Racing TVi promo	No	700	710[Eng]	95	402
+12418	H	27500 3/4	Astra-4A BSS Europe	TV	New Boyles Sports - Cisco 1	No	100	212[Eng]	147	402
+12418	H	27500 3/4	Astra-4A BSS Europe	TV	Betfred Tog - Cisco 3	No	300	310[Eng]	160	402
+12418	H	27500 3/4	Astra-4A BSS Europe	TV	Betfred TTV - Cisco 4	No	400	410[Eng]	162	402
+12418	H	27500 3/4	Astra-4A BSS Europe	TV	Betfred Virtual - Cisco 5	No	500	510[Eng]	163	402
+12437	V	30000 2/3	Astra-4A BSS Europe	TV	Inter	No	7101	7102[Ukr]	7910	416
+12437	V	30000 2/3	Astra-4A BSS Europe	TV	NTN	No	7121	7122[Ukr]	7912	416
+12437	V	30000 2/3	Astra-4A BSS Europe	TV	Test	No	7931	7132[Eng]	7913	416
+12437	V	30000 2/3	Astra-4A BSS Europe	TV	Mega	No	7141	7142[Ukr]	7914	416
+12437	V	30000 2/3	Astra-4A BSS Europe	TV	K1	No	7161	7162[Ukr]	7916	416
+12437	V	30000 2/3	Astra-4A BSS Europe	TV	K2	No	7181	7182[Ukr]	7918	416
+12437	V	30000 2/3	Astra-4A BSS Europe	TV	Zoom	No	7201	7202[Ukr]	7920	416
+12437	V	30000 2/3	Astra-4A BSS Europe	TV	Pixel	No	7221	7222[Ukr]	7922	416
+12437	V	30000 2/3	Astra-4A BSS Europe	TV	Enter Film	No	7241	7242[Ukr]	7924	416
+12437	V	30000 2/3	Astra-4A BSS Europe	TV	Inter+	Yes	7261	7262[Ukr]	7926	416
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	TV	Das Erste HD	No	1001	1002[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	TV	ZDF HD	No	1011	1012[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	R	3 Sat	No		[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	TV	RTL Deutschland	No	1051	1052[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	TV	RTL 2 Deutschland	No	1061	1062		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	TV	Sat.1 Deutschland	No	1101	1102[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	TV	Pro 7 Deutschland	No	1111	1112[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	TV	Kabel 1 Deutschland	No	1121	1122[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	TV	Vox Deutschland	No	1151	1152[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	TV	Puls 4	No	1501	1502[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	TV	DW Deutsch	No	1261	1262[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	TV	Super RTL Deutschland	No	1351	1352[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	TV	Sixx Deutschland	No	1361	1362[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	TV	N-TV	No	1501	1502[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	TV	Jukebox (06-18)	No	1601	1602[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	TV	Auto Motor und Sport (18-06)	No	1601	1602[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	TV	Fix & Foxi (07-20)	No	1651	1652[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	R	Satelio Infokanal	No		[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	R	AMC (AMusic Channel Nigeria)	Yes		[Eng]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	R	-R- Hit Radio Namibia	No		3001[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	R	-R- FFN Digital	No		3051[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	R	-R- Klassik Radio	No		3061[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	R	-R- Harmony FM	No		3071[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	R	-R- Antenne Bayern	No		3091[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	R	-R- Radio Paloma	No		3101[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	R	-R- Sunshine Live	No		3111[Ger]		430
+12565	V	30000 5/6	Astra-4A Sub Saharan Africa	R	-R- Rock Antenne	No		3121[Ger]		430
+12578	H	1333 3/4	Astra-4A FSS Europe	R	-R- Endüstri Radyo	No		201[Tur]	1	458
+12578	H	1333 3/4	Astra-4A FSS Europe	R	-R- Bayram FM	No		202[Tur]	2	458
+12578	H	1333 3/4	Astra-4A FSS Europe	R	-R- Bayram FM	No		203[Tur]	3	458
+12578	H	1333 3/4	Astra-4A FSS Europe	R	-R- Radio 100	No		232[Tur]	32	458
+12645	V	256 1/2	Astra-4A FSS Europe	R	-R- Radio NRJ (Finland)	No		64[Fin]	161	470
+12671	V	3000 2/3	Astra-4A Sub Saharan Africa	R	Homebase TV Ghana	Yes		[Eng]		472
+12735	H	3600 2/3	Astra-4A FSS Europe	TV	Jurnal TV HD Moldova	Yes	340	341[Mol]	1	476
+12735	H	3600 2/3	Astra-4A FSS Europe	TV	Jurnal TV Moldova	Yes	440	441[Mol]	2	476
+12735	H	3600 2/3	Astra-4A FSS Europe	R	-R- JurnalFM	No		331[Mol]	3	476
+12735	H	3600 2/3	Astra-4A FSS Europe	R	-R- Radio Micul Samaritean Moldova	No		445[Mol]	4	476

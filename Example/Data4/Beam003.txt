@@ -1,0 +1,9 @@
+Africa
+EuropeBSS
+EuropeFSS
+Global
+Nordic
+NordicBSS
+NordicFSS
+SSA
+WH

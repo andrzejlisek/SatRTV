@@ -1,153 +1,236 @@
-Freq	Pol	Beam	SID	Type	Name	Lang	FTA
-10762	H	Europe B	1000	TV	RTK 1 Sat (Kosovo)	[alb]	Yes
-10762	H	Europe B	1020	TV	Top News	[alb]	Yes
-10762	H	Europe B	1300	TV	BCTV Europe	[alb]	Yes
-10762	H	Europe B	1800	R	Top Albania Radio	[aac]	Yes
-10762	H	Europe B	1820	R	Top Gold Radio	[aac]	Yes
-10804	H	Europe B	921	R	My Music Radio	[alb]	Yes
-10804	H	Europe B	2000	TV	Euronews Albania	[alb]	Yes
-10804	H	Europe B	2411	R	NRG Radio	[alb]	Yes
-10845	H	Europe B	1028	TV	Ndihma e Klientit	[alb]	Yes
-10928	H	Europe B	1102	TV	Wness TV	[bul][eng][ukr]	Yes
-10972	V	Europe B	1371	R	Radio Studio B	[ser]	Yes
-10972	V	Europe B	1372	R	Test 1	[aac][ser]	Yes
-11055	V	Europe B	1154	TV	CT 24 HD	[cze]	Yes
-11069	H	Europe A	21418	R	Radio 538 TNZ	[ned]	Yes
-11070	H	Europe A	170	R	Slam!    Main	[ned]	Yes
-11071	H	Europe A	170	R	100%NL  !	[ned]	Yes
-11071	H	Europe A	17629	R	BNR_AMS	[ned]	Yes
-11131	V	Europe B	55	R	Radio Zu	[rom]	Yes
-11131	V	Europe B	56	R	Radio Romantic	[rom]	Yes
-11139	H	Europe B	4721	TV	T7	[aac]	Yes
-11139	H	Europe B	5000	TV	Top Channel	[aac][alb]	Yes
-11139	H	Europe B	5010	TV	Top News	[aac][alb]	Yes
-11151	V	Europe B	64	TV	Pink Folk	[ser]	Yes
-11178	V	Europe B	3	R	Radio Pink	[ser]	Yes
-11178	V	Europe B	13	R	Radio Sport FM		Yes
-11221	H	Europe A	4466	R	Radio Kanal 77	[mac]	Yes
-11231	V	Europe A	773	R	Play radio	[ser]	Yes
-11262	H	Europe B	5	TV	BN Music HD	[ser]	Yes
-11262	H	Europe B	7	TV	RTRS	[aac][ser]	Yes
-11262	H	Europe B	8	R	Radio Stari Grad	[bos]	Yes
-11262	H	Europe B	9	R	Radio Kalman	[bos]	Yes
-11262	H	Europe B	10	R	VIP Radio	[ser]	Yes
-11262	H	Europe B	11	R	Radio BIR	[bos]	Yes
-11262	H	Europe B	13	R	Radio BN	[ser]	Yes
-11262	H	Europe B	14	R	Radio MIX		Yes
-11262	H	Europe B	15	R	Fles Radio	[ser]	Yes
-11262	H	Europe B	16	R	Radio Curak		Yes
-11262	H	Europe B	17	TV	RTRS Plus	[bos]	Yes
-11262	H	Europe B	18	R	RTRS RRS	[ser]	Yes
-11262	H	Europe B	19	R	Radio Mir Medjugorje		Yes
-11262	H	Europe B	20	R	Radio Posavina		Yes
-11262	H	Europe B	22	R	Bobar Radio		Yes
-11304	H	Europe B	1	TV	Al Jazeera Balkans HD	[eng]	Yes
-11304	H	Europe B	2	R	Studio 99	[hun]	Yes
-11304	H	Europe B	6	TV	YU Planet		Yes
-11304	H	Europe B	8	TV	Aurora TV	[slk]	Yes
-11304	H	Europe B	9	TV	Pro TV International	[rom]	Yes
-11304	H	Europe B	12	TV	HAYAT FOLK	[bos]	Yes
-11304	H	Europe B	13	TV	HAYAT MUSIC	[bos]	Yes
-11304	H	Europe B	15	TV	Fashion TV	[aac][eng]	Yes
-11304	H	Europe B	16	TV	TV Duga Plus	[bos]	Yes
-11304	H	Europe B	17	TV	DM Sat HD	[ser]	Yes
-11304	H	Europe B	21	TV	K3 (Bosnia)	[bos]	Yes
-11304	H	Europe B	24	R	RM Serbia SRB	[ser]	Yes
-11304	H	Europe B	25	R	RM Serbia HU	[hun]	Yes
-11304	H	Europe B	26	R	RM Romania RO	[rom]	Yes
-11304	H	Europe B	27	R	RM Romania HU	[hun]	Yes
-11304	H	Europe B	28	R	RM Albania	[alb]	Yes
-11304	H	Europe B	29	R	RM BiH	[bos]	Yes
-11304	H	Europe B	30	R	RM Armenia	[arm]	Yes
-11304	H	Europe B	32	R	RM Hungary	[hun]	Yes
-11345	H	Europe B	1001	TV	OTV Valentino	[bos]	Yes
-11345	H	Europe B	1004	TV	Svet Plus	[eng]	Yes
-11345	H	Europe B	1007	TV	KCN Music 2	[ser]	Yes
-11345	H	Europe B	1017	TV	TV Kopernikus	[ser]	Yes
-11345	H	Europe B	1018	TV	HNL SD	[eng]	Yes
-11345	H	Europe B	3001	R	Radio 1	[slo]	Yes
-11345	H	Europe B	3002	R	Ognjisce Radio Slovenija	[slo]	Yes
-11345	H	Europe B	3004	R	OTV Radio Valentino	[bos]	Yes
-11427	V	Europe B	3	TV	Tring Sport News	[alb]	Yes
-11427	V	Europe B	128	TV	Fax News	[eng]	Yes
-11427	V	Europe B	999	TV	Kanali 7	[alb]	Yes
-11427	V	Europe B	7000	R	Radio Klan	[alb]	Yes
-11471	V	Europe B	604	TV	Arena HD	[ger]	Yes
-11512	V	Europe B	6	TV	TV Romania International	[rom]	Yes
-11512	V	Europe B	21	R	Radio Romania Actualitati	[rom]	Yes
-11512	V	Europe B	22	R	Radio Romania Cultural	[rom]	Yes
-11512	V	Europe B	23	R	Radio Romania Muzical	[rom]	Yes
-11512	V	Europe B	24	R	Radio Romania Antena Satelor	[rom]	Yes
-11512	V	Europe B	25	R	Radio Romania International 1	[rom]	Yes
-11512	V	Europe B	26	R	Radio Romania International 2	[rom]	Yes
-11512	V	Europe B	27	R	Radio Romania International 3	[rom]	Yes
-11595	H	Europe B	103	TV	Z1	[cro]	Yes
-11595	H	Europe B	155	TV	RTCG Sat	[ser]	Yes
-11595	H	Europe B	156	R	Radio CG.	[ser]	Yes
-11595	H	Europe B	201	R	Otvoreni.		Yes
-11595	H	Europe B	202	R	Narodni.		Yes
-11595	H	Europe B	203	R	Antena Zagreb.		Yes
-11595	H	Europe B	211	R	R.Marija.		Yes
-11595	H	Europe B	218	R	R. Mediaservis		Yes
-11595	H	Europe B	219	R	Enter ZG.		Yes
-11595	V	Europe B	952	TV	Fashion TV	[eng]	Yes
-11636	V	Europe A	3401	TV	HRT 1 HD	[cro]	Yes
-11636	V	Europe A	3402	TV	HRT 2 HD	[cro]	Yes
-11636	V	Europe A	3404	TV	HRT 4 HD	[cro]	Yes
-11636	V	Europe A	3405	TV	HRT International	[cro]	Yes
-11636	V	Europe A	3411	R	HRT-HR1	[cro]	Yes
-11636	V	Europe A	3412	R	HRT-HR2	[cro]	Yes
-11636	V	Europe A	3413	R	HRT-HR3	[cro]	Yes
-11636	V	Europe A	3414	R	VOICE OF CRO	[cro]	Yes
-11636	V	Europe A	3416	R	HKR	[cro]	Yes
-11636	V	Europe A	3431	TV	SLO1 HD	[slo]	Yes
-11636	V	Europe A	3432	TV	SLO2 HD	[slo]	Yes
-11636	V	Europe A	3433	TV	SLO3 HD	[slo]	Yes
-11636	V	Europe A	3434	R	RASLO PRVI	[slo]	Yes
-11636	V	Europe A	3435	R	RASLO VAL 202	[slo]	Yes
-11636	V	Europe A	3436	R	RASLO ARS	[slo]	Yes
-11636	V	Europe A	3437	R	RASLO RADIO SI	[slo]	Yes
-11637	H	Europe B	1923	TV	In Life	[bul]	Yes
-11678	H	Europe B	87	TV	Nova 24 TV	[slo]	Yes
-11678	H	Europe B	132	TV	Posavina TV	[bos]	Yes
-11678	H	Europe B	215	TV	Laudato TV	[cro]	Yes
-11678	H	Europe B	430	TV	SPTV	[cro]	Yes
-12543	V	Europe B	9	TV	Zico TV	[alb]	Yes
-12543	V	Europe B	10	TV	RTV 21 M	[alb]	Yes
-12543	V	Europe B	11	R	Radio 21 Kosovo	[alb]	Yes
-12543	V	Europe B	12	R	Radio Dukagjini	[alb]	Yes
-12593	V	Europe B	1	TV	DM Sat	[ser]	Yes
-12605	H	Europe B	4520	TV	Orange Info (Slovakia)	[slk]	Yes
-12639	H	Europe B	110	TV	RTSH 1 HD	[alb]	Yes
-12639	H	Europe B	120	TV	RTSH 3	[alb]	Yes
-12639	H	Europe B	130	TV	RTSH Plus	[alb]	Yes
-12639	H	Europe B	140	TV	RTSH 24	[alb]	Yes
-12639	H	Europe B	150	TV	RTSH Shqip	[alb]	Yes
-12639	H	Europe B	160	TV	RTSH Muzike	[alb]	Yes
-12639	H	Europe B	170	R	Radio Tirana 1	[alb]	Yes
-12639	H	Europe B	180	R	Radio Tirana 2	[eng]	Yes
-12639	H	Europe B	190	R	Radio Tirana Internacional	[eng]	Yes
-12639	H	Europe B	200	R	Radio Tirana Klasik	[alb]	Yes
-12639	H	Europe B	220	R	Radio Tirana Jazz	[alb]	Yes
-12643	V	Europe B	11	TV	Digi 24	[rom]	Yes
-12643	V	Europe B	12	TV	Etno TV	[rom]	Yes
-12643	V	Europe B	21	TV	TVR Cluj	[rom]	Yes
-12643	V	Europe B	22	TV	TVR Craiova	[rom]	Yes
-12643	V	Europe B	23	TV	TVR Iasi	[rom]	Yes
-12643	V	Europe B	24	TV	TVR Timisoara	[rom]	Yes
-12643	V	Europe B	25	TV	TVR Tirgu Mures	[rom]	Yes
-12643	V	Europe B	101	R	Radio Trinitas	[rom]	Yes
-12643	V	Europe B	102	R	Radio Reintregirea	[rom]	Yes
-12660	H	Europe B	1	TV	SNAI Live		Yes
-12680	H	Europe B	17627	R	JOE FM BU	[ned]	Yes
-12694	H	Europe B	1	TV	SNAI Quad Race	[ita]	Yes
-12699	H	Europe B	5	TV	SNAI Virtuali 2		Yes
-12699	H	Europe B	55	TV	SNAI Virtuali 3		Yes
-12699	H	Europe B	57	TV	SNAI Virtuali 1	[ita]	Yes
-12699	H	Europe B	100	TV	CH 100 - TEST		Yes
-12717	H	Europe B	15	R	National FM	[rom]	Yes
-12717	H	Europe B	16	R	RFI Romania		Yes
-12717	H	Europe B	23	R	Favorit FM	[rom]	Yes
-12717	H	Europe B	32	TV	Favorit TV	[rom]	Yes
-12717	H	Europe B	88	TV	Alfa Omega TV	[rom]	Yes
-12737	H	Europe B	900	TV	Realitatea Plus	[rom]	Yes
+No	Freq	Pol	Beam	SID	Name	Lang
+	10723	V	Hungary	4	Magyar TV 2	[hun][mul]
+	10723	V	Hungary	5	Spektrum Home	[hun]
+	10723	V	Hungary	6	TV Paprika	[hun]
+	10723	V	Hungary	9	Private TV	[aac]
+	10723	V	Hungary	10	MTV Hungary	[hun]
+	10723	V	Hungary	12	Magyar ATV	[hun]
+	10723	V	Hungary	17	RTL 2 Hungary	[eng][hun]
+	10723	V	Hungary	18	RTL Gold	[hun]
+	10723	V	Hungary	19	Cool TV	[eng][hun]
+	10723	V	Hungary	20	RTL+	[eng][hun]
+	10723	V	Hungary	21	Sorozat +	[eng][hun]
+	10723	V	Hungary	22	Film +	[eng][hun]
+	10723	V	Hungary	23	Fishing & Hunting	[hun]
+	10723	V	Hungary	28	Life Network	[eng][hun]
+	10723	V	Hungary	29	Ozone Network	[eng][hun]
+	10723	V	Hungary	30	Hir TV	[hun]
+	10723	V	Hungary	1101	Eurosport 1	[hun]
+	10723	V	Hungary	1102	Dikh TV	[aac][hun]
+	10723	V	Hungary	1108	ATV Spirit	[aac][hun][mul]
+	10723	V	Hungary	1111	Spiler TV	[hun]
+	10723	V	Hungary	1114	4! Story TV	[hun]
+	10723	V	Hungary	1116	TV4 Hungary	[hun]
+	10723	V	Hungary	1125	Galaxy	[hun]
+	10723	V	Hungary	1128		[eng][hun]
+	10723	V	Hungary	1131	Muzsika TV	[hun]
+	10759	V	Hungary	1002		
+	10759	V	Hungary	1004		
+	10759	V	Hungary	1006		
+	10759	V	Hungary	1007		
+	10759	V	Hungary	1008		
+	10759	V	Hungary	1010		
+	10759	V	Hungary	1011		
+	10759	V	Hungary	1012		
+	10759	V	Hungary	1020		
+	10759	V	Hungary	1021		
+	10759	V	Hungary	1022		
+	10759	V	Hungary	1201	RTL Klub	[hun][mul]
+	10759	V	Hungary	1202	TV 2 (Hungary)	[hun][mul]
+	10759	V	Hungary	1203	Viasat 3	[eng][hun]
+	10759	V	Hungary	1204	Prime	[hun]
+	10759	V	Hungary	1205	Nickelodeon Hungary	[eng][hun]
+	10759	V	Hungary	1206	Duna TV	[hun][mul]
+	10759	V	Hungary	1207	Hustler TV	[aac][eng]
+	10759	V	Hungary	1208	Super TV 2	[hun]
+	10759	V	Hungary	1209	M1 - Magyar TV	[hun][mul]
+	10759	V	Hungary	1210	Penthouse	[aac][eng]
+	10759	V	Hungary	1211	Humor +	[hun]
+1	10759	V	Hungary	1212	Teszt V	[aac]
+	10759	V	Hungary	1213	Izaura TV	[hun]
+	10759	V	Hungary	1214	Spektrum TV Hungary	[hun]
+	10759	V	Hungary	1215	Viasat Explore	[eng][hun]
+	10759	V	Hungary	1216	Mediaset Italia	[ita]
+	10759	V	Hungary	1217	Jim Jam	[eng][hun]
+	10759	V	Hungary	1218	Mozi+	[hun]
+	10759	V	Hungary	1221	Discovery Channel	[eng][hun]
+	10759	V	Hungary	1222	Duna World	[hun]
+	10759	V	Hungary	1224	ORF 1	[ger]
+	10759	V	Hungary	1225	Comedy Central Family Hungary	[hun]
+	10759	V	Hungary	1226	Travel Channel	[eng][hun]
+	10759	V	Hungary	1228	Dorcel TV	[eng]
+	10759	V	Hungary	1251	MR1	[hun]
+	10759	V	Hungary	1252	MR2	[hun]
+	10759	V	Hungary	1253	MR3	[hun]
+	10806	V	Hungary	1501	Film Café	[hun]
+	10806	V	Hungary	1502	MTV Hits	[eng]
+	10806	V	Hungary	1503	Disney Channel Hungary & Czechia	[eng][hun]
+	10806	V	Hungary	1504	National Geographic HD Hungary	[aac][eng][hun]
+	10806	V	Hungary	1505	NatGeo Wild Hungary	[hun]
+	10806	V	Hungary	1507	Sport 1 Hungary	[hun]
+	10806	V	Hungary	1508	Sport 2 Hungary	[hun]
+	10806	V	Hungary	1509	Euronews English	[eng]
+	10806	V	Hungary	1510	M4 Sport	[hun][mul]
+	10806	V	Hungary	1511	BBC Earth	[eng][hun]
+	10806	V	Hungary	1512	History 2	[eng][hun]
+	10806	V	Hungary	1513	RTL Spike	[eng][hun]
+	10806	V	Hungary	1514	Animal Planet	[eng][hun]
+	10806	V	Hungary	1515	National Geographic Europe	[eng][hun]
+	10806	V	Hungary	1516	m5	[hun][mul]
+	10806	V	Hungary	1517	FEM3	[hun]
+	10806	V	Hungary	1518	Investigation Discovery Europe	[eng][hun]
+	10806	V	Hungary	1519	Viasat 6	[eng][hun]
+	10806	V	Hungary	1521	Zenebutik	[hun]
+	10806	V	Hungary	1522	VH-1 (Video Hits One)	[eng]
+	10806	V	Hungary	1523	Spíler2 TV	[aac][hun]
+	10806	V	Hungary	1524	Film4 Hungary	[hun]
+	10806	V	Hungary	1525	Paramount Channel Hungary & Romania	[eng][hun]
+	10806	V	Hungary	1526	Slagr TV	[hun]
+	10806	V	Hungary	1528	Cartoon Network Eastern Europe	[eng][hun]
+	10842	V	Hungary	1601	HBO HD Hungary	[eng][hun]
+	10842	V	Hungary	1602	AXN Central Europe	[eng][hun]
+	10842	V	Hungary	1603	Boomerang	[aac][eng][hun]
+	10842	V	Hungary	1604	LiChi TV	[hun]
+	10842	V	Hungary	1605	Nicktoons Hungary	[hun]
+	10842	V	Hungary	1606	TV5 Monde Europe	[fra]
+	10842	V	Hungary	1607	Kiwi TV	[hun]
+	10842	V	Hungary	1608	KIKA - Der KinderKanal	[ger]
+	10842	V	Hungary	1609	Film Mánia	[hun]
+	10842	V	Hungary	1610	Vivid TV	[aac][eng]
+	10842	V	Hungary	1611	Epic Drama	[aac][hun][mul]
+	10842	V	Hungary	1612	Sat 1	[ger]
+	10842	V	Hungary	1613	RTL Television	[ger]
+	10842	V	Hungary	1614	TLC Hungary	[eng][hun]
+	10842	V	Hungary	1615	ZDF	[ger]
+	10842	V	Hungary	1616	Da Vinci Learning	[aac][hun][mul]
+	10842	V	Hungary	1617	Unitel Classica HD	[ger]
+	10842	V	Hungary	1618	Comedy Central Hungary	[hun]
+	10842	V	Hungary	1619	RTR Planeta	[rus]
+	10842	V	Hungary	1620	TVE International	[esp]
+	10842	V	Hungary	1621	Eurosport 2	[eng][hun]
+	10842	V	Hungary	1622	Minimax Hungary	[hun]
+	10842	V	Hungary	1623	Epic Drama HD	[aac][hun][mul]
+	10842	V	Hungary	1624	CNN International Europe	[eng]
+	10842	V	Hungary	1625	Nick Jr Hungary	[eng][hun]
+	10842	V	Hungary	1626	Viasat Nature CEE	[eng][hun]
+	10842	V	Hungary	1627	AMC Eastern Europe	[eng][hun]
+	11140	H	Hungary	1	XSport	[ukr]
+2	11140	H	Hungary	2	Pervy Delovoy	[ukr]
+3	11140	H	Hungary	3	UA:Zakarpattya	[ukr]
+4	11140	H	Hungary	4	112 Ukraine	[ukr]
+5	11140	H	Hungary	6	Pryamiy HD	[ukr]
+6	11140	H	Hungary	7	News One	[ukr]
+	11140	H	Hungary	9	Kultura	[ukr]
+7	11140	H	Hungary	10	DoTB	[ukr]
+8	11140	H	Hungary	11	Zik (Ukraine)	[ukr]
+9	11140	H	Hungary	12	112 Ukraine HD	[ukr]
+	11140	H	Hungary	14	UR-1	[ukr]
+	11140	H	Hungary	15	Radio Promin	[ukr]
+	11140	H	Hungary	16	UR-3	[ukr]
+	11140	H	Hungary	17	Golos Donbasu	[ukr]
+	11140	H	Hungary	18	Radio Ukraine international	[ukr]
+	11140	H	Hungary	21	TEST1	
+	11140	H	Hungary	22	TEST2	
+	11140	H	Hungary	23	TEST3	
+	11175	H	Hungary	1	Telekanal STB	[ukr]
+	11175	H	Hungary	2	M1	
+10	11175	H	Hungary	3	Milady Television	
+	11175	H	Hungary	4	Novy Kanal	[ukr]
+11	11175	H	Hungary	5	ICTV	[ukr]
+	11175	H	Hungary	6	M2 Ukrainia	[ukr]
+	11175	H	Hungary	7	ICTV	
+12	11175	H	Hungary	8	News 24 (Ukraine)	[eng][ukr]
+13	11175	H	Hungary	9	Eko-TV	[ukr]
+14	11175	H	Hungary	10	Pryamiy	[ukr]
+	11175	H	Hungary	11	OCE	[ukr]
+	11175	H	Hungary	13	UA TV	[ukr]
+15	11175	H	Hungary	14	UA Krym	[ukr]
+	11222	H	Hungary	1301	M1 HD	[hun][mul]
+	11222	H	Hungary	1302	M2 HD	[hun][mul]
+	11222	H	Hungary	1303	STV2 HD	[hun]
+	11222	H	Hungary	1304	RTL Klub HD	[hun][mul]
+	11222	H	Hungary	1305	Sport 1 HD Hungary	[hun]
+	11222	H	Hungary	1306	Cinemax 2 Europe	[eng][hun]
+	11222	H	Hungary	1307	AXN HD	[eng][hun]
+	11222	H	Hungary	1308	Duna World HD	[hun][mul]
+	11222	H	Hungary	1310	Magyar ATV HD	[hun]
+	11222	H	Hungary	1311	HBO 2 Central Europe	[eng][hun]
+	11222	H	Hungary	1313	Cinemax (Hungary)	[eng][hun]
+	11222	H	Hungary	1314	Filmbox Plus	[hun]
+	11222	H	Hungary	1315	Filmbox Family	[hun]
+	11258	H	Hungary	1401	Duna World HD	[hun][mul]
+	11258	H	Hungary	1402	M4 Sport HD	[hun][mul]
+	11258	H	Hungary	1403	M5 HD	[hun][mul]
+	11258	H	Hungary	1404	Film+ HD	[eng][hun]
+	11258	H	Hungary	1405	Sport 2 HD Hungary	[hun]
+	11258	H	Hungary	1406	Spektrum HD	[hun]
+	11258	H	Hungary	1407	Cool TV HD	[hun]
+	11258	H	Hungary	1408	RTL 2 HD Hungary	[hun]
+	11258	H	Hungary	1409	Spíler 2 HD	[aac][hun]
+	11258	H	Hungary	1411	TV 2 HD (Hungary)	[hun][mul]
+	11304	H	Hungary	2	Hir TV	[hun]
+	11304	H	Hungary	9	Da Vinci Learning	[bul][hun][mul][pol][rus][ukr]
+	11304	H	Hungary	10	Karc FM	[hun]
+	11350	H	Hungary	1	Tippmix élő 1	[aac][hun]
+	11350	H	Hungary	2	Tippmix élő 2	[aac][hun]
+	11350	H	Hungary	3	Tippmix élő 3	[aac][hun]
+	11350	H	Hungary	4	Tippmix élő 4	[aac][hun]
+	11350	H	Hungary	5	Tippmix elő 5	[aac][hun]
+	11350	H	Hungary	7	SW update	
+	11389	H	Hungary	1701	Discovery Channel Hungary HD	[aac][eng][hun]
+	11389	H	Hungary	1702	Spíler HD	[aac][hun]
+	11389	H	Hungary	1703	Heti TV	[aac][hun]
+	11389	H	Hungary	1704	Animal Planet HD	[eng][hun]
+	11389	H	Hungary	1705	Filmbox Extra HD Hungary	[hun][vo]
+	11389	H	Hungary	1706	BBC Earth HD	[aac][eng][hun]
+	11389	H	Hungary	1707	Nat Geo Wild HD	[aac][eng][hun]
+	11389	H	Hungary	1708	Paramount HD	[aac][eng][hun]
+	11389	H	Hungary	1709	AMC HD	[aac][eng][hun]
+	11389	H	Hungary	1710	Eurosport2 HD	[aac][eng][hun]
+	11389	H	Hungary	1711	VIASAT3 HD	[eng][hun]
+16	11425	H	Hungary	1800	Teszt H	[aac]
+	11425	H	Hungary	1801	History	[eng][hun]
+	11425	H	Hungary	1802	Fix.TV	[hun]
+	11425	H	Hungary	1803	Fit (Hungary)	[hun]
+	11425	H	Hungary	1804	Ötös csatorna	[hun]
+	11425	H	Hungary	1805	Bónum	[hun]
+	11425	H	Hungary	1806	Bónusz	[eng][hun]
+	11425	H	Hungary	1807	HBO HD Hungary	[eng][hun]
+	11425	H	Hungary	1808	Eurosport 1 HD	[eng]
+	11425	H	Hungary	1809	History HD Europe	[eng]
+	11425	H	Hungary	1810	Travel Channel HD	[eng][hun]
+	11425	H	Hungary	1811	Sony Movie Channel	[eng][hun]
+	11425	H	Hungary	1812	MTV Rocks	[eng]
+	11425	H	Hungary	1813	Sony Max	[eng][hun]
+	11425	H	Hungary	1814	HBO 3 Central Europe	[eng][hun]
+	11425	H	Hungary	1815	English Club	[eng]
+	11425	H	Hungary	1816	FilmBox	[eng][hun]
+	11425	H	Hungary	1817	Viasat History	[eng][hun]
+	11425	H	Hungary	1818	Jocky TV	[aac][hun]
+	11425	H	Hungary	1819	Moziverzum	[aac][hun]
+	11425	H	Hungary	1820	Comedy Central HD Hungary	[aac][hun]
+	12297	H	Europe	1	Telekanal STB HD	[ukr]
+	12297	H	Europe	2	ICTV HD	[ukr]
+	12297	H	Europe	3	Novy Kanal HD	[ukr]
+	12297	H	Europe	4	M1 HD Ukraine	[ukr]
+	12297	H	Europe	5	M2 HD Ukraine	[ukr]
+	12297	H	Europe	6	OCE HD	[ukr]
+	12340	H	Europe	1	12 Kanal	
+	12340	H	Europe	2	Setanta Sports Ukraine	[rus]
+	12340	H	Europe	6	ATR HD	
+	12340	H	Europe	7	ATR	[ukr]
+	12340	H	Europe	8	Lale	[ukr]
+	12340	H	Europe	101	MEYDAN	[ukr]
+	12354	H	Europe	1	Romania TV	[rom]
+	12410	H	Europe	1	1zahid	[ukr]
+	12410	H	Europe	3	Channel 4 (Ukraine)	[ukr]
+	12410	H	Europe	4	Boutique TV	
+	12410	H	Europe	5	Che-Pe Info	[ukr]
+	12410	H	Europe	6	BlackSea TV	[ukr]
+	12410	H	Europe	7	Malyatko TV	
+	12410	H	Europe	8	Tele Vsesvit	[ukr]
+	12410	H	Europe	9	Galychyna	[ukr]
+	12410	H	Europe	10	Donechchyna TV	[ukr]
+	12410	H	Europe	11	Pravda Tut	[ukr]
+	12410	H	Europe	12	8 Channel	[ukr]
+	12410	H	Europe	13	Genuine TV	[ukr]

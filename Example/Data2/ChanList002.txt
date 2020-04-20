@@ -1,464 +1,378 @@
-Freq	Pol	Beam	SID	Type	Name	Lang	FTA
-10714	H	Europe	5900	TV	TV Mainfranken	[ger]	Yes
-10714	H	Europe	5901	TV	Franken Fernsehen	[ger]	Yes
-10714	H	Europe	5902	TV	TVA Ostbayern	[ger]	Yes
-10714	H	Europe	5903	TV	TV Oberfranken	[ger]	Yes
-10714	H	Europe	5904	TV	Niederbayern TV Passau	[ger]	Yes
-10714	H	Europe	5904	TV	Niederbayern TV Deggendorf	[ger]	Yes
-10714	H	Europe	5904	TV	Niederbayern TV Landshut	[ger]	Yes
-10714	H	Europe	5905	TV	Oberpfalz TV	[ger]	Yes
-10744	H	Europe	28721	TV	Tagesschau 24	[ger]	Yes
-10744	H	Europe	28722	TV	One	[ger][qaa]	Yes
-10744	H	Europe	28724	TV	ARTE Deutsch	[fre][ger]	Yes
-10744	H	Europe	28725	TV	Phoenix	[ger][qaa]	Yes
-10773	H	Europe	21100	TV	Anixe HD Serie	[ger]	Yes
-10773	H	Europe	21103	TV	QVC Deutschland	[ger]	Yes
-10773	H	Europe	21104	TV	HSE 24	[ger]	Yes
-10773	H	Europe	21112	TV	Sophia TV Deutsch	[ger]	Yes
-10773	H	Europe	21113	TV	Genius Plus TV	[ger]	Yes
-10803	H	Europe	5501	TV	HSE 24 Extra	[ger]	Yes
-10803	H	Europe	5502	TV	Babestation 24 (02-05)	[ger]	Yes
-10803	H	Europe	5502	TV	1-2-3 TV (05-02)	[ger]	Yes
-10803	H	Europe	5504	TV	QVC Zwei	[ger]	Yes
-10847	V	Europe	30104	R	Cadena Dial	[spa]	Yes
-10847	V	Europe	30104	R	Los 40 Classic	[spa]	Yes
-10847	V	Europe	30104	R	Radiolé	[spa]	Yes
-10847	V	Europe	30104	R	Los 40 Dances	[spa]	Yes
-10847	V	Europe	30104	R	Los 40	[spa]	Yes
-10847	V	Europe	30104	R	Cadena SER	[spa]	Yes
-10847	V	Europe	30150	TV	Canal Portada	[spa]	Yes
-10891	H	Europe	10350	TV	RBB Brandenburg (19.30-20.00)	[ger][qaa]	Yes
-10891	H	Europe	10351	TV	RBB Berlin	[ger][qaa]	Yes
-10891	H	Europe	10352	TV	MDR Fernsehen Sachsen (19.00-19.30 & Wed 21.15-21.45)	[ger][qaa]	Yes
-10891	H	Europe	10353	TV	MDR Fernsehen Sachsen-Anhalt	[ger][qaa]	Yes
-10891	H	Europe	10354	TV	MDR Fernsehen Thüringen (19.00-19.30 & Wed 21.15-21.45)	[ger][qaa]	Yes
-10891	H	Europe	10355	TV	HR Fernsehen	[ger][qaa]	Yes
-10921	H	Europe	33	TV	Genius Family	[ger]	Yes
-10921	H	Europe	35	TV	Zee One	[ger]	Yes
-10921	H	Europe	37	TV	Sky Sport News	[ger]	Yes
-10921	H	Europe	38	TV	HGTV Deutschland	[ger]	Yes
-10921	H	Europe	39	TV	MediaShop	[ger]	Yes
-10964	H	Europe Ku	10101	TV	Zee One	[ger]	Yes
-10964	H	Europe Ku	10102	TV	Handystar	[ger]	Yes
-10964	H	Europe Ku	10104	TV	Channel 21 (Germany)	[ger]	Yes
-10964	H	Europe Ku	10105	TV	QVC Style Deutschland	[ger]	Yes
-10994	H	Europe Ku	1	TV	SES Ultra HD Demo Channel	[eng]	Yes
-11053	H	Europe Ku	10375	TV	Tagesschau 24	[ger]	Yes
-11053	H	Europe Ku	10376	TV	One	[ger]	Yes
-11053	H	Europe Ku	10377	TV	ARD Alpha	[ger]	Yes
-11053	H	Europe Ku	10378	TV	SR Fernsehen	[ger]	Yes
-11053	H	Europe Ku	10379	TV	Radio Bremen TV	[ger]	Yes
-11068	V	Europe Ku	1150	TV	RT Español	[spa]	Yes
-11068	V	Europe Ku	31301	TV	Record TV Europa	[por]	Yes
-11068	V	Europe Ku	31304	TV	Telesur (Venezuela)	[spa]	Yes
-11068	V	Europe Ku	31307	TV	I24 News Français	[fre]	Yes
-11156	V	Europe	30505	TV	Canal Sur Andalucía	[spa]	Yes
-11171	H	Europe	125	TV	CNBC Europe	[eng]	Yes
-11186	V	Europe Ku	4310	TV	TV TRWAM	[pol]	Yes
-11186	V	Europe Ku	4311	R	Radio Maryja	[pol]	Yes
-11229	V	Europe	5001	TV	BBC World News Europe	[eng]	Yes
-11229	V	Europe	5021	TV	NHK World Japan	[eng]	Yes
-11229	V	Europe	5031	TV	Aljazeera English	[eng]	Yes
-11229	V	Europe	5081	TV	Mont Blanc Live TV	[fre]	Yes
-11244	H	Europe	13222	TV	Shop 24 Direct	[ger]	Yes
-11244	H	Europe	13224	TV	Bibel TV	[ger]	Yes
-11244	H	Europe	13225	TV	Schau TV	[ger]	Yes
-11244	H	Europe	13227	TV	Hope Channel Deutsch	[ger]	Yes
-11244	H	Europe	13229	TV	RTL Plus Österreich	[ger]	Yes
-11273	H	Europe	13311	TV	Aristo TV	[ger]	Yes
-11273	H	Europe	13312	TV	R9	[ger]	Yes
-11273	H	Europe	13314	TV	Oe24 TV	[ger]	Yes
-11273	H	Europe	13315	TV	Shop 24 Direct	[ger]	Yes
-11273	H	Europe	13316	TV	GoTV	[ger]	Yes
-11273	H	Europe	13317	TV	Melodie TV (19-22)	[ger]	Yes
-11273	H	Europe	13317	TV	Melodie Express (22-19)	[ger]	Yes
-11288	V	Europe Ku	4216	TV	Rai News 24	[ita]	Yes
-11288	V	Europe Ku	4225	TV	Deutschland Vozrozhdeniye	[ger]	Yes
-11288	V	Europe Ku	4230	TV	QVC Deutschland	[ger]	Yes
-11303	H	Europe Ku	4914	TV	Servus TV Deutschland	[eng][ger]	Yes
-11303	H	Europe Ku	4920	R	Hitradio Ö3	[ger]	Yes
-11347	V	Europe	11150	TV	3sat	[ger][qaa]	Yes
-11347	V	Europe	11160	TV	KIKA (06-21)	[ger]	Yes
-11347	V	Europe	11170	TV	ZDF Info	[ger][qaa]	Yes
-11362	H	Europe	11110	TV	ZDF	[ger][qaa]	Yes
-11362	H	Europe	11130	TV	ZDF Neo	[ger][qaa]	Yes
-11377	V	Europe Ku	6380	TV	Telesur (Venezuela)	[spa]	Yes
-11377	V	Europe Ku	6381	TV	RT News	[eng]	Yes
-11377	V	Europe Ku	6382	TV	RT Español	[spa]	Yes
-11377	V	Europe Ku	6383	TV	RT France	[fre]	Yes
-11377	V	Europe Ku	6384	TV	Canal Extremadura Satélite	[spa]	Yes
-11377	V	Europe Ku	6385	TV	Galicia TV Europa	[glg]	Yes
-11377	V	Europe Ku	6386	R	Radio Galega	[glg]	Yes
-11377	V	Europe Ku	6387	R	Radio Galega Música	[glg]	Yes
-11391	H	Europe	12400	TV	RTL Zwei Schweiz	[ger]	Yes
-11421	H	Europe	4713	TV	Die Neue Zeit TV	[ger]	Yes
-11494	H	Pan Europe	10301	TV	Das Erste	[ger][qaa]	Yes
-11494	H	Pan Europe	10302	TV	ARTE Deutsch	[fre][ger]	Yes
-11494	H	Pan Europe	10303	TV	SWR Fernsehen Baden-Württemberg	[ger][qaa]	Yes
-11494	H	Pan Europe	10304	TV	SWR Fernsehen Rheinland-Pfalz (Mon-Sun 18-20 & Thu 20.15-21.00 & Mon-Fri 21.45-22.00 & Sun 21.45-22.45)	[ger][qaa]	Yes
-11509	V	Europe Ku	7008	TV	Cubavisión Internacional	[spa]	Yes
-11509	V	Europe Ku	7009	TV	Aljazeera Channel	[ara]	Yes
-11509	V	Europe Ku	7011	TV	Arirang World	[eng]	Yes
-11538	V	Europe Ku	6904	TV	RT News	[eng]	Yes
-11538	V	Europe Ku	6905	TV	France 24 Français	[fre]	Yes
-11538	V	Europe Ku	6906	TV	France 24 English	[eng]	Yes
-11538	V	Europe Ku	6912	TV	CGTN Documentary	[eng]	Yes
-11538	V	Europe Ku	6913	TV	CGTN Français	[fre]	Yes
-11538	V	Europe Ku	6914	TV	CGTN	[eng]	Yes
-11538	V	Europe Ku	6915	TV	TV 5 Monde Europe	[fre]	Yes
-11538	V	Europe Ku	6918	TV	TRT World	[eng]	Yes
-11553	H	Europe Ku	5800	TV	Augsburg TV	[ger]	Yes
-11553	H	Europe Ku	5801	TV	München TV	[ger]	Yes
-11553	H	Europe Ku	5802	TV	RFO	[ger]	Yes
-11553	H	Europe Ku	5803	TV	Allgäu TV (18-24)	[ger]	Yes
-11553	H	Europe Ku	5803	TV	Regio TV Schwaben (18-24)	[ger]	Yes
-11553	H	Europe Ku	5804	TV	TV Ingolstadt	[ger]	Yes
-11553	H	Europe Ku	5806	TV	BB-MV Lokal TV	[ger]	Yes
-11582	H	Pan Europe	10325	TV	Bayerisches Fernsehen Süd	[ger][qaa]	Yes
-11582	H	Pan Europe	10326	TV	Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15)	[ger][qaa]	Yes
-11582	H	Pan Europe	10327	TV	NDR Fernsehen Niedersachsen	[ger][qaa]	Yes
-11582	H	Pan Europe	10328	TV	NDR Fernsehen Mecklenburg-Vorpommern (18.00-18.15 & 19.30-20.00)	[ger][qaa]	Yes
-11582	H	Pan Europe	10329	TV	NDR Fernsehen Hamburg (18.00-18.15 & 19.30-20.00)	[ger][qaa]	Yes
-11582	H	Pan Europe	10330	TV	NDR Fernsehen Schleswig-Holstein (18.00-18.15 & 19.30-20.00)	[ger][qaa]	Yes
-11582	H	Pan Europe	10331	TV	Phoenix	[ger][qaa]	Yes
-11597	V	Europe Ku	10030	TV	CNBC Europe	[eng]	Yes
-11597	V	Europe Ku	10067	TV	Bloomberg TV Europe	[eng]	Yes
-11597	V	Europe Ku	10080	TV	SBN International	[eng][spa]	Yes
-11597	V	Europe Ku	10082	TV	Algérie 3	[ara]	Yes
-11597	V	Europe Ku	10083	TV	Canal Algérie 2	[ara]	Yes
-11612	H	Pan Europe	5116	R	TSR	[tur]	Yes
-11612	H	Pan Europe	5126	TV	KaufBei TV	[ger]	Yes
-11612	H	Pan Europe	5143	TV	TBN Rossiya	[rus]	Yes
-11612	H	Pan Europe	5147	TV	8 Kanal International	[rus]	Yes
-11612	H	Pan Europe	5601	TV	TV Rus	[rus]	Yes
-11627	V	Europe Wide	4410	TV	SpaceConnectsUs	[eng]	Yes
-11627	V	Europe Wide	4422	TV	CNN International Europe	[eng]	Yes
-11627	V	Europe Wide	4430	TV	DW English	[eng]	Yes
-11627	V	Europe Wide	4440	TV	Aljazeera English	[eng]	Yes
-11671	H	Pan Europe	5304	TV	Puls 24	[ger]	Yes
-11671	H	Pan Europe	5310	TV	Sat. 1 Gold Österreich	[ger]	Yes
-11671	H	Pan Europe	5311	TV	ProSieben Maxx Austria	[ger]	Yes
-11671	H	Pan Europe	5312	TV	Kabel Eins Doku Austria	[ger]	Yes
-11686	V	Europe	30205	TV	Aragón TV Internacional	[spa]	Yes
-11836	H	Pan Europe	28106	TV	Das Erste	[ger]	Yes
-11836	H	Pan Europe	28107	TV	Bayerisches Fernsehen Süd	[ger]	Yes
-11836	H	Pan Europe	28108	TV	HR Fernsehen	[ger]	Yes
-11836	H	Pan Europe	28110	TV	Bayerisches Fernsehen Nord (Mon-Fri 17.35-18.00 & Sat 18.05-18.45 & Sun 23.00-23.15)	[ger]	Yes
-11836	H	Pan Europe	28111	TV	WDR Fernsehen Köln	[ger]	Yes
-11836	H	Pan Europe	28113	TV	SWR Fernsehen Baden-Württemberg	[ger]	Yes
-11856	V	Europe Wide	8206	TV	M6 Boutique	[fre]	Yes
-11934	V	Europe Wide	8909	TV	Canal + France clair Canal	[fre][qaa]	Yes
-11954	H	Pan Europe	28006	TV	ZDF	[ger]	Yes
-11954	H	Pan Europe	28007	TV	3sat	[ger]	Yes
-11954	H	Pan Europe	28008	TV	KIKA (06-21)	[ger]	Yes
-11954	H	Pan Europe	28011	TV	ZDF Info	[ger]	Yes
-11954	H	Pan Europe	28012	R	Deutschlandfunk Kultur	[ger]	Yes
-11954	H	Pan Europe	28012	R	Deutschlandfunk Kultur	[ger]	Yes
-11954	H	Pan Europe	28013	R	Deutschlandfunk	[ger]	Yes
-11954	H	Pan Europe	28014	TV	ZDF Neo	[ger]	Yes
-11954	H	Pan Europe	28015	R	Dokumente und Debatten	[ger]	Yes
-11954	H	Pan Europe	28017	R	Deutschlandfunk Nova	[ger]	Yes
-11973	V	Europe Wide	28676	TV	Comedy Central Deutschland	[ger]	Yes
-11973	V	Europe Wide	28678	TV	MTV Germany	[eng][ger]	Yes
-11973	V	Europe Wide	28680	TV	Nickelodeon Deutschland (05.00-20.15)	[eng][ger]	Yes
-11973	V	Europe Wide	28680	TV	MTV Germany +1 (20.15-05.00)	[ger]	Yes
-12032	H	Pan Europe	18	TV	Sky Select	[ger]	Yes
-12051	V	Pan Europe	20001	TV	ProSieben Schweiz	[ger]	Yes
-12051	V	Pan Europe	20002	TV	ProSieben Austria	[ger]	Yes
-12051	V	Pan Europe	20003	TV	Kabel Eins Schweiz	[ger]	Yes
-12051	V	Pan Europe	20004	TV	Kabel Eins Austria	[ger]	Yes
-12051	V	Pan Europe	20005	TV	Sat. 1 Österreich	[ger]	Yes
-12051	V	Pan Europe	20006	TV	Sat. 1 Schweiz	[ger]	Yes
-12051	V	Pan Europe	20008	TV	Sat. 1 Hamburg und Schleswig-Holstein	[ger]	Yes
-12051	V	Pan Europe	20009	TV	Sat. 1 Niedersachsen und Bremen (Mon-Fri 17.30-17.55)	[ger]	Yes
-12051	V	Pan Europe	20010	TV	Sat. 1 Rheinland-Pfalz/Hessen (Mon-Fri 17.30-17.55)	[ger]	Yes
-12110	H	Europe	28205	TV	RBB Brandenburg (19.30-20.00)	[ger]	Yes
-12110	H	Europe	28206	TV	RBB Berlin	[ger]	Yes
-12110	H	Europe	28224	TV	NDR Fernsehen Mecklenburg-Vorpommern (18.00-18.15 & 19.30-20.00)	[ger]	Yes
-12110	H	Europe	28225	TV	NDR Fernsehen Hamburg (18.00-18.15 & 19.30-20.00)	[ger]	Yes
-12110	H	Europe	28226	TV	NDR Fernsehen Niedersachsen	[ger]	Yes
-12110	H	Europe	28227	TV	NDR Fernsehen Schleswig-Holstein (18.00-18.15 & 19.30-20.00)	[ger]	Yes
-12110	H	Europe	28228	TV	MDR Fernsehen Sachsen (19.00-19.30 & Wed 21.15-21.45)	[ger]	Yes
-12110	H	Europe	28229	TV	MDR Fernsehen Sachsen-Anhalt	[ger]	Yes
-12110	H	Europe	28230	TV	MDR Fernsehen Thüringen (19.00-19.30 & Wed 21.15-21.45)	[ger]	Yes
-12110	H	Europe	28231	TV	SWR Fernsehen Rheinland-Pfalz	[ger]	Yes
-12129	V	Pan Europe	9910	TV	TV 5 Monde France Belgique Suisse	[fre]	Yes
-12148	H	Pan Europe	53	TV	N24 Doku Austria	[ger]	Yes
-12148	H	Pan Europe	54	TV	Genius Exklusiv	[ger]	Yes
-12148	H	Pan Europe	60	TV	Comedy Central Austria	[ger]	Yes
-12148	H	Pan Europe	61	TV	Nickelodeon Austria	[eng][ger]	Yes
-12148	H	Pan Europe	65	TV	Deluxe Music	[ger]	Yes
-12148	H	Pan Europe	71	TV	TLC Austria	[ger]	Yes
-12148	H	Pan Europe	73	TV	DMAX Austria	[ger]	Yes
-12148	H	Pan Europe	160	R	Rock Antenne	[ger]	Yes
-12148	H	Pan Europe	161	R	ERF Plus	[ger]	Yes
-12148	H	Pan Europe	162	R	ERF Pop	[ger]	Yes
-12148	H	Pan Europe	169	R	Sunshine Live	[ger]	Yes
-12148	H	Pan Europe	170	R	Antenne Bayern	[ger]	Yes
-12148	H	Pan Europe	514	TV	MediaShop	[ger]	Yes
-12148	H	Pan Europe	765	TV	Pearl TV	[ger]	Yes
-12148	H	Pan Europe	769	TV	Channel 21	[ger]	Yes
-12148	H	Pan Europe	775	TV	MediaShop	[ger]	Yes
-12188	H	Europe Ku	12003	TV	RTL Deutschland	[ger]	Yes
-12188	H	Europe Ku	12004	TV	RTL West (Mon-Fri 18.00-18.30)	[ger]	Yes
-12188	H	Europe Ku	12005	TV	RTL Nord Niedersachsen & Bremen (Mon-Fri 18.00-18.30)	[ger]	Yes
-12188	H	Europe Ku	12006	TV	TV Bayern (Sat 17.45-18.45)	[ger]	Yes
-12188	H	Europe Ku	12009	TV	RTL Nord Hamburg & Schleswig-Holstein (Mon-Fri 18.00-18.30)	[ger]	Yes
-12188	H	Europe Ku	12020	TV	RTL Zwei Deutschland	[ger]	Yes
-12188	H	Europe Ku	12030	TV	Toggo Plus	[ger]	Yes
-12188	H	Europe Ku	12040	TV	Super RTL Deutschland	[ger]	Yes
-12188	H	Europe Ku	12060	TV	Vox Deutschland	[ger]	Yes
-12188	H	Europe Ku	12061	TV	Nitro Deutschland	[ger]	Yes
-12188	H	Europe Ku	12080	TV	RTL Plus	[ger]	Yes
-12188	H	Europe Ku	12090	TV	N-TV	[ger]	Yes
-12207	V	Pan Europe	9009	TV	LCI	[fre]	Yes
-12207	V	Pan Europe	9014	TV	C News	[fre]	Yes
-12207	V	Pan Europe	9015	TV	Public Sénat	[fre]	Yes
-12207	V	Pan Europe	9015	TV	LCP Assemblée Nationale	[fre]	Yes
-12226	H	Europe Ku	28800	TV	RTL Austria	[ger]	Yes
-12226	H	Europe Ku	28805	TV	Vox Austria	[ger]	Yes
-12226	H	Europe Ku	28810	TV	RTL Zwei Austria	[ger]	Yes
-12226	H	Europe Ku	28815	TV	Super RTL Austria	[ger]	Yes
-12226	H	Europe Ku	28820	TV	Voxup	[ger]	Yes
-12226	H	Europe Ku	31200	TV	Eurosport 1 Germany	[ger]	Yes
-12226	H	Europe Ku	31210	TV	HSE 24 Extra	[ger]	Yes
-12226	H	Europe Ku	31220	TV	EuroNews Français	[fre]	Yes
-12226	H	Europe Ku	31230	TV	EuroNews Deutsch	[ger]	Yes
-12266	H	Europe	28400	R	Bayern 1 Oberbayern	[ger]	Yes
-12266	H	Europe	28401	R	Bayern 2 Süd	[ger]	Yes
-12266	H	Europe	28402	R	Bayern 3	[ger]	Yes
-12266	H	Europe	28403	R	BR Klassik	[ger]	Yes
-12266	H	Europe	28403	R	BR Klassik	[ger]	Yes
-12266	H	Europe	28404	R	B5 aktuell	[ger]	Yes
-12266	H	Europe	28405	R	Bayern Plus	[ger]	Yes
-12266	H	Europe	28406	R	BR Puls	[ger]	Yes
-12266	H	Europe	28407	R	BR Heimat	[ger]	Yes
-12266	H	Europe	28408	R	B5 plus	[ger]	Yes
-12266	H	Europe	28419	R	HR 1	[ger]	Yes
-12266	H	Europe	28420	R	HR 2 Kultur	[ger]	Yes
-12266	H	Europe	28420	R	HR 2 Kultur	[ger]	Yes
-12266	H	Europe	28421	R	HR 3	[ger]	Yes
-12266	H	Europe	28422	R	HR 4	[ger]	Yes
-12266	H	Europe	28423	R	You FM	[ger]	Yes
-12266	H	Europe	28424	R	HR Info	[ger]	Yes
-12266	H	Europe	28428	R	MDR Sachsen	[ger]	Yes
-12266	H	Europe	28429	R	MDR Sachsen-Anhalt	[ger]	Yes
-12266	H	Europe	28430	R	MDR Thüringen	[ger]	Yes
-12266	H	Europe	28431	R	MDR Kultur	[ger]	Yes
-12266	H	Europe	28431	R	MDR Kultur	[ger]	Yes
-12266	H	Europe	28432	R	MDR Jump	[ger]	Yes
-12266	H	Europe	28433	R	MDR Sputnik	[ger]	Yes
-12266	H	Europe	28434	R	MDR Aktuell	[ger]	Yes
-12266	H	Europe	28435	R	MDR Klassik	[ger]	Yes
-12266	H	Europe	28437	R	NDR 2 Niedersachsen	[ger]	Yes
-12266	H	Europe	28438	R	NDR Kultur	[ger]	Yes
-12266	H	Europe	28439	R	NDR Info Niedersachsen	[ger]	Yes
-12266	H	Europe	28440	R	N-Joy	[ger]	Yes
-12266	H	Europe	28441	R	NDR 90.3	[ger]	Yes
-12266	H	Europe	28442	R	NDR 1 Welle Nord Kiel	[ger]	Yes
-12266	H	Europe	28443	R	NDR 1 Radio MV Schwerin	[ger]	Yes
-12266	H	Europe	28444	R	NDR 1 Niedersachsen Hannover	[ger]	Yes
-12266	H	Europe	28445	R	NDR Info Spezial	[ger]	Yes
-12266	H	Europe	28446	R	NDR Blue	[ger]	Yes
-12266	H	Europe	28447	R	NDR Plus	[ger]	Yes
-12266	H	Europe	28448	R	Bremen Eins	[ger]	Yes
-12266	H	Europe	28449	R	Bremen Zwei	[ger]	Yes
-12266	H	Europe	28450	R	Bremen Vier	[ger]	Yes
-12266	H	Europe	28452	R	InfoRadio	[ger]	Yes
-12266	H	Europe	28453	R	RBB Kultur	[ger]	Yes
-12266	H	Europe	28454	R	Antenne Brandenburg Potsdam	[ger]	Yes
-12266	H	Europe	28455	R	RBB 88.8	[ger]	Yes
-12266	H	Europe	28456	R	Radio Eins	[ger]	Yes
-12266	H	Europe	28457	R	Fritz	[ger]	Yes
-12266	H	Europe	28461	R	SR 1 Europawelle	[ger]	Yes
-12266	H	Europe	28462	R	SR 2 KulturRadio	[ger]	Yes
-12266	H	Europe	28463	R	SR 3 Saarlandwelle	[ger]	Yes
-12266	H	Europe	28465	R	SWR 1 Baden-Württemberg	[ger]	Yes
-12266	H	Europe	28466	R	SWR 1 Rheinland-Pfalz	[ger]	Yes
-12266	H	Europe	28467	R	SWR 2 Baden-Württemberg	[ger]	Yes
-12266	H	Europe	28467	R	SWR 2 Baden-Württemberg	[ger]	Yes
-12266	H	Europe	28468	R	SWR 3 Rheinland-Pfalz	[ger]	Yes
-12266	H	Europe	28469	R	SWR 4 Baden-Württemberg Stuttgart	[ger]	Yes
-12266	H	Europe	28470	R	SWR 4 Rheinland-Pfalz Mainz	[ger]	Yes
-12266	H	Europe	28471	R	Das Ding	[ger]	Yes
-12266	H	Europe	28472	R	SWR Aktuell	[ger]	Yes
-12266	H	Europe	28475	R	WDR 1 Live	[ger]	Yes
-12266	H	Europe	28476	R	WDR 2 Rheinland	[ger]	Yes
-12266	H	Europe	28477	R	WDR 3	[ger]	Yes
-12266	H	Europe	28477	R	WDR 3	[ger]	Yes
-12266	H	Europe	28478	R	WDR 4	[ger]	Yes
-12266	H	Europe	28479	R	WDR 5	[ger]	Yes
-12266	H	Europe	28480	R	Cosmo	[ger]	Yes
-12266	H	Europe	28481	R	WDR 1 Live Diggi	[ger]	Yes
-12266	H	Europe	28482	R	Die Sendung mit der Maus	[ger]	Yes
-12266	H	Europe	28483	R	WDR Event	[ger]	Yes
-12266	H	Europe	28486	TV	SR Fernsehen	[ger]	Yes
-12266	H	Europe	28487	TV	ARD Alpha	[ger]	Yes
-12304	H	Pan Europe	108	TV	Sky Sport News	[ger]	Yes
-12344	H	Europe	2010	TV	QVC Zwei	[ger]	Yes
-12363	V	Pan Europe	9109	R	Sud Radio	[fre]	Yes
-12363	V	Pan Europe	9110	R	Monte Carlo Doualiya	[ara]	Yes
-12363	V	Pan Europe	9111	R	BFM Business Radio	[fre]	Yes
-12363	V	Pan Europe	9140	R	Fun Radio (France)	[fre]	Yes
-12363	V	Pan Europe	9142	R	BBC World Service English Europe	[eng]	Yes
-12363	V	Pan Europe	9143	R	BBC World Service Arabic	[ara]	Yes
-12363	V	Pan Europe	9144	R	Melody Vintage Radio	[fre]	Yes
-12363	V	Pan Europe	9153	R	Mouv'	[fre]	Yes
-12363	V	Pan Europe	9154	R	France Musique	[fre]	Yes
-12363	V	Pan Europe	9155	R	FIP	[fre]	Yes
-12363	V	Pan Europe	9156	R	Franceinfo: Radio	[fre]	Yes
-12363	V	Pan Europe	9157	R	France Inter	[fre]	Yes
-12363	V	Pan Europe	9158	R	France Culture	[fre]	Yes
-12363	V	Pan Europe	9159	R	France Bleu 107.1	[fre]	Yes
-12363	V	Pan Europe	9163	R	Radio France Internationale	[fre]	Yes
-12363	V	Pan Europe	9164	R	Radio Classique	[fre]	Yes
-12363	V	Pan Europe	9165	R	RTL	[fre]	Yes
-12363	V	Pan Europe	9166	R	Europe 1	[fre]	Yes
-12363	V	Pan Europe	9167	R	RMC	[fre]	Yes
-12363	V	Pan Europe	9168	R	Rire & Chansons	[fre]	Yes
-12363	V	Pan Europe	9175	R	TSF Jazz	[fre]	Yes
-12363	V	Pan Europe	9176	R	Oüi FM	[fre]	Yes
-12363	V	Pan Europe	9177	R	Jazz Radio	[fre]	Yes
-12363	V	Pan Europe	9178	R	Radio Nova (France)	[fre]	Yes
-12363	V	Pan Europe	9179	R	FG	[fre]	Yes
-12363	V	Pan Europe	9180	R	Contact FM	[fre]	Yes
-12363	V	Pan Europe	9181	R	Nostalgie	[fre]	Yes
-12363	V	Pan Europe	9182	R	NRJ France	[fre]	Yes
-12363	V	Pan Europe	9183	R	RFM (France)	[fre]	Yes
-12363	V	Pan Europe	9184	R	Virgin Radio France	[fre]	Yes
-12363	V	Pan Europe	9185	R	Chérie FM	[fre]	Yes
-12363	V	Pan Europe	9186	R	RTL 2	[fre]	Yes
-12363	V	Pan Europe	9187	R	Skyrock	[fre]	Yes
-12363	V	Pan Europe	9194	R	Radio Notre Dame	[fre]	Yes
-12363	V	Pan Europe	9198	R	Beur FM	[fre]	Yes
-12422	H	Europe	28306	TV	WDR Studio Bielefeld (Mon-Sat 19.30-20.00)	[ger]	Yes
-12422	H	Europe	28307	TV	WDR Studio Dortmund (Mon-Sat 19.30-20.00)	[ger]	Yes
-12422	H	Europe	28308	TV	WDR Fernsehen Düsseldorf	[ger]	Yes
-12422	H	Europe	28309	TV	WDR Studio Essen (Mon-Sat 19.30-20.00)	[ger]	Yes
-12422	H	Europe	28310	TV	WDR Studio Münster (Mon-Sat 19.30-20.00)	[ger]	Yes
-12422	H	Europe	28311	TV	WDR Studio Siegen (Mon-Sat 19.30-20.00)	[ger]	Yes
-12422	H	Europe	28325	TV	WDR Fernsehen Köln	[ger][qaa]	Yes
-12422	H	Europe	28326	TV	WDR Studio Bielefeld (Mon-Sat 19.30-20.00)	[ger]	Yes
-12422	H	Europe	28327	TV	WDR Studio Dortmund (Mon-Sat 19.30-20.00)	[ger]	Yes
-12422	H	Europe	28328	TV	WDR Fernsehen Düsseldorf (Mon-Sat 19.30-20.00)	[ger]	Yes
-12422	H	Europe	28329	TV	WDR Studio Essen (Mon-Sat 19.30-20.00)	[ger]	Yes
-12422	H	Europe	28330	TV	WDR Studio Münster (Mon-Sat 19.30-20.00)	[ger]	Yes
-12422	H	Europe	28331	TV	WDR Studio Siegen (Mon-Sat 19.30-20.00)	[ger]	Yes
-12422	H	Europe	28385	TV	Radio Bremen TV	[ger]	Yes
-12460	H	Europe	48	TV	N24 Doku	[ger]	Yes
-12460	H	Europe	62	TV	EWTN auf Deutsch	[ger]	Yes
-12460	H	Europe	64	TV	QVC Style Deutschland	[ger]	Yes
-12460	H	Europe	74	TV	Nicer Dicer TV	[ger]	Yes
-12460	H	Europe	172	R	Ego FM	[ger]	Yes
-12460	H	Europe	173	R	Klassik Radio	[ger]	Yes
-12460	H	Europe	177	R	Jam FM New Music Radio	[ger]	Yes
-12460	H	Europe	659	TV	Handystar	[ger]	Yes
-12460	H	Europe	662	TV	1-2-3 TV (05-02)	[ger]	Yes
-12460	H	Europe	662	TV	Babestation 24 (02-05)	[ger]	Yes
-12460	H	Europe	764	TV	Anixe +	[ger]	Yes
-12460	H	Europe	772	TV	TLC Germany	[ger]	Yes
-12460	H	Europe	776	TV	Sixx Deutschland	[ger]	Yes
-12460	H	Europe	1793	TV	Disney Channel Deutschland	[ger]	Yes
-12460	H	Europe	1794	TV	QVC Deutschland	[ger]	Yes
-12480	V	Europe	32	TV	Sonnenklar TV	[ger]	Yes
-12480	V	Europe	40	TV	HSE 24	[ger]	Yes
-12480	V	Europe	46	TV	Handystar 2	[ger]	Yes
-12480	V	Europe	47	TV	Regio TV Satellit	[ger]	Yes
-12480	V	Europe	51	TV	Tele 5 (Germany)	[ger]	Yes
-12480	V	Europe	63	TV	DMAX Deutschland	[ger]	Yes
-12480	V	Europe	76	TV	Baden TV	[ger]	Yes
-12480	V	Europe	77	TV	HSE 24 Trend	[ger]	Yes
-12480	V	Europe	661	TV	AstroTV	[ger]	Yes
-12480	V	Europe	897	TV	Equi 8 TV	[ger]	Yes
-12480	V	Europe	898	TV	MediaShop	[ger]	Yes
-12480	V	Europe	899	TV	Mein TV Shop	[ger]	Yes
-12480	V	Europe	900	TV	Sport 1 (Germany)	[ger]	Yes
-12515	H	Europe Ku	4060	R	Radio Lebensquelle	[ger]	Yes
-12515	H	Europe Ku	4062	R	Radio Freundes-Dienst	[ger]	Yes
-12515	H	Europe Ku	4122	R	VRT Radio 1	[dut]	Yes
-12515	H	Europe Ku	4123	R	VRT Radio 2 Sat	[dut]	Yes
-12545	H	Europe Ku	17500	TV	Sat. 1 Deutschland	[ger]	Yes
-12545	H	Europe Ku	17501	TV	ProSieben Deutschland	[ger]	Yes
-12545	H	Europe Ku	17502	TV	Kabel Eins Deutschland	[ger]	Yes
-12545	H	Europe Ku	17503	TV	Welt	[ger]	Yes
-12545	H	Europe Ku	17504	TV	Sat. 1 Gold Deutschland	[ger]	Yes
-12545	H	Europe Ku	17505	TV	ProSieben Maxx Deutschland	[ger]	Yes
-12545	H	Europe Ku	17507	TV	Sat. 1 Bayern (Mon-Fri 17.30-17.55)	[ger]	Yes
-12545	H	Europe Ku	17508	TV	Sat. 1 NRW (Mon-Fri 17.30-17.55)	[ger]	Yes
-12545	H	Europe Ku	17509	TV	Kabel Eins Doku Deutschland	[ger]	Yes
-12552	V	Pan Europe	3394	TV	QVC Zwei	[ger]	Yes
-12552	V	Pan Europe	12100	TV	QVC Deutschland	[ger]	Yes
-12552	V	Pan Europe	12122	TV	Bibel TV	[ger]	Yes
-12574	H	Europe Ku	5400	TV	Sonnenklar TV	[ger]	Yes
-12574	H	Europe Ku	5403	TV	Juwelo	[ger]	Yes
-12574	H	Europe Ku	5404	TV	Pearl TV	[ger]	Yes
-12604	H	Pan Europe	7289	R	Radio Horeb	[ger]	Yes
-12604	H	Pan Europe	7290	TV	Sky News International	[eng]	Yes
-12604	H	Pan Europe	7292	R	Radio Neue Hoffnung	[ger]	Yes
-12604	H	Pan Europe	7931	R	RTL Radio	[ger]	Yes
-12604	H	Pan Europe	28534	TV	WDR Fernsehen Aachen	[ger]	Yes
-12604	H	Pan Europe	28535	TV	WDR Studio Wuppertal (Mon-Fri 19.30-20.00)	[ger]	Yes
-12604	H	Pan Europe	28536	TV	WDR Studio Bonn (Mon-Fri 19.30-20.00)	[ger]	Yes
-12604	H	Pan Europe	28537	TV	WDR Studio Duisburg (Mon-Fri 19.30-20.00)	[ger]	Yes
-12604	H	Pan Europe	28544	TV	WDR Fernsehen Köln	[ger][qaa]	Yes
-12633	H	Pan Europe	12600	TV	Health TV	[ger]	Yes
-12633	H	Pan Europe	12601	TV	K-TV	[ger]	Yes
-12633	H	Pan Europe	12604	TV	Deutsches Musik Fernsehen	[ger]	Yes
-12633	H	Pan Europe	12612	TV	Deutschlands GayChat	[ger]	Yes
-12633	H	Pan Europe	12614	TV	RheinMain TV	[ger]	Yes
-12633	H	Pan Europe	12615	TV	Deutsche Girls 24 TV	[ger]	Yes
-12633	H	Pan Europe	12616	TV	Juwelo	[ger]	Yes
-12633	H	Pan Europe	12622	TV	Männersache TV	[ger]	Yes
-12633	H	Pan Europe	12624	TV	Fotohandy TV	[ger]	Yes
-12633	H	Pan Europe	12626	TV	My Dirty Mobile	[ger]	Yes
-12633	H	Pan Europe	12627	TV	Eros TV	[ger]	Yes
-12633	H	Pan Europe	12628	TV	Achtung Sexy TV	[ger]	Yes
-12633	H	Pan Europe	12629	TV	Traumfrauen TV	[ger]	Yes
-12633	H	Pan Europe	12630	TV	Heiss und Sexy TV	[ger]	Yes
-12633	H	Pan Europe	12633	TV	Volksmusik TV	[ger]	Yes
-12633	H	Pan Europe	12635	TV	Babestation 24 (21-04)	[ger]	Yes
-12633	H	Pan Europe	12636	TV	Freenet Shopping	[ger]	Yes
-12633	H	Pan Europe	12641	TV	Clipmobile	[ger]	Yes
-12633	H	Pan Europe	12651	R	Das Inselradio Mallorca	[ger]	Yes
-12633	H	Pan Europe	12654	R	FFN	[ger]	Yes
-12633	H	Pan Europe	12655	R	Radio Paloma	[ger]	Yes
-12633	H	Pan Europe	12656	R	Radio HBR	[ger]	Yes
-12633	H	Pan Europe	12657	R	Radio HCJB Deutschland	[ger]	Yes
-12633	H	Pan Europe	12658	R	Radio B2 Deutschland	[ger]	Yes
-12633	H	Pan Europe	12659	R	Radio Gloria	[ger]	Yes
-12633	H	Pan Europe	12660	R	Hit Radio FFH	[ger]	Yes
-12633	H	Pan Europe	12661	R	Planet Radio	[ger]	Yes
-12633	H	Pan Europe	12662	R	Radio Harmony	[ger]	Yes
-12633	H	Pan Europe	12663	R	Radio Regenbogen	[ger]	Yes
-12633	H	Pan Europe	12665	R	Regenbogen 2	[ger]	Yes
-12663	H	Pan Europe	13102	TV	Nitro Austria	[ger]	Yes
-12663	H	Pan Europe	13103	TV	Welt der Wunder TV	[ger]	Yes
-12663	H	Pan Europe	13104	TV	HT 1 Innviertel (17.00-17.30 & 21.00-21.30)	[ger]	Yes
-12663	H	Pan Europe	13104	TV	LT 1 (21.30-17.00 & 17.30-21:00)	[ger]	Yes
-12663	H	Pan Europe	13106	TV	Sixx Austria	[ger]	Yes
-12663	H	Pan Europe	13107	TV	Visit-X TV	[ger]	Yes
-12663	H	Pan Europe	13110	TV	Servus TV Deutschland	[ger]	Yes
-12663	H	Pan Europe	13113	TV	L TV	[ger]	Yes
-12663	H	Pan Europe	13121	R	Ö1	[ger]	Yes
-12663	H	Pan Europe	13122	R	Ö1	[ger]	Yes
-12663	H	Pan Europe	13123	R	Radio Wien	[ger]	Yes
-12663	H	Pan Europe	13124	R	Radio Niederösterreich	[ger]	Yes
-12663	H	Pan Europe	13125	R	Radio Burgenland	[ger]	Yes
-12663	H	Pan Europe	13126	R	Radio Oberösterreich	[ger]	Yes
-12663	H	Pan Europe	13127	R	Radio Salzburg	[ger]	Yes
-12663	H	Pan Europe	13128	R	Radio Tirol	[ger]	Yes
-12663	H	Pan Europe	13129	R	Radio Vorarlberg	[ger]	Yes
-12663	H	Pan Europe	13130	R	Radio Steiermark	[ger]	Yes
-12663	H	Pan Europe	13131	R	Radio Kärnten	[ger]	Yes
-12663	H	Pan Europe	13133	R	Hitradio Ö3	[ger]	Yes
-12663	H	Pan Europe	13134	R	Radio FM 4	[ger]	Yes
-12663	H	Pan Europe	13136	R	Radio U1 Tirol	[ger]	Yes
-12663	H	Pan Europe	13140	R	Radio Maria Österreich	[ger]	Yes
-12663	H	Pan Europe	13141	TV	TV 1 Oberösterreich	[ger]	Yes
-12692	H	Pan Europe	13003	TV	ORF 2 Wien (19.00-19.30)	[ger]	Yes
-12692	H	Pan Europe	13013	TV	Hitradio Ö3	[ger]	Yes
-12692	H	Pan Europe	13014	TV	ORF 2 Europe	[ger]	Yes
-12692	H	Pan Europe	13015	TV	Shop 24 Direct	[ger]	Yes
-12692	H	Pan Europe	13018	TV	Folx	[ger]	Yes
-12692	H	Pan Europe	13019	TV	RiC	[ger]	Yes
-12692	H	Pan Europe	13021	TV	N-TV Austria	[ger]	Yes
+No	Freq	Pol	Beam	SID	Name	Lang
+	10747	V	K1	7867	NRK P1 Oslo og Akershus	[nor]
+	10747	V	K1	7868	NRK P1 Troms	[nor]
+	10747	V	K1	7869	NRK P1 Finnmark	[nor]
+	10747	V	K1	7870	NRK P1 Nordland	[nor]
+	10747	V	K1	7871	NRK P1 Trøndelag	[nor]
+	10747	V	K1	7872	NRK P1 Møre og Romsdal	[nor]
+	10747	V	K1	7873	NRK P1 Sogn og Fjordane	[nor]
+	10747	V	K1	7874	NRK P1 Hordaland	[nor]
+	10747	V	K1	7875	NRK P1 Rogaland	[nor]
+	10747	V	K1	7876	NRK P1 Sørlandet	[nor]
+	10747	V	K1	7877	NRK P1 Telemark	[nor]
+	10747	V	K1	7878	NRK P1 Vestfold	[nor]
+	10747	V	K1	7879	NRK P1 Buskerud	[nor]
+	10747	V	K1	7880	NRK P1 Hedmark og Oppland	[nor]
+	10747	V	K1	7881	NRK P1 Østfold	[nor]
+	10747	V	K1	7882	NRK P2	[nor]
+	10747	V	K1	7883	NRK P3	[nor]
+	10747	V	K1	7884	NRK Klassisk	[nor]
+	10747	V	K1	7885	NRK Sápmi	[nor]
+	10747	V	K1	7886	NRK mP3	[nor]
+	10747	V	K1	7887	NRK Alltid Nyheter	[nor]
+	10747	V	K1	7888	NRK P13	[nor]
+	10747	V	K1	7889	NRK Været til sjøs	[nor]
+	10747	V	K1	7890	NRK Radio Super	[nor]
+	10747	V	K1	7891	NRK P1+	[nor]
+	10747	V	K1	7892	NRK Jazz	[nor]
+	10747	V	K1	7893	NRK Sport	[nor]
+	10747	V	K1	7894	NRK Folkemusikk	[nor]
+1	11357	H	T1	129	Gospel Channel Scandinavia	[nor]
+2	11357	H	T1	1809	TV Visjon Norge	[nor]
+3	11357	H	T1	6101	Kanal 10 Norge	[nor]
+4	11357	H	T1	7280	TV Vision Sverige	[swe]
+	11389	H	T1	1527	Radio Norge	[nor]
+	11389	H	T1	2813	Rás 1	[ice]
+	11389	H	T1	2814	Rás 2	[ice]
+	11389	H	T1	6022	Radio Rock	[nor]
+	11389	H	T1	6028	Radio Vinyl	[nor]
+	11389	H	T1	6032	Radio Topp 40	[nor]
+	11389	H	T1	7000	P4 Lyden av Norge	[nor]
+	11389	H	T1	7332	DR P3	[dan]
+	11688	H	Spot 2	1	Hona Baghdad TV	[ara]
+	11727	V	K2	30132	Focus Sat promo	[rum]
+	11747	H	K2	1004	TV Paprika Romania	[rum]
+	11747	H	K2	1011	FilmBox Basic	[bul][eng][hun]
+	11747	H	K2	1012	FilmBox Premium Romania	[rum]
+	11747	H	K2	1013	Eurosport 1 Romania	[rum]
+5	11747	H	K2	1017	Credo TV	[rum]
+	11747	H	K2	1019	Bollywood TV	[rum]
+	11747	H	K2	1021	Itsy Bitsy	[rum]
+	11747	H	K2	1022	Radio Chisinau	
+	11747	H	K2	1030	Mooz Dance	[rum]
+	11747	H	K2	1031	Mooz Dance	[rum]
+	11747	H	K2	1034	National Geographic Hungary & Czechia	[eng][hun]
+	11747	H	K2	1035	National Geographic România	[eng][rum]
+	11785	H	T2	3680	Petöfi Rádió	[hun]
+	11785	H	T2	3690	Kossuth Rádió	[hun]
+	11785	H	T2	3700	Bartók Rádió	[hun]
+	11785	H	T2	4001	Sláger FM	[hun]
+	11785	H	T2	4010	90.9 Jazzy	[hun]
+6	11804	V	K2	30315	CT 24	[cze]
+	11881	V	K2	30000-3/48PSK70-83	Telenor	
+	11881	V	K2	9030	Telenor Showcase 6	
+	11881	V	K2	9031	Telenor Showcase 7	
+	11881	V	K2	9032	Telenor Showcase 8	
+	11881	V	K2	9033	Telenor Showcase 9	
+	11881	V	K2	9034	Telenor Showcase 10	
+7	11900	H	K2	1025	Music Channel Romania	[rum]
+	11900	H	K2	2510	Digi FM	[rum]
+	11900	H	K2	2530	Pro FM (Romania)	[rum]
+	11900	H	K2	2540	Sport Total FM	[rum]
+	11900	H	K2	3330	Virgin Radio Romania	[rum]
+	11900	H	K2	3430	Rádió GaGa	
+	11900	H	K2	3610	Europa FM Moldova	[rum]
+	11900	H	K2	3620	Europa FM Muntenia	[rum]
+	11900	H	K2	3630	Europa FM Oltenia	[rum]
+	11900	H	K2	3640	Europa FM Banat	[rum]
+	11900	H	K2	3650	Europa FM Dobrogea	[rum]
+	11900	H	K2	3720	Europa FM Ardeal	[rum]
+	11900	H	K2	4130	Chill FM	[rum]
+	11900	H	K2	4140	Dance FM	[rum]
+	11900	H	K2	4150	Pro FM (Romania)	[rum]
+	11919	V	K2	31102	Cartoon Network Central & Eastern Europe	[cze][eng][hun]
+	11919	V	K2	31103	LiChi TV	[hun]
+	11919	V	K2	31104	National Geographic Hungary & Czechia	[cze][eng][hun]
+	11919	V	K2	31105	AMC Magyarország	[eng][hun]
+	11919	V	K2	31106	Viasat History	[cze][eng][hun]
+	11919	V	K2	31107	AMC Cesko	[cze][eng]
+	11919	V	K2	31108	Travel Channel Europe	[cze][eng][hun]
+	11919	V	K2	31109	Sláger TV	[hun]
+	11919	V	K2	31110	Mozi +	[hun]
+	11919	V	K2	31111	Investigation Discovery Europe	[cze][eng][hun]
+	11919	V	K2	31113	TV 4 (Hungary)	[hun]
+	11919	V	K2	31114	History Europe	[cze][eng][hun]
+	11919	V	K2	31115	Disney Channel Romania	[rum]
+	11919	V	K2	31116	M5	[hun]
+	11919	V	K2	31117	Humor +	[hun]
+	11919	V	K2	31118	Zenebutik	[hun]
+	11919	V	K2	31122	Humor +	[hun]
+	11919	V	K2	31124	Sláger TV	[hun]
+	11919	V	K2	31126	AMC Magyarország	[eng][hun]
+	11919	V	K2	31128	Kiwi TV	[hun]
+8	11958	V	K2	31201	Focus Sat promo	[rum]
+	11958	V	K2	31203	CNN International Europe	[eng]
+	11958	V	K2	31204	Nat Geo Wild Romania	[eng]
+	11958	V	K2	31209	Minimax Czechia	[cze][hun][slo]
+	11958	V	K2	31210	TLC Rômania	[rum]
+	11958	V	K2	31211	Spektrum Home Czech	[cze][slo]
+	11958	V	K2	31212	RTL II	[hun]
+	11958	V	K2	31213	RTL +	[hun]
+	11958	V	K2	31214	Sorozat +	[hun]
+	11958	V	K2	31215	Muzsika TV	[hun]
+	11958	V	K2	31216	MTV Music 24	[eng]
+	11958	V	K2	31217	RTL II	[hun]
+	11958	V	K2	31218	RTL +	[hun]
+	11958	V	K2	31219	RTL Gold	[hun]
+	11958	V	K2	31220	Sorozat +	[hun]
+	11958	V	K2	31221	Muzsika TV	[hun]
+	11958	V	K2	31223	Izaura TV	[hun]
+	11958	V	K2	31228	The Fishing & Hunting Channel	[bul][cze][hun][rum]
+	11958	V	K2	31231	The Fishing & Hunting Channel	[bul][cze][hun][rum]
+	11958	V	K2	31235	RTL Gold	[hun]
+	11958	V	K2	31236	Minimax Czechia (06-20)	[cze][hun][slo]
+	11958	V	K2	31237	Spektrum Home Czech	[cze][slo]
+	11996	V	K2	30417	[ITNM Systems test card]	
+	12073	V	K2	30605	M1 (Hungary)	[hun]
+	12073	V	K2	30607	M2	[hun]
+	12073	V	K2	30631	Nick Jr Czechia	[cze][eng][hun]
+	12073	V	K2	30632	Nick Jr România	[eng][hun][rum]
+	12073	V	K2	30633	Nickelodeon Czechia	[cze][eng][hun][slv][srp]
+	12073	V	K2	30634	Comedy Central România	[rum]
+	12073	V	K2	30635	RTL Spike	[hun][qaa]
+	12073	V	K2	30636	Nickelodeon Magyarország	[eng][est][hun][lav][rus][slo][srp][tur]
+	12073	V	K2	30637	Nick Jr Hungary	[eng][hun]
+	12073	V	K2	30638	MTV Hungary	[hun]
+	12073	V	K2	30639	Paramount Channel Romania	[hun][rum]
+	12073	V	K2	30640	Nickelodeon România	[eng][est][hun][lav][rum][rus][tur]
+	12073	V	K2	30641	Nicktoons România	[hun][rum]
+	12073	V	K2	30651	Nick Jr Czechia	[cze][eng]
+	12073	V	K2	30652	Nick Jr România	[eng][hun][rum]
+	12073	V	K2	30653	Nickelodeon Czechia	[cze][eng][hun]
+	12073	V	K2	30654	Comedy Central România	[rum]
+	12073	V	K2	30655	RTL Spike	[hun][qaa]
+	12073	V	K2	30656	Nickelodeon Magyarország	[eng][hun]
+	12073	V	K2	30657	Nick Jr Hungary	[eng][hun]
+	12073	V	K2	30658	MTV Hungary	[hun]
+	12073	V	K2	30659	Paramount Channel Romania	[hun][rum]
+	12073	V	K2	30660	Nickelodeon România	[eng][hun][rum]
+	12073	V	K2	30661	Nick Jr Czechia	[eng]
+	12073	V	K2	30666	Nickelodeon Magyarország	[eng][hun]
+	12073	V	K2	30667	Nick Jr Hungary	[eng][hun]
+	12073	V	K2	30668	MTV Hungary	[hun]
+	12073	V	K2	30671	Nicktoons România	[hun][rum]
+	12092	H	K2	11002	AXN White	[bul][cze][hun][rum]
+	12092	H	K2	11003	AXN Black	[bul][cze][hun][rum]
+	12092	H	K2	11004	AXN Central Europe	[cze][eng][hun]
+	12092	H	K2	11005	AXN Romania	[cze][eng][hun]
+	12092	H	K2	11006	AXN Czech Republic	[cze][eng]
+	12092	H	K2	11015	AXN White	[bul][cze][hun][rum]
+	12092	H	K2	11016	AXN Black	[bul][cze][hun][rum]
+	12092	H	K2	11017	Viasat 3	[hun][qaa]
+	12092	H	K2	11018	Viasat 6	[hun][qaa]
+	12092	H	K2	11019	Sony Max Hungary	[eng][hun]
+	12092	H	K2	11020	Sony Movie Channel Hungary	[eng][hun]
+	12092	H	K2	11029	Nicktoons Czechia	[cze][hun]
+9	12130	H	T2	2710	Galaxy 4	[hun]
+	12149	V	Ku	1583	Best FM (Slovakia)	[slo]
+	12149	V	Ku	1584	Fun rádio	[slo]
+	12149	V	Ku	1585	Fun rádio	[slo]
+	12149	V	Ku	1586	Fun rádio	[slo]
+	12149	V	Ku	1587	Fun rádio	[slo]
+	12149	V	Ku	1588	Fun rádio	[slo]
+	12149	V	Ku	1590	Rádio Expres Východ	[slo]
+	12149	V	Ku	1591	Rádio Expres Bratislava	[slo]
+	12149	V	Ku	1592	Rádio Expres	[slo]
+	12149	V	Ku	1593	Rádio Expres Zilina	[slo]
+	12149	V	Ku	1594	Rádio Expres Západ	[slo]
+	12149	V	Ku	1595	Rádio Expres Stred	[slo]
+	12149	V	Ku	1596	Europa 2	[slo]
+	12149	V	Ku	7340	History România	[eng][hun]
+	12188	V	T2	2520	Radio Vocea Sperantei	[rum]
+10	12188	V	T2	3270	Speranta TV	[rum]
+	12188	V	T2	3611	Kiss FM (Romania)	[rum]
+	12207	H	Ku	9025	Telenor Showcase 1	
+	12207	H	Ku	9026	Telenor Showcase 2	
+	12207	H	Ku	9027	Telenor Showcase 3	
+	12207	H	Ku	9028	Telenor Showcase 4	
+	12207	H	Ku	9029	Telenor Showcase 5	
+	12226	V	K2	501	Paramount Channel Hungary	[eng][hun]
+	12226	V	K2	502	Comedy Central Family Hungary	[hun]
+	12226	V	K2	503	Comedy Central Hungary	[hun]
+	12226	V	K2	504	Comedy Central Extra Central Europe	[eng]
+	12226	V	K2	505	Nickelodeon Europe	[bul][cze][eng][est][hrv][hun][lav][lit][rum][rus][slv][srp]
+	12226	V	K2	506	MTV Europe	[cze][eng][hun]
+	12226	V	K2	507	VH1 Europe	[eng]
+	12226	V	K2	508	MTV Hits	[eng]
+	12226	V	K2	509	MTV Dance	[eng]
+	12226	V	K2	510	VH1 Classic	[eng]
+	12226	V	K2	511	MTV Rocks	[eng]
+	12226	V	K2	515	Nickelodeon Europe	[lit]
+	12226	V	K2	516	MTV Europe	[cze][eng][hun]
+	12226	V	K2	517	VH1 Europe	[eng]
+	12226	V	K2	518	MTV Hits	[eng]
+	12226	V	K2	519	MTV Dance	[eng]
+	12226	V	K2	520	VH1 Classic	[eng]
+	12226	V	K2	521	MTV Rocks	[eng]
+	12265	V	T2	30901	Eurosport 1	[cze][eng][hun][rum]
+	12265	V	T2	30902	TLC Pan Regional	[cze][eng][hun]
+	12265	V	T2	30903	Discovery Channel Hungary	[cze][eng][hun]
+	12265	V	T2	30904	Viasat Explore East (05-23)	[cze][eng][hun]
+	12265	V	T2	30905	CBS Reality Europe	[cze][eng][hun][rum]
+	12265	V	T2	30906	Fem 3	[hun]
+	12265	V	T2	30907	Super TV 2	[hun]
+	12265	V	T2	30908	National Geographic România	[eng][rum]
+	12265	V	T2	30909	Private TV	[eng]
+	12265	V	T2	30910	Pro TV	[rum]
+	12265	V	T2	30911	Sport 1 Czechia	[cze][slo]
+	12265	V	T2	30912	Prime (Hungary)	[hun]
+	12265	V	T2	30913	[Plus info card]	
+	12265	V	T2	30914	Cinemax 2 Central Europe	[cze][hun][qaa][rum]
+	12265	V	T2	30915	Blue Hustler Europe (23-05)	[eng]
+	12265	V	T2	30916	Duna TV	[hun]
+	12265	V	T2	30917	Food Network EMEA	[cze][eng][hun]
+	12265	V	T2	30920	Hustler TV Europe	[eng]
+	12284	H	Ku	9015	Telenor Cinema 1	
+	12284	H	Ku	9016	Telenor Cinema 2	
+	12284	H	Ku	9017	Telenor Cinema 3	
+	12284	H	Ku	9018	Telenor Cinema 4	
+	12284	H	Ku	9019	Telenor Cinema 5	
+	12303	V	K2	900	Discovery Channel Hungary	[cze][eng][hun]
+	12303	V	K2	1100	Discovery Channel Central Europe	[bul][cze][eng][hun]
+	12303	V	K2	1101	Discovery Channel Central Europe	[bul][eng][hun][rum]
+	12303	V	K2	1102	Discovery Channel Central Europe	[eng][rus]
+	12303	V	K2	1300	Discovery Historia	[pol]
+	12303	V	K2	2300	DTX East Europe	[cze][eng][hun][rus]
+	12303	V	K2	2500	Discovery Showcase HD	[eng][rus][tur]
+	12303	V	K2	2501	Discovery Showcase HD	[cze][eng][hun]
+	12303	V	K2	2502	Discovery Showcase HD	[eng][rus]
+	12303	V	K2	2503	Discovery Showcase HD	[cze][eng]
+	12303	V	K2	2504	Discovery Showcase HD	[eng][tur]
+	12303	V	K2	2505	Discovery Showcase HD	[eng][hun]
+	12303	V	K2	2506	Discovery Showcase HD	[eng]
+	12303	V	K2	2600	Animal Planet Europe	[eng][pol][rus][tur]
+	12303	V	K2	2601	Animal Planet Europe	[cze][eng][hun][pol]
+	12303	V	K2	2602	Animal Planet Europe	[eng][rus]
+	12303	V	K2	2603	Animal Planet Europe	[cze][eng]
+	12303	V	K2	2604	Animal Planet Europe	[eng][tur]
+	12303	V	K2	2605	Animal Planet Europe	[eng][hun]
+	12303	V	K2	2700	Investigation Discovery Xtra	[eng][hun][rus][tur]
+	12303	V	K2	2701	Investigation Discovery Xtra	[bul][cze][eng][slv]
+	12303	V	K2	2702	Investigation Discovery Xtra	[ara][eng]
+	12303	V	K2	2800	Discovery Channel Polska	[eng][pol]
+	12303	V	K2	3000	DTX East Europe	[eng][rus][tur]
+	12303	V	K2	3001	DTX East Europe	[cze][eng][hun]
+	12303	V	K2	3002	DTX East Europe	[eng][rus]
+	12303	V	K2	3200	Discovery Science	[eng][hun][rus][tur]
+	12303	V	K2	3201	Discovery Science	[eng][hun]
+	12303	V	K2	3202	Discovery Science	[eng][tur]
+	12303	V	K2	3203	Discovery Science	[eng][rus]
+	12303	V	K2	3204	Discovery Science	[cze][eng]
+	12303	V	K2	3205	Discovery Science	[eng]
+	12322	H	Ku	9010	Telenor Sports 11	
+	12322	H	Ku	9011	Telenor Sports 12	
+	12322	H	Ku	9012	Telenor Sports 13	
+	12322	H	Ku	9013	Telenor Sports 14	
+	12322	H	Ku	9014	Telenor Sports 15	
+	12360	H	Ku	9005	Telenor Sports 6	
+	12360	H	Ku	9007	Telenor Sports 8	
+	12360	H	Ku	9008	Telenor Sports 9	
+	12360	H	Ku	9009	Telenor Sports 10	
+	12380	V	K2	6011	Cartoon Network Central & Eastern Europe	[cze][eng]
+	12380	V	K2	6012	Viasat Nature East	[cze][eng][hun]
+	12380	V	K2	6013	CT 3	[cze]
+	12380	V	K2	6014	AMC Cesko	[cze][eng]
+	12380	V	K2	6017	Joj Family	[slo]
+	12380	V	K2	6018	Nova Sport 2	[cze]
+	12380	V	K2	6019	Sport 1 Czechia	[cze][slo]
+	12380	V	K2	6020	Golf Channel Czechia	[cze]
+	12380	V	K2	6021	Prima Plus	[cze]
+	12380	V	K2	6023	TV Doma	[slo]
+	12380	V	K2	6024	Wau TV	[qaa][slo]
+	12380	V	K2	6025	Joj Cinema	[cze]
+	12380	V	K2	6028	Nova International	[cze]
+	12380	V	K2	6030	Discovery Channel Central Europe	[cze][eng][hun]
+	12380	V	K2	6031	Prima Zoom	[cze]
+11	12399	H	Ku	7056	Telenor promo	
+	12399	H	Ku	9000	Telenor Sports 1	
+	12399	H	Ku	9001	Telenor Sports 2	
+	12399	H	Ku	9002	Telenor Sports 3	
+	12399	H	Ku	9003	Telenor Sports 4	
+	12399	H	Ku	9004	Telenor Sports 5	
+13	12418	V	T2	519	CGTN	[eng]
+	12418	V	T2	917	ScanSat	[nor]
+14	12418	V	T2	2029	CGTN Documentary	[eng]
+15	12418	V	T2	2912	Aljazeera English	[eng]
+16	12418	V	T2	3837	Sky News International	[eng]
+	12418	V	T2	4609	Brunstad TV	[bul][dut][eng][fin][fre][ger][hun][ita][nor][pol][por][rum][rus][slv][spa][tur]
+17	12418	V	T2	7814	History România	[eng][hun]
+18	12418	V	T2	7815	History Europe	[eng][hun][rus][tur]
+19	12418	V	T2	7816	Crime + Investigation UK	[cze][eng]
+	12607	H	Spot 3	1	Rossiya 1	[rus]
+	12607	H	Spot 3	2	Soyuz	[rus]
+	12607	H	Spot 3	3	Match!	[rus]
+	12607	H	Spot 3	4	Raz TV	[rus]
+	12607	H	Spot 3	5	Okhota i Rybalka	[rus]
+	12607	H	Spot 3	6	Juce TV (22.30-10.30)	[eng]
+	12607	H	Spot 3	6	Smile TV (10.30-22.30)	[eng]
+	12607	H	Spot 3	7	Rossiya 24	[rus]
+	12607	H	Spot 3	8	TBN Rossiya	[rus]
+	12607	H	Spot 3	9	Ulibka Rebyonka	[rus]
+	12607	H	Spot 3	11	Russian Music Box	[rus]
+	12607	H	Spot 3	12	RTR Planeta	[rus]
+	12607	H	Spot 3	13	STS	[rus]
+	12607	H	Spot 3	14	Rossiya 1 Chita	[rus]
+	12607	H	Spot 3	15	Shanson TV	[rus]
+	12607	H	Spot 3	16	Perviy kanal (0h)	[rus]
+	12607	H	Spot 3	17	Kinomiks	[rus]
+	12607	H	Spot 3	18	Top Shop TV Russia	[rus]
+	12607	H	Spot 3	19	TV Centr Evropa	[rus]
+	12607	H	Spot 3	20	TV Mall (Russia)	[rus]
+	12607	H	Spot 3	21	Domashniy	[rus]
+	12607	H	Spot 3	22	Telekanal Zvezda (0h)	[rus]
+	12607	H	Spot 3	23	Match! Planeta	[rus]
+	12607	H	Spot 3	24	5 Kanal (0h)	[rus]
+	12607	H	Spot 3	41	Humor FM	[rus]
+	12607	H	Spot 3	42	Radio Dlya Dvoih	[rus]
+	12607	H	Spot 3	43	Radio Romantika	[rus]
+	12607	H	Spot 3	44	Avtoradio Moskva (0h)	[rus]
+	12607	H	Spot 3	45	Radio Vanya	[rus]
+	12607	H	Spot 3	46	NRJ Russia	[rus]
+	12607	H	Spot 3	47	DFM	[rus]
+	12607	H	Spot 3	48	Vashe Radio	[rus]
+	12607	H	Spot 3	49	Russkoe Radio	[rus]
+	12607	H	Spot 3	50	Hit FM (Russia)	[rus]
+	12643	H	Spot 3	25	Rodnoe Kino	[rus]
+	12643	H	Spot 3	26	Nashe Novoe Kino	[rus]
+	12643	H	Spot 3	27	Kinosemja	[rus]
+	12643	H	Spot 3	28	Kinohit	[rus]
+	12643	H	Spot 3	29	Kanal Disney	[rus]
+	12643	H	Spot 3	31	MTV Dance	[eng]
+	12643	H	Spot 3	32	O'zbekiston	[uzb]
+	12643	H	Spot 3	33	VH1 Classic	[eng]
+	12643	H	Spot 3	34	Kinosvidanie	[rus]
+	12643	H	Spot 3	35	EuroNews Russkiy	[rus]
+	12643	H	Spot 3	36	RBK TV	[rus]
+	12643	H	Spot 3	37	TV Sale	[rus]
+	12643	H	Spot 3	38	TV 3 (0h)	[rus]
+	12643	H	Spot 3	39	Match! Arena	[rus]
+	12643	H	Spot 3	40	Match! Futbol 1	[rus]
+	12643	H	Spot 3	53	Militseyskaya Volna	[rus]
+	12643	H	Spot 3	54	Comedy Radio	[rus]
+	12643	H	Spot 3	55	Radio Komsomolskaya Pravda	[rus]
+	12643	H	Spot 3	56	Relax FM	[rus]
+	12643	H	Spot 3	57	Echo Moskva	[rus]
+	12643	H	Spot 3	58	Detskoe Radio Moskva	[rus]
+	12643	H	Spot 3	59	Radio Zenit (Russia)	[rus]
+	12643	H	Spot 3	60	Pioner FM	[rus]
+	12643	V	Spot 3	1038	(feeds)	
+	12643	V	Spot 3	1039	Tivi 5 Monde	[fre]
+	12643	V	Spot 3	1040	TV 5 Monde Afrique	[fre]
+	12643	V	Spot 3	1041	TV 5 Monde Europe	[fre]
+	12643	V	Spot 3	1042	TV 5 Monde Europe	[fre]
+	12643	V	Spot 3	1043	TV 5 Monde France Belgique Suisse	[fre]
+	12643	V	Spot 3	1044	TV 5 Monde Maghreb-Orient	[fre]
+	12643	V	Spot 3	1045	TV 5 Monde Pacifique	[fre]
+	12643	V	Spot 3	1046	TV 5 Monde Style HD	[fre]
+20	12687	H	Spot 3	1011	U TV (Romania)	[rum]
+	12687	H	Spot 3	2680	Mária Rádió Erdély	[hun]
+	12687	H	Spot 3	2680	Mária Rádió Hungary	[hun]
+	12687	H	Spot 3	3670	Radio Maria Romania	[rum]
+	12687	V	Spot 3	7011	Epic Drama	[cze][hun][qaa]
+	12687	V	Spot 3	7012	Seznam	[cze]
+	12687	V	Spot 3	7013	Prima Love	[cze]
+	12687	V	Spot 3	7014	Prima Cool	[cze]
+	12687	V	Spot 3	7015	Prima Max	[cze]
+	12687	V	Spot 3	7016	Radio Dálnice	[cze]
+	12687	V	Spot 3	7017	Nova Cinema	[cze]
+	12723	H	Spot 3	2516	Vibe FM	[rum]
