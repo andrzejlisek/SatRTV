@@ -1,5 +1,0 @@
-E5WA C-Band
-E5WA Steerable
-E5WA Super
-E5WA Wide
-E5WB Transalpine

@@ -475,29 +475,34 @@ namespace SatRTV
             int IdxSID = 0;
             int IdxFTA = 0;
             int IdxLang = 0;
+            int IdxName = 0;
             if (this is AppCoreSat_1KingOfSat)
             {
                 IdxSID = 10;
                 IdxFTA = 17;
                 IdxLang = 12;
+                IdxName = 5;
             }
-            if (this is AppCoreSat_2LyngSat)
+            if (this is AppCoreSat_2LyngSat2)
             {
-                IdxSID = 8;
-                IdxFTA = 6;
+                IdxSID = 5;
+                IdxFTA = 7;
                 IdxLang = 10;
+                IdxName = 6;
             }
             if (this is AppCoreSat_3FlySat)
             {
                 IdxSID = 9;
                 IdxFTA = 6;
                 IdxLang = 8;
+                IdxName = 5;
             }
             if (this is AppCoreSat_4SatBeams)
             {
                 IdxSID = 14;
                 IdxFTA = 8;
                 IdxLang = 13;
+                IdxName = 5;
             }
 
             // Load file into list
@@ -527,7 +532,7 @@ namespace SatRTV
                 Tab[4] = Raw[4];
 
                 // Name
-                Tab[5] = Raw[5];
+                Tab[5] = Raw[IdxName];
 
                 // Lang
                 Tab[6] = Raw[IdxLang];
@@ -704,7 +709,7 @@ namespace SatRTV
                 IdxTxp = 3;
                 IdxBeam = 4;
             }
-            if (this is AppCoreSat_2LyngSat)
+            if (this is AppCoreSat_2LyngSat2)
             {
                 IdxFreq = 0;
                 IdxPol = 1;
@@ -1350,10 +1355,10 @@ namespace SatRTV
                 }
             }
 
-            if (FreqOutOfBand)
+            /*if (FreqOutOfBand)
             {
                 throw new Exception("Frequency out of band: " + Freq.ToString());
-            }
+            }*/
 
             return FreqAllowed;
         }

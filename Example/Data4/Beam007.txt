@@ -1,5 +1,0 @@
-EuropeA
-EuropeB
-EuropeC
-SEAfrica
-SubSaharan

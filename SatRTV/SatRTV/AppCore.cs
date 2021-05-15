@@ -34,7 +34,7 @@ namespace SatRTV
         }
 
         public AppCoreSat_1KingOfSat CoreKingOfSat;
-        public AppCoreSat_2LyngSat CoreLyngSat;
+        public AppCoreSat_2LyngSat2 CoreLyngSat;
         public AppCoreSat_3FlySat CoreFlySat;
         public AppCoreSat_4SatBeams CoreSatBeams;
         public AppCoreNo AppCoreNo_;
@@ -55,20 +55,25 @@ namespace SatRTV
         public string[] ListTransFields = null;
         public string[] ListChanFields = null;
 
+        public string DataPath = "";
+        public string EnigmaPath = "";
+        public string EnigmaDatabase = "";
+
+        public string AutoCommand = "";
+
+        public Enigma Enigma_;
+
         public AppCore()
         {
+            Enigma_ = new Enigma();
+
             CoreKingOfSat = new AppCoreSat_1KingOfSat();
-            CoreLyngSat = new AppCoreSat_2LyngSat();
+            CoreLyngSat = new AppCoreSat_2LyngSat2();
             CoreFlySat = new AppCoreSat_3FlySat();
             CoreSatBeams = new AppCoreSat_4SatBeams();
             AppCoreNo_ = new AppCoreNo();
             ConfigFile CF = new ConfigFile();
             CF.FileLoad(ApplicationDirectory() + "Config.txt");
-            CoreKingOfSat.TempDir = ApplicationDirectory() + "Data1" + Path.DirectorySeparatorChar;
-            CoreLyngSat.TempDir = ApplicationDirectory() + "Data2" + Path.DirectorySeparatorChar;
-            CoreFlySat.TempDir = ApplicationDirectory() + "Data3" + Path.DirectorySeparatorChar;
-            CoreSatBeams.TempDir = ApplicationDirectory() + "Data4" + Path.DirectorySeparatorChar;
-            AppCoreNo_.TempDir = ApplicationDirectory();
 
             CF.ParamGet("SetBand1", ref Band1);
             CF.ParamGet("SetBand2", ref Band2);
@@ -81,6 +86,33 @@ namespace SatRTV
 
             CF.ParamGet("SetFTA", ref FTA);
             CF.ParamGet("SetTransWithChan", ref TransCh);
+
+            CF.ParamGet("DataPath", ref DataPath);
+            CF.ParamGet("EnigmaPath", ref EnigmaPath);
+            CF.ParamGet("EnigmaDatabase", ref EnigmaDatabase);
+            CF.ParamGet("EnigmaFrequency", ref Enigma_.TransFrequencyDelta);
+            CF.ParamGet("AutoCommand", ref AutoCommand);
+
+            if (DataPath.Length > 0)
+            {
+                if (!DataPath.EndsWith(Path.DirectorySeparatorChar.ToString()))
+                {
+                    DataPath = DataPath + Path.DirectorySeparatorChar;
+                }
+            }
+            if (EnigmaPath.Length > 0)
+            {
+                if (!EnigmaPath.EndsWith(Path.DirectorySeparatorChar.ToString()))
+                {
+                    EnigmaPath = EnigmaPath + Path.DirectorySeparatorChar;
+                }
+            }
+
+            CoreKingOfSat.TempDir = DataPath + "Data1" + Path.DirectorySeparatorChar;
+            CoreLyngSat.TempDir = DataPath + "Data2" + Path.DirectorySeparatorChar;
+            CoreFlySat.TempDir = DataPath + "Data3" + Path.DirectorySeparatorChar;
+            CoreSatBeams.TempDir = DataPath + "Data4" + Path.DirectorySeparatorChar;
+            AppCoreNo_.TempDir = DataPath;
 
             ListTransFields = CF.ParamGetS("SetTransFields").Split('|');
             ListChanFields = CF.ParamGetS("SetChanFields").Split('|');
@@ -107,6 +139,11 @@ namespace SatRTV
                 CoreSatBeams.SatAddr.Add(CF.ParamGetS("Sat" + i.ToString() + "SatBeams"));
                 CoreLyngSat.SpanChange.Add(new Dictionary<int, int>());
                 CoreFlySat.SpanChange.Add(new Dictionary<int, int>());
+
+                string E1 = CF.ParamGetS("Sat" + i.ToString() + "EnigmaId");
+                string E2 = CF.ParamGetS("Sat" + i.ToString() + "EnigmaBouquetTv");
+                string E3 = CF.ParamGetS("Sat" + i.ToString() + "EnigmaBouquetRadio");
+                Enigma_.EnigmaConfig_.Add(new Enigma.EnigmaConfig(E1, E2, E3));
 
                 SpanCountWork = true;
                 SpanCount = 0;

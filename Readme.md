@@ -16,47 +16,31 @@ The other ability and purpose is the create enumerated list of stations, which i
 
 SatRTV requires \.NET or MONO library to run and use, it was implemented and tested on Windows and Ubuntu Linux\.
 
+## Enigma 2 receivers
+
+The additional ability of SatRTV is creating bouquet list for satellite receivers based on Enigma 2 system and compatible\.
+
+This program does not modify or remove any Enigma 2 configuration files\. It creates additional files and you have to rename and replace original files manually\.
+
+in some cases, tuner erroneously classifies some channels, for example:
+
+
+* Encrypted channel as FTA channel\.
+* Radio channel as TV channel\.
+* Data channel as radio channel\.
+
+The internet data sources has usually good classified channels by encryption \(FTA or encrypted\) and type \(radio or TV or data\)\. The SatRTV makes creating bouquet list mach easier than creating them manually\.
+
 # Configuration file
 
 This application uses the text file **Config\.txt** placed in executable file directory\. The configuration is organized by **parameter=value**\. The line order in file does not affect in program working\.
-
-Every parameter name starts with **Sat** followed by satellite number \(the first satellite has number 0\)\. The satelite count is detected by first satellite number without name \(lack of parameter has the same meaning as parameter with blank value\)\.
-
-## Basic parameters
-
-For satellite **0**, there are following parameters:
-
-
-* **Sat0Name** \- Name of satellite displayed in application\.
-* **Sat0KingOfSat** \- Satellite data URL from KingOfSat\.
-* **Sat0LyngSat** \- Satellite data URL from LyngSat\.
-* **Sat0FlySat** \- Satellite data URL from FlySat\.
-* **Sat0SatBeams** \- Satellite data URL from SatBeams\.
-* **Sat0Selected** \- This satellite is selected by default\.
-
-For other satellites, the **0** must be replaced by next numbers, without ommiting any number or there will be included satellites prior to ommited number\. For example, for satellite **5**, there will be following parameters: **Sat5Name**, **Sat5KingOfSat**, **Sat5LyngSat**, **Sat5FlySat**, **Sat5SatBeams**, **Sat5Selected**\.
-
-## Additional parameters
-
-The LyngSat and FlySat table layout contains the column with several row span, which describes transponder\. Sometimes, it is possible, that there is mistake in row span number or there are unreadable rows\. In this cases, data parsing will be broken with exception or the parses data will be erronous\. The parsed data from mentioned sources has row number, which identifies table row, the one row is the one transponder\. In case of exception due to mentioned mistake, there will be displayed the current and previous row number and the parsed file will be saved\.
-
-In the **Config\.txt** file there is possible to change number of row span for specified row \(read from parsed data text file\)\.
-
-
-* **Sat0LyngSatRowSpan0Row** \- The first number of row to change in LyngSat for satellite **0**\.
-* **Sat0LyngSatRowSpan0Val** \- The change value \(relative to original\) for the first row in LyngSat for satellite **0**\.
-* **Sat0FlySatRowSpan0Row** \- The first number of row to change in FlySat for satellite **0**\.
-* **Sat0FlySatRowSpan0Val** \- The change value \(relative to original\) for the first row in FlySat for satellite **0**\.
-
-The next necessary changes have next numbers after **Span** element like this: **Sat0FlySatRowSpan1Row**, **Sat0FlySatRowSpan1Val**, **Sat0FlySatRowSpan2Row**, **Sat0FlySatRowSpan2Val**\.
-
-For other satellites, the number after **Sat** element means satellite number\.
 
 ## Default configuration parameters
 
 You can specify the default configuration parameters used in creating transponder and channel lists\. For each parameter, the value can be **0** or **1**:
 
 
+* **DataPath** \- Path for data files, which will be downloaded and created**\.**
 * **SetBand1** \- Include C band transponders \(3400MHz \- 4200MHz\)\.
 * **SetBand2** \- Include Ku band transponders \(10700MHz \- 12750MHz\)\.
 * **SetBand3** \- Include Ka band transponders \(18200MHz \- 22200MHz\)\.
@@ -68,6 +52,15 @@ You can specify the default configuration parameters used in creating transponde
 * **SetTransWithChan** \- Include only transponders in transponder list, which contains at least one channel included in channel list\.
 
 All above settings can be changed during application running\.
+
+## Enigma 2 related settings
+
+The additional settings, which are related to Enigma2, are following:
+
+
+* **EnigmaPath** \- Path, where E2 setting files are placed\. You must download files from receiver using appropriate software\.
+* **EnigmaDatabase** \- Name of file, which consists of transponder and channel informations, usually **lamedb**\.
+* **EnigmaFrequency** \- Transponder frequency tolerance used while matching channel list to E2 database items\.
 
 ## Transponder list and channel list layout
 
@@ -119,7 +112,34 @@ The **SetTransNoListMode** and **SetChanNoListMode** is the digital value list s
 
 The value is not applicable to **No** field, because the list is generated based on the **No** field, so the value for the field does not impact the list creating\.
 
-# Using application
+## Sattellite parameters
+
+Every parameter name starts with **Sat** followed by satellite number \(the first satellite has number 0\)\. The satelite count is detected by first satellite number without name \(lack of parameter has the same meaning as parameter with blank value\)\.
+
+For satellite **0**, there are following parameters:
+
+
+* **Sat0Name** \- Name of satellite displayed in application\.
+* **Sat0KingOfSat** \- Satellite data URL from KingOfSat\.
+* **Sat0LyngSat** \- Satellite data URL from LyngSat\.
+* **Sat0FlySat** \- Satellite data URL from FlySat\.
+* **Sat0SatBeams** \- Satellite data URL from SatBeams\.
+* **Sat0Selected** \- This satellite is selected by default\.
+
+For other satellites, the **0** must be replaced by next numbers, without ommiting any number or there will be included satellites prior to ommited number\. For example, for satellite **5**, there will be following parameters: **Sat5Name**, **Sat5KingOfSat**, **Sat5LyngSat**, **Sat5FlySat**, **Sat5SatBeams**, **Sat5Selected**\.
+
+## Enigma 2 parameters
+
+If you want to create or sort Enigma 2 bouquet, you have to set additional parameters for satellites, which you want to support:
+
+
+* **Sat0EnigmaId** \- The internal E2 satellite identifier, usually cretated from position, for example, the Astra satellite placed on 19\.2E is identified as 192\.
+* **Sat0EnigmaBouquetTv** \- The file name containing TV channel bouquet\.
+* **Sat0EnigmaBouquetRadio** \- The file name containing radio channel bouquet\.
+
+For other satellites, the number after **Sat** element means satellite number\.
+
+# Creating channel list
 
 This application runs in text console, displays satellites \(the selected satellite will be indicated by **\#**\), current configuration and waits for command from user\. Every command consists of one word \(input is not case sensitive\) or has word and parameter separated by space\. If entered command is not correct or not supported, there wil be displayed list of all possible commands\. After command executed, the satellite list and configuration will be redisplayed\.
 
@@ -158,7 +178,7 @@ The parsed data are saved in three text files per earch selected satellite \(the
 * **ChanDataNNN\.txt** \- Channel data\.
 * **BeamNNN\.txt** \- All unique transponder beams used in the satellite, sorted alphabetically\.
 
-The first two files stores almost all available data\. If files has incorrect layout or parsing process is broken due to incorrectness HTML file, you can manually correct the HTML file and repeat parse\. For LyngSat and FlySat you can change row spanning for tables when necessary as described in configuration file desctiption\. After hanging configuration file, you have to restart SatRTV application\. Eventually, you can manually correct output text files\.
+The first two files stores almost all available data\. If files has incorrect layout or parsing process is broken due to incorrectness HTML file, you have manually correct the HTML file and repeat parse\. Eventually, you can manually correct output text files\.
 
 The third file stores all beam names, which occured in this satellite\.
 
@@ -240,7 +260,7 @@ This operation will generate the following files:
 
 These images are based on information from **TransListNNN\.txt** \(the **NNN** is the satellite number\) files for selected satellites\.
 
-The image height is the same as number of selected satellites\. The image width is the same as band width in MHz with incremented by\. The background is black, the pixels may have one of following colors:
+The image height is the same as number of selected satellites\. The image width is the same as band width in MHz with incremented by 1\. The background is black, the pixels may have one of following colors:
 
 
 * **Red** \- Transponder with horizontal or right polarization\.
@@ -273,6 +293,81 @@ The **SetChanNoListMode** value is not applicable to **No** field, because the l
 
 You can create the enumerated transponder list by exactly the same principle as the enumerated thannel list creating\. It uses the **TransListNNN\.txt** file from **DataS** directory and creates the **TransListNNN\.txt** file\. To to this you have to execute the **TRANSNO S** command\. It uses the **SetTransNoListFields** and **SetTransNoListMode** parameters from Config\.txt, but the 2 value for **SetTransNoListMode** is not usable in the transponder list\.
 
+# Creating bouquets for E2 receiver
+
+If you create channel list using **LIST S** command, you can create the buquet, whis is usable in your satellite receiver\. SatRTV does not creating channel list itself, it only creates bouquet using existing E2 channel database and channel list created by SatRTV\.
+
+SatRTV does not modify any of E2 configuration fies\. It will create files and you will have to appropriate remove original file and rename created file to use in Enigma 2 receiver\.
+
+## Preparing E2 channel database
+
+At the first, you have to fully scan satellite for all channels\. It is recommended to include non\-FTA channels and data channels\. You can perform blind scan or use transponder list\. If you want to receive from several satellites, repeat this scaning for every satellite\.
+
+Then, download setting files from receiver to computer\. For every satellite, you have to create at least one bouquet file \(for radio channels only or TV channels only\), you can leave the file blank\. If you want to have both radio and TV channels, you have to create two bouquet files\.
+
+## Configuring SatRTV
+
+You have to configure parameters related to Enigma 2, at the first, set the **EnigmaPath** to path, where you placed files downloaded from tuner\. Then, for every satellite, you have to configure **Sat0EnigmaId**\. The **Sat0EnigmaBouquetTv** and **Sat0EnigmaBouquetRadio** are optional\. For example, if you want to create on bouquet, which contains TV channels and you do not want to have radio channels, leave the **Sat0EnigmaBouquetRadio** parameter blank or unset\.
+
+Usually, the bouquet files has the **\.tv** or **\.radio** extension\. The **Sat0EnigmaId** value van be viewed in **EnigmaDatabase** file \(usually **lamedb**\)\. In the **lamedb** file, from `transponders` word to first occurence of `end` word, there are defined transponders\. Each transponder is defined by three lines, the second lines begins with `c` or `s` character\. The identifier is between fourth and fifth colon\.
+
+Also, you have to check the **SetChanFields** parameter\. The bouquet creator uses channel list and channel list must contain at least following fields: **Freq**, **Pol**, **SID**, **Type**\. Other fields can exist, but values of them will not be used\.
+
+## Creating channel list
+
+At the next step, create the channel list as described in **Creating channel list** chapter\. You can also create or edit the cannel list manually\. Values of fields other than **Freq**, **Pol**, **SID** and **Type** will not be user, so there are not important\. The file must have the name **ChanListXXX\.txt** in **DataS** subdirectory, where **XXX** is the satellite number and **S** is the number of source, from **1** to **4**\.
+
+## Creating the bouquets
+
+To create bouquet, perform the **ENIGMALIST S** command, where S is a number from 1 to 4\. This operation will read the bouquet name from provided bouquet file \(the name is saved inside the file\) and will create two files in the E2 settins directory, but with additional extensions:
+
+
+* **\.txt** \- The new bouqued file, compatible as original file replacement\.
+* **\.log** \- The log file\.
+
+For every channel in **ChanListXXX\.txt**, the SatRTV will attempt to match the nearest channel from E2 database\. Found channel must match all the following conditions:
+
+
+* The same SID number\.
+* The same transponder polarity\.
+* The matching channel type:
+  * In TV bouquet: **TV**, **IMG**\.
+  * In radio bouquet: **R**\.
+* The transponder frequency differs at most the value set as **EnigmaFrequency**\.
+
+If more than one channel matches this conditions, there will be selected this channel, to which the frequency difference is the smallest\. If there two channels have the same frequency difference, the channel will not be selected and the fact will be denoted as **abiguous channel** in log file\.
+
+The log file will have the following fields: **Freq**, **Pol**, **SID**, **Type**, **Comment**\. The first four field value will be copied from **ChanListXXX\.txt**\. The last is the comment about matching channel from database and can have the following values:
+
+
+* **Channel found** \- For this item there is found matching channel\.
+* **Type mismatch** \- The channel type denoted in **ChanListXXX\.txt** file does not match the bouquet type, the channel type denoted in E2 database will not matter\. It occurs in the following cases:
+  * In the TV bouquet: for **R** and **DATA** channels\.
+  * In the radio bouquet: for **TV**, **IMG** and **DATA** channels\.
+* **Channel not exists** \- For the item there is not exist the matching channel in E2 database\.
+* **Ambiguous channel** \- There are more than one matching channel\.
+
+The bouquet will be sorted by the following order:
+
+
+* Transponder frequency\.
+* Polarity \(H, V, L, R\), if there are several transponders with the same frequency,
+* Channel SID within one transponder\.
+
+## Uploading to receiver
+
+The new bouquet will have the **\.txt** extension\. You can remove the **\.log** file\. To finish, remove the original bouquet file \(provided as **Sat0EnigmaBouquetTv** or **Sat0EnigmaBouquetRadio** parameter\) and remove the **\.txt** extension from the new file\. The new file will have the same name as old file\.
+
+Then, you can upload the setting files into your satellite receiver\.
+
+# Sorting the bouquets
+
+If you have the bouquet created manually or using the other software, you can order this bouquet by frequency, polarity and SID\. To do this, prepare settingand E2 files in the same way as for creating bouquets\.
+
+Insteat of download and make the channel list, perform the **ENIGMASORT** command\. There will be created the additional file with **\.txt** extension\. You have to remove the origial bouqued file and remove the **\.txt** extenstion from new file name\.
+
+Then, you can upload E2 files into receiver\.
+
 # Errors and exceptions
 
 SatRTV was successfully tested with data about following satellites \(orbital positions\):
@@ -283,5 +378,7 @@ SatRTV was successfully tested with data about following satellites \(orbital po
 * **19\.2E \(Astra 1 group\)** \- FlySat: Radio non\-FTA stations are on separate page, which was not tested and must be treated as separate satellite\.
 
 If you experience any uncommon errors in parsing, which are not due to errors or mistakes on source data pages, report it as bug providing satellite link page causing the problem\.
+
+
 
 
